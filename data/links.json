@@ -1,8 +1,36 @@
 {
+  "name": "links.json",
+  "path": "data/links.json",
+  "sha": "2a2343245f79be90083855d70b40280a1c7e6ef6",
+  "size": 136,
+  "url": "https://api.github.com/repos/YCBInfo/cancer-links/contents/data/links.json?ref=main",
+  "html_url": "https://github.com/YCBInfo/cancer-links/blob/main/data/links.json",
+  "git_url": "https://api.github.com/repos/YCBInfo/cancer-links/git/blobs/2a2343245f79be90083855d70b40280a1c7e6ef6",
+  "download_url": "https://raw.githubusercontent.com/YCBInfo/cancer-links/main/data/links.json",
+  "type": "file",
+  "content": "ew0KICAiYXJ0aWNsZXMiOiBbDQogICAgeyJ0aXRsZSI6ICJBcnRpY2xlIDEi\nLCAuLi59LA0KICAgIHsidGl0bGUiOiAiQXJ0aWNsZSAyIiwgLi4ufSwNCiAg\nICAuLi4NCiAgXSwNCiAgInRvdGFsX2NvdW50IjogMiAob3IgbW9yZSkNCn0N\nCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/YCBInfo/cancer-links/contents/data/links.json?ref=main",
+    "git": "https://api.github.com/repos/YCBInfo/cancer-links/git/blobs/2a2343245f79be90083855d70b40280a1c7e6ef6",
+    "html": "https://github.com/YCBInfo/cancer-links/blob/main/data/links.json"
+  },
   "articles": [
-    {"title": "Article 1", ...},
-    {"title": "Article 2", ...},
-    ...
+    {
+      "id": "article_1769085511997",
+      "title": "Effects of estradiol, tamoxifen, and raloxifene on human temporal lobe cortex astroglial cell spreading.",
+      "summary": "Here's a clear, concise summary sentence:\n\nEstrogen-related compounds like estradiol and tamoxifen can alter the cellular spread of brain astrocytes, potentially impacting neurological function.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41568550/",
+      "source": "PubMed",
+      "category": "Emerging Research",
+      "cancer_types": [
+        "General"
+      ],
+      "quality_score": 12,
+      "pub_date": "2026-01",
+      "added_date": "2026-01-22T12:38:31.997Z"
+    }
   ],
-  "total_count": 2 (or more)
+  "last_updated": "2026-01-22T12:38:31.997Z",
+  "total_count": 1
 }
