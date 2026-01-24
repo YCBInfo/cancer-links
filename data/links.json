@@ -1,6 +1,25 @@
 {
   "articles": [
     {
+      "id": "article_1769275059001",
+      "title": "metaFun: An analysis pipeline for metagenomic big data with fast and unified functional searches.",
+      "summary": "metaFun is a comprehensive computational pipeline that streamlines metagenomic analysis, validated using a colorectal cancer dataset to improve research reproducibility.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41530917/",
+      "source": "PubMed",
+      "categories": [
+        "Diagnostic Tools",
+        "Clinical Trials",
+        "Emerging Research"
+      ],
+      "cancer_types": [
+        "Colorectal",
+        "Leukemia"
+      ],
+      "quality_score": 15,
+      "pub_date": "2026-01",
+      "added_date": "2026-01-24T17:17:39.001Z"
+    },
+    {
       "id": "article_1769275049182",
       "title": "Multi-platform analysis of the tumor immune microenvironment associated with breast cancer subtypes.",
       "summary": "A comprehensive analysis revealed distinct immune cell infiltration patterns across breast cancer subtypes, with Basal-like tumors showing the most complex and rich immune microenvironment.",
@@ -2193,6 +2212,6 @@
       "added_date": "1/23/2026"
     }
   ],
-  "last_updated": "2026-01-24T17:17:29.182Z",
-  "total_count": 126
+  "last_updated": "2026-01-24T17:17:39.001Z",
+  "total_count": 127
 }
