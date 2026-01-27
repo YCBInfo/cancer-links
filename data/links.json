@@ -1,6 +1,23 @@
 {
   "articles": [
     {
+      "id": "article_1769543438519",
+      "title": "ProteoBoostR: an interactive framework for supervised machine learning in clinical proteomics.",
+      "summary": "Here's a clear, concise summary sentence:\n\nProteoBoostR provides a user-friendly machine learning tool to help researchers more easily analyze protein data for potential cancer classification.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41580610/",
+      "source": "PubMed",
+      "categories": [
+        "Diagnostic Tools",
+        "Emerging Research"
+      ],
+      "cancer_types": [
+        "General"
+      ],
+      "quality_score": 12,
+      "pub_date": "2026-01",
+      "added_date": "2026-01-27T19:50:38.519Z"
+    },
+    {
       "id": "article_1769543429436",
       "title": "Exploring the link between Mycobacterium avium subsp. Paratuberculosis and colorectal cancer development.",
       "summary": "Here's a clear, concise summary sentence focusing on the key finding:\n\nResearch suggests that Mycobacterium avium bacteria from infected livestock may increase inflammation and potentially contribute to colorectal cancer risk.",
@@ -3517,26 +3534,8 @@
       "quality_score": 15,
       "pub_date": "2026-01",
       "added_date": "2026-01-27T00:00:00.000Z"
-    },
-    {
-      "id": "article_41580512_20260127",
-      "title": "Development of capsaicin-derived prohibitin ligands to modulate the Aurora kinase A/PHB2 interaction and mitophagy in cancer cells.",
-      "summary": "A capsaicin-derived compound selectively inhibits mitophagy in breast cancer cells by targeting the interaction between Aurora kinase A and PHB2 protein.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41580512/",
-      "source": "PubMed",
-      "categories": [
-        "Supplements & Nutraceuticals",
-        "Emerging Research"
-      ],
-      "cancer_types": [
-        "Breast",
-        "Leukemia"
-      ],
-      "quality_score": 15,
-      "pub_date": "2026-01",
-      "added_date": "2026-01-27T00:00:00.000Z"
     }
   ],
-  "last_updated": "2026-01-27T19:50:29.436Z",
+  "last_updated": "2026-01-27T19:50:38.519Z",
   "total_count": 200
 }
