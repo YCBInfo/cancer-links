@@ -1,6 +1,25 @@
 {
   "articles": [
     {
+      "id": "article_1769518757207",
+      "title": "DSP502 combines dual inhibition of PD-L1 and PVR to trigger anti-cancer immune responses.",
+      "summary": "DSP502, a novel dual-targeting protein, blocks cancer immune checkpoints PD-L1 and PVR to enhance anti-tumor immune responses across multiple cancer types.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41578832/",
+      "source": "PubMed",
+      "categories": [
+        "Emerging Research",
+        "Clinical Trials"
+      ],
+      "cancer_types": [
+        "Lung",
+        "Colorectal",
+        "Leukemia"
+      ],
+      "quality_score": 15,
+      "pub_date": "2026-01",
+      "added_date": "2026-01-27T12:59:17.207Z"
+    },
+    {
       "id": "article_1769518746429",
       "title": "Heterogeneous Magnetic Resonance Nanoprobe for Assisting Liver Fibrosis Three-Dimensional Reconstruction and Cascaded Therapy.",
       "summary": "A novel nanoprobe with magnetic resonance imaging and therapeutic capabilities can accurately stage liver fibrosis and provide targeted treatment to prevent disease progression.",
@@ -3555,27 +3574,8 @@
       "quality_score": 12,
       "pub_date": "1/1/2026",
       "added_date": "1/24/2026"
-    },
-    {
-      "id": "article_1769289165205_129",
-      "title": "Development and validation of a nomogram for the overall survival of patients with locally advanced prostate cancer treated with radiotherapy and surgery.",
-      "summary": "A personalized predictive tool was developed to help doctors estimate survival outcomes for older patients with advanced prostate cancer receiving radiotherapy and surgery.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41503827/",
-      "source": "PubMed",
-      "categories": [
-        "Clinical Trials",
-        "Diagnostic Tools",
-        "Standard of Care"
-      ],
-      "cancer_types": [
-        "Prostate",
-        "Leukemia"
-      ],
-      "quality_score": 15,
-      "pub_date": "1/1/2026",
-      "added_date": "1/24/2026"
     }
   ],
-  "last_updated": "2026-01-27T12:59:06.429Z",
+  "last_updated": "2026-01-27T12:59:17.207Z",
   "total_count": 200
 }
