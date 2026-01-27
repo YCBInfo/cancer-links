@@ -1,6 +1,25 @@
 {
   "articles": [
     {
+      "id": "article_1769522758123",
+      "title": "Multi-Site Validation of a Newly FDA-Cleared Automated Methotrexate Immunoassay for Therapeutic Drug Monitoring.",
+      "summary": "Researchers validated a new automated test to accurately measure methotrexate levels in blood, helping doctors more safely monitor cancer treatment dosages.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41574682/",
+      "source": "PubMed",
+      "categories": [
+        "Approved Cancer Drugs",
+        "Diagnostic Tools",
+        "Standard of Care",
+        "Clinical Trials"
+      ],
+      "cancer_types": [
+        "Leukemia"
+      ],
+      "quality_score": 15,
+      "pub_date": "2026-01",
+      "added_date": "2026-01-27T14:05:58.123Z"
+    },
+    {
       "id": "article_1769522750612",
       "title": "Isocucurbitacin B targets STAT3 to induce ferroptosis and promote anti-PD1 immunotherapy responses in breast cancer.",
       "summary": "A natural compound called isocucurbitacin B can trigger cancer cell death and enhance immunotherapy effectiveness in triple-negative breast cancer.",
@@ -3555,25 +3574,8 @@
       "quality_score": 15,
       "pub_date": "2026-01",
       "added_date": "2026-01-27T12:56:55.594Z"
-    },
-    {
-      "id": "article_1769518605457",
-      "title": "Dye-Combination Micelles for Two-Photon Phototherapy.",
-      "summary": "Researchers developed a targeted dye-combination micelle that uses two-photon excitation to selectively destroy colon cancer cells by simultaneously damaging multiple cellular compartments.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41580942/",
-      "source": "PubMed",
-      "categories": [
-        "Emerging Research",
-        "Diagnostic Tools"
-      ],
-      "cancer_types": [
-        "Leukemia"
-      ],
-      "quality_score": 15,
-      "pub_date": "2026-01",
-      "added_date": "2026-01-27T12:56:45.457Z"
     }
   ],
-  "last_updated": "2026-01-27T14:05:50.613Z",
+  "last_updated": "2026-01-27T14:05:58.123Z",
   "total_count": 200
 }
