@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "id": "article_1769519422654",
+      "title": "Circular RNAs: A Key Modulator of Established Cancer Hallmarks.",
+      "summary": "Circular RNAs play a critical role in cancer progression by modulating multiple cellular processes and potentially offering new therapeutic approaches across different cancer types.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41580175/",
+      "source": "PubMed",
+      "categories": [
+        "Emerging Research"
+      ],
+      "cancer_types": [
+        "Leukemia"
+      ],
+      "quality_score": 15,
+      "pub_date": "2026-01",
+      "added_date": "2026-01-27T13:10:22.654Z"
+    },
+    {
       "id": "article_1769519412566",
       "title": "Single-cell triomics analysis of tumor cells infiltrating patient-derived breast cancer scaffolds.",
       "summary": "Researchers developed a new method to simultaneously analyze DNA, RNA, and proteins in individual breast cancer cells, revealing cell diversity and treatment responses.",
@@ -3528,25 +3544,8 @@
       "quality_score": 10,
       "pub_date": "12/1/2025",
       "added_date": "1/24/2026"
-    },
-    {
-      "id": "article_1769289165204_66",
-      "title": "AI-based prediction of drug-gene interactions modulating tight junction integrity: A deep learning framework highlighting multiple therapeutic targets.",
-      "summary": "An AI-powered deep learning model can predict how drugs interact with genes to potentially disrupt or restore the cellular barrier integrity in various diseases.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41210522/",
-      "source": "PubMed",
-      "categories": [
-        "Emerging Research",
-        "Diagnostic Tools"
-      ],
-      "cancer_types": [
-        "General"
-      ],
-      "quality_score": 10,
-      "pub_date": "11/1/2025",
-      "added_date": "1/24/2026"
     }
   ],
-  "last_updated": "2026-01-27T13:10:12.566Z",
+  "last_updated": "2026-01-27T13:10:22.654Z",
   "total_count": 200
 }
