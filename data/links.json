@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "article_1769543287692",
+      "title": "FAST: Scalable Factor Analysis for Spatial Dimension Reduction of Multi-section Spatial Transcriptomics.",
+      "summary": "FAST is a new computational method that efficiently analyzes spatial gene expression data across multiple tissue sections, revealing insights into cell types and cancer-related gene activity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41581212/",
+      "source": "PubMed",
+      "categories": [
+        "Emerging Research",
+        "Diagnostic Tools"
+      ],
+      "cancer_types": [
+        "Breast",
+        "Leukemia"
+      ],
+      "quality_score": 15,
+      "pub_date": "2026-01",
+      "added_date": "2026-01-27T19:48:07.692Z"
+    },
+    {
       "id": "article_1769543276797",
       "title": "Identifying expression and DNA methylation biomarkers for lung adenocarcinoma risk in East Asia.",
       "summary": "Researchers identified 28 genetic variants linked to lung adenocarcinoma risk in East Asian populations, revealing two genes associated with cancer susceptibility.",
@@ -3519,25 +3537,8 @@
       "quality_score": 15,
       "pub_date": "2026-01",
       "added_date": "2026-01-27T00:00:00.000Z"
-    },
-    {
-      "id": "article_41581859_20260127",
-      "title": "Mapping PROMIS-25 (Patient-Reported Outcomes Measurement Information System Pediatric Profile) to EQ-5D-Y-3L.",
-      "summary": "I apologize, but the text you've provided appears to be a research methodology description about mapping patient-reported outcome measurement tools, but does not seem to describe a specific cancer research finding. Without more context about the actual research results, I cannot create a summary sentence about a cancer intervention or finding. Could you provide more details about the specific research outcomes?",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41581859/",
-      "source": "PubMed",
-      "categories": [
-        "Diagnostic Tools",
-        "Clinical Trials"
-      ],
-      "cancer_types": [
-        "General"
-      ],
-      "quality_score": 12,
-      "pub_date": "2026-01",
-      "added_date": "2026-01-27T00:00:00.000Z"
     }
   ],
-  "last_updated": "2026-01-27T19:47:56.797Z",
+  "last_updated": "2026-01-27T19:48:07.692Z",
   "total_count": 200
 }
