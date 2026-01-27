@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "article_1769543478678",
+      "title": "Comparative evaluation of HTG and TempO Seq targeted transcriptome profiling methods.",
+      "summary": "Researchers compared two targeted RNA sequencing methods for analyzing gene expression in endometrial cancer samples, finding TempO-Seq can effectively replace the discontinued HTG platform.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41580555/",
+      "source": "PubMed",
+      "categories": [
+        "Diagnostic Tools",
+        "Clinical Trials",
+        "Emerging Research"
+      ],
+      "cancer_types": [
+        "Leukemia"
+      ],
+      "quality_score": 15,
+      "pub_date": "2026-01",
+      "added_date": "2026-01-27T19:51:18.678Z"
+    },
+    {
       "id": "article_1769543468679",
       "title": "Machine learning-based models for preoperative prediction of pituitary adenoma consistency: a systematic review and meta-analysis.",
       "summary": "Machine learning models can now accurately predict the surgical difficulty of pituitary tumors by analyzing pre-operative MRI scans, potentially improving surgical planning.",
@@ -3513,25 +3531,8 @@
       "quality_score": 15,
       "pub_date": "2026-01",
       "added_date": "2026-01-27T00:00:00.000Z"
-    },
-    {
-      "id": "article_41580917_20260127",
-      "title": "A New 3D Colon on a Chip to Decipher the Influence of Mechanical Forces on the Physiological Cellular Ecosystem.",
-      "summary": "A stretchable 3D colon-on-chip model reveals mechanical forces significantly enhance epithelial cell proliferation and organization without changing cell differentiation.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41580917/",
-      "source": "PubMed",
-      "categories": [
-        "Emerging Research"
-      ],
-      "cancer_types": [
-        "Colorectal",
-        "Leukemia"
-      ],
-      "quality_score": 15,
-      "pub_date": "2026-01",
-      "added_date": "2026-01-27T00:00:00.000Z"
     }
   ],
-  "last_updated": "2026-01-27T19:51:08.679Z",
+  "last_updated": "2026-01-27T19:51:18.678Z",
   "total_count": 200
 }
