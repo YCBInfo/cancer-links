@@ -1,6 +1,25 @@
 {
   "articles": [
     {
+      "id": "article_1769518908028",
+      "title": "Predicting the Efficacy of Breast Cancer Neoadjuvant Chemotherapy Using Ultrasonography and Machine Learning.",
+      "summary": "A machine learning model using ultrasound images and patient data can accurately predict treatment response in breast cancer patients receiving chemotherapy before surgery.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41580311/",
+      "source": "PubMed",
+      "categories": [
+        "Diagnostic Tools",
+        "Clinical Trials",
+        "Approved Cancer Drugs",
+        "Standard of Care"
+      ],
+      "cancer_types": [
+        "Breast"
+      ],
+      "quality_score": 15,
+      "pub_date": "2026-01",
+      "added_date": "2026-01-27T13:01:48.028Z"
+    },
+    {
       "id": "article_1769518898537",
       "title": "Oncogenic influences of neurotrophin receptors: Shedding light on Trk biology.",
       "summary": "Here's a clear, concise summary sentence:\n\nTrk neurotrophin receptors play a critical role in cancer development by driving abnormal cell growth, survival, and metastasis across multiple cancer types.",
@@ -3545,27 +3564,8 @@
       "quality_score": 10,
       "pub_date": "9/1/2025",
       "added_date": "1/24/2026"
-    },
-    {
-      "id": "article_1769289165205_114",
-      "title": "Metformin and berberine synergistically improve NAFLD via the AMPK-SREBP1-FASN signaling pathway.",
-      "summary": "Here's a summary sentence:\n\nMetformin and berberine together effectively reduced fatty liver disease progression by activating a key metabolic pathway and improving liver fat metabolism.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/40790070/",
-      "source": "PubMed",
-      "categories": [
-        "Off-Label Medications",
-        "Supplements & Nutraceuticals",
-        "Emerging Research"
-      ],
-      "cancer_types": [
-        "Leukemia",
-        "Liver"
-      ],
-      "quality_score": 13,
-      "pub_date": "8/1/2025",
-      "added_date": "1/24/2026"
     }
   ],
-  "last_updated": "2026-01-27T13:01:38.537Z",
+  "last_updated": "2026-01-27T13:01:48.028Z",
   "total_count": 200
 }
