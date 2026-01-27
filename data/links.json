@@ -1,6 +1,25 @@
 {
   "articles": [
     {
+      "id": "article_1769522690814",
+      "title": "Multi-Site Validation of a Newly FDA-Cleared Automated Methotrexate Immunoassay for Therapeutic Drug Monitoring.",
+      "summary": "Here's a clear, concise summary sentence:\n\nA new automated blood test allows more accurate monitoring of methotrexate levels, helping prevent toxic side effects during cancer treatment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41574682/",
+      "source": "PubMed",
+      "categories": [
+        "Approved Cancer Drugs",
+        "Diagnostic Tools",
+        "Clinical Trials",
+        "Standard of Care"
+      ],
+      "cancer_types": [
+        "Leukemia"
+      ],
+      "quality_score": 15,
+      "pub_date": "2026-01",
+      "added_date": "2026-01-27T14:04:50.814Z"
+    },
+    {
       "id": "article_1769522679971",
       "title": "Research Progress of Cyclooxygenase-2 in Colorectal Adenomas.",
       "summary": "COX-2 is a key molecule that links inflammation to the development and progression of colorectal adenomas.",
@@ -3543,26 +3562,8 @@
       "quality_score": 15,
       "pub_date": "2026-01",
       "added_date": "2026-01-27T12:54:53.915Z"
-    },
-    {
-      "id": "article_1769518483818",
-      "title": "Lymph node upstaging in robotic, video-assisted thoracic surgery, and open lung resections: a matched analysis from the Brazilian Lung Cancer Registry.",
-      "summary": "Robotic lung cancer surgery showed potentially better lymph node staging compared to traditional video-assisted and open surgical techniques, according to a Brazilian registry analysis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41581131/",
-      "source": "PubMed",
-      "categories": [
-        "Clinical Trials",
-        "Diagnostic Tools"
-      ],
-      "cancer_types": [
-        "Lung",
-        "Leukemia"
-      ],
-      "quality_score": 15,
-      "pub_date": "2026-01",
-      "added_date": "2026-01-27T12:54:43.818Z"
     }
   ],
-  "last_updated": "2026-01-27T14:04:39.971Z",
+  "last_updated": "2026-01-27T14:04:50.814Z",
   "total_count": 200
 }
