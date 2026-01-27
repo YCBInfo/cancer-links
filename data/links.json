@@ -1,6 +1,25 @@
 {
   "articles": [
     {
+      "id": "article_1769532611981",
+      "title": "Domain adaptation, self-supervision, and generative augmentation enhance GNNs for breast cancer prediction.",
+      "summary": "A multi-task graph neural network integrates advanced machine learning techniques to improve breast cancer subtype prediction, biomarker detection, and survival estimation across different patient cohorts.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41559366/",
+      "source": "PubMed",
+      "categories": [
+        "Diagnostic Tools",
+        "Emerging Research",
+        "Clinical Trials"
+      ],
+      "cancer_types": [
+        "Breast",
+        "Leukemia"
+      ],
+      "quality_score": 15,
+      "pub_date": "2026-01",
+      "added_date": "2026-01-27T16:50:11.981Z"
+    },
+    {
       "id": "article_1769532602090",
       "title": "Diagnostic and therapeutic potential of serum fatty acids in hyperlipidemia: evidence from three cohorts of patients with coronary atherosclerotic heart disease.",
       "summary": "I apologize, but there seems to be a mismatch between the research summary you've provided and your request for a summary about cancer research. The abstract is about coronary atherosclerotic heart disease and lipid metabolism, not cancer. Would you like me to create a summary based on this cardiovascular research instead?",
@@ -3567,27 +3586,8 @@
       "quality_score": 15,
       "pub_date": "2026-01",
       "added_date": "2026-01-27T13:16:36.301Z"
-    },
-    {
-      "id": "article_1769519786362",
-      "title": "ROS-responsive multifunctional DCS-based micelle hydrogel for simultaneously inhibiting post-resection melanoma recurrence and promoting wound healing.",
-      "summary": "A novel micelle hydrogel for melanoma treatment simultaneously inhibits tumor recurrence and promotes wound healing by targeting cancer cells and supporting tissue recovery.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41568423/",
-      "source": "PubMed",
-      "categories": [
-        "Supplements & Nutraceuticals",
-        "Emerging Research",
-        "Diagnostic Tools",
-        "Standard of Care"
-      ],
-      "cancer_types": [
-        "Melanoma"
-      ],
-      "quality_score": 15,
-      "pub_date": "2026-01",
-      "added_date": "2026-01-27T13:16:26.362Z"
     }
   ],
-  "last_updated": "2026-01-27T16:50:02.090Z",
+  "last_updated": "2026-01-27T16:50:11.981Z",
   "total_count": 200
 }
