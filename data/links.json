@@ -1,6 +1,23 @@
 {
   "articles": [
     {
+      "id": "article_1769532622367",
+      "title": "How I treat breakthrough thrombosis in patients with cancer.",
+      "summary": "Researchers identify complex factors causing blood clot recurrence in cancer patients and recommend individualized treatment adjustments like switching or escalating anticoagulation medications.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41557974/",
+      "source": "PubMed",
+      "categories": [
+        "Clinical Trials",
+        "Standard of Care"
+      ],
+      "cancer_types": [
+        "Leukemia"
+      ],
+      "quality_score": 15,
+      "pub_date": "2026-01",
+      "added_date": "2026-01-27T16:50:22.367Z"
+    },
+    {
       "id": "article_1769532611981",
       "title": "Domain adaptation, self-supervision, and generative augmentation enhance GNNs for breast cancer prediction.",
       "summary": "A multi-task graph neural network integrates advanced machine learning techniques to improve breast cancer subtype prediction, biomarker detection, and survival estimation across different patient cohorts.",
@@ -3566,28 +3583,8 @@
       "quality_score": 18,
       "pub_date": "2026-01",
       "added_date": "2026-01-27T13:16:46.816Z"
-    },
-    {
-      "id": "article_1769519796301",
-      "title": "A CD36-Targeting Thermosensitive Berberine Nanogel Blocks Tumor Lipid Hijacking and Potentiates Anti-PD-L1 Immunotherapy in Triple-Negative Breast Cancer.",
-      "summary": "A thermosensitive nanogel delivering berberine targets CD36 in triple-negative breast cancer, reducing lipid accumulation and enhancing immunotherapy effectiveness.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41567101/",
-      "source": "PubMed",
-      "categories": [
-        "Supplements & Nutraceuticals",
-        "Clinical Trials",
-        "Emerging Research",
-        "Diagnostic Tools"
-      ],
-      "cancer_types": [
-        "Breast",
-        "Liver"
-      ],
-      "quality_score": 15,
-      "pub_date": "2026-01",
-      "added_date": "2026-01-27T13:16:36.301Z"
     }
   ],
-  "last_updated": "2026-01-27T16:50:11.981Z",
+  "last_updated": "2026-01-27T16:50:22.367Z",
   "total_count": 200
 }
