@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-28T00:37:42.608Z",
+  "last_updated": "2026-01-28T00:37:52.656Z",
   "categories": {
     "supplements": [
       {
@@ -794,6 +794,20 @@
         "added_date": "2026-01-28"
       },
       {
+        "id": "recWksLAz02V51JRF",
+        "title": "Impact of Early-Line Systemic Therapies on Liver Function in Hepatocellular Carcinoma: Longitudinal Change of ALBI Score and Ammonia Level With and Without Anti-VEGF Agents.",
+        "summary": "Anti-VEGF therapy for hepatocellular carcinoma may compromise liver function by potentially inhibiting liver regeneration and impacting albumin-bilirubin scores.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41581016/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-28"
+      },
+      {
         "id": "recvdYlyb2rGAU5xq",
         "title": "Killing cancer takes guts: lessons learned from the manipulation of gut microbiome and immunotherapy for the future of urothelial carcinoma.",
         "summary": "In urothelial cancer, manipulating the gut microbiome through transplantation, probiotics, or diet may enhance immunotherapy effectiveness by boosting immune system response.",
@@ -864,20 +878,6 @@
         "quality_score": 12,
         "pub_date": "2025-12-01",
         "added_date": "2026-01-27"
-      },
-      {
-        "id": "recvpM5iRVMyqla27",
-        "title": "Glutathione-activatable bola dendrimers mediate tumor-specific cytosolic siRNA delivery via dynamic thiol-disulfide exchange.",
-        "summary": "Glutathione-responsive bola dendrimers successfully delivered siRNA to lung cancer cells, inhibiting tumor growth with minimal side effects.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41582851/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-27"
       }
     ]
   },
@@ -887,10 +887,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 885,
+    "archive_count": 886,
     "archive_supplements": 207,
     "archive_off_label": 55,
     "archive_biomarkers": 454,
-    "archive_trials": 169
+    "archive_trials": 170
   }
 }
