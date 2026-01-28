@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-28T00:21:56.632Z",
+  "last_updated": "2026-01-28T00:22:06.140Z",
   "categories": {
     "supplements": [
       {
@@ -476,6 +476,20 @@
         "added_date": "2026-01-28"
       },
       {
+        "id": "recT1sqajhIqkftO6",
+        "title": "Development and validation of a predictive model for high-risk immune-related adverse events in gastric cancer patients treated with ICIs.",
+        "summary": "A predictive model using blood markers and tumor characteristics can effectively identify high-risk immune-related adverse events in gastric cancer patients treated with immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41569265/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-28"
+      },
+      {
         "id": "recRMmSUSU9Blx1c3",
         "title": "Force coordination distinguishes epithelial and mesenchymal modes of collective chemotaxis.",
         "summary": "Neural crest cells migrate differently in epithelial and mesenchymal states, with distinct supracellular force coordination and traction mechanisms during collective chemotaxis.",
@@ -638,20 +652,6 @@
         "title": "Caspase-3 cleaves and activates the NADase SARM1 to promote apoptosis, linking two cell death mechanisms.",
         "summary": "In neuroblastoma and immune cells, caspase-3 activates SARM1, a protein that promotes cell death by breaking down NAD+ during apoptosis.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41576094/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 0,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-27"
-      },
-      {
-        "id": "recySsqHi3MpF46CK",
-        "title": "Bioresponsive immunomodulator nanocomplex for selective immunoengineering in metastatic lymph nodes.",
-        "summary": "Here's a clear, concise summary sentence:\n\nA targeted nanocomplex selectively activates T-cell responses in metastatic lymph nodes, effectively inhibiting tumor growth and improving survival.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41557810/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -886,10 +886,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 801,
+    "archive_count": 802,
     "archive_supplements": 199,
     "archive_off_label": 54,
-    "archive_biomarkers": 388,
+    "archive_biomarkers": 389,
     "archive_trials": 160
   }
 }
