@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-28T00:23:16.580Z",
+  "last_updated": "2026-01-28T00:23:26.485Z",
   "categories": {
     "supplements": [
       {
@@ -577,6 +577,20 @@
         "added_date": "2026-01-28"
       },
       {
+        "id": "recOz9tDGzx9ECxwX",
+        "title": "The P7 peptide antagonizes bFGF-induced malignant behaviors of ovarian cancer by inhibiting MEK/ERK signaling pathway.",
+        "summary": "P7 peptide reduces ovarian cancer cell growth and spread by blocking a key signaling pathway triggered by basic fibroblast growth factor.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41562160/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Ovarian"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-28"
+      },
+      {
         "id": "recRMmSUSU9Blx1c3",
         "title": "Force coordination distinguishes epithelial and mesenchymal modes of collective chemotaxis.",
         "summary": "Neural crest cells migrate differently in epithelial and mesenchymal states, with distinct supracellular force coordination and traction mechanisms during collective chemotaxis.",
@@ -638,20 +652,6 @@
         "title": "Bioresponsive immunomodulator nanocomplex for selective immunoengineering in metastatic lymph nodes.",
         "summary": "A targeted nanocomplex selectively reprograms immune responses in metastatic lymph nodes, activating T cells and inhibiting tumor growth in mouse models.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41557810/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 0,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-27"
-      },
-      {
-        "id": "recblgdX4So3GCPZ2",
-        "title": "Scaling the glassy dynamics of active particles: Tunable fragility and reentrance.",
-        "summary": "Self-propelled particles in dense assemblies exhibit complex dynamic behaviors that could provide insights into biological processes like cancer progression.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41557792/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -886,10 +886,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 809,
+    "archive_count": 810,
     "archive_supplements": 200,
     "archive_off_label": 54,
-    "archive_biomarkers": 395,
+    "archive_biomarkers": 396,
     "archive_trials": 160
   }
 }
