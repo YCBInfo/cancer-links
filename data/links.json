@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-28T00:23:57.164Z",
+  "last_updated": "2026-01-28T00:24:06.877Z",
   "categories": {
     "supplements": [
       {
@@ -633,6 +633,21 @@
         "added_date": "2026-01-28"
       },
       {
+        "id": "recVWvGfHidXDTC0v",
+        "title": "GPR176 enhances the epithelial‑mesenchymal transition in gastric cancer cells by activating the PI3K/AKT/mTOR signaling pathway.",
+        "summary": "GPR176 promotes gastric cancer cell migration and invasion by activating key signaling pathways, potentially serving as a new prognostic marker.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41574720/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia",
+          "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-28"
+      },
+      {
         "id": "recRMmSUSU9Blx1c3",
         "title": "Force coordination distinguishes epithelial and mesenchymal modes of collective chemotaxis.",
         "summary": "Neural crest cells migrate differently in epithelial and mesenchymal states, with distinct supracellular force coordination and traction mechanisms during collective chemotaxis.",
@@ -641,20 +656,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
-        ],
-        "quality_score": 0,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-27"
-      },
-      {
-        "id": "recfpUhCtLEoEluGH",
-        "title": "Deciphering the CAF-LCN2 axis: Key to overcoming anti-PD-L1 immunotherapy resistance in lung cancer.",
-        "summary": "Cancer-associated fibroblasts in lung cancer promote therapy resistance by increasing LCN2 levels, and silencing LCN2 can improve immunotherapy effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41574700/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
         ],
         "quality_score": 0,
         "pub_date": "2026-01-01",
@@ -885,10 +886,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 813,
+    "archive_count": 814,
     "archive_supplements": 200,
     "archive_off_label": 54,
-    "archive_biomarkers": 399,
+    "archive_biomarkers": 400,
     "archive_trials": 160
   }
 }
