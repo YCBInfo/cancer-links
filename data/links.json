@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-28T00:30:30.473Z",
+  "last_updated": "2026-01-28T00:30:39.653Z",
   "categories": {
     "supplements": [
       {
@@ -722,6 +722,22 @@
         "added_date": "2026-01-28"
       },
       {
+        "id": "rec6bDrwMsK9RY8sO",
+        "title": "Bio-reductive hetero-bimetallic Co(iii)-Pt(ii) complex for tumor-selective platinum release and cytotoxicity.",
+        "summary": "A novel Co(iii)-Pt(ii) complex selectively targets lung and breast cancer cells by releasing platinum under tumor-specific reductive conditions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41582842/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Breast",
+          "Colorectal",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-28"
+      },
+      {
         "id": "recvdYlyb2rGAU5xq",
         "title": "Killing cancer takes guts: lessons learned from the manipulation of gut microbiome and immunotherapy for the future of urothelial carcinoma.",
         "summary": "In urothelial cancer, manipulating the gut microbiome through transplantation, probiotics, or diet may enhance immunotherapy effectiveness by boosting immune system response.",
@@ -863,20 +879,6 @@
         "quality_score": 12,
         "pub_date": "2026-01-01",
         "added_date": "2026-01-27"
-      },
-      {
-        "id": "recCUPaXCOtEGcMCr",
-        "title": "Antibodies to watch in 2026.",
-        "summary": "Researchers tracked the growth of antibody therapeutics in development, noting significant expansion from 26 to over 200 late-stage candidates across various medical indications.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41560619/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-27"
       }
     ]
   },
@@ -886,10 +888,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 847,
+    "archive_count": 848,
     "archive_supplements": 203,
     "archive_off_label": 54,
     "archive_biomarkers": 426,
-    "archive_trials": 164
+    "archive_trials": 165
   }
 }
