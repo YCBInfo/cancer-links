@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-28T00:41:34.551Z",
+  "last_updated": "2026-01-28T00:41:44.483Z",
   "categories": {
     "supplements": [
       {
@@ -164,6 +164,21 @@
         "added_date": "2026-01-28"
       },
       {
+        "id": "recdLzLTeJAqVu9vq",
+        "title": "Celastrol induces cardiotoxicity by directly targeting AMOTL2 and inhibiting YAP1/PGC-1α/TFAM-dependent mitochondrial biogenesis.",
+        "summary": "Celastrol causes heart damage by blocking a key protein (AMOTL2), which disrupts mitochondrial function and promotes cell death in heart tissue.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41412440/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia",
+          "Lymphoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-28"
+      },
+      {
         "id": "recvdYlyb2rGAU5xq",
         "title": "Killing cancer takes guts: lessons learned from the manipulation of gut microbiome and immunotherapy for the future of urothelial carcinoma.",
         "summary": "In urothelial cancer, manipulating the gut microbiome through transplantation, probiotics, or diet may enhance immunotherapy effectiveness by boosting immune system response.",
@@ -202,21 +217,6 @@
           "Colorectal",
           "Leukemia",
           "Kidney"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-27"
-      },
-      {
-        "id": "rec59wZSIyK0dDJ26",
-        "title": "Natural compound 5,7,8-trimethoxyflavone mitigates radiation-induced lung injury by suppressing EMT and PI3K/Akt pathway.",
-        "summary": "A natural compound called 5,7,8-trimethoxyflavone effectively reduces lung inflammation and fibrosis after radiation exposure by blocking key cellular signaling pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41574704/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Lung",
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
@@ -888,8 +888,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 906,
-    "archive_supplements": 209,
+    "archive_count": 907,
+    "archive_supplements": 210,
     "archive_off_label": 55,
     "archive_biomarkers": 471,
     "archive_trials": 171
