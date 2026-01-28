@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-28T00:33:31.199Z",
+  "last_updated": "2026-01-28T00:33:40.566Z",
   "categories": {
     "supplements": [
       {
@@ -749,6 +749,20 @@
         "added_date": "2026-01-28"
       },
       {
+        "id": "recED7x31xOPyQJfu",
+        "title": "Risk of bone fractures in patients with prostate cancer treated with maximal androgen blockade therapy: a systematic literature review and meta-analysis.",
+        "summary": "Prostate cancer patients receiving maximal androgen blockade therapy have a significantly increased risk of bone fractures compared to those on standard androgen deprivation therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41582208/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 32,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-28"
+      },
+      {
         "id": "recvdYlyb2rGAU5xq",
         "title": "Killing cancer takes guts: lessons learned from the manipulation of gut microbiome and immunotherapy for the future of urothelial carcinoma.",
         "summary": "In urothelial cancer, manipulating the gut microbiome through transplantation, probiotics, or diet may enhance immunotherapy effectiveness by boosting immune system response.",
@@ -862,20 +876,6 @@
         "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-01-27"
-      },
-      {
-        "id": "recnUxuBIYBwS2mhi",
-        "title": "Killing cancer takes guts: lessons learned from the manipulation of gut microbiome and immunotherapy for the future of urothelial carcinoma.",
-        "summary": "Here's a concise summary sentence:\n\nSpecific gut microbiome compositions can enhance immune checkpoint inhibitor effectiveness in urothelial carcinoma by improving immune system response.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41560593/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Bladder"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-27"
       }
     ]
   },
@@ -885,10 +885,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 864,
+    "archive_count": 865,
     "archive_supplements": 204,
     "archive_off_label": 55,
     "archive_biomarkers": 439,
-    "archive_trials": 166
+    "archive_trials": 167
   }
 }
