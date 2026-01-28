@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-28T00:35:21.337Z",
+  "last_updated": "2026-01-28T00:35:31.811Z",
   "categories": {
     "supplements": [
       {
@@ -765,6 +765,21 @@
         "added_date": "2026-01-28"
       },
       {
+        "id": "recsQf8Eo7ryjNyRV",
+        "title": "The 'Comparison of diagnostic accuracy of Luminal Index and standard of care MRI for Accelerated deTEction of prostate cancer' (CLIMATE) trial protocol.",
+        "summary": "Here's a clear, concise summary sentence:\n\nThis clinical trial protocol will evaluate a new, faster MRI technique (Luminal Index) for more accurately detecting clinically significant prostate cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41582606/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Prostate",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-28"
+      },
+      {
         "id": "recvdYlyb2rGAU5xq",
         "title": "Killing cancer takes guts: lessons learned from the manipulation of gut microbiome and immunotherapy for the future of urothelial carcinoma.",
         "summary": "In urothelial cancer, manipulating the gut microbiome through transplantation, probiotics, or diet may enhance immunotherapy effectiveness by boosting immune system response.",
@@ -863,21 +878,6 @@
         "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-01-27"
-      },
-      {
-        "id": "recDm9RxQOo4vPr3n",
-        "title": "[Evaluation of long-term prognosis of gastric cancer patients by tumor textbook outcome and analysis of related factors].",
-        "summary": "In gastric cancer patients, achieving textbook oncologic outcome (TOO) after surgery was associated with significantly better long-term survival rates.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41582511/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Leukemia",
-          "Stomach"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-27"
       }
     ]
   },
@@ -887,10 +887,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 874,
+    "archive_count": 875,
     "archive_supplements": 206,
     "archive_off_label": 55,
     "archive_biomarkers": 446,
-    "archive_trials": 167
+    "archive_trials": 168
   }
 }
