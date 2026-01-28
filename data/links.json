@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-28T00:22:47.936Z",
+  "last_updated": "2026-01-28T00:22:56.043Z",
   "categories": {
     "supplements": [
       {
@@ -534,6 +534,20 @@
         "added_date": "2026-01-28"
       },
       {
+        "id": "recZUZPslfppSXV5j",
+        "title": "Elevated C-reactive protein to albumin ratio is a promising predictive biomarker for prognosis in patients with renal cell carcinoma.",
+        "summary": "A higher C-reactive protein to albumin ratio could help predict survival and outcomes for patients with kidney cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41566198/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Kidney"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-28"
+      },
+      {
         "id": "recRMmSUSU9Blx1c3",
         "title": "Force coordination distinguishes epithelial and mesenchymal modes of collective chemotaxis.",
         "summary": "Neural crest cells migrate differently in epithelial and mesenchymal states, with distinct supracellular force coordination and traction mechanisms during collective chemotaxis.",
@@ -643,20 +657,6 @@
         "cancer_types": [
           "Leukemia",
           "Pancreatic"
-        ],
-        "quality_score": 0,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-27"
-      },
-      {
-        "id": "recMtvZ2QHmM3YgEy",
-        "title": "Force coordination distinguishes epithelial and mesenchymal modes of collective chemotaxis.",
-        "summary": "Mesenchymal and epithelial neural crest cell clusters use different force coordination mechanisms to migrate collectively toward a chemical signal.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41563116/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
         ],
         "quality_score": 0,
         "pub_date": "2026-01-01",
@@ -887,10 +887,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 806,
+    "archive_count": 807,
     "archive_supplements": 200,
     "archive_off_label": 54,
-    "archive_biomarkers": 392,
+    "archive_biomarkers": 393,
     "archive_trials": 160
   }
 }
