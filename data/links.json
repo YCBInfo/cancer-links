@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-28T00:24:37.031Z",
+  "last_updated": "2026-01-28T00:24:47.742Z",
   "categories": {
     "supplements": [
       {
@@ -43,6 +43,21 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-28"
+      },
+      {
+        "id": "reck4wyJUvw9Xm42Q",
+        "title": "Natural compound 5,7,8‑trimethoxyflavone mitigates radiation‑induced lung injury by suppressing EMT and PI3K/Akt pathway.",
+        "summary": "A natural flavonoid compound can reduce lung damage from radiation therapy by blocking key cellular signaling pathways and preventing tissue transformation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41574704/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lung",
+          "Leukemia"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-01-28"
       },
@@ -202,20 +217,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Lung",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-27"
-      },
-      {
-        "id": "rec62x7VjjaOZN8ff",
-        "title": "Protective effect of Rosmarinus officinalis and its nanoparticles against chemobrain and neuroinflammation in rats: involvement of Wnt/β-catenin signaling and apoptotic machineries.",
-        "summary": "Rosemary extract and its nanoparticles protected rats from chemotherapy-induced cognitive decline by reducing neuroinflammation and preserving brain structure.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41582735/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
           "Leukemia"
         ],
         "quality_score": 15,
@@ -886,8 +887,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 817,
-    "archive_supplements": 201,
+    "archive_count": 818,
+    "archive_supplements": 202,
     "archive_off_label": 54,
     "archive_biomarkers": 402,
     "archive_trials": 160
