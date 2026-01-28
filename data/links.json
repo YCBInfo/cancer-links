@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-28T00:24:06.877Z",
+  "last_updated": "2026-01-28T00:24:17.442Z",
   "categories": {
     "supplements": [
       {
@@ -648,18 +648,19 @@
         "added_date": "2026-01-28"
       },
       {
-        "id": "recRMmSUSU9Blx1c3",
-        "title": "Force coordination distinguishes epithelial and mesenchymal modes of collective chemotaxis.",
-        "summary": "Neural crest cells migrate differently in epithelial and mesenchymal states, with distinct supracellular force coordination and traction mechanisms during collective chemotaxis.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41563116/",
+        "id": "recSGuMNCFnwxnV8K",
+        "title": "HMBOX1 inhibits hepatocellular carcinoma progression via PTPN1 mediated AKT1 phosphorylation.",
+        "summary": "In liver cancer, HMBOX1 protein appears to slow tumor growth by influencing cell signaling pathways, potentially offering a new approach to treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41574716/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
-          "General"
+          "Leukemia",
+          "Liver"
         ],
-        "quality_score": 0,
+        "quality_score": 15,
         "pub_date": "2026-01-01",
-        "added_date": "2026-01-27"
+        "added_date": "2026-01-28"
       }
     ],
     "trials": [
@@ -886,10 +887,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 814,
+    "archive_count": 815,
     "archive_supplements": 200,
     "archive_off_label": 54,
-    "archive_biomarkers": 400,
+    "archive_biomarkers": 401,
     "archive_trials": 160
   }
 }
