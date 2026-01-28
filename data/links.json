@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-28T00:22:16.215Z",
+  "last_updated": "2026-01-28T00:22:27.444Z",
   "categories": {
     "supplements": [
       {
@@ -491,6 +491,20 @@
         "added_date": "2026-01-28"
       },
       {
+        "id": "recbdb7vQr5IyZfea",
+        "title": "Engineering nanobodies for drug delivery systems in Alzheimer's disease.",
+        "summary": "This is not a cancer research paper, but a research paper about Alzheimer's disease (AD) focusing on nanobody drug delivery strategies to cross the blood-brain barrier and target disease mechanisms.\n\nHere's a clear 25-word summary:\n\nResearchers engineer nanobodies to penetrate the brain barrier, potentially targeting Alzheimer's disease mechanisms and developing novel therapeutic approaches to reduce neurodegeneration.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41568664/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-28"
+      },
+      {
         "id": "recRMmSUSU9Blx1c3",
         "title": "Force coordination distinguishes epithelial and mesenchymal modes of collective chemotaxis.",
         "summary": "Neural crest cells migrate differently in epithelial and mesenchymal states, with distinct supracellular force coordination and traction mechanisms during collective chemotaxis.",
@@ -643,20 +657,6 @@
         "cancer_types": [
           "Leukemia",
           "Thyroid"
-        ],
-        "quality_score": 0,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-27"
-      },
-      {
-        "id": "recS9kTKkyC3aCrxh",
-        "title": "Caspase-3 cleaves and activates the NADase SARM1 to promote apoptosis, linking two cell death mechanisms.",
-        "summary": "In neuroblastoma and immune cells, caspase-3 activates SARM1, a protein that promotes cell death by breaking down NAD+ during apoptosis.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41576094/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
         ],
         "quality_score": 0,
         "pub_date": "2026-01-01",
@@ -887,10 +887,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 803,
+    "archive_count": 804,
     "archive_supplements": 200,
     "archive_off_label": 54,
-    "archive_biomarkers": 389,
+    "archive_biomarkers": 390,
     "archive_trials": 160
   }
 }
