@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-28T00:23:06.214Z",
+  "last_updated": "2026-01-28T00:23:16.580Z",
   "categories": {
     "supplements": [
       {
@@ -562,6 +562,21 @@
         "added_date": "2026-01-28"
       },
       {
+        "id": "recx752OGKpfQl40O",
+        "title": "Machine learning-assisted detection of canine mammary tumors using serum autoantibody signatures.",
+        "summary": "A machine learning model using blood autoantibody signatures can accurately detect canine mammary tumors, offering a promising noninvasive diagnostic approach.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41562247/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-28"
+      },
+      {
         "id": "recRMmSUSU9Blx1c3",
         "title": "Force coordination distinguishes epithelial and mesenchymal modes of collective chemotaxis.",
         "summary": "Neural crest cells migrate differently in epithelial and mesenchymal states, with distinct supracellular force coordination and traction mechanisms during collective chemotaxis.",
@@ -644,21 +659,6 @@
         ],
         "quality_score": 0,
         "pub_date": "2026-01-01",
-        "added_date": "2026-01-27"
-      },
-      {
-        "id": "recA6pghlGWYbddIn",
-        "title": "Impact of renal and hepatic function on dihydropyrimidine dehydrogenase phenotype assessed by enzyme activity in peripheral blood mononuclear cells and uracilemia.",
-        "summary": "A study found that kidney and liver problems can affect enzyme activity related to how the body processes certain cancer drugs, potentially impacting treatment effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/40960875/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Kidney",
-          "Liver"
-        ],
-        "quality_score": 0,
-        "pub_date": "2025-11-01",
         "added_date": "2026-01-27"
       }
     ],
@@ -886,10 +886,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 808,
+    "archive_count": 809,
     "archive_supplements": 200,
     "archive_off_label": 54,
-    "archive_biomarkers": 394,
+    "archive_biomarkers": 395,
     "archive_trials": 160
   }
 }
