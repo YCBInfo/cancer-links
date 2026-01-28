@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-28T00:22:56.043Z",
+  "last_updated": "2026-01-28T00:23:06.214Z",
   "categories": {
     "supplements": [
       {
@@ -548,6 +548,20 @@
         "added_date": "2026-01-28"
       },
       {
+        "id": "recH2tyLgcxeC7lmF",
+        "title": "Environmental tobacco smoke exposure and pelvic inflammatory disease: a cross-sectional analysis of serum cotinine.",
+        "summary": "Non-smoking women with higher serum cotinine levels showed increased risk of pelvic inflammatory disease, suggesting environmental tobacco smoke exposure may impact reproductive health.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41562602/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-28"
+      },
+      {
         "id": "recRMmSUSU9Blx1c3",
         "title": "Force coordination distinguishes epithelial and mesenchymal modes of collective chemotaxis.",
         "summary": "Neural crest cells migrate differently in epithelial and mesenchymal states, with distinct supracellular force coordination and traction mechanisms during collective chemotaxis.",
@@ -645,21 +659,6 @@
         ],
         "quality_score": 0,
         "pub_date": "2025-11-01",
-        "added_date": "2026-01-27"
-      },
-      {
-        "id": "reczmLrASot61Js2S",
-        "title": "Discovery of a Covalent Small-Molecule eEF1A1 Inhibitor via Structure-Based Virtual Screening.",
-        "summary": "A novel small molecule inhibitor (AKOS-04) targeting the protein eEF1A1 shows promising potential for pancreatic cancer treatment through covalent binding.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41529197/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia",
-          "Pancreatic"
-        ],
-        "quality_score": 0,
-        "pub_date": "2026-01-01",
         "added_date": "2026-01-27"
       }
     ],
@@ -887,10 +886,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 807,
+    "archive_count": 808,
     "archive_supplements": 200,
     "archive_off_label": 54,
-    "archive_biomarkers": 393,
+    "archive_biomarkers": 394,
     "archive_trials": 160
   }
 }
