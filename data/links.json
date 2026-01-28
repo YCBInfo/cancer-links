@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-28T00:32:00.138Z",
+  "last_updated": "2026-01-28T00:32:10.180Z",
   "categories": {
     "supplements": [
       {
@@ -224,6 +224,20 @@
     ],
     "off_label": [
       {
+        "id": "rec79Ff0F6J2FEONs",
+        "title": "Aspirin and Atorvastatin Augmentation Treatment in Patients with Major Affective Disorders and Inflammatory Dysregulation: A 12-Week Randomized Placebo-Controlled Study.",
+        "summary": "In patients with major affective disorders, combining aspirin and atorvastatin showed potential to enhance antidepressant treatment by addressing underlying inflammatory processes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41582601/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-28"
+      },
+      {
         "id": "recOgO0Q74oWb1Vyo",
         "title": "The inhibition of Il1β synthesis mediated by a novel pyridine-sulfonamide compound protects against the progression of metabolic dysfunction-associated steatotic liver disease.",
         "summary": "A novel compound AIK3a305 inhibits inflammatory protein IL1β, protecting liver cells and reducing progression of metabolic fatty liver disease in preclinical models.",
@@ -423,22 +437,6 @@
           "Leukemia"
         ],
         "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-27"
-      },
-      {
-        "id": "recd11n5LNY6WYbGG",
-        "title": "Beyond the Gut: Thyroxine Malabsorption, Pharmacokinetics, and Delivery.",
-        "summary": "Researchers explored levothyroxine absorption challenges in hypothyroidism, identifying novel testing protocols and alternative delivery methods like subcutaneous administration for patients with absorption difficulties.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41572575/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Melanoma",
-          "Kidney",
-          "Thyroid"
-        ],
-        "quality_score": 18,
         "pub_date": "2026-01-01",
         "added_date": "2026-01-27"
       }
@@ -886,9 +884,9 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 856,
+    "archive_count": 857,
     "archive_supplements": 204,
-    "archive_off_label": 54,
+    "archive_off_label": 55,
     "archive_biomarkers": 433,
     "archive_trials": 165
   }
