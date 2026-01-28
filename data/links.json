@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-28T00:42:24.584Z",
+  "last_updated": "2026-01-28T00:42:34.903Z",
   "categories": {
     "supplements": [
       {
@@ -836,6 +836,20 @@
         "added_date": "2026-01-28"
       },
       {
+        "id": "recedrX7EVN2FU4VZ",
+        "title": "Evolution and trends in non-viral mRNA Cancer vaccines: A scoping review from 2015 to 2025.",
+        "summary": "mRNA cancer vaccines are shifting from dendritic cell-based to lipid nanoparticle delivery systems, with increasing use in combination immunotherapies across various cancer types.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41352221/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2025-12-01",
+        "added_date": "2026-01-28"
+      },
+      {
         "id": "recvdYlyb2rGAU5xq",
         "title": "Killing cancer takes guts: lessons learned from the manipulation of gut microbiome and immunotherapy for the future of urothelial carcinoma.",
         "summary": "In urothelial cancer, manipulating the gut microbiome through transplantation, probiotics, or diet may enhance immunotherapy effectiveness by boosting immune system response.",
@@ -862,22 +876,6 @@
         "quality_score": 12,
         "pub_date": "2026-01-01",
         "added_date": "2026-01-27"
-      },
-      {
-        "id": "rec3I5Px4YmQyikRM",
-        "title": "Coriandrum sativum improves prognosis in clear cell renal cell carcinoma by targeting NEK6 to modulate the immune microenvironment: a predictive study based on network pharmacology and multi-omics analysis.",
-        "summary": "Coriander compounds target NEK6 in kidney cancer, potentially improving prognosis by influencing immune cell interactions and reducing tumor progression.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41568676/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal",
-          "Leukemia",
-          "Kidney"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-27"
       }
     ]
   },
@@ -887,10 +885,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 911,
+    "archive_count": 912,
     "archive_supplements": 213,
     "archive_off_label": 55,
     "archive_biomarkers": 471,
-    "archive_trials": 172
+    "archive_trials": 173
   }
 }
