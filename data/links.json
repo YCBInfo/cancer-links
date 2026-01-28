@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-28T00:21:45.476Z",
+  "last_updated": "2026-01-28T00:21:56.632Z",
   "categories": {
     "supplements": [
       {
@@ -462,6 +462,20 @@
         "added_date": "2026-01-28"
       },
       {
+        "id": "recOztzFtnj4Vkoe1",
+        "title": "Toward next-generation therapeutic HPV vaccines: A review on expanding the antigen repertoire and an integrated bioinformatics selection framework.",
+        "summary": "Here's a concise summary sentence:\n\nA comprehensive review proposes expanding HPV vaccine antigens beyond traditional targets to improve therapeutic effectiveness against HPV-associated cancers.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41571571/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-28"
+      },
+      {
         "id": "recRMmSUSU9Blx1c3",
         "title": "Force coordination distinguishes epithelial and mesenchymal modes of collective chemotaxis.",
         "summary": "Neural crest cells migrate differently in epithelial and mesenchymal states, with distinct supracellular force coordination and traction mechanisms during collective chemotaxis.",
@@ -638,20 +652,6 @@
         "title": "Bioresponsive immunomodulator nanocomplex for selective immunoengineering in metastatic lymph nodes.",
         "summary": "Here's a clear, concise summary sentence:\n\nA targeted nanocomplex selectively activates T-cell responses in metastatic lymph nodes, effectively inhibiting tumor growth and improving survival.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41557810/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 0,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-27"
-      },
-      {
-        "id": "recNQLNgmacLWFifz",
-        "title": "Scaling the glassy dynamics of active particles: Tunable fragility and reentrance.",
-        "summary": "Research shows how self-propelled particles in dense systems can alter glass-like dynamics, potentially offering insights into complex biological processes like cancer progression.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41557792/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -886,10 +886,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 800,
+    "archive_count": 801,
     "archive_supplements": 199,
     "archive_off_label": 54,
-    "archive_biomarkers": 387,
+    "archive_biomarkers": 388,
     "archive_trials": 160
   }
 }
