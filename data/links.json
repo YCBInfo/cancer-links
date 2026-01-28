@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-28T00:22:27.444Z",
+  "last_updated": "2026-01-28T00:22:36.491Z",
   "categories": {
     "supplements": [
       {
@@ -505,6 +505,21 @@
         "added_date": "2026-01-28"
       },
       {
+        "id": "recpTxyn5iCSvCvgf",
+        "title": "Discovery of novel and highly potent XIAP-targeted peptide inhibitors using virtual screening.",
+        "summary": "Researchers discovered a novel peptide that can effectively block a protein in lung cancer cells, potentially stopping tumor growth with minimal damage to healthy cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41566873/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-28"
+      },
+      {
         "id": "recRMmSUSU9Blx1c3",
         "title": "Force coordination distinguishes epithelial and mesenchymal modes of collective chemotaxis.",
         "summary": "Neural crest cells migrate differently in epithelial and mesenchymal states, with distinct supracellular force coordination and traction mechanisms during collective chemotaxis.",
@@ -642,21 +657,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Lung"
-        ],
-        "quality_score": 0,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-27"
-      },
-      {
-        "id": "rec7usdNf8rxQLkU7",
-        "title": "Network toxicology and Mendelian randomization reveal pathogenic factors of monoethyl phthalate-induced thyroid cancer.",
-        "summary": "Researchers identified 10 genes, particularly ESR1 and SKP2, that may mediate monoethyl phthalate's role in causing thyroid cancer through molecular and genetic analysis.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41499168/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia",
-          "Thyroid"
         ],
         "quality_score": 0,
         "pub_date": "2026-01-01",
@@ -887,10 +887,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 804,
+    "archive_count": 805,
     "archive_supplements": 200,
     "archive_off_label": 54,
-    "archive_biomarkers": 390,
+    "archive_biomarkers": 391,
     "archive_trials": 160
   }
 }
