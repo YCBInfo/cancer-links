@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-28T00:24:17.442Z",
+  "last_updated": "2026-01-28T00:24:26.873Z",
   "categories": {
     "supplements": [
       {
@@ -29,6 +29,20 @@
           "Kidney"
         ],
         "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-28"
+      },
+      {
+        "id": "recbio0gLgKMvMrxT",
+        "title": "Mangiferin in human disease: Multifaceted mechanisms and applications (Review).",
+        "summary": "Mangiferin, a natural compound, shows promise in suppressing cancer cell growth and inflammation by modulating key cellular signaling pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41574708/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-01-01",
         "added_date": "2026-01-28"
       },
@@ -202,21 +216,6 @@
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-27"
-      },
-      {
-        "id": "recoge7YfCMG9B7lo",
-        "title": "3'-Hydroxypterostilbene suppresses prostate cancer via apoptosis and autophagy in vitro and potent tumor growth inhibition in vivo.",
-        "summary": "3'-Hydroxypterostilbene, a plant compound, effectively suppresses prostate cancer growth by triggering cell death through apoptosis and autophagy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41505083/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Prostate",
           "Leukemia"
         ],
         "quality_score": 15,
@@ -887,8 +886,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 815,
-    "archive_supplements": 200,
+    "archive_count": 816,
+    "archive_supplements": 201,
     "archive_off_label": 54,
     "archive_biomarkers": 401,
     "archive_trials": 160
