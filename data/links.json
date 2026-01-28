@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-28T00:23:36.489Z",
+  "last_updated": "2026-01-28T00:23:46.640Z",
   "categories": {
     "supplements": [
       {
@@ -605,6 +605,20 @@
         "added_date": "2026-01-28"
       },
       {
+        "id": "recaaC27Pp6rFqNFY",
+        "title": "Secondary causes and renal outcomes in apparently resistant hypertension: a retrospective cohort study.",
+        "summary": "Patients with primary aldosteronism showed different kidney function decline compared to those with true resistant hypertension in a retrospective study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41504217/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Kidney"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-28"
+      },
+      {
         "id": "recRMmSUSU9Blx1c3",
         "title": "Force coordination distinguishes epithelial and mesenchymal modes of collective chemotaxis.",
         "summary": "Neural crest cells migrate differently in epithelial and mesenchymal states, with distinct supracellular force coordination and traction mechanisms during collective chemotaxis.",
@@ -642,20 +656,6 @@
         "cancer_types": [
           "Leukemia",
           "Thyroid"
-        ],
-        "quality_score": 0,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-27"
-      },
-      {
-        "id": "rec887xuyIxdfPCHd",
-        "title": "Caspase-3 cleaves and activates the NADase SARM1 to promote apoptosis, linking two cell death mechanisms.",
-        "summary": "Caspase-3 activates SARM1, a metabolic enzyme, during cell death in neuroblastoma and immune cells, potentially linking apoptosis and neurodegeneration.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41576094/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
         ],
         "quality_score": 0,
         "pub_date": "2026-01-01",
@@ -886,10 +886,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 811,
+    "archive_count": 812,
     "archive_supplements": 200,
     "archive_off_label": 54,
-    "archive_biomarkers": 397,
+    "archive_biomarkers": 398,
     "archive_trials": 160
   }
 }
