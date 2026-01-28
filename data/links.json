@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-28T00:34:21.926Z",
+  "last_updated": "2026-01-28T00:34:41.072Z",
   "categories": {
     "supplements": [
       {
@@ -84,6 +84,21 @@
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-28"
+      },
+      {
+        "id": "recXZBvsNoNQg57w5",
+        "title": "3'-Hydroxypterostilbene suppresses prostate cancer via apoptosis and autophagy in vitro and potent tumor growth inhibition in vivo.",
+        "summary": "3'-Hydroxypterostilbene effectively suppresses prostate cancer growth by inducing cell death through apoptosis and autophagy mechanisms.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41505083/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Prostate",
           "Leukemia"
         ],
         "quality_score": 15,
@@ -204,20 +219,6 @@
           "Bladder"
         ],
         "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-27"
-      },
-      {
-        "id": "rec5mQYNXKoPcbO6r",
-        "title": "Association between Gushen Antai recipe intervention and plasma cytokines during early pregnancy following IVF-ET: a cohort study.",
-        "summary": "Here's a clear, concise summary sentence:\n\nA traditional Chinese herbal medicine called Gushen Antai recipe may help improve pregnancy success rates for women undergoing IVF by modulating immune system responses.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41575072/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-01-01",
         "added_date": "2026-01-27"
       }
@@ -885,8 +886,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 869,
-    "archive_supplements": 204,
+    "archive_count": 870,
+    "archive_supplements": 205,
     "archive_off_label": 55,
     "archive_biomarkers": 443,
     "archive_trials": 167
