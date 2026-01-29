@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-29T18:02:34.150Z",
+  "last_updated": "2026-01-29T18:02:43.341Z",
   "categories": {
     "supplements": [
       {
@@ -786,6 +786,21 @@
         "added_date": "2026-01-29"
       },
       {
+        "id": "recUW1LNSRxAW4xsZ",
+        "title": "Treatment effect of neoadjuvant immunotherapy in melanoma correlates with tumor burden: meta-analysis of reported clinical trials.",
+        "summary": "In melanoma, higher tumor burden is associated with lower rates of complete pathological response to neoadjuvant immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41607207/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Melanoma",
+          "Leukemia"
+        ],
+        "quality_score": 25,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-29"
+      },
+      {
         "id": "rec48L1P8ubaYEDDw",
         "title": "Peptide-drug conjugates in tumor therapy: Current advances and future perspectives.",
         "summary": "Peptide-drug conjugates show promise in cancer therapy by precisely targeting tumors, enhancing drug delivery, and reducing systemic toxicity.",
@@ -857,21 +872,6 @@
         "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-01-28"
-      },
-      {
-        "id": "rec0p41v5ejp5Pax2",
-        "title": "[Evaluation of long-term prognosis of gastric cancer patients by tumor textbook outcome and analysis of related factors].",
-        "summary": "In gastric cancer patients, achieving textbook oncologic outcome is associated with significantly better long-term survival, particularly for younger patients with early-stage disease.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41582511/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Leukemia",
-          "Stomach"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-28"
       }
     ]
   },
@@ -881,10 +881,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2205,
+    "archive_count": 2206,
     "archive_supplements": 309,
     "archive_off_label": 72,
-    "archive_biomarkers": 1024,
+    "archive_biomarkers": 1025,
     "archive_trials": 468
   }
 }
