@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-29T17:59:41.276Z",
+  "last_updated": "2026-01-29T17:59:51.923Z",
   "categories": {
     "supplements": [
       {
@@ -715,6 +715,20 @@
         "added_date": "2026-01-29"
       },
       {
+        "id": "recfyShM1y81v8Rji",
+        "title": "Lack of synergy between AR-targeted therapies and PARP inhibitors in homologous recombination-proficient prostate cancer.",
+        "summary": "In prostate cancer, combining AR and PARP inhibitors shows limited effectiveness, with cell cycle progression being more critical for PARP inhibitor response than previously thought.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41591905/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-29"
+      },
+      {
         "id": "rec48L1P8ubaYEDDw",
         "title": "Peptide-drug conjugates in tumor therapy: Current advances and future perspectives.",
         "summary": "Peptide-drug conjugates show promise in cancer therapy by precisely targeting tumors, enhancing drug delivery, and reducing systemic toxicity.",
@@ -859,21 +873,6 @@
         "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-01-28"
-      },
-      {
-        "id": "recAndiJMVJUckA35",
-        "title": "[Preliminary application of linear stapler-assisted en bloc resection of lateral pelvic sidewall for locally advanced rectal cancer and locally recurrent rectal cancer with significant pelvic occupation].",
-        "summary": "A surgical technique using linear staplers enables precise, less invasive removal of laterally invasive rectal cancer tumors while minimizing blood loss and complications.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41566188/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Colorectal",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-28"
       }
     ]
   },
@@ -883,10 +882,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2188,
+    "archive_count": 2189,
     "archive_supplements": 309,
     "archive_off_label": 71,
-    "archive_biomarkers": 1013,
+    "archive_biomarkers": 1014,
     "archive_trials": 463
   }
 }
