@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-29T17:57:29.890Z",
+  "last_updated": "2026-01-29T17:57:40.328Z",
   "categories": {
     "supplements": [
       {
@@ -39,6 +39,22 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-29"
+      },
+      {
+        "id": "recaQY80FKfK5YdTS",
+        "title": "Coriandrum sativum improves prognosis in clear cell renal cell carcinoma by targeting NEK6 to modulate the immune microenvironment: a predictive study based on network pharmacology and multi-omics analysis.",
+        "summary": "Coriander compounds target NEK6 in clear cell renal cell carcinoma, potentially improving prognosis by modulating immune cell interactions and reducing tumor aggression.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41568676/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal",
+          "Leukemia",
+          "Kidney"
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
@@ -200,21 +216,6 @@
         "cancer_types": [
           "Prostate",
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-28"
-      },
-      {
-        "id": "recdLzLTeJAqVu9vq",
-        "title": "Celastrol induces cardiotoxicity by directly targeting AMOTL2 and inhibiting YAP1/PGC-1α/TFAM-dependent mitochondrial biogenesis.",
-        "summary": "Celastrol causes heart damage by blocking a key protein (AMOTL2), which disrupts mitochondrial function and promotes cell death in heart tissue.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41412440/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia",
-          "Lymphoma"
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
@@ -882,10 +883,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2175,
+    "archive_count": 2176,
     "archive_supplements": 306,
     "archive_off_label": 71,
-    "archive_biomarkers": 1003,
+    "archive_biomarkers": 1004,
     "archive_trials": 463
   }
 }
