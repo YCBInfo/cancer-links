@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-29T18:26:07.376Z",
+  "last_updated": "2026-01-29T22:35:31.224Z",
   "categories": {
     "supplements": [
       {
@@ -712,6 +712,20 @@
         "added_date": "2026-01-29"
       },
       {
+        "id": "recDzzHWzQcGvh7LW",
+        "title": "Integrated mutational landscape analysis of endometrial stromal sarcoma.",
+        "summary": "Whole-genome analysis of endometrial stromal sarcoma reveals RAD54B amplifications as an oncogenic driver and suggests MEK/FAK inhibition as a potential targeted treatment strategy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41591910/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-29"
+      },
+      {
         "id": "recfyShM1y81v8Rji",
         "title": "Lack of synergy between AR-targeted therapies and PARP inhibitors in homologous recombination-proficient prostate cancer.",
         "summary": "In prostate cancer, combining AR and PARP inhibitors shows limited effectiveness, with cell cycle progression being more critical for PARP inhibitor response than previously thought.",
@@ -783,6 +797,20 @@
         "added_date": "2026-01-29"
       },
       {
+        "id": "recenyBgDjOyfsqby",
+        "title": "Prognostic determinants of survival in early-stage endometrial cancer: A retrospective analysis.",
+        "summary": "In early-stage endometrial cancer, tumor characteristics like grade, stage, and invasion depth significantly impact patient survival and guide treatment decisions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41608872/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-29"
+      },
+      {
         "id": "recUW1LNSRxAW4xsZ",
         "title": "Treatment effect of neoadjuvant immunotherapy in melanoma correlates with tumor burden: meta-analysis of reported clinical trials.",
         "summary": "In melanoma, higher tumor burden is associated with lower rates of complete pathological response to neoadjuvant immunotherapy.",
@@ -838,35 +866,6 @@
         "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-01-29"
-      },
-      {
-        "id": "recndHlUDgt4jTGqY",
-        "title": "Biological assessment of a novel isoindoline-naphthyridine derivative with anticancer potential in oral squmaous cell carcinoma: In vitro and In silico approach.",
-        "summary": "A novel isoindoline-naphthyridine compound effectively inhibits oral squamous cell carcinoma cells by disrupting cellular processes and potentially targeting key cancer proteins.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41483500/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-29"
-      },
-      {
-        "id": "rec4JqU8yAsuIJCdX",
-        "title": "A complete pathological response to preoperative chemotherapy in a male patient with primary neuroendocrine breast cancer: a case report.",
-        "summary": "A male patient with rare small-cell breast cancer achieved complete tumor response after preoperative chemotherapy, successfully treating this aggressive cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41606673/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Breast",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-29"
       }
     ]
   },
@@ -876,10 +875,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2345,
+    "archive_count": 2348,
     "archive_supplements": 321,
     "archive_off_label": 73,
     "archive_biomarkers": 1100,
-    "archive_trials": 519
+    "archive_trials": 522
   }
 }
