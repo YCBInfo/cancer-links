@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-29T18:04:04.215Z",
+  "last_updated": "2026-01-29T18:04:14.278Z",
   "categories": {
     "supplements": [
       {
@@ -829,6 +829,20 @@
         "added_date": "2026-01-29"
       },
       {
+        "id": "rec2R0grNSeS7u90U",
+        "title": "Palbociclib for Hormone-Receptor-Positive, HER2-Positive Advanced Breast Cancer.",
+        "summary": "Palbociclib, a targeted drug, shows promise in overcoming treatment resistance in hormone-receptor-positive, HER2-positive advanced breast cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41604639/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-29"
+      },
+      {
         "id": "rec48L1P8ubaYEDDw",
         "title": "Peptide-drug conjugates in tumor therapy: Current advances and future perspectives.",
         "summary": "Peptide-drug conjugates show promise in cancer therapy by precisely targeting tumors, enhancing drug delivery, and reducing systemic toxicity.",
@@ -855,21 +869,6 @@
         "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-01-28"
-      },
-      {
-        "id": "recfOs0ksILe8Ili4",
-        "title": "Late failure of aggressive B-cell lymphoma after CAR T-cell therapy: a LYSA study from the DESCAR-T registry.",
-        "summary": "In late-stage large B-cell lymphoma, bispecific antibodies showed better progression-free survival compared to other treatments after CAR T-cell therapy failure.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41124667/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Leukemia",
-          "Lymphoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-28"
       }
     ]
   },
@@ -879,10 +878,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2214,
+    "archive_count": 2215,
     "archive_supplements": 310,
     "archive_off_label": 72,
-    "archive_biomarkers": 1029,
+    "archive_biomarkers": 1030,
     "archive_trials": 471
   }
 }
