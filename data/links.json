@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-29T17:56:09.288Z",
+  "last_updated": "2026-01-29T17:56:19.006Z",
   "categories": {
     "supplements": [
       {
@@ -686,6 +686,20 @@
         "added_date": "2026-01-29"
       },
       {
+        "id": "recQDJAkkL4Ks6zZo",
+        "title": "Clinical efficacy of 2-week and 3-week albumin-bound paclitaxel therapy for advanced pancreatic cancer.",
+        "summary": "A comparison study found that two different schedules of albumin-bound paclitaxel showed similar effectiveness in treating advanced pancreatic cancer patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41588563/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Pancreatic"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-29"
+      },
+      {
         "id": "rec48L1P8ubaYEDDw",
         "title": "Peptide-drug conjugates in tumor therapy: Current advances and future perspectives.",
         "summary": "Peptide-drug conjugates show promise in cancer therapy by precisely targeting tumors, enhancing drug delivery, and reducing systemic toxicity.",
@@ -859,20 +873,6 @@
         "quality_score": 15,
         "pub_date": "2025-12-01",
         "added_date": "2026-01-28"
-      },
-      {
-        "id": "recedrX7EVN2FU4VZ",
-        "title": "Evolution and trends in non-viral mRNA Cancer vaccines: A scoping review from 2015 to 2025.",
-        "summary": "mRNA cancer vaccines are shifting from dendritic cell-based to lipid nanoparticle delivery systems, with increasing use in combination immunotherapies across various cancer types.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41352221/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2025-12-01",
-        "added_date": "2026-01-28"
       }
     ]
   },
@@ -882,10 +882,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2167,
+    "archive_count": 2168,
     "archive_supplements": 304,
     "archive_off_label": 71,
-    "archive_biomarkers": 999,
+    "archive_biomarkers": 1000,
     "archive_trials": 461
   }
 }
