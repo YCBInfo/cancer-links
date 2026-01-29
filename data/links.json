@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-29T18:00:42.155Z",
+  "last_updated": "2026-01-29T18:00:51.941Z",
   "categories": {
     "supplements": [
       {
@@ -757,6 +757,21 @@
         "added_date": "2026-01-29"
       },
       {
+        "id": "recKGBFrn31rAim8H",
+        "title": "Hemophagocytic Lymphohistiocytosis as First Manifestation of Dual B-Cell Neoplasms: A Case Report of Co-Existing Multiple Myeloma and B-Cell Lymphoma.",
+        "summary": "A 61-year-old patient with rare hemophagocytic lymphohistiocytosis was successfully treated with tocilizumab after experiencing multiple myeloma and B-cell lymphoma simultaneously.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41584900/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Leukemia",
+          "Lymphoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-29"
+      },
+      {
         "id": "rec48L1P8ubaYEDDw",
         "title": "Peptide-drug conjugates in tumor therapy: Current advances and future perspectives.",
         "summary": "Peptide-drug conjugates show promise in cancer therapy by precisely targeting tumors, enhancing drug delivery, and reducing systemic toxicity.",
@@ -857,21 +872,6 @@
         "quality_score": 32,
         "pub_date": "2026-01-01",
         "added_date": "2026-01-28"
-      },
-      {
-        "id": "recsQf8Eo7ryjNyRV",
-        "title": "The 'Comparison of diagnostic accuracy of Luminal Index and standard of care MRI for Accelerated deTEction of prostate cancer' (CLIMATE) trial protocol.",
-        "summary": "Here's a clear, concise summary sentence:\n\nThis clinical trial protocol will evaluate a new, faster MRI technique (Luminal Index) for more accurately detecting clinically significant prostate cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41582606/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Prostate",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-28"
       }
     ]
   },
@@ -881,10 +881,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2194,
+    "archive_count": 2195,
     "archive_supplements": 309,
     "archive_off_label": 72,
     "archive_biomarkers": 1016,
-    "archive_trials": 465
+    "archive_trials": 466
   }
 }
