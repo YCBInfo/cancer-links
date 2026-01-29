@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-29T18:03:03.372Z",
+  "last_updated": "2026-01-29T18:03:13.755Z",
   "categories": {
     "supplements": [
       {
@@ -801,6 +801,20 @@
         "added_date": "2026-01-29"
       },
       {
+        "id": "recuIEUyonKslkVs5",
+        "title": "Use of a Cystatin C-Based GFR Equation in a Population Pharmacokinetic Model of Methotrexate Clearance in Adult Patients with Lymphoma.",
+        "summary": "Researchers investigated whether using cystatin C could improve predicting methotrexate clearance in lymphoma patients receiving high-dose treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41606413/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Lymphoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-29"
+      },
+      {
         "id": "rec48L1P8ubaYEDDw",
         "title": "Peptide-drug conjugates in tumor therapy: Current advances and future perspectives.",
         "summary": "Peptide-drug conjugates show promise in cancer therapy by precisely targeting tumors, enhancing drug delivery, and reducing systemic toxicity.",
@@ -856,22 +870,6 @@
         "quality_score": 38,
         "pub_date": "2026-01-01",
         "added_date": "2026-01-28"
-      },
-      {
-        "id": "rec6bDrwMsK9RY8sO",
-        "title": "Bio-reductive hetero-bimetallic Co(iii)-Pt(ii) complex for tumor-selective platinum release and cytotoxicity.",
-        "summary": "A novel Co(iii)-Pt(ii) complex selectively targets lung and breast cancer cells by releasing platinum under tumor-specific reductive conditions.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41582842/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Breast",
-          "Colorectal",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-28"
       }
     ]
   },
@@ -881,10 +879,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2208,
+    "archive_count": 2209,
     "archive_supplements": 309,
     "archive_off_label": 72,
-    "archive_biomarkers": 1026,
+    "archive_biomarkers": 1027,
     "archive_trials": 469
   }
 }
