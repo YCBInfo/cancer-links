@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-29T17:35:51.635Z",
+  "last_updated": "2026-01-29T17:36:06.648Z",
   "categories": {
     "supplements": [
       {
@@ -657,6 +657,20 @@
     ],
     "trials": [
       {
+        "id": "reco1pLisFQgfqImu",
+        "title": "Current status of anti-obesity medications and performance, an EHR based survey",
+        "summary": "An electronic health record study found that FDA-approved obesity medications like tirzepatide and semaglutide can help some patients achieve 10-48% weight loss with metabolic improvements.",
+        "url": "https://www.medrxiv.org/content/10.1101/2024.12.02.24318314",
+        "source": "medRxiv",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 21,
+        "pub_date": "2026-01-15",
+        "added_date": "2026-01-29"
+      },
+      {
         "id": "rec48L1P8ubaYEDDw",
         "title": "Peptide-drug conjugates in tumor therapy: Current advances and future perspectives.",
         "summary": "Peptide-drug conjugates show promise in cancer therapy by precisely targeting tumors, enhancing drug delivery, and reducing systemic toxicity.",
@@ -858,20 +872,6 @@
         "quality_score": 21,
         "pub_date": "2026-01-01",
         "added_date": "2026-01-28"
-      },
-      {
-        "id": "recTc8HMC4lpcIgTa",
-        "title": "Perioperative chemoimmunotherapy for patients with gastric or gastroesophageal junction cancer: a systematic review and meta-analysis.",
-        "summary": "The meta-analysis suggests that adding immune checkpoint inhibitors to perioperative treatment may improve outcomes for patients with gastric and gastroesophageal junction cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41581222/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 22,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-28"
       }
     ]
   },
@@ -881,10 +881,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2127,
+    "archive_count": 2129,
     "archive_supplements": 304,
     "archive_off_label": 70,
-    "archive_biomarkers": 962,
+    "archive_biomarkers": 964,
     "archive_trials": 459
   }
 }
