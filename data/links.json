@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-29T18:03:13.755Z",
+  "last_updated": "2026-01-29T18:03:23.363Z",
   "categories": {
     "supplements": [
       {
@@ -83,6 +83,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Lung",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-29"
+      },
+      {
+        "id": "recppdAtYmV1qWDyT",
+        "title": "Roseburia intestinalis Offers Vagus-Dependent Neuroprotection Against Parkinson's Disease.",
+        "summary": "In a mouse Parkinson's disease model, live Roseburia intestinalis bacteria improved motor function and protected brain neurons through gut-brain communication pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41606412/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
           "Leukemia"
         ],
         "quality_score": 15,
@@ -201,20 +215,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Lung",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-28"
-      },
-      {
-        "id": "rec6PC31OfUPX98Rv",
-        "title": "Ultrasound-assisted extraction of endemic Stachys antalyensis: LC-ESI-MS/MS phenolic profiling and in vitro antioxidant, enzyme-inhibitory, and cytotoxicity evaluation.",
-        "summary": "Stachys antalyensis methanolic extract shows antioxidant and enzyme-inhibiting properties with low toxicity on lung cancer cells, demonstrating potential therapeutic value.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41582425/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
           "Leukemia"
         ],
         "quality_score": 15,
@@ -879,10 +879,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2209,
+    "archive_count": 2210,
     "archive_supplements": 309,
     "archive_off_label": 72,
     "archive_biomarkers": 1027,
-    "archive_trials": 469
+    "archive_trials": 470
   }
 }
