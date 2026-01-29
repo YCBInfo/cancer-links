@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-29T13:56:41.428Z",
+  "last_updated": "2026-01-29T13:56:57.184Z",
   "categories": {
     "supplements": [
       {
@@ -524,6 +524,36 @@
         "added_date": "2026-01-29"
       },
       {
+        "id": "recUjhmXkluUfmVGn",
+        "title": "Advancing Brain Tumor Diagnosis Using Deep Learning: A Systematic Review on Glioma Segmentation and Classification on Multiparametric MRI",
+        "summary": "Deep learning models can accurately segment and classify glioma brain tumors using multiparametric MRI, achieving over 90% accuracy and potentially improving diagnostic precision.",
+        "url": "https://www.medrxiv.org/content/10.64898/2026.01.13.26344038",
+        "source": "medRxiv",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia",
+          "Brain"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-01-15",
+        "added_date": "2026-01-29"
+      },
+      {
+        "id": "recSiy4a61CFoEC4m",
+        "title": "Vasculopathy as a Mechanical Barrier to Cancer Spread: Clinical Evidence and a Rheology-Based Model in Lung Cancer",
+        "summary": "In lung cancer patients with peripheral arterial disease, increased blood viscosity and inflammation appear to mechanically impede tumor cell spread, reducing metastasis by approximately 50%.",
+        "url": "https://www.medrxiv.org/content/10.64898/2026.01.12.26343968",
+        "source": "medRxiv",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung",
+          "Leukemia"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-01-15",
+        "added_date": "2026-01-29"
+      },
+      {
         "id": "reclITVJAvFV7vZ82",
         "title": "A tri-scale in silico framework integrating pharmacovigilance and mechanistic modeling suggests tepotinib-associated acute kidney injury risk.",
         "summary": "A computational analysis of tepotinib for non-small cell lung cancer reveals potential acute kidney injury risk through multi-scale pharmacological investigation.",
@@ -619,35 +649,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Kidney"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-28"
-      },
-      {
-        "id": "recH2tyLgcxeC7lmF",
-        "title": "Environmental tobacco smoke exposure and pelvic inflammatory disease: a cross-sectional analysis of serum cotinine.",
-        "summary": "Non-smoking women with higher serum cotinine levels showed increased risk of pelvic inflammatory disease, suggesting environmental tobacco smoke exposure may impact reproductive health.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41562602/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-28"
-      },
-      {
-        "id": "recx752OGKpfQl40O",
-        "title": "Machine learning-assisted detection of canine mammary tumors using serum autoantibody signatures.",
-        "summary": "A machine learning model using blood autoantibody signatures can accurately detect canine mammary tumors, offering a promising noninvasive diagnostic approach.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41562247/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast",
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
@@ -880,10 +881,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2082,
+    "archive_count": 2085,
     "archive_supplements": 304,
     "archive_off_label": 70,
-    "archive_biomarkers": 917,
+    "archive_biomarkers": 920,
     "archive_trials": 459
   }
 }
