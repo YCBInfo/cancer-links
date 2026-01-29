@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-29T22:35:46.410Z",
+  "last_updated": "2026-01-29T22:36:20.770Z",
   "categories": {
     "supplements": [
       {
@@ -277,6 +277,48 @@
         "added_date": "2026-01-29"
       },
       {
+        "id": "rec9Y3rEfFhB8Vo7F",
+        "title": "FDA ORIG: SIROLIMUS (SIROLIMUS)",
+        "summary": "I apologize, but this appears to be a regulatory document about a pharmaceutical approval for sirolimus, not a cancer research abstract. The text looks like a standard FDA original document listing details about a medication's approval, rather than a research study describing cancer findings. Without more context about a specific cancer research paper, I cannot generate a research summary sentence.\n\nWould you like to share the full cancer research abstract or study details?",
+        "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=ANDA215116",
+        "source": "FDA Drug Approvals",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 9,
+        "pub_date": "2025-07-15",
+        "added_date": "2026-01-29"
+      },
+      {
+        "id": "recdBCWpeWYxkmfnZ",
+        "title": "FDA SUPPL: RINVOQ (UPADACITINIB)",
+        "summary": "I apologize, but this appears to be a FDA supplement document about a drug (Rinvoq/upadacitinib), which seems to be a pharmaceutical registration record, not a cancer research abstract. Without a specific cancer research summary provided, I cannot create a research summary sentence. If you intended to share a cancer research abstract, could you please re-upload the full text?",
+        "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=NDA211675",
+        "source": "FDA Drug Approvals",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 9,
+        "pub_date": "2025-10-10",
+        "added_date": "2026-01-29"
+      },
+      {
+        "id": "recjZOx3VdoleFW9L",
+        "title": "FDA SUPPL: SIROLIMUS (SIROLIMUS)",
+        "summary": "I apologize, but this document appears to be an FDA supplement for Sirolimus, which seems to be a pharmaceutical registration document. There is no cancer research summary or findings in this text. The document looks like an administrative record about a medication's regulatory status. Without additional context about specific cancer research involving Sirolimus, I cannot create a research summary sentence.\n\nIf you have a specific cancer research paper or abstract you'd like me to summarize, please provide that text.",
+        "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=ANDA214753",
+        "source": "FDA Drug Approvals",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 9,
+        "pub_date": "2023-04-04",
+        "added_date": "2026-01-29"
+      },
+      {
         "id": "rec79Ff0F6J2FEONs",
         "title": "Aspirin and Atorvastatin Augmentation Treatment in Patients with Major Affective Disorders and Inflammatory Dysregulation: A 12-Week Randomized Placebo-Controlled Study.",
         "summary": "In patients with major affective disorders, combining aspirin and atorvastatin showed potential to enhance antidepressant treatment by addressing underlying inflammatory processes.",
@@ -386,49 +428,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
-        "added_date": "2026-01-28"
-      },
-      {
-        "id": "recDCFEKe21stI0X4",
-        "title": "Efficacy and safety of Traditional Chinese Medicine injections for no-reflow or slow flow in patients with acute coronary syndrome after percutaneous coronary intervention: a systematic review and network meta-analysis.",
-        "summary": "Chinese medicine injections show potential in reducing ischemia-reperfusion injury and improving outcomes for patients after heart procedure interventions.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41573502/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Melanoma",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-28"
-      },
-      {
-        "id": "recAxO5mg7eF25OAU",
-        "title": "Priapism Associated With the Rapid Titration of Prazosin: A Case Report.",
-        "summary": "A patient developed priapism (prolonged, painful erection) after quickly increasing his prazosin medication dosage without gradual titration.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/40085943/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-28"
-      },
-      {
-        "id": "recKOfYjIKJTskzRp",
-        "title": "Inpatient Use of Valproic Acid in Agitated Delirium by Palliative Medicine.",
-        "summary": "In palliative care patients, including cancer patients, Valproic Acid showed potential for managing agitated delirium without additional sedative medications.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/39957131/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 24,
-        "pub_date": "2025-12-01",
         "added_date": "2026-01-28"
       }
     ],
@@ -874,10 +873,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2357,
+    "archive_count": 2361,
     "archive_supplements": 321,
-    "archive_off_label": 74,
+    "archive_off_label": 75,
     "archive_biomarkers": 1102,
-    "archive_trials": 528
+    "archive_trials": 531
   }
 }
