@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-29T22:35:31.224Z",
+  "last_updated": "2026-01-29T22:35:43.952Z",
   "categories": {
     "supplements": [
       {
@@ -263,6 +263,20 @@
         "added_date": "2026-01-29"
       },
       {
+        "id": "recdLI6trcC5Nl7q0",
+        "title": "FDA ORIG: SIROLIMUS (SIROLIMUS)",
+        "summary": "I apologize, but this appears to be a regulatory document about a pharmaceutical drug (sirolimus) and not a cancer research abstract. The text looks like a technical FDA original document describing a medication's details, but does not contain cancer research findings. Without a specific research summary, I cannot create a sentence summarizing cancer research results.\n\nIf you intended to share a cancer research abstract, could you please provide the full text of the research paper or abstract?",
+        "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=ANDA215080",
+        "source": "FDA Drug Approvals",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 9,
+        "pub_date": "2024-09-16",
+        "added_date": "2026-01-29"
+      },
+      {
         "id": "rec79Ff0F6J2FEONs",
         "title": "Aspirin and Atorvastatin Augmentation Treatment in Patients with Major Affective Disorders and Inflammatory Dysregulation: A 12-Week Randomized Placebo-Controlled Study.",
         "summary": "In patients with major affective disorders, combining aspirin and atorvastatin showed potential to enhance antidepressant treatment by addressing underlying inflammatory processes.",
@@ -415,21 +429,6 @@
         ],
         "quality_score": 24,
         "pub_date": "2025-12-01",
-        "added_date": "2026-01-28"
-      },
-      {
-        "id": "recP7bxTiji2iOktF",
-        "title": "An acquired CCDC6::RET gene fusion as resistance mechanism for Osimertinib in exon 21 EGFR(L858R)-mutated non-small cell lung cancer and its successful management with Osimertinib and Selpercatinib: a case report and review of literature.",
-        "summary": "A patient with lung cancer developed a RET gene fusion during Osimertinib treatment, which was successfully managed with a combination of Osimertinib and Selpercatinib, leading to 14 months of progression-free survival.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/39757555/",
-        "source": "PubMed",
-        "category": "Approved Cancer Drugs",
-        "cancer_types": [
-          "Lung",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
         "added_date": "2026-01-28"
       }
     ],
@@ -875,10 +874,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2348,
+    "archive_count": 2351,
     "archive_supplements": 321,
     "archive_off_label": 73,
-    "archive_biomarkers": 1100,
-    "archive_trials": 522
+    "archive_biomarkers": 1101,
+    "archive_trials": 524
   }
 }
