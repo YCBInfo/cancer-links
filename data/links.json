@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-29T18:12:58.758Z",
+  "last_updated": "2026-01-29T18:13:09.241Z",
   "categories": {
     "supplements": [
       {
@@ -189,6 +189,20 @@
         "added_date": "2026-01-29"
       },
       {
+        "id": "reco07DYvJHgoIYjD",
+        "title": "Recent Advances in Natural Products for Cancer Immunotherapy.",
+        "summary": "Natural products like polysaccharides, flavonoids, and terpenoids can enhance cancer immunotherapy by reshaping the immune environment and boosting anti-tumor immune responses.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41605604/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-29"
+      },
+      {
         "id": "rec5TGZE9ylLR6Cor",
         "title": "Association between Gushen Antai recipe intervention and plasma cytokines during early pregnancy following IVF-ET: a cohort study.",
         "summary": "Herbal medicine Gushen Antai recipe may improve early pregnancy success after IVF by positively influencing plasma cytokine levels.",
@@ -199,22 +213,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-28"
-      },
-      {
-        "id": "recnhzSFnvHSV8dcN",
-        "title": "Coriandrum sativum improves prognosis in clear cell renal cell carcinoma by targeting NEK6 to modulate the immune microenvironment: a predictive study based on network pharmacology and multi-omics analysis.",
-        "summary": "Coriander compounds may improve clear cell renal cell carcinoma prognosis by targeting NEK6 and enhancing immune cell interactions in the tumor microenvironment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41568676/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal",
-          "Leukemia",
-          "Kidney"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-01-28"
       }
@@ -876,10 +874,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2267,
+    "archive_count": 2268,
     "archive_supplements": 316,
     "archive_off_label": 72,
-    "archive_biomarkers": 1058,
+    "archive_biomarkers": 1059,
     "archive_trials": 489
   }
 }
