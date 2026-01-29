@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-29T22:36:21.670Z",
+  "last_updated": "2026-01-29T22:36:58.530Z",
   "categories": {
     "supplements": [
       {
@@ -319,6 +319,34 @@
         "added_date": "2026-01-29"
       },
       {
+        "id": "recmqoU8sHXn76tar",
+        "title": "FDA SUPPL: NILOTINIB (NILOTINIB)",
+        "summary": "I apologize, but this appears to be a pharmaceutical regulatory document about a drug filing, not a cancer research abstract. The text provides administrative details about a nilotinib supplement filing with the FDA, listing basic drug information like manufacturer and route of administration. Without a research findings section, I cannot generate a research summary sentence. If you have the full research paper or abstract, I'd be happy to help summarize its key finding.",
+        "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=NDA218922",
+        "source": "FDA Drug Approvals",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 9,
+        "pub_date": "2025-07-10",
+        "added_date": "2026-01-29"
+      },
+      {
+        "id": "recezK8OQsyOVf21m",
+        "title": "FDA SUPPL: RINVOQ (UPADACITINIB)",
+        "summary": "I apologize, but this appears to be an FDA regulatory supplement document about a medication (Rinvoq/upadacitinib), which seems to be a Janus Kinase inhibitor, but does not contain specific cancer research details or findings. Without more context about the specific research or clinical trial, I cannot generate a research summary sentence.\n\nWould you be able to provide the full research abstract or paper text so I can help you summarize its key finding?",
+        "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=NDA218347",
+        "source": "FDA Drug Approvals",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 9,
+        "pub_date": "2025-10-10",
+        "added_date": "2026-01-29"
+      },
+      {
         "id": "rec79Ff0F6J2FEONs",
         "title": "Aspirin and Atorvastatin Augmentation Treatment in Patients with Major Affective Disorders and Inflammatory Dysregulation: A 12-Week Randomized Placebo-Controlled Study.",
         "summary": "In patients with major affective disorders, combining aspirin and atorvastatin showed potential to enhance antidepressant treatment by addressing underlying inflammatory processes.",
@@ -400,34 +428,6 @@
         ],
         "quality_score": 24,
         "pub_date": "2025-12-01",
-        "added_date": "2026-01-28"
-      },
-      {
-        "id": "recHqYucWYzCSQNsk",
-        "title": "Effect of treatment duration on the associations between three modern antidiabetic drugs and survival outcomes of lung cancer in China.",
-        "summary": "In lung cancer patients with diabetes, longer use of certain antidiabetic drugs (GLP-1RA, DPP-4I, SGLT-2I) may improve survival outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41573744/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-28"
-      },
-      {
-        "id": "reckgSFrpoOPOx6QM",
-        "title": "The improvement effect and mechanism of traditional Chinese medicine on chemotherapy-induced diarrhea: a systematic review.",
-        "summary": "Traditional Chinese medicine shows promise in alleviating chemotherapy-induced diarrhea by reducing inflammation, protecting intestinal barriers, and regulating gut flora.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41573719/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
         "added_date": "2026-01-28"
       }
     ],
@@ -873,10 +873,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2368,
+    "archive_count": 2372,
     "archive_supplements": 321,
-    "archive_off_label": 77,
+    "archive_off_label": 78,
     "archive_biomarkers": 1102,
-    "archive_trials": 536
+    "archive_trials": 539
   }
 }
