@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-29T17:44:12.272Z",
+  "last_updated": "2026-01-29T17:44:27.908Z",
   "categories": {
     "supplements": [
       {
@@ -224,6 +224,20 @@
     ],
     "off_label": [
       {
+        "id": "recrqdu3POIfkJwH3",
+        "title": "Current status of anti-obesity medications and performance, an EHR based survey",
+        "summary": "A comprehensive electronic health records study revealed that tirzepatide and semaglutide are the most effective anti-obesity medications, achieving significant weight loss in 42-48% of patients.",
+        "url": "https://www.medrxiv.org/content/10.1101/2024.12.02.24318314",
+        "source": "medRxiv",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 21,
+        "pub_date": "2026-01-15",
+        "added_date": "2026-01-29"
+      },
+      {
         "id": "rec79Ff0F6J2FEONs",
         "title": "Aspirin and Atorvastatin Augmentation Treatment in Patients with Major Affective Disorders and Inflammatory Dysregulation: A 12-Week Randomized Placebo-Controlled Study.",
         "summary": "In patients with major affective disorders, combining aspirin and atorvastatin showed potential to enhance antidepressant treatment by addressing underlying inflammatory processes.",
@@ -419,20 +433,6 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-01-01",
-        "added_date": "2026-01-28"
-      },
-      {
-        "id": "recGpk9uOMeQTGb8e",
-        "title": "Real-world studies in psychiatry: insights into antipsychotic-associated breast cancer risk and their broader implications.",
-        "summary": "Research suggests antipsychotic medications may be associated with increased breast cancer risk in women with schizophrenia, highlighting the importance of monitoring long-term medication effects.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/40357757/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2025-12-01",
         "added_date": "2026-01-28"
       }
     ],
@@ -881,10 +881,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2147,
+    "archive_count": 2154,
     "archive_supplements": 304,
-    "archive_off_label": 70,
-    "archive_biomarkers": 981,
+    "archive_off_label": 71,
+    "archive_biomarkers": 987,
     "archive_trials": 460
   }
 }
