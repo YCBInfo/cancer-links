@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-29T13:56:16.400Z",
+  "last_updated": "2026-01-29T13:56:41.428Z",
   "categories": {
     "supplements": [
       {
@@ -438,6 +438,92 @@
     ],
     "biomarkers": [
       {
+        "id": "recNsse7mmwFJniak",
+        "title": "Collective directional memory controls the range of epithelial cell migration",
+        "summary": "Epithelial cells migrate collectively more efficiently than individually, using coordinated velocity and adhesion to explore space over different timescales.",
+        "url": "https://www.biorxiv.org/content/10.1101/2023.12.08.570811",
+        "source": "bioRxiv",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-01-23",
+        "added_date": "2026-01-29"
+      },
+      {
+        "id": "recgdWkyleQOWHjRU",
+        "title": "Spatial control of Keratin 8 phosphorylation by Aurora B facilitates cytokinesis in cancer cells of epithelial origin",
+        "summary": "Aurora B kinase phosphorylates Keratin 8 at specific sites during cell division, facilitating keratin filament breakdown and successful cytokinesis in epithelial cancer cells.",
+        "url": "https://www.biorxiv.org/content/10.1101/2023.01.22.525045",
+        "source": "bioRxiv",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-01-15",
+        "added_date": "2026-01-29"
+      },
+      {
+        "id": "recqrLjCkDuAuUCPw",
+        "title": "HER2-driven mammary tumorigenesis enhances bioenergetics despite reductions in mitochondrial content",
+        "summary": "In HER2-driven breast cancer, tumors show increased mitochondrial respiration despite reduced mitochondrial content, suggesting unique metabolic adaptations supporting cancer growth.",
+        "url": "https://www.biorxiv.org/content/10.1101/2024.11.03.621754",
+        "source": "bioRxiv",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast",
+          "Leukemia"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-01-22",
+        "added_date": "2026-01-29"
+      },
+      {
+        "id": "rec4m8hq72EXGYLjL",
+        "title": "Adaptation of human cell populations to different levels of centriole amplification",
+        "summary": "Cells with extra centrioles are negatively selected, but populations can adapt to maintain a consistent level of centriole amplification across different PLK4 overexpression levels.",
+        "url": "https://www.biorxiv.org/content/10.1101/2024.02.15.580424",
+        "source": "bioRxiv",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-01-28",
+        "added_date": "2026-01-29"
+      },
+      {
+        "id": "recIXfT1TS9D2QLo8",
+        "title": "PDL-1+ Neutrophils mediate susceptibility during endotoxemia in Metabolic Dysfunction Associated Steatotic Liver Disease",
+        "summary": "In MAFLD mice, blocking PD-L1 on neutrophils or inhibiting IFN-γ reduced inflammatory damage during endotoxemia, potentially preventing severe systemic inflammation.",
+        "url": "https://www.biorxiv.org/content/10.1101/2024.10.16.618651",
+        "source": "bioRxiv",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia",
+          "Liver"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-01-15",
+        "added_date": "2026-01-29"
+      },
+      {
+        "id": "recxTyCRdmsPiuW12",
+        "title": "Disentangling cellular heterogeneity into interpretable biological factors through structured latent representations",
+        "summary": "A computational method called DRVI effectively separates different cellular factors in single-cell genomics data, enabling clearer understanding of biological processes without relying on predefined assumptions.",
+        "url": "https://www.biorxiv.org/content/10.1101/2024.11.06.622266",
+        "source": "bioRxiv",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-01-15",
+        "added_date": "2026-01-29"
+      },
+      {
         "id": "reclITVJAvFV7vZ82",
         "title": "A tri-scale in silico framework integrating pharmacovigilance and mechanistic modeling suggests tepotinib-associated acute kidney injury risk.",
         "summary": "A computational analysis of tepotinib for non-small cell lung cancer reveals potential acute kidney injury risk through multi-scale pharmacological investigation.",
@@ -562,92 +648,6 @@
         "cancer_types": [
           "Breast",
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-28"
-      },
-      {
-        "id": "recOz9tDGzx9ECxwX",
-        "title": "The P7 peptide antagonizes bFGF-induced malignant behaviors of ovarian cancer by inhibiting MEK/ERK signaling pathway.",
-        "summary": "P7 peptide reduces ovarian cancer cell growth and spread by blocking a key signaling pathway triggered by basic fibroblast growth factor.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41562160/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Ovarian"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-28"
-      },
-      {
-        "id": "recTshSoxdNo6gq1U",
-        "title": "Exogenous indole promotes florfenicol tolerance in Edwardsiella tarda.",
-        "summary": "Exogenous indole promotes florfenicol tolerance in Edwardsiella tarda by disrupting bacterial metabolism and reducing antibiotic effectiveness in fish pathogens.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41560554/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-28"
-      },
-      {
-        "id": "recaaC27Pp6rFqNFY",
-        "title": "Secondary causes and renal outcomes in apparently resistant hypertension: a retrospective cohort study.",
-        "summary": "Patients with primary aldosteronism showed different kidney function decline compared to those with true resistant hypertension in a retrospective study.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41504217/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Kidney"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-28"
-      },
-      {
-        "id": "rec6k41LIblRkRqtt",
-        "title": "Collaborative breakthroughs in precision diagnosis and treatment of nasopharyngeal cancer: Biomarker‑driven screening and endoscopic minimally invasive surgery reshape the new paradigm of early intervention (Review).",
-        "summary": "New screening techniques using Epstein-Barr virus biomarkers can now predict nasopharyngeal cancer risk with 97.9% accuracy, enabling early detection and precision treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41574726/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-28"
-      },
-      {
-        "id": "recVWvGfHidXDTC0v",
-        "title": "GPR176 enhances the epithelial‑mesenchymal transition in gastric cancer cells by activating the PI3K/AKT/mTOR signaling pathway.",
-        "summary": "GPR176 promotes gastric cancer cell migration and invasion by activating key signaling pathways, potentially serving as a new prognostic marker.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41574720/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia",
-          "Stomach"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-28"
-      },
-      {
-        "id": "recSGuMNCFnwxnV8K",
-        "title": "HMBOX1 inhibits hepatocellular carcinoma progression via PTPN1 mediated AKT1 phosphorylation.",
-        "summary": "In liver cancer, HMBOX1 protein appears to slow tumor growth by influencing cell signaling pathways, potentially offering a new approach to treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41574716/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia",
-          "Liver"
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
@@ -880,10 +880,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2077,
+    "archive_count": 2082,
     "archive_supplements": 304,
     "archive_off_label": 70,
-    "archive_biomarkers": 912,
+    "archive_biomarkers": 917,
     "archive_trials": 459
   }
 }
