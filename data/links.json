@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-30T10:36:04.613Z",
+  "last_updated": "2026-01-30T10:36:13.894Z",
   "categories": {
     "supplements": [
       {
@@ -55,6 +55,20 @@
         "cancer_types": [
           "Leukemia",
           "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-30"
+      },
+      {
+        "id": "rec3NyHvYJnO8SWM4",
+        "title": "Astragaloside IV alleviates M3 subtype of the muscarinic acetylcholine receptor blockade-induced myocardial apoptosis through p53/Akt signaling pathway in myocardial ischemia model.",
+        "summary": "Astragaloside IV potentially protects heart muscle cells from damage during myocardial ischemia by interacting with muscarinic receptors and regulating cell survival pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41453505/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
@@ -201,20 +215,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2025-12-01",
-        "added_date": "2026-01-29"
-      },
-      {
-        "id": "reclrzkPr6AaMRXyA",
-        "title": "Zinc-Complex Orchestrating Pyroptosis for Hypoxia-Tolerant Photoimmunotherapy.",
-        "summary": "A zinc-based complex successfully generates reactive oxygen species under light, triggering pyroptosis and immune responses against 4T1 breast cancer tumors.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41607045/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
         "added_date": "2026-01-29"
       }
     ],
@@ -871,10 +871,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2708,
+    "archive_count": 2709,
     "archive_supplements": 325,
     "archive_off_label": 129,
-    "archive_biomarkers": 1168,
+    "archive_biomarkers": 1169,
     "archive_trials": 754
   }
 }
