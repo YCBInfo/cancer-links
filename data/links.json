@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-30T10:36:34.185Z",
+  "last_updated": "2026-01-30T10:36:45.230Z",
   "categories": {
     "supplements": [
       {
@@ -87,6 +87,20 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
+        "added_date": "2026-01-30"
+      },
+      {
+        "id": "recXGN1NFYjwOUcHo",
+        "title": "Anti-inflammatory effect of high-abundance Core oligopeptides from white tea via the PI3K/AKT/NF-κB signaling pathway.",
+        "summary": "White tea's specific oligopeptides can reduce inflammation by blocking key signaling pathways in immune cells, potentially offering anti-inflammatory therapeutic benefits.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41371021/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 10,
+        "pub_date": "2025-12-01",
         "added_date": "2026-01-30"
       },
       {
@@ -201,20 +215,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2025-12-01",
-        "added_date": "2026-01-29"
-      },
-      {
-        "id": "recSp3rBjs9BlpxQc",
-        "title": "Chemical composition, anticholinesterase activity and cytotoxicity of the essential oil of Luvunga scandens (Roxb.) Wight from Malaysia.",
-        "summary": "L. scandens essential oil showed promising cytotoxicity against liver, breast, and lung cancer cells, with moderate anticholinesterase activity.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/40296652/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
         "pub_date": "2025-12-01",
         "added_date": "2026-01-29"
       }
@@ -872,10 +872,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2711,
+    "archive_count": 2712,
     "archive_supplements": 327,
     "archive_off_label": 129,
-    "archive_biomarkers": 1169,
+    "archive_biomarkers": 1170,
     "archive_trials": 754
   }
 }
