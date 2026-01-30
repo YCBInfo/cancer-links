@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-30T10:51:42.645Z",
+  "last_updated": "2026-01-30T10:51:52.125Z",
   "categories": {
     "supplements": [
       {
@@ -824,6 +824,20 @@
         "added_date": "2026-01-30"
       },
       {
+        "id": "rec7MK3HYiDHawPFG",
+        "title": "Advancing ICOS agonism in solid tumors: lessons from INDUCE-1.",
+        "summary": "The ICOS agonist feladilimab showed promising safety in solid tumors, but limited clinical responses suggest more nuanced immune modulation strategies are needed.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41611245/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-30"
+      },
+      {
         "id": "reco1pLisFQgfqImu",
         "title": "Current status of anti-obesity medications and performance, an EHR based survey",
         "summary": "An electronic health record study found that FDA-approved obesity medications like tirzepatide and semaglutide can help some patients achieve 10-48% weight loss with metabolic improvements.",
@@ -851,20 +865,6 @@
         "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-01-29"
-      },
-      {
-        "id": "recQDJAkkL4Ks6zZo",
-        "title": "Clinical efficacy of 2-week and 3-week albumin-bound paclitaxel therapy for advanced pancreatic cancer.",
-        "summary": "A comparison study found that two different schedules of albumin-bound paclitaxel showed similar effectiveness in treating advanced pancreatic cancer patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41588563/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Pancreatic"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-29"
       }
     ]
   },
@@ -874,10 +874,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2801,
+    "archive_count": 2802,
     "archive_supplements": 353,
     "archive_off_label": 130,
-    "archive_biomarkers": 1226,
+    "archive_biomarkers": 1227,
     "archive_trials": 760
   }
 }
