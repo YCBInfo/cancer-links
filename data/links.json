@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-30T11:37:17.561Z",
+  "last_updated": "2026-01-30T11:37:27.625Z",
   "categories": {
     "supplements": [
       {
@@ -394,6 +394,21 @@
         "added_date": "2026-01-30"
       },
       {
+        "id": "recIjSDW3LP8aGmBV",
+        "title": "Cancer Cell-Intrinsic Cholesterol Induces Lipid-Associated Macrophage Differentiation via SP1 Palmitoylation to Promote Prostate Cancer Progression.",
+        "summary": "Cancer cell cholesterol promotes immune cell changes that support prostate cancer growth, and targeting this mechanism with simvastatin could improve treatment effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41603134/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Prostate",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-30"
+      },
+      {
         "id": "recrqdu3POIfkJwH3",
         "title": "Current status of anti-obesity medications and performance, an EHR based survey",
         "summary": "A comprehensive electronic health records study revealed that tirzepatide and semaglutide are the most effective anti-obesity medications, achieving significant weight loss in 42-48% of patients.",
@@ -418,20 +433,6 @@
           "Leukemia"
         ],
         "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-29"
-      },
-      {
-        "id": "rec2HbKKtCITEWIcn",
-        "title": "Azathioprine Toxicity in Patients With Myasthenia Gravis: A Single Center Experience.",
-        "summary": "Here's a concise summary sentence:\n\nIn myasthenia gravis patients, researchers examined azathioprine's side effects to better understand potential drug-related complications and patient risk factors.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41603484/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-01-01",
         "added_date": "2026-01-29"
       }
@@ -879,9 +880,9 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3121,
+    "archive_count": 3122,
     "archive_supplements": 430,
-    "archive_off_label": 138,
+    "archive_off_label": 139,
     "archive_biomarkers": 1419,
     "archive_trials": 802
   }
