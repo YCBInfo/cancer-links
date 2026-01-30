@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-30T10:35:03.805Z",
+  "last_updated": "2026-01-30T10:35:17.239Z",
   "categories": {
     "supplements": [
       {
@@ -40,6 +40,21 @@
         "cancer_types": [
           "Lung",
           "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-30"
+      },
+      {
+        "id": "recPmRyl6YW33RWkW",
+        "title": "Preclinical evaluation of gefitinib and betulin-loaded surface functionalized liposomes for the treatment of hepatocellular carcinoma via asialoglycoprotein receptor targeting.",
+        "summary": "Targeted liposomal delivery of gefitinib and betulin effectively reduced hepatocellular carcinoma tumor markers and promoted cancer cell death in preclinical studies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41611852/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia",
+          "Liver"
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
@@ -196,21 +211,6 @@
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-29"
-      },
-      {
-        "id": "rec6fulFguPZsVQ6b",
-        "title": "Green and biocompatible formulation of arbutin encapsulated alginate nanoparticle: improved cytotoxicity against melanoma cancer and potent inhibition of melanin biosynthesis and L-DOPA auto-oxidation.",
-        "summary": "A nanoparticle formulation of arbutin effectively targets melanoma by enhancing drug delivery, inhibiting melanin production, and increasing cytotoxicity against cancer cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41606813/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Melanoma",
           "Leukemia"
         ],
         "quality_score": 15,
@@ -871,10 +871,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2702,
+    "archive_count": 2703,
     "archive_supplements": 324,
     "archive_off_label": 129,
-    "archive_biomarkers": 1164,
+    "archive_biomarkers": 1165,
     "archive_trials": 753
   }
 }
