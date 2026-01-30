@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-30T10:38:55.272Z",
+  "last_updated": "2026-01-30T10:39:05.432Z",
   "categories": {
     "supplements": [
       {
@@ -132,6 +132,21 @@
         "added_date": "2026-01-30"
       },
       {
+        "id": "recerCaUoszBz8udY",
+        "title": "Wu-wei-zi decoction reshapes the tumor immune microenvironment by targeting the IL-6/CD73 axis in myeloid-derived suppressor cells to inhibit non-small cell lung cancer.",
+        "summary": "Wu-wei-zi decoction reduces immune suppression in lung cancer by targeting specific immune cells, potentially improving treatment effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41072779/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lung",
+          "Leukemia"
+        ],
+        "quality_score": 13,
+        "pub_date": "2025-11-01",
+        "added_date": "2026-01-30"
+      },
+      {
         "id": "recb0V89QBf3HxOEh",
         "title": "Unregulated use of Artemisia in cancer patients in Libya: an emerging ethical and public health concern.",
         "summary": "Libyan cancer patients increasingly use unregulated Artemisia herbal remedies from social media, risking potential interference with standard cancer treatments.",
@@ -200,21 +215,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-29"
-      },
-      {
-        "id": "reckhNrYLNzzeaFwR",
-        "title": "Natural compound 5,7,8‑trimethoxyflavone mitigates radiation‑induced lung injury by suppressing EMT and PI3K/Akt pathway.",
-        "summary": "A natural flavonoid compound (5,7,8-trimethoxyflavone) reduces lung radiation damage by blocking cell transformation and suppressing key inflammatory pathways in mice.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41574704/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Lung",
-          "Leukemia"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-01-29"
       }
@@ -872,10 +872,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2725,
+    "archive_count": 2726,
     "archive_supplements": 330,
     "archive_off_label": 129,
-    "archive_biomarkers": 1180,
+    "archive_biomarkers": 1181,
     "archive_trials": 754
   }
 }
