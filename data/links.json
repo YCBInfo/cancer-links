@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-30T10:48:29.797Z",
+  "last_updated": "2026-01-30T10:48:40.767Z",
   "categories": {
     "supplements": [
       {
@@ -249,6 +249,20 @@
         "added_date": "2026-01-30"
       },
       {
+        "id": "recd1tHCOD7zMzjmR",
+        "title": "Comparative analysis of senolytic drugs reveals mitochondrial determinants of efficacy and resistance.",
+        "summary": "Senolytic drugs ABT263 and ARV825 effectively eliminate senescent cells by targeting mitochondrial integrity, with potential implications for reducing cancer metastasis and tumor growth.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41611832/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-30"
+      },
+      {
         "id": "recrqdu3POIfkJwH3",
         "title": "Current status of anti-obesity medications and performance, an EHR based survey",
         "summary": "A comprehensive electronic health records study revealed that tirzepatide and semaglutide are the most effective anti-obesity medications, achieving significant weight loss in 42-48% of patients.",
@@ -414,20 +428,6 @@
         ],
         "quality_score": 9,
         "pub_date": "2022-08-22",
-        "added_date": "2026-01-29"
-      },
-      {
-        "id": "rec98nzw9Upv8TDpD",
-        "title": "FDA SUPPL: SIROLIMUS (SIROLIMUS)",
-        "summary": "I apologize, but this appears to be a regulatory document about a drug (Sirolimus) rather than a cancer research paper. The text looks like an FDA supplemental application document for a medication, which provides administrative details about the drug. Without additional context about specific cancer research, I cannot create a summary sentence about cancer findings.\n\nTo create a meaningful summary, I would need:\n- Specific research details\n- Cancer type studied\n- Key research findings\n- Intervention or treatment outcomes\n\nWould you like to provide the full research paper or additional context?",
-        "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=ANDA211040",
-        "source": "FDA Drug Approvals",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 9,
-        "pub_date": "2021-05-21",
         "added_date": "2026-01-29"
       }
     ],
@@ -872,10 +872,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2782,
+    "archive_count": 2783,
     "archive_supplements": 353,
     "archive_off_label": 129,
-    "archive_biomarkers": 1211,
+    "archive_biomarkers": 1212,
     "archive_trials": 757
   }
 }
