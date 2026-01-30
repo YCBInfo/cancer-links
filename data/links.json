@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-30T10:29:50.410Z",
+  "last_updated": "2026-01-30T10:30:00.760Z",
   "categories": {
     "supplements": [
       {
@@ -219,6 +219,20 @@
     ],
     "off_label": [
       {
+        "id": "rectCJTAxOzz0VHFK",
+        "title": "Exogenous indole promotes florfenicol tolerance in Edwardsiella tarda.",
+        "summary": "Exogenous indole enhances Edwardsiella tarda's tolerance to florfenicol by disrupting metabolism and blocking antibiotic entry in fish pathogens.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41560554/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-30"
+      },
+      {
         "id": "recrqdu3POIfkJwH3",
         "title": "Current status of anti-obesity medications and performance, an EHR based survey",
         "summary": "A comprehensive electronic health records study revealed that tirzepatide and semaglutide are the most effective anti-obesity medications, achieving significant weight loss in 42-48% of patients.",
@@ -412,20 +426,6 @@
         ],
         "quality_score": 9,
         "pub_date": "2022-06-13",
-        "added_date": "2026-01-29"
-      },
-      {
-        "id": "recYQ1GzT3XOHdYwX",
-        "title": "FDA SUPPL: SIROLIMUS (SIROLIMUS)",
-        "summary": "I apologize, but the text you've provided appears to be a technical pharmaceutical document about a drug (Sirolimus) and does not contain a research summary about cancer. Without a specific cancer research abstract, I cannot create a summary sentence about cancer findings. If you have a different research abstract you'd like summarized, I'd be happy to help.",
-        "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=NDA021110",
-        "source": "FDA Drug Approvals",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 9,
-        "pub_date": "2022-08-22",
         "added_date": "2026-01-29"
       }
     ],
@@ -869,8 +869,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2671,
-    "archive_supplements": 321,
+    "archive_count": 2672,
+    "archive_supplements": 322,
     "archive_off_label": 127,
     "archive_biomarkers": 1141,
     "archive_trials": 750
