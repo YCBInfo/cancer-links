@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-30T11:37:07.744Z",
+  "last_updated": "2026-01-30T11:37:17.561Z",
   "categories": {
     "supplements": [
       {
@@ -380,6 +380,20 @@
         "added_date": "2026-01-30"
       },
       {
+        "id": "recr1MPzVrvihoLXx",
+        "title": "Metformin does not significantly alter longitudinal dynamics of clonal hematopoiesis.",
+        "summary": "A study found that metformin does not significantly change the progression of clonal hematopoiesis, a condition involving genetic mutations in blood cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41603726/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-30"
+      },
+      {
         "id": "recrqdu3POIfkJwH3",
         "title": "Current status of anti-obesity medications and performance, an EHR based survey",
         "summary": "A comprehensive electronic health records study revealed that tirzepatide and semaglutide are the most effective anti-obesity medications, achieving significant weight loss in 42-48% of patients.",
@@ -419,20 +433,6 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-01-01",
-        "added_date": "2026-01-29"
-      },
-      {
-        "id": "recdLI6trcC5Nl7q0",
-        "title": "FDA ORIG: SIROLIMUS (SIROLIMUS)",
-        "summary": "I apologize, but this appears to be a regulatory document about a pharmaceutical drug (sirolimus) and not a cancer research abstract. The text looks like a technical FDA original document describing a medication's details, but does not contain cancer research findings. Without a specific research summary, I cannot create a sentence summarizing cancer research results.\n\nIf you intended to share a cancer research abstract, could you please provide the full text of the research paper or abstract?",
-        "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=ANDA215080",
-        "source": "FDA Drug Approvals",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 9,
-        "pub_date": "2024-09-16",
         "added_date": "2026-01-29"
       }
     ],
@@ -879,9 +879,9 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3120,
+    "archive_count": 3121,
     "archive_supplements": 430,
-    "archive_off_label": 137,
+    "archive_off_label": 138,
     "archive_biomarkers": 1419,
     "archive_trials": 802
   }
