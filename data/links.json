@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-30T11:33:24.855Z",
+  "last_updated": "2026-01-30T11:33:34.796Z",
   "categories": {
     "supplements": [
       {
@@ -335,6 +335,21 @@
         "added_date": "2026-01-30"
       },
       {
+        "id": "recW76oVSvuNO5p6R",
+        "title": "Cancer Incidence and Mortality With Aspirin in Older Adults: Follow-Up of the ASPREE Trial.",
+        "summary": "In older adults, low-dose aspirin did not reduce overall cancer risk and was associated with higher late-stage cancer incidence and mortality.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41609798/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Colorectal",
+          "Leukemia"
+        ],
+        "quality_score": 24,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-30"
+      },
+      {
         "id": "recrqdu3POIfkJwH3",
         "title": "Current status of anti-obesity medications and performance, an EHR based survey",
         "summary": "A comprehensive electronic health records study revealed that tirzepatide and semaglutide are the most effective anti-obesity medications, achieving significant weight loss in 42-48% of patients.",
@@ -416,20 +431,6 @@
         ],
         "quality_score": 9,
         "pub_date": "2025-10-10",
-        "added_date": "2026-01-29"
-      },
-      {
-        "id": "recjZOx3VdoleFW9L",
-        "title": "FDA SUPPL: SIROLIMUS (SIROLIMUS)",
-        "summary": "I apologize, but this document appears to be an FDA supplement for Sirolimus, which seems to be a pharmaceutical registration document. There is no cancer research summary or findings in this text. The document looks like an administrative record about a medication's regulatory status. Without additional context about specific cancer research involving Sirolimus, I cannot create a research summary sentence.\n\nIf you have a specific cancer research paper or abstract you'd like me to summarize, please provide that text.",
-        "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=ANDA214753",
-        "source": "FDA Drug Approvals",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 9,
-        "pub_date": "2023-04-04",
         "added_date": "2026-01-29"
       }
     ],
@@ -876,8 +877,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3098,
-    "archive_supplements": 427,
+    "archive_count": 3099,
+    "archive_supplements": 428,
     "archive_off_label": 135,
     "archive_biomarkers": 1408,
     "archive_trials": 796
