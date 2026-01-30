@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-30T10:34:22.787Z",
+  "last_updated": "2026-01-30T10:34:32.521Z",
   "categories": {
     "supplements": [
       {
@@ -707,6 +707,20 @@
         "added_date": "2026-01-30"
       },
       {
+        "id": "rectWjvaQAqe9cthE",
+        "title": "Enhancing oncolytic virotherapy with a tri-specific T-cell engager targeting CD3ε, EpCaM, and 4-1BB: preclinical evaluation and implications for cancer immunotherapy.",
+        "summary": "A novel tri-specific T-cell engager enhances oncolytic virus effectiveness by simultaneously targeting and stimulating T-cells against colorectal cancer cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41612317/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-30"
+      },
+      {
         "id": "reco1pLisFQgfqImu",
         "title": "Current status of anti-obesity medications and performance, an EHR based survey",
         "summary": "An electronic health record study found that FDA-approved obesity medications like tirzepatide and semaglutide can help some patients achieve 10-48% weight loss with metabolic improvements.",
@@ -848,20 +862,6 @@
         "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-01-29"
-      },
-      {
-        "id": "recenyBgDjOyfsqby",
-        "title": "Prognostic determinants of survival in early-stage endometrial cancer: A retrospective analysis.",
-        "summary": "In early-stage endometrial cancer, tumor characteristics like grade, stage, and invasion depth significantly impact patient survival and guide treatment decisions.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41608872/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-29"
       }
     ]
   },
@@ -871,10 +871,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2698,
+    "archive_count": 2699,
     "archive_supplements": 324,
     "archive_off_label": 129,
-    "archive_biomarkers": 1161,
+    "archive_biomarkers": 1162,
     "archive_trials": 752
   }
 }
