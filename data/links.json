@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-30T10:49:40.506Z",
+  "last_updated": "2026-01-30T10:49:50.821Z",
   "categories": {
     "supplements": [
       {
@@ -779,6 +779,20 @@
         "added_date": "2026-01-30"
       },
       {
+        "id": "recQqP7YT7z3FhWZi",
+        "title": "Olutasidenib in recurrent/relapsed locally advanced or metastatic IDH1-mutated chondrosarcoma: phase 1b/2 trial.",
+        "summary": "Olutasidenib showed promise in controlling IDH1-mutated chondrosarcoma, with 52% of patients experiencing stable disease and minimal side effects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41611702/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-30"
+      },
+      {
         "id": "reco1pLisFQgfqImu",
         "title": "Current status of anti-obesity medications and performance, an EHR based survey",
         "summary": "An electronic health record study found that FDA-approved obesity medications like tirzepatide and semaglutide can help some patients achieve 10-48% weight loss with metabolic improvements.",
@@ -849,20 +863,6 @@
         "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-01-29"
-      },
-      {
-        "id": "recfyShM1y81v8Rji",
-        "title": "Lack of synergy between AR-targeted therapies and PARP inhibitors in homologous recombination-proficient prostate cancer.",
-        "summary": "In prostate cancer, combining AR and PARP inhibitors shows limited effectiveness, with cell cycle progression being more critical for PARP inhibitor response than previously thought.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41591905/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Prostate"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-29"
       }
     ]
   },
@@ -872,10 +872,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2789,
+    "archive_count": 2790,
     "archive_supplements": 353,
     "archive_off_label": 130,
-    "archive_biomarkers": 1217,
+    "archive_biomarkers": 1218,
     "archive_trials": 757
   }
 }
