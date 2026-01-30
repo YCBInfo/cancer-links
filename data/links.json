@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-30T11:21:06.377Z",
+  "last_updated": "2026-01-30T11:21:16.201Z",
   "categories": {
     "supplements": [
       {
@@ -292,6 +292,20 @@
         "added_date": "2026-01-30"
       },
       {
+        "id": "rec8OgrTSBmL7DRhJ",
+        "title": "Repurposing the Clinical Approved Photosensitizer Hematoporphyrin for in Vivo Fluorescence Endomicroscopy.",
+        "summary": "Researchers successfully used hematoporphyrin as a fluorescent contrast agent to improve gastrointestinal cancer detection by enabling clearer visualization of tissue microstructures.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41601424/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-30"
+      },
+      {
         "id": "recrqdu3POIfkJwH3",
         "title": "Current status of anti-obesity medications and performance, an EHR based survey",
         "summary": "A comprehensive electronic health records study revealed that tirzepatide and semaglutide are the most effective anti-obesity medications, achieving significant weight loss in 42-48% of patients.",
@@ -415,20 +429,6 @@
         ],
         "quality_score": 9,
         "pub_date": "2025-10-10",
-        "added_date": "2026-01-29"
-      },
-      {
-        "id": "recdEE8lpYAjPuHYO",
-        "title": "FDA SUPPL: SIROLIMUS (SIROLIMUS)",
-        "summary": "I apologize, but this appears to be a regulatory document for a drug (sirolimus) and not a cancer research abstract. Without a specific research context or findings related to cancer, I cannot create a meaningful one-sentence summary of cancer research. The text looks like a standard FDA supplement document describing a drug's administrative details.\n\nWould you be able to provide the full cancer research abstract or paper you'd like summarized?",
-        "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=ANDA211406",
-        "source": "FDA Drug Approvals",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 9,
-        "pub_date": "2024-04-04",
         "added_date": "2026-01-29"
       }
     ],
@@ -875,8 +875,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3012,
-    "archive_supplements": 403,
+    "archive_count": 3013,
+    "archive_supplements": 404,
     "archive_off_label": 132,
     "archive_biomarkers": 1357,
     "archive_trials": 788
