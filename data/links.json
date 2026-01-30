@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-30T11:37:27.625Z",
+  "last_updated": "2026-01-30T11:37:37.766Z",
   "categories": {
     "supplements": [
       {
@@ -409,6 +409,21 @@
         "added_date": "2026-01-30"
       },
       {
+        "id": "recbRq65zvlxg7O6k",
+        "title": "Drug repurposing to combat multidrug-resistant hookworm.",
+        "summary": "A machine learning approach discovered flutamide, a prostate cancer drug, can effectively inhibit egg hatching and larval development in drug-resistant hookworms.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41601273/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Prostate",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-30"
+      },
+      {
         "id": "recrqdu3POIfkJwH3",
         "title": "Current status of anti-obesity medications and performance, an EHR based survey",
         "summary": "A comprehensive electronic health records study revealed that tirzepatide and semaglutide are the most effective anti-obesity medications, achieving significant weight loss in 42-48% of patients.",
@@ -420,20 +435,6 @@
         ],
         "quality_score": 21,
         "pub_date": "2026-01-15",
-        "added_date": "2026-01-29"
-      },
-      {
-        "id": "recaxWsen0SbLMtnI",
-        "title": "Maternal Aspirin Treatment Improves Ischemic Stroke Outcome in Adult Male Offspring From Experimental Preeclamptic Dams.",
-        "summary": "Low-dose aspirin during preeclamptic pregnancy reduces stroke severity and improves neurological outcomes in male offspring later in life.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41587282/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
         "added_date": "2026-01-29"
       }
     ],
@@ -880,9 +881,9 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3122,
+    "archive_count": 3123,
     "archive_supplements": 430,
-    "archive_off_label": 139,
+    "archive_off_label": 140,
     "archive_biomarkers": 1419,
     "archive_trials": 802
   }
