@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-30T11:08:37.508Z",
+  "last_updated": "2026-01-30T11:08:47.526Z",
   "categories": {
     "supplements": [
       {
@@ -278,6 +278,20 @@
         "added_date": "2026-01-30"
       },
       {
+        "id": "recTL7inPhF8r3vSw",
+        "title": "Comparative analysis of senolytic drugs reveals mitochondrial determinants of efficacy and resistance.",
+        "summary": "ABT263 and ARV825 effectively eliminate senescent cells, with mitochondrial stress and metabolic interventions enhancing their senolytic potential and reducing tumor growth.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41611832/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-30"
+      },
+      {
         "id": "recrqdu3POIfkJwH3",
         "title": "Current status of anti-obesity medications and performance, an EHR based survey",
         "summary": "A comprehensive electronic health records study revealed that tirzepatide and semaglutide are the most effective anti-obesity medications, achieving significant weight loss in 42-48% of patients.",
@@ -415,20 +429,6 @@
         ],
         "quality_score": 9,
         "pub_date": "2024-04-04",
-        "added_date": "2026-01-29"
-      },
-      {
-        "id": "recrnkV8e6xtd5igF",
-        "title": "FDA SUPPL: SIROLIMUS (SIROLIMUS)",
-        "summary": "I apologize, but this appears to be an FDA supplement document for a drug (Sirolimus) with administrative details, not a cancer research abstract. Without a specific research findings section, I cannot generate a research summary sentence. The document seems to be a regulatory filing about a medication, possibly used in oncology or immunosuppression, but lacks research details.",
-        "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=ANDA201578",
-        "source": "FDA Drug Approvals",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 9,
-        "pub_date": "2023-08-31",
         "added_date": "2026-01-29"
       }
     ],
@@ -875,10 +875,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2938,
+    "archive_count": 2939,
     "archive_supplements": 386,
     "archive_off_label": 131,
-    "archive_biomarkers": 1312,
+    "archive_biomarkers": 1313,
     "archive_trials": 777
   }
 }
