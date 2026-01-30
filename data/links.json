@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-30T10:44:28.528Z",
+  "last_updated": "2026-01-30T10:44:38.350Z",
   "categories": {
     "supplements": [
       {
@@ -735,6 +735,21 @@
         "added_date": "2026-01-30"
       },
       {
+        "id": "recX9WvhxGu6WMq9e",
+        "title": "Comparison of nedaplatin and cisplatin in concurrent chemoradiotherapy for cervical cancer: a systematic review and meta-analysis.",
+        "summary": "Nedaplatin shows promise as an alternative to cisplatin in cervical cancer treatment, potentially offering similar effectiveness with fewer side effects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41612081/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Leukemia",
+          "Kidney"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-30"
+      },
+      {
         "id": "reco1pLisFQgfqImu",
         "title": "Current status of anti-obesity medications and performance, an EHR based survey",
         "summary": "An electronic health record study found that FDA-approved obesity medications like tirzepatide and semaglutide can help some patients achieve 10-48% weight loss with metabolic improvements.",
@@ -847,21 +862,6 @@
         "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-01-29"
-      },
-      {
-        "id": "recKGBFrn31rAim8H",
-        "title": "Hemophagocytic Lymphohistiocytosis as First Manifestation of Dual B-Cell Neoplasms: A Case Report of Co-Existing Multiple Myeloma and B-Cell Lymphoma.",
-        "summary": "A 61-year-old patient with rare hemophagocytic lymphohistiocytosis was successfully treated with tocilizumab after experiencing multiple myeloma and B-cell lymphoma simultaneously.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41584900/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Leukemia",
-          "Lymphoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-29"
       }
     ]
   },
@@ -871,10 +871,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2758,
+    "archive_count": 2759,
     "archive_supplements": 353,
     "archive_off_label": 129,
-    "archive_biomarkers": 1190,
+    "archive_biomarkers": 1191,
     "archive_trials": 754
   }
 }
