@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-30T10:36:13.894Z",
+  "last_updated": "2026-01-30T10:36:23.882Z",
   "categories": {
     "supplements": [
       {
@@ -68,6 +68,21 @@
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-30"
+      },
+      {
+        "id": "recuiXN9bLS4BOyvq",
+        "title": "Maclurin promotes extracellular matrix formation in osteoblasts via PI3K/Akt pathway activation.",
+        "summary": "Maclurin, a mulberry flavonoid, enhances bone formation by activating the PI3K/Akt pathway and promoting extracellular matrix protein production in osteoblasts.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41453503/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Melanoma",
           "Leukemia"
         ],
         "quality_score": 15,
@@ -194,20 +209,6 @@
         "title": "Chemical composition, anticholinesterase activity and cytotoxicity of the essential oil of Luvunga scandens (Roxb.) Wight from Malaysia.",
         "summary": "L. scandens essential oil showed promising cytotoxicity against liver, breast, and lung cancer cells, with moderate anticholinesterase activity.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/40296652/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2025-12-01",
-        "added_date": "2026-01-29"
-      },
-      {
-        "id": "recED1owaeKK0KuGr",
-        "title": "Potential of curcumin and its derivatives, modern insights on the anticancer properties: a comprehensive overview.",
-        "summary": "Curcumin shows promising preclinical anticancer potential across various cancer types, but more clinical research is needed to confirm its effectiveness and safety.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/40108840/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -871,8 +872,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2709,
-    "archive_supplements": 325,
+    "archive_count": 2710,
+    "archive_supplements": 326,
     "archive_off_label": 129,
     "archive_biomarkers": 1169,
     "archive_trials": 754
