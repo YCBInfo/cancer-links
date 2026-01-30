@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-30T10:50:51.421Z",
+  "last_updated": "2026-01-30T10:51:01.564Z",
   "categories": {
     "supplements": [
       {
@@ -793,6 +793,21 @@
         "added_date": "2026-01-30"
       },
       {
+        "id": "recFmJGsjQ9bJJrJQ",
+        "title": "Four-Year Outcomes for Nivolumab With Chemotherapy and Bevacizumab in Patients With Nonsquamous NSCLC in the TASUKI-52.",
+        "summary": "In advanced nonsquamous non-small cell lung cancer, adding nivolumab to chemotherapy and bevacizumab significantly improved 4-year survival rates compared to placebo.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41611341/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Lung",
+          "Leukemia"
+        ],
+        "quality_score": 29,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-30"
+      },
+      {
         "id": "reco1pLisFQgfqImu",
         "title": "Current status of anti-obesity medications and performance, an EHR based survey",
         "summary": "An electronic health record study found that FDA-approved obesity medications like tirzepatide and semaglutide can help some patients achieve 10-48% weight loss with metabolic improvements.",
@@ -849,20 +864,6 @@
         "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-01-29"
-      },
-      {
-        "id": "recDzzHWzQcGvh7LW",
-        "title": "Integrated mutational landscape analysis of endometrial stromal sarcoma.",
-        "summary": "Whole-genome analysis of endometrial stromal sarcoma reveals RAD54B amplifications as an oncogenic driver and suggests MEK/FAK inhibition as a potential targeted treatment strategy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41591910/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-29"
       }
     ]
   },
@@ -872,10 +873,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2796,
+    "archive_count": 2797,
     "archive_supplements": 353,
     "archive_off_label": 130,
-    "archive_biomarkers": 1223,
+    "archive_biomarkers": 1224,
     "archive_trials": 758
   }
 }
