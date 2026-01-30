@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-30T10:31:41.265Z",
+  "last_updated": "2026-01-30T10:31:51.576Z",
   "categories": {
     "supplements": [
       {
@@ -27,6 +27,21 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-30"
+      },
+      {
+        "id": "rec0fboB6Shjkbkrx",
+        "title": "Natural compound 5,7,8‑trimethoxyflavone mitigates radiation‑induced lung injury by suppressing EMT and PI3K/Akt pathway.",
+        "summary": "A natural compound (5,7,8-trimethoxyflavone) reduces lung inflammation and fibrosis after radiation by blocking key cell transformation and signaling pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41574704/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lung",
+          "Leukemia"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-01-30"
       },
@@ -197,20 +212,6 @@
         "cancer_types": [
           "Melanoma",
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-29"
-      },
-      {
-        "id": "recus2ZqnqXIxo0G8",
-        "title": "Leveraging glucan-induced trained immunity for the epigenetic and metabolic rewiring of macrophages to enhance colorectal cancer vaccine response.",
-        "summary": "β-glucan training transforms macrophages in colorectal cancer models, boosting vaccine effectiveness by enhancing immune cell recruitment and tumor-killing responses.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41605920/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal"
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
@@ -869,10 +870,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2682,
+    "archive_count": 2683,
     "archive_supplements": 323,
     "archive_off_label": 128,
-    "archive_biomarkers": 1149,
+    "archive_biomarkers": 1150,
     "archive_trials": 750
   }
 }
