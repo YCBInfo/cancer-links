@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-31T08:04:40.792Z",
+  "last_updated": "2026-01-31T08:04:51.237Z",
   "categories": {
     "supplements": [
       {
@@ -83,6 +83,21 @@
         "cancer_types": [
           "Leukemia",
           "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-31"
+      },
+      {
+        "id": "recBzZoCf7Fr34ifP",
+        "title": "Targeting the GPX4-FUNDC1 Interaction with Magnesium Lithospermate B Attenuates Sepsis-Associated Lung Injury.",
+        "summary": "Magnesium lithospermate B disrupts a harmful protein interaction in lung injury, protecting mitochondrial health and reducing damage caused by sepsis-related cell death.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41616122/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lung",
+          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
@@ -200,21 +215,6 @@
           "General"
         ],
         "quality_score": 10,
-        "pub_date": "2025-11-01",
-        "added_date": "2026-01-30"
-      },
-      {
-        "id": "recVITIZEJWOuGS7b",
-        "title": "Aframomum alboviolaceum (Ridl.) K.Schum. leaf essential oil protects against Benzo(a)pyrene induced prostate cancer in Wistar rats.",
-        "summary": "A plant essential oil from Aframomum alboviolaceum effectively protected against prostate cancer development in laboratory rats by reducing tumor formation.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41067326/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Prostate",
-          "Leukemia"
-        ],
-        "quality_score": 13,
         "pub_date": "2025-11-01",
         "added_date": "2026-01-30"
       }
@@ -884,10 +884,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 1957,
+    "archive_count": 1958,
     "archive_supplements": 294,
     "archive_off_label": 86,
     "archive_biomarkers": 799,
-    "archive_trials": 485
+    "archive_trials": 486
   }
 }
