@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-31T11:33:37.412Z",
+  "last_updated": "2026-01-31T11:33:46.873Z",
   "categories": {
     "supplements": [
       {
@@ -262,6 +262,20 @@
         "added_date": "2026-01-31"
       },
       {
+        "id": "recQIjpffrNjqfBKB",
+        "title": "XRepDDA: An Interpretable Drug-Disease Association Prediction Framework Leveraging Pretrained Chemical Language Models.",
+        "summary": "XRepDDA uses advanced machine learning and molecular embedding techniques to predict potential drug treatments for diseases like Alzheimer's with high accuracy and interpretability.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41617662/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-31"
+      },
+      {
         "id": "recMwarXrliu7ldcT",
         "title": "Pseudopheochromocytoma With Catecholamine Excess and End-organ Damage: A 30-year Course Treated With Escitalopram.",
         "summary": "A 70-year-old woman with pseudopheochromocytoma experienced reduced hypertensive episodes after treatment with escitalopram and psychotherapy.",
@@ -417,20 +431,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Prostate",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-30"
-      },
-      {
-        "id": "recLjLyKwrSAbCJll",
-        "title": "Role of Perindopril in Mitigating Doxorubicin's Vascular Toxicity in a Rat Model.",
-        "summary": "Perindopril reduces doxorubicin's vascular damage in female rats by protecting blood vessel function and lowering oxidative stress during chemotherapy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41591661/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
           "Leukemia"
         ],
         "quality_score": 15,
@@ -881,10 +881,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 1993,
+    "archive_count": 1994,
     "archive_supplements": 304,
     "archive_off_label": 87,
-    "archive_biomarkers": 819,
+    "archive_biomarkers": 820,
     "archive_trials": 490
   }
 }
