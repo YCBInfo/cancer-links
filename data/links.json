@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-31T08:23:09.132Z",
+  "last_updated": "2026-01-31T08:23:19.370Z",
   "categories": {
     "supplements": [
       {
@@ -189,6 +189,20 @@
         "added_date": "2026-01-31"
       },
       {
+        "id": "recuDGAf62UbUwzEG",
+        "title": "Fanconi Anaemia as a Human Model of Accelerated Epigenetic and Immune Ageing.",
+        "summary": "Fanconi anaemia reveals how DNA repair defects accelerate aging processes, leading to increased childhood and early adult cancer risk through genomic instability and immune dysfunction.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41616911/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-31"
+      },
+      {
         "id": "recPmRyl6YW33RWkW",
         "title": "Preclinical evaluation of gefitinib and betulin-loaded surface functionalized liposomes for the treatment of hepatocellular carcinoma via asialoglycoprotein receptor targeting.",
         "summary": "Targeted liposomal delivery of gefitinib and betulin effectively reduced hepatocellular carcinoma tumor markers and promoted cancer cell death in preclinical studies.",
@@ -198,20 +212,6 @@
         "cancer_types": [
           "Leukemia",
           "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-30"
-      },
-      {
-        "id": "rec3NyHvYJnO8SWM4",
-        "title": "Astragaloside IV alleviates M3 subtype of the muscarinic acetylcholine receptor blockade-induced myocardial apoptosis through p53/Akt signaling pathway in myocardial ischemia model.",
-        "summary": "Astragaloside IV potentially protects heart muscle cells from damage during myocardial ischemia by interacting with muscarinic receptors and regulating cell survival pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41453505/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
@@ -882,10 +882,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 1984,
+    "archive_count": 1985,
     "archive_supplements": 301,
     "archive_off_label": 86,
-    "archive_biomarkers": 815,
+    "archive_biomarkers": 816,
     "archive_trials": 489
   }
 }
