@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-31T11:34:06.660Z",
+  "last_updated": "2026-01-31T11:34:17.183Z",
   "categories": {
     "supplements": [
       {
@@ -276,6 +276,20 @@
         "added_date": "2026-01-31"
       },
       {
+        "id": "recCNBPjor7Y3YdtX",
+        "title": "Clinical and translational results from a phase 1 trial of gemcitabine/nab-paclitaxel with nivolumab/ipilimumab or hydroxychloroquine/ipilimumab in untreated metastatic pancreatic adenocarcinoma.",
+        "summary": "In a phase 1 trial, combining chemotherapy with immunotherapy showed potential safety and effectiveness for patients with metastatic pancreatic cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41617393/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Pancreatic"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-31"
+      },
+      {
         "id": "recMwarXrliu7ldcT",
         "title": "Pseudopheochromocytoma With Catecholamine Excess and End-organ Damage: A 30-year Course Treated With Escitalopram.",
         "summary": "A 70-year-old woman with pseudopheochromocytoma experienced reduced hypertensive episodes after treatment with escitalopram and psychotherapy.",
@@ -412,21 +426,6 @@
         "title": "Cancer Cell-Intrinsic Cholesterol Induces Lipid-Associated Macrophage Differentiation via SP1 Palmitoylation to Promote Prostate Cancer Progression.",
         "summary": "Cancer cell cholesterol promotes immune cell changes that support prostate cancer growth, and targeting this mechanism with simvastatin could improve treatment effectiveness.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41603134/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Prostate",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-30"
-      },
-      {
-        "id": "recbRq65zvlxg7O6k",
-        "title": "Drug repurposing to combat multidrug-resistant hookworm.",
-        "summary": "A machine learning approach discovered flutamide, a prostate cancer drug, can effectively inhibit egg hatching and larval development in drug-resistant hookworms.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41601273/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -881,10 +880,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 1996,
+    "archive_count": 1997,
     "archive_supplements": 304,
     "archive_off_label": 88,
     "archive_biomarkers": 821,
-    "archive_trials": 490
+    "archive_trials": 491
   }
 }
