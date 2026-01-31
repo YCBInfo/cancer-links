@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-31T08:13:55.076Z",
+  "last_updated": "2026-01-31T08:14:05.248Z",
   "categories": {
     "supplements": [
       {
@@ -220,6 +220,20 @@
     ],
     "off_label": [
       {
+        "id": "recnnl4A6XTcXXH2R",
+        "title": "MYLK4 promotes colorectal cancer progression by regulating lipid metabolism reprogramming via targeting ferroptosis.",
+        "summary": "MYLK4 promotes colorectal cancer progression by regulating lipid metabolism, enhancing cancer cell resistance to treatment and potentially offering a new therapeutic target.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41616458/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-31"
+      },
+      {
         "id": "recMwarXrliu7ldcT",
         "title": "Pseudopheochromocytoma With Catecholamine Excess and End-organ Damage: A 30-year Course Treated With Escitalopram.",
         "summary": "A 70-year-old woman with pseudopheochromocytoma experienced reduced hypertensive episodes after treatment with escitalopram and psychotherapy.",
@@ -422,20 +436,6 @@
           "Leukemia"
         ],
         "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-30"
-      },
-      {
-        "id": "recT2v8faHgpB34Wp",
-        "title": "GLP-1 RA initiation versus metformin and risk of cardiomyopathy in patients with cancer and diabetes treated with chemotherapy, radiation, or immunotherapy: a target trial emulation.",
-        "summary": "Here's a clear, concise summary sentence:\n\nIn cancer patients with diabetes, starting GLP-1 receptor agonists may lower cardiomyopathy risk compared to metformin during cancer treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41605300/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-01-01",
         "added_date": "2026-01-30"
       }
@@ -883,10 +883,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 1978,
+    "archive_count": 1979,
     "archive_supplements": 301,
     "archive_off_label": 86,
-    "archive_biomarkers": 810,
+    "archive_biomarkers": 811,
     "archive_trials": 488
   }
 }
