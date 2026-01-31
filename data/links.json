@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-31T05:08:38.624Z",
+  "last_updated": "2026-01-31T05:08:48.734Z",
   "categories": {
     "supplements": [
       {
@@ -10,6 +10,21 @@
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-31"
+      },
+      {
+        "id": "recBhFa1DP9SinOx8",
+        "title": "Combatting Silicosis Fibrosis: Methyl Gallate Suppresses Pathogenic Fibroblasts Through hnRNPA2/B1-MDM4-P53 Network Disruption.",
+        "summary": "Methyl gallate suppresses fibroblast activation in silicosis by disrupting a key protein network, reducing lung fibrosis and promoting cell death in mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41524611/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lung",
           "Leukemia"
         ],
         "quality_score": 15,
@@ -201,20 +216,6 @@
         ],
         "quality_score": 13,
         "pub_date": "2025-11-01",
-        "added_date": "2026-01-30"
-      },
-      {
-        "id": "recHPmIhdK7cd2Ugh",
-        "title": "Chaihu Longgu Muli Decoction attenuates chronic stress-induced endothelial dysfunction and potentiates chemotherapy in breast cancer by inhibiting cAMP/PKA/CREB1 mediated glycolysis.",
-        "summary": "A traditional herbal formula (Chaihu Longgu Muli Decoction) reduces stress-related damage and improves breast cancer treatment by blocking cancer cell energy production.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41033421/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 13,
-        "pub_date": "2025-12-01",
         "added_date": "2026-01-30"
       }
     ],
@@ -883,8 +884,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 1944,
-    "archive_supplements": 290,
+    "archive_count": 1945,
+    "archive_supplements": 291,
     "archive_off_label": 86,
     "archive_biomarkers": 790,
     "archive_trials": 485
