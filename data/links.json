@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-31T11:43:22.317Z",
+  "last_updated": "2026-01-31T11:47:14.347Z",
   "categories": {
     "supplements": [
       {
@@ -319,6 +319,20 @@
         "added_date": "2026-01-31"
       },
       {
+        "id": "recT1bdSOfIbieNaC",
+        "title": "Exploiting the polypharmacology of alectinib for synergistic RNA splicing disruption with RBM39 degraders.",
+        "summary": "In high-risk neuroblastoma, combining indisulam and alectinib disrupts RNA splicing, halts cancer cell growth, and induces complete tumor regression in mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41518614/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-31"
+      },
+      {
         "id": "recMwarXrliu7ldcT",
         "title": "Pseudopheochromocytoma With Catecholamine Excess and End-organ Damage: A 30-year Course Treated With Escitalopram.",
         "summary": "A 70-year-old woman with pseudopheochromocytoma experienced reduced hypertensive episodes after treatment with escitalopram and psychotherapy.",
@@ -418,21 +432,6 @@
           "Leukemia"
         ],
         "quality_score": 18,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-30"
-      },
-      {
-        "id": "recQD4A0M6pi4lrtC",
-        "title": "Repositioning Antihistamine for Cancer Therapy: Clemizole as a Template for the Design of Liver Tissue-Targeting Epigenetic-Modifying Agents.",
-        "summary": "Clemizole, an antihistamine, serves as a template to design liver-targeted epigenetic drugs that could potentially inhibit liver cancer cell growth.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41603740/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia",
-          "Liver"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-01-30"
       }
@@ -880,9 +879,9 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2012,
+    "archive_count": 2013,
     "archive_supplements": 305,
-    "archive_off_label": 90,
+    "archive_off_label": 91,
     "archive_biomarkers": 830,
     "archive_trials": 494
   }
