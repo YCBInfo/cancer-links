@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-31T05:07:48.255Z",
+  "last_updated": "2026-01-31T05:07:57.948Z",
   "categories": {
     "supplements": [
       {
@@ -500,6 +500,20 @@
         "added_date": "2026-01-31"
       },
       {
+        "id": "recEjBiCd5MtVe42Q",
+        "title": "Targeting EME1 Increases the Sensitivity of Camptothecin in Nasopharyngeal Carcinoma Cells.",
+        "summary": "In nasopharyngeal carcinoma, targeting EME1 protein increases cancer cell sensitivity to camptothecin, potentially improving treatment effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41532283/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-31"
+      },
+      {
         "id": "rec9gKyHSMsrlvqNX",
         "title": "Fragmentation through cell-cell adhesion maintains senescent cell viability but promotes debris deposition",
         "summary": "Here's a clear, concise summary sentence:\n\nSenescent cells release large cellular fragments containing damaged mitochondria through cell-cell adhesion, enabling cell survival while depositing potentially harmful cellular debris.",
@@ -641,20 +655,6 @@
         "quality_score": 12,
         "pub_date": "2026-01-16",
         "added_date": "2026-01-30"
-      },
-      {
-        "id": "recx6GafJOEaOTCeC",
-        "title": "Pathogenicity assessment of a TSC2 c.2966+1G>A splice site variant in vaginal adenocarcinoma",
-        "summary": "A detailed analysis of a TSC2 variant in vaginal adenocarcinoma revealed the splice change is likely not pathogenic and would not qualify patients for targeted treatment.",
-        "url": "https://www.medrxiv.org/content/10.64898/2025.12.31.25343109",
-        "source": "medRxiv",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-01-16",
-        "added_date": "2026-01-30"
       }
     ],
     "trials": [
@@ -696,6 +696,20 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Colorectal",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-31"
+      },
+      {
+        "id": "recEjBiCd5MtVe42Q",
+        "title": "Targeting EME1 Increases the Sensitivity of Camptothecin in Nasopharyngeal Carcinoma Cells.",
+        "summary": "In nasopharyngeal carcinoma, targeting EME1 protein increases cancer cell sensitivity to camptothecin, potentially improving treatment effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41532283/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
           "Leukemia"
         ],
         "quality_score": 15,
@@ -862,20 +876,6 @@
         "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-01-30"
-      },
-      {
-        "id": "rec7MK3HYiDHawPFG",
-        "title": "Advancing ICOS agonism in solid tumors: lessons from INDUCE-1.",
-        "summary": "The ICOS agonist feladilimab showed promising safety in solid tumors, but limited clinical responses suggest more nuanced immune modulation strategies are needed.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41611245/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-30"
       }
     ]
   },
@@ -885,10 +885,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 1939,
+    "archive_count": 1940,
     "archive_supplements": 289,
     "archive_off_label": 86,
-    "archive_biomarkers": 786,
+    "archive_biomarkers": 787,
     "archive_trials": 485
   }
 }
