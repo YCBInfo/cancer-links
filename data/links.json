@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-31T11:35:18.186Z",
+  "last_updated": "2026-01-31T11:35:38.146Z",
   "categories": {
     "supplements": [
       {
@@ -305,6 +305,20 @@
         "added_date": "2026-01-31"
       },
       {
+        "id": "receBdiGJlo7JiwSu",
+        "title": "Comparative Effectiveness and Outcomes of Nebivolol Versus Other Beta Blockers in Patients With Hypertension: A Multicenter Cohort Study.",
+        "summary": "This study compared nebivolol to other beta blockers and found it effectively controlled blood pressure and heart rate in hypertensive patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41614331/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-31"
+      },
+      {
         "id": "recMwarXrliu7ldcT",
         "title": "Pseudopheochromocytoma With Catecholamine Excess and End-organ Damage: A 30-year Course Treated With Escitalopram.",
         "summary": "A 70-year-old woman with pseudopheochromocytoma experienced reduced hypertensive episodes after treatment with escitalopram and psychotherapy.",
@@ -419,20 +433,6 @@
           "Liver"
         ],
         "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-30"
-      },
-      {
-        "id": "recr1MPzVrvihoLXx",
-        "title": "Metformin does not significantly alter longitudinal dynamics of clonal hematopoiesis.",
-        "summary": "A study found that metformin does not significantly change the progression of clonal hematopoiesis, a condition involving genetic mutations in blood cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41603726/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-01-01",
         "added_date": "2026-01-30"
       }
@@ -880,10 +880,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2003,
+    "archive_count": 2004,
     "archive_supplements": 304,
     "archive_off_label": 89,
-    "archive_biomarkers": 825,
+    "archive_biomarkers": 826,
     "archive_trials": 492
   }
 }
