@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-31T08:04:00.344Z",
+  "last_updated": "2026-01-31T08:04:10.300Z",
   "categories": {
     "supplements": [
       {
@@ -834,6 +834,20 @@
         "added_date": "2026-01-31"
       },
       {
+        "id": "recsY5kB7liPVSlHt",
+        "title": "Novel One-Pot Detection of Tumor mRNA Vaccine by the Target Serving as crRNA of the Split Cas12a System and Synergistically Triggering an Entropy-Driven Reaction.",
+        "summary": "A novel one-pot detection method uses mRNA itself as a signal amplifier, enabling highly sensitive and specific tracking of mRNA vaccine levels with a single reaction step.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41617656/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-31"
+      },
+      {
         "id": "recJgsQOVbfYDmetG",
         "title": "A study protocol for a randomised controlled trial evaluating the safety and efficiency of the YEARS algorithm versus computed tomography pulmonary angiography only for suspected acute pulmonary embolism in patients with cancer: the Hydra Study",
         "summary": "The Hydra study will evaluate whether the YEARS algorithm can safely and efficiently diagnose pulmonary embolism in cancer patients without always requiring computed tomography scans.",
@@ -861,21 +875,6 @@
         "quality_score": 12,
         "pub_date": "2026-01-16",
         "added_date": "2026-01-30"
-      },
-      {
-        "id": "recDXquQQ3qU1qotZ",
-        "title": "Clinical Approach to Medullary Thyroid Carcinoma in Pregnancy: Experience and Review of the Literature.",
-        "summary": "A 28-year-old pregnant woman with medullary thyroid carcinoma successfully underwent total thyroidectomy in the second trimester, demonstrating safe surgical management.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41583892/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Leukemia",
-          "Thyroid"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-30"
       }
     ]
   },
@@ -885,10 +884,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 1953,
+    "archive_count": 1954,
     "archive_supplements": 294,
     "archive_off_label": 86,
-    "archive_biomarkers": 795,
+    "archive_biomarkers": 796,
     "archive_trials": 485
   }
 }
