@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-31T08:02:49.781Z",
+  "last_updated": "2026-01-31T08:03:10.333Z",
   "categories": {
     "supplements": [
       {
@@ -586,6 +586,35 @@
         "added_date": "2026-01-31"
       },
       {
+        "id": "rec0qNJYQRE8DmIxI",
+        "title": "Differential immune- and apoptosis-related gene signatures in pancreatic alpha and beta cells contribute to their fate in type 1 diabetes.",
+        "summary": "In type 1 diabetes, alpha cells resist immune attack better than beta cells due to enhanced immune-like gene expression and lower pro-apoptotic gene levels.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41617975/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-31"
+      },
+      {
+        "id": "recTPl1eCYiaIs5v0",
+        "title": "Mitochondrial complex I subunit NDUFS4 overexpression drives glioma progression by regulating mitochondrial function and COX5B.",
+        "summary": "In glioma, overexpressing the mitochondrial protein NDUFS4 promotes cancer progression by enhancing mitochondrial function and regulating the COX5B gene.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41617910/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia",
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-31"
+      },
+      {
         "id": "rec9gKyHSMsrlvqNX",
         "title": "Fragmentation through cell-cell adhesion maintains senescent cell viability but promotes debris deposition",
         "summary": "Here's a clear, concise summary sentence:\n\nSenescent cells release large cellular fragments containing damaged mitochondria through cell-cell adhesion, enabling cell survival while depositing potentially harmful cellular debris.",
@@ -623,36 +652,6 @@
         "cancer_types": [
           "Lung",
           "Leukemia"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-01-16",
-        "added_date": "2026-01-30"
-      },
-      {
-        "id": "recw8lTQDXt5UR7PI",
-        "title": "Personalized Autoantibody Profiling Distinguishes Early-stage Breast Cancer from Benign Disease",
-        "summary": "Here's a clear, concise summary sentence:\n\nA personalized antibody profiling method identified eight key antibodies that could effectively distinguish early-stage breast cancer from benign breast disease.",
-        "url": "https://www.medrxiv.org/content/10.64898/2026.01.15.26344214",
-        "source": "medRxiv",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast",
-          "Leukemia"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-01-16",
-        "added_date": "2026-01-30"
-      },
-      {
-        "id": "rec6BfJGJrRqvBuR5",
-        "title": "Monitoring of plasma and urine tumor-derived DNA to inform bladder-sparing approaches for patients with muscle-invasive bladder cancer",
-        "summary": "Tumor DNA detected in plasma and urine can help predict bladder cancer recurrence and guide decisions about surgical removal of the bladder after initial systemic therapy.",
-        "url": "https://www.medrxiv.org/content/10.64898/2026.01.14.26344033",
-        "source": "medRxiv",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia",
-          "Bladder"
         ],
         "quality_score": 12,
         "pub_date": "2026-01-16",
@@ -776,6 +775,21 @@
         "added_date": "2026-01-31"
       },
       {
+        "id": "recTPl1eCYiaIs5v0",
+        "title": "Mitochondrial complex I subunit NDUFS4 overexpression drives glioma progression by regulating mitochondrial function and COX5B.",
+        "summary": "In glioma, overexpressing the mitochondrial protein NDUFS4 promotes cancer progression by enhancing mitochondrial function and regulating the COX5B gene.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41617910/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia",
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-31"
+      },
+      {
         "id": "recJgsQOVbfYDmetG",
         "title": "A study protocol for a randomised controlled trial evaluating the safety and efficiency of the YEARS algorithm versus computed tomography pulmonary angiography only for suspected acute pulmonary embolism in patients with cancer: the Hydra Study",
         "summary": "The Hydra study will evaluate whether the YEARS algorithm can safely and efficiently diagnose pulmonary embolism in cancer patients without always requiring computed tomography scans.",
@@ -861,20 +875,6 @@
         "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-01-30"
-      },
-      {
-        "id": "recMRRZooIhYBissG",
-        "title": "Partial nephrectomy for clinical T2b, T3a, and T3b renal mass: evaluating trifecta achievement and surgical outcomes.",
-        "summary": "Researchers found partial kidney surgery can successfully treat larger kidney tumors (T2b-T3b stages) while preserving kidney function and minimizing complications.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41612049/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Kidney"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-30"
       }
     ]
   },
@@ -884,10 +884,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 1947,
+    "archive_count": 1948,
     "archive_supplements": 292,
     "archive_off_label": 86,
-    "archive_biomarkers": 791,
+    "archive_biomarkers": 792,
     "archive_trials": 485
   }
 }
