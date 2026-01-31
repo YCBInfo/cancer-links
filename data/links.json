@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-30T18:30:28.845Z",
+  "last_updated": "2026-01-31T05:07:28.388Z",
   "categories": {
     "supplements": [
       {
@@ -442,6 +442,35 @@
     ],
     "biomarkers": [
       {
+        "id": "reciW4Xb0yaBqtQNX",
+        "title": "Knockout of the Intracellular Calcium Conducting Ion Channel Mitsugumin 23 (MG23) Protects Against Pressure Overload Induced Left Ventricular Hypertrophy and Cardiac Dysfunction.",
+        "summary": "Knockout of the MG23 ion channel protects mouse hearts from pressure-induced cardiac dysfunction by reducing calcium leakage and preventing hypertrophy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41568959/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Melanoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-31"
+      },
+      {
+        "id": "recQQasFi3Pydv1jg",
+        "title": "GRK5 Overexpression Drives Malignant Glioma Progression Through HDAC7 Alongside Canonical GPCR Signaling.",
+        "summary": "In glioma, GRK5 overexpression drives cancer progression by relocating HDAC7, which stabilizes proteins that enhance tumor cell migration and invasion.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41553075/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia",
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-31"
+      },
+      {
         "id": "rec9gKyHSMsrlvqNX",
         "title": "Fragmentation through cell-cell adhesion maintains senescent cell viability but promotes debris deposition",
         "summary": "Here's a clear, concise summary sentence:\n\nSenescent cells release large cellular fragments containing damaged mitochondria through cell-cell adhesion, enabling cell survival while depositing potentially harmful cellular debris.",
@@ -626,38 +655,24 @@
         "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-01-30"
-      },
-      {
-        "id": "rech9yutPK8J7tPda",
-        "title": "A system-level metastable model of cancer evolution: integrating replication stress, cell cycle deregulation and chromosomal instability.",
-        "summary": "A new model suggests that replication stress, cell cycle disruption, and chromosomal instability interact to drive cancer evolution and adaptability.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41606986/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-30"
-      },
-      {
-        "id": "recjwuZWk2Fkj0l7k",
-        "title": "Neuroimmune circuits in respiratory pathophysiology: decoding molecular crosstalk for precision therapeutic targeting.",
-        "summary": "The research explores how nerve and immune system interactions in lungs could reveal new insights into respiratory disease mechanisms and potential targeted treatments.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41601146/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-30"
       }
     ],
     "trials": [
+      {
+        "id": "recQQasFi3Pydv1jg",
+        "title": "GRK5 Overexpression Drives Malignant Glioma Progression Through HDAC7 Alongside Canonical GPCR Signaling.",
+        "summary": "In glioma, GRK5 overexpression drives cancer progression by relocating HDAC7, which stabilizes proteins that enhance tumor cell migration and invasion.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41553075/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia",
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-31"
+      },
       {
         "id": "recJgsQOVbfYDmetG",
         "title": "A study protocol for a randomised controlled trial evaluating the safety and efficiency of the YEARS algorithm versus computed tomography pulmonary angiography only for suspected acute pulmonary embolism in patients with cancer: the Hydra Study",
@@ -859,21 +874,6 @@
           "Leukemia"
         ],
         "quality_score": 18,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-30"
-      },
-      {
-        "id": "recROAet9jShRryM9",
-        "title": "Current and Emerging Treatment Landscape of Common EGFR-Mutated Advanced Non-small Cell Lung Cancer.",
-        "summary": "Osimertinib has become the standard first-line treatment for EGFR-mutated advanced non-small cell lung cancer, with emerging combination therapies offering potential improvements.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41609978/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Lung",
-          "Leukemia"
-        ],
-        "quality_score": 29,
         "pub_date": "2026-01-01",
         "added_date": "2026-01-30"
       }
