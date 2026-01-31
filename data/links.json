@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-31T11:34:58.203Z",
+  "last_updated": "2026-01-31T11:35:08.116Z",
   "categories": {
     "supplements": [
       {
@@ -290,6 +290,21 @@
         "added_date": "2026-01-31"
       },
       {
+        "id": "recLPCjLve2q2077D",
+        "title": "Antitumoral and cardioprotective roles of statins: underlying types, mechanisms, current evidence, and emerging perspectives.",
+        "summary": "Statins show potential in breast cancer by inhibiting cancer cell growth and spreading while protecting heart health during treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41615648/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Breast",
+          "Leukemia"
+        ],
+        "quality_score": 24,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-31"
+      },
+      {
         "id": "recMwarXrliu7ldcT",
         "title": "Pseudopheochromocytoma With Catecholamine Excess and End-organ Damage: A 30-year Course Treated With Escitalopram.",
         "summary": "A 70-year-old woman with pseudopheochromocytoma experienced reduced hypertensive episodes after treatment with escitalopram and psychotherapy.",
@@ -418,21 +433,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-30"
-      },
-      {
-        "id": "recIjSDW3LP8aGmBV",
-        "title": "Cancer Cell-Intrinsic Cholesterol Induces Lipid-Associated Macrophage Differentiation via SP1 Palmitoylation to Promote Prostate Cancer Progression.",
-        "summary": "Cancer cell cholesterol promotes immune cell changes that support prostate cancer growth, and targeting this mechanism with simvastatin could improve treatment effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41603134/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Prostate",
-          "Leukemia"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-01-30"
       }
@@ -880,10 +880,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2001,
+    "archive_count": 2002,
     "archive_supplements": 304,
     "archive_off_label": 88,
-    "archive_biomarkers": 824,
+    "archive_biomarkers": 825,
     "archive_trials": 492
   }
 }
