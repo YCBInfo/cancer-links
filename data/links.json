@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-31T08:03:30.285Z",
+  "last_updated": "2026-01-31T08:03:40.206Z",
   "categories": {
     "supplements": [
       {
@@ -56,6 +56,20 @@
           "Leukemia"
         ],
         "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-31"
+      },
+      {
+        "id": "recQmgjOQKpi6HGEP",
+        "title": "Honokiol blocks tumor development and metastasis through mitochondrion-targeted effects.",
+        "summary": "Honokiol disrupts cancer cell survival by targeting mitochondrial proteins, reducing tumor growth and blocking metastasis in HeLa cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41617686/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-01-01",
         "added_date": "2026-01-31"
       },
@@ -194,20 +208,6 @@
         "title": "Qingtong treatment principle alleviates opioid-induced constipation by regulating bile acid homeostasis via an FXR-dependent manner.",
         "summary": "Qingtong Tea Bags help reduce constipation in cancer patients by balancing bile acids through a specific biological pathway.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41067320/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 13,
-        "pub_date": "2025-11-01",
-        "added_date": "2026-01-30"
-      },
-      {
-        "id": "rec03bcMgV0Z6zXW6",
-        "title": "Extraction, preparation, pharmacological activities, and potential applications of ginsenosides Rk1 and Rg5.",
-        "summary": "Rare ginsenosides Rk1 and Rg5 from ginseng show promising anti-cancer potential by demonstrating potent antitumor effects compared to common ginsenosides.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41052692/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -643,18 +643,18 @@
         "added_date": "2026-01-31"
       },
       {
-        "id": "rec9gKyHSMsrlvqNX",
-        "title": "Fragmentation through cell-cell adhesion maintains senescent cell viability but promotes debris deposition",
-        "summary": "Here's a clear, concise summary sentence:\n\nSenescent cells release large cellular fragments containing damaged mitochondria through cell-cell adhesion, enabling cell survival while depositing potentially harmful cellular debris.",
-        "url": "https://www.biorxiv.org/content/10.1101/2023.01.11.523642",
-        "source": "bioRxiv",
-        "category": "Biomarkers & Diagnostics",
+        "id": "recQmgjOQKpi6HGEP",
+        "title": "Honokiol blocks tumor development and metastasis through mitochondrion-targeted effects.",
+        "summary": "Honokiol disrupts cancer cell survival by targeting mitochondrial proteins, reducing tumor growth and blocking metastasis in HeLa cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41617686/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
         "cancer_types": [
-          "Leukemia"
+          "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-01-29",
-        "added_date": "2026-01-30"
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-31"
       }
     ],
     "trials": [
@@ -882,10 +882,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 1950,
+    "archive_count": 1951,
     "archive_supplements": 292,
     "archive_off_label": 86,
-    "archive_biomarkers": 794,
+    "archive_biomarkers": 795,
     "archive_trials": 485
   }
 }
