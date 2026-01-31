@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-31T08:04:51.237Z",
+  "last_updated": "2026-01-31T08:05:01.023Z",
   "categories": {
     "supplements": [
       {
@@ -104,6 +104,20 @@
         "added_date": "2026-01-31"
       },
       {
+        "id": "recTrib3MpnhhbgQg",
+        "title": "Resveratrol inhibits bladder cancer proliferation by targeting the AURKA/STAT3 axis: From computational analysis to experimental validation.",
+        "summary": "Resveratrol inhibits bladder cancer cell growth by targeting and disrupting the AURKA/STAT3 molecular pathway, offering a potential natural treatment strategy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41616005/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Bladder"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-31"
+      },
+      {
         "id": "recPmRyl6YW33RWkW",
         "title": "Preclinical evaluation of gefitinib and betulin-loaded surface functionalized liposomes for the treatment of hepatocellular carcinoma via asialoglycoprotein receptor targeting.",
         "summary": "Targeted liposomal delivery of gefitinib and betulin effectively reduced hepatocellular carcinoma tumor markers and promoted cancer cell death in preclinical studies.",
@@ -201,20 +215,6 @@
           "Leukemia"
         ],
         "quality_score": 13,
-        "pub_date": "2025-11-01",
-        "added_date": "2026-01-30"
-      },
-      {
-        "id": "recc1stLA5BaE8FPl",
-        "title": "The progress of research on the herbology, geographical distribution, phytochemistry, pharmacological effects and gene regulation of snow lotus: A review.",
-        "summary": "This text appears to be a review about the traditional medicinal herb Snow Lotus, discussing its botanical origins, historical medical uses, and research perspectives, but it does not specifically discuss cancer research. Therefore, I cannot create a summary sentence about cancer research from this text.\n\nWould you like me to help you with something else related to this review article?",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41067327/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
         "pub_date": "2025-11-01",
         "added_date": "2026-01-30"
       }
@@ -884,8 +884,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 1958,
-    "archive_supplements": 294,
+    "archive_count": 1959,
+    "archive_supplements": 295,
     "archive_off_label": 86,
     "archive_biomarkers": 799,
     "archive_trials": 486
