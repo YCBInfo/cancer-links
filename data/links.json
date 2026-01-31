@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-31T08:14:25.067Z",
+  "last_updated": "2026-01-31T08:22:48.814Z",
   "categories": {
     "supplements": [
       {
@@ -234,6 +234,20 @@
         "added_date": "2026-01-31"
       },
       {
+        "id": "recTSrTaKXcrLT6ou",
+        "title": "A novel role of E2F transcription factor 1 in pancreatic stellate cell activation through polyamine metabolism modulation.",
+        "summary": "E2F1 suppresses pancreatic stellate cell activation by regulating polyamine metabolism, with Chidamide potentially offering a therapeutic approach for pancreatic fibrosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41617000/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-31"
+      },
+      {
         "id": "recMwarXrliu7ldcT",
         "title": "Pseudopheochromocytoma With Catecholamine Excess and End-organ Damage: A 30-year Course Treated With Escitalopram.",
         "summary": "A 70-year-old woman with pseudopheochromocytoma experienced reduced hypertensive episodes after treatment with escitalopram and psychotherapy.",
@@ -419,21 +433,6 @@
         "cancer_types": [
           "Leukemia",
           "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-30"
-      },
-      {
-        "id": "recSadRT867iHBnlI",
-        "title": "Universal Antibody-Engineered Lipid Nanoparticles Potentiate Chemo-Immunotherapy Against Triple-Negative Breast Cancer by Reprogramming Tumor Cell Metabolism.",
-        "summary": "A targeted lipid nanoparticle combining chemotherapy and metformin helps reprogram triple-negative breast cancer metabolism to enhance immune response and treatment effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41591256/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Breast",
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
@@ -883,10 +882,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 1981,
+    "archive_count": 1982,
     "archive_supplements": 301,
     "archive_off_label": 86,
-    "archive_biomarkers": 813,
+    "archive_biomarkers": 814,
     "archive_trials": 488
   }
 }
