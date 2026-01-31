@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-31T05:07:28.388Z",
+  "last_updated": "2026-01-31T05:07:37.959Z",
   "categories": {
     "supplements": [
       {
@@ -471,6 +471,20 @@
         "added_date": "2026-01-31"
       },
       {
+        "id": "recqSweseD2Ucc5I7",
+        "title": "WW Domain-Binding Protein 2 Aggravates Neointimal Hyperplasia by Promoting Y-Box Binding Protein 1 Nuclear Translocation.",
+        "summary": "WBP2 protein promotes vascular smooth muscle cell proliferation by facilitating Y-box binding protein 1's nuclear movement, potentially contributing to blood vessel narrowing.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41546484/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-31"
+      },
+      {
         "id": "rec9gKyHSMsrlvqNX",
         "title": "Fragmentation through cell-cell adhesion maintains senescent cell viability but promotes debris deposition",
         "summary": "Here's a clear, concise summary sentence:\n\nSenescent cells release large cellular fragments containing damaged mitochondria through cell-cell adhesion, enabling cell survival while depositing potentially harmful cellular debris.",
@@ -641,20 +655,6 @@
         "quality_score": 12,
         "pub_date": "2026-01-16",
         "added_date": "2026-01-30"
-      },
-      {
-        "id": "recMO5RHtqug4fBKX",
-        "title": "Aberrant expression of triggering receptor expressed on myeloid cell-1 is involved in the immunopathological mechanism of myasthenia gravis.",
-        "summary": "In myasthenia gravis, elevated soluble TREM-1 levels correlate with disease severity and potentially contribute to immune dysfunction by inhibiting regulatory T cell development.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41588655/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-30"
       }
     ],
     "trials": [
@@ -668,6 +668,20 @@
         "cancer_types": [
           "Leukemia",
           "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-31"
+      },
+      {
+        "id": "recqSweseD2Ucc5I7",
+        "title": "WW Domain-Binding Protein 2 Aggravates Neointimal Hyperplasia by Promoting Y-Box Binding Protein 1 Nuclear Translocation.",
+        "summary": "WBP2 protein promotes vascular smooth muscle cell proliferation by facilitating Y-box binding protein 1's nuclear movement, potentially contributing to blood vessel narrowing.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41546484/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
@@ -862,20 +876,6 @@
         "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-01-30"
-      },
-      {
-        "id": "recEaFiJfiXG7r5hd",
-        "title": "Takotsubo Syndrome Triggered by Immune Checkpoint Inhibitor-Induced Pneumonitis: A Multidisciplinary Diagnostic and Therapeutic Challenge.",
-        "summary": "A lung cancer patient developed takotsubo cardiomyopathy after immune checkpoint inhibitor treatment, successfully managed through careful multidisciplinary cardiac evaluation and imaging.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41610087/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 18,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-30"
       }
     ]
   },
@@ -885,10 +885,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 1937,
+    "archive_count": 1938,
     "archive_supplements": 289,
     "archive_off_label": 86,
-    "archive_biomarkers": 784,
+    "archive_biomarkers": 785,
     "archive_trials": 485
   }
 }
