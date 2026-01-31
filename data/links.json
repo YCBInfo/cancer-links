@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-31T05:07:37.959Z",
+  "last_updated": "2026-01-31T05:07:48.255Z",
   "categories": {
     "supplements": [
       {
@@ -485,6 +485,21 @@
         "added_date": "2026-01-31"
       },
       {
+        "id": "rec6yrnxUyAtuT5yD",
+        "title": "HAUS1 Promotes Colorectal Cancer Progression by Activating CDCA8 Transcription Through the HAUS1-EZH2-E2F1 Axis.",
+        "summary": "HAUS1 promotes colorectal cancer progression by activating CDCA8 gene expression, enhancing cancer cell growth, migration, and stem-like properties.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41546483/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-31"
+      },
+      {
         "id": "rec9gKyHSMsrlvqNX",
         "title": "Fragmentation through cell-cell adhesion maintains senescent cell viability but promotes debris deposition",
         "summary": "Here's a clear, concise summary sentence:\n\nSenescent cells release large cellular fragments containing damaged mitochondria through cell-cell adhesion, enabling cell survival while depositing potentially harmful cellular debris.",
@@ -640,21 +655,6 @@
         "quality_score": 12,
         "pub_date": "2026-01-16",
         "added_date": "2026-01-30"
-      },
-      {
-        "id": "recoekwYKwLIJ7s2K",
-        "title": "Not all controls are made equal: Definition of human kidney reference samples by single cell gene expression profiles",
-        "summary": "Single-sentence summary:\n\nDifferent kidney tissue sources (tumor, pre-transplant, and healthy biopsies) show distinct molecular profiles that can significantly impact diabetic kidney disease research findings.",
-        "url": "https://www.medrxiv.org/content/10.1101/2025.03.17.25324134",
-        "source": "medRxiv",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Melanoma",
-          "Leukemia"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-01-16",
-        "added_date": "2026-01-30"
       }
     ],
     "trials": [
@@ -681,6 +681,21 @@
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-01-31"
+      },
+      {
+        "id": "rec6yrnxUyAtuT5yD",
+        "title": "HAUS1 Promotes Colorectal Cancer Progression by Activating CDCA8 Transcription Through the HAUS1-EZH2-E2F1 Axis.",
+        "summary": "HAUS1 promotes colorectal cancer progression by activating CDCA8 gene expression, enhancing cancer cell growth, migration, and stem-like properties.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41546483/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal",
           "Leukemia"
         ],
         "quality_score": 15,
@@ -861,21 +876,6 @@
         "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-01-30"
-      },
-      {
-        "id": "recvFJUwnLBM8UO0M",
-        "title": "Multicriteria decision analysis for HER2-positive non-metastatic breast cancer.",
-        "summary": "A multicriteria decision analysis ranked eight treatment strategies for HER2-positive breast cancer, identifying optimal therapies based on survival, cost, and side effects.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41610152/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Breast",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-30"
       }
     ]
   },
@@ -885,10 +885,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 1938,
+    "archive_count": 1939,
     "archive_supplements": 289,
     "archive_off_label": 86,
-    "archive_biomarkers": 785,
+    "archive_biomarkers": 786,
     "archive_trials": 485
   }
 }
