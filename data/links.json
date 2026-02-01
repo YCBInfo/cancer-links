@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-01T05:33:32.946Z",
+  "last_updated": "2026-02-01T05:33:43.053Z",
   "categories": {
     "supplements": [
       {
@@ -133,6 +133,20 @@
         "added_date": "2026-02-01"
       },
       {
+        "id": "rec0vEEv8HLqtKJPI",
+        "title": "Feasibility and Implementation of INTERVAL-GAP4: A Global Randomised Controlled Trial of Intense Hybrid-supervised/Self-managed Versus Self-directed Exercise for Metastatic Prostate Cancer.",
+        "summary": "A global clinical trial exploring structured exercise for metastatic prostate cancer patients was stopped early due to challenges recruiting participants.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41561488/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 23,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-01"
+      },
+      {
         "id": "reck0pJMqqndSs6Zj",
         "title": "EM2, a Novel Elephantopus mollis H.B.K. Monomer, Enhances Radiosensitivity in Cervical Cancer Through Dual Inhibition of AKT and Autophagy.",
         "summary": "EM2, a natural compound, enhances radiation's effectiveness in cervical cancer by blocking two key cellular survival mechanisms simultaneously.",
@@ -200,21 +214,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-31"
-      },
-      {
-        "id": "recK5b3QyYJaRpSq4",
-        "title": "Rottlerin triggers dual degradation of SLC7A11 and GPX4 to drive ferroptosis and chemosensitization in hepatocellular carcinoma.",
-        "summary": "Rottlerin triggers cell death in liver cancer by simultaneously breaking down two key antioxidant proteins, enhancing the effectiveness of existing cancer treatments.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41617684/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia",
-          "Liver"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-01-31"
       }
@@ -881,10 +880,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2165,
+    "archive_count": 2166,
     "archive_supplements": 313,
     "archive_off_label": 93,
-    "archive_biomarkers": 949,
+    "archive_biomarkers": 950,
     "archive_trials": 517
   }
 }
