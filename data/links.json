@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-01T05:10:22.777Z",
+  "last_updated": "2026-02-01T05:10:32.910Z",
   "categories": {
     "supplements": [
       {
@@ -13,6 +13,20 @@
           "Leukemia"
         ],
         "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-01"
+      },
+      {
+        "id": "reccCwcWZ5r3HEVI1",
+        "title": "Coumarin-based Oximes Exert Monoamine Oxidase Inhibitory Activity.",
+        "summary": "Researchers discovered that specific coumarin-based oximes showed potential anti-cancer activity by inhibiting monoamine oxidase enzymes in laboratory tests.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41617416/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-01-01",
         "added_date": "2026-02-01"
       },
@@ -197,20 +211,6 @@
         "cancer_types": [
           "Leukemia",
           "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-31"
-      },
-      {
-        "id": "recuDGAf62UbUwzEG",
-        "title": "Fanconi Anaemia as a Human Model of Accelerated Epigenetic and Immune Ageing.",
-        "summary": "Fanconi anaemia reveals how DNA repair defects accelerate aging processes, leading to increased childhood and early adult cancer risk through genomic instability and immune dysfunction.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41616911/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
@@ -881,10 +881,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2047,
+    "archive_count": 2048,
     "archive_supplements": 306,
     "archive_off_label": 91,
     "archive_biomarkers": 861,
-    "archive_trials": 496
+    "archive_trials": 497
   }
 }
