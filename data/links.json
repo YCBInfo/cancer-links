@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-01T05:34:43.627Z",
+  "last_updated": "2026-02-01T05:34:53.412Z",
   "categories": {
     "supplements": [
       {
@@ -278,6 +278,20 @@
         "added_date": "2026-02-01"
       },
       {
+        "id": "recMdUpQzRZZ58a1M",
+        "title": "Metformin glycyrrhetinic acid binary injectable hydrogel for synergistic tumor immunotherapy via spatiotemporal microenvironment remodeling.",
+        "summary": "An injectable hydrogel combining metformin and glycyrrhetinic acid with magnetic nanoparticles successfully reprograms the tumor immune environment, enhancing cancer immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41560796/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-01"
+      },
+      {
         "id": "recnnl4A6XTcXXH2R",
         "title": "MYLK4 promotes colorectal cancer progression by regulating lipid metabolism reprogramming via targeting ferroptosis.",
         "summary": "MYLK4 promotes colorectal cancer progression by regulating lipid metabolism, enhancing cancer cell resistance to treatment and potentially offering a new therapeutic target.",
@@ -413,21 +427,6 @@
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-30"
-      },
-      {
-        "id": "rec8SlOZF21zVS4DZ",
-        "title": "A randomised pilot trial of perioperative propranolol combined with celecoxib versus standard of care in stage III melanoma: The ProCel study protocol.",
-        "summary": "A pilot study explores using propranolol and celecoxib to potentially reduce inflammation and slow progression in stage III melanoma patients after surgery.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41610103/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Melanoma",
           "Leukemia"
         ],
         "quality_score": 15,
@@ -881,10 +880,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2172,
+    "archive_count": 2173,
     "archive_supplements": 314,
     "archive_off_label": 93,
-    "archive_biomarkers": 953,
+    "archive_biomarkers": 954,
     "archive_trials": 519
   }
 }
