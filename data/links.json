@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-31T12:33:29.399Z",
+  "last_updated": "2026-02-01T05:01:11.642Z",
   "categories": {
     "supplements": [
       {
@@ -438,6 +438,35 @@
     ],
     "biomarkers": [
       {
+        "id": "recxhOy2VUKshCWAU",
+        "title": "Transcriptomic subtyping of COVID-19 reveals three distinct immune response profile.",
+        "summary": "Researchers identified three distinct immune response subtypes in severe COVID-19 patients by analyzing gene expression patterns in blood samples.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41614652/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-01"
+      },
+      {
+        "id": "rec5iJZfPtfngwkqE",
+        "title": "CAR T therapy in adult DLBCL patients in Slovenia: Evaluation of predictive scores for outcomes and adverse events.",
+        "summary": "In Slovenian DLBCL patients, CAR T therapy showed a 50% response rate, with unexpected IL-6 and predictive score findings suggesting complex treatment outcomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41614438/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Leukemia",
+          "Lymphoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-01"
+      },
+      {
         "id": "reciW4Xb0yaBqtQNX",
         "title": "Knockout of the Intracellular Calcium Conducting Ion Channel Mitsugumin 23 (MG23) Protects Against Pressure Overload Induced Left Ventricular Hypertrophy and Cardiac Dysfunction.",
         "summary": "Knockout of the MG23 ion channel protects mouse hearts from pressure-induced cardiac dysfunction by reducing calcium leakage and preventing hypertrophy.",
@@ -623,37 +652,24 @@
         "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-01-31"
-      },
-      {
-        "id": "recMDoUJ552xsawua",
-        "title": "Harnessing gut microbiota for brain health: protective role of Hungatella hathewayi for post-mTBI cognitive impairment.",
-        "summary": "Hungatella hathewayi bacteria in the gut may help reduce cognitive impairment after mild traumatic brain injury by decreasing inflammation and supporting brain health.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41617714/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-31"
-      },
-      {
-        "id": "recQmgjOQKpi6HGEP",
-        "title": "Honokiol blocks tumor development and metastasis through mitochondrion-targeted effects.",
-        "summary": "Honokiol disrupts cancer cell survival by targeting mitochondrial proteins, reducing tumor growth and blocking metastasis in HeLa cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41617686/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-31"
       }
     ],
     "trials": [
+      {
+        "id": "rec5iJZfPtfngwkqE",
+        "title": "CAR T therapy in adult DLBCL patients in Slovenia: Evaluation of predictive scores for outcomes and adverse events.",
+        "summary": "In Slovenian DLBCL patients, CAR T therapy showed a 50% response rate, with unexpected IL-6 and predictive score findings suggesting complex treatment outcomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41614438/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Leukemia",
+          "Lymphoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-01"
+      },
       {
         "id": "recQQasFi3Pydv1jg",
         "title": "GRK5 Overexpression Drives Malignant Glioma Progression Through HDAC7 Alongside Canonical GPCR Signaling.",
@@ -855,21 +871,6 @@
         "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-01-31"
-      },
-      {
-        "id": "rec8myJgmAM6P2yBO",
-        "title": "Heterogeneity of Single-platelet Calcium Responses to Activation.",
-        "summary": "Single-platelet calcium responses vary widely when activated by different stimuli, with distinct dynamic patterns revealing potential differences in platelet function and cancer patient responses.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41617187/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-31"
       }
     ]
   },
@@ -879,10 +880,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2014,
+    "archive_count": 2015,
     "archive_supplements": 305,
     "archive_off_label": 91,
-    "archive_biomarkers": 831,
+    "archive_biomarkers": 832,
     "archive_trials": 494
   }
 }
