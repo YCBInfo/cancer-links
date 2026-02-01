@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-01T07:09:31.944Z",
+  "last_updated": "2026-02-01T07:09:52.303Z",
   "categories": {
     "supplements": [
       {
@@ -364,6 +364,20 @@
         "added_date": "2026-02-01"
       },
       {
+        "id": "recl7txt43eDtHXJK",
+        "title": "Understanding obesity-cancer crosstalk to inform the immunomodulatory roles of anti-obesity nanotherapeutics.",
+        "summary": "Nanomedicine targeting adipose inflammation shows promise in potentially reducing obesity-related cancer progression by modulating immune responses and metabolic dysfunction.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41551882/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-01"
+      },
+      {
         "id": "recnnl4A6XTcXXH2R",
         "title": "MYLK4 promotes colorectal cancer progression by regulating lipid metabolism reprogramming via targeting ferroptosis.",
         "summary": "MYLK4 promotes colorectal cancer progression by regulating lipid metabolism, enhancing cancer cell resistance to treatment and potentially offering a new therapeutic target.",
@@ -414,20 +428,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-31"
-      },
-      {
-        "id": "recCNBPjor7Y3YdtX",
-        "title": "Clinical and translational results from a phase 1 trial of gemcitabine/nab-paclitaxel with nivolumab/ipilimumab or hydroxychloroquine/ipilimumab in untreated metastatic pancreatic adenocarcinoma.",
-        "summary": "In a phase 1 trial, combining chemotherapy with immunotherapy showed potential safety and effectiveness for patients with metastatic pancreatic cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41617393/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Pancreatic"
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
@@ -880,8 +880,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2238,
-    "archive_supplements": 331,
+    "archive_count": 2239,
+    "archive_supplements": 332,
     "archive_off_label": 98,
     "archive_biomarkers": 985,
     "archive_trials": 531
