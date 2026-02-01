@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-01T05:37:55.185Z",
+  "last_updated": "2026-02-01T05:38:04.690Z",
   "categories": {
     "supplements": [
       {
@@ -293,6 +293,21 @@
         "added_date": "2026-02-01"
       },
       {
+        "id": "reclBtG6LdLt4fd0B",
+        "title": "Biomimetic hybrid membrane-coated nanoparticles loaded with rhein-iron complex enhance ferroptosis and immunotherapy for triple-negative breast cancer.",
+        "summary": "Nanoparticles loaded with rhein-iron complex effectively induce cancer cell death and boost immune response in aggressive triple-negative breast cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41551883/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Breast",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-01"
+      },
+      {
         "id": "recnnl4A6XTcXXH2R",
         "title": "MYLK4 promotes colorectal cancer progression by regulating lipid metabolism reprogramming via targeting ferroptosis.",
         "summary": "MYLK4 promotes colorectal cancer progression by regulating lipid metabolism, enhancing cancer cell resistance to treatment and potentially offering a new therapeutic target.",
@@ -415,20 +430,6 @@
         "cancer_types": [
           "Leukemia",
           "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-30"
-      },
-      {
-        "id": "recd1tHCOD7zMzjmR",
-        "title": "Comparative analysis of senolytic drugs reveals mitochondrial determinants of efficacy and resistance.",
-        "summary": "Senolytic drugs ABT263 and ARV825 effectively eliminate senescent cells by targeting mitochondrial integrity, with potential implications for reducing cancer metastasis and tumor growth.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41611832/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
@@ -881,10 +882,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2191,
+    "archive_count": 2192,
     "archive_supplements": 316,
     "archive_off_label": 94,
-    "archive_biomarkers": 967,
+    "archive_biomarkers": 968,
     "archive_trials": 521
   }
 }
