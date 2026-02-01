@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-01T05:05:51.263Z",
+  "last_updated": "2026-02-01T05:06:01.860Z",
   "categories": {
     "supplements": [
       {
@@ -583,6 +583,20 @@
         "added_date": "2026-02-01"
       },
       {
+        "id": "rectSAXS23OIinxN0",
+        "title": "Fe metal-organic framework-derived heterojunction for metabolic diagnosis of thymic epithelial tumor.",
+        "summary": "A novel Fe metal-organic framework nanomaterial enables highly sensitive metabolic diagnosis and risk stratification of rare thymic epithelial tumors using just one microliter of serum.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41615745/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-01"
+      },
+      {
         "id": "reciW4Xb0yaBqtQNX",
         "title": "Knockout of the Intracellular Calcium Conducting Ion Channel Mitsugumin 23 (MG23) Protects Against Pressure Overload Induced Left Ventricular Hypertrophy and Cardiac Dysfunction.",
         "summary": "Knockout of the MG23 ion channel protects mouse hearts from pressure-induced cardiac dysfunction by reducing calcium leakage and preventing hypertrophy.",
@@ -634,20 +648,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Colorectal",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-31"
-      },
-      {
-        "id": "recEjBiCd5MtVe42Q",
-        "title": "Targeting EME1 Increases the Sensitivity of Camptothecin in Nasopharyngeal Carcinoma Cells.",
-        "summary": "In nasopharyngeal carcinoma, targeting EME1 protein increases cancer cell sensitivity to camptothecin, potentially improving treatment effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41532283/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
           "Leukemia"
         ],
         "quality_score": 15,
@@ -760,6 +760,20 @@
         "added_date": "2026-02-01"
       },
       {
+        "id": "rectSAXS23OIinxN0",
+        "title": "Fe metal-organic framework-derived heterojunction for metabolic diagnosis of thymic epithelial tumor.",
+        "summary": "A novel Fe metal-organic framework nanomaterial enables highly sensitive metabolic diagnosis and risk stratification of rare thymic epithelial tumors using just one microliter of serum.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41615745/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-01"
+      },
+      {
         "id": "recQQasFi3Pydv1jg",
         "title": "GRK5 Overexpression Drives Malignant Glioma Progression Through HDAC7 Alongside Canonical GPCR Signaling.",
         "summary": "In glioma, GRK5 overexpression drives cancer progression by relocating HDAC7, which stabilizes proteins that enhance tumor cell migration and invasion.",
@@ -858,21 +872,6 @@
         "quality_score": 12,
         "pub_date": "2026-01-01",
         "added_date": "2026-01-31"
-      },
-      {
-        "id": "recPeZEABPbQArJxK",
-        "title": "Targeting the USP7-PRMT6 epigenetic axis overcomes chemoresistance in breast cancer by coordinating H3R2me2a deposition and RNF168 methylation for DNA repair and ferroptosis blockade.",
-        "summary": "USP7-PRMT6 complex in breast cancer disrupts DNA repair and cell death pathways, enabling platinum chemoresistance through epigenetic modifications.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41617976/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-31"
       }
     ]
   },
@@ -882,10 +881,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2023,
+    "archive_count": 2024,
     "archive_supplements": 305,
     "archive_off_label": 91,
-    "archive_biomarkers": 839,
+    "archive_biomarkers": 840,
     "archive_trials": 495
   }
 }
