@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-01T05:17:05.799Z",
+  "last_updated": "2026-02-01T05:17:15.941Z",
   "categories": {
     "supplements": [
       {
@@ -39,6 +39,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Breast",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-01"
+      },
+      {
+        "id": "recmvKx7PZlotV4iw",
+        "title": "A novel transdermal curcumin gel shows potential in improving cardiac bioenergetic functions in Berkeley sickle cell mice.",
+        "summary": "Transdermal curcumin gel improved heart mitochondrial function and reduced oxidative stress in sickle cell disease mice, potentially enhancing cellular energy processes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41608028/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
           "Leukemia"
         ],
         "quality_score": 15,
@@ -197,20 +211,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-31"
-      },
-      {
-        "id": "recTMUy3znFSElKjD",
-        "title": "High-fat and choline-deficient western diets disrupt the ovarian microenvironment in mice†.",
-        "summary": "High-fat and choline-deficient diets disrupt ovarian microenvironment in mice, promoting inflammatory changes and stromal remodeling without reducing follicle reserve.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41615011/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
@@ -881,8 +881,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2080,
-    "archive_supplements": 308,
+    "archive_count": 2081,
+    "archive_supplements": 309,
     "archive_off_label": 91,
     "archive_biomarkers": 884,
     "archive_trials": 504
