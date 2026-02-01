@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-01T05:18:56.834Z",
+  "last_updated": "2026-02-01T05:19:06.567Z",
   "categories": {
     "supplements": [
       {
@@ -50,6 +50,20 @@
         "title": "A novel transdermal curcumin gel shows potential in improving cardiac bioenergetic functions in Berkeley sickle cell mice.",
         "summary": "Transdermal curcumin gel improved heart mitochondrial function and reduced oxidative stress in sickle cell disease mice, potentially enhancing cellular energy processes.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41608028/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-01"
+      },
+      {
+        "id": "rec3HDalC0ARxC00d",
+        "title": "Targeting the Autophagy-Apoptosis Axis in Osteosarcoma: Therapeutic Potential of Biocompounds: A Review.",
+        "summary": "Biocompounds can regulate autophagy and apoptosis in osteosarcoma, potentially disrupting cancer cell growth and offering new therapeutic strategies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41606421/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -197,20 +211,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-31"
-      },
-      {
-        "id": "rec2VerPYNLi0RsJr",
-        "title": "Overcoming Intrinsic and Acquired Temozolomide Resistance in Glioblastoma: Fisetin as a Potential Strategy to Enhance Sensitivity via ZEB1 Modulation.",
-        "summary": "Fisetin, a natural compound, can help overcome temozolomide resistance in glioblastoma by modulating ZEB1 and potentially improving treatment effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41615212/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Brain"
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
@@ -881,10 +881,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2088,
+    "archive_count": 2089,
     "archive_supplements": 309,
     "archive_off_label": 91,
-    "archive_biomarkers": 888,
+    "archive_biomarkers": 889,
     "archive_trials": 507
   }
 }
