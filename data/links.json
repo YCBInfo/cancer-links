@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-01T05:06:11.638Z",
+  "last_updated": "2026-02-01T05:06:51.344Z",
   "categories": {
     "supplements": [
       {
@@ -597,6 +597,35 @@
         "added_date": "2026-02-01"
       },
       {
+        "id": "recAfc6dONKGKVtCK",
+        "title": "Glutamine Dependence Is Not a Cancer-specific Vulnerability in Contrast to Methionine Dependence.",
+        "summary": "Research suggests cancer cells do not uniquely depend on glutamine, challenging previous assumptions about using glutamine metabolism as a targeted cancer treatment strategy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41617463/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-01"
+      },
+      {
+        "id": "rec0mqcT4KZnZukza",
+        "title": "Clinical Activity of MET-TKIs in METex14 Skipping NSCLC With Poor Performance Status.",
+        "summary": "MET-targeted drugs showed promising activity against lung cancer with a specific genetic mutation, even in patients with poor overall health.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41617462/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-01"
+      },
+      {
         "id": "reciW4Xb0yaBqtQNX",
         "title": "Knockout of the Intracellular Calcium Conducting Ion Channel Mitsugumin 23 (MG23) Protects Against Pressure Overload Induced Left Ventricular Hypertrophy and Cardiac Dysfunction.",
         "summary": "Knockout of the MG23 ion channel protects mouse hearts from pressure-induced cardiac dysfunction by reducing calcium leakage and preventing hypertrophy.",
@@ -620,35 +649,6 @@
         "cancer_types": [
           "Leukemia",
           "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-31"
-      },
-      {
-        "id": "recqSweseD2Ucc5I7",
-        "title": "WW Domain-Binding Protein 2 Aggravates Neointimal Hyperplasia by Promoting Y-Box Binding Protein 1 Nuclear Translocation.",
-        "summary": "WBP2 protein promotes vascular smooth muscle cell proliferation by facilitating Y-box binding protein 1's nuclear movement, potentially contributing to blood vessel narrowing.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41546484/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-31"
-      },
-      {
-        "id": "rec6yrnxUyAtuT5yD",
-        "title": "HAUS1 Promotes Colorectal Cancer Progression by Activating CDCA8 Transcription Through the HAUS1-EZH2-E2F1 Axis.",
-        "summary": "HAUS1 promotes colorectal cancer progression by activating CDCA8 gene expression, enhancing cancer cell growth, migration, and stem-like properties.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41546483/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal",
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
@@ -774,6 +774,21 @@
         "added_date": "2026-02-01"
       },
       {
+        "id": "rec0mqcT4KZnZukza",
+        "title": "Clinical Activity of MET-TKIs in METex14 Skipping NSCLC With Poor Performance Status.",
+        "summary": "MET-targeted drugs showed promising activity against lung cancer with a specific genetic mutation, even in patients with poor overall health.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41617462/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-01"
+      },
+      {
         "id": "recQQasFi3Pydv1jg",
         "title": "GRK5 Overexpression Drives Malignant Glioma Progression Through HDAC7 Alongside Canonical GPCR Signaling.",
         "summary": "In glioma, GRK5 overexpression drives cancer progression by relocating HDAC7, which stabilizes proteins that enhance tumor cell migration and invasion.",
@@ -858,20 +873,6 @@
         "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-01-31"
-      },
-      {
-        "id": "recy86zEJuiqTOCr4",
-        "title": "Effect of alpha-lipoic acid on salivary secretion in patients undergoing head and neck radiotherapy: a randomized clinical trial.",
-        "summary": "Alpha-lipoic acid supplementation may help maintain salivary flow and reduce dry mouth side effects in patients receiving head and neck radiation therapy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41618210/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-31"
       }
     ]
   },
@@ -881,10 +882,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2025,
+    "archive_count": 2026,
     "archive_supplements": 305,
     "archive_off_label": 91,
-    "archive_biomarkers": 841,
+    "archive_biomarkers": 842,
     "archive_trials": 495
   }
 }
