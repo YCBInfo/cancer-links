@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-01T05:07:21.486Z",
+  "last_updated": "2026-02-01T05:07:31.640Z",
   "categories": {
     "supplements": [
       {
@@ -832,6 +832,21 @@
         "added_date": "2026-02-01"
       },
       {
+        "id": "rec6TsEml2aQ5avFl",
+        "title": "Clinical Relevance of the CALLY Index in Prognostic Stratification of Intrahepatic Cholangiocarcinoma.",
+        "summary": "The CALLY index could help predict survival outcomes for patients with intrahepatic cholangiocarcinoma undergoing surgical treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41617451/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia",
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-01"
+      },
+      {
         "id": "recQQasFi3Pydv1jg",
         "title": "GRK5 Overexpression Drives Malignant Glioma Progression Through HDAC7 Alongside Canonical GPCR Signaling.",
         "summary": "In glioma, GRK5 overexpression drives cancer progression by relocating HDAC7, which stabilizes proteins that enhance tumor cell migration and invasion.",
@@ -859,21 +874,6 @@
         "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-01-31"
-      },
-      {
-        "id": "rec6yrnxUyAtuT5yD",
-        "title": "HAUS1 Promotes Colorectal Cancer Progression by Activating CDCA8 Transcription Through the HAUS1-EZH2-E2F1 Axis.",
-        "summary": "HAUS1 promotes colorectal cancer progression by activating CDCA8 gene expression, enhancing cancer cell growth, migration, and stem-like properties.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41546483/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-31"
       }
     ]
   },
@@ -883,10 +883,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2029,
+    "archive_count": 2030,
     "archive_supplements": 305,
     "archive_off_label": 91,
-    "archive_biomarkers": 844,
+    "archive_biomarkers": 845,
     "archive_trials": 496
   }
 }
