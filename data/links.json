@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-01T05:07:01.301Z",
+  "last_updated": "2026-02-01T05:07:11.905Z",
   "categories": {
     "supplements": [
       {
@@ -640,18 +640,19 @@
         "added_date": "2026-02-01"
       },
       {
-        "id": "reciW4Xb0yaBqtQNX",
-        "title": "Knockout of the Intracellular Calcium Conducting Ion Channel Mitsugumin 23 (MG23) Protects Against Pressure Overload Induced Left Ventricular Hypertrophy and Cardiac Dysfunction.",
-        "summary": "Knockout of the MG23 ion channel protects mouse hearts from pressure-induced cardiac dysfunction by reducing calcium leakage and preventing hypertrophy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41568959/",
+        "id": "recGNplWvD2Rb4uT1",
+        "title": "First-Line Afatinib 30 mg Versus 40 mg in Non-small Cell Lung Cancer Patients With Uncommon EGFR Mutations: Real-world Efficacy and Tolerability in Taiwan.",
+        "summary": "In Taiwanese non-small cell lung cancer patients with uncommon EGFR mutations, a lower 30 mg afatinib dose showed similar effectiveness and side effects compared to the standard 40 mg dose.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41617459/",
         "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
+        "category": "Clinical Trials",
         "cancer_types": [
-          "Melanoma"
+          "Lung",
+          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
-        "added_date": "2026-01-31"
+        "added_date": "2026-02-01"
       }
     ],
     "trials": [
@@ -802,6 +803,21 @@
         "added_date": "2026-02-01"
       },
       {
+        "id": "recGNplWvD2Rb4uT1",
+        "title": "First-Line Afatinib 30 mg Versus 40 mg in Non-small Cell Lung Cancer Patients With Uncommon EGFR Mutations: Real-world Efficacy and Tolerability in Taiwan.",
+        "summary": "In Taiwanese non-small cell lung cancer patients with uncommon EGFR mutations, a lower 30 mg afatinib dose showed similar effectiveness and side effects compared to the standard 40 mg dose.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41617459/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Lung",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-01"
+      },
+      {
         "id": "recQQasFi3Pydv1jg",
         "title": "GRK5 Overexpression Drives Malignant Glioma Progression Through HDAC7 Alongside Canonical GPCR Signaling.",
         "summary": "In glioma, GRK5 overexpression drives cancer progression by relocating HDAC7, which stabilizes proteins that enhance tumor cell migration and invasion.",
@@ -858,20 +874,6 @@
         "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-01-31"
-      },
-      {
-        "id": "recseFSVj4PNJKPrZ",
-        "title": "Olfactory Mucosa Mesenchymal Stem Cell-Derived Exosomal lncRNA RMRP Regulates Glial Metabolic Reprogramming to Promote Axonal Regeneration After Spinal Cord Injury by Inhibiting WTAP-Mediated p53 m6A.",
-        "summary": "Olfactory stem cell-derived exosomes containing RMRP can improve axonal regeneration after spinal cord injury by altering glial cell metabolism.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41532272/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-31"
       }
     ]
   },
@@ -881,10 +883,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2027,
+    "archive_count": 2028,
     "archive_supplements": 305,
     "archive_off_label": 91,
-    "archive_biomarkers": 843,
+    "archive_biomarkers": 844,
     "archive_trials": 495
   }
 }
