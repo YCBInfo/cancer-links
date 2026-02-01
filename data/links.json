@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-01T05:03:40.491Z",
+  "last_updated": "2026-02-01T05:03:50.373Z",
   "categories": {
     "supplements": [
       {
@@ -512,6 +512,21 @@
         "added_date": "2026-02-01"
       },
       {
+        "id": "recMJ4oax93dZk9ga",
+        "title": "High RMI1 expression is associated with cancer cell progression and poor prognosis in prostate cancer.",
+        "summary": "High RMI1 expression promotes prostate cancer progression, correlates with poor survival, and may serve as a potential diagnostic and therapeutic target.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41614397/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Prostate",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-01"
+      },
+      {
         "id": "reciW4Xb0yaBqtQNX",
         "title": "Knockout of the Intracellular Calcium Conducting Ion Channel Mitsugumin 23 (MG23) Protects Against Pressure Overload Induced Left Ventricular Hypertrophy and Cardiac Dysfunction.",
         "summary": "Knockout of the MG23 ion channel protects mouse hearts from pressure-induced cardiac dysfunction by reducing calcium leakage and preventing hypertrophy.",
@@ -639,21 +654,6 @@
         "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-01-31"
-      },
-      {
-        "id": "recPeZEABPbQArJxK",
-        "title": "Targeting the USP7-PRMT6 epigenetic axis overcomes chemoresistance in breast cancer by coordinating H3R2me2a deposition and RNF168 methylation for DNA repair and ferroptosis blockade.",
-        "summary": "USP7-PRMT6 complex in breast cancer disrupts DNA repair and cell death pathways, enabling platinum chemoresistance through epigenetic modifications.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41617976/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-31"
       }
     ],
     "trials": [
@@ -711,6 +711,21 @@
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-01"
+      },
+      {
+        "id": "recMJ4oax93dZk9ga",
+        "title": "High RMI1 expression is associated with cancer cell progression and poor prognosis in prostate cancer.",
+        "summary": "High RMI1 expression promotes prostate cancer progression, correlates with poor survival, and may serve as a potential diagnostic and therapeutic target.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41614397/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Prostate",
           "Leukemia"
         ],
         "quality_score": 15,
@@ -860,21 +875,6 @@
         "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-01-31"
-      },
-      {
-        "id": "recK5b3QyYJaRpSq4",
-        "title": "Rottlerin triggers dual degradation of SLC7A11 and GPX4 to drive ferroptosis and chemosensitization in hepatocellular carcinoma.",
-        "summary": "Rottlerin triggers cell death in liver cancer by simultaneously breaking down two key antioxidant proteins, enhancing the effectiveness of existing cancer treatments.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41617684/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia",
-          "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-31"
       }
     ]
   },
@@ -884,10 +884,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2018,
+    "archive_count": 2019,
     "archive_supplements": 305,
     "archive_off_label": 91,
-    "archive_biomarkers": 834,
+    "archive_biomarkers": 835,
     "archive_trials": 495
   }
 }
