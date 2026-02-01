@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-01T05:03:30.749Z",
+  "last_updated": "2026-02-01T05:03:40.491Z",
   "categories": {
     "supplements": [
       {
@@ -498,6 +498,20 @@
         "added_date": "2026-02-01"
       },
       {
+        "id": "recccJOlnca2pAf8o",
+        "title": "Advances in isolation and detection technologies and immunotherapy applications of circulating tumor cells (Review).",
+        "summary": "New technologies for detecting rare circulating tumor cells could improve early cancer diagnosis and personalized treatment strategies across multiple cancer types.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41614401/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-01"
+      },
+      {
         "id": "reciW4Xb0yaBqtQNX",
         "title": "Knockout of the Intracellular Calcium Conducting Ion Channel Mitsugumin 23 (MG23) Protects Against Pressure Overload Induced Left Ventricular Hypertrophy and Cardiac Dysfunction.",
         "summary": "Knockout of the MG23 ion channel protects mouse hearts from pressure-induced cardiac dysfunction by reducing calcium leakage and preventing hypertrophy.",
@@ -640,20 +654,6 @@
         "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-01-31"
-      },
-      {
-        "id": "rec0qNJYQRE8DmIxI",
-        "title": "Differential immune- and apoptosis-related gene signatures in pancreatic alpha and beta cells contribute to their fate in type 1 diabetes.",
-        "summary": "In type 1 diabetes, alpha cells resist immune attack better than beta cells due to enhanced immune-like gene expression and lower pro-apoptotic gene levels.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41617975/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-31"
       }
     ],
     "trials": [
@@ -697,6 +697,20 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Breast",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-01"
+      },
+      {
+        "id": "recccJOlnca2pAf8o",
+        "title": "Advances in isolation and detection technologies and immunotherapy applications of circulating tumor cells (Review).",
+        "summary": "New technologies for detecting rare circulating tumor cells could improve early cancer diagnosis and personalized treatment strategies across multiple cancer types.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41614401/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
           "Leukemia"
         ],
         "quality_score": 15,
@@ -861,21 +875,6 @@
         "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-01-31"
-      },
-      {
-        "id": "recdeA8X7E99g2rKl",
-        "title": "Cancer-associated fibroblasts (CAFs) derived from MFAP2 promote CRC proliferation and metastasis while suppressing CD8+ T cell-mediated antitumor immunity.",
-        "summary": "In colorectal cancer, cancer-associated fibroblasts expressing MFAP2 promote tumor growth and suppress immune response by activating a complex cellular signaling pathway.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41617683/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-31"
       }
     ]
   },
@@ -885,10 +884,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2017,
+    "archive_count": 2018,
     "archive_supplements": 305,
     "archive_off_label": 91,
-    "archive_biomarkers": 833,
+    "archive_biomarkers": 834,
     "archive_trials": 495
   }
 }
