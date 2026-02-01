@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-01T05:07:42.252Z",
+  "last_updated": "2026-02-01T05:07:51.586Z",
   "categories": {
     "supplements": [
       {
@@ -847,6 +847,20 @@
         "added_date": "2026-02-01"
       },
       {
+        "id": "recT1zYNhlyHaX0VS",
+        "title": "Polymorphisms of FGFR Pathway-related Factors and Capecitabine-induced Hand-foot Syndrome in Japanese Patients With Colorectal Cancer.",
+        "summary": "Genetic variations in FGFR pathway genes may influence the likelihood of developing hand-foot syndrome in Japanese colorectal cancer patients taking capecitabine.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41617448/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-01"
+      },
+      {
         "id": "recQQasFi3Pydv1jg",
         "title": "GRK5 Overexpression Drives Malignant Glioma Progression Through HDAC7 Alongside Canonical GPCR Signaling.",
         "summary": "In glioma, GRK5 overexpression drives cancer progression by relocating HDAC7, which stabilizes proteins that enhance tumor cell migration and invasion.",
@@ -860,20 +874,6 @@
         "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-01-31"
-      },
-      {
-        "id": "recqSweseD2Ucc5I7",
-        "title": "WW Domain-Binding Protein 2 Aggravates Neointimal Hyperplasia by Promoting Y-Box Binding Protein 1 Nuclear Translocation.",
-        "summary": "WBP2 protein promotes vascular smooth muscle cell proliferation by facilitating Y-box binding protein 1's nuclear movement, potentially contributing to blood vessel narrowing.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41546484/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-31"
       }
     ]
   },
@@ -883,10 +883,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2031,
+    "archive_count": 2032,
     "archive_supplements": 305,
     "archive_off_label": 91,
-    "archive_biomarkers": 846,
+    "archive_biomarkers": 847,
     "archive_trials": 496
   }
 }
