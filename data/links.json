@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-01T05:24:39.509Z",
+  "last_updated": "2026-02-01T05:24:49.298Z",
   "categories": {
     "supplements": [
       {
@@ -247,6 +247,20 @@
         "added_date": "2026-02-01"
       },
       {
+        "id": "rec2gDrdcnt8Fuusc",
+        "title": "Remimazolam Inhibits Neuronal Apoptosis, Inflammation, and Ferroptosis in Cerebral Infarction via Promoting TRIM67-Mediated Degradation of ACSL4.",
+        "summary": "Remimazolam protects against neuronal damage in cerebral infarction by reducing inflammation and cell death through targeting specific protein interactions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41587377/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 24,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-01"
+      },
+      {
         "id": "recnnl4A6XTcXXH2R",
         "title": "MYLK4 promotes colorectal cancer progression by regulating lipid metabolism reprogramming via targeting ferroptosis.",
         "summary": "MYLK4 promotes colorectal cancer progression by regulating lipid metabolism, enhancing cancer cell resistance to treatment and potentially offering a new therapeutic target.",
@@ -411,21 +425,6 @@
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-30"
-      },
-      {
-        "id": "recopsTbx27HHVRyZ",
-        "title": "Enhanced antiproliferative and anti-inflammatory effects of combined metformin, tadalafil, and tamsulosin in a rat model of testosterone-induced benign prostatic hyperplasia.",
-        "summary": "Combining metformin, tadalafil, and tamsulosin showed enhanced effectiveness in reducing inflammation and cell growth in a benign prostatic hyperplasia rat model.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41611202/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Prostate",
           "Leukemia"
         ],
         "quality_score": 15,
@@ -879,10 +878,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2119,
+    "archive_count": 2120,
     "archive_supplements": 311,
     "archive_off_label": 92,
-    "archive_biomarkers": 912,
+    "archive_biomarkers": 913,
     "archive_trials": 511
   }
 }
