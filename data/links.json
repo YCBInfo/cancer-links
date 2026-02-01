@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-01T07:12:03.312Z",
+  "last_updated": "2026-02-01T07:12:13.624Z",
   "categories": {
     "supplements": [
       {
@@ -407,6 +407,20 @@
         "added_date": "2026-02-01"
       },
       {
+        "id": "recdZmocmCeNV8jj0",
+        "title": "Lactate-activated GPR81/FARP1 signaling drives insulin-independent glucose uptake and metabolic control.",
+        "summary": "Lactate activates a specific cell receptor that helps muscles absorb glucose independently of insulin, potentially offering a new approach to managing blood sugar levels.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41530347/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-01"
+      },
+      {
         "id": "recnnl4A6XTcXXH2R",
         "title": "MYLK4 promotes colorectal cancer progression by regulating lipid metabolism reprogramming via targeting ferroptosis.",
         "summary": "MYLK4 promotes colorectal cancer progression by regulating lipid metabolism, enhancing cancer cell resistance to treatment and potentially offering a new therapeutic target.",
@@ -415,20 +429,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-31"
-      },
-      {
-        "id": "recTSrTaKXcrLT6ou",
-        "title": "A novel role of E2F transcription factor 1 in pancreatic stellate cell activation through polyamine metabolism modulation.",
-        "summary": "E2F1 suppresses pancreatic stellate cell activation by regulating polyamine metabolism, with Chidamide potentially offering a therapeutic approach for pancreatic fibrosis.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41617000/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
@@ -881,10 +881,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2248,
+    "archive_count": 2249,
     "archive_supplements": 337,
     "archive_off_label": 99,
-    "archive_biomarkers": 988,
+    "archive_biomarkers": 989,
     "archive_trials": 531
   }
 }
