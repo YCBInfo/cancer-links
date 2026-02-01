@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-01T05:41:16.808Z",
+  "last_updated": "2026-02-01T05:41:27.018Z",
   "categories": {
     "supplements": [
       {
@@ -307,6 +307,20 @@
         "added_date": "2026-02-01"
       },
       {
+        "id": "recQYTZykGOXbVcTe",
+        "title": "Sevoflurane's inhibitory effect on postoperative colorectal cancer cell proliferation.",
+        "summary": "Sevoflurane, a surgical anesthetic, showed potential in reducing the growth of colorectal cancer cells after surgery.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41546564/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-01"
+      },
+      {
         "id": "recnnl4A6XTcXXH2R",
         "title": "MYLK4 promotes colorectal cancer progression by regulating lipid metabolism reprogramming via targeting ferroptosis.",
         "summary": "MYLK4 promotes colorectal cancer progression by regulating lipid metabolism, enhancing cancer cell resistance to treatment and potentially offering a new therapeutic target.",
@@ -418,21 +432,6 @@
         "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-01-31"
-      },
-      {
-        "id": "recMwarXrliu7ldcT",
-        "title": "Pseudopheochromocytoma With Catecholamine Excess and End-organ Damage: A 30-year Course Treated With Escitalopram.",
-        "summary": "A 70-year-old woman with pseudopheochromocytoma experienced reduced hypertensive episodes after treatment with escitalopram and psychotherapy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41607587/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia",
-          "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-30"
       }
     ],
     "biomarkers": [
@@ -881,8 +880,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2211,
-    "archive_supplements": 320,
+    "archive_count": 2212,
+    "archive_supplements": 321,
     "archive_off_label": 95,
     "archive_biomarkers": 979,
     "archive_trials": 524
