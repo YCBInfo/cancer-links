@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-01T05:07:11.905Z",
+  "last_updated": "2026-02-01T05:07:21.486Z",
   "categories": {
     "supplements": [
       {
@@ -818,6 +818,20 @@
         "added_date": "2026-02-01"
       },
       {
+        "id": "recerszkaIXFw9zo0",
+        "title": "Neck Dissection and Immune Checkpoint Inhibitor Efficacy in Head and Neck Cancer: A Retrospective Study.",
+        "summary": "Prior neck dissection may reduce the effectiveness of immunotherapy drugs in head and neck cancer patients by removing key lymph nodes involved in immune system activation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41617453/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-01"
+      },
+      {
         "id": "recQQasFi3Pydv1jg",
         "title": "GRK5 Overexpression Drives Malignant Glioma Progression Through HDAC7 Alongside Canonical GPCR Signaling.",
         "summary": "In glioma, GRK5 overexpression drives cancer progression by relocating HDAC7, which stabilizes proteins that enhance tumor cell migration and invasion.",
@@ -860,20 +874,6 @@
         "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-01-31"
-      },
-      {
-        "id": "recEjBiCd5MtVe42Q",
-        "title": "Targeting EME1 Increases the Sensitivity of Camptothecin in Nasopharyngeal Carcinoma Cells.",
-        "summary": "In nasopharyngeal carcinoma, targeting EME1 protein increases cancer cell sensitivity to camptothecin, potentially improving treatment effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41532283/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-31"
       }
     ]
   },
@@ -883,10 +883,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2028,
+    "archive_count": 2029,
     "archive_supplements": 305,
     "archive_off_label": 91,
     "archive_biomarkers": 844,
-    "archive_trials": 495
+    "archive_trials": 496
   }
 }
