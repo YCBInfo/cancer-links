@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-01T07:11:02.816Z",
+  "last_updated": "2026-02-01T07:11:33.230Z",
   "categories": {
     "supplements": [
       {
@@ -392,6 +392,21 @@
         "added_date": "2026-02-01"
       },
       {
+        "id": "recmkiMdEpnqoq4qw",
+        "title": "Rutin alleviates pirarubicin-induced cardiotoxicity and enhances chemosensitivity in breast cancer.",
+        "summary": "Rutin protects the heart and improves treatment effectiveness when used alongside pirarubicin chemotherapy for breast cancer patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41539100/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-01"
+      },
+      {
         "id": "recnnl4A6XTcXXH2R",
         "title": "MYLK4 promotes colorectal cancer progression by regulating lipid metabolism reprogramming via targeting ferroptosis.",
         "summary": "MYLK4 promotes colorectal cancer progression by regulating lipid metabolism, enhancing cancer cell resistance to treatment and potentially offering a new therapeutic target.",
@@ -412,20 +427,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41617000/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-31"
-      },
-      {
-        "id": "rec4W4VJ3LVf4KRT7",
-        "title": "Simvastatin Alleviates ConA-Induced Autoimmune Hepatitis by Inhibiting CD4+ T Cell Activation via Calcium-NFATC3 Pathway.",
-        "summary": "Simvastatin reduces inflammation and liver damage in autoimmune hepatitis by suppressing CD4+ T cell activation through calcium signaling and NFATC3 pathway.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41618046/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
         "cancer_types": [
           "Leukemia"
         ],
@@ -880,8 +881,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2244,
-    "archive_supplements": 335,
+    "archive_count": 2245,
+    "archive_supplements": 336,
     "archive_off_label": 99,
     "archive_biomarkers": 986,
     "archive_trials": 531
