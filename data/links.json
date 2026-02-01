@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-01T05:25:29.154Z",
+  "last_updated": "2026-02-01T05:25:39.845Z",
   "categories": {
     "supplements": [
       {
@@ -80,6 +80,20 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41603104/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-01"
+      },
+      {
+        "id": "recqIiExdqsFYSqEk",
+        "title": "Metal exposures and their interactions with the dietary inflammatory index on inflammatory biomarkers in Mexican adolescents.",
+        "summary": "In Mexican adolescents, an anti-inflammatory diet may help counteract the inflammatory effects of lead, arsenic, and cadmium exposure.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41585506/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
@@ -197,20 +211,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Bladder"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-31"
-      },
-      {
-        "id": "recqzbahLUZXJhAFH",
-        "title": "Synthesis of new benzothiazole derivatives with in-depth In-vitro, In-vivo anti-oxidant, anti-inflammatory and anti-ulcer activities.",
-        "summary": "Here's a clear, concise summary in under 25 words:\n\nNewly synthesized benzothiazole compounds showed promising anti-inflammatory and anti-oxidant effects, potentially offering therapeutic benefits for inflammatory and ulcer conditions.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41615937/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
@@ -878,10 +878,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2124,
+    "archive_count": 2125,
     "archive_supplements": 311,
     "archive_off_label": 92,
-    "archive_biomarkers": 916,
+    "archive_biomarkers": 917,
     "archive_trials": 512
   }
 }
