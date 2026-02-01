@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-01T05:41:57.546Z",
+  "last_updated": "2026-02-01T07:01:39.606Z",
   "categories": {
     "supplements": [
       {
@@ -321,6 +321,20 @@
         "added_date": "2026-02-01"
       },
       {
+        "id": "rec8EuvjJme2vkEtV",
+        "title": "Lack of Cancer Specificity of Methionine Adenosyltransferase 2A (MAT2A) Inhibitor AG-270 in Combination With Recombinant Methioninase In Vitro.",
+        "summary": "The study found that the MAT2A inhibitor AG-270 was not cancer-specific when combined with methioninase, challenging its potential as a targeted anti-cancer treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41617456/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-01"
+      },
+      {
         "id": "recnnl4A6XTcXXH2R",
         "title": "MYLK4 promotes colorectal cancer progression by regulating lipid metabolism reprogramming via targeting ferroptosis.",
         "summary": "MYLK4 promotes colorectal cancer progression by regulating lipid metabolism, enhancing cancer cell resistance to treatment and potentially offering a new therapeutic target.",
@@ -416,20 +430,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-31"
-      },
-      {
-        "id": "recT1bdSOfIbieNaC",
-        "title": "Exploiting the polypharmacology of alectinib for synergistic RNA splicing disruption with RBM39 degraders.",
-        "summary": "In high-risk neuroblastoma, combining indisulam and alectinib disrupts RNA splicing, halts cancer cell growth, and induces complete tumor regression in mice.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41518614/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-01-31"
       }
@@ -880,9 +880,9 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2215,
+    "archive_count": 2216,
     "archive_supplements": 322,
-    "archive_off_label": 96,
+    "archive_off_label": 97,
     "archive_biomarkers": 980,
     "archive_trials": 524
   }
