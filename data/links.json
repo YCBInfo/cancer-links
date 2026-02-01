@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-01T05:10:42.684Z",
+  "last_updated": "2026-02-01T05:10:53.117Z",
   "categories": {
     "supplements": [
       {
@@ -27,6 +27,21 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-01"
+      },
+      {
+        "id": "rec2huKn1aE5DTg5Y",
+        "title": "Glucose Deprivation of Tumor Cells via Selective Nutrient Delivery: A Potential Therapy for Metastatic Breast Cancer.",
+        "summary": "Researchers developed a targeted method to starve metastatic breast cancer cells of glucose while preserving nutrients for healthy cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41617414/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast",
+          "Leukemia"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-02-01"
       },
@@ -196,21 +211,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-31"
-      },
-      {
-        "id": "rec9SrT6MvDlKA1E6",
-        "title": "Disrupting Copper Homeostasis to Enhance Cuproptosis and Ferroptosis for Glioblastoma Immunotherapy.",
-        "summary": "Copper-selenium-naphthazarin nanoparticles disrupt copper balance in glioblastoma cells, triggering cell death pathways and enhancing immunotherapy effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41614587/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia",
-          "Brain"
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
@@ -881,10 +881,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2049,
+    "archive_count": 2050,
     "archive_supplements": 307,
     "archive_off_label": 91,
     "archive_biomarkers": 861,
-    "archive_trials": 497
+    "archive_trials": 498
   }
 }
