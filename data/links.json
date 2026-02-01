@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-01T07:01:59.720Z",
+  "last_updated": "2026-02-01T07:02:19.455Z",
   "categories": {
     "supplements": [
       {
@@ -335,6 +335,20 @@
         "added_date": "2026-02-01"
       },
       {
+        "id": "recdoFIsC2laNJryr",
+        "title": "Targeted Sensitization of Leukemic T-cells to Anticancer Drugs by SIRT1 Agonist SRT-1720.",
+        "summary": "SRT-1720, a SIRT1 agonist, enhances leukemia treatment by increasing cancer cell sensitivity to anticancer drugs while sparing normal lymphocytes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41617434/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-01"
+      },
+      {
         "id": "recnnl4A6XTcXXH2R",
         "title": "MYLK4 promotes colorectal cancer progression by regulating lipid metabolism reprogramming via targeting ferroptosis.",
         "summary": "MYLK4 promotes colorectal cancer progression by regulating lipid metabolism, enhancing cancer cell resistance to treatment and potentially offering a new therapeutic target.",
@@ -416,20 +430,6 @@
           "Leukemia"
         ],
         "quality_score": 24,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-31"
-      },
-      {
-        "id": "receBdiGJlo7JiwSu",
-        "title": "Comparative Effectiveness and Outcomes of Nebivolol Versus Other Beta Blockers in Patients With Hypertension: A Multicenter Cohort Study.",
-        "summary": "This study compared nebivolol to other beta blockers and found it effectively controlled blood pressure and heart rate in hypertensive patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41614331/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-01-01",
         "added_date": "2026-01-31"
       }
@@ -880,9 +880,9 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2217,
+    "archive_count": 2218,
     "archive_supplements": 322,
-    "archive_off_label": 97,
+    "archive_off_label": 98,
     "archive_biomarkers": 981,
     "archive_trials": 524
   }
