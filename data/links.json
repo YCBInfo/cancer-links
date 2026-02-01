@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-01T05:20:47.178Z",
+  "last_updated": "2026-02-01T05:20:58.090Z",
   "categories": {
     "supplements": [
       {
@@ -219,6 +219,20 @@
     ],
     "off_label": [
       {
+        "id": "recTrlJCD1bkJc8Y1",
+        "title": "Metformin-Mediated Glycaemic Regulation as a Potential Strategy for Breast Cancer Prevention.",
+        "summary": "Here's a concise summary sentence:\n\nMetformin, a diabetes drug, shows potential to prevent breast cancer by disrupting cancer cell growth mechanisms.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41603225/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-01"
+      },
+      {
         "id": "recnnl4A6XTcXXH2R",
         "title": "MYLK4 promotes colorectal cancer progression by regulating lipid metabolism reprogramming via targeting ferroptosis.",
         "summary": "MYLK4 promotes colorectal cancer progression by regulating lipid metabolism, enhancing cancer cell resistance to treatment and potentially offering a new therapeutic target.",
@@ -416,21 +430,6 @@
           "Leukemia"
         ],
         "quality_score": 24,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-30"
-      },
-      {
-        "id": "rec6xK1jWs8GoecQD",
-        "title": "TheraMind: a multi-LLM ensemble for accelerating drug repurposing in lung cancer via case report mining.",
-        "summary": "TheraMind, an AI system using multiple language models, effectively identified promising drug repurposing candidates for non-small cell lung cancer by analyzing case reports.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41606131/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Lung",
-          "Leukemia"
-        ],
-        "quality_score": 18,
         "pub_date": "2026-01-01",
         "added_date": "2026-01-30"
       }
@@ -881,10 +880,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2098,
+    "archive_count": 2099,
     "archive_supplements": 310,
     "archive_off_label": 91,
-    "archive_biomarkers": 894,
+    "archive_biomarkers": 895,
     "archive_trials": 510
   }
 }
