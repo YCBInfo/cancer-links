@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-01T05:35:55.361Z",
+  "last_updated": "2026-02-01T05:36:04.255Z",
   "categories": {
     "supplements": [
       {
@@ -162,6 +162,21 @@
         "added_date": "2026-02-01"
       },
       {
+        "id": "recMRXpOFuOl5JDo6",
+        "title": "Lemon gum (Citrus x latifolia) enhances IL-1Β expression and suppresses colon tumor growth in vivo with a favorable safety profile.",
+        "summary": "Lemon gum polysaccharide moderately suppressed colon tumor growth in mice by enhancing specific inflammatory immune responses with minimal toxicity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41558568/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia",
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-01"
+      },
+      {
         "id": "reck0pJMqqndSs6Zj",
         "title": "EM2, a Novel Elephantopus mollis H.B.K. Monomer, Enhances Radiosensitivity in Cervical Cancer Through Dual Inhibition of AKT and Autophagy.",
         "summary": "EM2, a natural compound, enhances radiation's effectiveness in cervical cancer by blocking two key cellular survival mechanisms simultaneously.",
@@ -201,20 +216,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-01-31"
-      },
-      {
-        "id": "receZsCvF8owOyc0a",
-        "title": "Elucidation of gene clusters underlying withanolide biosynthesis in ashwagandha through yeast metabolic engineering.",
-        "summary": "Researchers mapped ashwagandha's withanolide biosynthesis pathway, identifying key genes that could enable more efficient production of potentially anti-cancer compounds.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41617859/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-01-31"
       }
@@ -880,10 +881,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2179,
+    "archive_count": 2180,
     "archive_supplements": 314,
     "archive_off_label": 94,
-    "archive_biomarkers": 959,
+    "archive_biomarkers": 960,
     "archive_trials": 519
   }
 }
