@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-01T15:29:09.944Z",
+  "last_updated": "2026-02-02T05:06:48.224Z",
   "categories": {
     "supplements": [
       {
@@ -437,6 +437,21 @@
     ],
     "biomarkers": [
       {
+        "id": "recCBRx39k3xzgVYY",
+        "title": "Encapsulated Papillary Carcinoma of the Breast: Two Cases with Literature Review and Molecular Insights.",
+        "summary": "A rare breast cancer subtype (encapsulated papillary carcinoma) typically shows favorable prognosis with high hormone receptor positivity in postmenopausal women.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41592189/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-02"
+      },
+      {
         "id": "recxhOy2VUKshCWAU",
         "title": "Transcriptomic subtyping of COVID-19 reveals three distinct immune response profile.",
         "summary": "Researchers identified three distinct immune response subtypes in severe COVID-19 patients by analyzing gene expression patterns in blood samples.",
@@ -637,24 +652,24 @@
         "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-02-01"
-      },
+      }
+    ],
+    "trials": [
       {
-        "id": "recGNplWvD2Rb4uT1",
-        "title": "First-Line Afatinib 30 mg Versus 40 mg in Non-small Cell Lung Cancer Patients With Uncommon EGFR Mutations: Real-world Efficacy and Tolerability in Taiwan.",
-        "summary": "In Taiwanese non-small cell lung cancer patients with uncommon EGFR mutations, a lower 30 mg afatinib dose showed similar effectiveness and side effects compared to the standard 40 mg dose.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41617459/",
+        "id": "recCBRx39k3xzgVYY",
+        "title": "Encapsulated Papillary Carcinoma of the Breast: Two Cases with Literature Review and Molecular Insights.",
+        "summary": "A rare breast cancer subtype (encapsulated papillary carcinoma) typically shows favorable prognosis with high hormone receptor positivity in postmenopausal women.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41592189/",
         "source": "PubMed",
-        "category": "Clinical Trials",
+        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
-          "Lung",
+          "Breast",
           "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
-        "added_date": "2026-02-01"
-      }
-    ],
-    "trials": [
+        "added_date": "2026-02-02"
+      },
       {
         "id": "rec5iJZfPtfngwkqE",
         "title": "CAR T therapy in adult DLBCL patients in Slovenia: Evaluation of predictive scores for outcomes and adverse events.",
@@ -858,20 +873,6 @@
         "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-02-01"
-      },
-      {
-        "id": "recw6hZjTrO2bAri1",
-        "title": "Pan-Cancer Landscape of CDK1 Uncovers Its Potential Prognostic Significance and Therapeutic Targeting in Adrenocortical Carcinoma.",
-        "summary": "In adrenocortical carcinoma, high CDK1 levels correlate with poor prognosis, suggesting it could be a promising target for potential new cancer treatments.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41617445/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-01"
       }
     ]
   },
@@ -881,10 +882,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2507,
+    "archive_count": 2508,
     "archive_supplements": 388,
     "archive_off_label": 138,
-    "archive_biomarkers": 1147,
+    "archive_biomarkers": 1148,
     "archive_trials": 541
   }
 }
