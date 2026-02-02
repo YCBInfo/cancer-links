@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-02T05:07:17.507Z",
+  "last_updated": "2026-02-02T05:07:27.581Z",
   "categories": {
     "supplements": [
       {
@@ -495,6 +495,20 @@
         "added_date": "2026-02-02"
       },
       {
+        "id": "recD3xEdo4gwy6drl",
+        "title": "Advances in the development of personalized neoantigen therapies.",
+        "summary": "Researchers are developing personalized cancer vaccines that target unique tumor-specific antigens to selectively activate immune T cells against cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41364340/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 13,
+        "pub_date": "2025-12-01",
+        "added_date": "2026-02-02"
+      },
+      {
         "id": "recxhOy2VUKshCWAU",
         "title": "Transcriptomic subtyping of COVID-19 reveals three distinct immune response profile.",
         "summary": "Researchers identified three distinct immune response subtypes in severe COVID-19 patients by analyzing gene expression patterns in blood samples.",
@@ -638,20 +652,6 @@
         "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-02-01"
-      },
-      {
-        "id": "rectSAXS23OIinxN0",
-        "title": "Fe metal-organic framework-derived heterojunction for metabolic diagnosis of thymic epithelial tumor.",
-        "summary": "A novel Fe metal-organic framework nanomaterial enables highly sensitive metabolic diagnosis and risk stratification of rare thymic epithelial tumors using just one microliter of serum.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41615745/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-01"
       }
     ],
     "trials": [
@@ -696,6 +696,20 @@
           "General"
         ],
         "quality_score": 10,
+        "pub_date": "2025-12-01",
+        "added_date": "2026-02-02"
+      },
+      {
+        "id": "recD3xEdo4gwy6drl",
+        "title": "Advances in the development of personalized neoantigen therapies.",
+        "summary": "Researchers are developing personalized cancer vaccines that target unique tumor-specific antigens to selectively activate immune T cells against cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41364340/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 13,
         "pub_date": "2025-12-01",
         "added_date": "2026-02-02"
       },
@@ -859,20 +873,6 @@
         "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-02-01"
-      },
-      {
-        "id": "recerszkaIXFw9zo0",
-        "title": "Neck Dissection and Immune Checkpoint Inhibitor Efficacy in Head and Neck Cancer: A Retrospective Study.",
-        "summary": "Prior neck dissection may reduce the effectiveness of immunotherapy drugs in head and neck cancer patients by removing key lymph nodes involved in immune system activation.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41617453/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-01"
       }
     ]
   },
@@ -882,10 +882,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2510,
+    "archive_count": 2511,
     "archive_supplements": 388,
     "archive_off_label": 138,
     "archive_biomarkers": 1150,
-    "archive_trials": 541
+    "archive_trials": 542
   }
 }
