@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-02T05:07:08.007Z",
+  "last_updated": "2026-02-02T05:07:17.507Z",
   "categories": {
     "supplements": [
       {
@@ -481,6 +481,20 @@
         "added_date": "2026-02-02"
       },
       {
+        "id": "recXWLaay1HaNAyuh",
+        "title": "T cell engagers emerge as a compelling therapeutic modality.",
+        "summary": "T cell engagers show promising potential in treating blood cancers and emerging applications in solid tumors and autoimmune diseases.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41474966/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 10,
+        "pub_date": "2025-12-01",
+        "added_date": "2026-02-02"
+      },
+      {
         "id": "recxhOy2VUKshCWAU",
         "title": "Transcriptomic subtyping of COVID-19 reveals three distinct immune response profile.",
         "summary": "Researchers identified three distinct immune response subtypes in severe COVID-19 patients by analyzing gene expression patterns in blood samples.",
@@ -638,20 +652,6 @@
         "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-02-01"
-      },
-      {
-        "id": "recAfc6dONKGKVtCK",
-        "title": "Glutamine Dependence Is Not a Cancer-specific Vulnerability in Contrast to Methionine Dependence.",
-        "summary": "Research suggests cancer cells do not uniquely depend on glutamine, challenging previous assumptions about using glutamine metabolism as a targeted cancer treatment strategy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41617463/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-01"
       }
     ],
     "trials": [
@@ -682,6 +682,20 @@
           "Liver"
         ],
         "quality_score": 13,
+        "pub_date": "2025-12-01",
+        "added_date": "2026-02-02"
+      },
+      {
+        "id": "recXWLaay1HaNAyuh",
+        "title": "T cell engagers emerge as a compelling therapeutic modality.",
+        "summary": "T cell engagers show promising potential in treating blood cancers and emerging applications in solid tumors and autoimmune diseases.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41474966/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 10,
         "pub_date": "2025-12-01",
         "added_date": "2026-02-02"
       },
@@ -859,21 +873,6 @@
         "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-02-01"
-      },
-      {
-        "id": "rec6TsEml2aQ5avFl",
-        "title": "Clinical Relevance of the CALLY Index in Prognostic Stratification of Intrahepatic Cholangiocarcinoma.",
-        "summary": "The CALLY index could help predict survival outcomes for patients with intrahepatic cholangiocarcinoma undergoing surgical treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41617451/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia",
-          "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-01"
       }
     ]
   },
@@ -883,10 +882,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2509,
+    "archive_count": 2510,
     "archive_supplements": 388,
     "archive_off_label": 138,
-    "archive_biomarkers": 1149,
+    "archive_biomarkers": 1150,
     "archive_trials": 541
   }
 }
