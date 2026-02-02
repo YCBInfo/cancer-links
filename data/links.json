@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-02T07:03:24.246Z",
+  "last_updated": "2026-02-02T07:03:34.067Z",
   "categories": {
     "supplements": [
       {
@@ -54,6 +54,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-02"
+      },
+      {
+        "id": "rec6NUUgunCAdSzmI",
+        "title": "Diverse Meroterpenoids from the Endophytic Fungus Penicillium oxalicum and Their Cytotoxic Activities.",
+        "summary": "Researchers discovered new meroterpenoid compounds from a fungus that showed weak to moderate cytotoxic potential against certain tumor cell lines.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41619265/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
@@ -200,21 +214,6 @@
           "Prostate"
         ],
         "quality_score": 23,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-01"
-      },
-      {
-        "id": "recSs6dnG6rVzf0hj",
-        "title": "Puerarin-loaded injectable hydrogel mitigates skeletal muscle wasting in colorectal cancer cachexia by targeting inflammatory signaling and improving protein homeostasis.",
-        "summary": "A novel injectable hydrogel with puerarin directly targets colorectal cancer-induced muscle wasting by reducing inflammation and improving protein regulation at the muscle site.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41560825/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal",
-          "Leukemia"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-02-01"
       }
@@ -879,10 +878,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2524,
+    "archive_count": 2525,
     "archive_supplements": 392,
     "archive_off_label": 138,
-    "archive_biomarkers": 1157,
+    "archive_biomarkers": 1158,
     "archive_trials": 544
   }
 }
