@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-02T05:07:37.830Z",
+  "last_updated": "2026-02-02T05:07:47.838Z",
   "categories": {
     "supplements": [
       {
@@ -523,6 +523,20 @@
         "added_date": "2026-02-02"
       },
       {
+        "id": "recVmn1Oak03XHGui",
+        "title": "Notch interaction with RUNX factors regulates initiation of the T-lineage program.",
+        "summary": "Notch interaction with RUNX1 redirects gene expression in early T cell development, switching from gene suppression to activation for T-lineage commitment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41342880/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 10,
+        "pub_date": "2025-12-01",
+        "added_date": "2026-02-02"
+      },
+      {
         "id": "recxhOy2VUKshCWAU",
         "title": "Transcriptomic subtyping of COVID-19 reveals three distinct immune response profile.",
         "summary": "Researchers identified three distinct immune response subtypes in severe COVID-19 patients by analyzing gene expression patterns in blood samples.",
@@ -638,20 +652,6 @@
         "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-02-01"
-      },
-      {
-        "id": "recx0PnS49YA0hAeq",
-        "title": "Stepwise differentiation from precursor intermediates and distinct Th1 checkpoints promote CD4 Th1 cell differentiation during chronic viral infection.",
-        "summary": "During chronic viral infection, blocking PD-1/PD-L1 signaling and PBAF complex activity can enhance CD4+ T cell differentiation and improve immune response to viral control.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41615755/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-01"
       }
     ],
     "trials": [
@@ -724,6 +724,20 @@
           "Leukemia"
         ],
         "quality_score": 13,
+        "pub_date": "2025-12-01",
+        "added_date": "2026-02-02"
+      },
+      {
+        "id": "recVmn1Oak03XHGui",
+        "title": "Notch interaction with RUNX factors regulates initiation of the T-lineage program.",
+        "summary": "Notch interaction with RUNX1 redirects gene expression in early T cell development, switching from gene suppression to activation for T-lineage commitment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41342880/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 10,
         "pub_date": "2025-12-01",
         "added_date": "2026-02-02"
       },
@@ -858,20 +872,6 @@
         "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-02-01"
-      },
-      {
-        "id": "recCR0p3ungqrIFgh",
-        "title": "mTOR Modulation Affects Galectin-1 Expression in KMT2A-rearranged Acute Lymphoblastic Leukemia Cells.",
-        "summary": "In KMT2A-rearranged acute lymphoblastic leukemia, inhibiting mTOR signaling reduced Galectin-1 expression, potentially limiting the cancer's immune evasion.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41617461/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-01"
       }
     ]
   },
@@ -881,10 +881,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2512,
+    "archive_count": 2513,
     "archive_supplements": 388,
     "archive_off_label": 138,
-    "archive_biomarkers": 1151,
+    "archive_biomarkers": 1152,
     "archive_trials": 542
   }
 }
