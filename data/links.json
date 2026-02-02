@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-02T07:22:52.974Z",
+  "last_updated": "2026-02-02T07:30:47.315Z",
   "categories": {
     "supplements": [
       {
@@ -117,6 +117,20 @@
         "added_date": "2026-02-02"
       },
       {
+        "id": "recXI9l4f4ORwnoDD",
+        "title": "Bioactivity-Guided Isolation of Cytotoxic Compounds From Curcuma caesia: In Vitro and In Silico Investigation for Oral Cancer.",
+        "summary": "Furanodienone, a sesquiterpenoid from Curcuma caesia, shows promising potential for oral cancer treatment by inhibiting cell growth and targeting key cancer-related proteins.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41420845/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-02"
+      },
+      {
         "id": "rechatuWQyy4gHsZ8",
         "title": "Targeting mTOR Signaling in Cancer: The Promise of Natural Product-derived Inhibitors.",
         "summary": "Natural product-derived compounds targeting mTOR signaling show promise in suppressing tumor growth and reversing drug resistance across multiple cancer types.",
@@ -194,20 +208,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41603104/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-01"
-      },
-      {
-        "id": "recqIiExdqsFYSqEk",
-        "title": "Metal exposures and their interactions with the dietary inflammatory index on inflammatory biomarkers in Mexican adolescents.",
-        "summary": "In Mexican adolescents, an anti-inflammatory diet may help counteract the inflammatory effects of lead, arsenic, and cadmium exposure.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41585506/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
@@ -852,19 +852,18 @@
         "added_date": "2026-02-02"
       },
       {
-        "id": "rec5iJZfPtfngwkqE",
-        "title": "CAR T therapy in adult DLBCL patients in Slovenia: Evaluation of predictive scores for outcomes and adverse events.",
-        "summary": "In Slovenian DLBCL patients, CAR T therapy showed a 50% response rate, with unexpected IL-6 and predictive score findings suggesting complex treatment outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41614438/",
+        "id": "recXI9l4f4ORwnoDD",
+        "title": "Bioactivity-Guided Isolation of Cytotoxic Compounds From Curcuma caesia: In Vitro and In Silico Investigation for Oral Cancer.",
+        "summary": "Furanodienone, a sesquiterpenoid from Curcuma caesia, shows promising potential for oral cancer treatment by inhibiting cell growth and targeting key cancer-related proteins.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41420845/",
         "source": "PubMed",
-        "category": "Clinical Trials",
+        "category": "Supplements & Nutraceuticals",
         "cancer_types": [
-          "Leukemia",
-          "Lymphoma"
+          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
-        "added_date": "2026-02-01"
+        "added_date": "2026-02-02"
       }
     ]
   },
@@ -874,8 +873,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2533,
-    "archive_supplements": 395,
+    "archive_count": 2534,
+    "archive_supplements": 396,
     "archive_off_label": 138,
     "archive_biomarkers": 1161,
     "archive_trials": 546
