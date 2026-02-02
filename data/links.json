@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-02T05:07:57.526Z",
+  "last_updated": "2026-02-02T07:01:53.628Z",
   "categories": {
     "supplements": [
       {
@@ -537,6 +537,34 @@
         "added_date": "2026-02-02"
       },
       {
+        "id": "recuxG9FFJZUdc3BT",
+        "title": "A circadian checkpoint relocates neutrophils to minimize injury.",
+        "summary": "A circadian checkpoint using CXCL12 and CXCR4 relocates neutrophils to reduce inflammatory tissue damage and protect against injury.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41385080/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 13,
+        "pub_date": "2025-12-01",
+        "added_date": "2026-02-02"
+      },
+      {
+        "id": "recdW10YamhOJnW68",
+        "title": "Intramolecular regulation of the MT-severing enzyme Katanin prevents futile ATP hydrolysis.",
+        "summary": "A regulatory domain in the Katanin enzyme prevents unnecessary ATP breakdown, controlling microtubule severing and potentially impacting cancer and neurological processes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41258800/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 10,
+        "pub_date": "2025-11-01",
+        "added_date": "2026-02-02"
+      },
+      {
         "id": "recxhOy2VUKshCWAU",
         "title": "Transcriptomic subtyping of COVID-19 reveals three distinct immune response profile.",
         "summary": "Researchers identified three distinct immune response subtypes in severe COVID-19 patients by analyzing gene expression patterns in blood samples.",
@@ -619,34 +647,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Prostate",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-01"
-      },
-      {
-        "id": "recvLSUYnKVdblKac",
-        "title": "MicroRNA‑microbiome cross‑kingdom networks drive inflammatory bowel disease through dynamic regulatory ecosystems (Review).",
-        "summary": "Here's a clear, concise summary sentence:\n\nInflammatory bowel disease research reveals how microRNAs and gut microbes interact, suggesting complex communication networks influence disease progression.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41614418/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-01"
-      },
-      {
-        "id": "recFutgszNXoZp5QT",
-        "title": "CTRP4 ameliorates dexamethasone‑induced insulin resistance through the IRS‑1/PI3K/AKT pathway in 3T3‑L1 adipocytes.",
-        "summary": "CTRP4 protein helps reduce insulin resistance in fat cells by improving glucose uptake and cellular signaling pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41614407/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
           "Leukemia"
         ],
         "quality_score": 15,
@@ -881,10 +881,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2514,
+    "archive_count": 2515,
     "archive_supplements": 388,
     "archive_off_label": 138,
-    "archive_biomarkers": 1153,
+    "archive_biomarkers": 1154,
     "archive_trials": 542
   }
 }
