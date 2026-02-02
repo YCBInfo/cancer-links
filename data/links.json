@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-02T07:04:04.641Z",
+  "last_updated": "2026-02-02T07:04:14.462Z",
   "categories": {
     "supplements": [
       {
@@ -68,6 +68,21 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-02"
+      },
+      {
+        "id": "recB2HCEDBRYc0FQd",
+        "title": "Stigmasterol Inhibits Glioma Metastasis and Angiogenesis by Regulating Macrophage Polarization.",
+        "summary": "Stigmasterol inhibits glioma growth and spread by blocking the transformation of macrophages into tumor-promoting forms, reducing cancer progression.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41618737/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Melanoma",
+          "Brain"
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
@@ -200,20 +215,6 @@
           "Leukemia"
         ],
         "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-01"
-      },
-      {
-        "id": "rec0vEEv8HLqtKJPI",
-        "title": "Feasibility and Implementation of INTERVAL-GAP4: A Global Randomised Controlled Trial of Intense Hybrid-supervised/Self-managed Versus Self-directed Exercise for Metastatic Prostate Cancer.",
-        "summary": "A global clinical trial exploring structured exercise for metastatic prostate cancer patients was stopped early due to challenges recruiting participants.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41561488/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Prostate"
-        ],
-        "quality_score": 23,
         "pub_date": "2026-01-01",
         "added_date": "2026-02-01"
       }
@@ -825,6 +826,21 @@
         "added_date": "2026-02-02"
       },
       {
+        "id": "recB2HCEDBRYc0FQd",
+        "title": "Stigmasterol Inhibits Glioma Metastasis and Angiogenesis by Regulating Macrophage Polarization.",
+        "summary": "Stigmasterol inhibits glioma growth and spread by blocking the transformation of macrophages into tumor-promoting forms, reducing cancer progression.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41618737/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Melanoma",
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-02"
+      },
+      {
         "id": "rec5iJZfPtfngwkqE",
         "title": "CAR T therapy in adult DLBCL patients in Slovenia: Evaluation of predictive scores for outcomes and adverse events.",
         "summary": "In Slovenian DLBCL patients, CAR T therapy showed a 50% response rate, with unexpected IL-6 and predictive score findings suggesting complex treatment outcomes.",
@@ -854,21 +870,6 @@
         "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-02-01"
-      },
-      {
-        "id": "rec0o2EJCd3R61ch1",
-        "title": "Advances in the study of the breast carcinoma exosomal microRNAs: From basic mechanisms to clinical applications (Review).",
-        "summary": "Exosomal microRNAs in breast cancer can regulate tumor progression, metastasis, and treatment resistance, offering promising diagnostic and therapeutic strategies.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41614405/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-01"
       }
     ]
   },
@@ -878,10 +879,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2528,
+    "archive_count": 2529,
     "archive_supplements": 393,
     "archive_off_label": 138,
     "archive_biomarkers": 1160,
-    "archive_trials": 544
+    "archive_trials": 545
   }
 }
