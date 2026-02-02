@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-02T05:07:27.581Z",
+  "last_updated": "2026-02-02T05:07:37.830Z",
   "categories": {
     "supplements": [
       {
@@ -509,6 +509,20 @@
         "added_date": "2026-02-02"
       },
       {
+        "id": "rec0QS6xKKrXDMLQZ",
+        "title": "Chimeric MHC class I- and II-restricted non-self epitopes broaden antitumor T cell reactions.",
+        "summary": "Chimeric peptides containing both MHC class I and II epitopes can enhance T cell immune responses against tumor neoantigens, potentially improving cancer treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41348109/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 13,
+        "pub_date": "2025-12-01",
+        "added_date": "2026-02-02"
+      },
+      {
         "id": "recxhOy2VUKshCWAU",
         "title": "Transcriptomic subtyping of COVID-19 reveals three distinct immune response profile.",
         "summary": "Researchers identified three distinct immune response subtypes in severe COVID-19 patients by analyzing gene expression patterns in blood samples.",
@@ -638,20 +652,6 @@
         "quality_score": 12,
         "pub_date": "2026-01-01",
         "added_date": "2026-02-01"
-      },
-      {
-        "id": "recn1ItaXY4BZe0fc",
-        "title": "A framework integrating multiscale in silico modeling and experimental data predicts CAR-NK cell cytotoxicity across target cell types.",
-        "summary": "A computational model predicts how engineered NK cells with chimeric antigen receptors can effectively target cancer cells while sparing healthy tissues.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41615751/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-01"
       }
     ],
     "trials": [
@@ -704,6 +704,20 @@
         "title": "Advances in the development of personalized neoantigen therapies.",
         "summary": "Researchers are developing personalized cancer vaccines that target unique tumor-specific antigens to selectively activate immune T cells against cancer.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41364340/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 13,
+        "pub_date": "2025-12-01",
+        "added_date": "2026-02-02"
+      },
+      {
+        "id": "rec0QS6xKKrXDMLQZ",
+        "title": "Chimeric MHC class I- and II-restricted non-self epitopes broaden antitumor T cell reactions.",
+        "summary": "Chimeric peptides containing both MHC class I and II epitopes can enhance T cell immune responses against tumor neoantigens, potentially improving cancer treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41348109/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -858,21 +872,6 @@
         "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-02-01"
-      },
-      {
-        "id": "recGNplWvD2Rb4uT1",
-        "title": "First-Line Afatinib 30 mg Versus 40 mg in Non-small Cell Lung Cancer Patients With Uncommon EGFR Mutations: Real-world Efficacy and Tolerability in Taiwan.",
-        "summary": "In Taiwanese non-small cell lung cancer patients with uncommon EGFR mutations, a lower 30 mg afatinib dose showed similar effectiveness and side effects compared to the standard 40 mg dose.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41617459/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Lung",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-01"
       }
     ]
   },
@@ -882,10 +881,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2511,
+    "archive_count": 2512,
     "archive_supplements": 388,
     "archive_off_label": 138,
-    "archive_biomarkers": 1150,
+    "archive_biomarkers": 1151,
     "archive_trials": 542
   }
 }
