@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-02T10:15:50.391Z",
+  "last_updated": "2026-02-02T10:17:41.338Z",
   "categories": {
     "supplements": [
       {
@@ -232,6 +232,20 @@
         "added_date": "2026-02-02"
       },
       {
+        "id": "recChdK1wXvsPNQPU",
+        "title": "Drug Repurposing Screen Identifies Pimozide as a ROS-Inducing Therapy With Anti-Tumor Efficacy in HNSCC PDX Models.",
+        "summary": "Pimozide, an existing drug, effectively induces reactive oxygen species and suppresses head and neck cancer cell growth, showing potential as a new targeted cancer treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41263490/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-02"
+      },
+      {
         "id": "recTrlJCD1bkJc8Y1",
         "title": "Metformin-Mediated Glycaemic Regulation as a Potential Strategy for Breast Cancer Prevention.",
         "summary": "Here's a concise summary sentence:\n\nMetformin, a diabetes drug, shows potential to prevent breast cancer by disrupting cancer cell growth mechanisms.",
@@ -411,20 +425,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Breast",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-01"
-      },
-      {
-        "id": "recdZmocmCeNV8jj0",
-        "title": "Lactate-activated GPR81/FARP1 signaling drives insulin-independent glucose uptake and metabolic control.",
-        "summary": "Lactate activates a specific cell receptor that helps muscles absorb glucose independently of insulin, potentially offering a new approach to managing blood sugar levels.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41530347/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
           "Leukemia"
         ],
         "quality_score": 15,
@@ -873,9 +873,9 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2578,
+    "archive_count": 2579,
     "archive_supplements": 403,
-    "archive_off_label": 138,
+    "archive_off_label": 139,
     "archive_biomarkers": 1184,
     "archive_trials": 560
   }
