@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-02T07:03:05.300Z",
+  "last_updated": "2026-02-02T07:03:14.704Z",
   "categories": {
     "supplements": [
       {
@@ -39,6 +39,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Leukemia",
+          "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-02"
+      },
+      {
+        "id": "receo9S0JSaTEY5Qr",
+        "title": "Metabolite Profiling and Anticancer Evaluation of Iraqi Haloxylon articulatum Halophyte via LC-HRMS/MS, Molecular Docking, and ADMET Analysis.",
+        "summary": "Hydroalcoholic extract of Haloxylon articulatum showed promising anticancer effects against gastric cancer cells by inhibiting tumor cell proliferation through specific phytochemical compounds.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41619304/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
           "Stomach"
         ],
         "quality_score": 15,
@@ -199,21 +213,6 @@
         "cancer_types": [
           "Colorectal",
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-01"
-      },
-      {
-        "id": "recMRXpOFuOl5JDo6",
-        "title": "Lemon gum (Citrus x latifolia) enhances IL-1Β expression and suppresses colon tumor growth in vivo with a favorable safety profile.",
-        "summary": "Lemon gum polysaccharide moderately suppressed colon tumor growth in mice by enhancing specific inflammatory immune responses with minimal toxicity.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41558568/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia",
-          "Liver"
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
@@ -784,6 +783,20 @@
         "added_date": "2026-02-02"
       },
       {
+        "id": "receo9S0JSaTEY5Qr",
+        "title": "Metabolite Profiling and Anticancer Evaluation of Iraqi Haloxylon articulatum Halophyte via LC-HRMS/MS, Molecular Docking, and ADMET Analysis.",
+        "summary": "Hydroalcoholic extract of Haloxylon articulatum showed promising anticancer effects against gastric cancer cells by inhibiting tumor cell proliferation through specific phytochemical compounds.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41619304/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-02"
+      },
+      {
         "id": "rec5iJZfPtfngwkqE",
         "title": "CAR T therapy in adult DLBCL patients in Slovenia: Evaluation of predictive scores for outcomes and adverse events.",
         "summary": "In Slovenian DLBCL patients, CAR T therapy showed a 50% response rate, with unexpected IL-6 and predictive score findings suggesting complex treatment outcomes.",
@@ -857,20 +870,6 @@
         "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-02-01"
-      },
-      {
-        "id": "recx0PnS49YA0hAeq",
-        "title": "Stepwise differentiation from precursor intermediates and distinct Th1 checkpoints promote CD4 Th1 cell differentiation during chronic viral infection.",
-        "summary": "During chronic viral infection, blocking PD-1/PD-L1 signaling and PBAF complex activity can enhance CD4+ T cell differentiation and improve immune response to viral control.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41615755/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-01"
       }
     ]
   },
@@ -880,8 +879,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2522,
-    "archive_supplements": 390,
+    "archive_count": 2523,
+    "archive_supplements": 391,
     "archive_off_label": 138,
     "archive_biomarkers": 1157,
     "archive_trials": 544
