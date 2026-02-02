@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-02T07:02:33.391Z",
+  "last_updated": "2026-02-02T07:02:44.086Z",
   "categories": {
     "supplements": [
       {
@@ -621,6 +621,21 @@
         "added_date": "2026-02-02"
       },
       {
+        "id": "recGRiN2Di17t4DqO",
+        "title": "[The effect of plasma exchange on immune function in patients with hyperbilirubinemia at different severity levels following liver cancer surgery].",
+        "summary": "Plasma exchange therapy significantly improved immune, liver, and coagulation functions across different severity levels in patients with hyperbilirubinemia after liver cancer surgery.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41620968/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Leukemia",
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-02"
+      },
+      {
         "id": "recxhOy2VUKshCWAU",
         "title": "Transcriptomic subtyping of COVID-19 reveals three distinct immune response profile.",
         "summary": "Researchers identified three distinct immune response subtypes in severe COVID-19 patients by analyzing gene expression patterns in blood samples.",
@@ -629,21 +644,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-01"
-      },
-      {
-        "id": "rec5iJZfPtfngwkqE",
-        "title": "CAR T therapy in adult DLBCL patients in Slovenia: Evaluation of predictive scores for outcomes and adverse events.",
-        "summary": "In Slovenian DLBCL patients, CAR T therapy showed a 50% response rate, with unexpected IL-6 and predictive score findings suggesting complex treatment outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41614438/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Leukemia",
-          "Lymphoma"
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
@@ -735,6 +735,21 @@
         ],
         "quality_score": 10,
         "pub_date": "2025-12-01",
+        "added_date": "2026-02-02"
+      },
+      {
+        "id": "recGRiN2Di17t4DqO",
+        "title": "[The effect of plasma exchange on immune function in patients with hyperbilirubinemia at different severity levels following liver cancer surgery].",
+        "summary": "Plasma exchange therapy significantly improved immune, liver, and coagulation functions across different severity levels in patients with hyperbilirubinemia after liver cancer surgery.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41620968/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Leukemia",
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
         "added_date": "2026-02-02"
       },
       {
@@ -853,21 +868,6 @@
         "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-02-01"
-      },
-      {
-        "id": "rec0mqcT4KZnZukza",
-        "title": "Clinical Activity of MET-TKIs in METex14 Skipping NSCLC With Poor Performance Status.",
-        "summary": "MET-targeted drugs showed promising activity against lung cancer with a specific genetic mutation, even in patients with poor overall health.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41617462/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-01"
       }
     ]
   },
@@ -877,10 +877,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2519,
+    "archive_count": 2520,
     "archive_supplements": 390,
     "archive_off_label": 138,
-    "archive_biomarkers": 1156,
+    "archive_biomarkers": 1157,
     "archive_trials": 542
   }
 }
