@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-02T05:06:48.224Z",
+  "last_updated": "2026-02-02T05:07:08.007Z",
   "categories": {
     "supplements": [
       {
@@ -452,6 +452,35 @@
         "added_date": "2026-02-02"
       },
       {
+        "id": "recD8ZVBD0HUIkEVI",
+        "title": "Tet2 deficiency-induced expansion of monocyte-derived macrophages promotes liver fibrosis.",
+        "summary": "Tet2 deficiency in immune cells leads to increased inflammatory macrophages that drive liver fibrosis through chemokine and IL-6 signaling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41474968/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia",
+          "Liver"
+        ],
+        "quality_score": 13,
+        "pub_date": "2025-12-01",
+        "added_date": "2026-02-02"
+      },
+      {
+        "id": "recTxCefCNYZWQwxW",
+        "title": "ERAdP facilitates biogenesis of dense core vesicles in Paneth cells to enhance intestinal defense.",
+        "summary": "ERAdP helps Paneth cells create protective vesicles that fight bacteria, potentially offering a new approach to treating intestinal inflammatory diseases.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41474967/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 13,
+        "pub_date": "2025-12-01",
+        "added_date": "2026-02-02"
+      },
+      {
         "id": "recxhOy2VUKshCWAU",
         "title": "Transcriptomic subtyping of COVID-19 reveals three distinct immune response profile.",
         "summary": "Researchers identified three distinct immune response subtypes in severe COVID-19 patients by analyzing gene expression patterns in blood samples.",
@@ -623,35 +652,6 @@
         "quality_score": 12,
         "pub_date": "2026-01-01",
         "added_date": "2026-02-01"
-      },
-      {
-        "id": "rec0mqcT4KZnZukza",
-        "title": "Clinical Activity of MET-TKIs in METex14 Skipping NSCLC With Poor Performance Status.",
-        "summary": "MET-targeted drugs showed promising activity against lung cancer with a specific genetic mutation, even in patients with poor overall health.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41617462/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-01"
-      },
-      {
-        "id": "recCR0p3ungqrIFgh",
-        "title": "mTOR Modulation Affects Galectin-1 Expression in KMT2A-rearranged Acute Lymphoblastic Leukemia Cells.",
-        "summary": "In KMT2A-rearranged acute lymphoblastic leukemia, inhibiting mTOR signaling reduced Galectin-1 expression, potentially limiting the cancer's immune evasion.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41617461/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-01"
       }
     ],
     "trials": [
@@ -668,6 +668,21 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
+        "added_date": "2026-02-02"
+      },
+      {
+        "id": "recD8ZVBD0HUIkEVI",
+        "title": "Tet2 deficiency-induced expansion of monocyte-derived macrophages promotes liver fibrosis.",
+        "summary": "Tet2 deficiency in immune cells leads to increased inflammatory macrophages that drive liver fibrosis through chemokine and IL-6 signaling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41474968/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia",
+          "Liver"
+        ],
+        "quality_score": 13,
+        "pub_date": "2025-12-01",
         "added_date": "2026-02-02"
       },
       {
@@ -859,20 +874,6 @@
         "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-02-01"
-      },
-      {
-        "id": "recT1zYNhlyHaX0VS",
-        "title": "Polymorphisms of FGFR Pathway-related Factors and Capecitabine-induced Hand-foot Syndrome in Japanese Patients With Colorectal Cancer.",
-        "summary": "Genetic variations in FGFR pathway genes may influence the likelihood of developing hand-foot syndrome in Japanese colorectal cancer patients taking capecitabine.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41617448/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-01"
       }
     ]
   },
@@ -882,10 +883,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2508,
+    "archive_count": 2509,
     "archive_supplements": 388,
     "archive_off_label": 138,
-    "archive_biomarkers": 1148,
+    "archive_biomarkers": 1149,
     "archive_trials": 541
   }
 }
