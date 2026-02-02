@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-02T07:02:13.704Z",
+  "last_updated": "2026-02-02T07:02:24.039Z",
   "categories": {
     "supplements": [
       {
@@ -13,6 +13,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-02"
+      },
+      {
+        "id": "rec25eYFJta6BJsOd",
+        "title": "Sodium butyrate induces apoptosis enhanced by JAK2 inhibitor Fedratinib in NK/T-cell lymphoma cell.",
+        "summary": "Combining sodium butyrate and the JAK2 inhibitor Fedratinib effectively triggered cell death in NK/T-cell lymphoma cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41621012/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lymphoma"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-02"
       },
@@ -199,20 +213,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-01"
-      },
-      {
-        "id": "recr1LKm6xExTukaj",
-        "title": "Akebia saponin D attenuates ulcerative colitis via targeting EGFR and remodeling gut microbiota homeostasis.",
-        "summary": "Akebia saponin D reduces inflammation in ulcerative colitis by targeting a specific protein and balancing beneficial gut bacteria.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41547071/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
@@ -593,6 +593,20 @@
         "added_date": "2026-02-02"
       },
       {
+        "id": "rec25eYFJta6BJsOd",
+        "title": "Sodium butyrate induces apoptosis enhanced by JAK2 inhibitor Fedratinib in NK/T-cell lymphoma cell.",
+        "summary": "Combining sodium butyrate and the JAK2 inhibitor Fedratinib effectively triggered cell death in NK/T-cell lymphoma cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41621012/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lymphoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-02"
+      },
+      {
         "id": "recxhOy2VUKshCWAU",
         "title": "Transcriptomic subtyping of COVID-19 reveals three distinct immune response profile.",
         "summary": "Researchers identified three distinct immune response subtypes in severe COVID-19 patients by analyzing gene expression patterns in blood samples.",
@@ -631,21 +645,6 @@
         "cancer_types": [
           "Lung",
           "Melanoma",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-01"
-      },
-      {
-        "id": "rec0o2EJCd3R61ch1",
-        "title": "Advances in the study of the breast carcinoma exosomal microRNAs: From basic mechanisms to clinical applications (Review).",
-        "summary": "Exosomal microRNAs in breast cancer can regulate tumor progression, metastasis, and treatment resistance, offering promising diagnostic and therapeutic strategies.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41614405/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast",
           "Leukemia"
         ],
         "quality_score": 15,
@@ -880,8 +879,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2517,
-    "archive_supplements": 388,
+    "archive_count": 2518,
+    "archive_supplements": 389,
     "archive_off_label": 138,
     "archive_biomarkers": 1156,
     "archive_trials": 542
