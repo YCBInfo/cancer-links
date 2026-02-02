@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-02-02T07:02:03.785Z",
+  "last_updated": "2026-02-02T07:02:13.704Z",
   "categories": {
     "supplements": [
+      {
+        "id": "recFDhVgyfQZom5Ry",
+        "title": "Multi-omics unravels multiple pharmacological actions in a murine model of infantile hemangioma receiving oxymatrine therapy.",
+        "summary": "Oxymatrine effectively inhibits infantile hemangioma growth by targeting multiple molecular pathways in a mouse model, offering a potential alternative treatment for drug-resistant cases.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41621031/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-02"
+      },
       {
         "id": "rechatuWQyy4gHsZ8",
         "title": "Targeting mTOR Signaling in Cancer: The Promise of Natural Product-derived Inhibitors.",
@@ -203,23 +217,23 @@
         "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-02-01"
-      },
+      }
+    ],
+    "off_label": [
       {
-        "id": "recOTQkgk3d1Ur6Gg",
-        "title": "Lauric acid mitigates doxorubicin-induced cardiotoxicity in rats: Modulation of oxidative stress and inflammation via NF-κB p65 attenuation.",
-        "summary": "Lauric acid reduces heart damage caused by doxorubicin chemotherapy in rats by decreasing inflammation and oxidative stress.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41546584/",
+        "id": "recFDhVgyfQZom5Ry",
+        "title": "Multi-omics unravels multiple pharmacological actions in a murine model of infantile hemangioma receiving oxymatrine therapy.",
+        "summary": "Oxymatrine effectively inhibits infantile hemangioma growth by targeting multiple molecular pathways in a mouse model, offering a potential alternative treatment for drug-resistant cases.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41621031/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-01"
-      }
-    ],
-    "off_label": [
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-02"
+      },
       {
         "id": "recTrlJCD1bkJc8Y1",
         "title": "Metformin-Mediated Glycaemic Regulation as a Potential Strategy for Breast Cancer Prevention.",
@@ -419,20 +433,6 @@
         "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-02-01"
-      },
-      {
-        "id": "recQqBEn6eZDUKRw9",
-        "title": "Comparison of infection sequence of porcine reproductive and respiratory syndrome virus (PRRSV) and Mycoplasma hyorhinis to potentiate PRRSV-induced pneumonia.",
-        "summary": "Mycoplasma hyorhinis infection enhances porcine respiratory syndrome virus-induced pneumonia severity, regardless of the order of pathogen introduction.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41506169/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-01"
       }
     ],
     "biomarkers": [
@@ -579,6 +579,20 @@
         "added_date": "2026-02-02"
       },
       {
+        "id": "recFDhVgyfQZom5Ry",
+        "title": "Multi-omics unravels multiple pharmacological actions in a murine model of infantile hemangioma receiving oxymatrine therapy.",
+        "summary": "Oxymatrine effectively inhibits infantile hemangioma growth by targeting multiple molecular pathways in a mouse model, offering a potential alternative treatment for drug-resistant cases.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41621031/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-02"
+      },
+      {
         "id": "recxhOy2VUKshCWAU",
         "title": "Transcriptomic subtyping of COVID-19 reveals three distinct immune response profile.",
         "summary": "Researchers identified three distinct immune response subtypes in severe COVID-19 patients by analyzing gene expression patterns in blood samples.",
@@ -632,20 +646,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Breast",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-01"
-      },
-      {
-        "id": "recccJOlnca2pAf8o",
-        "title": "Advances in isolation and detection technologies and immunotherapy applications of circulating tumor cells (Review).",
-        "summary": "New technologies for detecting rare circulating tumor cells could improve early cancer diagnosis and personalized treatment strategies across multiple cancer types.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41614401/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
           "Leukemia"
         ],
         "quality_score": 15,
@@ -880,10 +880,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2516,
+    "archive_count": 2517,
     "archive_supplements": 388,
     "archive_off_label": 138,
-    "archive_biomarkers": 1155,
+    "archive_biomarkers": 1156,
     "archive_trials": 542
   }
 }
