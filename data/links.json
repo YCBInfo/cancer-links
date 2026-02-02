@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-02T07:03:44.070Z",
+  "last_updated": "2026-02-02T07:03:55.303Z",
   "categories": {
     "supplements": [
       {
@@ -796,6 +796,21 @@
         "added_date": "2026-02-02"
       },
       {
+        "id": "recj3yixgpqzdrVhr",
+        "title": "Crystal structures, cytotoxicity studies and interactions with DNA of novel in situ-formed complexes containing N-scorpionate ligands and nitrate ions.",
+        "summary": "Novel cobalt-containing complexes show promising anticancer activity, with complex 2 demonstrating selective potency against colorectal adenocarcinoma cells and outperforming cisplatin.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41619186/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-02"
+      },
+      {
         "id": "rec5iJZfPtfngwkqE",
         "title": "CAR T therapy in adult DLBCL patients in Slovenia: Evaluation of predictive scores for outcomes and adverse events.",
         "summary": "In Slovenian DLBCL patients, CAR T therapy showed a 50% response rate, with unexpected IL-6 and predictive score findings suggesting complex treatment outcomes.",
@@ -854,21 +869,6 @@
         "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-02-01"
-      },
-      {
-        "id": "recMJ4oax93dZk9ga",
-        "title": "High RMI1 expression is associated with cancer cell progression and poor prognosis in prostate cancer.",
-        "summary": "High RMI1 expression promotes prostate cancer progression, correlates with poor survival, and may serve as a potential diagnostic and therapeutic target.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41614397/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Prostate",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-01"
       }
     ]
   },
@@ -878,10 +878,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2526,
+    "archive_count": 2527,
     "archive_supplements": 393,
     "archive_off_label": 138,
-    "archive_biomarkers": 1158,
+    "archive_biomarkers": 1159,
     "archive_trials": 544
   }
 }
