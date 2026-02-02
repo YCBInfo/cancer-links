@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-02T07:02:53.848Z",
+  "last_updated": "2026-02-02T07:03:05.300Z",
   "categories": {
     "supplements": [
       {
@@ -28,6 +28,21 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
+        "added_date": "2026-02-02"
+      },
+      {
+        "id": "recAUJhAZoZAeCZgO",
+        "title": "Biosynthesis of Silver Nanoparticles Using Black Pepper (Piper nigrum) Seed Extract and Evaluation of Their Cytotoxicity.",
+        "summary": "Black pepper seed extract-derived silver nanoparticles showed enhanced cytotoxicity against gastric cancer cells, offering a promising green synthesis approach for targeted cancer treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41619307/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia",
+          "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
         "added_date": "2026-02-02"
       },
       {
@@ -198,20 +213,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Leukemia",
-          "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-01"
-      },
-      {
-        "id": "reciGPF4QYkG2fX6e",
-        "title": "Seco-neokadsuranic acid A antagonizes SH3BP1 to suppress hepatocellular carcinoma progression through PPAR pathway activation.",
-        "summary": "A natural compound called seco-neokadsuranic acid A blocks a specific protein to slow down liver cancer's spread by activating a key cellular pathway.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41558058/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
           "Liver"
         ],
         "quality_score": 15,
@@ -636,18 +637,19 @@
         "added_date": "2026-02-02"
       },
       {
-        "id": "recxhOy2VUKshCWAU",
-        "title": "Transcriptomic subtyping of COVID-19 reveals three distinct immune response profile.",
-        "summary": "Researchers identified three distinct immune response subtypes in severe COVID-19 patients by analyzing gene expression patterns in blood samples.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41614652/",
+        "id": "recAUJhAZoZAeCZgO",
+        "title": "Biosynthesis of Silver Nanoparticles Using Black Pepper (Piper nigrum) Seed Extract and Evaluation of Their Cytotoxicity.",
+        "summary": "Black pepper seed extract-derived silver nanoparticles showed enhanced cytotoxicity against gastric cancer cells, offering a promising green synthesis approach for targeted cancer treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41619307/",
         "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
+        "category": "Supplements & Nutraceuticals",
         "cancer_types": [
-          "Leukemia"
+          "Leukemia",
+          "Stomach"
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
-        "added_date": "2026-02-01"
+        "added_date": "2026-02-02"
       }
     ],
     "trials": [
@@ -767,6 +769,21 @@
         "added_date": "2026-02-02"
       },
       {
+        "id": "recAUJhAZoZAeCZgO",
+        "title": "Biosynthesis of Silver Nanoparticles Using Black Pepper (Piper nigrum) Seed Extract and Evaluation of Their Cytotoxicity.",
+        "summary": "Black pepper seed extract-derived silver nanoparticles showed enhanced cytotoxicity against gastric cancer cells, offering a promising green synthesis approach for targeted cancer treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41619307/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia",
+          "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-02"
+      },
+      {
         "id": "rec5iJZfPtfngwkqE",
         "title": "CAR T therapy in adult DLBCL patients in Slovenia: Evaluation of predictive scores for outcomes and adverse events.",
         "summary": "In Slovenian DLBCL patients, CAR T therapy showed a 50% response rate, with unexpected IL-6 and predictive score findings suggesting complex treatment outcomes.",
@@ -854,20 +871,6 @@
         "quality_score": 12,
         "pub_date": "2026-01-01",
         "added_date": "2026-02-01"
-      },
-      {
-        "id": "recn1ItaXY4BZe0fc",
-        "title": "A framework integrating multiscale in silico modeling and experimental data predicts CAR-NK cell cytotoxicity across target cell types.",
-        "summary": "A computational model predicts how engineered NK cells with chimeric antigen receptors can effectively target cancer cells while sparing healthy tissues.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41615751/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-01"
       }
     ]
   },
@@ -877,10 +880,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2521,
+    "archive_count": 2522,
     "archive_supplements": 390,
     "archive_off_label": 138,
     "archive_biomarkers": 1157,
-    "archive_trials": 543
+    "archive_trials": 544
   }
 }
