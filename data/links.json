@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-03T05:03:05.924Z",
+  "last_updated": "2026-02-03T05:06:36.847Z",
   "categories": {
     "supplements": [
       {
@@ -505,6 +505,34 @@
         "added_date": "2026-02-03"
       },
       {
+        "id": "recQeW3AYMIOylvGJ",
+        "title": "PTP1B inhibition promotes microglial phagocytosis in Alzheimer's disease models by enhancing SYK signaling.",
+        "summary": "PTP1B inhibition enhances microglia's ability to clear amyloid plaques in Alzheimer's disease by boosting immune cell function and metabolism.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41628337/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-03"
+      },
+      {
+        "id": "rec2kBSPYRCouAdOS",
+        "title": "Childhood thiamine-responsive megaloblastic anemia and diabetes: a case series highlighting early diagnosis and management.",
+        "summary": "Targeted high-dose thiamine therapy can quickly improve symptoms and prevent long-term complications in children with a rare genetic disorder causing anemia and early-onset diabetes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41626659/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-03"
+      },
+      {
         "id": "recCBRx39k3xzgVYY",
         "title": "Encapsulated Papillary Carcinoma of the Breast: Two Cases with Literature Review and Molecular Insights.",
         "summary": "A rare breast cancer subtype (encapsulated papillary carcinoma) typically shows favorable prognosis with high hormone receptor positivity in postmenopausal women.",
@@ -617,34 +645,6 @@
         "quality_score": 13,
         "pub_date": "2025-12-01",
         "added_date": "2026-02-02"
-      },
-      {
-        "id": "recdW10YamhOJnW68",
-        "title": "Intramolecular regulation of the MT-severing enzyme Katanin prevents futile ATP hydrolysis.",
-        "summary": "A regulatory domain in the Katanin enzyme prevents unnecessary ATP breakdown, controlling microtubule severing and potentially impacting cancer and neurological processes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41258800/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
-        "pub_date": "2025-11-01",
-        "added_date": "2026-02-02"
-      },
-      {
-        "id": "recbVs0kVwH2ulArF",
-        "title": "Single-Cell Analysis, Spatial Transcriptomics and Molecular Docking Unveil Potential Therapeutic Targets for Carotid Atherosclerosis.",
-        "summary": "Here's a clear summary sentence:\n\nResearchers used advanced cell analysis techniques to identify potential new treatment approaches for carotid atherosclerosis that could reduce stroke and cardiovascular risks.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41186127/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-02"
       }
     ],
     "trials": [
@@ -702,6 +702,20 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
+        "added_date": "2026-02-03"
+      },
+      {
+        "id": "rec2kBSPYRCouAdOS",
+        "title": "Childhood thiamine-responsive megaloblastic anemia and diabetes: a case series highlighting early diagnosis and management.",
+        "summary": "Targeted high-dose thiamine therapy can quickly improve symptoms and prevent long-term complications in children with a rare genetic disorder causing anemia and early-onset diabetes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41626659/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
         "added_date": "2026-02-03"
       },
       {
@@ -847,21 +861,6 @@
         "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-02-02"
-      },
-      {
-        "id": "recj3yixgpqzdrVhr",
-        "title": "Crystal structures, cytotoxicity studies and interactions with DNA of novel in situ-formed complexes containing N-scorpionate ligands and nitrate ions.",
-        "summary": "Novel cobalt-containing complexes show promising anticancer activity, with complex 2 demonstrating selective potency against colorectal adenocarcinoma cells and outperforming cisplatin.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41619186/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-02"
       }
     ]
   },
@@ -871,10 +870,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2595,
+    "archive_count": 2596,
     "archive_supplements": 404,
     "archive_off_label": 139,
-    "archive_biomarkers": 1197,
+    "archive_biomarkers": 1198,
     "archive_trials": 562
   }
 }
