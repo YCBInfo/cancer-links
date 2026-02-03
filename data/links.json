@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-03T05:09:08.245Z",
+  "last_updated": "2026-02-03T05:09:18.126Z",
   "categories": {
     "supplements": [
       {
@@ -633,19 +633,19 @@
         "added_date": "2026-02-03"
       },
       {
-        "id": "recCBRx39k3xzgVYY",
-        "title": "Encapsulated Papillary Carcinoma of the Breast: Two Cases with Literature Review and Molecular Insights.",
-        "summary": "A rare breast cancer subtype (encapsulated papillary carcinoma) typically shows favorable prognosis with high hormone receptor positivity in postmenopausal women.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41592189/",
+        "id": "rec4QUhFO0rLEipOn",
+        "title": "Allogeneic Hematopoietic Stem Cell Transplantation in ERCC6L2 Disease.",
+        "summary": "Allogeneic stem cell transplantation offers a potential cure for ERCC6L2 disease, with 79% one-year survival but significant risks of endothelial complications.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41628318/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
-          "Breast",
-          "Leukemia"
+          "Leukemia",
+          "Kidney"
         ],
         "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-02"
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-03"
       }
     ],
     "trials": [
@@ -835,6 +835,21 @@
         "added_date": "2026-02-03"
       },
       {
+        "id": "rec4QUhFO0rLEipOn",
+        "title": "Allogeneic Hematopoietic Stem Cell Transplantation in ERCC6L2 Disease.",
+        "summary": "Allogeneic stem cell transplantation offers a potential cure for ERCC6L2 disease, with 79% one-year survival but significant risks of endothelial complications.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41628318/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia",
+          "Kidney"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-03"
+      },
+      {
         "id": "recCBRx39k3xzgVYY",
         "title": "Encapsulated Papillary Carcinoma of the Breast: Two Cases with Literature Review and Molecular Insights.",
         "summary": "A rare breast cancer subtype (encapsulated papillary carcinoma) typically shows favorable prognosis with high hormone receptor positivity in postmenopausal women.",
@@ -848,21 +863,6 @@
         "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-02-02"
-      },
-      {
-        "id": "recD8ZVBD0HUIkEVI",
-        "title": "Tet2 deficiency-induced expansion of monocyte-derived macrophages promotes liver fibrosis.",
-        "summary": "Tet2 deficiency in immune cells leads to increased inflammatory macrophages that drive liver fibrosis through chemokine and IL-6 signaling.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41474968/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia",
-          "Liver"
-        ],
-        "quality_score": 13,
-        "pub_date": "2025-12-01",
-        "added_date": "2026-02-02"
       }
     ]
   },
@@ -872,10 +872,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2605,
+    "archive_count": 2606,
     "archive_supplements": 404,
     "archive_off_label": 139,
-    "archive_biomarkers": 1205,
+    "archive_biomarkers": 1206,
     "archive_trials": 564
   }
 }
