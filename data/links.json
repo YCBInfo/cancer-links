@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-03T09:15:25.020Z",
+  "last_updated": "2026-02-03T09:15:34.148Z",
   "categories": {
     "supplements": [
       {
@@ -177,6 +177,20 @@
         "added_date": "2026-02-03"
       },
       {
+        "id": "recMapzPALqHKxrjJ",
+        "title": "Microbiota in cancer: current understandings and future perspectives.",
+        "summary": "Microbiota play a complex role in cancer development and treatment, potentially offering both therapeutic opportunities and insights into disease progression.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41629271/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-03"
+      },
+      {
         "id": "recFDhVgyfQZom5Ry",
         "title": "Multi-omics unravels multiple pharmacological actions in a murine model of infantile hemangioma receiving oxymatrine therapy.",
         "summary": "Oxymatrine effectively inhibits infantile hemangioma growth by targeting multiple molecular pathways in a mouse model, offering a potential alternative treatment for drug-resistant cases.",
@@ -202,21 +216,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
-        "added_date": "2026-02-02"
-      },
-      {
-        "id": "recAUJhAZoZAeCZgO",
-        "title": "Biosynthesis of Silver Nanoparticles Using Black Pepper (Piper nigrum) Seed Extract and Evaluation of Their Cytotoxicity.",
-        "summary": "Black pepper seed extract-derived silver nanoparticles showed enhanced cytotoxicity against gastric cancer cells, offering a promising green synthesis approach for targeted cancer treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41619307/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia",
-          "Stomach"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
         "added_date": "2026-02-02"
       }
     ],
@@ -395,6 +394,20 @@
         "added_date": "2026-02-03"
       },
       {
+        "id": "recMapzPALqHKxrjJ",
+        "title": "Microbiota in cancer: current understandings and future perspectives.",
+        "summary": "Microbiota play a complex role in cancer development and treatment, potentially offering both therapeutic opportunities and insights into disease progression.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41629271/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-03"
+      },
+      {
         "id": "recFDhVgyfQZom5Ry",
         "title": "Multi-omics unravels multiple pharmacological actions in a murine model of infantile hemangioma receiving oxymatrine therapy.",
         "summary": "Oxymatrine effectively inhibits infantile hemangioma growth by targeting multiple molecular pathways in a mouse model, offering a potential alternative treatment for drug-resistant cases.",
@@ -420,22 +433,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
-        "added_date": "2026-02-02"
-      },
-      {
-        "id": "recwGuXnIqDvxC0wr",
-        "title": "Hypoxia Alleviation-Potentiated Chemotherapy Enhances Anti-PD-L1 Treatment for Triple-Negative Breast Cancer via Improving Tumor Immunogenicity and Inhibiting STAT3 Activation.",
-        "summary": "A new nanomedicine combining paclitaxel and atovaquone improves triple-negative breast cancer treatment by making tumors more responsive to immunotherapy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41618887/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Breast",
-          "Lung",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
         "added_date": "2026-02-02"
       }
     ],
@@ -879,10 +876,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2826,
+    "archive_count": 2827,
     "archive_supplements": 415,
     "archive_off_label": 148,
-    "archive_biomarkers": 1373,
+    "archive_biomarkers": 1374,
     "archive_trials": 597
   }
 }
