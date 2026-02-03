@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-03T05:20:32.927Z",
+  "last_updated": "2026-02-03T05:20:46.732Z",
   "categories": {
     "supplements": [
       {
@@ -11,6 +11,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-03"
+      },
+      {
+        "id": "rec05CP20vQfWO7KP",
+        "title": "Emerging Biomaterials Blocking PD-1/PD-L1 Pathway for Cancer Therapy.",
+        "summary": "New biomaterials show promise in blocking the PD-1/PD-L1 pathway, offering alternative strategies to enhance cancer immunotherapy and potentially improve patient outcomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41626856/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -197,20 +211,6 @@
           "Leukemia"
         ],
         "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-02"
-      },
-      {
-        "id": "recvZEMdvhd1mUS0T",
-        "title": "Four New Polyhydroxylated Secondary Metabolites From Sinularia sp. and Their Biological Activities.",
-        "summary": "Researchers identified new chemical compounds from soft coral that showed potential cytotoxic effects against multiple cancer cell lines, including leukemia and breast cancer cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41619283/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-01-01",
         "added_date": "2026-02-02"
       }
@@ -873,10 +873,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2673,
+    "archive_count": 2674,
     "archive_supplements": 405,
     "archive_off_label": 140,
-    "archive_biomarkers": 1258,
+    "archive_biomarkers": 1259,
     "archive_trials": 577
   }
 }
