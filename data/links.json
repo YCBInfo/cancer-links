@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-02-03T05:10:48.572Z",
+  "last_updated": "2026-02-03T05:10:58.927Z",
   "categories": {
     "supplements": [
+      {
+        "id": "reclCzIicCWOwDTXR",
+        "title": "Optimization, characterization and biological activity of siderophore produced by marine Streptomyces coelicolor.",
+        "summary": "Marine Streptomyces coelicolor-derived siderophore ferrioxamine effectively inhibited breast cancer cell (MCF-7) proliferation by disrupting iron homeostasis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41628161/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-03"
+      },
       {
         "id": "recFDhVgyfQZom5Ry",
         "title": "Multi-omics unravels multiple pharmacological actions in a murine model of infantile hemangioma receiving oxymatrine therapy.",
@@ -197,21 +211,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-02"
-      },
-      {
-        "id": "recClv6MfNgBF2ra3",
-        "title": "Exploring the Anticancer Mechanisms of Dendrobium officinale Polysaccharides in Colorectal Cancer: Apoptosis and Autophagy Interactions.",
-        "summary": "Dendrobium officinale polysaccharides inhibit colorectal cancer by simultaneously triggering cell death and blocking autophagy through a specific molecular pathway.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41420847/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal",
-          "Leukemia"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-02-02"
       }
@@ -874,10 +873,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2615,
+    "archive_count": 2616,
     "archive_supplements": 404,
     "archive_off_label": 139,
-    "archive_biomarkers": 1214,
+    "archive_biomarkers": 1215,
     "archive_trials": 565
   }
 }
