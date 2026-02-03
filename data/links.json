@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-03T09:15:04.994Z",
+  "last_updated": "2026-02-03T09:15:14.545Z",
   "categories": {
     "supplements": [
       {
@@ -162,6 +162,21 @@
         "added_date": "2026-02-03"
       },
       {
+        "id": "recR6mzL2Bn0DaWSF",
+        "title": "Inhalable herbal nanotherapeutics targeting lung carcinoma.",
+        "summary": "Inhalable nanoparticles loaded with myricetin and targeted with lactoferrin demonstrated improved lung cancer therapy by enhancing drug delivery and tumor targeting.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41629353/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lung",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-03"
+      },
+      {
         "id": "recFDhVgyfQZom5Ry",
         "title": "Multi-omics unravels multiple pharmacological actions in a murine model of infantile hemangioma receiving oxymatrine therapy.",
         "summary": "Oxymatrine effectively inhibits infantile hemangioma growth by targeting multiple molecular pathways in a mouse model, offering a potential alternative treatment for drug-resistant cases.",
@@ -198,20 +213,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Leukemia",
-          "Stomach"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-02"
-      },
-      {
-        "id": "receo9S0JSaTEY5Qr",
-        "title": "Metabolite Profiling and Anticancer Evaluation of Iraqi Haloxylon articulatum Halophyte via LC-HRMS/MS, Molecular Docking, and ADMET Analysis.",
-        "summary": "Hydroalcoholic extract of Haloxylon articulatum showed promising anticancer effects against gastric cancer cells by inhibiting tumor cell proliferation through specific phytochemical compounds.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41619304/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
           "Stomach"
         ],
         "quality_score": 15,
@@ -878,10 +879,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2824,
+    "archive_count": 2825,
     "archive_supplements": 414,
     "archive_off_label": 148,
-    "archive_biomarkers": 1372,
+    "archive_biomarkers": 1373,
     "archive_trials": 597
   }
 }
