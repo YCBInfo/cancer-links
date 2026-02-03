@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-03T09:11:22.783Z",
+  "last_updated": "2026-02-03T09:11:42.274Z",
   "categories": {
     "supplements": [
       {
@@ -366,6 +366,20 @@
         "added_date": "2026-02-03"
       },
       {
+        "id": "recRwC5hERsyseKGN",
+        "title": "Impact of sodium-glucose cotransporter-2 inhibitors on heart failure outcomes in cancer patients and survivors: a systematic review and meta-analysis.",
+        "summary": "SGLT2 inhibitors may reduce heart failure hospitalizations and new diagnoses among cancer patients, offering potential cardiovascular protection during treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40044419/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 29,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-03"
+      },
+      {
         "id": "recFDhVgyfQZom5Ry",
         "title": "Multi-omics unravels multiple pharmacological actions in a murine model of infantile hemangioma receiving oxymatrine therapy.",
         "summary": "Oxymatrine effectively inhibits infantile hemangioma growth by targeting multiple molecular pathways in a mouse model, offering a potential alternative treatment for drug-resistant cases.",
@@ -420,20 +434,6 @@
           "Breast"
         ],
         "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-01"
-      },
-      {
-        "id": "rec6TyDEUm0LUGtab",
-        "title": "Efficacy of Topical Beta-Blockers in Managing Epidermal Growth Factor Receptor Inhibitor-Related Paronychia and Pyogenic Granuloma-Like Lesion: A Systematic Review and Meta-Analysis.",
-        "summary": "Topical beta-blockers effectively manage skin lesions caused by cancer drugs targeting epidermal growth factor receptors, improving patient comfort.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41588796/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 22,
         "pub_date": "2026-01-01",
         "added_date": "2026-02-01"
       }
@@ -878,10 +878,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2803,
+    "archive_count": 2804,
     "archive_supplements": 414,
     "archive_off_label": 146,
-    "archive_biomarkers": 1359,
+    "archive_biomarkers": 1360,
     "archive_trials": 591
   }
 }
