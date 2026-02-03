@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-03T09:09:00.589Z",
+  "last_updated": "2026-02-03T09:09:11.249Z",
   "categories": {
     "supplements": [
       {
@@ -352,6 +352,20 @@
         "added_date": "2026-02-03"
       },
       {
+        "id": "rec5y6M5XgorAwY6h",
+        "title": "Potentiating anti-inflammatory and antioxidant effects in vitro: the combined action of zofenoprilat and nebivolol.",
+        "summary": "Zofenoprilat and nebivolol together showed enhanced anti-inflammatory and antioxidant effects, potentially improving vascular health and reducing inflammation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41629568/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-03"
+      },
+      {
         "id": "recFDhVgyfQZom5Ry",
         "title": "Multi-omics unravels multiple pharmacological actions in a murine model of infantile hemangioma receiving oxymatrine therapy.",
         "summary": "Oxymatrine effectively inhibits infantile hemangioma growth by targeting multiple molecular pathways in a mouse model, offering a potential alternative treatment for drug-resistant cases.",
@@ -420,20 +434,6 @@
           "General"
         ],
         "quality_score": 22,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-01"
-      },
-      {
-        "id": "rec2gDrdcnt8Fuusc",
-        "title": "Remimazolam Inhibits Neuronal Apoptosis, Inflammation, and Ferroptosis in Cerebral Infarction via Promoting TRIM67-Mediated Degradation of ACSL4.",
-        "summary": "Remimazolam protects against neuronal damage in cerebral infarction by reducing inflammation and cell death through targeting specific protein interactions.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41587377/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 24,
         "pub_date": "2026-01-01",
         "added_date": "2026-02-01"
       }
@@ -878,10 +878,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2794,
+    "archive_count": 2795,
     "archive_supplements": 414,
     "archive_off_label": 145,
-    "archive_biomarkers": 1353,
+    "archive_biomarkers": 1354,
     "archive_trials": 589
   }
 }
