@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-03T05:25:56.270Z",
+  "last_updated": "2026-02-03T05:26:06.899Z",
   "categories": {
     "supplements": [
       {
@@ -248,6 +248,21 @@
         "added_date": "2026-02-03"
       },
       {
+        "id": "recK7ONoD6nNm0cFw",
+        "title": "Efficacy and Safety of Apixaban in Cancer-Associated Thromboembolism: A Narrative Review.",
+        "summary": "Apixaban shows promise as an effective, safer alternative to traditional blood thinners for preventing and treating blood clots in cancer patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41622537/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Leukemia",
+          "Kidney"
+        ],
+        "quality_score": 24,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-03"
+      },
+      {
         "id": "recFDhVgyfQZom5Ry",
         "title": "Multi-omics unravels multiple pharmacological actions in a murine model of infantile hemangioma receiving oxymatrine therapy.",
         "summary": "Oxymatrine effectively inhibits infantile hemangioma growth by targeting multiple molecular pathways in a mouse model, offering a potential alternative treatment for drug-resistant cases.",
@@ -414,21 +429,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-01"
-      },
-      {
-        "id": "rec9mOBV4KER1wEiG",
-        "title": "Synergistic Effects of Honokiol on Camptothecin-triggered Apoptosis of Drug-resistant Glioblastoma Cells via CDK1-mediated G2/M Arrest and Intrinsic ROS-Mitochondrion-dependent Pathway.",
-        "summary": "Honokiol combined with camptothecin effectively kills drug-resistant glioblastoma cells by enhancing cell death mechanisms at low, safe concentrations.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41617419/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia",
-          "Brain"
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
@@ -875,10 +875,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2705,
+    "archive_count": 2706,
     "archive_supplements": 407,
     "archive_off_label": 140,
-    "archive_biomarkers": 1285,
+    "archive_biomarkers": 1286,
     "archive_trials": 580
   }
 }
