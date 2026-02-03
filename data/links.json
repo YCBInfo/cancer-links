@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-03T05:33:29.496Z",
+  "last_updated": "2026-02-03T05:34:09.621Z",
   "categories": {
     "supplements": [
       {
@@ -293,6 +293,22 @@
         "added_date": "2026-02-03"
       },
       {
+        "id": "recmijA2NKuMiDKWl",
+        "title": "Liposomal Delivery of Pyronaridine as a Repurposed Inhibitor of ERCC1/XPF for the Sensitization of Colorectal Cancer Cells to Platinum Chemotherapeutics.",
+        "summary": "Liposomal pyronaridine sensitizes colorectal cancer cells to platinum chemotherapy by inhibiting DNA repair, potentially enhancing treatment effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41466566/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Colorectal",
+          "Leukemia",
+          "Kidney"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-03"
+      },
+      {
         "id": "recFDhVgyfQZom5Ry",
         "title": "Multi-omics unravels multiple pharmacological actions in a murine model of infantile hemangioma receiving oxymatrine therapy.",
         "summary": "Oxymatrine effectively inhibits infantile hemangioma growth by targeting multiple molecular pathways in a mouse model, offering a potential alternative treatment for drug-resistant cases.",
@@ -417,20 +433,6 @@
         "cancer_types": [
           "Breast",
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-01"
-      },
-      {
-        "id": "recQYTZykGOXbVcTe",
-        "title": "Sevoflurane's inhibitory effect on postoperative colorectal cancer cell proliferation.",
-        "summary": "Sevoflurane, a surgical anesthetic, showed potential in reducing the growth of colorectal cancer cells after surgery.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41546564/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Colorectal"
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
@@ -877,10 +879,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2747,
+    "archive_count": 2748,
     "archive_supplements": 411,
     "archive_off_label": 143,
-    "archive_biomarkers": 1317,
+    "archive_biomarkers": 1318,
     "archive_trials": 583
   }
 }
