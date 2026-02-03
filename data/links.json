@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-02T12:50:36.859Z",
+  "last_updated": "2026-02-03T05:01:55.290Z",
   "categories": {
     "supplements": [
       {
@@ -435,6 +435,34 @@
     ],
     "biomarkers": [
       {
+        "id": "recvj39bChTTQoTg3",
+        "title": "DNA methylation triage of human papillomavirus-positive atypical squamous cells of undetermined significance in cervical cancer screening.",
+        "summary": "A DNA methylation test could help reduce unnecessary colposcopy referrals for women with HPV and uncertain cervical cell changes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41627315/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-03"
+      },
+      {
+        "id": "recT8glJgFoyOgI51",
+        "title": "Malassezia globosa lipidome: The dynamics of uptake and secreted lipids.",
+        "summary": "A detailed analysis of Malassezia globosa lipid dynamics reveals complex consumption and secretion patterns of 87 lipids across different metabolic phases.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41627286/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-03"
+      },
+      {
         "id": "recCBRx39k3xzgVYY",
         "title": "Encapsulated Papillary Carcinoma of the Breast: Two Cases with Literature Review and Molecular Insights.",
         "summary": "A rare breast cancer subtype (encapsulated papillary carcinoma) typically shows favorable prognosis with high hormone receptor positivity in postmenopausal women.",
@@ -617,39 +645,23 @@
         "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-02"
-      },
-      {
-        "id": "recGRiN2Di17t4DqO",
-        "title": "[The effect of plasma exchange on immune function in patients with hyperbilirubinemia at different severity levels following liver cancer surgery].",
-        "summary": "Plasma exchange therapy significantly improved immune, liver, and coagulation functions across different severity levels in patients with hyperbilirubinemia after liver cancer surgery.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41620968/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Leukemia",
-          "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-02"
-      },
-      {
-        "id": "recAUJhAZoZAeCZgO",
-        "title": "Biosynthesis of Silver Nanoparticles Using Black Pepper (Piper nigrum) Seed Extract and Evaluation of Their Cytotoxicity.",
-        "summary": "Black pepper seed extract-derived silver nanoparticles showed enhanced cytotoxicity against gastric cancer cells, offering a promising green synthesis approach for targeted cancer treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41619307/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia",
-          "Stomach"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-02"
       }
     ],
     "trials": [
+      {
+        "id": "recvj39bChTTQoTg3",
+        "title": "DNA methylation triage of human papillomavirus-positive atypical squamous cells of undetermined significance in cervical cancer screening.",
+        "summary": "A DNA methylation test could help reduce unnecessary colposcopy referrals for women with HPV and uncertain cervical cell changes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41627315/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-03"
+      },
       {
         "id": "recCBRx39k3xzgVYY",
         "title": "Encapsulated Papillary Carcinoma of the Breast: Two Cases with Literature Review and Molecular Insights.",
@@ -851,20 +863,6 @@
         "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-02-02"
-      },
-      {
-        "id": "recXI9l4f4ORwnoDD",
-        "title": "Bioactivity-Guided Isolation of Cytotoxic Compounds From Curcuma caesia: In Vitro and In Silico Investigation for Oral Cancer.",
-        "summary": "Furanodienone, a sesquiterpenoid from Curcuma caesia, shows promising potential for oral cancer treatment by inhibiting cell growth and targeting key cancer-related proteins.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41420845/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-02"
       }
     ]
   },
@@ -874,10 +872,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2590,
+    "archive_count": 2591,
     "archive_supplements": 404,
     "archive_off_label": 139,
-    "archive_biomarkers": 1193,
+    "archive_biomarkers": 1194,
     "archive_trials": 561
   }
 }
