@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-03T05:01:55.290Z",
+  "last_updated": "2026-02-03T05:02:05.611Z",
   "categories": {
     "supplements": [
       {
@@ -463,6 +463,20 @@
         "added_date": "2026-02-03"
       },
       {
+        "id": "recnICZIdmXtjy8LD",
+        "title": "Adding anti-PD-1 antibody to definitive chemoradiotherapy in elderly patients with esophageal squamous cell carcinoma: higher intensity does not equate to better outcomes.",
+        "summary": "For elderly esophageal cancer patients, adding an anti-PD-1 antibody to standard chemoradiation did not improve treatment outcomes or survival.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41626750/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-03"
+      },
+      {
         "id": "recCBRx39k3xzgVYY",
         "title": "Encapsulated Papillary Carcinoma of the Breast: Two Cases with Literature Review and Molecular Insights.",
         "summary": "A rare breast cancer subtype (encapsulated papillary carcinoma) typically shows favorable prognosis with high hormone receptor positivity in postmenopausal women.",
@@ -631,20 +645,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-02"
-      },
-      {
-        "id": "recKoDeIlIWapw3ac",
-        "title": "[Exploring ferroptosis of immune cells: regulatory mechanisms, disease impacts, and emerging risks from environmental pollutants].",
-        "summary": "Here's a clear summary sentence:\n\nFerroptosis regulates immune cell function and may impact disease progression through complex mechanisms involving iron, oxidation, and cellular stress.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41620971/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-02"
       }
     ],
     "trials": [
@@ -659,6 +659,20 @@
           "Leukemia"
         ],
         "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-03"
+      },
+      {
+        "id": "recnICZIdmXtjy8LD",
+        "title": "Adding anti-PD-1 antibody to definitive chemoradiotherapy in elderly patients with esophageal squamous cell carcinoma: higher intensity does not equate to better outcomes.",
+        "summary": "For elderly esophageal cancer patients, adding an anti-PD-1 antibody to standard chemoradiation did not improve treatment outcomes or survival.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41626750/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-03"
       },
@@ -849,20 +863,6 @@
         "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-02-02"
-      },
-      {
-        "id": "rec9S9KQffeP8vbRD",
-        "title": "A Randomized, Open-Label Trial to Assess Feasibility and Tolerability of Topical Cannabis Balms for the Treatment of Aromatase Inhibitor-Associated Musculoskeletal Syndrome (AIMSS).",
-        "summary": "Cannabis-based topical balms may help reduce musculoskeletal pain and inflammation for breast cancer patients experiencing side effects from aromatase inhibitor treatments.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41467893/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-02"
       }
     ]
   },
@@ -872,10 +872,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2591,
+    "archive_count": 2592,
     "archive_supplements": 404,
     "archive_off_label": 139,
-    "archive_biomarkers": 1194,
+    "archive_biomarkers": 1195,
     "archive_trials": 561
   }
 }
