@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-03T05:36:30.482Z",
+  "last_updated": "2026-02-03T05:36:40.883Z",
   "categories": {
     "supplements": [
       {
@@ -323,6 +323,21 @@
         "added_date": "2026-02-03"
       },
       {
+        "id": "recexTzM6TndRFdzq",
+        "title": "ESR1-Activating Mutations Confer Metabolic Vulnerabilities in ER+ Breast Cancer.",
+        "summary": "ESR1 mutations in ER+ breast cancer reveal a vulnerability to ferroptosis, suggesting a potential new treatment approach with existing endocrine therapies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41201246/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-03"
+      },
+      {
         "id": "recFDhVgyfQZom5Ry",
         "title": "Multi-omics unravels multiple pharmacological actions in a murine model of infantile hemangioma receiving oxymatrine therapy.",
         "summary": "Oxymatrine effectively inhibits infantile hemangioma growth by targeting multiple molecular pathways in a mouse model, offering a potential alternative treatment for drug-resistant cases.",
@@ -418,20 +433,6 @@
         "cancer_types": [
           "Leukemia",
           "Ovarian"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-01"
-      },
-      {
-        "id": "recMdUpQzRZZ58a1M",
-        "title": "Metformin glycyrrhetinic acid binary injectable hydrogel for synergistic tumor immunotherapy via spatiotemporal microenvironment remodeling.",
-        "summary": "An injectable hydrogel combining metformin and glycyrrhetinic acid with magnetic nanoparticles successfully reprograms the tumor immune environment, enhancing cancer immunotherapy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41560796/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
@@ -878,10 +879,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2759,
+    "archive_count": 2760,
     "archive_supplements": 411,
     "archive_off_label": 145,
-    "archive_biomarkers": 1327,
+    "archive_biomarkers": 1328,
     "archive_trials": 583
   }
 }
