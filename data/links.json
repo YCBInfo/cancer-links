@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-03T05:40:01.993Z",
+  "last_updated": "2026-02-03T05:40:12.940Z",
   "categories": {
     "supplements": [
       {
@@ -134,6 +134,20 @@
         "added_date": "2026-02-03"
       },
       {
+        "id": "rec2iZUcuA694g1pn",
+        "title": "Nutritional and Health Potential of Edible Seeds: Micronutrient Bioavailability and Mechanistic Insights.",
+        "summary": "Edible seeds like pumpkin, flax, and chia contain powerful bioactive compounds that can help prevent chronic diseases and potentially support anti-cancer and cardiovascular health.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41625268/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-03"
+      },
+      {
         "id": "recFDhVgyfQZom5Ry",
         "title": "Multi-omics unravels multiple pharmacological actions in a murine model of infantile hemangioma receiving oxymatrine therapy.",
         "summary": "Oxymatrine effectively inhibits infantile hemangioma growth by targeting multiple molecular pathways in a mouse model, offering a potential alternative treatment for drug-resistant cases.",
@@ -199,21 +213,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-02"
-      },
-      {
-        "id": "recB2HCEDBRYc0FQd",
-        "title": "Stigmasterol Inhibits Glioma Metastasis and Angiogenesis by Regulating Macrophage Polarization.",
-        "summary": "Stigmasterol inhibits glioma growth and spread by blocking the transformation of macrophages into tumor-promoting forms, reducing cancer progression.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41618737/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Melanoma",
-          "Brain"
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
@@ -880,10 +879,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2780,
+    "archive_count": 2781,
     "archive_supplements": 412,
     "archive_off_label": 145,
-    "archive_biomarkers": 1343,
+    "archive_biomarkers": 1344,
     "archive_trials": 587
   }
 }
