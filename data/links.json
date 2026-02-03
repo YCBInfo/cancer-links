@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-03T05:02:05.611Z",
+  "last_updated": "2026-02-03T05:02:15.225Z",
   "categories": {
     "supplements": [
       {
@@ -477,6 +477,20 @@
         "added_date": "2026-02-03"
       },
       {
+        "id": "recbqAWeFWEYDRuv2",
+        "title": "GNE-related thrombocytopenia (Thrombocytopenia-12) in a 3-month-old from a Middle Eastern background infant: a case report.",
+        "summary": "Researchers identified a rare genetic mutation causing low platelet count in a young infant from a Middle Eastern family, expanding understanding of congenital thrombocytopenia.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41622814/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-03"
+      },
+      {
         "id": "recCBRx39k3xzgVYY",
         "title": "Encapsulated Papillary Carcinoma of the Breast: Two Cases with Literature Review and Molecular Insights.",
         "summary": "A rare breast cancer subtype (encapsulated papillary carcinoma) typically shows favorable prognosis with high hormone receptor positivity in postmenopausal women.",
@@ -631,20 +645,6 @@
         "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-02"
-      },
-      {
-        "id": "rec25eYFJta6BJsOd",
-        "title": "Sodium butyrate induces apoptosis enhanced by JAK2 inhibitor Fedratinib in NK/T-cell lymphoma cell.",
-        "summary": "Combining sodium butyrate and the JAK2 inhibitor Fedratinib effectively triggered cell death in NK/T-cell lymphoma cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41621012/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Lymphoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-02"
       }
     ],
     "trials": [
@@ -673,6 +673,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-03"
+      },
+      {
+        "id": "recbqAWeFWEYDRuv2",
+        "title": "GNE-related thrombocytopenia (Thrombocytopenia-12) in a 3-month-old from a Middle Eastern background infant: a case report.",
+        "summary": "Researchers identified a rare genetic mutation causing low platelet count in a young infant from a Middle Eastern family, expanding understanding of congenital thrombocytopenia.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41622814/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-03"
       },
@@ -848,21 +862,6 @@
         "quality_score": 12,
         "pub_date": "2026-01-01",
         "added_date": "2026-02-02"
-      },
-      {
-        "id": "recB2HCEDBRYc0FQd",
-        "title": "Stigmasterol Inhibits Glioma Metastasis and Angiogenesis by Regulating Macrophage Polarization.",
-        "summary": "Stigmasterol inhibits glioma growth and spread by blocking the transformation of macrophages into tumor-promoting forms, reducing cancer progression.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41618737/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Melanoma",
-          "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-02"
       }
     ]
   },
@@ -872,10 +871,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2592,
+    "archive_count": 2593,
     "archive_supplements": 404,
     "archive_off_label": 139,
     "archive_biomarkers": 1195,
-    "archive_trials": 561
+    "archive_trials": 562
   }
 }
