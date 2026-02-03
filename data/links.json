@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-03T05:28:16.907Z",
+  "last_updated": "2026-02-03T05:28:27.987Z",
   "categories": {
     "supplements": [
       {
@@ -263,6 +263,20 @@
         "added_date": "2026-02-03"
       },
       {
+        "id": "recKfFCoYUfYvFnT8",
+        "title": "Sex‑specific cardiovascular risk in estrogen‑treated androgen‑deprived males: metabolic characterization of glucose, adipose, and lipid pathways.",
+        "summary": "Estrogen treatment in prostate cancer patients may increase cardiovascular disease risk by disrupting metabolic pathways in males.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41622197/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-03"
+      },
+      {
         "id": "recFDhVgyfQZom5Ry",
         "title": "Multi-omics unravels multiple pharmacological actions in a murine model of infantile hemangioma receiving oxymatrine therapy.",
         "summary": "Oxymatrine effectively inhibits infantile hemangioma growth by targeting multiple molecular pathways in a mouse model, offering a potential alternative treatment for drug-resistant cases.",
@@ -411,20 +425,6 @@
         "title": "Lack of Cancer Specificity of Methionine Adenosyltransferase 2A (MAT2A) Inhibitor AG-270 in Combination With Recombinant Methioninase In Vitro.",
         "summary": "The study found that the MAT2A inhibitor AG-270 was not cancer-specific when combined with methioninase, challenging its potential as a targeted anti-cancer treatment.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41617456/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-01"
-      },
-      {
-        "id": "recdoFIsC2laNJryr",
-        "title": "Targeted Sensitization of Leukemic T-cells to Anticancer Drugs by SIRT1 Agonist SRT-1720.",
-        "summary": "SRT-1720, a SIRT1 agonist, enhances leukemia treatment by increasing cancer cell sensitivity to anticancer drugs while sparing normal lymphocytes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41617434/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -875,10 +875,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2719,
+    "archive_count": 2720,
     "archive_supplements": 408,
     "archive_off_label": 141,
-    "archive_biomarkers": 1296,
+    "archive_biomarkers": 1297,
     "archive_trials": 581
   }
 }
