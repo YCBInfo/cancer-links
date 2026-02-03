@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-03T05:29:17.434Z",
+  "last_updated": "2026-02-03T05:29:47.583Z",
   "categories": {
     "supplements": [
       {
@@ -68,6 +68,21 @@
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-03"
+      },
+      {
+        "id": "recQd5OkU23bygB3L",
+        "title": "Green-Synthesized Silver Nanoparticles from Penicillium oxalicum with Antibreast Cancer Activities In Vitro and In Vivo.",
+        "summary": "Green-synthesized silver nanoparticles from a fungal source demonstrated significant anticancer effects against breast cancer cells by inducing cell death and inhibiting tumor growth.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41556375/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast",
           "Leukemia"
         ],
         "quality_score": 15,
@@ -193,20 +208,6 @@
         "title": "Bioactivity-Guided Isolation of Cytotoxic Compounds From Curcuma caesia: In Vitro and In Silico Investigation for Oral Cancer.",
         "summary": "Furanodienone, a sesquiterpenoid from Curcuma caesia, shows promising potential for oral cancer treatment by inhibiting cell growth and targeting key cancer-related proteins.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41420845/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-02"
-      },
-      {
-        "id": "rec3gsmWYPtmR0djJ",
-        "title": "Gas Chromatography-Mass Spectrometry-Based Phytochemical Composition and Bioactivities of Lilium polyphyllum Bulb Extracts: Insights Into Anticancer and Antidiabetic Potential.",
-        "summary": "Lilium polyphyllum bulb extracts demonstrated potent anticancer activity against leukemia cells and potential antidiabetic properties through unique phytochemical compounds.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41417566/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -875,8 +876,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2724,
-    "archive_supplements": 408,
+    "archive_count": 2725,
+    "archive_supplements": 409,
     "archive_off_label": 142,
     "archive_biomarkers": 1300,
     "archive_trials": 581
