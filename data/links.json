@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-03T05:10:30.926Z",
+  "last_updated": "2026-02-03T05:10:39.020Z",
   "categories": {
     "supplements": [
       {
@@ -218,6 +218,21 @@
     ],
     "off_label": [
       {
+        "id": "recqGX81cVdHDQ0xM",
+        "title": "Kisspeptin improves local ovarian insulin resistance in PCOS by modulating the PI3K/AKT/GLUT4 signaling pathway.",
+        "summary": "Kisspeptin treatment helped reduce insulin resistance in women with polycystic ovary syndrome by improving insulin signaling in ovarian cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41628190/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia",
+          "Ovarian"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-03"
+      },
+      {
         "id": "recFDhVgyfQZom5Ry",
         "title": "Multi-omics unravels multiple pharmacological actions in a murine model of infantile hemangioma receiving oxymatrine therapy.",
         "summary": "Oxymatrine effectively inhibits infantile hemangioma growth by targeting multiple molecular pathways in a mouse model, offering a potential alternative treatment for drug-resistant cases.",
@@ -413,20 +428,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-01"
-      },
-      {
-        "id": "recfE5b4L05BgP1QT",
-        "title": "Clinical efficacy and mechanism of polyene phosphatidylcholine combined with atorvastatin in treating metabolic associated fatty liver disease.",
-        "summary": "Here's a clear, concise summary sentence:\n\nCombining polyene phosphatidylcholine with atorvastatin showed promise in treating metabolic fatty liver disease, potentially reducing risks of liver cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41546577/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Liver"
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
@@ -873,10 +874,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2613,
+    "archive_count": 2614,
     "archive_supplements": 404,
     "archive_off_label": 139,
-    "archive_biomarkers": 1212,
+    "archive_biomarkers": 1213,
     "archive_trials": 565
   }
 }
