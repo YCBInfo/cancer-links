@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-03T05:26:26.056Z",
+  "last_updated": "2026-02-03T05:26:36.110Z",
   "categories": {
     "supplements": [
       {
@@ -54,6 +54,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Melanoma",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-03"
+      },
+      {
+        "id": "recDIBvihvcEaPIAL",
+        "title": "From Signaling Pathways to Combination Therapy: Bioactive Compounds against Cancer Stem Cells.",
+        "summary": "Here's a clear summary sentence:\n\nBioactive compounds from natural sources show promise in targeting cancer stem cells' key survival mechanisms and potentially improving treatment outcomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41622398/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
           "Leukemia"
         ],
         "quality_score": 15,
@@ -193,20 +207,6 @@
         "title": "Gas Chromatography-Mass Spectrometry-Based Phytochemical Composition and Bioactivities of Lilium polyphyllum Bulb Extracts: Insights Into Anticancer and Antidiabetic Potential.",
         "summary": "Lilium polyphyllum bulb extracts demonstrated potent anticancer activity against leukemia cells and potential antidiabetic properties through unique phytochemical compounds.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41417566/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-02"
-      },
-      {
-        "id": "recJvosSMFRZZEBW4",
-        "title": "Antidepressant-Like Mechanisms of Gekko gecko Active Compounds: Multi-Omics Elucidation of the cAMP-PRKACA-BDNF Signaling Axis.",
-        "summary": "Gekko gecko compounds showed antidepressant effects in mice by activating key brain signaling pathways and reducing neuroinflammation.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41417271/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -875,10 +875,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2708,
+    "archive_count": 2709,
     "archive_supplements": 407,
     "archive_off_label": 141,
-    "archive_biomarkers": 1287,
+    "archive_biomarkers": 1288,
     "archive_trials": 580
   }
 }
