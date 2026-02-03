@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-03T05:02:25.045Z",
+  "last_updated": "2026-02-03T05:03:05.924Z",
   "categories": {
     "supplements": [
       {
@@ -491,6 +491,20 @@
         "added_date": "2026-02-03"
       },
       {
+        "id": "recBDaQLkZzsFb8I0",
+        "title": "Non-coding small RNAs buffer protein interactions to prevent oncogenic aggregation: structural dampening of aberrant PPIs by RNA.",
+        "summary": "Non-coding RNAs can prevent cancer-causing protein aggregation by buffering protein interactions and maintaining structural stability in molecular complexes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41605259/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-03"
+      },
+      {
         "id": "recCBRx39k3xzgVYY",
         "title": "Encapsulated Papillary Carcinoma of the Breast: Two Cases with Literature Review and Molecular Insights.",
         "summary": "A rare breast cancer subtype (encapsulated papillary carcinoma) typically shows favorable prognosis with high hormone receptor positivity in postmenopausal women.",
@@ -631,20 +645,6 @@
         "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-02-02"
-      },
-      {
-        "id": "recFDhVgyfQZom5Ry",
-        "title": "Multi-omics unravels multiple pharmacological actions in a murine model of infantile hemangioma receiving oxymatrine therapy.",
-        "summary": "Oxymatrine effectively inhibits infantile hemangioma growth by targeting multiple molecular pathways in a mouse model, offering a potential alternative treatment for drug-resistant cases.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41621031/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-02"
       }
     ],
     "trials": [
@@ -688,6 +688,20 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
+        "added_date": "2026-02-03"
+      },
+      {
+        "id": "recBDaQLkZzsFb8I0",
+        "title": "Non-coding small RNAs buffer protein interactions to prevent oncogenic aggregation: structural dampening of aberrant PPIs by RNA.",
+        "summary": "Non-coding RNAs can prevent cancer-causing protein aggregation by buffering protein interactions and maintaining structural stability in molecular complexes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41605259/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
         "added_date": "2026-02-03"
       },
       {
@@ -848,20 +862,6 @@
         "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-02-02"
-      },
-      {
-        "id": "recgp1jUatmdgywnj",
-        "title": "Design, Synthesis and Biological Evaluation of Aminoalkylated Paeonol Chalcone Derivatives.",
-        "summary": "A newly synthesized paeonol chalcone derivative (4k) showed potent anticancer activity against multiple cancer cell lines, particularly cervical cancer, by inducing apoptosis and cell cycle arrest.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41618747/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-02"
       }
     ]
   },
@@ -871,10 +871,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2594,
+    "archive_count": 2595,
     "archive_supplements": 404,
     "archive_off_label": 139,
-    "archive_biomarkers": 1196,
+    "archive_biomarkers": 1197,
     "archive_trials": 562
   }
 }
