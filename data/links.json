@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-03T05:17:22.391Z",
+  "last_updated": "2026-02-03T05:17:31.758Z",
   "categories": {
     "supplements": [
       {
@@ -232,6 +232,20 @@
         "added_date": "2026-02-03"
       },
       {
+        "id": "recKTY5wfWx1QdvSM",
+        "title": "Lacosamide prevents cyclophosphamide-induced testicular dysfunction via inhibition of NF-κB/IL-6/STAT-3 and JNK1/Caspase-3 axes with AR and HO-1 preservation: in vivo and in silico evidence.",
+        "summary": "Lacosamide protects against chemotherapy-induced testicular damage in rats by reducing inflammation, preventing cell death, and preserving hormone and sperm function.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41627387/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-03"
+      },
+      {
         "id": "recFDhVgyfQZom5Ry",
         "title": "Multi-omics unravels multiple pharmacological actions in a murine model of infantile hemangioma receiving oxymatrine therapy.",
         "summary": "Oxymatrine effectively inhibits infantile hemangioma growth by targeting multiple molecular pathways in a mouse model, offering a potential alternative treatment for drug-resistant cases.",
@@ -413,20 +427,6 @@
         "cancer_types": [
           "Leukemia",
           "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-01"
-      },
-      {
-        "id": "recl7txt43eDtHXJK",
-        "title": "Understanding obesity-cancer crosstalk to inform the immunomodulatory roles of anti-obesity nanotherapeutics.",
-        "summary": "Nanomedicine targeting adipose inflammation shows promise in potentially reducing obesity-related cancer progression by modulating immune responses and metabolic dysfunction.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41551882/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
@@ -873,10 +873,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2654,
+    "archive_count": 2655,
     "archive_supplements": 405,
     "archive_off_label": 139,
     "archive_biomarkers": 1245,
-    "archive_trials": 572
+    "archive_trials": 573
   }
 }
