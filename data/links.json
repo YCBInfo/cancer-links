@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-03T05:23:55.515Z",
+  "last_updated": "2026-02-03T05:24:04.830Z",
   "categories": {
     "supplements": [
       {
@@ -39,6 +39,21 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Colorectal",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-03"
+      },
+      {
+        "id": "recKLif3SHrsMA4xA",
+        "title": "Calotropis procera flower extracts: a green approach to zinc oxide with a pineapple-like nanoleaf morphology for biological applications.",
+        "summary": "Zinc oxide nanoparticles derived from Calotropis procera flower extract effectively killed A431 skin cancer cells and E. coli bacteria through reactive oxygen species generation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41623115/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Melanoma",
           "Leukemia"
         ],
         "quality_score": 15,
@@ -199,20 +214,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
-        "added_date": "2026-02-02"
-      },
-      {
-        "id": "recug7fy5n5MeeLJB",
-        "title": "[A network pharmacology-based study to explore the mechanism of a novel sleep-aiding soup for the treatment of insomnia by modulating microglia activation].",
-        "summary": "A novel sleep-aid herbal decoction suppresses microglial inflammation through multiple signaling pathways, potentially alleviating insomnia by reducing neuroinflammatory responses.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41620965/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
         "added_date": "2026-02-02"
       }
     ],
@@ -874,10 +875,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2693,
+    "archive_count": 2694,
     "archive_supplements": 406,
     "archive_off_label": 140,
-    "archive_biomarkers": 1274,
+    "archive_biomarkers": 1275,
     "archive_trials": 580
   }
 }
