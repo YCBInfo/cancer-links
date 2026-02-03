@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-03T05:35:10.042Z",
+  "last_updated": "2026-02-03T05:35:51.380Z",
   "categories": {
     "supplements": [
       {
@@ -309,6 +309,20 @@
         "added_date": "2026-02-03"
       },
       {
+        "id": "recDZMNd2I0dhDGVQ",
+        "title": "Drink Responsibly: Cancer Cells Also Like Sugary Drinks.",
+        "summary": "Sugar-sweetened beverages enhance colorectal cancer metastasis by boosting cell metabolism and migration through an enzyme-driven process involving glucose and fructose.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41329700/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-03"
+      },
+      {
         "id": "recFDhVgyfQZom5Ry",
         "title": "Multi-omics unravels multiple pharmacological actions in a murine model of infantile hemangioma receiving oxymatrine therapy.",
         "summary": "Oxymatrine effectively inhibits infantile hemangioma growth by targeting multiple molecular pathways in a mouse model, offering a potential alternative treatment for drug-resistant cases.",
@@ -417,21 +431,6 @@
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-01"
-      },
-      {
-        "id": "reclBtG6LdLt4fd0B",
-        "title": "Biomimetic hybrid membrane-coated nanoparticles loaded with rhein-iron complex enhance ferroptosis and immunotherapy for triple-negative breast cancer.",
-        "summary": "Nanoparticles loaded with rhein-iron complex effectively induce cancer cell death and boost immune response in aggressive triple-negative breast cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41551883/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Breast",
           "Leukemia"
         ],
         "quality_score": 15,
@@ -879,10 +878,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2754,
+    "archive_count": 2755,
     "archive_supplements": 411,
     "archive_off_label": 144,
-    "archive_biomarkers": 1323,
+    "archive_biomarkers": 1324,
     "archive_trials": 583
   }
 }
