@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-03T05:23:24.515Z",
+  "last_updated": "2026-02-03T05:23:34.794Z",
   "categories": {
     "supplements": [
       {
@@ -24,6 +24,21 @@
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-03"
+      },
+      {
+        "id": "recbOHe7k03AS86W7",
+        "title": "Proanthocyanidins enhance antitumor immunity by promoting ubiquitin-proteasomal PD-L1 degradation via stabilization of LKB1 and SYVN1.",
+        "summary": "Proanthocyanidins enhance cancer immunotherapy by targeting PD-L1 for degradation, activating T-cell responses and suppressing immunosuppressive cells in lung and colorectal cancers.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41623165/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal",
           "Leukemia"
         ],
         "quality_score": 15,
@@ -198,20 +213,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
-        "added_date": "2026-02-02"
-      },
-      {
-        "id": "recB2GkruYH5M8oeZ",
-        "title": "Four New Triterpenoids From Rubus pirifolius Smith.",
-        "summary": "Two triterpenoid compounds from Rubus pirifolius showed promising cytotoxic activity against five different cancer cell lines, including leukemia and breast cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41619287/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
         "added_date": "2026-02-02"
       }
     ],
@@ -873,10 +874,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2690,
+    "archive_count": 2691,
     "archive_supplements": 405,
     "archive_off_label": 140,
-    "archive_biomarkers": 1272,
+    "archive_biomarkers": 1273,
     "archive_trials": 580
   }
 }
