@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-03T05:31:28.299Z",
+  "last_updated": "2026-02-03T05:31:38.551Z",
   "categories": {
     "supplements": [
       {
@@ -278,6 +278,20 @@
         "added_date": "2026-02-03"
       },
       {
+        "id": "recu5D9SMSzS0mjM5",
+        "title": "Nanoparticles for Delivery of Encapsulated Drugs to Hypoxic Pancreatic Ductal Adenocarcinoma Cell Spheroids.",
+        "summary": "Nanoparticles delivering a CXCR4 inhibitor and gemcitabine effectively reduced pancreatic cancer cell growth and survival under low-oxygen conditions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41531194/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-03"
+      },
+      {
         "id": "recFDhVgyfQZom5Ry",
         "title": "Multi-omics unravels multiple pharmacological actions in a murine model of infantile hemangioma receiving oxymatrine therapy.",
         "summary": "Oxymatrine effectively inhibits infantile hemangioma growth by targeting multiple molecular pathways in a mouse model, offering a potential alternative treatment for drug-resistant cases.",
@@ -416,20 +430,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-01"
-      },
-      {
-        "id": "rec8EuvjJme2vkEtV",
-        "title": "Lack of Cancer Specificity of Methionine Adenosyltransferase 2A (MAT2A) Inhibitor AG-270 in Combination With Recombinant Methioninase In Vitro.",
-        "summary": "The study found that the MAT2A inhibitor AG-270 was not cancer-specific when combined with methioninase, challenging its potential as a targeted anti-cancer treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41617456/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
@@ -876,10 +876,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2735,
+    "archive_count": 2736,
     "archive_supplements": 409,
     "archive_off_label": 142,
-    "archive_biomarkers": 1309,
+    "archive_biomarkers": 1310,
     "archive_trials": 582
   }
 }
