@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-03T05:31:59.269Z",
+  "last_updated": "2026-02-03T05:32:09.043Z",
   "categories": {
     "supplements": [
       {
@@ -83,6 +83,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Breast",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-03"
+      },
+      {
+        "id": "recoEQcR3NXa7hQIP",
+        "title": "Synthesis and Acidic pH-Responsive Disassembly of Dual-Location Shell-Sheddable/Core-Degradable Block Copolymer Nanoassemblies and Their Controlled Drug Delivery.",
+        "summary": "Researchers developed smart nanoparticles with two acid-sensitive locations that more efficiently release curcumin in cancer cells, improving targeted drug delivery.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41524627/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
           "Leukemia"
         ],
         "quality_score": 15,
@@ -198,20 +212,6 @@
         "category": "Clinical Trials",
         "cancer_types": [
           "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-02"
-      },
-      {
-        "id": "recXI9l4f4ORwnoDD",
-        "title": "Bioactivity-Guided Isolation of Cytotoxic Compounds From Curcuma caesia: In Vitro and In Silico Investigation for Oral Cancer.",
-        "summary": "Furanodienone, a sesquiterpenoid from Curcuma caesia, shows promising potential for oral cancer treatment by inhibiting cell growth and targeting key cancer-related proteins.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41420845/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
@@ -876,10 +876,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2738,
+    "archive_count": 2739,
     "archive_supplements": 409,
     "archive_off_label": 143,
-    "archive_biomarkers": 1310,
+    "archive_biomarkers": 1311,
     "archive_trials": 583
   }
 }
