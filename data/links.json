@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-04T05:07:08.100Z",
+  "last_updated": "2026-02-04T05:07:17.956Z",
   "categories": {
     "supplements": [
       {
@@ -641,18 +641,18 @@
         "added_date": "2026-02-04"
       },
       {
-        "id": "recvj39bChTTQoTg3",
-        "title": "DNA methylation triage of human papillomavirus-positive atypical squamous cells of undetermined significance in cervical cancer screening.",
-        "summary": "A DNA methylation test could help reduce unnecessary colposcopy referrals for women with HPV and uncertain cervical cell changes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41627315/",
+        "id": "reczQ7II864j208kN",
+        "title": "Proteasome Subunit PSMD1 is a Key Therapeutic Target in Multiple Myeloma.",
+        "summary": "PSMD1 gene silencing in multiple myeloma reduced tumor growth, induced cancer cell death, and overcame drug resistance through targeted nanoparticle delivery.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41632828/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Leukemia"
         ],
-        "quality_score": 0,
+        "quality_score": 15,
         "pub_date": "2026-02-01",
-        "added_date": "2026-02-03"
+        "added_date": "2026-02-04"
       }
     ],
     "trials": [
@@ -789,6 +789,20 @@
         "added_date": "2026-02-04"
       },
       {
+        "id": "reczQ7II864j208kN",
+        "title": "Proteasome Subunit PSMD1 is a Key Therapeutic Target in Multiple Myeloma.",
+        "summary": "PSMD1 gene silencing in multiple myeloma reduced tumor growth, induced cancer cell death, and overcame drug resistance through targeted nanoparticle delivery.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41632828/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-04"
+      },
+      {
         "id": "recvj39bChTTQoTg3",
         "title": "DNA methylation triage of human papillomavirus-positive atypical squamous cells of undetermined significance in cervical cancer screening.",
         "summary": "A DNA methylation test could help reduce unnecessary colposcopy referrals for women with HPV and uncertain cervical cell changes.",
@@ -857,21 +871,6 @@
         "quality_score": 0,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-03"
-      },
-      {
-        "id": "reccTWpo3LQddnIv2",
-        "title": "Chimeric Antigen Receptor Regulatory T Cells Targeted Against Oxidized Low-Density Lipoprotein Reduce Atherosclerotic Plaque Development.",
-        "summary": "Engineered regulatory T cells targeting oxidized low-density lipoprotein significantly reduced atherosclerotic plaque development, offering a potential new treatment approach for cardiovascular disease.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41268661/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Melanoma",
-          "Leukemia"
-        ],
-        "quality_score": 0,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-03"
       }
     ]
   },
@@ -881,10 +880,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2912,
+    "archive_count": 2913,
     "archive_supplements": 422,
     "archive_off_label": 154,
-    "archive_biomarkers": 1421,
+    "archive_biomarkers": 1422,
     "archive_trials": 617
   }
 }
