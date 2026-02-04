@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-04T09:19:18.617Z",
+  "last_updated": "2026-02-04T09:19:26.800Z",
   "categories": {
     "supplements": [
       {
@@ -381,6 +381,20 @@
         "added_date": "2026-02-04"
       },
       {
+        "id": "rec3p2KTjPZiLoZ8x",
+        "title": "Cannabinoids and drug-drug pharmacokinetic interactions: Deciphering the risks.",
+        "summary": "Here's a clear, concise summary sentence:\n\nThis review explores potential drug interactions between cannabinoids and medications used to treat mental health disorders, cancer, and cardiometabolic diseases.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41633759/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-04"
+      },
+      {
         "id": "recqGX81cVdHDQ0xM",
         "title": "Kisspeptin improves local ovarian insulin resistance in PCOS by modulating the PI3K/AKT/GLUT4 signaling pathway.",
         "summary": "Kisspeptin treatment helped reduce insulin resistance in women with polycystic ovary syndrome by improving insulin signaling in ovarian cells.",
@@ -419,20 +433,6 @@
         "cancer_types": [
           "Leukemia",
           "Kidney"
-        ],
-        "quality_score": 0,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-03"
-      },
-      {
-        "id": "recKfFCoYUfYvFnT8",
-        "title": "Sex‑specific cardiovascular risk in estrogen‑treated androgen‑deprived males: metabolic characterization of glucose, adipose, and lipid pathways.",
-        "summary": "Estrogen treatment in prostate cancer patients may increase cardiovascular disease risk by disrupting metabolic pathways in males.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41622197/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Prostate"
         ],
         "quality_score": 0,
         "pub_date": "2026-02-01",
@@ -884,10 +884,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3145,
+    "archive_count": 3146,
     "archive_supplements": 436,
     "archive_off_label": 158,
-    "archive_biomarkers": 1588,
+    "archive_biomarkers": 1589,
     "archive_trials": 665
   }
 }
