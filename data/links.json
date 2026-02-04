@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-04T05:07:48.923Z",
+  "last_updated": "2026-02-04T05:07:58.850Z",
   "categories": {
     "supplements": [
       {
@@ -817,6 +817,20 @@
         "added_date": "2026-02-04"
       },
       {
+        "id": "recJD3nQUeRCUWcDv",
+        "title": "Multilevel factors influencing colorectal cancer screening adherence: A systematic literature review.",
+        "summary": "A comprehensive review reveals that patient, provider, and systemic factors interact to influence colorectal cancer screening participation, highlighting the need for multilevel interventions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41632768/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 22,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-04"
+      },
+      {
         "id": "recvj39bChTTQoTg3",
         "title": "DNA methylation triage of human papillomavirus-positive atypical squamous cells of undetermined significance in cervical cancer screening.",
         "summary": "A DNA methylation test could help reduce unnecessary colposcopy referrals for women with HPV and uncertain cervical cell changes.",
@@ -857,20 +871,6 @@
         "quality_score": 0,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-03"
-      },
-      {
-        "id": "recBDaQLkZzsFb8I0",
-        "title": "Non-coding small RNAs buffer protein interactions to prevent oncogenic aggregation: structural dampening of aberrant PPIs by RNA.",
-        "summary": "Non-coding RNAs can prevent cancer-causing protein aggregation by buffering protein interactions and maintaining structural stability in molecular complexes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41605259/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-03"
       }
     ]
   },
@@ -880,10 +880,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2916,
+    "archive_count": 2917,
     "archive_supplements": 422,
     "archive_off_label": 154,
-    "archive_biomarkers": 1425,
+    "archive_biomarkers": 1426,
     "archive_trials": 617
   }
 }
