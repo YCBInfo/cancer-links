@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-04T05:09:59.174Z",
+  "last_updated": "2026-02-04T05:10:09.616Z",
   "categories": {
     "supplements": [
       {
@@ -221,6 +221,20 @@
     ],
     "off_label": [
       {
+        "id": "recEkzKnehTmOdxUY",
+        "title": "Age-stratified clinical outcomes and adverse events in patients with metastatic castration-sensitive prostate cancer receiving triplet therapy with darolutamide, androgen deprivation therapy, and docetaxel.",
+        "summary": "Here's a clear, concise summary sentence:\n\nIn metastatic prostate cancer, older and younger patients receiving a triple drug combination showed similar treatment responses and manageable side effects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41632522/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-04"
+      },
+      {
         "id": "recqGX81cVdHDQ0xM",
         "title": "Kisspeptin improves local ovarian insulin resistance in PCOS by modulating the PI3K/AKT/GLUT4 signaling pathway.",
         "summary": "Kisspeptin treatment helped reduce insulin resistance in women with polycystic ovary syndrome by improving insulin signaling in ovarian cells.",
@@ -416,21 +430,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "General"
-        ],
-        "quality_score": 0,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-03"
-      },
-      {
-        "id": "recMoZRcaEe7YVAhd",
-        "title": "Enhanced Polarity of Sulfonamide Metformin Derivatives Increases Cellular Uptake and Apoptosis-Inducing Effects in Human Breast Cancer Cells.",
-        "summary": "Sulfonamide modifications to metformin improved cellular uptake and apoptosis in breast cancer cells by enhancing interactions with membrane transporters and chemical polarity.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/40977543/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Breast",
-          "Leukemia"
         ],
         "quality_score": 0,
         "pub_date": "2026-02-01",
@@ -882,10 +881,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2929,
+    "archive_count": 2930,
     "archive_supplements": 422,
     "archive_off_label": 154,
-    "archive_biomarkers": 1435,
+    "archive_biomarkers": 1436,
     "archive_trials": 620
   }
 }
