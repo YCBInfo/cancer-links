@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-04T05:32:30.507Z",
+  "last_updated": "2026-02-04T05:32:40.004Z",
   "categories": {
     "supplements": [
       {
@@ -70,6 +70,21 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-04"
+      },
+      {
+        "id": "recxxrqNoYE3URrbN",
+        "title": "20(R)-Ginsenoside Rg3 Suppresses P-Glycoprotein-Mediated Multidrug Resistance in A549/Taxol Cells by Targeting MDM2-IκB-α Signaling Axis.",
+        "summary": "20(R)-Ginsenoside Rg3 disrupts a key molecular pathway in drug-resistant lung cancer cells, potentially increasing their sensitivity to chemotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41630373/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lung",
+          "Leukemia"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-04"
       },
@@ -198,20 +213,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Breast",
-          "Leukemia"
-        ],
-        "quality_score": 0,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-03"
-      },
-      {
-        "id": "rec2iZUcuA694g1pn",
-        "title": "Nutritional and Health Potential of Edible Seeds: Micronutrient Bioavailability and Mechanistic Insights.",
-        "summary": "Edible seeds like pumpkin, flax, and chia contain powerful bioactive compounds that can help prevent chronic diseases and potentially support anti-cancer and cardiovascular health.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41625268/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
           "Leukemia"
         ],
         "quality_score": 0,
@@ -884,10 +885,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3053,
+    "archive_count": 3054,
     "archive_supplements": 425,
     "archive_off_label": 155,
-    "archive_biomarkers": 1531,
+    "archive_biomarkers": 1532,
     "archive_trials": 644
   }
 }
