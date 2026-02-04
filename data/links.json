@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-04T09:10:50.374Z",
+  "last_updated": "2026-02-04T09:11:00.488Z",
   "categories": {
     "supplements": [
       {
@@ -175,6 +175,21 @@
         "added_date": "2026-02-04"
       },
       {
+        "id": "recAkjeTTvSyG0Syg",
+        "title": "A comparative study of some NSAIDs with natural products: integrating in vitro anticancer efficacy, in vivo antiulcerative effect, histochemistry, and in silico analysis.",
+        "summary": "Celecoxib combined with taxifolin showed promising anticancer effects against breast and colon cancer cells and reduced gastric mucosal injury in rats.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41634337/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-04"
+      },
+      {
         "id": "reclCzIicCWOwDTXR",
         "title": "Optimization, characterization and biological activity of siderophore produced by marine Streptomyces coelicolor.",
         "summary": "Marine Streptomyces coelicolor-derived siderophore ferrioxamine effectively inhibited breast cancer cell (MCF-7) proliferation by disrupting iron homeostasis.",
@@ -196,21 +211,6 @@
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 0,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-03"
-      },
-      {
-        "id": "recbOHe7k03AS86W7",
-        "title": "Proanthocyanidins enhance antitumor immunity by promoting ubiquitin-proteasomal PD-L1 degradation via stabilization of LKB1 and SYVN1.",
-        "summary": "Proanthocyanidins enhance cancer immunotherapy by targeting PD-L1 for degradation, activating T-cell responses and suppressing immunosuppressive cells in lung and colorectal cancers.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41623165/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal",
           "Leukemia"
         ],
         "quality_score": 0,
@@ -350,6 +350,21 @@
         "added_date": "2026-02-04"
       },
       {
+        "id": "recAkjeTTvSyG0Syg",
+        "title": "A comparative study of some NSAIDs with natural products: integrating in vitro anticancer efficacy, in vivo antiulcerative effect, histochemistry, and in silico analysis.",
+        "summary": "Celecoxib combined with taxifolin showed promising anticancer effects against breast and colon cancer cells and reduced gastric mucosal injury in rats.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41634337/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-04"
+      },
+      {
         "id": "recqGX81cVdHDQ0xM",
         "title": "Kisspeptin improves local ovarian insulin resistance in PCOS by modulating the PI3K/AKT/GLUT4 signaling pathway.",
         "summary": "Kisspeptin treatment helped reduce insulin resistance in women with polycystic ovary syndrome by improving insulin signaling in ovarian cells.",
@@ -416,22 +431,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Leukemia"
-        ],
-        "quality_score": 0,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-03"
-      },
-      {
-        "id": "recmijA2NKuMiDKWl",
-        "title": "Liposomal Delivery of Pyronaridine as a Repurposed Inhibitor of ERCC1/XPF for the Sensitization of Colorectal Cancer Cells to Platinum Chemotherapeutics.",
-        "summary": "Liposomal pyronaridine sensitizes colorectal cancer cells to platinum chemotherapy by inhibiting DNA repair, potentially enhancing treatment effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41466566/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Colorectal",
-          "Leukemia",
-          "Kidney"
         ],
         "quality_score": 0,
         "pub_date": "2026-02-01",
@@ -883,8 +882,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3096,
-    "archive_supplements": 431,
+    "archive_count": 3097,
+    "archive_supplements": 432,
     "archive_off_label": 157,
     "archive_biomarkers": 1560,
     "archive_trials": 650
