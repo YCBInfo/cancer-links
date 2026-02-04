@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-04T05:37:52.560Z",
+  "last_updated": "2026-02-04T05:38:22.757Z",
   "categories": {
     "supplements": [
       {
@@ -132,6 +132,21 @@
         "added_date": "2026-02-04"
       },
       {
+        "id": "recctGkTmz5h1LvfH",
+        "title": "Eco-friendly synthesis of Balanites aegyptiaca-derived selenium nanoparticles: extract and assessment of their anticancer, antimicrobial, cytogenetic and molecular docking insights.",
+        "summary": "Selenium nanoparticles derived from Balanites aegyptiaca extract showed potent anticancer effects against colorectal cancer cells through unique phenolic compound interactions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41629492/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-04"
+      },
+      {
         "id": "reclCzIicCWOwDTXR",
         "title": "Optimization, characterization and biological activity of siderophore produced by marine Streptomyces coelicolor.",
         "summary": "Marine Streptomyces coelicolor-derived siderophore ferrioxamine effectively inhibited breast cancer cell (MCF-7) proliferation by disrupting iron homeostasis.",
@@ -197,21 +212,6 @@
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 0,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-03"
-      },
-      {
-        "id": "recQd5OkU23bygB3L",
-        "title": "Green-Synthesized Silver Nanoparticles from Penicillium oxalicum with Antibreast Cancer Activities In Vitro and In Vivo.",
-        "summary": "Green-synthesized silver nanoparticles from a fungal source demonstrated significant anticancer effects against breast cancer cells by inducing cell death and inhibiting tumor growth.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41556375/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast",
           "Leukemia"
         ],
         "quality_score": 0,
@@ -885,10 +885,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3079,
+    "archive_count": 3080,
     "archive_supplements": 429,
     "archive_off_label": 156,
     "archive_biomarkers": 1551,
-    "archive_trials": 645
+    "archive_trials": 646
   }
 }
