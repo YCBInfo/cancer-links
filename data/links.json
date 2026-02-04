@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-04T05:31:09.882Z",
+  "last_updated": "2026-02-04T05:31:19.741Z",
   "categories": {
     "supplements": [
       {
@@ -56,6 +56,20 @@
           "Leukemia"
         ],
         "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-04"
+      },
+      {
+        "id": "recnZCXeDo9YICZP7",
+        "title": "Exploring the Mechanism of Oral Cancer With Shikonin Based on the Network Pharmacology and Molecular Docking Technology.",
+        "summary": "Here's a concise summary sentence:\n\nShikonin shows potential as a promising natural compound for treating oral cancer by targeting multiple molecular pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41633017/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-04"
       },
@@ -199,20 +213,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Leukemia"
-        ],
-        "quality_score": 0,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-03"
-      },
-      {
-        "id": "recWHfh8tKd7kr0yb",
-        "title": "Orphan drug uttroside B impedes MASH progression and HCC development in experimental models.",
-        "summary": "Orphan drug uttroside B shows promise in preventing liver inflammation, fat accumulation, and potential liver cancer progression in experimental models.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41624487/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Liver"
         ],
         "quality_score": 0,
         "pub_date": "2026-02-01",
@@ -884,10 +884,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3045,
+    "archive_count": 3046,
     "archive_supplements": 424,
     "archive_off_label": 155,
-    "archive_biomarkers": 1525,
+    "archive_biomarkers": 1526,
     "archive_trials": 643
   }
 }
