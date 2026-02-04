@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-04T05:10:19.778Z",
+  "last_updated": "2026-02-04T05:10:29.490Z",
   "categories": {
     "supplements": [
       {
@@ -235,6 +235,20 @@
         "added_date": "2026-02-04"
       },
       {
+        "id": "recIYgD3qejXNphtT",
+        "title": "PI3K inhibition in combination with tamoxifen in patients with metastatic HR+/HER2- breast cancer: clinical and circulating tumor DNA results.",
+        "summary": "Combining taselisib (a targeted therapy) with tamoxifen showed promising results in treating hormone-sensitive, HER2-negative metastatic breast cancer patients by potentially improving treatment effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41632450/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-04"
+      },
+      {
         "id": "recqGX81cVdHDQ0xM",
         "title": "Kisspeptin improves local ovarian insulin resistance in PCOS by modulating the PI3K/AKT/GLUT4 signaling pathway.",
         "summary": "Kisspeptin treatment helped reduce insulin resistance in women with polycystic ovary syndrome by improving insulin signaling in ovarian cells.",
@@ -416,20 +430,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Leukemia"
-        ],
-        "quality_score": 0,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-03"
-      },
-      {
-        "id": "recLMi2atim1hwvmD",
-        "title": "Synergistic effects of elranatamab and Juzentaihoto, Japanese traditional herbal medicine, in triple-class-exposed relapsed/refractory multiple myeloma with extramedullary disease: a case report.",
-        "summary": "The addition of Juzentaihoto, a Japanese herbal medicine, enhanced elranatamab's effectiveness in a multiple myeloma patient by boosting immune cell counts and improving treatment response.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41622392/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
         ],
         "quality_score": 0,
         "pub_date": "2026-02-01",
@@ -881,10 +881,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2931,
+    "archive_count": 2932,
     "archive_supplements": 422,
     "archive_off_label": 154,
-    "archive_biomarkers": 1436,
+    "archive_biomarkers": 1437,
     "archive_trials": 621
   }
 }
