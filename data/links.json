@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-04T09:23:19.242Z",
+  "last_updated": "2026-02-04T09:23:59.956Z",
   "categories": {
     "supplements": [
       {
@@ -395,6 +395,21 @@
         "added_date": "2026-02-04"
       },
       {
+        "id": "recF4XmevdqQCSSpr",
+        "title": "Repression of PRMT activities sensitize human homologous recombination-proficient ovarian and breast cancer cells to PARP inhibitor treatment.",
+        "summary": "PRMT inhibitors enhance PARP inhibitor effectiveness in ovarian and breast cancer by disrupting DNA repair and sensitizing cancer cells to treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41632514/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-04"
+      },
+      {
         "id": "recqGX81cVdHDQ0xM",
         "title": "Kisspeptin improves local ovarian insulin resistance in PCOS by modulating the PI3K/AKT/GLUT4 signaling pathway.",
         "summary": "Kisspeptin treatment helped reduce insulin resistance in women with polycystic ovary syndrome by improving insulin signaling in ovarian cells.",
@@ -418,21 +433,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "General"
-        ],
-        "quality_score": 0,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-03"
-      },
-      {
-        "id": "recK7ONoD6nNm0cFw",
-        "title": "Efficacy and Safety of Apixaban in Cancer-Associated Thromboembolism: A Narrative Review.",
-        "summary": "Apixaban shows promise as an effective, safer alternative to traditional blood thinners for preventing and treating blood clots in cancer patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41622537/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia",
-          "Kidney"
         ],
         "quality_score": 0,
         "pub_date": "2026-02-01",
@@ -884,10 +884,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3162,
+    "archive_count": 3163,
     "archive_supplements": 436,
     "archive_off_label": 159,
-    "archive_biomarkers": 1599,
+    "archive_biomarkers": 1600,
     "archive_trials": 670
   }
 }
