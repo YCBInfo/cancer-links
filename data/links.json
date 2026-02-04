@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-04T09:09:49.737Z",
+  "last_updated": "2026-02-04T09:10:00.032Z",
   "categories": {
     "supplements": [
       {
@@ -323,6 +323,20 @@
         "added_date": "2026-02-04"
       },
       {
+        "id": "rectPP1kipR72gndV",
+        "title": "Artemether as a modulator of EMT in colorectal cancer: enhancing radiosensitivity and reversing chemo-radiation resistance.",
+        "summary": "Artemether treatment enhanced radiation sensitivity and reduced resistance in colorectal cancer by disrupting cancer cell transformation mechanisms.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41634588/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-04"
+      },
+      {
         "id": "recqGX81cVdHDQ0xM",
         "title": "Kisspeptin improves local ovarian insulin resistance in PCOS by modulating the PI3K/AKT/GLUT4 signaling pathway.",
         "summary": "Kisspeptin treatment helped reduce insulin resistance in women with polycystic ovary syndrome by improving insulin signaling in ovarian cells.",
@@ -419,21 +433,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Colorectal"
-        ],
-        "quality_score": 0,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-03"
-      },
-      {
-        "id": "recexTzM6TndRFdzq",
-        "title": "ESR1-Activating Mutations Confer Metabolic Vulnerabilities in ER+ Breast Cancer.",
-        "summary": "ESR1 mutations in ER+ breast cancer reveal a vulnerability to ferroptosis, suggesting a potential new treatment approach with existing endocrine therapies.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41201246/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast",
-          "Leukemia"
         ],
         "quality_score": 0,
         "pub_date": "2026-02-01",
@@ -885,10 +884,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3090,
+    "archive_count": 3091,
     "archive_supplements": 431,
     "archive_off_label": 156,
-    "archive_biomarkers": 1556,
+    "archive_biomarkers": 1557,
     "archive_trials": 649
   }
 }
