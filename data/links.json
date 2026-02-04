@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-04T05:06:47.788Z",
+  "last_updated": "2026-02-04T05:06:57.950Z",
   "categories": {
     "supplements": [
       {
@@ -612,6 +612,21 @@
         "added_date": "2026-02-04"
       },
       {
+        "id": "rec7YCe1cxKas9GC1",
+        "title": "NPM1 Mediates mRNA Sorting into Extracellular Vesicles via Specific RNA Motif Binding and Phase Separation.",
+        "summary": "NPM1 protein selectively packages specific mRNAs like EGFR into extracellular vesicles through RNA motif binding, potentially relevant to non-small cell lung cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41632872/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-04"
+      },
+      {
         "id": "recvj39bChTTQoTg3",
         "title": "DNA methylation triage of human papillomavirus-positive atypical squamous cells of undetermined significance in cervical cancer screening.",
         "summary": "A DNA methylation test could help reduce unnecessary colposcopy referrals for women with HPV and uncertain cervical cell changes.",
@@ -632,20 +647,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41627286/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 0,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-03"
-      },
-      {
-        "id": "recnICZIdmXtjy8LD",
-        "title": "Adding anti-PD-1 antibody to definitive chemoradiotherapy in elderly patients with esophageal squamous cell carcinoma: higher intensity does not equate to better outcomes.",
-        "summary": "For elderly esophageal cancer patients, adding an anti-PD-1 antibody to standard chemoradiation did not improve treatment outcomes or survival.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41626750/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
         "cancer_types": [
           "General"
         ],
@@ -773,6 +774,21 @@
         "added_date": "2026-02-04"
       },
       {
+        "id": "rec7YCe1cxKas9GC1",
+        "title": "NPM1 Mediates mRNA Sorting into Extracellular Vesicles via Specific RNA Motif Binding and Phase Separation.",
+        "summary": "NPM1 protein selectively packages specific mRNAs like EGFR into extracellular vesicles through RNA motif binding, potentially relevant to non-small cell lung cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41632872/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-04"
+      },
+      {
         "id": "recvj39bChTTQoTg3",
         "title": "DNA methylation triage of human papillomavirus-positive atypical squamous cells of undetermined significance in cervical cancer screening.",
         "summary": "A DNA methylation test could help reduce unnecessary colposcopy referrals for women with HPV and uncertain cervical cell changes.",
@@ -856,21 +872,6 @@
         "quality_score": 0,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-03"
-      },
-      {
-        "id": "recYgZZ577vSQqnDC",
-        "title": "Theranostic Folate-Targeted Doxorubicin-Loaded MIL-88A@CuFe2O4 Nanohybrids, a pH-Sensitive, Core-Shell, Mesoporous Drug Delivery Platform with Dual-Modal T1-T2MRI and Optical Imaging Contrast Properties: An In Vitro and In Vivo Cancer Study.",
-        "summary": "Researchers developed a novel nanoplatform that combines targeted drug delivery, dual-mode imaging, and effective therapy for triple-negative breast cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41628477/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast",
-          "Leukemia"
-        ],
-        "quality_score": 0,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-03"
       }
     ]
   },
@@ -880,8 +881,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2910,
-    "archive_supplements": 421,
+    "archive_count": 2911,
+    "archive_supplements": 422,
     "archive_off_label": 154,
     "archive_biomarkers": 1420,
     "archive_trials": 617
