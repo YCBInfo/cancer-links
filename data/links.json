@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-04T05:05:47.510Z",
+  "last_updated": "2026-02-04T05:05:57.396Z",
   "categories": {
     "supplements": [
       {
@@ -526,6 +526,20 @@
         "added_date": "2026-02-04"
       },
       {
+        "id": "rectqDtCyruleUljP",
+        "title": "Adoption and Regional Variation of Prostate-Specific Membrane Antigen Positron Emission Tomography in the United States.",
+        "summary": "The study examines the emerging use of PSMA-PET imaging for prostate cancer detection across different U.S. regions, highlighting its growing but varied adoption.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41632928/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-04"
+      },
+      {
         "id": "recvj39bChTTQoTg3",
         "title": "DNA methylation triage of human papillomavirus-positive atypical squamous cells of undetermined significance in cervical cancer screening.",
         "summary": "A DNA methylation test could help reduce unnecessary colposcopy referrals for women with HPV and uncertain cervical cell changes.",
@@ -637,21 +651,6 @@
         "quality_score": 0,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-03"
-      },
-      {
-        "id": "recwn5foxE8h8wliL",
-        "title": "Pediatric craniopharyngioma: when hypoglycemia reveals a brain tumor. Illustrative case.",
-        "summary": "A pediatric brain tumor (craniopharyngioma) was uniquely first detected through severe low blood sugar, highlighting an uncommon initial symptom of this rare condition.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41628444/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia",
-          "Brain"
-        ],
-        "quality_score": 0,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-03"
       }
     ],
     "trials": [
@@ -696,6 +695,20 @@
           "Lymphoma"
         ],
         "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-04"
+      },
+      {
+        "id": "rectqDtCyruleUljP",
+        "title": "Adoption and Regional Variation of Prostate-Specific Membrane Antigen Positron Emission Tomography in the United States.",
+        "summary": "The study examines the emerging use of PSMA-PET imaging for prostate cancer detection across different U.S. regions, highlighting its growing but varied adoption.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41632928/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-04"
       },
@@ -855,20 +868,6 @@
         "quality_score": 0,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-03"
-      },
-      {
-        "id": "rec1oCWRJNUTC6m9u",
-        "title": "The role of HLA transcription in unrelated hematopoietic cell transplantation.",
-        "summary": "In unrelated hematopoietic cell transplantation, higher HLA gene expression levels are linked to increased graft-versus-host disease risk and potentially lower relapse rates.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41628351/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 0,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-03"
       }
     ]
   },
@@ -878,10 +877,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2904,
+    "archive_count": 2905,
     "archive_supplements": 421,
     "archive_off_label": 154,
-    "archive_biomarkers": 1416,
+    "archive_biomarkers": 1417,
     "archive_trials": 615
   }
 }
