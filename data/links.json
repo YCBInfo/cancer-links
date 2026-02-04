@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-04T05:29:39.550Z",
+  "last_updated": "2026-02-04T05:29:49.089Z",
   "categories": {
     "supplements": [
       {
@@ -41,6 +41,21 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-04"
+      },
+      {
+        "id": "reczZF4GQaxlvwMJv",
+        "title": "Dietary Patterns and Prostate Cancer Risk in the Multiethnic Cohort Study.",
+        "summary": "Here's a concise summary sentence:\n\nA diet rich in fruits, vegetables, and whole grains may lower prostate cancer risk across different ethnic populations.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41231716/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Prostate",
+          "Leukemia"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-04"
       },
@@ -198,21 +213,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Liver"
-        ],
-        "quality_score": 0,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-03"
-      },
-      {
-        "id": "recR6mzL2Bn0DaWSF",
-        "title": "Inhalable herbal nanotherapeutics targeting lung carcinoma.",
-        "summary": "Inhalable nanoparticles loaded with myricetin and targeted with lactoferrin demonstrated improved lung cancer therapy by enhancing drug delivery and tumor targeting.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41629353/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Lung",
-          "Leukemia"
         ],
         "quality_score": 0,
         "pub_date": "2026-02-01",
@@ -884,10 +884,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3036,
+    "archive_count": 3037,
     "archive_supplements": 423,
     "archive_off_label": 155,
     "archive_biomarkers": 1519,
-    "archive_trials": 641
+    "archive_trials": 642
   }
 }
