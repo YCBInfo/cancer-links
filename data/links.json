@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-04T05:06:37.819Z",
+  "last_updated": "2026-02-04T05:06:47.788Z",
   "categories": {
     "supplements": [
       {
@@ -14,6 +14,20 @@
         ],
         "quality_score": 10,
         "pub_date": "2025-12-01",
+        "added_date": "2026-02-04"
+      },
+      {
+        "id": "recgzbw0sJHBzGjap",
+        "title": "Chemical composition and cytotoxicity of the essential oil of Calophyllum fraseri M.R.Hend. & Wyatt-Sm.",
+        "summary": "Calophyllum fraseri essential oil showed weak cytotoxic potential against liver, breast, and lung cancer cell lines, with promising molecular interactions for potential future research.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41632904/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
         "added_date": "2026-02-04"
       },
       {
@@ -198,21 +212,6 @@
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 0,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-03"
-      },
-      {
-        "id": "recFlLv61ZkamC8CB",
-        "title": "Synergistic Anti-Inflammatory Effects and Efficient Weight Loss through the Combination of Chinese Herbs and Photothermal Therapy in Obesity Treatment.",
-        "summary": "A combined photothermal therapy using a heat-generating agent and morin herb effectively reduced body weight and fat tissue in mice by 20%.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41629163/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Melanoma",
           "Leukemia"
         ],
         "quality_score": 0,
@@ -599,6 +598,20 @@
         "added_date": "2026-02-04"
       },
       {
+        "id": "recgzbw0sJHBzGjap",
+        "title": "Chemical composition and cytotoxicity of the essential oil of Calophyllum fraseri M.R.Hend. & Wyatt-Sm.",
+        "summary": "Calophyllum fraseri essential oil showed weak cytotoxic potential against liver, breast, and lung cancer cell lines, with promising molecular interactions for potential future research.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41632904/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-04"
+      },
+      {
         "id": "recvj39bChTTQoTg3",
         "title": "DNA methylation triage of human papillomavirus-positive atypical squamous cells of undetermined significance in cervical cancer screening.",
         "summary": "A DNA methylation test could help reduce unnecessary colposcopy referrals for women with HPV and uncertain cervical cell changes.",
@@ -635,20 +648,6 @@
         "category": "Clinical Trials",
         "cancer_types": [
           "General"
-        ],
-        "quality_score": 0,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-03"
-      },
-      {
-        "id": "recbqAWeFWEYDRuv2",
-        "title": "GNE-related thrombocytopenia (Thrombocytopenia-12) in a 3-month-old from a Middle Eastern background infant: a case report.",
-        "summary": "Researchers identified a rare genetic mutation causing low platelet count in a young infant from a Middle Eastern family, expanding understanding of congenital thrombocytopenia.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41622814/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
         ],
         "quality_score": 0,
         "pub_date": "2026-02-01",
@@ -881,10 +880,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2909,
+    "archive_count": 2910,
     "archive_supplements": 421,
     "archive_off_label": 154,
-    "archive_biomarkers": 1419,
+    "archive_biomarkers": 1420,
     "archive_trials": 617
   }
 }
