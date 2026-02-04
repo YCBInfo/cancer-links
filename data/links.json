@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-04T05:15:12.106Z",
+  "last_updated": "2026-02-04T05:15:22.763Z",
   "categories": {
     "supplements": [
       {
@@ -21,6 +21,20 @@
         "title": "Chemical composition and cytotoxicity of the essential oil of Calophyllum fraseri M.R.Hend. & Wyatt-Sm.",
         "summary": "Calophyllum fraseri essential oil showed weak cytotoxic potential against liver, breast, and lung cancer cell lines, with promising molecular interactions for potential future research.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41632904/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-04"
+      },
+      {
+        "id": "recBbF3ErtznGuDda",
+        "title": "Effects of Acute Exercise and 12-Week High-Intensity Interval Training on Inflammatory Biomarkers in Stable Coronary Artery Disease: A Randomized Controlled Trial.",
+        "summary": "In stable coronary artery disease patients, high-intensity interval training significantly reduced inflammatory markers, suggesting exercise may help manage cardiovascular disease progression.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41631762/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -198,20 +212,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Lung",
-          "Leukemia"
-        ],
-        "quality_score": 0,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-03"
-      },
-      {
-        "id": "recMapzPALqHKxrjJ",
-        "title": "Microbiota in cancer: current understandings and future perspectives.",
-        "summary": "Microbiota play a complex role in cancer development and treatment, potentially offering both therapeutic opportunities and insights into disease progression.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41629271/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
           "Leukemia"
         ],
         "quality_score": 0,
@@ -881,10 +881,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2960,
+    "archive_count": 2961,
     "archive_supplements": 422,
     "archive_off_label": 155,
     "archive_biomarkers": 1459,
-    "archive_trials": 626
+    "archive_trials": 627
   }
 }
