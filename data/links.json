@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-04T05:08:18.543Z",
+  "last_updated": "2026-02-04T05:08:28.727Z",
   "categories": {
     "supplements": [
       {
@@ -845,6 +845,21 @@
         "added_date": "2026-02-04"
       },
       {
+        "id": "rec9d1jNBz64EXDUI",
+        "title": "The anti-apoptotic protein lifeguard is expressed in osteosarcoma, chondrosarcoma and soft tissue sarcoma.",
+        "summary": "Researchers found higher levels of the anti-apoptotic protein lifeguard in osteosarcoma, chondrosarcoma, and soft tissue sarcoma, suggesting a potential therapeutic target.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41632739/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-04"
+      },
+      {
         "id": "recvj39bChTTQoTg3",
         "title": "DNA methylation triage of human papillomavirus-positive atypical squamous cells of undetermined significance in cervical cancer screening.",
         "summary": "A DNA methylation test could help reduce unnecessary colposcopy referrals for women with HPV and uncertain cervical cell changes.",
@@ -853,20 +868,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Leukemia"
-        ],
-        "quality_score": 0,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-03"
-      },
-      {
-        "id": "recnICZIdmXtjy8LD",
-        "title": "Adding anti-PD-1 antibody to definitive chemoradiotherapy in elderly patients with esophageal squamous cell carcinoma: higher intensity does not equate to better outcomes.",
-        "summary": "For elderly esophageal cancer patients, adding an anti-PD-1 antibody to standard chemoradiation did not improve treatment outcomes or survival.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41626750/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
         ],
         "quality_score": 0,
         "pub_date": "2026-02-01",
@@ -880,10 +881,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2919,
+    "archive_count": 2920,
     "archive_supplements": 422,
     "archive_off_label": 154,
-    "archive_biomarkers": 1428,
+    "archive_biomarkers": 1429,
     "archive_trials": 617
   }
 }
