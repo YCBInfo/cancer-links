@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-04T05:06:19.124Z",
+  "last_updated": "2026-02-04T05:06:29.218Z",
   "categories": {
     "supplements": [
       {
@@ -570,6 +570,21 @@
         "added_date": "2026-02-04"
       },
       {
+        "id": "recrvwP7h81WVIYBU",
+        "title": "CCNL1 Activates the NF-κB Pathway Through DVL3 Inhibition and PI3K/AKT Pathway Promotion in Breast Cancer.",
+        "summary": "CCNL1 promotes breast cancer progression by activating NF-κB and PI3K/AKT pathways through DVL3 interaction, enhancing cell invasion and migration.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41632921/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-04"
+      },
+      {
         "id": "recvj39bChTTQoTg3",
         "title": "DNA methylation triage of human papillomavirus-positive atypical squamous cells of undetermined significance in cervical cancer screening.",
         "summary": "A DNA methylation test could help reduce unnecessary colposcopy referrals for women with HPV and uncertain cervical cell changes.",
@@ -637,20 +652,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
-        "added_date": "2026-02-03"
-      },
-      {
-        "id": "recQeW3AYMIOylvGJ",
-        "title": "PTP1B inhibition promotes microglial phagocytosis in Alzheimer's disease models by enhancing SYK signaling.",
-        "summary": "PTP1B inhibition enhances microglia's ability to clear amyloid plaques in Alzheimer's disease by boosting immune cell function and metabolism.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41628337/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 0,
-        "pub_date": "2026-02-01",
         "added_date": "2026-02-03"
       }
     ],
@@ -737,6 +738,21 @@
         "category": "Clinical Trials",
         "cancer_types": [
           "Lung",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-04"
+      },
+      {
+        "id": "recrvwP7h81WVIYBU",
+        "title": "CCNL1 Activates the NF-κB Pathway Through DVL3 Inhibition and PI3K/AKT Pathway Promotion in Breast Cancer.",
+        "summary": "CCNL1 promotes breast cancer progression by activating NF-κB and PI3K/AKT pathways through DVL3 interaction, enhancing cell invasion and migration.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41632921/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast",
           "Leukemia"
         ],
         "quality_score": 15,
@@ -857,20 +873,6 @@
         "quality_score": 0,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-03"
-      },
-      {
-        "id": "rec1FtQbqW2NYbkj3",
-        "title": "Primary subdural tumor mimicking subdural hematoma: illustrative case.",
-        "summary": "A rare pediatric case highlights how some subdural tumors can look like blood clots on initial medical imaging.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41628438/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lymphoma"
-        ],
-        "quality_score": 0,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-03"
       }
     ]
   },
@@ -880,10 +882,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 2907,
+    "archive_count": 2908,
     "archive_supplements": 421,
     "archive_off_label": 154,
     "archive_biomarkers": 1418,
-    "archive_trials": 616
+    "archive_trials": 617
   }
 }
