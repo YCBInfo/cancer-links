@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-04T05:35:31.539Z",
+  "last_updated": "2026-02-04T05:35:41.684Z",
   "categories": {
     "supplements": [
       {
@@ -294,6 +294,21 @@
         "added_date": "2026-02-04"
       },
       {
+        "id": "recVFC2wor3YBaQUq",
+        "title": "Impact of proton pump inhibitor use on immune-related adverse events in patients with non-small cell lung cancer: a retrospective study.",
+        "summary": "Proton pump inhibitors may negatively impact immune checkpoint inhibitor treatment effectiveness in non-small cell lung cancer patients by altering gut microbiota.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41629832/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Lung",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-04"
+      },
+      {
         "id": "recqGX81cVdHDQ0xM",
         "title": "Kisspeptin improves local ovarian insulin resistance in PCOS by modulating the PI3K/AKT/GLUT4 signaling pathway.",
         "summary": "Kisspeptin treatment helped reduce insulin resistance in women with polycystic ovary syndrome by improving insulin signaling in ovarian cells.",
@@ -419,20 +434,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Liver"
-        ],
-        "quality_score": 0,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-03"
-      },
-      {
-        "id": "rec5y6M5XgorAwY6h",
-        "title": "Potentiating anti-inflammatory and antioxidant effects in vitro: the combined action of zofenoprilat and nebivolol.",
-        "summary": "Zofenoprilat and nebivolol together showed enhanced anti-inflammatory and antioxidant effects, potentially improving vascular health and reducing inflammation.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41629568/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
         ],
         "quality_score": 0,
         "pub_date": "2026-02-01",
@@ -884,10 +885,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3071,
+    "archive_count": 3072,
     "archive_supplements": 429,
     "archive_off_label": 155,
-    "archive_biomarkers": 1544,
+    "archive_biomarkers": 1545,
     "archive_trials": 645
   }
 }
