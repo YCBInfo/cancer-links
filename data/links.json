@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-05T05:01:58.093Z",
+  "last_updated": "2026-02-05T05:02:07.917Z",
   "categories": {
     "supplements": [
       {
@@ -469,6 +469,20 @@
         "added_date": "2026-02-05"
       },
       {
+        "id": "recWcD7cqmHKKMA8w",
+        "title": "Apoptosis-related genes influence prognosis and immune characteristics of diffuse large B-cell lymphoma.",
+        "summary": "Here's a clear, concise summary sentence:\n\nCertain cell death-related genes significantly affect survival and immune response in diffuse large B-cell lymphoma patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41635044/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lymphoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-05"
+      },
+      {
         "id": "recccnnN7ZeCf4joT",
         "title": "Alpseq: an open-source workflow to turbocharge nanobody discovery with high-throughput sequencing.",
         "summary": "Alpseq is an open-source software pipeline that streamlines nanobody library processing and analysis using Next-Generation Sequencing technology.",
@@ -638,21 +652,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-04"
-      },
-      {
-        "id": "rec7YCe1cxKas9GC1",
-        "title": "NPM1 Mediates mRNA Sorting into Extracellular Vesicles via Specific RNA Motif Binding and Phase Separation.",
-        "summary": "NPM1 protein selectively packages specific mRNAs like EGFR into extracellular vesicles through RNA motif binding, potentially relevant to non-small cell lung cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41632872/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung",
-          "Leukemia"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-04"
       }
@@ -883,10 +882,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3198,
+    "archive_count": 3199,
     "archive_supplements": 439,
     "archive_off_label": 161,
     "archive_biomarkers": 1617,
-    "archive_trials": 683
+    "archive_trials": 684
   }
 }
