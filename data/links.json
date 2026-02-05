@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-05T05:03:59.038Z",
+  "last_updated": "2026-02-05T05:04:59.925Z",
   "categories": {
     "supplements": [
       {
@@ -512,6 +512,20 @@
         "added_date": "2026-02-05"
       },
       {
+        "id": "reci23SBS1bp2fA5Q",
+        "title": "[68Ga]Ga-FAPI Surpasses [18F]FDG in Pancreatic Adenosquamous Carcinoma Restaging.",
+        "summary": "In pancreatic adenosquamous carcinoma, [68Ga]Ga-FAPI PET/CT outperformed [18F]FDG PET/CT by detecting cancer recurrence more accurately.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41632577/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-05"
+      },
+      {
         "id": "recccnnN7ZeCf4joT",
         "title": "Alpseq: an open-source workflow to turbocharge nanobody discovery with high-throughput sequencing.",
         "summary": "Alpseq is an open-source software pipeline that streamlines nanobody library processing and analysis using Next-Generation Sequencing technology.",
@@ -640,21 +654,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-04"
-      },
-      {
-        "id": "recrvwP7h81WVIYBU",
-        "title": "CCNL1 Activates the NF-κB Pathway Through DVL3 Inhibition and PI3K/AKT Pathway Promotion in Breast Cancer.",
-        "summary": "CCNL1 promotes breast cancer progression by activating NF-κB and PI3K/AKT pathways through DVL3 interaction, enhancing cell invasion and migration.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41632921/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-04"
       }
     ],
     "trials": [
@@ -713,6 +712,34 @@
           "Leukemia"
         ],
         "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-05"
+      },
+      {
+        "id": "recOlbewyV83HN4hj",
+        "title": "Robot-Assisted Radical Prostatectomy in a Patient With a Rectal Fistula Following Hydrogel Spacer Placement.",
+        "summary": "Here's a concise summary sentence:\n\nA surgical team successfully performed robotic prostate cancer surgery in a patient with a rare rectal complication after a radiation protection spacer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41635604/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-05"
+      },
+      {
+        "id": "reci23SBS1bp2fA5Q",
+        "title": "[68Ga]Ga-FAPI Surpasses [18F]FDG in Pancreatic Adenosquamous Carcinoma Restaging.",
+        "summary": "In pancreatic adenosquamous carcinoma, [68Ga]Ga-FAPI PET/CT outperformed [18F]FDG PET/CT by detecting cancer recurrence more accurately.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41632577/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-05"
       },
@@ -847,34 +874,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-04"
-      },
-      {
-        "id": "reczQ7II864j208kN",
-        "title": "Proteasome Subunit PSMD1 is a Key Therapeutic Target in Multiple Myeloma.",
-        "summary": "PSMD1 gene silencing in multiple myeloma reduced tumor growth, induced cancer cell death, and overcame drug resistance through targeted nanoparticle delivery.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41632828/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-04"
-      },
-      {
-        "id": "rec7DjCQOHZVzocOC",
-        "title": "Association of tissue lymphocyte immunophenotype and clinical outcomes: A prospective study in patients with ulcerative colitis treated with vedolizumab.",
-        "summary": "Here's a clear, concise summary sentence:\n\nVedolizumab treatment in ulcerative colitis patients was associated with changes in lymphocyte populations that correlated with clinical response.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41632771/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-04"
       }
     ]
   },
@@ -884,10 +883,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3202,
+    "archive_count": 3203,
     "archive_supplements": 439,
     "archive_off_label": 161,
     "archive_biomarkers": 1619,
-    "archive_trials": 685
+    "archive_trials": 686
   }
 }
