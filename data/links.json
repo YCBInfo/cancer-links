@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-05T09:25:53.167Z",
+  "last_updated": "2026-02-05T09:26:03.193Z",
   "categories": {
     "supplements": [
       {
@@ -363,6 +363,20 @@
         "added_date": "2026-02-05"
       },
       {
+        "id": "recYAoktWy4vepL7X",
+        "title": "Applying biotechnology to overcome cancer drug resistance and improve public health outcomes.",
+        "summary": "Biotechnology innovations like CRISPR, targeted therapies, and immunotherapies can help overcome cancer drug resistance and improve treatment effectiveness across different healthcare settings.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41638902/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-05"
+      },
+      {
         "id": "recEkzKnehTmOdxUY",
         "title": "Age-stratified clinical outcomes and adverse events in patients with metastatic castration-sensitive prostate cancer receiving triplet therapy with darolutamide, androgen deprivation therapy, and docetaxel.",
         "summary": "Here's a clear, concise summary sentence:\n\nIn metastatic prostate cancer, older and younger patients receiving a triple drug combination showed similar treatment responses and manageable side effects.",
@@ -415,21 +429,6 @@
           "Melanoma",
           "Leukemia",
           "Ovarian"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-04"
-      },
-      {
-        "id": "recUg2riaDlQN4XcH",
-        "title": "Engineering Tick Evasins as Multitarget Chemokine Inhibitors─A Biomimetic Approach To Tackling the Complexity of the Immune System.",
-        "summary": "Researchers engineered tick proteins called evasins to simultaneously block multiple inflammatory chemokines, offering a potential new approach to treating complex inflammatory diseases like cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41540843/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung",
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -876,10 +875,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3463,
+    "archive_count": 3464,
     "archive_supplements": 455,
     "archive_off_label": 166,
-    "archive_biomarkers": 1811,
+    "archive_biomarkers": 1812,
     "archive_trials": 733
   }
 }
