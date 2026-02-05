@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-05T05:10:11.354Z",
+  "last_updated": "2026-02-05T05:10:21.850Z",
   "categories": {
     "supplements": [
       {
@@ -220,6 +220,21 @@
     ],
     "off_label": [
       {
+        "id": "recpdGz1LRAn6wMiQ",
+        "title": "New mechanistic insights into targeted protein degradation using Raman-active theranostic hydrophobic tags.",
+        "summary": "A new hydrophobic tag coupled with olaparib more effectively degrades PARP-1 in ovarian cancer cells, enhancing anti-cancer activity through targeted protein removal.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41386203/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia",
+          "Ovarian"
+        ],
+        "quality_score": 13,
+        "pub_date": "2025-12-01",
+        "added_date": "2026-02-05"
+      },
+      {
         "id": "recEkzKnehTmOdxUY",
         "title": "Age-stratified clinical outcomes and adverse events in patients with metastatic castration-sensitive prostate cancer receiving triplet therapy with darolutamide, androgen deprivation therapy, and docetaxel.",
         "summary": "Here's a clear, concise summary sentence:\n\nIn metastatic prostate cancer, older and younger patients receiving a triple drug combination showed similar treatment responses and manageable side effects.",
@@ -416,20 +431,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41632089/",
         "source": "PubMed",
         "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-04"
-      },
-      {
-        "id": "reclZPz1MPga63P67",
-        "title": "Amplifying the 'in situ vaccination' of BET inhibition via autophagy blockade: mechanisms and local delivery in OSCC.",
-        "summary": "In oral cancer, combining BET inhibitor JQ1 and autophagy inhibitor chloroquine enhances immunogenic cell death and antitumor immune response through nanoparticle delivery.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41631619/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Leukemia"
         ],
@@ -878,10 +879,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3228,
+    "archive_count": 3229,
     "archive_supplements": 439,
     "archive_off_label": 161,
-    "archive_biomarkers": 1639,
+    "archive_biomarkers": 1640,
     "archive_trials": 691
   }
 }
