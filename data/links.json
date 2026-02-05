@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-05T05:20:57.048Z",
+  "last_updated": "2026-02-05T05:21:07.138Z",
   "categories": {
     "supplements": [
       {
@@ -79,6 +79,20 @@
         "title": "Morin induces ferroptosis in endometrial cancer cells by down-regulating FTH1.",
         "summary": "Morin triggers cell death in endometrial cancer by reducing FTH1 protein levels, potentially offering a new targeted treatment approach.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41636890/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-05"
+      },
+      {
+        "id": "recplpyQtW8yGSxJ0",
+        "title": "Untargeted mass spectrometry to investigate ocean acidification in Cancer borealis using optimized metabolite extraction methods.",
+        "summary": "In Cancer borealis, ocean acidification triggered metabolic changes in 15 metabolites, with isopropanol extraction revealing potential stress response pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41636650/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -197,21 +211,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-04"
-      },
-      {
-        "id": "recxKQDHXe3yFCD54",
-        "title": "Efficacy and safety of intravenous administration of high-dose selenium for preventing chemotherapy-induced peripheral neuropathy in platinum-sensitive recurrent ovarian cancer: a phase 3, double-blind, parallel group, randomized controlled pilot study.",
-        "summary": "High-dose intravenous selenium did not effectively prevent chemotherapy-induced nerve damage in women with recurrent ovarian cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41630017/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia",
-          "Ovarian"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -878,10 +877,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3292,
+    "archive_count": 3293,
     "archive_supplements": 444,
     "archive_off_label": 163,
-    "archive_biomarkers": 1689,
+    "archive_biomarkers": 1690,
     "archive_trials": 698
   }
 }
