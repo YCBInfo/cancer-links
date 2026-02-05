@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-05T05:32:01.507Z",
+  "last_updated": "2026-02-05T05:32:12.417Z",
   "categories": {
     "supplements": [
       {
@@ -262,6 +262,20 @@
         "added_date": "2026-02-05"
       },
       {
+        "id": "rec80uhriAJhjL1Q1",
+        "title": "Repositioning GLP-1 Receptor Agonists in Endometrial Cancer: Molecular Rationale, Preclinical Insights, and Translational Opportunities.",
+        "summary": "GLP-1 receptor agonists show promise in treating endometrial cancer by targeting tumor growth and metabolic dysfunction in obesity-related cases.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41329840/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-05"
+      },
+      {
         "id": "recEkzKnehTmOdxUY",
         "title": "Age-stratified clinical outcomes and adverse events in patients with metastatic castration-sensitive prostate cancer receiving triplet therapy with darolutamide, androgen deprivation therapy, and docetaxel.",
         "summary": "Here's a clear, concise summary sentence:\n\nIn metastatic prostate cancer, older and younger patients receiving a triple drug combination showed similar treatment responses and manageable side effects.",
@@ -417,20 +431,6 @@
           "Lung",
           "Leukemia",
           "Ovarian"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-04"
-      },
-      {
-        "id": "rec3p2KTjPZiLoZ8x",
-        "title": "Cannabinoids and drug-drug pharmacokinetic interactions: Deciphering the risks.",
-        "summary": "Here's a clear, concise summary sentence:\n\nThis review explores potential drug interactions between cannabinoids and medications used to treat mental health disorders, cancer, and cardiometabolic diseases.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41633759/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -877,10 +877,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3348,
+    "archive_count": 3349,
     "archive_supplements": 447,
     "archive_off_label": 163,
     "archive_biomarkers": 1734,
-    "archive_trials": 706
+    "archive_trials": 707
   }
 }
