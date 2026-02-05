@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-05T05:37:03.975Z",
+  "last_updated": "2026-02-05T05:37:14.175Z",
   "categories": {
     "supplements": [
       {
@@ -319,6 +319,21 @@
         "added_date": "2026-02-05"
       },
       {
+        "id": "recFgQ3Ps8AGcWesE",
+        "title": "Delactylation of the tumor suppressor ARHGDIB drives metastasis and chemoresistance in bladder cancer.",
+        "summary": "In bladder cancer, HDAC2-mediated removal of lactylation from ARHGDIB promotes cancer spread and cisplatin resistance by activating DNA repair mechanisms.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41637189/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia",
+          "Bladder"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-05"
+      },
+      {
         "id": "recEkzKnehTmOdxUY",
         "title": "Age-stratified clinical outcomes and adverse events in patients with metastatic castration-sensitive prostate cancer receiving triplet therapy with darolutamide, androgen deprivation therapy, and docetaxel.",
         "summary": "Here's a clear, concise summary sentence:\n\nIn metastatic prostate cancer, older and younger patients receiving a triple drug combination showed similar treatment responses and manageable side effects.",
@@ -415,20 +430,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-04"
-      },
-      {
-        "id": "rectPP1kipR72gndV",
-        "title": "Artemether as a modulator of EMT in colorectal cancer: enhancing radiosensitivity and reversing chemo-radiation resistance.",
-        "summary": "Artemether treatment enhanced radiation sensitivity and reduced resistance in colorectal cancer by disrupting cancer cell transformation mechanisms.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41634588/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Colorectal"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -875,10 +876,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3378,
+    "archive_count": 3379,
     "archive_supplements": 447,
     "archive_off_label": 165,
-    "archive_biomarkers": 1751,
+    "archive_biomarkers": 1752,
     "archive_trials": 717
   }
 }
