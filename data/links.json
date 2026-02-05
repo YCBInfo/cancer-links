@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-05T05:18:55.148Z",
+  "last_updated": "2026-02-05T05:19:05.403Z",
   "categories": {
     "supplements": [
       {
@@ -250,6 +250,20 @@
         "added_date": "2026-02-05"
       },
       {
+        "id": "recVg7Jzy2wfXey3f",
+        "title": "Evaluation of metformin's effect on 5-fluorouracil-induced cardiotoxicity through cellular protection.",
+        "summary": "Metformin may protect heart cells from damage caused by 5-fluorouracil chemotherapy, potentially reducing toxic side effects during cancer treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41636938/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-05"
+      },
+      {
         "id": "recEkzKnehTmOdxUY",
         "title": "Age-stratified clinical outcomes and adverse events in patients with metastatic castration-sensitive prostate cancer receiving triplet therapy with darolutamide, androgen deprivation therapy, and docetaxel.",
         "summary": "Here's a clear, concise summary sentence:\n\nIn metastatic prostate cancer, older and younger patients receiving a triple drug combination showed similar treatment responses and manageable side effects.",
@@ -418,21 +432,6 @@
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-04"
-      },
-      {
-        "id": "recF4XmevdqQCSSpr",
-        "title": "Repression of PRMT activities sensitize human homologous recombination-proficient ovarian and breast cancer cells to PARP inhibitor treatment.",
-        "summary": "PRMT inhibitors enhance PARP inhibitor effectiveness in ovarian and breast cancer by disrupting DNA repair and sensitizing cancer cells to treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41632514/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast",
           "Leukemia"
         ],
         "quality_score": 15,
@@ -880,8 +879,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3280,
-    "archive_supplements": 441,
+    "archive_count": 3281,
+    "archive_supplements": 442,
     "archive_off_label": 162,
     "archive_biomarkers": 1683,
     "archive_trials": 696
