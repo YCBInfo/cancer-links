@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-05T09:24:12.430Z",
+  "last_updated": "2026-02-05T09:24:22.614Z",
   "categories": {
     "supplements": [
       {
@@ -348,6 +348,21 @@
         "added_date": "2026-02-05"
       },
       {
+        "id": "rec574SsWHl3Tjzl0",
+        "title": "Natural polysaccharide riclin acts as an immune adjuvant to enhance chemotherapy efficacy in NSCLC.",
+        "summary": "Riclin, a natural polysaccharide, enhances gemcitabine's effectiveness in lung cancer by boosting immune function and reducing tumor burden.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41639210/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lung",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-05"
+      },
+      {
         "id": "recEkzKnehTmOdxUY",
         "title": "Age-stratified clinical outcomes and adverse events in patients with metastatic castration-sensitive prostate cancer receiving triplet therapy with darolutamide, androgen deprivation therapy, and docetaxel.",
         "summary": "Here's a clear, concise summary sentence:\n\nIn metastatic prostate cancer, older and younger patients receiving a triple drug combination showed similar treatment responses and manageable side effects.",
@@ -412,21 +427,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41540843/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-04"
-      },
-      {
-        "id": "recVFC2wor3YBaQUq",
-        "title": "Impact of proton pump inhibitor use on immune-related adverse events in patients with non-small cell lung cancer: a retrospective study.",
-        "summary": "Proton pump inhibitors may negatively impact immune checkpoint inhibitor treatment effectiveness in non-small cell lung cancer patients by altering gut microbiota.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41629832/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
         "cancer_types": [
           "Lung",
           "Leukemia"
@@ -876,10 +876,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3453,
+    "archive_count": 3454,
     "archive_supplements": 454,
     "archive_off_label": 166,
-    "archive_biomarkers": 1803,
+    "archive_biomarkers": 1804,
     "archive_trials": 732
   }
 }
