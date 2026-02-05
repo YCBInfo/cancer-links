@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-05T05:12:12.587Z",
+  "last_updated": "2026-02-05T05:12:22.660Z",
   "categories": {
     "supplements": [
       {
@@ -235,6 +235,20 @@
         "added_date": "2026-02-05"
       },
       {
+        "id": "rec0XgNvwJCCSvvTc",
+        "title": "Exploring dual inhibitors Carbonic Anhydrases and Phosphodiesterase 5 as potential agents for treatment Alzheimer's disease.",
+        "summary": "A novel dual-targeting drug compound 8a shows promise in reducing memory loss and brain cell damage in Alzheimer's disease by inhibiting two key enzymes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41330156/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 13,
+        "pub_date": "2025-12-01",
+        "added_date": "2026-02-05"
+      },
+      {
         "id": "recEkzKnehTmOdxUY",
         "title": "Age-stratified clinical outcomes and adverse events in patients with metastatic castration-sensitive prostate cancer receiving triplet therapy with darolutamide, androgen deprivation therapy, and docetaxel.",
         "summary": "Here's a clear, concise summary sentence:\n\nIn metastatic prostate cancer, older and younger patients receiving a triple drug combination showed similar treatment responses and manageable side effects.",
@@ -418,20 +432,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Breast",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-04"
-      },
-      {
-        "id": "recjX2iNiIBoUB7uS",
-        "title": "Remimazolam Ameliorates Autistic-Like Behaviors via Suppression of Ferroptosis in VTA Dopaminergic Neurons in a Mouse Model of ASD.",
-        "summary": "Remimazolam reduces autistic-like behaviors in a mouse model by protecting dopamine neurons from cell death and restoring brain chemical balance.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41632089/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
           "Leukemia"
         ],
         "quality_score": 15,
@@ -879,8 +879,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3240,
-    "archive_supplements": 439,
+    "archive_count": 3241,
+    "archive_supplements": 440,
     "archive_off_label": 161,
     "archive_biomarkers": 1650,
     "archive_trials": 692
