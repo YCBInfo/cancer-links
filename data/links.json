@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-05T09:26:03.193Z",
+  "last_updated": "2026-02-05T09:26:13.630Z",
   "categories": {
     "supplements": [
       {
@@ -377,6 +377,20 @@
         "added_date": "2026-02-05"
       },
       {
+        "id": "rec1PayE9LoGRkx7b",
+        "title": "Synergistic effects of anticoagulants and platelet aggregation inhibitors with immune checkpoint inhibitors in cancer therapy: a comprehensive review of preclinical and clinical evidence.",
+        "summary": "Anticoagulants may enhance immune checkpoint inhibitors' effectiveness in cancer treatment by improving immune cell infiltration and reducing tumor spread.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41638873/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-05"
+      },
+      {
         "id": "recEkzKnehTmOdxUY",
         "title": "Age-stratified clinical outcomes and adverse events in patients with metastatic castration-sensitive prostate cancer receiving triplet therapy with darolutamide, androgen deprivation therapy, and docetaxel.",
         "summary": "Here's a clear, concise summary sentence:\n\nIn metastatic prostate cancer, older and younger patients receiving a triple drug combination showed similar treatment responses and manageable side effects.",
@@ -413,22 +427,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Kidney"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-04"
-      },
-      {
-        "id": "recuxuoTPYRtCWnN4",
-        "title": "Epigenetic Metal-Organic Framework Nanoagonist Overcomes Triple Defenses to Enable Effective Chemo-Metalloimmunotherapy in Platinum-Resistant Ovarian Cancer.",
-        "summary": "A novel nanoparticle targeting ovarian cancer overcomes drug resistance by simultaneously damaging cancer cells and boosting immune response.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41631347/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Melanoma",
-          "Leukemia",
-          "Ovarian"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -875,10 +873,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3464,
+    "archive_count": 3465,
     "archive_supplements": 455,
     "archive_off_label": 166,
-    "archive_biomarkers": 1812,
+    "archive_biomarkers": 1813,
     "archive_trials": 733
   }
 }
