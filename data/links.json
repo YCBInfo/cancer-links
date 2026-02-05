@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-05T05:07:20.115Z",
+  "last_updated": "2026-02-05T05:07:42.416Z",
   "categories": {
     "supplements": [
       {
@@ -639,18 +639,19 @@
         "added_date": "2026-02-05"
       },
       {
-        "id": "recccnnN7ZeCf4joT",
-        "title": "Alpseq: an open-source workflow to turbocharge nanobody discovery with high-throughput sequencing.",
-        "summary": "Alpseq is an open-source software pipeline that streamlines nanobody library processing and analysis using Next-Generation Sequencing technology.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41631412/",
+        "id": "recrIHGdgxLavl4lD",
+        "title": "Unveiling the landscape of m5C RNA methylation in lung cancer: From molecular mechanisms to therapeutic opportunities.",
+        "summary": "In lung cancer, RNA methylation by m5C writers and readers promotes tumor progression by stabilizing oncogenic transcripts and modulating cellular processes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41519051/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
+          "Lung",
           "Leukemia"
         ],
         "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-04"
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-05"
       }
     ],
     "trials": [
@@ -826,6 +827,36 @@
         "added_date": "2026-02-05"
       },
       {
+        "id": "recrIHGdgxLavl4lD",
+        "title": "Unveiling the landscape of m5C RNA methylation in lung cancer: From molecular mechanisms to therapeutic opportunities.",
+        "summary": "In lung cancer, RNA methylation by m5C writers and readers promotes tumor progression by stabilizing oncogenic transcripts and modulating cellular processes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41519051/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-05"
+      },
+      {
+        "id": "recapMZ0KVLWri2j6",
+        "title": "Precision oncology promise in the management of pancreatic acinar cell carcinoma.",
+        "summary": "Next-generation sequencing reveals unique genomic alterations in rare pancreatic acinar cell carcinoma, enabling personalized targeted therapies and precision oncology approaches.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41518684/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia",
+          "Pancreatic"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-05"
+      },
+      {
         "id": "recfrDYOu0zQlYmVT",
         "title": "XPO1 Inhibition enhances sensitivity to platinum-based chemotherapy in germinal-center B-cell-like-DLBCL cells.",
         "summary": "XPO1 inhibition improves platinum chemotherapy effectiveness in germinal-center B-cell lymphoma by potentially overcoming drug resistance mechanisms.",
@@ -833,36 +864,6 @@
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
-          "Lymphoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-04"
-      },
-      {
-        "id": "recRjRoYcyi8qeH9s",
-        "title": "A data-driven cartography of NSCLC vaccine research: Quantifying the paradigm shift toward immuno-oncology combination therapies.",
-        "summary": "Non-small cell lung cancer vaccine research has shifted from single-antigen approaches to combination immunotherapies integrating checkpoint inhibitors and advanced vaccine technologies.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41630477/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Lung",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-04"
-      },
-      {
-        "id": "recp61McRHvKOXTPJ",
-        "title": "The Biology and Clinical Utility of EBV Monitoring in Blood.",
-        "summary": "EBV DNA monitoring in cell-free blood shows promise for tracking nasopharyngeal carcinoma and NK/T cell lymphoma tumor progression.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41632221/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia",
           "Lymphoma"
         ],
         "quality_score": 15,
@@ -877,10 +878,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3212,
+    "archive_count": 3213,
     "archive_supplements": 439,
     "archive_off_label": 161,
-    "archive_biomarkers": 1628,
+    "archive_biomarkers": 1629,
     "archive_trials": 686
   }
 }
