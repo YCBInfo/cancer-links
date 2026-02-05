@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-05T09:23:31.864Z",
+  "last_updated": "2026-02-05T09:23:41.957Z",
   "categories": {
     "supplements": [
       {
@@ -334,6 +334,20 @@
         "added_date": "2026-02-05"
       },
       {
+        "id": "reczNRelsEjpQkwXT",
+        "title": "Disproportionality analysis of semaglutide-associated bile-duct cancer: A vigibase study.",
+        "summary": "A pharmacovigilance analysis investigated potential links between semaglutide, a diabetes medication, and bile duct cancer occurrence using worldwide adverse event reporting data.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41639322/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Kidney"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-05"
+      },
+      {
         "id": "recEkzKnehTmOdxUY",
         "title": "Age-stratified clinical outcomes and adverse events in patients with metastatic castration-sensitive prostate cancer receiving triplet therapy with darolutamide, androgen deprivation therapy, and docetaxel.",
         "summary": "Here's a clear, concise summary sentence:\n\nIn metastatic prostate cancer, older and younger patients receiving a triple drug combination showed similar treatment responses and manageable side effects.",
@@ -416,20 +430,6 @@
         "cancer_types": [
           "Lung",
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-04"
-      },
-      {
-        "id": "reclBTQ26KNd39VOa",
-        "title": "Niacin Modulates Immune Responses in a Phase I Dose-Escalation Clinical Trial of Newly Diagnosed Glioblastoma.",
-        "summary": "Niacin supplementation shows promise in enhancing immune responses for patients with newly diagnosed glioblastoma, potentially improving treatment outcomes for this aggressive brain cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41632924/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Brain"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -876,10 +876,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3449,
+    "archive_count": 3450,
     "archive_supplements": 454,
     "archive_off_label": 165,
-    "archive_biomarkers": 1800,
+    "archive_biomarkers": 1801,
     "archive_trials": 732
   }
 }
