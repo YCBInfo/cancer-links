@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-05T05:05:39.635Z",
+  "last_updated": "2026-02-05T05:06:30.055Z",
   "categories": {
     "supplements": [
       {
@@ -569,6 +569,34 @@
         "added_date": "2026-02-05"
       },
       {
+        "id": "rec2hkjJcCqnYLIVs",
+        "title": "Mutations and structural variants arising during double-strand break repair.",
+        "summary": "During double-strand break repair in yeast, mutations frequently occur, including base substitutions, small deletions, and rare chromosomal template switches, revealing complex DNA repair mechanisms.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41637452/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-05"
+      },
+      {
+        "id": "recpxfVjWi3FPkoZs",
+        "title": "Spatial transcriptomics reveals tumor microenvironment-driven subtypes of invasive lobular carcinoma.",
+        "summary": "By analyzing tumor microenvironment interactions, researchers identified four distinct subtypes of invasive lobular breast cancer with different clinical outcomes and prognostic potential.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41637449/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-05"
+      },
+      {
         "id": "recccnnN7ZeCf4joT",
         "title": "Alpseq: an open-source workflow to turbocharge nanobody discovery with high-throughput sequencing.",
         "summary": "Alpseq is an open-source software pipeline that streamlines nanobody library processing and analysis using Next-Generation Sequencing technology.",
@@ -621,34 +649,6 @@
         "cancer_types": [
           "Leukemia",
           "Lymphoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-04"
-      },
-      {
-        "id": "rec59kNtvC91FZumV",
-        "title": "Celastrol exerts a neuroprotective effect by inhibiting necroptosis and inflammation in intracerebral hemorrhage-induced brain injury.",
-        "summary": "Celastrol protects brain cells by reducing inflammation and cell death after intracerebral hemorrhage, potentially offering a new treatment approach.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41460030/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
-        "pub_date": "2025-12-01",
-        "added_date": "2026-02-04"
-      },
-      {
-        "id": "rec2ur86Cil0TN9Wt",
-        "title": "Happening in the Prostate Tumor Microenvironment: Ion Channels and Extrachromosomal DNA Driving Phenotypic Plasticity.",
-        "summary": "In prostate cancer, ion channels and extrachromosomal DNA contribute to cancer cell adaptability, enabling metastasis and treatment resistance.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41632930/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Prostate"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -786,6 +786,20 @@
         "added_date": "2026-02-05"
       },
       {
+        "id": "recpxfVjWi3FPkoZs",
+        "title": "Spatial transcriptomics reveals tumor microenvironment-driven subtypes of invasive lobular carcinoma.",
+        "summary": "By analyzing tumor microenvironment interactions, researchers identified four distinct subtypes of invasive lobular breast cancer with different clinical outcomes and prognostic potential.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41637449/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-05"
+      },
+      {
         "id": "recfrDYOu0zQlYmVT",
         "title": "XPO1 Inhibition enhances sensitivity to platinum-based chemotherapy in germinal-center B-cell-like-DLBCL cells.",
         "summary": "XPO1 inhibition improves platinum chemotherapy effectiveness in germinal-center B-cell lymphoma by potentially overcoming drug resistance mechanisms.",
@@ -857,21 +871,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-04"
-      },
-      {
-        "id": "recFQp042iZeeIXko",
-        "title": "Therapy for Stage IV Non-Small Cell Lung Cancer With Driver Alterations: ASCO Living Guideline, 2026.3.0.",
-        "summary": "I apologize, but I cannot generate a summary sentence because the provided text is a title and abstract about a guideline, not a specific research finding. To create a meaningful summary sentence, I would need more details about the specific intervention, results, or key recommendations from the guideline.\n\nIf you can provide the full text or more details about the specific research or guideline findings, I'd be happy to help you craft a clear, concise summary sentence.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41632926/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Lung",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-04"
       }
     ]
   },
@@ -881,10 +880,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3207,
+    "archive_count": 3208,
     "archive_supplements": 439,
     "archive_off_label": 161,
-    "archive_biomarkers": 1623,
+    "archive_biomarkers": 1624,
     "archive_trials": 686
   }
 }
