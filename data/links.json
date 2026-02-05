@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-05T09:34:20.824Z",
+  "last_updated": "2026-02-05T09:34:58.442Z",
   "categories": {
     "supplements": [
       {
@@ -391,6 +391,20 @@
         "added_date": "2026-02-05"
       },
       {
+        "id": "recFOgVjhnRi5pQby",
+        "title": "Calcium Channel Blockers Inhibit Pancreatic Neuroendocrine Neoplasms Progression via Cav1.2-Epigenetic Circuit.",
+        "summary": "Calcium channel blockers, particularly amlodipine, significantly inhibit pancreatic neuroendocrine neoplasm progression by disrupting a key cellular signaling pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41636771/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-05"
+      },
+      {
         "id": "recEkzKnehTmOdxUY",
         "title": "Age-stratified clinical outcomes and adverse events in patients with metastatic castration-sensitive prostate cancer receiving triplet therapy with darolutamide, androgen deprivation therapy, and docetaxel.",
         "summary": "Here's a clear, concise summary sentence:\n\nIn metastatic prostate cancer, older and younger patients receiving a triple drug combination showed similar treatment responses and manageable side effects.",
@@ -413,20 +427,6 @@
         "category": "Clinical Trials",
         "cancer_types": [
           "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-04"
-      },
-      {
-        "id": "recm6Hy9O583Tg2Yq",
-        "title": "Modulation of AMPK/SIRT1 signaling by piribedil attenuates cyclophosphamide-induced nephrotoxicity via PI3K/Akt, MAPKs, and TLR4/NLRP3 pathways with regulation of KIM-1/NGAL.",
-        "summary": "Piribedil protects kidney cells from chemotherapy-induced damage by reducing inflammation and cellular stress through multiple molecular signaling pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41632251/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Kidney"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -873,10 +873,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3497,
+    "archive_count": 3498,
     "archive_supplements": 459,
     "archive_off_label": 167,
-    "archive_biomarkers": 1829,
+    "archive_biomarkers": 1830,
     "archive_trials": 744
   }
 }
