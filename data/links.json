@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-05T05:02:07.917Z",
+  "last_updated": "2026-02-05T05:02:19.030Z",
   "categories": {
     "supplements": [
       {
@@ -483,6 +483,21 @@
         "added_date": "2026-02-05"
       },
       {
+        "id": "rec0VZBb5NcefUCp5",
+        "title": "Cost of managing brain metastases in ALK-positive advanced NSCLC patients receiving first-line ALK TKIs in China.",
+        "summary": "Researchers analyzed the healthcare expenses associated with brain metastases in Chinese lung cancer patients treated with targeted ALK inhibitor drugs.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41634566/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-05"
+      },
+      {
         "id": "recccnnN7ZeCf4joT",
         "title": "Alpseq: an open-source workflow to turbocharge nanobody discovery with high-throughput sequencing.",
         "summary": "Alpseq is an open-source software pipeline that streamlines nanobody library processing and analysis using Next-Generation Sequencing technology.",
@@ -640,20 +655,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-04"
-      },
-      {
-        "id": "recgzbw0sJHBzGjap",
-        "title": "Chemical composition and cytotoxicity of the essential oil of Calophyllum fraseri M.R.Hend. & Wyatt-Sm.",
-        "summary": "Calophyllum fraseri essential oil showed weak cytotoxic potential against liver, breast, and lung cancer cell lines, with promising molecular interactions for potential future research.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41632904/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-04"
       }
     ],
     "trials": [
@@ -683,6 +684,21 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-05"
+      },
+      {
+        "id": "rec0VZBb5NcefUCp5",
+        "title": "Cost of managing brain metastases in ALK-positive advanced NSCLC patients receiving first-line ALK TKIs in China.",
+        "summary": "Researchers analyzed the healthcare expenses associated with brain metastases in Chinese lung cancer patients treated with targeted ALK inhibitor drugs.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41634566/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung",
+          "Leukemia"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-05"
       },
@@ -859,20 +875,6 @@
         "quality_score": 22,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-04"
-      },
-      {
-        "id": "recKxgBQX25sjFyE1",
-        "title": "Genomic characterization and prognostic significance of copy number alterations in Tunisian patients with acute lymphoblastic leukemia.",
-        "summary": "In Tunisian acute lymphoblastic leukemia patients, IKZF1 gene deletions were linked to poorer treatment response, lower survival rates, and potentially more aggressive disease progression.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41632752/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-04"
       }
     ]
   },
@@ -882,10 +884,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3199,
+    "archive_count": 3200,
     "archive_supplements": 439,
     "archive_off_label": 161,
-    "archive_biomarkers": 1617,
+    "archive_biomarkers": 1618,
     "archive_trials": 684
   }
 }
