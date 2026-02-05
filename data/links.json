@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-05T05:02:28.445Z",
+  "last_updated": "2026-02-05T05:03:59.038Z",
   "categories": {
     "supplements": [
       {
@@ -498,6 +498,20 @@
         "added_date": "2026-02-05"
       },
       {
+        "id": "recn6B45UkHM88xry",
+        "title": "Immunogenicity and efficacy of a rabies-based vaccine against highly pathogenic influenza H5N1 virus.",
+        "summary": "A rabies-based vaccine successfully produced neutralizing antibodies and protected mice against highly pathogenic H5N1 influenza virus in both live and inactivated forms.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41555519/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-05"
+      },
+      {
         "id": "recccnnN7ZeCf4joT",
         "title": "Alpseq: an open-source workflow to turbocharge nanobody discovery with high-throughput sequencing.",
         "summary": "Alpseq is an open-source software pipeline that streamlines nanobody library processing and analysis using Next-Generation Sequencing technology.",
@@ -641,20 +655,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-04"
-      },
-      {
-        "id": "rech3KMYd3aBnidFG",
-        "title": "PI3K Activity Mediates the Epithelial to Mesenchymal Transition Process in MCF10A Cells and Tumor Growth and Metastasis in a Murine Model of Breast Cancer.",
-        "summary": "PI3K activity promotes epithelial-to-mesenchymal transition and increases tumor growth and metastasis in triple-negative breast cancer when stimulated by erythropoietin.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41632919/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-04"
       }
     ],
     "trials": [
@@ -696,6 +696,20 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Lung",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-05"
+      },
+      {
+        "id": "recn6B45UkHM88xry",
+        "title": "Immunogenicity and efficacy of a rabies-based vaccine against highly pathogenic influenza H5N1 virus.",
+        "summary": "A rabies-based vaccine successfully produced neutralizing antibodies and protected mice against highly pathogenic H5N1 influenza virus in both live and inactivated forms.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41555519/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
           "Leukemia"
         ],
         "quality_score": 15,
@@ -861,20 +875,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-04"
-      },
-      {
-        "id": "recJD3nQUeRCUWcDv",
-        "title": "Multilevel factors influencing colorectal cancer screening adherence: A systematic literature review.",
-        "summary": "A comprehensive review reveals that patient, provider, and systemic factors interact to influence colorectal cancer screening participation, highlighting the need for multilevel interventions.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41632768/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 22,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-04"
       }
     ]
   },
@@ -884,10 +884,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3201,
+    "archive_count": 3202,
     "archive_supplements": 439,
     "archive_off_label": 161,
     "archive_biomarkers": 1619,
-    "archive_trials": 684
+    "archive_trials": 685
   }
 }
