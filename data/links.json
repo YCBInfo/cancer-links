@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-05T17:53:39.949Z",
+  "last_updated": "2026-02-05T17:53:50.275Z",
   "categories": {
     "supplements": [
       {
@@ -405,6 +405,21 @@
         "added_date": "2026-02-05"
       },
       {
+        "id": "recUmWjmvcIWzxPS0",
+        "title": "Integrated regulation of ferroptosis in prostate cancer covering mechanisms, resistance, and translational opportunities.",
+        "summary": "Researchers discovered that targeting specific molecular mechanisms of ferroptosis could offer new treatment strategies for improving prostate cancer therapy and patient outcomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41639281/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Prostate",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-05"
+      },
+      {
         "id": "recEkzKnehTmOdxUY",
         "title": "Age-stratified clinical outcomes and adverse events in patients with metastatic castration-sensitive prostate cancer receiving triplet therapy with darolutamide, androgen deprivation therapy, and docetaxel.",
         "summary": "Here's a clear, concise summary sentence:\n\nIn metastatic prostate cancer, older and younger patients receiving a triple drug combination showed similar treatment responses and manageable side effects.",
@@ -413,20 +428,6 @@
         "category": "Clinical Trials",
         "cancer_types": [
           "Prostate"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-04"
-      },
-      {
-        "id": "recIYgD3qejXNphtT",
-        "title": "PI3K inhibition in combination with tamoxifen in patients with metastatic HR+/HER2- breast cancer: clinical and circulating tumor DNA results.",
-        "summary": "Combining taselisib (a targeted therapy) with tamoxifen showed promising results in treating hormone-sensitive, HER2-negative metastatic breast cancer patients by potentially improving treatment effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41632450/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -873,10 +874,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3510,
+    "archive_count": 3511,
     "archive_supplements": 463,
     "archive_off_label": 168,
-    "archive_biomarkers": 1835,
+    "archive_biomarkers": 1836,
     "archive_trials": 746
   }
 }
