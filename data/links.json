@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-05T05:07:00.193Z",
+  "last_updated": "2026-02-05T05:07:10.286Z",
   "categories": {
     "supplements": [
       {
@@ -625,6 +625,20 @@
         "added_date": "2026-02-05"
       },
       {
+        "id": "rec3I9J3Al7NH8d3L",
+        "title": "Single-molecule localization microscopy reveals the molecular organization of endogenous membrane receptors.",
+        "summary": "Single-molecule microscopy reveals detailed molecular organization of immune cell receptors, potentially improving cancer antibody therapy for multiple myeloma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41637495/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-05"
+      },
+      {
         "id": "recccnnN7ZeCf4joT",
         "title": "Alpseq: an open-source workflow to turbocharge nanobody discovery with high-throughput sequencing.",
         "summary": "Alpseq is an open-source software pipeline that streamlines nanobody library processing and analysis using Next-Generation Sequencing technology.",
@@ -633,20 +647,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-04"
-      },
-      {
-        "id": "recfrDYOu0zQlYmVT",
-        "title": "XPO1 Inhibition enhances sensitivity to platinum-based chemotherapy in germinal-center B-cell-like-DLBCL cells.",
-        "summary": "XPO1 inhibition improves platinum chemotherapy effectiveness in germinal-center B-cell lymphoma by potentially overcoming drug resistance mechanisms.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41631406/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lymphoma"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -812,6 +812,20 @@
         "added_date": "2026-02-05"
       },
       {
+        "id": "rec3I9J3Al7NH8d3L",
+        "title": "Single-molecule localization microscopy reveals the molecular organization of endogenous membrane receptors.",
+        "summary": "Single-molecule microscopy reveals detailed molecular organization of immune cell receptors, potentially improving cancer antibody therapy for multiple myeloma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41637495/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-05"
+      },
+      {
         "id": "recfrDYOu0zQlYmVT",
         "title": "XPO1 Inhibition enhances sensitivity to platinum-based chemotherapy in germinal-center B-cell-like-DLBCL cells.",
         "summary": "XPO1 inhibition improves platinum chemotherapy effectiveness in germinal-center B-cell lymphoma by potentially overcoming drug resistance mechanisms.",
@@ -854,20 +868,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-04"
-      },
-      {
-        "id": "rectqDtCyruleUljP",
-        "title": "Adoption and Regional Variation of Prostate-Specific Membrane Antigen Positron Emission Tomography in the United States.",
-        "summary": "The study examines the emerging use of PSMA-PET imaging for prostate cancer detection across different U.S. regions, highlighting its growing but varied adoption.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41632928/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-04"
       }
     ]
   },
@@ -877,10 +877,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3210,
+    "archive_count": 3211,
     "archive_supplements": 439,
     "archive_off_label": 161,
-    "archive_biomarkers": 1626,
+    "archive_biomarkers": 1627,
     "archive_trials": 686
   }
 }
