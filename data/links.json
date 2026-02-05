@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-05T05:17:25.320Z",
+  "last_updated": "2026-02-05T05:17:34.646Z",
   "categories": {
     "supplements": [
       {
@@ -25,6 +25,21 @@
         "category": "Clinical Trials",
         "cancer_types": [
           "Colorectal",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-05"
+      },
+      {
+        "id": "recmHE63hosC3Caug",
+        "title": "Impact of Perioperative Nutrition Intervention on Bioimpedance Phase Angle in Patients With Breast Cancer: A Systematic Review.",
+        "summary": "Targeted nutrition support during breast cancer treatment may improve patient health by preserving cellular integrity, as measured by bioimpedance phase angle.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41637158/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast",
           "Leukemia"
         ],
         "quality_score": 15,
@@ -200,21 +215,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-04"
-      },
-      {
-        "id": "recAkjeTTvSyG0Syg",
-        "title": "A comparative study of some NSAIDs with natural products: integrating in vitro anticancer efficacy, in vivo antiulcerative effect, histochemistry, and in silico analysis.",
-        "summary": "Celecoxib combined with taxifolin showed promising anticancer effects against breast and colon cancer cells and reduced gastric mucosal injury in rats.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41634337/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal",
-          "Leukemia"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-04"
       }
@@ -880,10 +880,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3271,
+    "archive_count": 3272,
     "archive_supplements": 440,
     "archive_off_label": 162,
-    "archive_biomarkers": 1676,
+    "archive_biomarkers": 1677,
     "archive_trials": 695
   }
 }
