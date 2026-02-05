@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-05T05:18:44.911Z",
+  "last_updated": "2026-02-05T05:18:55.148Z",
   "categories": {
     "supplements": [
       {
@@ -40,6 +40,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Breast",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-05"
+      },
+      {
+        "id": "recQax4C4OFQK0BZD",
+        "title": "Recommendations from the European interdisciplinary council on ageing on physical activity and diet for mental health conditions in older adults.",
+        "summary": "Regular physical activity and Mediterranean diet interventions can help prevent and manage mental health conditions and cognitive decline in older adults.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41636947/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
           "Leukemia"
         ],
         "quality_score": 15,
@@ -201,20 +215,6 @@
           "Brain"
         ],
         "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-04"
-      },
-      {
-        "id": "rec1DtOO1vgXiy9Xz",
-        "title": "Gastroprotective effect of Kahweol against ethanol-induced gastric ulcer by employing in silico, in vitro and in vivo approaches.",
-        "summary": "Kahweol, a coffee-derived compound, significantly protects against ethanol-induced gastric ulcers by reducing inflammation, acid secretion, and bacterial growth.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41634338/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-04"
       }
@@ -880,10 +880,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3279,
+    "archive_count": 3280,
     "archive_supplements": 441,
     "archive_off_label": 162,
-    "archive_biomarkers": 1682,
+    "archive_biomarkers": 1683,
     "archive_trials": 696
   }
 }
