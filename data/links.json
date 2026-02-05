@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-05T05:04:59.925Z",
+  "last_updated": "2026-02-05T05:05:09.935Z",
   "categories": {
     "supplements": [
       {
@@ -526,6 +526,21 @@
         "added_date": "2026-02-05"
       },
       {
+        "id": "reckL9eUw86w7X5rB",
+        "title": "18F-FDG PET/CT Findings in a Case of Primary Leptomeningeal Melanomatosis With Diastematomyelia.",
+        "summary": "An advanced imaging technique (18F-FDG PET/CT) helped identify and locate a rare, aggressive form of spinal cord melanoma for potential biopsy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41632576/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Melanoma",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-05"
+      },
+      {
         "id": "recccnnN7ZeCf4joT",
         "title": "Alpseq: an open-source workflow to turbocharge nanobody discovery with high-throughput sequencing.",
         "summary": "Alpseq is an open-source software pipeline that streamlines nanobody library processing and analysis using Next-Generation Sequencing technology.",
@@ -639,21 +654,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-04"
-      },
-      {
-        "id": "recFQp042iZeeIXko",
-        "title": "Therapy for Stage IV Non-Small Cell Lung Cancer With Driver Alterations: ASCO Living Guideline, 2026.3.0.",
-        "summary": "I apologize, but I cannot generate a summary sentence because the provided text is a title and abstract about a guideline, not a specific research finding. To create a meaningful summary sentence, I would need more details about the specific intervention, results, or key recommendations from the guideline.\n\nIf you can provide the full text or more details about the specific research or guideline findings, I'd be happy to help you craft a clear, concise summary sentence.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41632926/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Lung",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-04"
       }
     ],
     "trials": [
@@ -740,6 +740,21 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-05"
+      },
+      {
+        "id": "reckL9eUw86w7X5rB",
+        "title": "18F-FDG PET/CT Findings in a Case of Primary Leptomeningeal Melanomatosis With Diastematomyelia.",
+        "summary": "An advanced imaging technique (18F-FDG PET/CT) helped identify and locate a rare, aggressive form of spinal cord melanoma for potential biopsy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41632576/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Melanoma",
+          "Leukemia"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-05"
       },
@@ -859,21 +874,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-04"
-      },
-      {
-        "id": "rec7YCe1cxKas9GC1",
-        "title": "NPM1 Mediates mRNA Sorting into Extracellular Vesicles via Specific RNA Motif Binding and Phase Separation.",
-        "summary": "NPM1 protein selectively packages specific mRNAs like EGFR into extracellular vesicles through RNA motif binding, potentially relevant to non-small cell lung cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41632872/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-04"
       }
     ]
   },
@@ -883,10 +883,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3203,
+    "archive_count": 3204,
     "archive_supplements": 439,
     "archive_off_label": 161,
-    "archive_biomarkers": 1619,
+    "archive_biomarkers": 1620,
     "archive_trials": 686
   }
 }
