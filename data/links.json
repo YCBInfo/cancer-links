@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-05T09:10:45.137Z",
+  "last_updated": "2026-02-05T09:10:54.708Z",
   "categories": {
     "supplements": [
       {
@@ -159,6 +159,21 @@
         "added_date": "2026-02-05"
       },
       {
+        "id": "rec1xZpOx2RWgzbWx",
+        "title": "Targeting Hsp70 triggers ferroptosis: a novel anti-cancer mechanism of a marine natural product in prostate cancer.",
+        "summary": "A marine compound called nidurufin targets HSP70, disrupting the AR signaling pathway and triggering ferroptosis in prostate cancer cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41639515/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Prostate",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-05"
+      },
+      {
         "id": "rec59kNtvC91FZumV",
         "title": "Celastrol exerts a neuroprotective effect by inhibiting necroptosis and inflammation in intracerebral hemorrhage-induced brain injury.",
         "summary": "Celastrol protects brain cells by reducing inflammation and cell death after intracerebral hemorrhage, potentially offering a new treatment approach.",
@@ -197,21 +212,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-04"
-      },
-      {
-        "id": "reczZF4GQaxlvwMJv",
-        "title": "Dietary Patterns and Prostate Cancer Risk in the Multiethnic Cohort Study.",
-        "summary": "Here's a concise summary sentence:\n\nA diet rich in fruits, vegetables, and whole grains may lower prostate cancer risk across different ethnic populations.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41231716/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Prostate",
-          "Leukemia"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-04"
       }
@@ -875,10 +875,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3406,
+    "archive_count": 3407,
     "archive_supplements": 448,
     "archive_off_label": 165,
-    "archive_biomarkers": 1775,
+    "archive_biomarkers": 1776,
     "archive_trials": 720
   }
 }
