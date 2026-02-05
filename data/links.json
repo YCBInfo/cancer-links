@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-05T05:34:22.735Z",
+  "last_updated": "2026-02-05T05:34:32.808Z",
   "categories": {
     "supplements": [
       {
@@ -276,6 +276,20 @@
         "added_date": "2026-02-05"
       },
       {
+        "id": "recJt6ydrQIHdxnwN",
+        "title": "HDAC Inhibition Triggers Release of RNA Polymerase II from Promoter-Proximal Pausing in Healthy Blood Progenitors and Primary Acute Myeloid Leukemia Myeloblasts.",
+        "summary": "HDAC inhibitor SAHA triggers RNA polymerase release in both healthy and acute myeloid leukemia cells, potentially explaining limited clinical effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41121982/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-05"
+      },
+      {
         "id": "recEkzKnehTmOdxUY",
         "title": "Age-stratified clinical outcomes and adverse events in patients with metastatic castration-sensitive prostate cancer receiving triplet therapy with darolutamide, androgen deprivation therapy, and docetaxel.",
         "summary": "Here's a clear, concise summary sentence:\n\nIn metastatic prostate cancer, older and younger patients receiving a triple drug combination showed similar treatment responses and manageable side effects.",
@@ -415,22 +429,6 @@
         "cancer_types": [
           "Colorectal",
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-04"
-      },
-      {
-        "id": "recBYc1HquzRwQARa",
-        "title": "Treatment resistance to platinum-based chemotherapy in lung and ovarian cancer is driven by a targetable TGFβ senescent secretome.",
-        "summary": "In lung and ovarian cancer, chemotherapy-induced senescent cells secrete TGFβ, promoting tumor growth, which can be reduced by targeted inhibitors.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41634464/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Lung",
-          "Leukemia",
-          "Ovarian"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -877,10 +875,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3362,
+    "archive_count": 3363,
     "archive_supplements": 447,
     "archive_off_label": 164,
-    "archive_biomarkers": 1740,
+    "archive_biomarkers": 1741,
     "archive_trials": 713
   }
 }
