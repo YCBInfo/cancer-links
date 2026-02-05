@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-05T05:19:15.187Z",
+  "last_updated": "2026-02-05T05:19:25.713Z",
   "categories": {
     "supplements": [
       {
@@ -55,6 +55,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-05"
+      },
+      {
+        "id": "recdp1DDL1efrCB9i",
+        "title": "Exercise training decreases Neuregulin-1 concentrations in HER2-positive breast cancer patients undergoing adjuvant trastuzumab: the CARDAPAC study.",
+        "summary": "Exercise training reduced Neuregulin-1 levels in HER2-positive breast cancer patients receiving trastuzumab, potentially mitigating treatment-related heart damage.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41636910/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -199,20 +213,6 @@
         "cancer_types": [
           "Colorectal",
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-04"
-      },
-      {
-        "id": "reclBTQ26KNd39VOa",
-        "title": "Niacin Modulates Immune Responses in a Phase I Dose-Escalation Clinical Trial of Newly Diagnosed Glioblastoma.",
-        "summary": "Niacin supplementation shows promise in enhancing immune responses for patients with newly diagnosed glioblastoma, potentially improving treatment outcomes for this aggressive brain cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41632924/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Brain"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -879,10 +879,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3282,
+    "archive_count": 3283,
     "archive_supplements": 442,
     "archive_off_label": 163,
-    "archive_biomarkers": 1683,
+    "archive_biomarkers": 1684,
     "archive_trials": 696
   }
 }
