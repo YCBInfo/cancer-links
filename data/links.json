@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-06T05:12:35.571Z",
+  "last_updated": "2026-02-06T05:12:45.694Z",
   "categories": {
     "supplements": [
       {
@@ -12,6 +12,21 @@
         "cancer_types": [
           "Lung",
           "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-06"
+      },
+      {
+        "id": "recT5jszmM57AQw2I",
+        "title": "Selective cytotoxicity of solamargine via oxidative stress and caspase-independent mechanisms in human glioblastoma cells.",
+        "summary": "Here's a summary sentence focused on the key finding about solamargine's effect on glioblastoma cells:\n\nSolamargine selectively reduces glioblastoma cell viability by inducing oxidative stress and DNA damage through a non-apoptotic mechanism.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41642473/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia",
+          "Brain"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -201,20 +216,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
-        "added_date": "2026-02-05"
-      },
-      {
-        "id": "recrGbjogXkJu5XC7",
-        "title": "Natural and synthetic compounds targeting ferroptosis in esophageal squamous cell carcinoma: Research progress and application potential.",
-        "summary": "Natural and synthetic compounds targeting ferroptosis show promise in killing esophageal cancer cells and potentially improving treatment outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41349319/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 13,
-        "pub_date": "2025-12-01",
         "added_date": "2026-02-05"
       }
     ],
@@ -882,8 +883,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3567,
-    "archive_supplements": 467,
+    "archive_count": 3568,
+    "archive_supplements": 468,
     "archive_off_label": 168,
     "archive_biomarkers": 1884,
     "archive_trials": 750
