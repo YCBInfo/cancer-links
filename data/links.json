@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-06T07:07:29.747Z",
+  "last_updated": "2026-02-06T07:11:11.965Z",
   "categories": {
     "supplements": [
       {
@@ -193,6 +193,21 @@
         "added_date": "2026-02-06"
       },
       {
+        "id": "recPB3Ge7Dw7QZXgq",
+        "title": "Glucosamine suppresses hepatocellular carcinoma progression through dual inhibition of cell cycle progression and nucleotide metabolism.",
+        "summary": "Glucosamine inhibits liver cancer growth by stopping cell division and disrupting energy metabolism, potentially enhancing the effectiveness of existing cancer treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41643454/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia",
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-06"
+      },
+      {
         "id": "recYer76VxsjSoHEM",
         "title": "Effect of stereochemistry at position C14 on the antiproliferative activity and selectivity of simplified oridonin O-acylated derivatives.",
         "summary": "C14α-configured oridonin derivatives showed enhanced antiproliferative activity against SU-DHL-6 lymphoma cells, with compound 6k demonstrating the most potent effect.",
@@ -204,21 +219,6 @@
         ],
         "quality_score": 13,
         "pub_date": "2025-12-01",
-        "added_date": "2026-02-05"
-      },
-      {
-        "id": "recOIY8pdHcFsgpoX",
-        "title": "Digitally Delivered Cognitive Behavioral Therapy (CBT) and Inflammation-Guided Nutrition to Enhance Recovery and Survival After Abdominoperineal Resection (APR): A Prospective Non-Randomized Controlled Cohort Study.",
-        "summary": "For low rectal cancer patients after surgery, a digital therapy app and personalized nutrition plan reduced inflammation and improved recovery and potential survival outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41637248/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Colorectal",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
         "added_date": "2026-02-05"
       }
     ],
@@ -886,10 +886,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3692,
+    "archive_count": 3693,
     "archive_supplements": 480,
     "archive_off_label": 171,
-    "archive_biomarkers": 1976,
+    "archive_biomarkers": 1977,
     "archive_trials": 767
   }
 }
