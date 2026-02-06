@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-06T07:32:43.091Z",
+  "last_updated": "2026-02-06T07:32:52.811Z",
   "categories": {
     "supplements": [
       {
@@ -353,6 +353,20 @@
         "added_date": "2026-02-06"
       },
       {
+        "id": "recHCNsQ8baYvShb0",
+        "title": "Autophagy and Cellular Metabolism in Civilization Diseases.",
+        "summary": "Here's a concise summary focusing on the key finding:\n\nAutophagy plays a critical, context-dependent role in disease progression, functioning as a dynamic regulator of cellular metabolism across multiple conditions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41638624/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-06"
+      },
+      {
         "id": "recpdGz1LRAn6wMiQ",
         "title": "New mechanistic insights into targeted protein degradation using Raman-active theranostic hydrophobic tags.",
         "summary": "A new hydrophobic tag coupled with olaparib more effectively degrades PARP-1 in ovarian cancer cells, enhancing anti-cancer activity through targeted protein removal.",
@@ -414,20 +428,6 @@
         "title": "HDAC Inhibition Triggers Release of RNA Polymerase II from Promoter-Proximal Pausing in Healthy Blood Progenitors and Primary Acute Myeloid Leukemia Myeloblasts.",
         "summary": "HDAC inhibitor SAHA triggers RNA polymerase release in both healthy and acute myeloid leukemia cells, potentially explaining limited clinical effectiveness.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41121982/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-05"
-      },
-      {
-        "id": "rec9fXLlnRFWKIbw5",
-        "title": "Pharmacogenomic Synthetic Lethal Screens Reveal Hidden Vulnerabilities and New Therapeutic Approaches for Treatment of NF1-Associated Tumors.",
-        "summary": "Researchers identified 23 drugs that selectively kill NF1-deficient Schwann cells, revealing promising therapeutic approaches for neurofibromatosis type I-associated tumors.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41036607/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -885,10 +885,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3720,
+    "archive_count": 3721,
     "archive_supplements": 489,
     "archive_off_label": 171,
-    "archive_biomarkers": 1991,
+    "archive_biomarkers": 1992,
     "archive_trials": 771
   }
 }
