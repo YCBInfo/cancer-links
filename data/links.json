@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-06T09:30:11.587Z",
+  "last_updated": "2026-02-06T09:30:22.207Z",
   "categories": {
     "supplements": [
       {
@@ -367,6 +367,20 @@
         "added_date": "2026-02-06"
       },
       {
+        "id": "rec7SdOZZCD217Z9X",
+        "title": "Clonal hematopoiesis and its progression to myeloid neoplasms: insights into risk, biology, and therapeutic strategies.",
+        "summary": "Clonal hematopoiesis, a common age-related condition, increases the risk of myeloid neoplasms and can be potentially managed through targeted therapeutic strategies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41641638/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-06"
+      },
+      {
         "id": "recpdGz1LRAn6wMiQ",
         "title": "New mechanistic insights into targeted protein degradation using Raman-active theranostic hydrophobic tags.",
         "summary": "A new hydrophobic tag coupled with olaparib more effectively degrades PARP-1 in ovarian cancer cells, enhancing anti-cancer activity through targeted protein removal.",
@@ -416,20 +430,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41329840/",
         "source": "PubMed",
         "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-05"
-      },
-      {
-        "id": "recJt6ydrQIHdxnwN",
-        "title": "HDAC Inhibition Triggers Release of RNA Polymerase II from Promoter-Proximal Pausing in Healthy Blood Progenitors and Primary Acute Myeloid Leukemia Myeloblasts.",
-        "summary": "HDAC inhibitor SAHA triggers RNA polymerase release in both healthy and acute myeloid leukemia cells, potentially explaining limited clinical effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41121982/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Leukemia"
         ],
@@ -885,10 +885,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3801,
+    "archive_count": 3802,
     "archive_supplements": 494,
     "archive_off_label": 171,
     "archive_biomarkers": 2025,
-    "archive_trials": 813
+    "archive_trials": 814
   }
 }
