@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-06T05:17:27.846Z",
+  "last_updated": "2026-02-06T05:17:38.321Z",
   "categories": {
     "supplements": [
       {
@@ -222,6 +222,20 @@
     ],
     "off_label": [
       {
+        "id": "recwNacAF80BJXqj5",
+        "title": "Successful Everolimus Therapy for Atrioventricular Block Due to Cardiac Rhabdomyoma Associated With Tuberous Sclerosis Complex.",
+        "summary": "Everolimus effectively reduced a cardiac tumor in a tuberous sclerosis patient, resolving potentially life-threatening heart rhythm disruption caused by tumor compression.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41642161/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-06"
+      },
+      {
         "id": "recpdGz1LRAn6wMiQ",
         "title": "New mechanistic insights into targeted protein degradation using Raman-active theranostic hydrophobic tags.",
         "summary": "A new hydrophobic tag coupled with olaparib more effectively degrades PARP-1 in ovarian cancer cells, enhancing anti-cancer activity through targeted protein removal.",
@@ -421,20 +435,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-05"
-      },
-      {
-        "id": "recEkzKnehTmOdxUY",
-        "title": "Age-stratified clinical outcomes and adverse events in patients with metastatic castration-sensitive prostate cancer receiving triplet therapy with darolutamide, androgen deprivation therapy, and docetaxel.",
-        "summary": "Here's a clear, concise summary sentence:\n\nIn metastatic prostate cancer, older and younger patients receiving a triple drug combination showed similar treatment responses and manageable side effects.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41632522/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Prostate"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-04"
       }
     ],
     "biomarkers": [
@@ -884,10 +884,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3596,
+    "archive_count": 3597,
     "archive_supplements": 471,
     "archive_off_label": 168,
-    "archive_biomarkers": 1906,
+    "archive_biomarkers": 1907,
     "archive_trials": 753
   }
 }
