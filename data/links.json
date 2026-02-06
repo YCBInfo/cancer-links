@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-06T17:21:32.181Z",
+  "last_updated": "2026-02-06T17:32:40.236Z",
   "categories": {
     "supplements": [
       {
@@ -396,6 +396,20 @@
         "added_date": "2026-02-06"
       },
       {
+        "id": "reclFPiiXAycbeUzR",
+        "title": "Ebastine targets HER2/HER3 signaling and cancer stem cell traits to overcome trastuzumab resistance in HER2‑positive breast cancer.",
+        "summary": "Ebastine effectively disrupts HER2 signaling and cancer stem cell traits, offering a potential new treatment approach for trastuzumab-resistant HER2-positive breast cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41645758/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-06"
+      },
+      {
         "id": "recpdGz1LRAn6wMiQ",
         "title": "New mechanistic insights into targeted protein degradation using Raman-active theranostic hydrophobic tags.",
         "summary": "A new hydrophobic tag coupled with olaparib more effectively degrades PARP-1 in ovarian cancer cells, enhancing anti-cancer activity through targeted protein removal.",
@@ -422,20 +436,6 @@
         ],
         "quality_score": 13,
         "pub_date": "2025-12-01",
-        "added_date": "2026-02-05"
-      },
-      {
-        "id": "recVg7Jzy2wfXey3f",
-        "title": "Evaluation of metformin's effect on 5-fluorouracil-induced cardiotoxicity through cellular protection.",
-        "summary": "Metformin may protect heart cells from damage caused by 5-fluorouracil chemotherapy, potentially reducing toxic side effects during cancer treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41636938/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
         "added_date": "2026-02-05"
       }
     ],
@@ -886,9 +886,9 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3830,
+    "archive_count": 3831,
     "archive_supplements": 499,
-    "archive_off_label": 171,
+    "archive_off_label": 172,
     "archive_biomarkers": 2037,
     "archive_trials": 825
   }
