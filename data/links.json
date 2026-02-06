@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-06T17:32:51.589Z",
+  "last_updated": "2026-02-06T17:33:01.677Z",
   "categories": {
     "supplements": [
       {
@@ -410,6 +410,20 @@
         "added_date": "2026-02-06"
       },
       {
+        "id": "recCNQzW4OS3luTzY",
+        "title": "Genome-wide CRISPR Screening Reveals a PKA-Driven Resistance Mechanism to Metformin for Oral Cancer Prevention That Can Be Exploited by Combination with NSAIDs.",
+        "summary": "Here's a clear, concise summary sentence:\n\nCRISPR screening revealed that combining metformin with NSAIDs could effectively prevent oral cancer by blocking PKA-driven resistance mechanisms.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41416398/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-06"
+      },
+      {
         "id": "recpdGz1LRAn6wMiQ",
         "title": "New mechanistic insights into targeted protein degradation using Raman-active theranostic hydrophobic tags.",
         "summary": "A new hydrophobic tag coupled with olaparib more effectively degrades PARP-1 in ovarian cancer cells, enhancing anti-cancer activity through targeted protein removal.",
@@ -419,20 +433,6 @@
         "cancer_types": [
           "Leukemia",
           "Ovarian"
-        ],
-        "quality_score": 13,
-        "pub_date": "2025-12-01",
-        "added_date": "2026-02-05"
-      },
-      {
-        "id": "rec0XgNvwJCCSvvTc",
-        "title": "Exploring dual inhibitors Carbonic Anhydrases and Phosphodiesterase 5 as potential agents for treatment Alzheimer's disease.",
-        "summary": "A novel dual-targeting drug compound 8a shows promise in reducing memory loss and brain cell damage in Alzheimer's disease by inhibiting two key enzymes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41330156/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia"
         ],
         "quality_score": 13,
         "pub_date": "2025-12-01",
@@ -886,10 +886,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3832,
+    "archive_count": 3833,
     "archive_supplements": 499,
     "archive_off_label": 172,
     "archive_biomarkers": 2038,
-    "archive_trials": 825
+    "archive_trials": 826
   }
 }
