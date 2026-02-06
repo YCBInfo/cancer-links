@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-02-06T05:12:25.466Z",
+  "last_updated": "2026-02-06T05:12:35.571Z",
   "categories": {
     "supplements": [
+      {
+        "id": "recGOGVPhOkKymg7I",
+        "title": "Farnesol induces apoptosis, LC3B/SQSTM1 mediated regulation of autophagy and downregulates anaerobic Glycolysis through suppression of LDH and PKM in A549 lung adenocarcinoma cells.",
+        "summary": "Farnesol inhibits lung cancer cell growth by disrupting glycolysis, triggering mitochondrial dysfunction, increasing oxidative stress, and promoting cell death.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41642487/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lung",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-06"
+      },
       {
         "id": "recYer76VxsjSoHEM",
         "title": "Effect of stereochemistry at position C14 on the antiproliferative activity and selectivity of simplified oridonin O-acylated derivatives.",
@@ -193,20 +208,6 @@
         "title": "Natural and synthetic compounds targeting ferroptosis in esophageal squamous cell carcinoma: Research progress and application potential.",
         "summary": "Natural and synthetic compounds targeting ferroptosis show promise in killing esophageal cancer cells and potentially improving treatment outcomes.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41349319/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 13,
-        "pub_date": "2025-12-01",
-        "added_date": "2026-02-05"
-      },
-      {
-        "id": "rectCCu7fNYctASvB",
-        "title": "Structure-Guided optimization of PAO-PDT yields TrxR inhibitors as potential anticancer agent.",
-        "summary": "By combining organoarsenic compounds with cinnamic acid, researchers developed a potent TrxR inhibitor (As-CA11) that induces cancer cell death by disrupting cellular redox balance.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41338133/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -881,10 +882,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3566,
+    "archive_count": 3567,
     "archive_supplements": 467,
     "archive_off_label": 168,
     "archive_biomarkers": 1884,
-    "archive_trials": 749
+    "archive_trials": 750
   }
 }
