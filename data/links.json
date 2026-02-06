@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-06T05:31:45.557Z",
+  "last_updated": "2026-02-06T05:32:45.119Z",
   "categories": {
     "supplements": [
       {
@@ -279,6 +279,20 @@
         "added_date": "2026-02-06"
       },
       {
+        "id": "rec4hAeRDipfMGyen",
+        "title": "A novel DYRK1A inhibitor alleviates lipopolysaccharide-induced acute lung injury via suppressing inflammatory pathway.",
+        "summary": "A new drug targeting DYRK1A effectively reduces inflammation and damage in acute lung injury, potentially offering a promising treatment approach.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41643267/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-06"
+      },
+      {
         "id": "recpdGz1LRAn6wMiQ",
         "title": "New mechanistic insights into targeted protein degradation using Raman-active theranostic hydrophobic tags.",
         "summary": "A new hydrophobic tag coupled with olaparib more effectively degrades PARP-1 in ovarian cancer cells, enhancing anti-cancer activity through targeted protein removal.",
@@ -416,20 +430,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Lung",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-05"
-      },
-      {
-        "id": "recYAoktWy4vepL7X",
-        "title": "Applying biotechnology to overcome cancer drug resistance and improve public health outcomes.",
-        "summary": "Biotechnology innovations like CRISPR, targeted therapies, and immunotherapies can help overcome cancer drug resistance and improve treatment effectiveness across different healthcare settings.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41638902/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
           "Leukemia"
         ],
         "quality_score": 15,
@@ -884,10 +884,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3640,
+    "archive_count": 3641,
     "archive_supplements": 473,
     "archive_off_label": 170,
-    "archive_biomarkers": 1940,
+    "archive_biomarkers": 1941,
     "archive_trials": 759
   }
 }
