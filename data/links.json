@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-06T05:17:38.321Z",
+  "last_updated": "2026-02-06T05:17:47.758Z",
   "categories": {
     "supplements": [
       {
@@ -236,6 +236,20 @@
         "added_date": "2026-02-06"
       },
       {
+        "id": "recUgYGS2SGt5XFH9",
+        "title": "Transcriptomic Correlation Identifies Cell Model Representatives for MYCN-Amplified Pediatric Neuroblastoma, Downstream Impact of Model Choice on Functional Interpretation, and Potential Drug Repositioning Candidates.",
+        "summary": "Researchers identified specific neuroblastoma cell lines that closely match patient tumor gene expression, revealing potential new drug treatments for MYCN-amplified, high-risk pediatric cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41642108/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-06"
+      },
+      {
         "id": "recpdGz1LRAn6wMiQ",
         "title": "New mechanistic insights into targeted protein degradation using Raman-active theranostic hydrophobic tags.",
         "summary": "A new hydrophobic tag coupled with olaparib more effectively degrades PARP-1 in ovarian cancer cells, enhancing anti-cancer activity through targeted protein removal.",
@@ -415,21 +429,6 @@
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-05"
-      },
-      {
-        "id": "recUmWjmvcIWzxPS0",
-        "title": "Integrated regulation of ferroptosis in prostate cancer covering mechanisms, resistance, and translational opportunities.",
-        "summary": "Researchers discovered that targeting specific molecular mechanisms of ferroptosis could offer new treatment strategies for improving prostate cancer therapy and patient outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41639281/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Prostate",
           "Leukemia"
         ],
         "quality_score": 15,
@@ -884,9 +883,9 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3597,
+    "archive_count": 3598,
     "archive_supplements": 471,
-    "archive_off_label": 168,
+    "archive_off_label": 169,
     "archive_biomarkers": 1907,
     "archive_trials": 753
   }
