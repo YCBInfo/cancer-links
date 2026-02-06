@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-06T05:16:09.349Z",
+  "last_updated": "2026-02-06T05:16:17.077Z",
   "categories": {
     "supplements": [
       {
@@ -43,6 +43,21 @@
           "Leukemia",
           "Liver",
           "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-06"
+      },
+      {
+        "id": "recQWDVmoi0KCZZtn",
+        "title": "Combination of sodium pentaborate pentahydrate, curcumin and piperine treatment induces ferroptosis in hepatocellular carcinoma cells by regulating iron homeostasis and ROS activity in vitro.",
+        "summary": "A combination of sodium pentaborate, curcumin, and piperine effectively triggered cell death in hepatocellular carcinoma by disrupting iron metabolism and increasing reactive oxygen species.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41642374/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia",
+          "Liver"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -198,21 +213,6 @@
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-05"
-      },
-      {
-        "id": "rec1xZpOx2RWgzbWx",
-        "title": "Targeting Hsp70 triggers ferroptosis: a novel anti-cancer mechanism of a marine natural product in prostate cancer.",
-        "summary": "A marine compound called nidurufin targets HSP70, disrupting the AR signaling pathway and triggering ferroptosis in prostate cancer cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41639515/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Prostate",
           "Leukemia"
         ],
         "quality_score": 15,
@@ -884,10 +884,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3588,
+    "archive_count": 3589,
     "archive_supplements": 470,
     "archive_off_label": 168,
-    "archive_biomarkers": 1899,
+    "archive_biomarkers": 1900,
     "archive_trials": 753
   }
 }
