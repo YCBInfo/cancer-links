@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-06T05:20:09.251Z",
+  "last_updated": "2026-02-06T05:20:19.788Z",
   "categories": {
     "supplements": [
       {
@@ -250,6 +250,20 @@
         "added_date": "2026-02-06"
       },
       {
+        "id": "rec2zPlqRJART7fSz",
+        "title": "Safety of anagliptin/metformin combination tablets evaluated by non-inferiority between pre- and post-serum lactic acid levels in Japanese patients with type 2 diabetes and moderate renal impairment (AMELIO STUDY).",
+        "summary": "A study found anagliptin/metformin combination tablets are safe for Japanese type 2 diabetes patients with moderate kidney problems, based on stable lactic acid levels.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41641475/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Kidney"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-06"
+      },
+      {
         "id": "recpdGz1LRAn6wMiQ",
         "title": "New mechanistic insights into targeted protein degradation using Raman-active theranostic hydrophobic tags.",
         "summary": "A new hydrophobic tag coupled with olaparib more effectively degrades PARP-1 in ovarian cancer cells, enhancing anti-cancer activity through targeted protein removal.",
@@ -412,20 +426,6 @@
         "title": "Synergistic effects of anticoagulants and platelet aggregation inhibitors with immune checkpoint inhibitors in cancer therapy: a comprehensive review of preclinical and clinical evidence.",
         "summary": "Anticoagulants may enhance immune checkpoint inhibitors' effectiveness in cancer treatment by improving immune cell infiltration and reducing tumor spread.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41638873/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-05"
-      },
-      {
-        "id": "recFOgVjhnRi5pQby",
-        "title": "Calcium Channel Blockers Inhibit Pancreatic Neuroendocrine Neoplasms Progression via Cav1.2-Epigenetic Circuit.",
-        "summary": "Calcium channel blockers, particularly amlodipine, significantly inhibit pancreatic neuroendocrine neoplasm progression by disrupting a key cellular signaling pathway.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41636771/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -883,10 +883,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3612,
+    "archive_count": 3613,
     "archive_supplements": 472,
     "archive_off_label": 169,
-    "archive_biomarkers": 1918,
+    "archive_biomarkers": 1919,
     "archive_trials": 755
   }
 }
