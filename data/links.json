@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-06T05:08:23.909Z",
+  "last_updated": "2026-02-06T05:08:33.984Z",
   "categories": {
     "supplements": [
       {
@@ -565,6 +565,20 @@
         "added_date": "2026-02-06"
       },
       {
+        "id": "rec7sMUI4YIPrUh1J",
+        "title": "TGF-β1 relieves burn injury induced pain by alleviating inflammation in mouse.",
+        "summary": "TGF-β1 reduces pain and inflammation in burn injury by suppressing pro-inflammatory factors and promoting anti-inflammatory responses in a mouse model.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41642851/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-06"
+      },
+      {
         "id": "rec70qLhSRxKp8ZzC",
         "title": "EPB41L family serves as a prognostic biomarker for kidney renal clear cell carcinoma.",
         "summary": "EPB41L family proteins are potential prognostic biomarkers for kidney cancer, with low expression linked to reduced survival and poor patient outcomes.",
@@ -633,20 +647,6 @@
           "Leukemia"
         ],
         "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-05"
-      },
-      {
-        "id": "reci23SBS1bp2fA5Q",
-        "title": "[68Ga]Ga-FAPI Surpasses [18F]FDG in Pancreatic Adenosquamous Carcinoma Restaging.",
-        "summary": "In pancreatic adenosquamous carcinoma, [68Ga]Ga-FAPI PET/CT outperformed [18F]FDG PET/CT by detecting cancer recurrence more accurately.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41632577/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-05"
       }
@@ -782,6 +782,20 @@
         "added_date": "2026-02-06"
       },
       {
+        "id": "rec7sMUI4YIPrUh1J",
+        "title": "TGF-β1 relieves burn injury induced pain by alleviating inflammation in mouse.",
+        "summary": "TGF-β1 reduces pain and inflammation in burn injury by suppressing pro-inflammatory factors and promoting anti-inflammatory responses in a mouse model.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41642851/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-06"
+      },
+      {
         "id": "rec70qLhSRxKp8ZzC",
         "title": "EPB41L family serves as a prognostic biomarker for kidney renal clear cell carcinoma.",
         "summary": "EPB41L family proteins are potential prognostic biomarkers for kidney cancer, with low expression linked to reduced survival and poor patient outcomes.",
@@ -852,20 +866,6 @@
         "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-05"
-      },
-      {
-        "id": "reci23SBS1bp2fA5Q",
-        "title": "[68Ga]Ga-FAPI Surpasses [18F]FDG in Pancreatic Adenosquamous Carcinoma Restaging.",
-        "summary": "In pancreatic adenosquamous carcinoma, [68Ga]Ga-FAPI PET/CT outperformed [18F]FDG PET/CT by detecting cancer recurrence more accurately.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41632577/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-05"
       }
     ]
   },
@@ -875,10 +875,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3542,
+    "archive_count": 3543,
     "archive_supplements": 467,
     "archive_off_label": 168,
-    "archive_biomarkers": 1861,
+    "archive_biomarkers": 1862,
     "archive_trials": 748
   }
 }
