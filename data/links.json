@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-06T05:09:24.288Z",
+  "last_updated": "2026-02-06T05:09:34.574Z",
   "categories": {
     "supplements": [
       {
@@ -859,19 +859,19 @@
         "added_date": "2026-02-06"
       },
       {
-        "id": "rec70qLhSRxKp8ZzC",
-        "title": "EPB41L family serves as a prognostic biomarker for kidney renal clear cell carcinoma.",
-        "summary": "EPB41L family proteins are potential prognostic biomarkers for kidney cancer, with low expression linked to reduced survival and poor patient outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41636170/",
+        "id": "recbE1USPA2EBGrTZ",
+        "title": "A hybrid feature extraction framework combining PCA and mutual information for gene expression based lung cancer classification.",
+        "summary": "A hybrid PCA-MI approach successfully extracted key gene features from lung cancer data, enabling a CNN classifier to achieve 98% accuracy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41642802/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
-          "Leukemia",
-          "Kidney"
+          "Lung",
+          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
-        "added_date": "2026-02-05"
+        "added_date": "2026-02-06"
       }
     ]
   },
@@ -881,10 +881,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3548,
+    "archive_count": 3549,
     "archive_supplements": 467,
     "archive_off_label": 168,
-    "archive_biomarkers": 1867,
+    "archive_biomarkers": 1868,
     "archive_trials": 748
   }
 }
