@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-06T07:06:20.311Z",
+  "last_updated": "2026-02-06T07:06:39.443Z",
   "categories": {
     "supplements": [
       {
@@ -295,6 +295,21 @@
         "added_date": "2026-02-06"
       },
       {
+        "id": "recXfioQTY9KvJXQw",
+        "title": "Insight into the Biology of Hepatitis B Virus and Recent Therapeutic Approaches.",
+        "summary": "Here's a concise summary sentence:\n\nResearchers review hepatitis B virus biology and explore new antiviral strategies to improve treatment and develop more effective vaccines against liver cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41642349/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Leukemia",
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-06"
+      },
+      {
         "id": "recpdGz1LRAn6wMiQ",
         "title": "New mechanistic insights into targeted protein degradation using Raman-active theranostic hydrophobic tags.",
         "summary": "A new hydrophobic tag coupled with olaparib more effectively degrades PARP-1 in ovarian cancer cells, enhancing anti-cancer activity through targeted protein removal.",
@@ -418,21 +433,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Kidney"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-05"
-      },
-      {
-        "id": "rec574SsWHl3Tjzl0",
-        "title": "Natural polysaccharide riclin acts as an immune adjuvant to enhance chemotherapy efficacy in NSCLC.",
-        "summary": "Riclin, a natural polysaccharide, enhances gemcitabine's effectiveness in lung cancer by boosting immune function and reducing tumor burden.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41639210/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Lung",
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -886,9 +886,9 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3688,
+    "archive_count": 3689,
     "archive_supplements": 478,
-    "archive_off_label": 170,
+    "archive_off_label": 171,
     "archive_biomarkers": 1976,
     "archive_trials": 766
   }
