@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-06T05:02:01.859Z",
+  "last_updated": "2026-02-06T05:06:23.131Z",
   "categories": {
     "supplements": [
       {
@@ -450,6 +450,21 @@
         "added_date": "2026-02-06"
       },
       {
+        "id": "rec62bgyshHjCzrSL",
+        "title": "Evaluation of targeted and immune combination therapies in a rat model of hormone receptor-positive breast cancer.",
+        "summary": "In a rat breast cancer model, fulvestrant combined with an immune checkpoint inhibitor showed the most effective tumor regression and treatment response.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41642991/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Breast",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-06"
+      },
+      {
         "id": "rec70qLhSRxKp8ZzC",
         "title": "EPB41L family serves as a prognostic biomarker for kidney renal clear cell carcinoma.",
         "summary": "EPB41L family proteins are potential prognostic biomarkers for kidney cancer, with low expression linked to reduced survival and poor patient outcomes.",
@@ -633,20 +648,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-05"
-      },
-      {
-        "id": "rec3I9J3Al7NH8d3L",
-        "title": "Single-molecule localization microscopy reveals the molecular organization of endogenous membrane receptors.",
-        "summary": "Single-molecule microscopy reveals detailed molecular organization of immune cell receptors, potentially improving cancer antibody therapy for multiple myeloma.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41637495/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-05"
       }
     ],
     "trials": [
@@ -661,6 +662,21 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-06"
+      },
+      {
+        "id": "rec62bgyshHjCzrSL",
+        "title": "Evaluation of targeted and immune combination therapies in a rat model of hormone receptor-positive breast cancer.",
+        "summary": "In a rat breast cancer model, fulvestrant combined with an immune checkpoint inhibitor showed the most effective tumor regression and treatment response.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41642991/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Breast",
+          "Leukemia"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-06"
       },
@@ -849,21 +865,6 @@
         "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-02-05"
-      },
-      {
-        "id": "recapMZ0KVLWri2j6",
-        "title": "Precision oncology promise in the management of pancreatic acinar cell carcinoma.",
-        "summary": "Next-generation sequencing reveals unique genomic alterations in rare pancreatic acinar cell carcinoma, enabling personalized targeted therapies and precision oncology approaches.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41518684/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia",
-          "Pancreatic"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-05"
       }
     ]
   },
@@ -873,10 +874,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3535,
+    "archive_count": 3536,
     "archive_supplements": 467,
     "archive_off_label": 168,
     "archive_biomarkers": 1856,
-    "archive_trials": 746
+    "archive_trials": 747
   }
 }
