@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-06T07:04:08.627Z",
+  "last_updated": "2026-02-06T07:04:18.516Z",
   "categories": {
     "supplements": [
       {
@@ -149,6 +149,21 @@
         "added_date": "2026-02-06"
       },
       {
+        "id": "rec2EKGuFK79GXxBe",
+        "title": "Transcriptomic profile and gene expression of human breast cancer cell lines treated with herbal extract of clinacanthus nutans leaves.",
+        "summary": "Clinacanthus nutans leaf extract induced apoptosis in breast cancer cells by altering expression of 843 genes involved in cell death pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41643046/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-06"
+      },
+      {
         "id": "recYer76VxsjSoHEM",
         "title": "Effect of stereochemistry at position C14 on the antiproliferative activity and selectivity of simplified oridonin O-acylated derivatives.",
         "summary": "C14α-configured oridonin derivatives showed enhanced antiproliferative activity against SU-DHL-6 lymphoma cells, with compound 6k demonstrating the most potent effect.",
@@ -201,20 +216,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-05"
-      },
-      {
-        "id": "recdp1DDL1efrCB9i",
-        "title": "Exercise training decreases Neuregulin-1 concentrations in HER2-positive breast cancer patients undergoing adjuvant trastuzumab: the CARDAPAC study.",
-        "summary": "Exercise training reduced Neuregulin-1 levels in HER2-positive breast cancer patients receiving trastuzumab, potentially mitigating treatment-related heart damage.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41636910/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -885,10 +886,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3681,
+    "archive_count": 3682,
     "archive_supplements": 477,
     "archive_off_label": 170,
-    "archive_biomarkers": 1972,
+    "archive_biomarkers": 1973,
     "archive_trials": 764
   }
 }
