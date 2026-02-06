@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-06T05:21:09.925Z",
+  "last_updated": "2026-02-06T05:21:20.080Z",
   "categories": {
     "supplements": [
       {
@@ -264,6 +264,21 @@
         "added_date": "2026-02-06"
       },
       {
+        "id": "rec9SP0nBGoaCfXq9",
+        "title": "Giant Cell Arteritis/Polymyalgia Rheumatica and Atypical Pulmonary Carcinoid Tumor: A Paraneoplastic Syndrome?",
+        "summary": "A 59-year-old man with giant cell arteritis developed a rare paraneoplastic syndrome linked to a small-cell lung neuroendocrine carcinoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41640080/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung",
+          "Leukemia"
+        ],
+        "quality_score": 18,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-06"
+      },
+      {
         "id": "recpdGz1LRAn6wMiQ",
         "title": "New mechanistic insights into targeted protein degradation using Raman-active theranostic hydrophobic tags.",
         "summary": "A new hydrophobic tag coupled with olaparib more effectively degrades PARP-1 in ovarian cancer cells, enhancing anti-cancer activity through targeted protein removal.",
@@ -414,20 +429,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41638902/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-05"
-      },
-      {
-        "id": "rec1PayE9LoGRkx7b",
-        "title": "Synergistic effects of anticoagulants and platelet aggregation inhibitors with immune checkpoint inhibitors in cancer therapy: a comprehensive review of preclinical and clinical evidence.",
-        "summary": "Anticoagulants may enhance immune checkpoint inhibitors' effectiveness in cancer treatment by improving immune cell infiltration and reducing tumor spread.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41638873/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
         "cancer_types": [
           "Leukemia"
         ],
@@ -883,10 +884,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3618,
+    "archive_count": 3619,
     "archive_supplements": 472,
     "archive_off_label": 170,
-    "archive_biomarkers": 1923,
+    "archive_biomarkers": 1924,
     "archive_trials": 755
   }
 }
