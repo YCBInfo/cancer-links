@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-06T05:15:37.355Z",
+  "last_updated": "2026-02-06T05:15:47.598Z",
   "categories": {
     "supplements": [
       {
@@ -26,6 +26,22 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Leukemia",
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-06"
+      },
+      {
+        "id": "recapt2O9PPPKUY62",
+        "title": "Ashwagandha (Withania somnifera) targets liver cancer stem cells via inhibiting Hedgehog signaling pathway in hepatocellular carcinoma.",
+        "summary": "Ashwagandha extract effectively inhibited liver cancer cell proliferation and reduced drug resistance by targeting cancer stem cells through the Hedgehog signaling pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41642395/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia",
+          "Liver",
           "Brain"
         ],
         "quality_score": 15,
@@ -198,21 +214,6 @@
         "cancer_types": [
           "Prostate",
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-05"
-      },
-      {
-        "id": "recUTI3dAlxH69DrA",
-        "title": "Gambogic acid ameliorates hepatocellular carcinoma by inhibiting oxidative stress via Nrf2-pSmad2C/2L pathway.",
-        "summary": "Gambogic acid effectively reduces liver cancer progression by inhibiting oxidative stress through a specific cellular signaling pathway in experimental models.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41639348/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia",
-          "Liver"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -883,10 +884,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3585,
+    "archive_count": 3586,
     "archive_supplements": 469,
     "archive_off_label": 168,
-    "archive_biomarkers": 1898,
+    "archive_biomarkers": 1899,
     "archive_trials": 752
   }
 }
