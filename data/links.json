@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-06T05:19:39.184Z",
+  "last_updated": "2026-02-06T05:19:49.070Z",
   "categories": {
     "supplements": [
       {
@@ -58,6 +58,20 @@
         "cancer_types": [
           "Leukemia",
           "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-06"
+      },
+      {
+        "id": "reczuslRIdQrGCuyj",
+        "title": "Impact of yoga therapy in intestinal disorders.",
+        "summary": "Here's a concise summary sentence:\n\nYoga therapy may offer potential relief and improve quality of life for patients with intestinal disorders like IBS, IBD, and colorectal cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41641687/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -202,20 +216,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-05"
-      },
-      {
-        "id": "recbGnrpZceeS4fNi",
-        "title": "Testicular ageing as a central hallmark of male senescence: characteristics, molecular mechanisms and emerging therapeutic strategies.",
-        "summary": "Here's a clear, concise summary sentence:\n\nResearchers are exploring how testicular aging occurs and seeking potential interventions to slow or reverse age-related decline in male reproductive function.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41635976/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-05"
       }
@@ -883,10 +883,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3609,
+    "archive_count": 3610,
     "archive_supplements": 471,
     "archive_off_label": 169,
     "archive_biomarkers": 1917,
-    "archive_trials": 754
+    "archive_trials": 755
   }
 }
