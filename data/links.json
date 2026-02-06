@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-06T05:23:51.338Z",
+  "last_updated": "2026-02-06T05:24:11.589Z",
   "categories": {
     "supplements": [
       {
@@ -74,6 +74,20 @@
           "Colorectal"
         ],
         "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-06"
+      },
+      {
+        "id": "recuPm1K09qw7BrhY",
+        "title": "[Consensus document on healthy lifestyles].",
+        "summary": "Since this is a consensus document on healthy lifestyles rather than a cancer research paper, I'll provide a general summary highlighting the key lifestyle recommendations:\n\nA comprehensive guide recommends balanced nutrition, regular exercise, stress management, and social support to promote overall health and prevent chronic diseases.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41569554/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 24,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-06"
       },
@@ -202,20 +216,6 @@
           "Colorectal"
         ],
         "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-05"
-      },
-      {
-        "id": "recDI3hwouI7x4NyR",
-        "title": "Proteomic antibacterial characterization of flavonoid xanthohumol and probiotic Clostridium butyricum on pathogenic Clostridioides difficile.",
-        "summary": "Xanthohumol and Clostridium butyricum combined effectively inhibit the growth of harmful Clostridioides difficile bacteria in the gut.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41634763/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-05"
       }
@@ -884,10 +884,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3627,
+    "archive_count": 3628,
     "archive_supplements": 472,
     "archive_off_label": 170,
-    "archive_biomarkers": 1932,
+    "archive_biomarkers": 1933,
     "archive_trials": 755
   }
 }
