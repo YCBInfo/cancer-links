@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-06T05:07:53.888Z",
+  "last_updated": "2026-02-06T05:08:04.073Z",
   "categories": {
     "supplements": [
       {
@@ -523,6 +523,20 @@
         "added_date": "2026-02-06"
       },
       {
+        "id": "recg8V88rAGayCUzT",
+        "title": "KMT2C Loss Promotes NF2-Wildtype Meningioma Progression and Ferroptosis Sensitivity via Epigenetic Repression of Hippo Signaling.",
+        "summary": "KMT2C loss in NF2-wildtype meningiomas promotes cancer progression by reducing NF2 transcription and increasing sensitivity to cell death.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41642951/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-06"
+      },
+      {
         "id": "rec70qLhSRxKp8ZzC",
         "title": "EPB41L family serves as a prognostic biomarker for kidney renal clear cell carcinoma.",
         "summary": "EPB41L family proteins are potential prognostic biomarkers for kidney cancer, with low expression linked to reduced survival and poor patient outcomes.",
@@ -636,20 +650,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-05"
-      },
-      {
-        "id": "recxe0sxu0raYTqBa",
-        "title": "Refining M1-Stage Stratification in De Novo Metastatic Nasopharyngeal Carcinoma Using 18F-FDG PET/CT: Preliminary Evidence.",
-        "summary": "PET/CT imaging suggests a potential new way to more precisely categorize metastatic stages in nasopharyngeal cancer patients beyond current staging systems.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41632574/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-05"
       }
     ],
     "trials": [
@@ -731,6 +731,20 @@
         "title": "DNA origami vaccines program antigen-focused germinal centers.",
         "summary": "DNA origami nanoparticles displaying an HIV envelope protein effectively primed rare B cells that could generate broadly neutralizing antibodies in mouse models.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41643005/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-06"
+      },
+      {
+        "id": "recg8V88rAGayCUzT",
+        "title": "KMT2C Loss Promotes NF2-Wildtype Meningioma Progression and Ferroptosis Sensitivity via Epigenetic Repression of Hippo Signaling.",
+        "summary": "KMT2C loss in NF2-wildtype meningiomas promotes cancer progression by reducing NF2 transcription and increasing sensitivity to cell death.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41642951/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -854,20 +868,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-05"
-      },
-      {
-        "id": "recxe0sxu0raYTqBa",
-        "title": "Refining M1-Stage Stratification in De Novo Metastatic Nasopharyngeal Carcinoma Using 18F-FDG PET/CT: Preliminary Evidence.",
-        "summary": "PET/CT imaging suggests a potential new way to more precisely categorize metastatic stages in nasopharyngeal cancer patients beyond current staging systems.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41632574/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-05"
       }
     ]
   },
@@ -877,10 +877,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3539,
+    "archive_count": 3540,
     "archive_supplements": 467,
     "archive_off_label": 168,
-    "archive_biomarkers": 1858,
+    "archive_biomarkers": 1859,
     "archive_trials": 748
   }
 }
