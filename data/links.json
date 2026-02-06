@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-06T07:01:57.619Z",
+  "last_updated": "2026-02-06T07:02:08.272Z",
   "categories": {
     "supplements": [
       {
@@ -88,6 +88,20 @@
           "Leukemia"
         ],
         "quality_score": 24,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-06"
+      },
+      {
+        "id": "recU1t95qDVru2Pg3",
+        "title": "Rebalancing the inflammatory trajectory from inflammatory bowel disease to colitis-associated colorectal cancer via artemisinin-based multitarget therapy.",
+        "summary": "Artemisinin compounds show promise in reducing inflammation and cancer progression in inflammatory bowel disease, potentially preventing colorectal cancer development.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41644739/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-06"
       },
@@ -202,20 +216,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-05"
-      },
-      {
-        "id": "recqgNx4xy16Elem2",
-        "title": "Effects of probiotics, prebiotics, and synbiotics on P53 and KI-67 in colorectal cancer: a scoping review.",
-        "summary": "Probiotics and related supplements may influence colorectal cancer progression by modulating tumor cell proliferation and apoptosis through key molecular markers.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41524176/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-05"
       }
@@ -884,10 +884,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3668,
+    "archive_count": 3669,
     "archive_supplements": 473,
     "archive_off_label": 170,
-    "archive_biomarkers": 1964,
+    "archive_biomarkers": 1965,
     "archive_trials": 763
   }
 }
