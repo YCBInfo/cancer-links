@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-06T07:31:32.710Z",
+  "last_updated": "2026-02-06T07:32:12.252Z",
   "categories": {
     "supplements": [
       {
@@ -339,6 +339,20 @@
         "added_date": "2026-02-06"
       },
       {
+        "id": "recA8nzUdMwiViT1d",
+        "title": "A metabolic atlas of mouse aging.",
+        "summary": "Researchers mapped metabolic changes across 12 mouse organs during aging, identifying key metabolic drivers like alpha-ketoglutarate and potential aging-related compounds.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41297544/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-06"
+      },
+      {
         "id": "recpdGz1LRAn6wMiQ",
         "title": "New mechanistic insights into targeted protein degradation using Raman-active theranostic hydrophobic tags.",
         "summary": "A new hydrophobic tag coupled with olaparib more effectively degrades PARP-1 in ovarian cancer cells, enhancing anti-cancer activity through targeted protein removal.",
@@ -417,21 +431,6 @@
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-05"
-      },
-      {
-        "id": "recSO83MdaPk8biYL",
-        "title": "Repurposing of the Macrolide Antibiotic Clarithromycin for the Prevention of Lung Cancer.",
-        "summary": "In a mouse model, the antibiotic clarithromycin prevented KRAS-mutant lung cancer by reducing inflammation and altering the microbiome.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41024580/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Lung",
           "Leukemia"
         ],
         "quality_score": 15,
@@ -886,10 +885,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3718,
+    "archive_count": 3719,
     "archive_supplements": 489,
     "archive_off_label": 171,
-    "archive_biomarkers": 1989,
+    "archive_biomarkers": 1990,
     "archive_trials": 771
   }
 }
