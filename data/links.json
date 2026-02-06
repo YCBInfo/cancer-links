@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-06T07:30:52.999Z",
+  "last_updated": "2026-02-06T07:31:12.153Z",
   "categories": {
     "supplements": [
       {
@@ -324,6 +324,21 @@
         "added_date": "2026-02-06"
       },
       {
+        "id": "rec2UIKWvz38YAzX0",
+        "title": "Serotonin-licensed macrophages potentiate chemoresistance via inositol metabolic crosstalk in ovarian cancer.",
+        "summary": "Serotonin-activated macrophages in ovarian cancer transfer metabolic enzymes via vesicles, enhancing tumor cell DNA repair and chemotherapy resistance.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41412121/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia",
+          "Ovarian"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-06"
+      },
+      {
         "id": "recpdGz1LRAn6wMiQ",
         "title": "New mechanistic insights into targeted protein degradation using Raman-active theranostic hydrophobic tags.",
         "summary": "A new hydrophobic tag coupled with olaparib more effectively degrades PARP-1 in ovarian cancer cells, enhancing anti-cancer activity through targeted protein removal.",
@@ -418,21 +433,6 @@
         "cancer_types": [
           "Lung",
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-05"
-      },
-      {
-        "id": "recFgQ3Ps8AGcWesE",
-        "title": "Delactylation of the tumor suppressor ARHGDIB drives metastasis and chemoresistance in bladder cancer.",
-        "summary": "In bladder cancer, HDAC2-mediated removal of lactylation from ARHGDIB promotes cancer spread and cisplatin resistance by activating DNA repair mechanisms.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41637189/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia",
-          "Bladder"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -886,10 +886,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3715,
+    "archive_count": 3716,
     "archive_supplements": 489,
     "archive_off_label": 171,
-    "archive_biomarkers": 1987,
+    "archive_biomarkers": 1988,
     "archive_trials": 770
   }
 }
