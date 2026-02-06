@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-06T07:07:09.914Z",
+  "last_updated": "2026-02-06T07:07:19.388Z",
   "categories": {
     "supplements": [
       {
@@ -178,6 +178,21 @@
         "added_date": "2026-02-06"
       },
       {
+        "id": "recax6N7IBVV2Gg8R",
+        "title": "Bone-Penetrating Copper-Coordinated Nanoassembly Elicits Cuproptosis for Multimodal Cancer Therapy.",
+        "summary": "A copper-based nanoparticle platform effectively treats melanoma by inducing cancer cell death and penetrating bone tissue, achieving a 75% cure rate with low-dose light therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41641635/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Melanoma",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-06"
+      },
+      {
         "id": "recYer76VxsjSoHEM",
         "title": "Effect of stereochemistry at position C14 on the antiproliferative activity and selectivity of simplified oridonin O-acylated derivatives.",
         "summary": "C14α-configured oridonin derivatives showed enhanced antiproliferative activity against SU-DHL-6 lymphoma cells, with compound 6k demonstrating the most potent effect.",
@@ -200,21 +215,6 @@
         "category": "Clinical Trials",
         "cancer_types": [
           "Colorectal",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-05"
-      },
-      {
-        "id": "recmHE63hosC3Caug",
-        "title": "Impact of Perioperative Nutrition Intervention on Bioimpedance Phase Angle in Patients With Breast Cancer: A Systematic Review.",
-        "summary": "Targeted nutrition support during breast cancer treatment may improve patient health by preserving cellular integrity, as measured by bioimpedance phase angle.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41637158/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast",
           "Leukemia"
         ],
         "quality_score": 15,
@@ -886,10 +886,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3690,
+    "archive_count": 3691,
     "archive_supplements": 479,
     "archive_off_label": 171,
     "archive_biomarkers": 1976,
-    "archive_trials": 766
+    "archive_trials": 767
   }
 }
