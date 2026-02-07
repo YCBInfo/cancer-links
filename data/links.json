@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-07T07:02:21.514Z",
+  "last_updated": "2026-02-07T07:02:32.993Z",
   "categories": {
     "supplements": [
       {
@@ -42,6 +42,21 @@
         "cancer_types": [
           "Leukemia",
           "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-07"
+      },
+      {
+        "id": "recyWBsCej87uM1Lc",
+        "title": "A randomized clinical trial assessing the efficacy of vitamin B prophylaxis in attenuating paclitaxel-induced neuropathy and the imperative use of gabapentin in diabetic ovarian cancer patients.",
+        "summary": "Here's a clear, concise summary sentence:\n\nProphylactic vitamin B significantly reduced chemotherapy-induced nerve damage in ovarian cancer patients, potentially improving treatment outcomes and reducing the need for additional pain medication.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41652105/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia",
+          "Ovarian"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -202,20 +217,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Breast",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-06"
-      },
-      {
-        "id": "recoP6911yxWfT2vl",
-        "title": "Ultrasound-Enhanced Delivery of the Quercetin Derivative ANL3 Activates the FOXO1A-NDRG2-SOD2 Axis to Induce Endoplasmic Reticulum Stress in Osteosarcoma.",
-        "summary": "Ultrasound-assisted delivery of a new quercetin derivative (ANL3) effectively triggers cancer cell stress and death in osteosarcoma by targeting specific cellular pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41642032/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
           "Leukemia"
         ],
         "quality_score": 15,
@@ -887,10 +888,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 4057,
+    "archive_count": 4058,
     "archive_supplements": 509,
     "archive_off_label": 192,
-    "archive_biomarkers": 2202,
+    "archive_biomarkers": 2203,
     "archive_trials": 856
   }
 }
