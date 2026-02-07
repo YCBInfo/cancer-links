@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-07T09:09:25.439Z",
+  "last_updated": "2026-02-07T09:10:16.063Z",
   "categories": {
     "supplements": [
       {
@@ -241,6 +241,20 @@
         "added_date": "2026-02-07"
       },
       {
+        "id": "recx5zZ4prLZRJjgU",
+        "title": "Cardiovascular medications and treatment outcomes in multiple myeloma: insights from phase III clinical trials.",
+        "summary": "In multiple myeloma patients, ACE inhibitors/ARBs were linked to improved progression-free survival but increased adverse event risks during treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41651961/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 26,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-07"
+      },
+      {
         "id": "recwNacAF80BJXqj5",
         "title": "Successful Everolimus Therapy for Atrioventricular Block Due to Cardiac Rhabdomyoma Associated With Tuberous Sclerosis Complex.",
         "summary": "Everolimus effectively reduced a cardiac tumor in a tuberous sclerosis patient, resolving potentially life-threatening heart rhythm disruption caused by tumor compression.",
@@ -421,20 +435,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-06"
-      },
-      {
-        "id": "recCNQzW4OS3luTzY",
-        "title": "Genome-wide CRISPR Screening Reveals a PKA-Driven Resistance Mechanism to Metformin for Oral Cancer Prevention That Can Be Exploited by Combination with NSAIDs.",
-        "summary": "Here's a clear, concise summary sentence:\n\nCRISPR screening revealed that combining metformin with NSAIDs could effectively prevent oral cancer by blocking PKA-driven resistance mechanisms.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41416398/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -888,10 +888,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 4088,
+    "archive_count": 4089,
     "archive_supplements": 516,
     "archive_off_label": 193,
-    "archive_biomarkers": 2216,
+    "archive_biomarkers": 2217,
     "archive_trials": 865
   }
 }
