@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-07T07:02:43.170Z",
+  "last_updated": "2026-02-07T07:02:53.372Z",
   "categories": {
     "supplements": [
       {
@@ -57,6 +57,20 @@
         "cancer_types": [
           "Leukemia",
           "Ovarian"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-07"
+      },
+      {
+        "id": "recqX9iQwWxWNXLF8",
+        "title": "Microbiota-derived IPA protects against colitis by regulating intestinal HMGCS2-mediated ketogenesis to facilitate mucosal healing.",
+        "summary": "In colitis, gut bacteria-produced IPA helps heal intestinal damage by activating stem cells and boosting tissue regeneration through a specific metabolic pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41651833/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -202,21 +216,6 @@
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-06"
-      },
-      {
-        "id": "rec2EKGuFK79GXxBe",
-        "title": "Transcriptomic profile and gene expression of human breast cancer cell lines treated with herbal extract of clinacanthus nutans leaves.",
-        "summary": "Clinacanthus nutans leaf extract induced apoptosis in breast cancer cells by altering expression of 843 genes involved in cell death pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41643046/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast",
           "Leukemia"
         ],
         "quality_score": 15,
@@ -888,10 +887,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 4059,
+    "archive_count": 4060,
     "archive_supplements": 510,
     "archive_off_label": 192,
     "archive_biomarkers": 2203,
-    "archive_trials": 856
+    "archive_trials": 857
   }
 }
