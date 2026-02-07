@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-07T07:06:52.639Z",
+  "last_updated": "2026-02-07T07:07:03.345Z",
   "categories": {
     "supplements": [
       {
@@ -119,6 +119,20 @@
         "added_date": "2026-02-07"
       },
       {
+        "id": "recTW816o7WDVWDbq",
+        "title": "Covalent targeting of PSMD14 by Eupalinolide B induces oncoprotein degradation and apoptosis in acute promyelocytic leukemia cells.",
+        "summary": "Eupalinolide B targets a key protein in acute promyelocytic leukemia cells, causing cancer protein breakdown and cell death.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41647277/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-07"
+      },
+      {
         "id": "recGOGVPhOkKymg7I",
         "title": "Farnesol induces apoptosis, LC3B/SQSTM1 mediated regulation of autophagy and downregulates anaerobic Glycolysis through suppression of LDH and PKM in A549 lung adenocarcinoma cells.",
         "summary": "Farnesol inhibits lung cancer cell growth by disrupting glycolysis, triggering mitochondrial dysfunction, increasing oxidative stress, and promoting cell death.",
@@ -204,20 +218,6 @@
           "Leukemia"
         ],
         "quality_score": 24,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-06"
-      },
-      {
-        "id": "recU1t95qDVru2Pg3",
-        "title": "Rebalancing the inflammatory trajectory from inflammatory bowel disease to colitis-associated colorectal cancer via artemisinin-based multitarget therapy.",
-        "summary": "Artemisinin compounds show promise in reducing inflammation and cancer progression in inflammatory bowel disease, potentially preventing colorectal cancer development.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41644739/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-06"
       }
@@ -886,8 +886,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 4079,
-    "archive_supplements": 513,
+    "archive_count": 4080,
+    "archive_supplements": 514,
     "archive_off_label": 192,
     "archive_biomarkers": 2213,
     "archive_trials": 863
