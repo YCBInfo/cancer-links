@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-07T09:11:16.180Z",
+  "last_updated": "2026-02-07T09:11:27.151Z",
   "categories": {
     "supplements": [
       {
@@ -255,6 +255,20 @@
         "added_date": "2026-02-07"
       },
       {
+        "id": "rec9ukTeeLpHbwk7u",
+        "title": "PTUPB improves cognitive function in Alzheimer's disease associated with enhancing cerebral vascular myogenic response and attenuating vascular remodeling.",
+        "summary": "PTUPB, a dual enzyme inhibitor, improved cognitive function in Alzheimer's disease by enhancing cerebral blood vessel responses and reducing vascular remodeling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41652156/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-07"
+      },
+      {
         "id": "recwNacAF80BJXqj5",
         "title": "Successful Everolimus Therapy for Atrioventricular Block Due to Cardiac Rhabdomyoma Associated With Tuberous Sclerosis Complex.",
         "summary": "Everolimus effectively reduced a cardiac tumor in a tuberous sclerosis patient, resolving potentially life-threatening heart rhythm disruption caused by tumor compression.",
@@ -421,20 +435,6 @@
         "cancer_types": [
           "Breast",
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-06"
-      },
-      {
-        "id": "reclFPiiXAycbeUzR",
-        "title": "Ebastine targets HER2/HER3 signaling and cancer stem cell traits to overcome trastuzumab resistance in HER2‑positive breast cancer.",
-        "summary": "Ebastine effectively disrupts HER2 signaling and cancer stem cell traits, offering a potential new treatment approach for trastuzumab-resistant HER2-positive breast cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41645758/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -888,10 +888,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 4095,
+    "archive_count": 4096,
     "archive_supplements": 516,
     "archive_off_label": 194,
-    "archive_biomarkers": 2220,
+    "archive_biomarkers": 2221,
     "archive_trials": 867
   }
 }
