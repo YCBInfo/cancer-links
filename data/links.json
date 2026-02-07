@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-07T07:05:07.593Z",
+  "last_updated": "2026-02-07T07:05:17.997Z",
   "categories": {
     "supplements": [
       {
@@ -87,6 +87,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-07"
+      },
+      {
+        "id": "recqxm7KqfgSPMRkh",
+        "title": "Natural inhibitors of PTP1B: Caffeic acid, cinnamic acid, and cinnamaldehyde as promising agents against triple-negative breast cancer.",
+        "summary": "Caffeic acid, cinnamic acid, and cinnamaldehyde showed potential in reducing the growth of triple-negative breast cancer cells while sparing healthy cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41650533/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-07"
       },
@@ -203,20 +217,6 @@
         "cancer_types": [
           "Leukemia",
           "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-06"
-      },
-      {
-        "id": "recmEQkfKAxjCUxIC",
-        "title": "Dioscin Suppresses Ovarian and Gastric Tumor Progression by Inhibiting ALDH1A3-Mediated Retinoic Acid Metabolism and Cancer Stemness.",
-        "summary": "Dioscin, a natural compound, inhibits cancer stem cell activity in ovarian and gastric tumors by blocking a key enzyme involved in tumor progression and drug resistance.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41644120/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -887,8 +887,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 4072,
-    "archive_supplements": 511,
+    "archive_count": 4073,
+    "archive_supplements": 512,
     "archive_off_label": 192,
     "archive_biomarkers": 2208,
     "archive_trials": 863
