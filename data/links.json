@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-07T09:25:33.456Z",
+  "last_updated": "2026-02-07T09:25:44.482Z",
   "categories": {
     "supplements": [
       {
@@ -322,6 +322,20 @@
         "added_date": "2026-02-07"
       },
       {
+        "id": "rec1Da3LNzMYC0zhg",
+        "title": "Suppression of interferon signaling via small-molecule modulation of TFAM.",
+        "summary": "Small-molecule TFAM modulators increase mitochondrial DNA stability and reduce inflammatory responses in mitochondrial dysfunction-related cellular disease models.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41649246/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-07"
+      },
+      {
         "id": "recwNacAF80BJXqj5",
         "title": "Successful Everolimus Therapy for Atrioventricular Block Due to Cardiac Rhabdomyoma Associated With Tuberous Sclerosis Complex.",
         "summary": "Everolimus effectively reduced a cardiac tumor in a tuberous sclerosis patient, resolving potentially life-threatening heart rhythm disruption caused by tumor compression.",
@@ -416,21 +430,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-06"
-      },
-      {
-        "id": "rec2UIKWvz38YAzX0",
-        "title": "Serotonin-licensed macrophages potentiate chemoresistance via inositol metabolic crosstalk in ovarian cancer.",
-        "summary": "Serotonin-activated macrophages in ovarian cancer transfer metabolic enzymes via vesicles, enhancing tumor cell DNA repair and chemotherapy resistance.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41412121/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia",
-          "Ovarian"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -884,9 +883,9 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 4151,
+    "archive_count": 4152,
     "archive_supplements": 520,
-    "archive_off_label": 197,
+    "archive_off_label": 198,
     "archive_biomarkers": 2247,
     "archive_trials": 889
   }
