@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-07T05:16:51.851Z",
+  "last_updated": "2026-02-07T05:17:01.873Z",
   "categories": {
     "supplements": [
       {
@@ -11,6 +11,21 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Melanoma",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-07"
+      },
+      {
+        "id": "recZvIYCH0e54YK8y",
+        "title": "Bufalin Inhibits the PI3K/AKT Pathway by Targeting GTF3C4 to Impede Breast Cancer Progression.",
+        "summary": "Bufalin targets GTF3C4 protein in breast cancer, inhibiting cell growth and spreading by blocking a key molecular pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41649141/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast",
           "Leukemia"
         ],
         "quality_score": 15,
@@ -202,21 +217,6 @@
         "cancer_types": [
           "Melanoma",
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-06"
-      },
-      {
-        "id": "recPB3Ge7Dw7QZXgq",
-        "title": "Glucosamine suppresses hepatocellular carcinoma progression through dual inhibition of cell cycle progression and nucleotide metabolism.",
-        "summary": "Glucosamine inhibits liver cancer growth by stopping cell division and disrupting energy metabolism, potentially enhancing the effectiveness of existing cancer treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41643454/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia",
-          "Liver"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -887,10 +887,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3966,
+    "archive_count": 3967,
     "archive_supplements": 507,
     "archive_off_label": 192,
-    "archive_biomarkers": 2123,
+    "archive_biomarkers": 2124,
     "archive_trials": 846
   }
 }
