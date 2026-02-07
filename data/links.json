@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-07T05:08:08.079Z",
+  "last_updated": "2026-02-07T05:08:18.613Z",
   "categories": {
     "supplements": [
       {
@@ -850,6 +850,21 @@
         "added_date": "2026-02-07"
       },
       {
+        "id": "recU5SRrTAfrL1eMW",
+        "title": "Mesothelial cells promote peritoneal invasion and metastasis of ascites-derived ovarian cancer cells through spheroid formation.",
+        "summary": "Mesothelial cells in ovarian cancer ascites form spheroids that enhance cancer cell invasion and metastasis through transforming growth factor-β1 signaling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41650261/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia",
+          "Ovarian"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-07"
+      },
+      {
         "id": "recLoILIIQTMPyLSX",
         "title": "Time-resolved simultaneous imaging of mitochondrial reactive oxygen species and lysosomal permeabilization to determine organelle-centred cell death.",
         "summary": "Here's a clear, concise summary sentence:\n\nResearchers developed a new imaging technique to simultaneously track mitochondrial and lysosomal changes during cell death, revealing potential insights for understanding cellular destruction.",
@@ -862,21 +877,6 @@
         "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-06"
-      },
-      {
-        "id": "rec62bgyshHjCzrSL",
-        "title": "Evaluation of targeted and immune combination therapies in a rat model of hormone receptor-positive breast cancer.",
-        "summary": "In a rat breast cancer model, fulvestrant combined with an immune checkpoint inhibitor showed the most effective tumor regression and treatment response.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41642991/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Breast",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-06"
       }
     ]
   },
@@ -886,10 +886,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3915,
+    "archive_count": 3916,
     "archive_supplements": 507,
     "archive_off_label": 192,
-    "archive_biomarkers": 2078,
+    "archive_biomarkers": 2079,
     "archive_trials": 840
   }
 }
