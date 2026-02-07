@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-07T07:04:51.562Z",
+  "last_updated": "2026-02-07T07:05:07.593Z",
   "categories": {
     "supplements": [
       {
@@ -73,6 +73,20 @@
           "Leukemia"
         ],
         "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-07"
+      },
+      {
+        "id": "recpBlIDb2b04Q5Po",
+        "title": "Advances in extraction, structural characteristics, bioactivities, structure-activity relationship, quality control and applications of polysaccharides from Tremella fuciformis: A review.",
+        "summary": "Tremella fuciformis polysaccharides show promising potential for health maintenance and potential cancer treatment support through their unique bioactive properties.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41650717/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-07"
       },
@@ -199,20 +213,6 @@
         "title": "Dioscin Suppresses Ovarian and Gastric Tumor Progression by Inhibiting ALDH1A3-Mediated Retinoic Acid Metabolism and Cancer Stemness.",
         "summary": "Dioscin, a natural compound, inhibits cancer stem cell activity in ovarian and gastric tumors by blocking a key enzyme involved in tumor progression and drug resistance.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41644120/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-06"
-      },
-      {
-        "id": "rechavQxsh83KaDeR",
-        "title": "Eupafolin in Nature and Science: Occurrence, Chemistry, Biosynthesis, Analytical Methods, and Potential Multifaceted Applications.",
-        "summary": "Here's a clear, concise summary sentence:\n\nEupafolin, a flavonoid found in medicinal plants, shows promising anticancer and anti-inflammatory properties with potential therapeutic applications.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41643742/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -887,10 +887,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 4071,
+    "archive_count": 4072,
     "archive_supplements": 511,
     "archive_off_label": 192,
     "archive_biomarkers": 2208,
-    "archive_trials": 862
+    "archive_trials": 863
   }
 }
