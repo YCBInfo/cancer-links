@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-02-07T05:15:51.394Z",
+  "last_updated": "2026-02-07T05:16:01.319Z",
   "categories": {
     "supplements": [
+      {
+        "id": "reclZPCWU3bdyEAYs",
+        "title": "Clinical and Molecular Perspectives on Epidermodysplasia Verruciformis.",
+        "summary": "Researchers found that epidermodysplasia verruciformis, a rare skin disorder with increased skin cancer risk, has both inherited and acquired forms linked to human papillomavirus infections.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41649263/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Melanoma",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-07"
+      },
       {
         "id": "recGOGVPhOkKymg7I",
         "title": "Farnesol induces apoptosis, LC3B/SQSTM1 mediated regulation of autophagy and downregulates anaerobic Glycolysis through suppression of LDH and PKM in A549 lung adenocarcinoma cells.",
@@ -202,20 +217,6 @@
         "cancer_types": [
           "Leukemia",
           "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-06"
-      },
-      {
-        "id": "recPk2q00U2BPEKkA",
-        "title": "4-Hydroxyderricin from Angelica keiskei promotes the stability of BRCA1 in triple-negative breast cancer cells through inhibition of cathepsin S.",
-        "summary": "A compound from Angelica keiskei helps stabilize BRCA1 protein in triple-negative breast cancer, potentially improving chemotherapy effectiveness by blocking cathepsin S.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41644081/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -886,10 +887,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3960,
+    "archive_count": 3961,
     "archive_supplements": 507,
     "archive_off_label": 192,
-    "archive_biomarkers": 2117,
+    "archive_biomarkers": 2118,
     "archive_trials": 846
   }
 }
