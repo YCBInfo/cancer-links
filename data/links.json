@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-07T05:07:57.842Z",
+  "last_updated": "2026-02-07T05:08:08.079Z",
   "categories": {
     "supplements": [
       {
@@ -835,6 +835,21 @@
         "added_date": "2026-02-07"
       },
       {
+        "id": "recslq4GUUXJwP6bT",
+        "title": "A Case of Malignant Melanoma With Numerous Wagner-Meissner-Like Bodies.",
+        "summary": "A rare malignant melanoma case showed unusual neural-like transformation, confirmed by molecular and immunohistochemical analysis of its complex cellular structure.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41650288/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Melanoma",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-07"
+      },
+      {
         "id": "recLoILIIQTMPyLSX",
         "title": "Time-resolved simultaneous imaging of mitochondrial reactive oxygen species and lysosomal permeabilization to determine organelle-centred cell death.",
         "summary": "Here's a clear, concise summary sentence:\n\nResearchers developed a new imaging technique to simultaneously track mitochondrial and lysosomal changes during cell death, revealing potential insights for understanding cellular destruction.",
@@ -862,20 +877,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-06"
-      },
-      {
-        "id": "recRY6jbTUirsfQxP",
-        "title": "Switchable Electrode-Enabled High-Density Two-Dimensional Chips: A Simple, Generalizable Approach to Yield High-Throughput Electrochemical Analyses.",
-        "summary": "Researchers developed a microfluidic chip with switchable electrodes that successfully monitored cancer cell (MDA-MB-231) proliferation through a high-density, compact sensor design.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41642901/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-06"
       }
     ]
   },
@@ -885,10 +886,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3914,
+    "archive_count": 3915,
     "archive_supplements": 507,
     "archive_off_label": 192,
-    "archive_biomarkers": 2077,
+    "archive_biomarkers": 2078,
     "archive_trials": 840
   }
 }
