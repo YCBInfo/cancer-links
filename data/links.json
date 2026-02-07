@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-07T07:06:42.044Z",
+  "last_updated": "2026-02-07T07:06:52.639Z",
   "categories": {
     "supplements": [
       {
@@ -105,6 +105,20 @@
         "added_date": "2026-02-07"
       },
       {
+        "id": "recgsBOYbaC2RJfjk",
+        "title": "Phytochemical Profiling and Computational Docking Studies Revealing the Potential Anticancer and Antioxidant Properties of Heliotropium indicum L.",
+        "summary": "Heliotropium indicum plant extract inhibited tumor growth by 76% in an Ehrlich ascites carcinoma model, showing promising anticancer potential.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41647488/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-07"
+      },
+      {
         "id": "recGOGVPhOkKymg7I",
         "title": "Farnesol induces apoptosis, LC3B/SQSTM1 mediated regulation of autophagy and downregulates anaerobic Glycolysis through suppression of LDH and PKM in A549 lung adenocarcinoma cells.",
         "summary": "Farnesol inhibits lung cancer cell growth by disrupting glycolysis, triggering mitochondrial dysfunction, increasing oxidative stress, and promoting cell death.",
@@ -202,21 +216,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-06"
-      },
-      {
-        "id": "recaglOMeBLRCwNKc",
-        "title": "Synergistic Triple-Modal Nanoplatform Integrating Fluorescence Imaging and Chemo-Photothermal/Photodynamic Therapy for Targeted Cancer Treatment.",
-        "summary": "A novel nanoplatform combining targeted drug delivery, fluorescence imaging, and light-activated therapies shows promising potential for precise cancer treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41644122/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia",
-          "Liver"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -887,10 +886,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 4078,
+    "archive_count": 4079,
     "archive_supplements": 513,
     "archive_off_label": 192,
-    "archive_biomarkers": 2212,
+    "archive_biomarkers": 2213,
     "archive_trials": 863
   }
 }
