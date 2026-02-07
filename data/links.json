@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-07T09:24:53.494Z",
+  "last_updated": "2026-02-07T09:25:33.456Z",
   "categories": {
     "supplements": [
       {
@@ -308,6 +308,20 @@
         "added_date": "2026-02-07"
       },
       {
+        "id": "recsDzalXWzUdj2bP",
+        "title": "A Two Birds with One Stone Strategy: Sialic Acid-Modified Pitavastatin Liposomes for Combating Atherosclerosis and Tumors.",
+        "summary": "Sialic acid-modified pitavastatin liposomes effectively reduced atherosclerosis progression and tumor growth by targeting neutrophils and enhancing T-cell infiltration.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41649341/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-07"
+      },
+      {
         "id": "recwNacAF80BJXqj5",
         "title": "Successful Everolimus Therapy for Atrioventricular Block Due to Cardiac Rhabdomyoma Associated With Tuberous Sclerosis Complex.",
         "summary": "Everolimus effectively reduced a cardiac tumor in a tuberous sclerosis patient, resolving potentially life-threatening heart rhythm disruption caused by tumor compression.",
@@ -417,20 +431,6 @@
         "cancer_types": [
           "Leukemia",
           "Ovarian"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-06"
-      },
-      {
-        "id": "recA8nzUdMwiViT1d",
-        "title": "A metabolic atlas of mouse aging.",
-        "summary": "Researchers mapped metabolic changes across 12 mouse organs during aging, identifying key metabolic drivers like alpha-ketoglutarate and potential aging-related compounds.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41297544/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -884,10 +884,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 4150,
+    "archive_count": 4151,
     "archive_supplements": 520,
     "archive_off_label": 197,
     "archive_biomarkers": 2247,
-    "archive_trials": 888
+    "archive_trials": 889
   }
 }
