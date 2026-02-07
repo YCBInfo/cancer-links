@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-07T05:07:48.290Z",
+  "last_updated": "2026-02-07T05:07:57.842Z",
   "categories": {
     "supplements": [
       {
@@ -643,18 +643,19 @@
         "added_date": "2026-02-07"
       },
       {
-        "id": "recLoILIIQTMPyLSX",
-        "title": "Time-resolved simultaneous imaging of mitochondrial reactive oxygen species and lysosomal permeabilization to determine organelle-centred cell death.",
-        "summary": "Here's a clear, concise summary sentence:\n\nResearchers developed a new imaging technique to simultaneously track mitochondrial and lysosomal changes during cell death, revealing potential insights for understanding cellular destruction.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41639612/",
+        "id": "recU5NidjeahtSCwv",
+        "title": "Complete Data Analysis Workflow for Quantitative DIA Mass Spectrometry Using Nextflow.",
+        "summary": "A comprehensive Nextflow-based workflow enables more accurate reanalysis of breast cancer proteomics data, uncovering previously hidden protein patterns through advanced mass spectrometry techniques.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41650299/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
-          "General"
+          "Breast",
+          "Leukemia"
         ],
-        "quality_score": 12,
+        "quality_score": 15,
         "pub_date": "2026-02-01",
-        "added_date": "2026-02-06"
+        "added_date": "2026-02-07"
       }
     ],
     "trials": [
@@ -884,10 +885,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 3913,
+    "archive_count": 3914,
     "archive_supplements": 507,
     "archive_off_label": 192,
-    "archive_biomarkers": 2076,
+    "archive_biomarkers": 2077,
     "archive_trials": 840
   }
 }
