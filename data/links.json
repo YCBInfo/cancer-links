@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-07T09:07:14.907Z",
+  "last_updated": "2026-02-07T09:08:16.090Z",
   "categories": {
     "supplements": [
       {
@@ -225,6 +225,22 @@
     ],
     "off_label": [
       {
+        "id": "recPDhQ0aryZqCMGk",
+        "title": "Tumor‑associated glucocorticoid inhibition by mifepristone reduces polymorphonuclear myeloid‑derived suppressor cells and promotes antitumor immunity in triple‑negative breast cancer‑bearing mice.",
+        "summary": "Mifepristone reduced immune-suppressing cells and boosted immune response in triple-negative breast cancer, potentially offering a new treatment strategy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41645739/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Breast",
+          "Melanoma",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-07"
+      },
+      {
         "id": "recwNacAF80BJXqj5",
         "title": "Successful Everolimus Therapy for Atrioventricular Block Due to Cardiac Rhabdomyoma Associated With Tuberous Sclerosis Complex.",
         "summary": "Everolimus effectively reduced a cardiac tumor in a tuberous sclerosis patient, resolving potentially life-threatening heart rhythm disruption caused by tumor compression.",
@@ -418,21 +434,6 @@
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-06"
-      },
-      {
-        "id": "recRIsUtX9sm1smrb",
-        "title": "Uncovering the Red Flags: A Cross-Sectional Retrospective Case-Control Study on Predictors of Early-Onset Colorectal Cancer in a Multistate Community Health System.",
-        "summary": "Study finds early-onset colorectal cancer risk is linked to factors like alcohol use, abdominal pain, rectal bleeding, and specific medical conditions in adults under 50.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41384824/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal",
           "Leukemia"
         ],
         "quality_score": 15,
@@ -887,9 +888,9 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 4086,
+    "archive_count": 4087,
     "archive_supplements": 516,
-    "archive_off_label": 192,
+    "archive_off_label": 193,
     "archive_biomarkers": 2215,
     "archive_trials": 865
   }
