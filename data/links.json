@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-07T09:12:07.583Z",
+  "last_updated": "2026-02-07T09:12:27.317Z",
   "categories": {
     "supplements": [
       {
@@ -176,6 +176,21 @@
         "added_date": "2026-02-07"
       },
       {
+        "id": "recb42Q95y0Xg8rzv",
+        "title": "Postbiotics from Lactobacillus helveticus Attenuate Enterotoxigenic Bacteroides fragilis-Induced Inflammation and NF-κB Activation in Colorectal Epithelial Cells.",
+        "summary": "Postbiotics from Lactobacillus helveticus reduced inflammation and toxin-induced damage in colorectal cells by suppressing harmful inflammatory pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41652039/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-07"
+      },
+      {
         "id": "recGOGVPhOkKymg7I",
         "title": "Farnesol induces apoptosis, LC3B/SQSTM1 mediated regulation of autophagy and downregulates anaerobic Glycolysis through suppression of LDH and PKM in A549 lung adenocarcinoma cells.",
         "summary": "Farnesol inhibits lung cancer cell growth by disrupting glycolysis, triggering mitochondrial dysfunction, increasing oxidative stress, and promoting cell death.",
@@ -199,22 +214,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Leukemia",
-          "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-06"
-      },
-      {
-        "id": "recapt2O9PPPKUY62",
-        "title": "Ashwagandha (Withania somnifera) targets liver cancer stem cells via inhibiting Hedgehog signaling pathway in hepatocellular carcinoma.",
-        "summary": "Ashwagandha extract effectively inhibited liver cancer cell proliferation and reduced drug resistance by targeting cancer stem cells through the Hedgehog signaling pathway.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41642395/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia",
-          "Liver",
           "Brain"
         ],
         "quality_score": 15,
@@ -264,6 +263,21 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-07"
+      },
+      {
+        "id": "rec28K0Aec2JpnDm3",
+        "title": "ConvAHKG: Action-based hybrid knowledge graph with a dual-channel convolutional approach for drug repurposing.",
+        "summary": "ConvAHKG, a novel machine learning approach, effectively predicts potential drug repurposing for non-small cell lung cancer by analyzing complex biological relationships.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41652023/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Lung",
+          "Leukemia"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-07"
       },
@@ -418,21 +432,6 @@
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-06"
-      },
-      {
-        "id": "recxY9BFOpg8cnAed",
-        "title": "Co-disruption of GPX4 and DHODH Ferroptosis Defense Systems via Excipient-Free Self-Assembled Nanoassemblies for Enhanced Ferroptosis Therapy in Triple-Negative Breast Cancer.",
-        "summary": "A nanoassembly combining doxorubicin and teriflunomide effectively disrupts two cancer defense mechanisms, triggering cell death in triple-negative breast cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41645812/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Breast",
           "Leukemia"
         ],
         "quality_score": 15,
@@ -887,8 +886,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 4100,
-    "archive_supplements": 516,
+    "archive_count": 4101,
+    "archive_supplements": 517,
     "archive_off_label": 194,
     "archive_biomarkers": 2224,
     "archive_trials": 868
