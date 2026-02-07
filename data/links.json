@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-07T09:17:29.439Z",
+  "last_updated": "2026-02-07T09:17:49.838Z",
   "categories": {
     "supplements": [
       {
@@ -280,6 +280,20 @@
         "added_date": "2026-02-07"
       },
       {
+        "id": "recMVx93XIhPYoU2E",
+        "title": "Anticonvulsant effects of novel and repurposed drugs on docetaxel-induced neuropathy in C. elegans.",
+        "summary": "Sildenafil citrate and a novel compound (RVM-3) reduced seizure-like symptoms in worms experiencing docetaxel-induced peripheral neuropathy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41650182/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-07"
+      },
+      {
         "id": "recwNacAF80BJXqj5",
         "title": "Successful Everolimus Therapy for Atrioventricular Block Due to Cardiac Rhabdomyoma Associated With Tuberous Sclerosis Complex.",
         "summary": "Everolimus effectively reduced a cardiac tumor in a tuberous sclerosis patient, resolving potentially life-threatening heart rhythm disruption caused by tumor compression.",
@@ -415,20 +429,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41638624/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-06"
-      },
-      {
-        "id": "rec7SdOZZCD217Z9X",
-        "title": "Clonal hematopoiesis and its progression to myeloid neoplasms: insights into risk, biology, and therapeutic strategies.",
-        "summary": "Clonal hematopoiesis, a common age-related condition, increases the risk of myeloid neoplasms and can be potentially managed through targeted therapeutic strategies.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41641638/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Leukemia"
         ],
@@ -884,10 +884,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 4129,
+    "archive_count": 4130,
     "archive_supplements": 520,
     "archive_off_label": 195,
-    "archive_biomarkers": 2236,
+    "archive_biomarkers": 2237,
     "archive_trials": 880
   }
 }
