@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-08T07:03:42.670Z",
+  "last_updated": "2026-02-08T07:03:54.179Z",
   "categories": {
     "supplements": [
       {
@@ -66,6 +66,21 @@
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-08"
+      },
+      {
+        "id": "recxpGzQzntumHGKH",
+        "title": "Bioactive black tea phytochemicals partially influenced doxorubicin sensitivity by modulation of NRF2-regulatory pathways in lung cancer.",
+        "summary": "Black tea compounds enhanced lung cancer drug effectiveness by targeting key cellular defense mechanisms that typically protect cancer cells from treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41653712/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lung",
           "Leukemia"
         ],
         "quality_score": 15,
@@ -197,21 +212,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-07"
-      },
-      {
-        "id": "receSQ14rRMVzfD76",
-        "title": "Alpha-Lipoic Acid Reduces NLRP3/ASC Expression and IL-1β Release in Kupffer Cells and Improves Insulin Signaling in FL83B Hepatocytes Exposed to a Conditioned Medium.",
-        "summary": "Alpha-lipoic acid reduces inflammatory markers in liver cells and improves insulin signaling, offering potential therapeutic benefits for type 2 diabetes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41648644/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia",
-          "Liver"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -877,10 +877,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 4265,
+    "archive_count": 4266,
     "archive_supplements": 527,
     "archive_off_label": 200,
-    "archive_biomarkers": 2329,
+    "archive_biomarkers": 2330,
     "archive_trials": 911
   }
 }
