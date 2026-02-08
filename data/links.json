@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-08T05:37:41.002Z",
+  "last_updated": "2026-02-08T07:02:07.992Z",
   "categories": {
     "supplements": [
       {
@@ -27,6 +27,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-08"
+      },
+      {
+        "id": "recYHmN9VZTFUqJXs",
+        "title": "Anti-inflammatory effects of trans-cinnamic acid through modulation of endothelial ICAM-1 expression and neutrophil recruitment.",
+        "summary": "Trans-cinnamic acid reduces inflammation by blocking neutrophil adhesion to blood vessel walls and decreasing inflammatory markers in experimental models.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41654695/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-08"
       },
@@ -198,21 +212,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-07"
-      },
-      {
-        "id": "recb42Q95y0Xg8rzv",
-        "title": "Postbiotics from Lactobacillus helveticus Attenuate Enterotoxigenic Bacteroides fragilis-Induced Inflammation and NF-κB Activation in Colorectal Epithelial Cells.",
-        "summary": "Postbiotics from Lactobacillus helveticus reduced inflammation and toxin-induced damage in colorectal cells by suppressing harmful inflammatory pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41652039/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal",
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -878,10 +877,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 4255,
+    "archive_count": 4256,
     "archive_supplements": 524,
     "archive_off_label": 200,
-    "archive_biomarkers": 2322,
+    "archive_biomarkers": 2323,
     "archive_trials": 911
   }
 }
