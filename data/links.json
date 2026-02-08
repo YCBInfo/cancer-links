@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-08T09:15:46.615Z",
+  "last_updated": "2026-02-08T09:16:26.046Z",
   "categories": {
     "supplements": [
       {
@@ -162,6 +162,21 @@
         "added_date": "2026-02-08"
       },
       {
+        "id": "recZNuKcwUZiTZC6w",
+        "title": "Centratherin Exhibits Antitumor Activity Against Glioblastoma Cells.",
+        "summary": "Centratherin, a natural compound, shows potential in killing glioblastoma cancer cells by reducing their viability and disrupting their ability to grow and spread.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41653375/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia",
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-08"
+      },
+      {
         "id": "reclZPCWU3bdyEAYs",
         "title": "Clinical and Molecular Perspectives on Epidermodysplasia Verruciformis.",
         "summary": "Researchers found that epidermodysplasia verruciformis, a rare skin disorder with increased skin cancer risk, has both inherited and acquired forms linked to human papillomavirus infections.",
@@ -201,21 +216,6 @@
         "cancer_types": [
           "Leukemia",
           "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-07"
-      },
-      {
-        "id": "recyWBsCej87uM1Lc",
-        "title": "A randomized clinical trial assessing the efficacy of vitamin B prophylaxis in attenuating paclitaxel-induced neuropathy and the imperative use of gabapentin in diabetic ovarian cancer patients.",
-        "summary": "Here's a clear, concise summary sentence:\n\nProphylactic vitamin B significantly reduced chemotherapy-induced nerve damage in ovarian cancer patients, potentially improving treatment outcomes and reducing the need for additional pain medication.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41652105/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia",
-          "Ovarian"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -881,10 +881,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 4304,
+    "archive_count": 4305,
     "archive_supplements": 532,
     "archive_off_label": 201,
     "archive_biomarkers": 2354,
-    "archive_trials": 919
+    "archive_trials": 920
   }
 }
