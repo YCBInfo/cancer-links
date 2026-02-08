@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-08T09:19:47.810Z",
+  "last_updated": "2026-02-08T09:21:19.116Z",
   "categories": {
     "supplements": [
       {
@@ -337,6 +337,20 @@
         "added_date": "2026-02-08"
       },
       {
+        "id": "recp4MJAW0stDVoza",
+        "title": "Statin use and outcomes in advanced prostate cancer:Secondary analysis of the SPARTAN trial.",
+        "summary": "In men with nonmetastatic castration-resistant prostate cancer, concurrent statin use was associated with improved survival when taking apalutamide treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41654482/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 29,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-08"
+      },
+      {
         "id": "recPDhQ0aryZqCMGk",
         "title": "Tumor‑associated glucocorticoid inhibition by mifepristone reduces polymorphonuclear myeloid‑derived suppressor cells and promotes antitumor immunity in triple‑negative breast cancer‑bearing mice.",
         "summary": "Mifepristone reduced immune-suppressing cells and boosted immune response in triple-negative breast cancer, potentially offering a new treatment strategy.",
@@ -414,20 +428,6 @@
         "title": "Clinical retrospective analysis of metformin on TSH levels and nodule volume in patients with type 2 diabetes mellitus combined with thyroid nodules.",
         "summary": "Metformin treatment in type 2 diabetes patients with thyroid nodules significantly reduced thyroid-stimulating hormone levels and nodule size over 12 months.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41650047/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-07"
-      },
-      {
-        "id": "recsDzalXWzUdj2bP",
-        "title": "A Two Birds with One Stone Strategy: Sialic Acid-Modified Pitavastatin Liposomes for Combating Atherosclerosis and Tumors.",
-        "summary": "Sialic acid-modified pitavastatin liposomes effectively reduced atherosclerosis progression and tumor growth by targeting neutrophils and enhancing T-cell infiltration.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41649341/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -881,10 +881,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 4316,
+    "archive_count": 4317,
     "archive_supplements": 533,
     "archive_off_label": 202,
     "archive_biomarkers": 2359,
-    "archive_trials": 924
+    "archive_trials": 925
   }
 }
