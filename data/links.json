@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-08T09:18:37.492Z",
+  "last_updated": "2026-02-08T09:18:57.281Z",
   "categories": {
     "supplements": [
       {
@@ -323,6 +323,20 @@
         "added_date": "2026-02-08"
       },
       {
+        "id": "rec5bTY4S3Z3AWPoe",
+        "title": "Neoadjuvant Glucagon-Like Peptide-1 Receptor Agonists in Abdominal Wall Hernia Surgery: A Narrative Review.",
+        "summary": "GLP-1 receptor agonists may help reduce weight and surgical risks for obese patients undergoing abdominal wall hernia repair.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41653161/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-08"
+      },
+      {
         "id": "recPDhQ0aryZqCMGk",
         "title": "Tumor‑associated glucocorticoid inhibition by mifepristone reduces polymorphonuclear myeloid‑derived suppressor cells and promotes antitumor immunity in triple‑negative breast cancer‑bearing mice.",
         "summary": "Mifepristone reduced immune-suppressing cells and boosted immune response in triple-negative breast cancer, potentially offering a new treatment strategy.",
@@ -416,20 +430,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41649341/",
         "source": "PubMed",
         "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-07"
-      },
-      {
-        "id": "rec1Da3LNzMYC0zhg",
-        "title": "Suppression of interferon signaling via small-molecule modulation of TFAM.",
-        "summary": "Small-molecule TFAM modulators increase mitochondrial DNA stability and reduce inflammatory responses in mitochondrial dysfunction-related cellular disease models.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41649246/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Leukemia"
         ],
@@ -881,10 +881,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 4311,
+    "archive_count": 4312,
     "archive_supplements": 533,
     "archive_off_label": 201,
-    "archive_biomarkers": 2357,
+    "archive_biomarkers": 2358,
     "archive_trials": 922
   }
 }
