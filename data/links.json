@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-08T05:09:29.551Z",
+  "last_updated": "2026-02-08T05:09:39.281Z",
   "categories": {
     "supplements": [
       {
@@ -640,18 +640,18 @@
         "added_date": "2026-02-08"
       },
       {
-        "id": "recv3J1WdXiJP9cLO",
-        "title": "The TRAP complex (SSR1-SSR4): mechanistic roles and therapeutic opportunities.",
-        "summary": "Researchers discovered that the TRAP protein complex plays a critical role in understanding and potentially treating esophageal squamous cell carcinoma.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41649879/",
+        "id": "rec93to1PgcNvvrim",
+        "title": "Multi-attribute methods in antibody-drug conjugate characterization and quality control: Opportunities, challenges, and regulatory outlook.",
+        "summary": "Multi-attribute mass spectrometry methods enable comprehensive characterization of antibody-drug conjugates, providing detailed insights into their complex structural properties and modifications.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41570435/",
         "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
+        "category": "Clinical Trials",
         "cancer_types": [
-          "General"
+          "Leukemia"
         ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-07"
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-08"
       }
     ],
     "trials": [
@@ -844,6 +844,20 @@
         "added_date": "2026-02-08"
       },
       {
+        "id": "rec93to1PgcNvvrim",
+        "title": "Multi-attribute methods in antibody-drug conjugate characterization and quality control: Opportunities, challenges, and regulatory outlook.",
+        "summary": "Multi-attribute mass spectrometry methods enable comprehensive characterization of antibody-drug conjugates, providing detailed insights into their complex structural properties and modifications.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41570435/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-08"
+      },
+      {
         "id": "recRE0wqvJ294xGRh",
         "title": "Expanding the horizons of cancer therapy with next-generation 4-1BB agonists: a review of molecular and clinical strategies to maximize efficacy and ensure safety.",
         "summary": "Next-generation 4-1BB agonist antibodies offer improved cancer immunotherapy by targeting tumor environments more precisely and safely compared to earlier treatments.",
@@ -856,21 +870,6 @@
         "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-07"
-      },
-      {
-        "id": "recOtVwMmgMuo9vW1",
-        "title": "Design, synthesis and biological evaluation of novel KRAS-G12D inhibitors.",
-        "summary": "Researchers developed two novel compounds that effectively inhibit KRAS-G12D mutations in pancreatic and colorectal cancer cells, showing strong potential as targeted cancer therapies.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41645749/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-07"
       }
     ]
   },
@@ -880,10 +879,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 4187,
+    "archive_count": 4188,
     "archive_supplements": 523,
     "archive_off_label": 198,
-    "archive_biomarkers": 2270,
+    "archive_biomarkers": 2271,
     "archive_trials": 898
   }
 }
