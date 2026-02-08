@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-08T07:03:00.346Z",
+  "last_updated": "2026-02-08T07:03:11.498Z",
   "categories": {
     "supplements": [
       {
@@ -49,6 +49,20 @@
         "title": "The antioxidant capacity and in-vitro anticancer effects of Artocarpus lakoocha Roxb. against laryngeal cancer cells.",
         "summary": "Artocarpus lakoocha showed potent anticancer effects on laryngeal cancer cells by inducing cell death and inhibiting migration through antioxidant mechanisms.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41654614/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-08"
+      },
+      {
+        "id": "recIHvgdNQf5CM57P",
+        "title": "NBD Integrated and Vitamin B6-Driven Charge-Reversible Peptide-Based Nanocarriers for Targeted Therapeutic Delivery.",
+        "summary": "A vitamin B6-modified nanocarrier enables targeted doxorubicin delivery to cancer cells while reducing cardiotoxicity and improving therapeutic effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41653423/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -200,20 +214,6 @@
           "Liver"
         ],
         "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-07"
-      },
-      {
-        "id": "recXRPKMwFGHi5jBd",
-        "title": "Therapeutic Interventions to Manage Oral Mucositis and Their Impact on Quality of Life in Cancer Patients: An Umbrella Review.",
-        "summary": "Here's a concise summary sentence:\n\nThis review examines treatments for oral mucositis in head and neck cancer patients, highlighting the complex impact of interventions on patients' quality of life.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41647299/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-07"
       }
@@ -877,10 +877,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 4261,
+    "archive_count": 4262,
     "archive_supplements": 526,
     "archive_off_label": 200,
-    "archive_biomarkers": 2326,
+    "archive_biomarkers": 2327,
     "archive_trials": 911
   }
 }
