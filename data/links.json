@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-08T09:17:28.172Z",
+  "last_updated": "2026-02-08T09:18:27.883Z",
   "categories": {
     "supplements": [
       {
@@ -309,6 +309,20 @@
         "added_date": "2026-02-08"
       },
       {
+        "id": "recnBbIbENd8sPpOF",
+        "title": "Investigating the effects of platelets, platelet releasate and aspirin on colorectal cancer cell proliferation, migration and invasion.",
+        "summary": "Aspirin directly inhibits colorectal cancer cell growth, while platelets can enhance cancer cell migration and invasion, with effects varying by specific cell line.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41653216/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-08"
+      },
+      {
         "id": "recPDhQ0aryZqCMGk",
         "title": "Tumor‑associated glucocorticoid inhibition by mifepristone reduces polymorphonuclear myeloid‑derived suppressor cells and promotes antitumor immunity in triple‑negative breast cancer‑bearing mice.",
         "summary": "Mifepristone reduced immune-suppressing cells and boosted immune response in triple-negative breast cancer, potentially offering a new treatment strategy.",
@@ -422,20 +436,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-07"
-      },
-      {
-        "id": "recwNacAF80BJXqj5",
-        "title": "Successful Everolimus Therapy for Atrioventricular Block Due to Cardiac Rhabdomyoma Associated With Tuberous Sclerosis Complex.",
-        "summary": "Everolimus effectively reduced a cardiac tumor in a tuberous sclerosis patient, resolving potentially life-threatening heart rhythm disruption caused by tumor compression.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41642161/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-06"
       }
     ],
     "biomarkers": [
@@ -881,10 +881,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 4309,
+    "archive_count": 4310,
     "archive_supplements": 533,
     "archive_off_label": 201,
-    "archive_biomarkers": 2355,
+    "archive_biomarkers": 2356,
     "archive_trials": 922
   }
 }
