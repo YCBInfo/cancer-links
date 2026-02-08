@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-08T05:17:33.659Z",
+  "last_updated": "2026-02-08T05:17:42.511Z",
   "categories": {
     "supplements": [
       {
@@ -249,6 +249,20 @@
         "added_date": "2026-02-08"
       },
       {
+        "id": "recd4CdYWzBYTEVhI",
+        "title": "Preclinical activity of brincidofovir in peripheral T-cell and NK/T-cell lymphoma.",
+        "summary": "Here's a clear summary sentence:\n\nBrincidofovir showed promising anti-cancer effects against T-cell and NK/T-cell lymphoma by targeting both viral and tumor mechanisms.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41652589/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Lymphoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-08"
+      },
+      {
         "id": "recPDhQ0aryZqCMGk",
         "title": "Tumor‑associated glucocorticoid inhibition by mifepristone reduces polymorphonuclear myeloid‑derived suppressor cells and promotes antitumor immunity in triple‑negative breast cancer‑bearing mice.",
         "summary": "Mifepristone reduced immune-suppressing cells and boosted immune response in triple-negative breast cancer, potentially offering a new treatment strategy.",
@@ -417,20 +431,6 @@
           "Leukemia"
         ],
         "quality_score": 18,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-06"
-      },
-      {
-        "id": "rec4hAeRDipfMGyen",
-        "title": "A novel DYRK1A inhibitor alleviates lipopolysaccharide-induced acute lung injury via suppressing inflammatory pathway.",
-        "summary": "A new drug targeting DYRK1A effectively reduces inflammation and damage in acute lung injury, potentially offering a promising treatment approach.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41643267/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-06"
       }
@@ -878,10 +878,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 4233,
+    "archive_count": 4234,
     "archive_supplements": 523,
     "archive_off_label": 200,
     "archive_biomarkers": 2305,
-    "archive_trials": 907
+    "archive_trials": 908
   }
 }
