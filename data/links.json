@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-08T05:10:49.379Z",
+  "last_updated": "2026-02-08T05:10:58.979Z",
   "categories": {
     "supplements": [
       {
@@ -221,6 +221,20 @@
     ],
     "off_label": [
       {
+        "id": "recn0CGHUVyFXD9OB",
+        "title": "Repurposing biosimilars, rethinking costs: a framework for sustainable drug pricing for repurposed bevacizumab for intravitreal injections.",
+        "summary": "A novel framework suggests pricing for repurposed bevacizumab in ophthalmology ranges from €73 to €177 per injection, balancing research costs with healthcare affordability.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41653377/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-08"
+      },
+      {
         "id": "recPDhQ0aryZqCMGk",
         "title": "Tumor‑associated glucocorticoid inhibition by mifepristone reduces polymorphonuclear myeloid‑derived suppressor cells and promotes antitumor immunity in triple‑negative breast cancer‑bearing mice.",
         "summary": "Mifepristone reduced immune-suppressing cells and boosted immune response in triple-negative breast cancer, potentially offering a new treatment strategy.",
@@ -416,20 +430,6 @@
         "cancer_types": [
           "Leukemia",
           "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-06"
-      },
-      {
-        "id": "recQ2TKFbIq2sG9cO",
-        "title": "Aging clocks delineate neuron types vulnerable or resilient to neurodegeneration and identify neuroprotective interventions.",
-        "summary": "In C. elegans, ciliated sensory neurons age faster, and their degeneration can be slowed by drugs like syringic acid and vanoxerine that inhibit protein translation.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41634462/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -879,10 +879,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 4195,
+    "archive_count": 4196,
     "archive_supplements": 523,
     "archive_off_label": 198,
-    "archive_biomarkers": 2277,
+    "archive_biomarkers": 2278,
     "archive_trials": 899
   }
 }
