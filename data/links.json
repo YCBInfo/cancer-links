@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-08T09:13:05.123Z",
+  "last_updated": "2026-02-08T09:13:14.202Z",
   "categories": {
     "supplements": [
       {
@@ -148,6 +148,20 @@
         "added_date": "2026-02-08"
       },
       {
+        "id": "recCeCvpCObQlV3ld",
+        "title": "FSHR-targeting tetrahedral DNA frameworks ameliorate ovarian aging through oxidative stress elimination.",
+        "summary": "A targeted DNA nanoparticle equipped with follicle-stimulating hormone receptor peptide effectively reduces oxidative stress and delays aging in ovarian cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41654868/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-08"
+      },
+      {
         "id": "reclZPCWU3bdyEAYs",
         "title": "Clinical and Molecular Perspectives on Epidermodysplasia Verruciformis.",
         "summary": "Researchers found that epidermodysplasia verruciformis, a rare skin disorder with increased skin cancer risk, has both inherited and acquired forms linked to human papillomavirus infections.",
@@ -206,20 +220,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-07"
-      },
-      {
-        "id": "recqX9iQwWxWNXLF8",
-        "title": "Microbiota-derived IPA protects against colitis by regulating intestinal HMGCS2-mediated ketogenesis to facilitate mucosal healing.",
-        "summary": "In colitis, gut bacteria-produced IPA helps heal intestinal damage by activating stem cells and boosting tissue regeneration through a specific metabolic pathway.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41651833/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-07"
       }
     ],
     "off_label": [
@@ -274,6 +274,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Colorectal",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-08"
+      },
+      {
+        "id": "recOhJ4LjlWLQgItn",
+        "title": "Nanozymes subvert pharmacological conventions: insights from counteracting the placental side effects of TiO₂ nanozymes.",
+        "summary": "Titanium dioxide nanozymes during pregnancy can restrict fetal growth and disrupt placental metabolism, with potential interventions showing complex and unpredictable effects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41654860/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
           "Leukemia"
         ],
         "quality_score": 15,
@@ -418,20 +432,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-06"
-      },
-      {
-        "id": "rec2zPlqRJART7fSz",
-        "title": "Safety of anagliptin/metformin combination tablets evaluated by non-inferiority between pre- and post-serum lactic acid levels in Japanese patients with type 2 diabetes and moderate renal impairment (AMELIO STUDY).",
-        "summary": "A study found anagliptin/metformin combination tablets are safe for Japanese type 2 diabetes patients with moderate kidney problems, based on stable lactic acid levels.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41641475/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Kidney"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -881,10 +881,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 4289,
+    "archive_count": 4290,
     "archive_supplements": 532,
     "archive_off_label": 200,
-    "archive_biomarkers": 2345,
+    "archive_biomarkers": 2346,
     "archive_trials": 914
   }
 }
