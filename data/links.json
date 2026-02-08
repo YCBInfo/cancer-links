@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-08T07:04:15.217Z",
+  "last_updated": "2026-02-08T07:04:41.676Z",
   "categories": {
     "supplements": [
       {
@@ -103,6 +103,36 @@
         "added_date": "2026-02-08"
       },
       {
+        "id": "recqXevYqpmJFor0m",
+        "title": "Icaritin enhances the antitumor efficacy of irinotecan by dual-targeting carboxylesterase 2 and p53 in vitro and in vivo.",
+        "summary": "Icaritin boosts irinotecan's cancer-fighting effectiveness by activating CES2 and p53, potentially reducing chemotherapy drug resistance.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41654313/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-08"
+      },
+      {
+        "id": "recK0SWR7VwhsuyGy",
+        "title": "Synthesis and anticancer activity of parthenolide-based PROTACs for IKKβ degradation.",
+        "summary": "A novel parthenolide-based PROTAC effectively degrades IKKβ and inhibits triple-negative breast cancer cell growth by inducing apoptosis and cell cycle arrest.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41654236/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-08"
+      },
+      {
         "id": "reclZPCWU3bdyEAYs",
         "title": "Clinical and Molecular Perspectives on Epidermodysplasia Verruciformis.",
         "summary": "Researchers found that epidermodysplasia verruciformis, a rare skin disorder with increased skin cancer risk, has both inherited and acquired forms linked to human papillomavirus infections.",
@@ -189,34 +219,6 @@
         "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-07"
-      },
-      {
-        "id": "recqxm7KqfgSPMRkh",
-        "title": "Natural inhibitors of PTP1B: Caffeic acid, cinnamic acid, and cinnamaldehyde as promising agents against triple-negative breast cancer.",
-        "summary": "Caffeic acid, cinnamic acid, and cinnamaldehyde showed potential in reducing the growth of triple-negative breast cancer cells while sparing healthy cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41650533/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-07"
-      },
-      {
-        "id": "recgsBOYbaC2RJfjk",
-        "title": "Phytochemical Profiling and Computational Docking Studies Revealing the Potential Anticancer and Antioxidant Properties of Heliotropium indicum L.",
-        "summary": "Heliotropium indicum plant extract inhibited tumor growth by 76% in an Ehrlich ascites carcinoma model, showing promising anticancer potential.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41647488/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-07"
       }
     ],
     "off_label": [
@@ -257,6 +259,21 @@
         "category": "Clinical Trials",
         "cancer_types": [
           "Lymphoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-08"
+      },
+      {
+        "id": "recqXevYqpmJFor0m",
+        "title": "Icaritin enhances the antitumor efficacy of irinotecan by dual-targeting carboxylesterase 2 and p53 in vitro and in vivo.",
+        "summary": "Icaritin boosts irinotecan's cancer-fighting effectiveness by activating CES2 and p53, potentially reducing chemotherapy drug resistance.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41654313/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal",
+          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -416,21 +433,6 @@
           "Kidney"
         ],
         "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-06"
-      },
-      {
-        "id": "rec9SP0nBGoaCfXq9",
-        "title": "Giant Cell Arteritis/Polymyalgia Rheumatica and Atypical Pulmonary Carcinoid Tumor: A Paraneoplastic Syndrome?",
-        "summary": "A 59-year-old man with giant cell arteritis developed a rare paraneoplastic syndrome linked to a small-cell lung neuroendocrine carcinoma.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41640080/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung",
-          "Leukemia"
-        ],
-        "quality_score": 18,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-06"
       }
@@ -878,8 +880,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 4268,
-    "archive_supplements": 529,
+    "archive_count": 4269,
+    "archive_supplements": 530,
     "archive_off_label": 200,
     "archive_biomarkers": 2330,
     "archive_trials": 911
