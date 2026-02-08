@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-08T05:07:39.347Z",
+  "last_updated": "2026-02-08T05:07:49.068Z",
   "categories": {
     "supplements": [
       {
@@ -480,6 +480,20 @@
         "added_date": "2026-02-08"
       },
       {
+        "id": "recUWVStglmEPNm8X",
+        "title": "[HER2 protein expression and gene status in endometrial serous carcinoma].",
+        "summary": "In uterine serous carcinoma, HER2 protein expression is heterogeneous, with gene amplification observed across different immunohistochemistry staining levels.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41644430/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-08"
+      },
+      {
         "id": "recv3J1WdXiJP9cLO",
         "title": "The TRAP complex (SSR1-SSR4): mechanistic roles and therapeutic opportunities.",
         "summary": "Researchers discovered that the TRAP protein complex plays a critical role in understanding and potentially treating esophageal squamous cell carcinoma.",
@@ -637,20 +651,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-07"
-      },
-      {
-        "id": "recU8wyJyZzVIK2B1",
-        "title": "Functional and antigenic constraints on the Nipah virus fusion protein.",
-        "summary": "Researchers mapped how individual mutations affect Nipah virus fusion protein function and antibody neutralization, revealing critical sites for potential vaccine design.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41650235/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-07"
       }
     ],
     "trials": [
@@ -679,6 +679,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-08"
+      },
+      {
+        "id": "recUWVStglmEPNm8X",
+        "title": "[HER2 protein expression and gene status in endometrial serous carcinoma].",
+        "summary": "In uterine serous carcinoma, HER2 protein expression is heterogeneous, with gene amplification observed across different immunohistochemistry staining levels.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41644430/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-08"
       },
@@ -856,21 +870,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-07"
-      },
-      {
-        "id": "recslq4GUUXJwP6bT",
-        "title": "A Case of Malignant Melanoma With Numerous Wagner-Meissner-Like Bodies.",
-        "summary": "A rare malignant melanoma case showed unusual neural-like transformation, confirmed by molecular and immunohistochemical analysis of its complex cellular structure.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41650288/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Melanoma",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-07"
       }
     ]
   },
@@ -880,10 +879,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 4176,
+    "archive_count": 4177,
     "archive_supplements": 523,
     "archive_off_label": 198,
-    "archive_biomarkers": 2259,
+    "archive_biomarkers": 2260,
     "archive_trials": 898
   }
 }
