@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-08T05:07:49.068Z",
+  "last_updated": "2026-02-08T05:07:58.508Z",
   "categories": {
     "supplements": [
       {
@@ -494,6 +494,20 @@
         "added_date": "2026-02-08"
       },
       {
+        "id": "rec0e2IwKSFKEgB5d",
+        "title": "[Clinicopathological and molecular characteristics of extraskeletal myxoid chondrosarcoma: an analysis of sixteen cases].",
+        "summary": "A rare soft tissue cancer called extraskeletal myxoid chondrosarcoma was characterized by unique genetic rearrangements in NR4A3 gene and distinct cellular patterns.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41644428/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-08"
+      },
+      {
         "id": "recv3J1WdXiJP9cLO",
         "title": "The TRAP complex (SSR1-SSR4): mechanistic roles and therapeutic opportunities.",
         "summary": "Researchers discovered that the TRAP protein complex plays a critical role in understanding and potentially treating esophageal squamous cell carcinoma.",
@@ -637,20 +651,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-07"
-      },
-      {
-        "id": "recfWpbBpHmhGrDCQ",
-        "title": "HSCs/MPPs as cells of origin with altered differentiation hierarchy impairing immunomicroenvironment in PML::RARA and CBFα/β fusion AML.",
-        "summary": "Fusion transcription factors in AML impair the differentiation of hematopoietic stem cells, causing disrupted immune cell development and potentially contributing to leukemia progression.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41650242/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-07"
       }
     ],
     "trials": [
@@ -687,6 +687,20 @@
         "title": "[HER2 protein expression and gene status in endometrial serous carcinoma].",
         "summary": "In uterine serous carcinoma, HER2 protein expression is heterogeneous, with gene amplification observed across different immunohistochemistry staining levels.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41644430/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-08"
+      },
+      {
+        "id": "rec0e2IwKSFKEgB5d",
+        "title": "[Clinicopathological and molecular characteristics of extraskeletal myxoid chondrosarcoma: an analysis of sixteen cases].",
+        "summary": "A rare soft tissue cancer called extraskeletal myxoid chondrosarcoma was characterized by unique genetic rearrangements in NR4A3 gene and distinct cellular patterns.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41644428/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -855,21 +869,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-07"
-      },
-      {
-        "id": "recU5NidjeahtSCwv",
-        "title": "Complete Data Analysis Workflow for Quantitative DIA Mass Spectrometry Using Nextflow.",
-        "summary": "A comprehensive Nextflow-based workflow enables more accurate reanalysis of breast cancer proteomics data, uncovering previously hidden protein patterns through advanced mass spectrometry techniques.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41650299/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-07"
       }
     ]
   },
@@ -879,10 +878,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 4177,
+    "archive_count": 4178,
     "archive_supplements": 523,
     "archive_off_label": 198,
-    "archive_biomarkers": 2260,
+    "archive_biomarkers": 2261,
     "archive_trials": 898
   }
 }
