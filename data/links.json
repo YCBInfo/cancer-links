@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-08T05:18:53.401Z",
+  "last_updated": "2026-02-08T05:19:13.349Z",
   "categories": {
     "supplements": [
       {
@@ -13,6 +13,20 @@
           "Pancreatic"
         ],
         "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-08"
+      },
+      {
+        "id": "recZ3nLHtsQkIqQfw",
+        "title": "Gecko protein F2 inhibits tumor angiogenesis by suppressing the VEGF/MAPK/ERK signaling pathway.",
+        "summary": "Gecko protein F2 inhibits lung cancer tumor growth by blocking blood vessel formation and suppressing key molecular signaling pathways in tumor cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41652140/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-08"
       },
@@ -201,20 +215,6 @@
           "Leukemia"
         ],
         "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-07"
-      },
-      {
-        "id": "recTxuBSuILwbUB5P",
-        "title": "Food-grade Lacticaseibacillus paracasei postbiotics suppress oral Streptococcus mutans biofilm formation and cariogenicity.",
-        "summary": "Here's a clear, concise summary in under 25 words:\n\nFood-derived Lacticaseibacillus paracasei bacteria byproducts effectively disrupt harmful oral bacteria's ability to form dental cavity-causing biofilms.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41651879/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-07"
       }
@@ -878,10 +878,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 4240,
+    "archive_count": 4241,
     "archive_supplements": 523,
     "archive_off_label": 200,
-    "archive_biomarkers": 2310,
+    "archive_biomarkers": 2311,
     "archive_trials": 909
   }
 }
