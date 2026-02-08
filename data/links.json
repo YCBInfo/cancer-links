@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-08T05:08:19.128Z",
+  "last_updated": "2026-02-08T05:08:28.697Z",
   "categories": {
     "supplements": [
       {
@@ -538,6 +538,21 @@
         "added_date": "2026-02-08"
       },
       {
+        "id": "recFmdJBJz7eF7gpd",
+        "title": "[YWHAE-rearranged clear cell sarcoma of kidney: a clinicopathological analysis of seven cases].",
+        "summary": "A rare kidney cancer in children with YWHAE gene rearrangement shows morphological diversity and aggressive behavior, requiring molecular testing for accurate diagnosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41644425/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia",
+          "Kidney"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-08"
+      },
+      {
         "id": "recv3J1WdXiJP9cLO",
         "title": "The TRAP complex (SSR1-SSR4): mechanistic roles and therapeutic opportunities.",
         "summary": "Researchers discovered that the TRAP protein complex plays a critical role in understanding and potentially treating esophageal squamous cell carcinoma.",
@@ -636,22 +651,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-07"
-      },
-      {
-        "id": "recseYrbaRsFjj29J",
-        "title": "T‑cadherin and its impact on human diseases (Review).",
-        "summary": "T-cadherin acts as a tumor suppressor in gastric, ovarian, and breast cancers, often silenced by gene hypermethylation that inhibits key cancer signaling pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41645736/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast",
-          "Leukemia",
-          "Kidney"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-07"
       }
     ],
     "trials": [
@@ -731,6 +730,21 @@
         "title": "[Clinicopathological characteristics of anaplastic sarcoma of the kidney in children].",
         "summary": "In children, anaplastic sarcoma of the kidney is a rare DICER1-related tumor characterized by complex histological features and potential metastatic risk.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41644426/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia",
+          "Kidney"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-08"
+      },
+      {
+        "id": "recFmdJBJz7eF7gpd",
+        "title": "[YWHAE-rearranged clear cell sarcoma of kidney: a clinicopathological analysis of seven cases].",
+        "summary": "A rare kidney cancer in children with YWHAE gene rearrangement shows morphological diversity and aggressive behavior, requiring molecular testing for accurate diagnosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41644425/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -857,20 +871,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-07"
-      },
-      {
-        "id": "recfWpbBpHmhGrDCQ",
-        "title": "HSCs/MPPs as cells of origin with altered differentiation hierarchy impairing immunomicroenvironment in PML::RARA and CBFα/β fusion AML.",
-        "summary": "Fusion transcription factors in AML impair the differentiation of hematopoietic stem cells, causing disrupted immune cell development and potentially contributing to leukemia progression.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41650242/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-07"
       }
     ]
   },
@@ -880,10 +880,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 4180,
+    "archive_count": 4181,
     "archive_supplements": 523,
     "archive_off_label": 198,
-    "archive_biomarkers": 2263,
+    "archive_biomarkers": 2264,
     "archive_trials": 898
   }
 }
