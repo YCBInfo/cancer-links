@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-08T05:14:51.612Z",
+  "last_updated": "2026-02-08T05:15:01.554Z",
   "categories": {
     "supplements": [
       {
@@ -235,6 +235,20 @@
         "added_date": "2026-02-08"
       },
       {
+        "id": "rec1zRhVd1UZhfTXE",
+        "title": "Fenofibrate potentiates the therapeutic efficacy of EZH2 inhibitors on melanoma via TRIM21- and OTUD4-mediated EZH2 ubiquitination.",
+        "summary": "In melanoma, combining fenofibrate with EZH2 inhibitors improves cancer treatment by modulating fatty acid metabolism and enhancing drug effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41652905/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Melanoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-08"
+      },
+      {
         "id": "recPDhQ0aryZqCMGk",
         "title": "Tumor‑associated glucocorticoid inhibition by mifepristone reduces polymorphonuclear myeloid‑derived suppressor cells and promotes antitumor immunity in triple‑negative breast cancer‑bearing mice.",
         "summary": "Mifepristone reduced immune-suppressing cells and boosted immune response in triple-negative breast cancer, potentially offering a new treatment strategy.",
@@ -415,21 +429,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-06"
-      },
-      {
-        "id": "recXfioQTY9KvJXQw",
-        "title": "Insight into the Biology of Hepatitis B Virus and Recent Therapeutic Approaches.",
-        "summary": "Here's a concise summary sentence:\n\nResearchers review hepatitis B virus biology and explore new antiviral strategies to improve treatment and develop more effective vaccines against liver cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41642349/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia",
-          "Liver"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -879,10 +878,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 4219,
+    "archive_count": 4220,
     "archive_supplements": 523,
     "archive_off_label": 199,
-    "archive_biomarkers": 2295,
+    "archive_biomarkers": 2296,
     "archive_trials": 904
   }
 }
