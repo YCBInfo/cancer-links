@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-08T05:08:08.814Z",
+  "last_updated": "2026-02-08T05:08:19.128Z",
   "categories": {
     "supplements": [
       {
@@ -523,6 +523,21 @@
         "added_date": "2026-02-08"
       },
       {
+        "id": "rec1gKEVDmfHPatGA",
+        "title": "[Clinicopathological characteristics of anaplastic sarcoma of the kidney in children].",
+        "summary": "In children, anaplastic sarcoma of the kidney is a rare DICER1-related tumor characterized by complex histological features and potential metastatic risk.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41644426/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia",
+          "Kidney"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-08"
+      },
+      {
         "id": "recv3J1WdXiJP9cLO",
         "title": "The TRAP complex (SSR1-SSR4): mechanistic roles and therapeutic opportunities.",
         "summary": "Researchers discovered that the TRAP protein complex plays a critical role in understanding and potentially treating esophageal squamous cell carcinoma.",
@@ -637,21 +652,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-07"
-      },
-      {
-        "id": "rec0mfJXWL6AhVEeI",
-        "title": "Origin dictates function: The dual roles of exosomes derived from diverse origins in the onset and progression of colorectal cancer (Review).",
-        "summary": "Exosomes from different sources can either promote or inhibit colorectal cancer progression, highlighting their potential as diagnostic and therapeutic tools.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41645735/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-07"
       }
     ],
     "trials": [
@@ -716,6 +716,21 @@
         "title": "[Multifocal EBV-associated smooth muscle tumors: a clinicopathological analysis of seven cases].",
         "summary": "In immunocompromised children and young adults, multifocal Epstein-Barr virus-associated smooth muscle tumors can spread to multiple organs with varying clinical outcomes.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41644427/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia",
+          "Kidney"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-08"
+      },
+      {
+        "id": "rec1gKEVDmfHPatGA",
+        "title": "[Clinicopathological characteristics of anaplastic sarcoma of the kidney in children].",
+        "summary": "In children, anaplastic sarcoma of the kidney is a rare DICER1-related tumor characterized by complex histological features and potential metastatic risk.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41644426/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -856,21 +871,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-07"
-      },
-      {
-        "id": "rec5ZabVYHDJCDWlf",
-        "title": "Discovery of Novel CBP/p300 and BRD4 Dual-Target PROTACs with Potent Antitumor Activity in Prostate Cancer.",
-        "summary": "A novel dual-targeting drug (compound 29c) effectively degraded cancer-driving proteins and inhibited prostate cancer tumor growth by up to 81.5% in mouse studies.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41650352/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Prostate",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-07"
       }
     ]
   },
@@ -880,10 +880,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 4179,
+    "archive_count": 4180,
     "archive_supplements": 523,
     "archive_off_label": 198,
-    "archive_biomarkers": 2262,
+    "archive_biomarkers": 2263,
     "archive_trials": 898
   }
 }
