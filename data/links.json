@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-08T10:01:44.691Z",
+  "last_updated": "2026-02-08T10:02:01.194Z",
   "categories": {
     "supplements": [
       {
@@ -177,6 +177,20 @@
         "added_date": "2026-02-08"
       },
       {
+        "id": "recfFOMmbK8RppqY2",
+        "title": "Therapeutic Potentials of Cerastes cerastes Venom: A Comprehensive Review of Bioactive Molecules and Biomedical Applications.",
+        "summary": "The Cerastes cerastes snake venom contains bioactive molecules with potential anti-cancer properties, targeting tumor growth and showing promise for therapeutic development.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41654198/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-08"
+      },
+      {
         "id": "reclZPCWU3bdyEAYs",
         "title": "Clinical and Molecular Perspectives on Epidermodysplasia Verruciformis.",
         "summary": "Researchers found that epidermodysplasia verruciformis, a rare skin disorder with increased skin cancer risk, has both inherited and acquired forms linked to human papillomavirus infections.",
@@ -201,21 +215,6 @@
         "cancer_types": [
           "Breast",
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-07"
-      },
-      {
-        "id": "recnE99mtnBoqN9J2",
-        "title": "Metabolic Signature of a Healthy Lifestyle and the Risk of MASLD and Other Chronic Liver Diseases: An Observational and Mendelian Randomization Study.",
-        "summary": "A healthy lifestyle metabolic signature is linked to lower risks of metabolic liver diseases, potentially offering new prevention and monitoring strategies.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41451437/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia",
-          "Liver"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -351,6 +350,21 @@
         "added_date": "2026-02-08"
       },
       {
+        "id": "recyeUaWWjaukvdnk",
+        "title": "Statin use and risk of hepatocellular carcinoma in metabolic dysfunction-associated steatotic liver disease: A national retrospective cohort study.",
+        "summary": "Long-term statin use may reduce hepatocellular carcinoma risk in patients with metabolic liver disease, potentially lowering cancer risk to levels seen in healthy individuals.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41652814/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Leukemia",
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-08"
+      },
+      {
         "id": "recPDhQ0aryZqCMGk",
         "title": "Tumor‑associated glucocorticoid inhibition by mifepristone reduces polymorphonuclear myeloid‑derived suppressor cells and promotes antitumor immunity in triple‑negative breast cancer‑bearing mice.",
         "summary": "Mifepristone reduced immune-suppressing cells and boosted immune response in triple-negative breast cancer, potentially offering a new treatment strategy.",
@@ -414,20 +428,6 @@
         "title": "Anticonvulsant effects of novel and repurposed drugs on docetaxel-induced neuropathy in C. elegans.",
         "summary": "Sildenafil citrate and a novel compound (RVM-3) reduced seizure-like symptoms in worms experiencing docetaxel-induced peripheral neuropathy.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41650182/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-07"
-      },
-      {
-        "id": "recr0d8CUHDjimLLa",
-        "title": "Clinical retrospective analysis of metformin on TSH levels and nodule volume in patients with type 2 diabetes mellitus combined with thyroid nodules.",
-        "summary": "Metformin treatment in type 2 diabetes patients with thyroid nodules significantly reduced thyroid-stimulating hormone levels and nodule size over 12 months.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41650047/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -881,10 +881,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 4335,
+    "archive_count": 4336,
     "archive_supplements": 533,
     "archive_off_label": 203,
-    "archive_biomarkers": 2366,
+    "archive_biomarkers": 2367,
     "archive_trials": 935
   }
 }
