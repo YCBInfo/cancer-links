@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-09T10:01:51.527Z",
+  "last_updated": "2026-02-09T10:02:03.754Z",
   "categories": {
     "supplements": [
       {
@@ -295,6 +295,21 @@
         "added_date": "2026-02-09"
       },
       {
+        "id": "rec8nbrFFIb1KAIA0",
+        "title": "A robust RNAi nanoplatform for precise activation of cGAS-STING pathway and effective immune checkpoint blockade to potentiate cancer immunotherapy.",
+        "summary": "A nanoplatform targeting Carm1 and using metformin precisely activates the cGAS-STING pathway, enhancing breast cancer immunotherapy by stimulating immune responses.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41655906/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-09"
+      },
+      {
         "id": "recn0CGHUVyFXD9OB",
         "title": "Repurposing biosimilars, rethinking costs: a framework for sustainable drug pricing for repurposed bevacizumab for intravitreal injections.",
         "summary": "A novel framework suggests pricing for repurposed bevacizumab in ophthalmology ranges from €73 to €177 per injection, balancing research costs with healthcare affordability.",
@@ -418,21 +433,6 @@
           "Prostate"
         ],
         "quality_score": 29,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-08"
-      },
-      {
-        "id": "recyeUaWWjaukvdnk",
-        "title": "Statin use and risk of hepatocellular carcinoma in metabolic dysfunction-associated steatotic liver disease: A national retrospective cohort study.",
-        "summary": "Long-term statin use may reduce hepatocellular carcinoma risk in patients with metabolic liver disease, potentially lowering cancer risk to levels seen in healthy individuals.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41652814/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia",
-          "Liver"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-08"
       }
@@ -885,10 +885,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 4408,
+    "archive_count": 4409,
     "archive_supplements": 538,
     "archive_off_label": 207,
-    "archive_biomarkers": 2420,
+    "archive_biomarkers": 2421,
     "archive_trials": 945
   }
 }
