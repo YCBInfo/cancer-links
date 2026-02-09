@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-09T07:02:30.549Z",
+  "last_updated": "2026-02-09T07:02:43.706Z",
   "categories": {
     "supplements": [
       {
@@ -26,6 +26,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-09"
+      },
+      {
+        "id": "recJiSAkZ5RmS0DvU",
+        "title": "The Double-Edged Sword of Dioscorea bulbifera L.: Recent Advances in Its Pharmacological Benefits and Hepatotoxicity, and the Quest for Detoxification Strategies.",
+        "summary": "While traditional Chinese medicine has long used Dioscorea bulbifera tubers for treating inflammatory conditions, the research highlights its complex medicinal potential with both therapeutic benefits and potential toxicity risks.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41655723/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -200,20 +214,6 @@
         "cancer_types": [
           "Leukemia",
           "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-08"
-      },
-      {
-        "id": "recfFOMmbK8RppqY2",
-        "title": "Therapeutic Potentials of Cerastes cerastes Venom: A Comprehensive Review of Bioactive Molecules and Biomedical Applications.",
-        "summary": "The Cerastes cerastes snake venom contains bioactive molecules with potential anti-cancer properties, targeting tumor growth and showing promise for therapeutic development.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41654198/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -886,10 +886,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 4395,
+    "archive_count": 4396,
     "archive_supplements": 535,
     "archive_off_label": 205,
     "archive_biomarkers": 2415,
-    "archive_trials": 942
+    "archive_trials": 943
   }
 }
