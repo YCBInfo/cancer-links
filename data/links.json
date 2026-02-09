@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-09T17:21:19.000Z",
+  "last_updated": "2026-02-09T17:21:44.958Z",
   "categories": {
     "supplements": [
       {
@@ -103,6 +103,21 @@
         "added_date": "2026-02-09"
       },
       {
+        "id": "recY6EVo4x7XvY5iT",
+        "title": "In silico analysis of plumbagin's interaction with caspase 9: unveiling its potential as an anti-NSCLS agent.",
+        "summary": "Plumbagin shows promising potential as a targeted anti-NSCLC treatment by effectively binding to caspase-9 and demonstrating strong molecular interactions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40215186/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lung",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-09"
+      },
+      {
         "id": "rectjIo18zFWmDb1N",
         "title": "Addressing the distressing: Pancreatic enzyme replacement therapy mitigates abdominal symptoms and weight loss during chemotherapy for advanced pancreatic cancer: A prospective study.",
         "summary": "Pancreatic enzyme replacement therapy reduced abdominal symptoms and prevented weight loss in patients undergoing chemotherapy for advanced pancreatic cancer.",
@@ -199,21 +214,6 @@
           "Leukemia"
         ],
         "quality_score": 22,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-08"
-      },
-      {
-        "id": "recqXevYqpmJFor0m",
-        "title": "Icaritin enhances the antitumor efficacy of irinotecan by dual-targeting carboxylesterase 2 and p53 in vitro and in vivo.",
-        "summary": "Icaritin boosts irinotecan's cancer-fighting effectiveness by activating CES2 and p53, potentially reducing chemotherapy drug resistance.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41654313/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal",
-          "Leukemia"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-08"
       }
@@ -883,10 +883,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 4432,
+    "archive_count": 4433,
     "archive_supplements": 540,
     "archive_off_label": 209,
     "archive_biomarkers": 2433,
-    "archive_trials": 952
+    "archive_trials": 953
   }
 }
