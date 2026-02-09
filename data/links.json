@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-09T05:02:37.653Z",
+  "last_updated": "2026-02-09T05:02:47.587Z",
   "categories": {
     "supplements": [
       {
@@ -516,6 +516,20 @@
         "added_date": "2026-02-09"
       },
       {
+        "id": "rec7EHI4SGpQDJvg3",
+        "title": "Integrating Spatial Proteogenomics in Cancer Research.",
+        "summary": "Here's a summary sentence:\n\nResearchers developed a new method that maps protein and genetic changes in cancer tumors, revealing complex interactions within the tumor environment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41655216/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-09"
+      },
+      {
         "id": "receDJvAIbNJpCHFr",
         "title": "[Juvenile granulosa cell tumor with IDH1 gene somatic mutation: report of a case].",
         "summary": "A 24-year-old woman with ovarian juvenile granulosa cell tumor and IDH1 gene mutation was found to have concurrent Ollier disease during surgical investigation.",
@@ -640,21 +654,6 @@
         "cancer_types": [
           "Leukemia",
           "Kidney"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-08"
-      },
-      {
-        "id": "recePSrKb3MIsPzY3",
-        "title": "[Homologous recombination repair gene variants in hormone-sensitive prostate cancer].",
-        "summary": "In high-risk hormone-sensitive prostate cancer, genetic mutations in DNA repair genes like BRCA2 and CDK12 are common and associated with more aggressive disease.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41644423/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Prostate",
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -890,10 +889,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 4350,
+    "archive_count": 4351,
     "archive_supplements": 533,
     "archive_off_label": 204,
-    "archive_biomarkers": 2376,
+    "archive_biomarkers": 2377,
     "archive_trials": 939
   }
 }
