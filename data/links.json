@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-09T17:52:59.737Z",
+  "last_updated": "2026-02-09T17:53:09.482Z",
   "categories": {
     "supplements": [
       {
@@ -407,6 +407,20 @@
         "added_date": "2026-02-09"
       },
       {
+        "id": "recioRVIMWDJMs2ce",
+        "title": "Targeted depletion of intratumoral bacteria using PEGylated metronidazole to augment cancer treatment efficacy.",
+        "summary": "A targeted nanoparticle antibiotic effectively eliminates intratumoral bacteria in Fusobacterium nucleatum-colonized tumors, enhancing the efficacy of cancer treatments.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41106321/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 13,
+        "pub_date": "2025-12-01",
+        "added_date": "2026-02-09"
+      },
+      {
         "id": "recn0CGHUVyFXD9OB",
         "title": "Repurposing biosimilars, rethinking costs: a framework for sustainable drug pricing for repurposed bevacizumab for intravitreal injections.",
         "summary": "A novel framework suggests pricing for repurposed bevacizumab in ophthalmology ranges from €73 to €177 per injection, balancing research costs with healthcare affordability.",
@@ -415,20 +429,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-08"
-      },
-      {
-        "id": "rec1zRhVd1UZhfTXE",
-        "title": "Fenofibrate potentiates the therapeutic efficacy of EZH2 inhibitors on melanoma via TRIM21- and OTUD4-mediated EZH2 ubiquitination.",
-        "summary": "In melanoma, combining fenofibrate with EZH2 inhibitors improves cancer treatment by modulating fatty acid metabolism and enhancing drug effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41652905/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Melanoma"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -883,10 +883,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 4598,
+    "archive_count": 4599,
     "archive_supplements": 555,
     "archive_off_label": 211,
     "archive_biomarkers": 2543,
-    "archive_trials": 991
+    "archive_trials": 992
   }
 }
