@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-09T07:04:23.779Z",
+  "last_updated": "2026-02-09T10:01:26.974Z",
   "categories": {
     "supplements": [
       {
@@ -252,6 +252,34 @@
         "added_date": "2026-02-09"
       },
       {
+        "id": "recHpFTHaEopMeWSX",
+        "title": "Beta-blockers improve neurological outcomes of cerebral cavernous malformations: a systematic review.",
+        "summary": "Beta-blockers significantly reduced brain lesion complications and neurological risks in patients with cerebral cavernous malformations.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41656371/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 34,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-09"
+      },
+      {
+        "id": "recWw1S7uS5croWlo",
+        "title": "Clinical impact of high-dose esomeprazole-amoxicillin dual therapy as rescue treatment for Helicobacter pylori infection: a meta-analysis of randomized controlled trials.",
+        "summary": "High-dose esomeprazole-amoxicillin dual therapy showed improved effectiveness in treating Helicobacter pylori infection, potentially offering a better rescue treatment against antibiotic-resistant strains.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41656260/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-09"
+      },
+      {
         "id": "recn0CGHUVyFXD9OB",
         "title": "Repurposing biosimilars, rethinking costs: a framework for sustainable drug pricing for repurposed bevacizumab for intravitreal injections.",
         "summary": "A novel framework suggests pricing for repurposed bevacizumab in ophthalmology ranges from €73 to €177 per injection, balancing research costs with healthcare affordability.",
@@ -406,34 +434,6 @@
           "Leukemia"
         ],
         "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-07"
-      },
-      {
-        "id": "recx5zZ4prLZRJjgU",
-        "title": "Cardiovascular medications and treatment outcomes in multiple myeloma: insights from phase III clinical trials.",
-        "summary": "In multiple myeloma patients, ACE inhibitors/ARBs were linked to improved progression-free survival but increased adverse event risks during treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41651961/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 26,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-07"
-      },
-      {
-        "id": "rec9ukTeeLpHbwk7u",
-        "title": "PTUPB improves cognitive function in Alzheimer's disease associated with enhancing cerebral vascular myogenic response and attenuating vascular remodeling.",
-        "summary": "PTUPB, a dual enzyme inhibitor, improved cognitive function in Alzheimer's disease by enhancing cerebral blood vessel responses and reducing vascular remodeling.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41652156/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-07"
       }
@@ -886,9 +886,9 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 4405,
+    "archive_count": 4406,
     "archive_supplements": 538,
-    "archive_off_label": 205,
+    "archive_off_label": 206,
     "archive_biomarkers": 2420,
     "archive_trials": 944
   }
