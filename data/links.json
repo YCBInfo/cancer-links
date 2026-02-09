@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-09T10:02:54.791Z",
+  "last_updated": "2026-02-09T10:03:31.583Z",
   "categories": {
     "supplements": [
       {
@@ -68,6 +68,34 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Leukemia",
+          "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-09"
+      },
+      {
+        "id": "recK00tztMauzw6Pq",
+        "title": "Effects of crocetin, a constituent of saffron, on indomethacin-induced gastric ulcer and related anxiety-like behavior in rats.",
+        "summary": "Crocetin, a saffron compound, reduced gastric ulcer damage and anxiety in rats by protecting against inflammation-induced tissue injury.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41655551/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-09"
+      },
+      {
+        "id": "reclo2fNu2FVMW0SE",
+        "title": "Renqingchangjue ameliorates MNNG-induced chronic atrophic gastritis by inhibiting the TNF/NF-κB/Caspase-3 axis.",
+        "summary": "Renqingchangjue, a Tibetan herbal formula, reduces inflammation and cell damage in chronic atrophic gastritis by blocking key inflammatory pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41655547/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
           "Stomach"
         ],
         "quality_score": 15,
@@ -184,36 +212,6 @@
         "cancer_types": [
           "Colorectal",
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-08"
-      },
-      {
-        "id": "recK0SWR7VwhsuyGy",
-        "title": "Synthesis and anticancer activity of parthenolide-based PROTACs for IKKβ degradation.",
-        "summary": "A novel parthenolide-based PROTAC effectively degrades IKKβ and inhibits triple-negative breast cancer cell growth by inducing apoptosis and cell cycle arrest.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41654236/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-08"
-      },
-      {
-        "id": "recuFhCwIt3Nq9T6E",
-        "title": "Ferroptosis in plants: Regulatory mechanisms and potential applications from plant physiology to human diseases.",
-        "summary": "Here's a concise summary focusing on the key finding:\n\nPlant-derived compounds show promise in modulating ferroptosis, a cell death mechanism with potential therapeutic applications across various human diseases, including cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41654073/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia",
-          "Kidney"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -885,8 +883,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 4413,
-    "archive_supplements": 538,
+    "archive_count": 4414,
+    "archive_supplements": 539,
     "archive_off_label": 209,
     "archive_biomarkers": 2422,
     "archive_trials": 946
