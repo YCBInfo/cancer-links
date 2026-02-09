@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-09T07:03:14.969Z",
+  "last_updated": "2026-02-09T07:03:30.889Z",
   "categories": {
     "supplements": [
       {
@@ -40,6 +40,35 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-09"
+      },
+      {
+        "id": "rech8tqCGLiEVvKY9",
+        "title": "Xin-Jia-Tong-Xie-Yao-Fang restores the intestinal barrier to alleviate irritable bowel syndrome via microbial butyrate mediated PI3K/Akt pathway suppression.",
+        "summary": "A traditional Chinese herbal formula (Xin-Jia-Tong-Xie-Yao-Fang) helps repair intestinal barriers in irritable bowel syndrome by reducing inflammation through gut microbiome changes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41655800/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-09"
+      },
+      {
+        "id": "recZnPViBuvvak2mK",
+        "title": "U07, a novel oridonin derivative, targets polo-like kinase 4 (PLK4) to induce ferroptosis in gastric cancer cells.",
+        "summary": "U07, a novel drug, targets PLK4 to trigger cell death in gastric cancer by promoting ferroptosis and reducing tumor growth.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41655747/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia",
+          "Stomach"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -185,35 +214,6 @@
         "cancer_types": [
           "Leukemia",
           "Kidney"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-08"
-      },
-      {
-        "id": "recCeCvpCObQlV3ld",
-        "title": "FSHR-targeting tetrahedral DNA frameworks ameliorate ovarian aging through oxidative stress elimination.",
-        "summary": "A targeted DNA nanoparticle equipped with follicle-stimulating hormone receptor peptide effectively reduces oxidative stress and delays aging in ovarian cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41654868/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-08"
-      },
-      {
-        "id": "recZNuKcwUZiTZC6w",
-        "title": "Centratherin Exhibits Antitumor Activity Against Glioblastoma Cells.",
-        "summary": "Centratherin, a natural compound, shows potential in killing glioblastoma cancer cells by reducing their viability and disrupting their ability to grow and spread.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41653375/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia",
-          "Brain"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -886,10 +886,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 4399,
+    "archive_count": 4400,
     "archive_supplements": 536,
     "archive_off_label": 205,
-    "archive_biomarkers": 2417,
+    "archive_biomarkers": 2418,
     "archive_trials": 943
   }
 }
