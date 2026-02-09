@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-09T17:36:00.878Z",
+  "last_updated": "2026-02-09T17:36:11.070Z",
   "categories": {
     "supplements": [
       {
@@ -378,6 +378,21 @@
         "added_date": "2026-02-09"
       },
       {
+        "id": "recaMUu2BHoiGQh2u",
+        "title": "Glycolysis-inhibiting tumor cell-derived microparticles to enhance immunogenic cell death for synergistic cancer immunotherapy.",
+        "summary": "Tumor-derived microparticles delivering a glycolysis inhibitor and chemotherapy drug successfully eradicated melanoma and boosted immune responses in mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41205277/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Melanoma",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-09"
+      },
+      {
         "id": "recn0CGHUVyFXD9OB",
         "title": "Repurposing biosimilars, rethinking costs: a framework for sustainable drug pricing for repurposed bevacizumab for intravitreal injections.",
         "summary": "A novel framework suggests pricing for repurposed bevacizumab in ophthalmology ranges from €73 to €177 per injection, balancing research costs with healthcare affordability.",
@@ -414,21 +429,6 @@
         "category": "Clinical Trials",
         "cancer_types": [
           "Lymphoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-08"
-      },
-      {
-        "id": "recqXevYqpmJFor0m",
-        "title": "Icaritin enhances the antitumor efficacy of irinotecan by dual-targeting carboxylesterase 2 and p53 in vitro and in vivo.",
-        "summary": "Icaritin boosts irinotecan's cancer-fighting effectiveness by activating CES2 and p53, potentially reducing chemotherapy drug resistance.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41654313/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal",
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -883,10 +883,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 4502,
+    "archive_count": 4503,
     "archive_supplements": 546,
     "archive_off_label": 210,
-    "archive_biomarkers": 2478,
+    "archive_biomarkers": 2479,
     "archive_trials": 970
   }
 }
