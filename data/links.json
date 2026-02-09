@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-09T17:32:06.573Z",
+  "last_updated": "2026-02-09T17:32:16.694Z",
   "categories": {
     "supplements": [
       {
@@ -160,6 +160,20 @@
         "added_date": "2026-02-09"
       },
       {
+        "id": "recCme4AmVssBhCmW",
+        "title": "Mechanism and application of hyperbaric oxygen therapy in neurosurgery.",
+        "summary": "Hyperbaric oxygen therapy shows promising clinical benefits for treating various neurosurgical conditions, including brain trauma, stroke, infections, and tumors.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40826939/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 13,
+        "pub_date": "2025-08-01",
+        "added_date": "2026-02-09"
+      },
+      {
         "id": "rectjIo18zFWmDb1N",
         "title": "Addressing the distressing: Pancreatic enzyme replacement therapy mitigates abdominal symptoms and weight loss during chemotherapy for advanced pancreatic cancer: A prospective study.",
         "summary": "Pancreatic enzyme replacement therapy reduced abdominal symptoms and prevented weight loss in patients undergoing chemotherapy for advanced pancreatic cancer.",
@@ -192,20 +206,6 @@
         "title": "Anti-inflammatory effects of trans-cinnamic acid through modulation of endothelial ICAM-1 expression and neutrophil recruitment.",
         "summary": "Trans-cinnamic acid reduces inflammation by blocking neutrophil adhesion to blood vessel walls and decreasing inflammatory markers in experimental models.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41654695/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-08"
-      },
-      {
-        "id": "recnwiWNEuKe7cnrp",
-        "title": "The antioxidant capacity and in-vitro anticancer effects of Artocarpus lakoocha Roxb. against laryngeal cancer cells.",
-        "summary": "Artocarpus lakoocha showed potent anticancer effects on laryngeal cancer cells by inducing cell death and inhibiting migration through antioxidant mechanisms.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41654614/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -881,10 +881,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 4480,
+    "archive_count": 4481,
     "archive_supplements": 544,
     "archive_off_label": 210,
-    "archive_biomarkers": 2459,
+    "archive_biomarkers": 2460,
     "archive_trials": 969
   }
 }
