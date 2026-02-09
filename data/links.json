@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-09T17:45:54.241Z",
+  "last_updated": "2026-02-09T17:46:04.888Z",
   "categories": {
     "supplements": [
       {
@@ -393,6 +393,20 @@
         "added_date": "2026-02-09"
       },
       {
+        "id": "recU9QvvVc98UrxPu",
+        "title": "Tranilast inhibits cell proliferation, migration and invasion of human hypertrophic scar fibroblasts by NOP2-mediated m5C methylation on COL1A1.",
+        "summary": "Tranilast suppresses hypertrophic scar fibroblast growth and spread by reducing a specific RNA modification that stabilizes collagen gene expression.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41260007/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-09"
+      },
+      {
         "id": "recn0CGHUVyFXD9OB",
         "title": "Repurposing biosimilars, rethinking costs: a framework for sustainable drug pricing for repurposed bevacizumab for intravitreal injections.",
         "summary": "A novel framework suggests pricing for repurposed bevacizumab in ophthalmology ranges from €73 to €177 per injection, balancing research costs with healthcare affordability.",
@@ -415,20 +429,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Melanoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-08"
-      },
-      {
-        "id": "recd4CdYWzBYTEVhI",
-        "title": "Preclinical activity of brincidofovir in peripheral T-cell and NK/T-cell lymphoma.",
-        "summary": "Here's a clear summary sentence:\n\nBrincidofovir showed promising anti-cancer effects against T-cell and NK/T-cell lymphoma by targeting both viral and tumor mechanisms.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41652589/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Lymphoma"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -883,10 +883,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 4558,
+    "archive_count": 4559,
     "archive_supplements": 553,
     "archive_off_label": 211,
     "archive_biomarkers": 2521,
-    "archive_trials": 975
+    "archive_trials": 976
   }
 }
