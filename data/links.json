@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-09T17:35:16.953Z",
+  "last_updated": "2026-02-09T17:35:27.671Z",
   "categories": {
     "supplements": [
       {
@@ -189,6 +189,20 @@
         "added_date": "2026-02-09"
       },
       {
+        "id": "recX2ICj31T9ZUSFv",
+        "title": "Chemo-immunotherapeutic potential of Lactobacillus rhamnosus GG and its bioengineering for cancer therapy.",
+        "summary": "Lactobacillus rhamnosus GG demonstrates potent anti-tumor effects in breast and skin cancer by directly killing cancer cells and enhancing immune response.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41237436/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-09"
+      },
+      {
         "id": "rectjIo18zFWmDb1N",
         "title": "Addressing the distressing: Pancreatic enzyme replacement therapy mitigates abdominal symptoms and weight loss during chemotherapy for advanced pancreatic cancer: A prospective study.",
         "summary": "Pancreatic enzyme replacement therapy reduced abdominal symptoms and prevented weight loss in patients undergoing chemotherapy for advanced pancreatic cancer.",
@@ -199,20 +213,6 @@
           "Pancreatic"
         ],
         "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-08"
-      },
-      {
-        "id": "recZ3nLHtsQkIqQfw",
-        "title": "Gecko protein F2 inhibits tumor angiogenesis by suppressing the VEGF/MAPK/ERK signaling pathway.",
-        "summary": "Gecko protein F2 inhibits lung cancer tumor growth by blocking blood vessel formation and suppressing key molecular signaling pathways in tumor cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41652140/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-08"
       }
@@ -364,6 +364,20 @@
         "added_date": "2026-02-09"
       },
       {
+        "id": "recAblG6R2uI6JcFQ",
+        "title": "Nerve growth factor-targeting nanocluster-antibody-drug conjugates for intravesical precision theranostics of interstitial cystitis.",
+        "summary": "A novel nanocluster-antibody-drug conjugate targeting nerve growth factor effectively reduced inflammation and restored bladder health in interstitial cystitis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41223715/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-09"
+      },
+      {
         "id": "recn0CGHUVyFXD9OB",
         "title": "Repurposing biosimilars, rethinking costs: a framework for sustainable drug pricing for repurposed bevacizumab for intravitreal injections.",
         "summary": "A novel framework suggests pricing for repurposed bevacizumab in ophthalmology ranges from €73 to €177 per injection, balancing research costs with healthcare affordability.",
@@ -414,20 +428,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Colorectal",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-08"
-      },
-      {
-        "id": "recOhJ4LjlWLQgItn",
-        "title": "Nanozymes subvert pharmacological conventions: insights from counteracting the placental side effects of TiO₂ nanozymes.",
-        "summary": "Titanium dioxide nanozymes during pregnancy can restrict fetal growth and disrupt placental metabolism, with potential interventions showing complex and unpredictable effects.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41654860/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
           "Leukemia"
         ],
         "quality_score": 15,
@@ -883,10 +883,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 4498,
+    "archive_count": 4499,
     "archive_supplements": 545,
     "archive_off_label": 210,
-    "archive_biomarkers": 2475,
+    "archive_biomarkers": 2476,
     "archive_trials": 970
   }
 }
