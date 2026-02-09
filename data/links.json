@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-09T17:23:13.551Z",
+  "last_updated": "2026-02-09T17:23:29.151Z",
   "categories": {
     "supplements": [
       {
@@ -334,6 +334,20 @@
         "added_date": "2026-02-09"
       },
       {
+        "id": "recK4odaq5D4uWCvc",
+        "title": "Antihistamines Improve the Survival of Lung Cancer: A 10-Year Cohort Study of Tertiary Hospital in Taiwan.",
+        "summary": "In this study, lung cancer patients taking antihistamines showed improved survival rates compared to those not using these medications.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40159404/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-09"
+      },
+      {
         "id": "recn0CGHUVyFXD9OB",
         "title": "Repurposing biosimilars, rethinking costs: a framework for sustainable drug pricing for repurposed bevacizumab for intravitreal injections.",
         "summary": "A novel framework suggests pricing for repurposed bevacizumab in ophthalmology ranges from €73 to €177 per injection, balancing research costs with healthcare affordability.",
@@ -413,20 +427,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-08"
-      },
-      {
-        "id": "recnBbIbENd8sPpOF",
-        "title": "Investigating the effects of platelets, platelet releasate and aspirin on colorectal cancer cell proliferation, migration and invasion.",
-        "summary": "Aspirin directly inhibits colorectal cancer cell growth, while platelets can enhance cancer cell migration and invasion, with effects varying by specific cell line.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41653216/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -881,10 +881,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 4440,
+    "archive_count": 4441,
     "archive_supplements": 543,
     "archive_off_label": 209,
-    "archive_biomarkers": 2435,
+    "archive_biomarkers": 2436,
     "archive_trials": 955
   }
 }
