@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-02-10T05:03:53.671Z",
+  "last_updated": "2026-02-10T05:04:02.631Z",
   "categories": {
     "supplements": [
+      {
+        "id": "recABRpZuZ7FtLTjc",
+        "title": "An enzyme-triggered fuse-like microcapsule for encapsulating probiotics: the treatment of ulcerative colitis.",
+        "summary": "A specially designed microcapsule that protects and delivers probiotics successfully reduces inflammation and improves intestinal health in ulcerative colitis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41525961/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-10"
+      },
       {
         "id": "recK7pNiKNnTensy6",
         "title": "Fermentation time Determines Anti-inflammatory and Osteoprotective Activity of Green Tea Kombucha in a Rat Model of Experimental Periodontitis.",
@@ -193,20 +207,6 @@
         "title": "Chemo-immunotherapeutic potential of Lactobacillus rhamnosus GG and its bioengineering for cancer therapy.",
         "summary": "Lactobacillus rhamnosus GG demonstrates potent anti-tumor effects in breast and skin cancer by directly killing cancer cells and enhancing immune response.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41237436/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-09"
-      },
-      {
-        "id": "recath5AuIEFv0qeh",
-        "title": "Targeting neuronal cuproptosis and neuroinflammation with biomimetic nanoparticle for the therapy of radiotherapy-induced brain injury.",
-        "summary": "Here's a concise summary focusing on the key intervention and finding:\n\nResearchers developed a targeted nanoparticle delivery system that reduces brain injury by inhibiting cell death and inflammation after radiation therapy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41187595/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -878,10 +878,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5308,
+    "archive_count": 5309,
     "archive_supplements": 660,
     "archive_off_label": 225,
-    "archive_biomarkers": 2988,
+    "archive_biomarkers": 2989,
     "archive_trials": 1137
   }
 }
