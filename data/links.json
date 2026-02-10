@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-10T10:01:47.342Z",
+  "last_updated": "2026-02-10T10:01:57.609Z",
   "categories": {
     "supplements": [
       {
@@ -408,6 +408,21 @@
         "added_date": "2026-02-10"
       },
       {
+        "id": "recJZWsTHm5NoDZDE",
+        "title": "The impact of statin use on colorectal cancer prognosis: a systematic review and meta-analysis.",
+        "summary": "Here's a concise summary sentence:\n\nStatins may improve survival rates for patients with colorectal cancer, though existing research shows mixed and inconclusive results.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41663946/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Colorectal",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-10"
+      },
+      {
         "id": "recxNdxlBsucuoNr9",
         "title": "Metal-Supramolecular Drug Delivery System Empowered Meningeal Lymphatic Vessels-Bridged Intracranial-Peripheral Dual Immune Modulation for Reversing Glioblastoma Immune Suppression.",
         "summary": "A novel nanoassembly system delivers cancer-fighting drugs to glioblastoma through brain lymphatic vessels, reprogramming immune cells and enhancing tumor-fighting responses.",
@@ -418,20 +433,6 @@
           "Melanoma",
           "Leukemia",
           "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-09"
-      },
-      {
-        "id": "rectByZsy3CKsfaC0",
-        "title": "3D Bioprinted Fat-Myocardium Model Unravels the Role of Adipocyte Hypertrophy in Atrial Dysfunction.",
-        "summary": "A 3D bioprinted model using patient-derived fat and heart cells reveals how obesity-induced fat cell enlargement impairs heart function and identifies metformin as a potential treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41655215/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -881,9 +882,9 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5526,
+    "archive_count": 5527,
     "archive_supplements": 684,
-    "archive_off_label": 234,
+    "archive_off_label": 235,
     "archive_biomarkers": 3137,
     "archive_trials": 1173
   }
