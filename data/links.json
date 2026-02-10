@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-10T00:21:01.299Z",
+  "last_updated": "2026-02-10T00:21:11.456Z",
   "categories": {
     "supplements": [
       {
@@ -466,6 +466,20 @@
         "added_date": "2026-02-10"
       },
       {
+        "id": "recDi5Ynk0UhEnGAt",
+        "title": "Fludarabine Plus Melphalan Versus Addition of Venetoclax to Fludarabine/Melphalan Conditioning Regimen for Allogeneic Hematopoietic Stem Cell Transplantation in AML/MDS Patients Aged > 50 Years: a Multicenter, Randomized, Phase 3 Trial",
+        "summary": "In elderly AML/MDS patients, adding venetoclax to fludarabine/melphalan conditioning improved outcomes compared to standard fludarabine/melphalan for stem cell transplantation.",
+        "url": "https://clinicaltrials.gov/study/NCT07396480",
+        "source": "ClinicalTrials.gov",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 13,
+        "pub_date": "2026-02-09",
+        "added_date": "2026-02-10"
+      },
+      {
         "id": "rec74z6ZXTcCusXjK",
         "title": "Convergence for Inactivation of TGF-β Signaling Is a Common Feature of Advanced Pancreatic Cancer.",
         "summary": "In advanced pancreatic cancer, TGF-β pathway inactivation varies between locally advanced and metastatic tumors, revealing distinct genetic mechanisms of disease progression.",
@@ -640,20 +654,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-09"
-      },
-      {
-        "id": "recCPGHFJ55oUPDmm",
-        "title": "AHNAK2 exacerbates the malignant phenotype of gastric cancer through activation of the Wnt/β-catenin signaling pathway.",
-        "summary": "In gastric cancer, the protein AHNAK2 promotes tumor growth and spread by activating a specific cellular signaling pathway.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41655165/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Stomach"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-09"
       }
     ],
     "trials": [
@@ -697,6 +697,20 @@
           "Leukemia"
         ],
         "quality_score": 19,
+        "pub_date": "2026-02-09",
+        "added_date": "2026-02-10"
+      },
+      {
+        "id": "recDi5Ynk0UhEnGAt",
+        "title": "Fludarabine Plus Melphalan Versus Addition of Venetoclax to Fludarabine/Melphalan Conditioning Regimen for Allogeneic Hematopoietic Stem Cell Transplantation in AML/MDS Patients Aged > 50 Years: a Multicenter, Randomized, Phase 3 Trial",
+        "summary": "In elderly AML/MDS patients, adding venetoclax to fludarabine/melphalan conditioning improved outcomes compared to standard fludarabine/melphalan for stem cell transplantation.",
+        "url": "https://clinicaltrials.gov/study/NCT07396480",
+        "source": "ClinicalTrials.gov",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 13,
         "pub_date": "2026-02-09",
         "added_date": "2026-02-10"
       },
@@ -861,20 +875,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-09"
-      },
-      {
-        "id": "recTDixqgiDDexq3G",
-        "title": "Polycystic ovary syndrome (PCOS) affects relative embryo morphokinetics observed by time-lapse imaging: an observational study.",
-        "summary": "Here's a clear, concise summary sentence:\n\nTime-lapse imaging revealed that women with PCOS have different embryo development patterns compared to women without the syndrome.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41655163/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Ovarian"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-09"
       }
     ]
   },
@@ -884,10 +884,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5248,
+    "archive_count": 5249,
     "archive_supplements": 660,
     "archive_off_label": 224,
     "archive_biomarkers": 2968,
-    "archive_trials": 1098
+    "archive_trials": 1099
   }
 }
