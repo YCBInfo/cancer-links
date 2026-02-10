@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-10T05:15:52.840Z",
+  "last_updated": "2026-02-10T05:16:02.941Z",
   "categories": {
     "supplements": [
       {
@@ -303,6 +303,21 @@
         "added_date": "2026-02-10"
       },
       {
+        "id": "recbB1B7UBTuNsiOk",
+        "title": "FASN Inhibition Enhances the Efficacy of Chemotherapy in Colorectal Cancer by Inhibiting the DNA Damage Response.",
+        "summary": "FASN inhibition in colorectal cancer enhances chemotherapy effectiveness by disrupting DNA damage repair and increasing cancer cell death.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41661672/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Colorectal",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-10"
+      },
+      {
         "id": "recxNdxlBsucuoNr9",
         "title": "Metal-Supramolecular Drug Delivery System Empowered Meningeal Lymphatic Vessels-Bridged Intracranial-Peripheral Dual Immune Modulation for Reversing Glioblastoma Immune Suppression.",
         "summary": "A novel nanoassembly system delivers cancer-fighting drugs to glioblastoma through brain lymphatic vessels, reprogramming immune cells and enhancing tumor-fighting responses.",
@@ -415,20 +430,6 @@
           "General"
         ],
         "quality_score": 22,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-09"
-      },
-      {
-        "id": "recK4odaq5D4uWCvc",
-        "title": "Antihistamines Improve the Survival of Lung Cancer: A 10-Year Cohort Study of Tertiary Hospital in Taiwan.",
-        "summary": "In this study, lung cancer patients taking antihistamines showed improved survival rates compared to those not using these medications.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/40159404/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-09"
       }
@@ -876,10 +877,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5375,
+    "archive_count": 5376,
     "archive_supplements": 663,
     "archive_off_label": 229,
-    "archive_biomarkers": 3034,
+    "archive_biomarkers": 3035,
     "archive_trials": 1151
   }
 }
