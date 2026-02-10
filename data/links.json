@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-10T05:32:13.460Z",
+  "last_updated": "2026-02-10T05:32:23.341Z",
   "categories": {
     "supplements": [
       {
@@ -83,6 +83,21 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Melanoma",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-10"
+      },
+      {
+        "id": "rec4lvBijkrtFnjoG",
+        "title": "Phytol Suppresses Androgen Receptor Nuclear Localization and Doubles Survival in Nude Mice Bearing Castration-Resistant Prostate Cancer Xenografts.",
+        "summary": "Phytol from dandelion disrupts androgen receptor movement in prostate cancer cells, significantly reducing tumor growth and doubling survival in mouse models.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41656914/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Prostate",
           "Leukemia"
         ],
         "quality_score": 15,
@@ -198,20 +213,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Lung",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-09"
-      },
-      {
-        "id": "recR9wuTtYnIsuQmi",
-        "title": "In silico approach to screen anti-inflammatory phytochemicals: targeting cytosolic phospholipase A2 and phospholipase C.",
-        "summary": "p-Coumaric acid shows promising potential as an anti-inflammatory agent by effectively targeting cytosolic phospholipase A2 (cPLA2) with fewer side effects than traditional NSAIDs.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/40191872/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
           "Leukemia"
         ],
         "quality_score": 15,
@@ -880,10 +881,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5467,
+    "archive_count": 5468,
     "archive_supplements": 665,
     "archive_off_label": 232,
     "archive_biomarkers": 3111,
-    "archive_trials": 1161
+    "archive_trials": 1162
   }
 }
