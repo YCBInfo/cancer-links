@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-10T05:10:59.737Z",
+  "last_updated": "2026-02-10T05:11:11.534Z",
   "categories": {
     "supplements": [
       {
@@ -290,6 +290,20 @@
         "added_date": "2026-02-10"
       },
       {
+        "id": "recmXOlF0NvQtmPtP",
+        "title": "Metformin induces ferroptosis associated with lipidomic remodeling in AML.",
+        "summary": "Metformin induces ferroptosis in acute myeloid leukemia cells by disrupting lipid metabolism, particularly in IDH2- and FLT3-mutant samples.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41172231/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-10"
+      },
+      {
         "id": "recxNdxlBsucuoNr9",
         "title": "Metal-Supramolecular Drug Delivery System Empowered Meningeal Lymphatic Vessels-Bridged Intracranial-Peripheral Dual Immune Modulation for Reversing Glioblastoma Immune Suppression.",
         "summary": "A novel nanoassembly system delivers cancer-fighting drugs to glioblastoma through brain lymphatic vessels, reprogramming immune cells and enhancing tumor-fighting responses.",
@@ -417,21 +431,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
-        "added_date": "2026-02-09"
-      },
-      {
-        "id": "rec3HlL8WAL8uDrId",
-        "title": "Nano-purpurin-Cu delivery via TPGS-induced macropinocytosis enables cuproptosis/metabolic synergy to ablate cancer stemness and Boost immunotherapy in colorectal cancer.",
-        "summary": "Nano-purpurin-copper nanoparticles in colorectal cancer enhance drug delivery, disrupt cancer stem cells, and boost immune response through multiple coordinated mechanisms.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41330333/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
         "added_date": "2026-02-09"
       }
     ],
@@ -878,10 +877,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5348,
+    "archive_count": 5349,
     "archive_supplements": 662,
     "archive_off_label": 228,
-    "archive_biomarkers": 3014,
+    "archive_biomarkers": 3015,
     "archive_trials": 1146
   }
 }
