@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-10T05:29:22.065Z",
+  "last_updated": "2026-02-10T05:29:33.679Z",
   "categories": {
     "supplements": [
       {
@@ -55,6 +55,20 @@
           "Colorectal",
           "Leukemia",
           "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-10"
+      },
+      {
+        "id": "recFPi3QT3bPNEOQP",
+        "title": "Preventive effects of sea cucumber-derived fucoidan on Helicobacter pylori-induced gastritis: a mechanistic investigation based on regulation of the gut microbiota and metabolic products.",
+        "summary": "Sea cucumber-derived fucoidan effectively reduces Helicobacter pylori infection and gastritis by modulating gut bacteria, suppressing inflammation, and protecting gastric mucosa.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41562139/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -201,20 +215,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
-        "added_date": "2026-02-09"
-      },
-      {
-        "id": "recqQgYBWGGYH96oe",
-        "title": "Potential protective role of soluble fiber in mitigating tinnitus symptoms: A case-control study.",
-        "summary": "I apologize, but the text appears to be about tinnitus research, not cancer research. Therefore, I cannot create a cancer research summary sentence as requested. Would you like me to summarize the tinnitus research instead?",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41502445/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-01-01",
         "added_date": "2026-02-09"
       }
     ],
@@ -879,10 +879,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5451,
+    "archive_count": 5452,
     "archive_supplements": 664,
     "archive_off_label": 232,
     "archive_biomarkers": 3099,
-    "archive_trials": 1158
+    "archive_trials": 1159
   }
 }
