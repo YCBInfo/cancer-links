@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-10T07:03:30.426Z",
+  "last_updated": "2026-02-10T07:03:40.396Z",
   "categories": {
     "supplements": [
       {
@@ -163,6 +163,20 @@
         "added_date": "2026-02-10"
       },
       {
+        "id": "recDkihe1Kr2C4uOk",
+        "title": "Advances in molecular mechanisms of anti-tumor bioactive constituents from Astragalus membranaceus: A comprehensive review.",
+        "summary": "Astragalus membranaceus, a natural herb, shows promising anti-tumor effects across multiple cancer types by targeting key molecular mechanisms that inhibit cancer development.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41106564/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Melanoma"
+        ],
+        "quality_score": 13,
+        "pub_date": "2025-11-01",
+        "added_date": "2026-02-10"
+      },
+      {
         "id": "recK7pNiKNnTensy6",
         "title": "Fermentation time Determines Anti-inflammatory and Osteoprotective Activity of Green Tea Kombucha in a Rat Model of Experimental Periodontitis.",
         "summary": "4-day fermented green tea kombucha effectively reduced inflammation and bone loss in rats with periodontitis, without causing organ toxicity.",
@@ -196,20 +210,6 @@
         "title": "The Double-Edged Sword of Dioscorea bulbifera L.: Recent Advances in Its Pharmacological Benefits and Hepatotoxicity, and the Quest for Detoxification Strategies.",
         "summary": "While traditional Chinese medicine has long used Dioscorea bulbifera tubers for treating inflammatory conditions, the research highlights its complex medicinal potential with both therapeutic benefits and potential toxicity risks.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41655723/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-09"
-      },
-      {
-        "id": "rech8tqCGLiEVvKY9",
-        "title": "Xin-Jia-Tong-Xie-Yao-Fang restores the intestinal barrier to alleviate irritable bowel syndrome via microbial butyrate mediated PI3K/Akt pathway suppression.",
-        "summary": "A traditional Chinese herbal formula (Xin-Jia-Tong-Xie-Yao-Fang) helps repair intestinal barriers in irritable bowel syndrome by reducing inflammation through gut microbiome changes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41655800/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -880,9 +880,9 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5479,
+    "archive_count": 5480,
     "archive_supplements": 671,
-    "archive_off_label": 232,
+    "archive_off_label": 233,
     "archive_biomarkers": 3114,
     "archive_trials": 1164
   }
