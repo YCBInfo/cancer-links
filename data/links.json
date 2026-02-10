@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-10T05:22:04.670Z",
+  "last_updated": "2026-02-10T05:22:15.212Z",
   "categories": {
     "supplements": [
       {
@@ -335,6 +335,20 @@
         "added_date": "2026-02-10"
       },
       {
+        "id": "recfTIDihRxwPD6iC",
+        "title": "Citalopram exhibits immune-dependent anti-tumor effects by modulating C5aR1+ TAMs.",
+        "summary": "Citalopram targets C5aR1 on tumor-associated macrophages in hepatocellular carcinoma, enhancing immune response and anti-tumor activity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41661166/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-10"
+      },
+      {
         "id": "recxNdxlBsucuoNr9",
         "title": "Metal-Supramolecular Drug Delivery System Empowered Meningeal Lymphatic Vessels-Bridged Intracranial-Peripheral Dual Immune Modulation for Reversing Glioblastoma Immune Suppression.",
         "summary": "A novel nanoassembly system delivers cancer-fighting drugs to glioblastoma through brain lymphatic vessels, reprogramming immune cells and enhancing tumor-fighting responses.",
@@ -416,20 +430,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Breast",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-09"
-      },
-      {
-        "id": "recoXeK8YVFEvJE6D",
-        "title": "Thrombo-inflammation and Rethinking the Role of Aspirin in Kawasaki Disease.",
-        "summary": "Here's a clear, concise summary sentence:\n\nResearchers examine how aspirin might help reduce inflammation and prevent coronary artery damage in children with Kawasaki Disease.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41649640/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
           "Leukemia"
         ],
         "quality_score": 15,
@@ -880,10 +880,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5410,
+    "archive_count": 5411,
     "archive_supplements": 664,
     "archive_off_label": 231,
-    "archive_biomarkers": 3064,
+    "archive_biomarkers": 3065,
     "archive_trials": 1153
   }
 }
