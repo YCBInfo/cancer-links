@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-10T00:27:24.921Z",
+  "last_updated": "2026-02-10T00:27:35.133Z",
   "categories": {
     "supplements": [
       {
@@ -233,6 +233,20 @@
         "added_date": "2026-02-10"
       },
       {
+        "id": "rec4JmPdQNKZTj4H2",
+        "title": "Obeticholic Acid for Prevention in Barrett's Esophagus",
+        "summary": "Obeticholic acid may prevent progression of Barrett's esophagus by reducing bile acid damage and inflammation in esophageal tissue.",
+        "url": "https://clinicaltrials.gov/study/NCT04939051",
+        "source": "ClinicalTrials.gov",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 19,
+        "pub_date": "2026-02-09",
+        "added_date": "2026-02-10"
+      },
+      {
         "id": "recxNdxlBsucuoNr9",
         "title": "Metal-Supramolecular Drug Delivery System Empowered Meningeal Lymphatic Vessels-Bridged Intracranial-Peripheral Dual Immune Modulation for Reversing Glioblastoma Immune Suppression.",
         "summary": "A novel nanoassembly system delivers cancer-fighting drugs to glioblastoma through brain lymphatic vessels, reprogramming immune cells and enhancing tumor-fighting responses.",
@@ -418,20 +432,6 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-01-01",
-        "added_date": "2026-02-09"
-      },
-      {
-        "id": "recioRVIMWDJMs2ce",
-        "title": "Targeted depletion of intratumoral bacteria using PEGylated metronidazole to augment cancer treatment efficacy.",
-        "summary": "A targeted nanoparticle antibiotic effectively eliminates intratumoral bacteria in Fusobacterium nucleatum-colonized tumors, enhancing the efficacy of cancer treatments.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41106321/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 13,
-        "pub_date": "2025-12-01",
         "added_date": "2026-02-09"
       }
     ],
@@ -878,10 +878,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5284,
+    "archive_count": 5285,
     "archive_supplements": 660,
     "archive_off_label": 225,
     "archive_biomarkers": 2972,
-    "archive_trials": 1129
+    "archive_trials": 1130
   }
 }
