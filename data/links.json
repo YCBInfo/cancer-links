@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-10T05:06:02.107Z",
+  "last_updated": "2026-02-10T05:06:13.165Z",
   "categories": {
     "supplements": [
       {
@@ -276,6 +276,20 @@
         "added_date": "2026-02-10"
       },
       {
+        "id": "recOOy9LwlzDKEqFu",
+        "title": "An intelligent responsive ZIF-8 co-delivery nanoplatform with multimodal synergistic technologies for closed-loop therapy of tumors.",
+        "summary": "A novel nanoplatform combines multiple cancer therapies (photothermal, chemodynamic, starving, and chemotherapy) to improve tumor targeting and treatment effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41468990/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-10"
+      },
+      {
         "id": "recxNdxlBsucuoNr9",
         "title": "Metal-Supramolecular Drug Delivery System Empowered Meningeal Lymphatic Vessels-Bridged Intracranial-Peripheral Dual Immune Modulation for Reversing Glioblastoma Immune Suppression.",
         "summary": "A novel nanoassembly system delivers cancer-fighting drugs to glioblastoma through brain lymphatic vessels, reprogramming immune cells and enhancing tumor-fighting responses.",
@@ -414,20 +428,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Colorectal",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-09"
-      },
-      {
-        "id": "recAblG6R2uI6JcFQ",
-        "title": "Nerve growth factor-targeting nanocluster-antibody-drug conjugates for intravesical precision theranostics of interstitial cystitis.",
-        "summary": "A novel nanocluster-antibody-drug conjugate targeting nerve growth factor effectively reduced inflammation and restored bladder health in interstitial cystitis.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41223715/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
           "Leukemia"
         ],
         "quality_score": 15,
@@ -878,10 +878,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5320,
+    "archive_count": 5321,
     "archive_supplements": 662,
     "archive_off_label": 227,
     "archive_biomarkers": 2990,
-    "archive_trials": 1143
+    "archive_trials": 1144
   }
 }
