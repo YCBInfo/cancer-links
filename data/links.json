@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-10T05:22:46.307Z",
+  "last_updated": "2026-02-10T05:22:57.699Z",
   "categories": {
     "supplements": [
       {
@@ -349,6 +349,20 @@
         "added_date": "2026-02-10"
       },
       {
+        "id": "reccuColh4Y7HEJWs",
+        "title": "Cell Therapies and Bispecific Engagers: Redefining Strategies Against Checkpoint Resistance.",
+        "summary": "Cell therapies and bispecific engagers show promise in overcoming immune checkpoint inhibitor resistance by redirecting immune cells and enhancing tumor targeting in solid tumors.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41661081/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-10"
+      },
+      {
         "id": "recxNdxlBsucuoNr9",
         "title": "Metal-Supramolecular Drug Delivery System Empowered Meningeal Lymphatic Vessels-Bridged Intracranial-Peripheral Dual Immune Modulation for Reversing Glioblastoma Immune Suppression.",
         "summary": "A novel nanoassembly system delivers cancer-fighting drugs to glioblastoma through brain lymphatic vessels, reprogramming immune cells and enhancing tumor-fighting responses.",
@@ -418,21 +432,6 @@
           "Liver"
         ],
         "quality_score": 29,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-09"
-      },
-      {
-        "id": "rec8nbrFFIb1KAIA0",
-        "title": "A robust RNAi nanoplatform for precise activation of cGAS-STING pathway and effective immune checkpoint blockade to potentiate cancer immunotherapy.",
-        "summary": "A nanoplatform targeting Carm1 and using metformin precisely activates the cGAS-STING pathway, enhancing breast cancer immunotherapy by stimulating immune responses.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41655906/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast",
-          "Leukemia"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-09"
       }
@@ -880,10 +879,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5414,
+    "archive_count": 5415,
     "archive_supplements": 664,
     "archive_off_label": 232,
-    "archive_biomarkers": 3065,
+    "archive_biomarkers": 3066,
     "archive_trials": 1155
   }
 }
