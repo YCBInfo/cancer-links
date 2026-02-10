@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-10T05:32:55.075Z",
+  "last_updated": "2026-02-10T07:02:13.854Z",
   "categories": {
     "supplements": [
       {
@@ -105,6 +105,35 @@
         "added_date": "2026-02-10"
       },
       {
+        "id": "recCOgpnqC7jfyx7V",
+        "title": "Morusinol exerts anti-glioma activity by targeting the PI3K/AKT/mTOR signaling pathway.",
+        "summary": "Morusinol, a natural compound from Morus alba, effectively inhibits glioma cell growth by blocking a key cellular signaling pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41663809/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia",
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-10"
+      },
+      {
+        "id": "recmQteznCm1qPEH6",
+        "title": "Association of 25-hydroxyvitamin D levels and vitamin D receptor gene polymorphisms with breast cancer risk in Bangladeshi women.",
+        "summary": "Two specific vitamin D receptor gene variations and low vitamin D levels were associated with increased breast cancer risk in Bangladeshi women.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41663649/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-10"
+      },
+      {
         "id": "recK7pNiKNnTensy6",
         "title": "Fermentation time Determines Anti-inflammatory and Osteoprotective Activity of Green Tea Kombucha in a Rat Model of Experimental Periodontitis.",
         "summary": "4-day fermented green tea kombucha effectively reduced inflammation and bone loss in rats with periodontitis, without causing organ toxicity.",
@@ -187,35 +216,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-09"
-      },
-      {
-        "id": "reclo2fNu2FVMW0SE",
-        "title": "Renqingchangjue ameliorates MNNG-induced chronic atrophic gastritis by inhibiting the TNF/NF-κB/Caspase-3 axis.",
-        "summary": "Renqingchangjue, a Tibetan herbal formula, reduces inflammation and cell damage in chronic atrophic gastritis by blocking key inflammatory pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41655547/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Stomach"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-09"
-      },
-      {
-        "id": "recY6EVo4x7XvY5iT",
-        "title": "In silico analysis of plumbagin's interaction with caspase 9: unveiling its potential as an anti-NSCLS agent.",
-        "summary": "Plumbagin shows promising potential as a targeted anti-NSCLC treatment by effectively binding to caspase-9 and demonstrating strong molecular interactions.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/40215186/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Lung",
-          "Leukemia"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-09"
       }
@@ -881,8 +881,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5471,
-    "archive_supplements": 667,
+    "archive_count": 5472,
+    "archive_supplements": 668,
     "archive_off_label": 232,
     "archive_biomarkers": 3112,
     "archive_trials": 1162
