@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-10T05:32:02.448Z",
+  "last_updated": "2026-02-10T05:32:13.460Z",
   "categories": {
     "supplements": [
       {
@@ -68,6 +68,21 @@
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-10"
+      },
+      {
+        "id": "recXaKXpXRp5NhK4G",
+        "title": "Protective Effect of Red Yeast Rice on Immune Checkpoint Inhibitors-Related Atherosclerotic Progression Through Inhibiting Macrophage Inflammatory Response and T Lymphocytes Infiltration.",
+        "summary": "Red Yeast Rice mitigates immune checkpoint inhibitor-induced atherosclerosis by reducing inflammation and immune cell infiltration in experimental cancer models.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41656923/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Melanoma",
           "Leukemia"
         ],
         "quality_score": 15,
@@ -194,20 +209,6 @@
         "title": "In silico approach to screen anti-inflammatory phytochemicals: targeting cytosolic phospholipase A2 and phospholipase C.",
         "summary": "p-Coumaric acid shows promising potential as an anti-inflammatory agent by effectively targeting cytosolic phospholipase A2 (cPLA2) with fewer side effects than traditional NSAIDs.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/40191872/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-09"
-      },
-      {
-        "id": "recBbDsiGcJJR1UwK",
-        "title": "Molecular insights into atopic dermatitis treatment: investigating bioactive compounds in Aceh's traditional fermented coconut oil.",
-        "summary": "Molecular docking revealed a compound in Aceh's fermented coconut oil could potentially inhibit inflammatory proteins associated with atopic dermatitis.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/40191851/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -879,10 +880,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5466,
+    "archive_count": 5467,
     "archive_supplements": 665,
     "archive_off_label": 232,
     "archive_biomarkers": 3111,
-    "archive_trials": 1160
+    "archive_trials": 1161
   }
 }
