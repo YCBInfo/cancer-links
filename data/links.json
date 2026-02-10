@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-10T05:18:09.967Z",
+  "last_updated": "2026-02-10T05:18:20.000Z",
   "categories": {
     "supplements": [
       {
@@ -42,6 +42,22 @@
         ],
         "quality_score": 13,
         "pub_date": "2025-11-01",
+        "added_date": "2026-02-10"
+      },
+      {
+        "id": "recBPaOcOxl9iV53A",
+        "title": "Smart nanoparticle delivery systems for curcumin: a targeted strategy to enhance anticancer efficacy and bioavailability.",
+        "summary": "Nanoparticle delivery systems significantly improve curcumin's anticancer effectiveness by enhancing its solubility and targeted tumor accumulation across multiple cancer types.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41661421/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal",
+          "Leukemia",
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
         "added_date": "2026-02-10"
       },
       {
@@ -199,20 +215,6 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-01-01",
-        "added_date": "2026-02-09"
-      },
-      {
-        "id": "recCme4AmVssBhCmW",
-        "title": "Mechanism and application of hyperbaric oxygen therapy in neurosurgery.",
-        "summary": "Hyperbaric oxygen therapy shows promising clinical benefits for treating various neurosurgical conditions, including brain trauma, stroke, infections, and tumors.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/40826939/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 13,
-        "pub_date": "2025-08-01",
         "added_date": "2026-02-09"
       }
     ],
@@ -877,10 +879,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5388,
+    "archive_count": 5389,
     "archive_supplements": 663,
     "archive_off_label": 230,
-    "archive_biomarkers": 3046,
+    "archive_biomarkers": 3047,
     "archive_trials": 1151
   }
 }
