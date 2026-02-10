@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-10T00:21:11.456Z",
+  "last_updated": "2026-02-10T00:21:22.138Z",
   "categories": {
     "supplements": [
       {
@@ -480,6 +480,20 @@
         "added_date": "2026-02-10"
       },
       {
+        "id": "rec9V5PObhlcivXQr",
+        "title": "Optimizing Antibody-Drug Conjugate Therapy Through Molecular Analysis for Therapy Choice (ADC MATCH)",
+        "summary": "Researchers are testing three targeted antibody-drug conjugates to precisely treat solid tumors with specific protein markers, potentially improving personalized cancer therapy.",
+        "url": "https://clinicaltrials.gov/study/NCT06311214",
+        "source": "ClinicalTrials.gov",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 19,
+        "pub_date": "2026-02-09",
+        "added_date": "2026-02-10"
+      },
+      {
         "id": "rec74z6ZXTcCusXjK",
         "title": "Convergence for Inactivation of TGF-β Signaling Is a Common Feature of Advanced Pancreatic Cancer.",
         "summary": "In advanced pancreatic cancer, TGF-β pathway inactivation varies between locally advanced and metastatic tumors, revealing distinct genetic mechanisms of disease progression.",
@@ -638,22 +652,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-09"
-      },
-      {
-        "id": "recVHVp6vVbqP33Mu",
-        "title": "Monitoring cancer-related fatigue and quality of life in breast and prostate cancer patients after primary treatment: a study protocol for the REBECCA trials in Norway.",
-        "summary": "The REBECCA project aims to monitor cancer-related fatigue in breast and prostate cancer patients by using wearables, online behavior, and self-reported data to improve patient care and understanding.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41655181/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast",
-          "Prostate",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-09"
       }
     ],
     "trials": [
@@ -711,6 +709,20 @@
           "Leukemia"
         ],
         "quality_score": 13,
+        "pub_date": "2026-02-09",
+        "added_date": "2026-02-10"
+      },
+      {
+        "id": "rec9V5PObhlcivXQr",
+        "title": "Optimizing Antibody-Drug Conjugate Therapy Through Molecular Analysis for Therapy Choice (ADC MATCH)",
+        "summary": "Researchers are testing three targeted antibody-drug conjugates to precisely treat solid tumors with specific protein markers, potentially improving personalized cancer therapy.",
+        "url": "https://clinicaltrials.gov/study/NCT06311214",
+        "source": "ClinicalTrials.gov",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 19,
         "pub_date": "2026-02-09",
         "added_date": "2026-02-10"
       },
@@ -859,22 +871,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-09"
-      },
-      {
-        "id": "recVHVp6vVbqP33Mu",
-        "title": "Monitoring cancer-related fatigue and quality of life in breast and prostate cancer patients after primary treatment: a study protocol for the REBECCA trials in Norway.",
-        "summary": "The REBECCA project aims to monitor cancer-related fatigue in breast and prostate cancer patients by using wearables, online behavior, and self-reported data to improve patient care and understanding.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41655181/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast",
-          "Prostate",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-09"
       }
     ]
   },
@@ -884,10 +880,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5249,
+    "archive_count": 5250,
     "archive_supplements": 660,
     "archive_off_label": 224,
     "archive_biomarkers": 2968,
-    "archive_trials": 1099
+    "archive_trials": 1100
   }
 }
