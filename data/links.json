@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-10T00:22:58.573Z",
+  "last_updated": "2026-02-10T00:23:08.309Z",
   "categories": {
     "supplements": [
       {
@@ -595,6 +595,21 @@
         "added_date": "2026-02-10"
       },
       {
+        "id": "recfb9ulx2x0LkE8N",
+        "title": "A Phase I Study of Lintuzumab-Ac-225 in Combination With Venetoclax and ASTX-727 in Adults With Newly Diagnosed AML",
+        "summary": "A targeted radioactive antibody combined with venetoclax and ASTX-727 shows potential to safely treat newly diagnosed acute myeloid leukemia patients ineligible for standard therapy.",
+        "url": "https://clinicaltrials.gov/study/NCT06802523",
+        "source": "ClinicalTrials.gov",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Leukemia",
+          "Lymphoma"
+        ],
+        "quality_score": 13,
+        "pub_date": "2026-02-09",
+        "added_date": "2026-02-10"
+      },
+      {
         "id": "rec74z6ZXTcCusXjK",
         "title": "Convergence for Inactivation of TGF-β Signaling Is a Common Feature of Advanced Pancreatic Cancer.",
         "summary": "In advanced pancreatic cancer, TGF-β pathway inactivation varies between locally advanced and metastatic tumors, revealing distinct genetic mechanisms of disease progression.",
@@ -635,20 +650,6 @@
           "Melanoma",
           "Leukemia",
           "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-09"
-      },
-      {
-        "id": "rec47eKMVgXcgJjdl",
-        "title": "Targeting PRKCN, an Essential Driver Orchestrating mTOR-IRF4 Axis Independently of Kinase Activity, in Multiple Myeloma.",
-        "summary": "In multiple myeloma, targeting PRKCN disrupts a critical NF-κB-mTOR-IRF4 signaling circuit, inhibiting cancer cell growth and overcoming drug resistance.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41655233/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -858,19 +859,19 @@
         "added_date": "2026-02-10"
       },
       {
-        "id": "rec74z6ZXTcCusXjK",
-        "title": "Convergence for Inactivation of TGF-β Signaling Is a Common Feature of Advanced Pancreatic Cancer.",
-        "summary": "In advanced pancreatic cancer, TGF-β pathway inactivation varies between locally advanced and metastatic tumors, revealing distinct genetic mechanisms of disease progression.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41650466/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
+        "id": "recfb9ulx2x0LkE8N",
+        "title": "A Phase I Study of Lintuzumab-Ac-225 in Combination With Venetoclax and ASTX-727 in Adults With Newly Diagnosed AML",
+        "summary": "A targeted radioactive antibody combined with venetoclax and ASTX-727 shows potential to safely treat newly diagnosed acute myeloid leukemia patients ineligible for standard therapy.",
+        "url": "https://clinicaltrials.gov/study/NCT06802523",
+        "source": "ClinicalTrials.gov",
+        "category": "Clinical Trials",
         "cancer_types": [
           "Leukemia",
-          "Pancreatic"
+          "Lymphoma"
         ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-09"
+        "quality_score": 13,
+        "pub_date": "2026-02-09",
+        "added_date": "2026-02-10"
       }
     ]
   },
@@ -880,10 +881,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5259,
+    "archive_count": 5260,
     "archive_supplements": 660,
     "archive_off_label": 224,
     "archive_biomarkers": 2972,
-    "archive_trials": 1105
+    "archive_trials": 1106
   }
 }
