@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-10T05:20:39.180Z",
+  "last_updated": "2026-02-10T05:20:56.027Z",
   "categories": {
     "supplements": [
       {
@@ -320,6 +320,21 @@
         "added_date": "2026-02-10"
       },
       {
+        "id": "receFsYqz50Q7lXrq",
+        "title": "Statins in Gastroenterology: Mechanisms, Human Evidence, and Safety.",
+        "summary": "Statins show potential to slow disease progression and reduce complications in various liver and gastrointestinal conditions, with minimal side effects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41661228/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Leukemia",
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-10"
+      },
+      {
         "id": "recxNdxlBsucuoNr9",
         "title": "Metal-Supramolecular Drug Delivery System Empowered Meningeal Lymphatic Vessels-Bridged Intracranial-Peripheral Dual Immune Modulation for Reversing Glioblastoma Immune Suppression.",
         "summary": "A novel nanoassembly system delivers cancer-fighting drugs to glioblastoma through brain lymphatic vessels, reprogramming immune cells and enhancing tumor-fighting responses.",
@@ -418,20 +433,6 @@
           "Leukemia"
         ],
         "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-09"
-      },
-      {
-        "id": "recKohDwC2OPOmXh2",
-        "title": "Assessment of adverse effects attributed to statin therapy in product labels: a meta-analysis of double-blind randomised controlled trials.",
-        "summary": "A comprehensive review of double-blind clinical trials found that some reported adverse effects of statins on product labels may be overstated or not statistically supported.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41655587/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 22,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-09"
       }
@@ -879,10 +880,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5402,
+    "archive_count": 5403,
     "archive_supplements": 664,
     "archive_off_label": 230,
-    "archive_biomarkers": 3058,
+    "archive_biomarkers": 3059,
     "archive_trials": 1152
   }
 }
