@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-02-11T05:13:06.160Z",
+  "last_updated": "2026-02-11T05:13:16.417Z",
   "categories": {
     "supplements": [
+      {
+        "id": "recbLu9tpl0BimUYO",
+        "title": "Natural Product-Inspired PROTACs for Leukemia Therapy: Hederagenin-Driven Targeted Degradation of SKP2.",
+        "summary": "A PROTAC derivative of hederagenin called HD15 effectively degrades SKP2 protein and inhibits T-cell leukemia cell growth by modulating key cellular pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41665125/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-11"
+      },
       {
         "id": "recABRpZuZ7FtLTjc",
         "title": "An enzyme-triggered fuse-like microcapsule for encapsulating probiotics: the treatment of ulcerative colitis.",
@@ -202,20 +216,6 @@
           "Leukemia"
         ],
         "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-10"
-      },
-      {
-        "id": "recckHaeUUmdeNN5Z",
-        "title": "Phytic acid (InsP6) activates HDAC3 epigenetic axis to maintain intestinal barrier function.",
-        "summary": "Phytic acid activates HDAC3 to maintain intestinal barrier function, potentially offering a therapeutic approach for inflammatory bowel disease.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41663400/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-10"
       }
@@ -882,10 +882,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5609,
+    "archive_count": 5610,
     "archive_supplements": 684,
     "archive_off_label": 242,
-    "archive_biomarkers": 3196,
+    "archive_biomarkers": 3197,
     "archive_trials": 1189
   }
 }
