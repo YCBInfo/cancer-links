@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-11T07:03:20.687Z",
+  "last_updated": "2026-02-11T07:03:31.001Z",
   "categories": {
     "supplements": [
       {
@@ -86,6 +86,20 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
+        "added_date": "2026-02-11"
+      },
+      {
+        "id": "rectWPwqcWptNnfSN",
+        "title": "Antiproliferative and Anti-Inflammatory Activities of Encapsulated Opuntia Peel Polyphenols.",
+        "summary": "Opuntia peel polyphenols demonstrate potential anti-cancer and anti-inflammatory properties, with encapsulation significantly enhancing their effectiveness against colon cancer cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41667887/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
         "added_date": "2026-02-11"
       },
       {
@@ -200,20 +214,6 @@
         "cancer_types": [
           "Leukemia",
           "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-10"
-      },
-      {
-        "id": "recmQteznCm1qPEH6",
-        "title": "Association of 25-hydroxyvitamin D levels and vitamin D receptor gene polymorphisms with breast cancer risk in Bangladeshi women.",
-        "summary": "Two specific vitamin D receptor gene variations and low vitamin D levels were associated with increased breast cancer risk in Bangladeshi women.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41663649/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -882,10 +882,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5669,
+    "archive_count": 5670,
     "archive_supplements": 690,
     "archive_off_label": 243,
-    "archive_biomarkers": 3244,
+    "archive_biomarkers": 3245,
     "archive_trials": 1194
   }
 }
