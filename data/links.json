@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-11T05:02:32.339Z",
+  "last_updated": "2026-02-11T05:02:42.320Z",
   "categories": {
     "supplements": [
       {
@@ -510,6 +510,21 @@
         "added_date": "2026-02-11"
       },
       {
+        "id": "recs9EGmx8x4lwicK",
+        "title": "A stress granule-associated RNA-binding protein FAM120A drives cisplatin resistance in non-small cell lung cancer.",
+        "summary": "FAM120A, an RNA-binding protein in stress granules, promotes cisplatin resistance in non-small cell lung cancer by stabilizing the MALAT1 long noncoding RNA.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41328536/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-11"
+      },
+      {
         "id": "recfvCpB2iYg5xcDA",
         "title": "A Phase II/III Trial of Chemotherapy + Cetuximab vs Chemotherapy + Bevacizumab vs Atezolizumab + Bevacizumab Following Progression on Immune Checkpoint Inhibition in Recurrent/Metastatic Head and Neck Cancers",
         "summary": "The study compares different treatment combinations for recurrent or metastatic head and neck cancer to determine the most effective therapy after initial immunotherapy failure.",
@@ -637,21 +652,6 @@
         "quality_score": 13,
         "pub_date": "2026-02-09",
         "added_date": "2026-02-10"
-      },
-      {
-        "id": "recw3MIeoxdiNgoiD",
-        "title": "A Two Cohort, Randomized, Double-Blind, Placebo-Controlled, Phase II Multi-Center Signal-Finding Study of Venetoclax Combined With Reduced-Intensity Conditioning Followed by Allogeneic Hematopoietic Cell Transplantation Then Venetoclax Maintenance in Adult Patients With Acute Myeloid Leukemia in First Complete Remission: A MyeloMATCH Sub-Study",
-        "summary": "Venetoclax combined with reduced-intensity conditioning and stem cell transplant may improve treatment outcomes for acute myeloid leukemia patients in first complete remission.",
-        "url": "https://clinicaltrials.gov/study/NCT06954987",
-        "source": "ClinicalTrials.gov",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Leukemia",
-          "Lymphoma"
-        ],
-        "quality_score": 19,
-        "pub_date": "2026-02-09",
-        "added_date": "2026-02-10"
       }
     ],
     "trials": [
@@ -696,6 +696,21 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
+        "added_date": "2026-02-11"
+      },
+      {
+        "id": "recs9EGmx8x4lwicK",
+        "title": "A stress granule-associated RNA-binding protein FAM120A drives cisplatin resistance in non-small cell lung cancer.",
+        "summary": "FAM120A, an RNA-binding protein in stress granules, promotes cisplatin resistance in non-small cell lung cancer by stabilizing the MALAT1 long noncoding RNA.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41328536/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
         "added_date": "2026-02-11"
       },
       {
@@ -854,21 +869,6 @@
         "quality_score": 13,
         "pub_date": "2026-02-09",
         "added_date": "2026-02-10"
-      },
-      {
-        "id": "recw3MIeoxdiNgoiD",
-        "title": "A Two Cohort, Randomized, Double-Blind, Placebo-Controlled, Phase II Multi-Center Signal-Finding Study of Venetoclax Combined With Reduced-Intensity Conditioning Followed by Allogeneic Hematopoietic Cell Transplantation Then Venetoclax Maintenance in Adult Patients With Acute Myeloid Leukemia in First Complete Remission: A MyeloMATCH Sub-Study",
-        "summary": "Venetoclax combined with reduced-intensity conditioning and stem cell transplant may improve treatment outcomes for acute myeloid leukemia patients in first complete remission.",
-        "url": "https://clinicaltrials.gov/study/NCT06954987",
-        "source": "ClinicalTrials.gov",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Leukemia",
-          "Lymphoma"
-        ],
-        "quality_score": 19,
-        "pub_date": "2026-02-09",
-        "added_date": "2026-02-10"
       }
     ]
   },
@@ -878,10 +878,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5549,
+    "archive_count": 5550,
     "archive_supplements": 684,
     "archive_off_label": 240,
-    "archive_biomarkers": 3148,
+    "archive_biomarkers": 3149,
     "archive_trials": 1179
   }
 }
