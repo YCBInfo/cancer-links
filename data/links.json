@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-11T10:01:54.150Z",
+  "last_updated": "2026-02-11T10:02:11.618Z",
   "categories": {
     "supplements": [
       {
@@ -322,6 +322,20 @@
         "added_date": "2026-02-11"
       },
       {
+        "id": "recgTFlvoNpFB6t2j",
+        "title": "Statins halt polycystic liver disease by reprogramming metabolism and normalizing mitochondrial bioenergetics in cystic cholangiocytes.",
+        "summary": "Statins can potentially treat polycystic liver disease by correcting mitochondrial and metabolic dysfunction in liver cells, offering a promising non-surgical intervention.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41665917/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-11"
+      },
+      {
         "id": "rec2yA2Aer1a661jc",
         "title": "Repurposing Itraconazole for Secondary Prevention of Metaplasia and Primary Prevention of Cancer in Patients With High-Risk Barrett's Esophagus in Combination With Ablation",
         "summary": "Itraconazole combined with ablation therapy shows promise for preventing esophageal cancer progression in patients with high-risk Barrett's esophagus.",
@@ -416,21 +430,6 @@
         "cancer_types": [
           "Colorectal",
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-10"
-      },
-      {
-        "id": "receFsYqz50Q7lXrq",
-        "title": "Statins in Gastroenterology: Mechanisms, Human Evidence, and Safety.",
-        "summary": "Statins show potential to slow disease progression and reduce complications in various liver and gastrointestinal conditions, with minimal side effects.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41661228/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia",
-          "Liver"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -882,10 +881,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5763,
+    "archive_count": 5764,
     "archive_supplements": 700,
     "archive_off_label": 245,
-    "archive_biomarkers": 3285,
+    "archive_biomarkers": 3286,
     "archive_trials": 1235
   }
 }
