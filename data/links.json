@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-10T12:50:52.182Z",
+  "last_updated": "2026-02-11T05:01:55.598Z",
   "categories": {
     "supplements": [
       {
@@ -439,6 +439,34 @@
     ],
     "biomarkers": [
       {
+        "id": "recWmYqFQfFszTITd",
+        "title": "Adverse karyotype amplifies risk in secondary acute myeloid leukemia (AML) and AML with myelodysplasia-related changes.",
+        "summary": "Patients with secondary acute myeloid leukemia and AML-MRC have worse outcomes, particularly when they have unfavorable chromosomal changes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41666291/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-11"
+      },
+      {
+        "id": "recWS1jtFi1x1vbud",
+        "title": "Single-cell transcriptome revealed the aberrant keratinocytes activation in antigen presentation in atopic dermatitis.",
+        "summary": "Single-cell analysis uncovered how keratinocytes in atopic dermatitis abnormally present antigens, potentially explaining skin inflammation mechanisms.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41666125/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-11"
+      },
+      {
         "id": "recfvCpB2iYg5xcDA",
         "title": "A Phase II/III Trial of Chemotherapy + Cetuximab vs Chemotherapy + Bevacizumab vs Atezolizumab + Bevacizumab Following Progression on Immune Checkpoint Inhibition in Recurrent/Metastatic Head and Neck Cancers",
         "summary": "The study compares different treatment combinations for recurrent or metastatic head and neck cancer to determine the most effective therapy after initial immunotherapy failure.",
@@ -625,37 +653,23 @@
         "quality_score": 13,
         "pub_date": "2026-02-09",
         "added_date": "2026-02-10"
-      },
-      {
-        "id": "recq2pVkhrlyg6FwF",
-        "title": "A Phase II Randomized Trial of Neoadjuvant Chemotherapy or Chemo-Immunotherapy in Patients With Recurrent/Persistent PD-L1 Enriched Squamous Cell Carcinoma of the Head and Neck Undergoing Salvage Surgery (NEOPOLIS)",
-        "summary": "A clinical trial tests adding chemotherapy or chemo-immunotherapy to surgery for patients with recurrent head and neck cancer to potentially improve treatment outcomes.",
-        "url": "https://clinicaltrials.gov/study/NCT07195734",
-        "source": "ClinicalTrials.gov",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 19,
-        "pub_date": "2026-02-09",
-        "added_date": "2026-02-10"
-      },
-      {
-        "id": "recjzDv1wbBbmmAi7",
-        "title": "A Phase I/II, Open-Label, Multi-Cohort Study to Evaluate the Efficacy and Safety of Cevostamab in Prior B Cell Maturation Antigen-Exposed Patients With Relapsed/Refractory Multiple Myeloma",
-        "summary": "Cevostamab, an experimental therapy, shows promise in treating multiple myeloma patients who have previously failed standard treatments.",
-        "url": "https://clinicaltrials.gov/study/NCT05535244",
-        "source": "ClinicalTrials.gov",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
-        "pub_date": "2026-02-09",
-        "added_date": "2026-02-10"
       }
     ],
     "trials": [
+      {
+        "id": "recWmYqFQfFszTITd",
+        "title": "Adverse karyotype amplifies risk in secondary acute myeloid leukemia (AML) and AML with myelodysplasia-related changes.",
+        "summary": "Patients with secondary acute myeloid leukemia and AML-MRC have worse outcomes, particularly when they have unfavorable chromosomal changes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41666291/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-11"
+      },
       {
         "id": "recfvCpB2iYg5xcDA",
         "title": "A Phase II/III Trial of Chemotherapy + Cetuximab vs Chemotherapy + Bevacizumab vs Atezolizumab + Bevacizumab Following Progression on Immune Checkpoint Inhibition in Recurrent/Metastatic Head and Neck Cancers",
@@ -856,21 +870,6 @@
         "quality_score": 19,
         "pub_date": "2026-02-09",
         "added_date": "2026-02-10"
-      },
-      {
-        "id": "recfb9ulx2x0LkE8N",
-        "title": "A Phase I Study of Lintuzumab-Ac-225 in Combination With Venetoclax and ASTX-727 in Adults With Newly Diagnosed AML",
-        "summary": "A targeted radioactive antibody combined with venetoclax and ASTX-727 shows potential to safely treat newly diagnosed acute myeloid leukemia patients ineligible for standard therapy.",
-        "url": "https://clinicaltrials.gov/study/NCT06802523",
-        "source": "ClinicalTrials.gov",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Leukemia",
-          "Lymphoma"
-        ],
-        "quality_score": 13,
-        "pub_date": "2026-02-09",
-        "added_date": "2026-02-10"
       }
     ]
   },
@@ -880,10 +879,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5546,
+    "archive_count": 5547,
     "archive_supplements": 684,
     "archive_off_label": 240,
-    "archive_biomarkers": 3145,
+    "archive_biomarkers": 3146,
     "archive_trials": 1179
   }
 }
