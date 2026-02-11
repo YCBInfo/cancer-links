@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-11T07:05:06.563Z",
+  "last_updated": "2026-02-11T07:05:15.518Z",
   "categories": {
     "supplements": [
       {
@@ -132,6 +132,21 @@
         "added_date": "2026-02-11"
       },
       {
+        "id": "rectfx8zsitV1DXcQ",
+        "title": "Apigenin Sensitizes Melanoma to Chemo/Radiotherapy and Potentiates Immune Killing by Reducing T Cell PD-1 Expression.",
+        "summary": "Apigenin enhances melanoma treatment by reducing PD-1 on T cells, making chemotherapy and radiation more effective at killing cancer cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41667061/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Melanoma",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-11"
+      },
+      {
         "id": "recABRpZuZ7FtLTjc",
         "title": "An enzyme-triggered fuse-like microcapsule for encapsulating probiotics: the treatment of ulcerative colitis.",
         "summary": "A specially designed microcapsule that protects and delivers probiotics successfully reduces inflammation and improves intestinal health in ulcerative colitis.",
@@ -197,21 +212,6 @@
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-10"
-      },
-      {
-        "id": "recXaKXpXRp5NhK4G",
-        "title": "Protective Effect of Red Yeast Rice on Immune Checkpoint Inhibitors-Related Atherosclerotic Progression Through Inhibiting Macrophage Inflammatory Response and T Lymphocytes Infiltration.",
-        "summary": "Red Yeast Rice mitigates immune checkpoint inhibitor-induced atherosclerosis by reducing inflammation and immune cell infiltration in experimental cancer models.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41656923/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Melanoma",
           "Leukemia"
         ],
         "quality_score": 15,
@@ -881,10 +881,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5679,
+    "archive_count": 5680,
     "archive_supplements": 692,
     "archive_off_label": 243,
-    "archive_biomarkers": 3252,
+    "archive_biomarkers": 3253,
     "archive_trials": 1194
   }
 }
