@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-11T05:23:06.968Z",
+  "last_updated": "2026-02-11T07:02:16.733Z",
   "categories": {
     "supplements": [
       {
@@ -54,6 +54,21 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-11"
+      },
+      {
+        "id": "recnXSPY7qhY3hmJo",
+        "title": "Box-Behnken optimized copper oxide nanoparticles from Thymus vulgaris potentiate efficacy against multidrug-resistant bacterial pathogens and exhibit anticancer activity.",
+        "summary": "Green-synthesized copper oxide nanoparticles from Thymus vulgaris showed potent antimicrobial activity and moderate anticancer effects against MCF-7 breast cancer cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41667744/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast",
+          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -203,20 +218,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
-        "added_date": "2026-02-10"
-      },
-      {
-        "id": "recJLiNypKHRgJEsE",
-        "title": "Effects of hydrophobic chain lengths on the structure and properties of polymeric micelles: experimental and simulation studies.",
-        "summary": "By adjusting hydrophobic chain lengths, researchers developed micelle drug carriers that optimize drug loading and release for potential cancer treatment delivery.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41482183/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
         "added_date": "2026-02-10"
       }
     ],
@@ -883,10 +884,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5662,
+    "archive_count": 5663,
     "archive_supplements": 688,
     "archive_off_label": 243,
-    "archive_biomarkers": 3240,
+    "archive_biomarkers": 3241,
     "archive_trials": 1193
   }
 }
