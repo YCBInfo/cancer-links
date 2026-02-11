@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-11T05:01:55.598Z",
+  "last_updated": "2026-02-11T05:02:05.181Z",
   "categories": {
     "supplements": [
       {
@@ -467,6 +467,20 @@
         "added_date": "2026-02-11"
       },
       {
+        "id": "recqjeqm0EdEbVUWW",
+        "title": "Trimethylated H3K4 and Acetylated H3K14 Expression as Prognostic Markers in Oral Squamous Cell Carcinoma.",
+        "summary": "In oral squamous cell carcinoma, high levels of H3K14ac and H3K4me3 are associated with increased metastasis risk and lower patient survival.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41665910/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-11"
+      },
+      {
         "id": "recfvCpB2iYg5xcDA",
         "title": "A Phase II/III Trial of Chemotherapy + Cetuximab vs Chemotherapy + Bevacizumab vs Atezolizumab + Bevacizumab Following Progression on Immune Checkpoint Inhibition in Recurrent/Metastatic Head and Neck Cancers",
         "summary": "The study compares different treatment combinations for recurrent or metastatic head and neck cancer to determine the most effective therapy after initial immunotherapy failure.",
@@ -638,21 +652,6 @@
         "quality_score": 13,
         "pub_date": "2026-02-09",
         "added_date": "2026-02-10"
-      },
-      {
-        "id": "recaEY9PrJLqqN84n",
-        "title": "KEYMAKER-U01 Substudy 01E: A Phase 2 Umbrella Study With Rolling Arms of Investigational Agents With or Without Chemotherapy in Combination With Pembrolizumab in Treatment of Participants With Newly Diagnosed Resectable Stages II-IIIB (N2) Non-small Cell Lung Cancer (NSCLC)",
-        "summary": "A phase 2 trial testing new drug combinations with pembrolizumab before surgery to potentially improve treatment outcomes for patients with early-stage non-small cell lung cancer.",
-        "url": "https://clinicaltrials.gov/study/NCT06788912",
-        "source": "ClinicalTrials.gov",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Lung",
-          "Leukemia"
-        ],
-        "quality_score": 13,
-        "pub_date": "2026-02-09",
-        "added_date": "2026-02-10"
       }
     ],
     "trials": [
@@ -661,6 +660,20 @@
         "title": "Adverse karyotype amplifies risk in secondary acute myeloid leukemia (AML) and AML with myelodysplasia-related changes.",
         "summary": "Patients with secondary acute myeloid leukemia and AML-MRC have worse outcomes, particularly when they have unfavorable chromosomal changes.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41666291/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-11"
+      },
+      {
+        "id": "recqjeqm0EdEbVUWW",
+        "title": "Trimethylated H3K4 and Acetylated H3K14 Expression as Prognostic Markers in Oral Squamous Cell Carcinoma.",
+        "summary": "In oral squamous cell carcinoma, high levels of H3K14ac and H3K4me3 are associated with increased metastasis risk and lower patient survival.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41665910/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -856,20 +869,6 @@
         "quality_score": 13,
         "pub_date": "2026-02-09",
         "added_date": "2026-02-10"
-      },
-      {
-        "id": "rec2yA2Aer1a661jc",
-        "title": "Repurposing Itraconazole for Secondary Prevention of Metaplasia and Primary Prevention of Cancer in Patients With High-Risk Barrett's Esophagus in Combination With Ablation",
-        "summary": "Itraconazole combined with ablation therapy shows promise for preventing esophageal cancer progression in patients with high-risk Barrett's esophagus.",
-        "url": "https://clinicaltrials.gov/study/NCT06732388",
-        "source": "ClinicalTrials.gov",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 19,
-        "pub_date": "2026-02-09",
-        "added_date": "2026-02-10"
       }
     ]
   },
@@ -879,10 +878,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5547,
+    "archive_count": 5548,
     "archive_supplements": 684,
     "archive_off_label": 240,
-    "archive_biomarkers": 3146,
+    "archive_biomarkers": 3147,
     "archive_trials": 1179
   }
 }
