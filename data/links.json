@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-11T07:03:51.978Z",
+  "last_updated": "2026-02-11T07:04:02.509Z",
   "categories": {
     "supplements": [
       {
@@ -95,6 +95,20 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41667887/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-11"
+      },
+      {
+        "id": "reclK9VLeHHTO95V1",
+        "title": "NAPRT-mediated deamidated NAD biosynthesis enhances colon tissue resiliency and suppresses tumorigenesis.",
+        "summary": "Here's a clear, concise summary:\n\nNAPRT enzyme in gut cells helps prevent colon cancer by maintaining NAD levels and supporting stress response and DNA repair.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41667489/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
@@ -199,21 +213,6 @@
         "cancer_types": [
           "Prostate",
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-10"
-      },
-      {
-        "id": "recCOgpnqC7jfyx7V",
-        "title": "Morusinol exerts anti-glioma activity by targeting the PI3K/AKT/mTOR signaling pathway.",
-        "summary": "Morusinol, a natural compound from Morus alba, effectively inhibits glioma cell growth by blocking a key cellular signaling pathway.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41663809/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia",
-          "Brain"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -882,10 +881,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5672,
+    "archive_count": 5673,
     "archive_supplements": 691,
     "archive_off_label": 243,
-    "archive_biomarkers": 3246,
+    "archive_biomarkers": 3247,
     "archive_trials": 1194
   }
 }
