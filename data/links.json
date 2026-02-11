@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-11T05:15:35.011Z",
+  "last_updated": "2026-02-11T05:15:45.162Z",
   "categories": {
     "supplements": [
       {
@@ -40,6 +40,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-11"
+      },
+      {
+        "id": "rec6r8Eld0HrMif5S",
+        "title": "A theranostic endoperoxide agent with targeted singlet oxygen release and concomitant fluorescence signals.",
+        "summary": "A novel naphthalene-derived endoperoxide agent generates targeted singlet oxygen in breast cancer cells, suppressing tumor growth with fluorescent tracking.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41664551/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -203,20 +217,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
-        "added_date": "2026-02-10"
-      },
-      {
-        "id": "recDkihe1Kr2C4uOk",
-        "title": "Advances in molecular mechanisms of anti-tumor bioactive constituents from Astragalus membranaceus: A comprehensive review.",
-        "summary": "Astragalus membranaceus, a natural herb, shows promising anti-tumor effects across multiple cancer types by targeting key molecular mechanisms that inhibit cancer development.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41106564/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Melanoma"
-        ],
-        "quality_score": 13,
-        "pub_date": "2025-11-01",
         "added_date": "2026-02-10"
       }
     ],
@@ -882,10 +882,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5623,
+    "archive_count": 5624,
     "archive_supplements": 687,
     "archive_off_label": 242,
-    "archive_biomarkers": 3205,
+    "archive_biomarkers": 3206,
     "archive_trials": 1191
   }
 }
