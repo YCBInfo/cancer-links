@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-11T10:03:05.686Z",
+  "last_updated": "2026-02-11T10:03:31.908Z",
   "categories": {
     "supplements": [
       {
@@ -336,6 +336,21 @@
         "added_date": "2026-02-11"
       },
       {
+        "id": "recUWdXjtNsmRzUGU",
+        "title": "Repurposing disulfiram for ALDH-positive NSCLC: Network-based inhibition of EGFR, COX-2, and MAPK1.",
+        "summary": "Disulfiram effectively inhibits key cancer-promoting proteins in ALDH-positive non-small cell lung cancer, potentially overcoming drug resistance and treatment challenges.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41666774/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Lung",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-11"
+      },
+      {
         "id": "rec2yA2Aer1a661jc",
         "title": "Repurposing Itraconazole for Secondary Prevention of Metaplasia and Primary Prevention of Cancer in Patients With High-Risk Barrett's Esophagus in Combination With Ablation",
         "summary": "Itraconazole combined with ablation therapy shows promise for preventing esophageal cancer progression in patients with high-risk Barrett's esophagus.",
@@ -418,21 +433,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
-        "added_date": "2026-02-10"
-      },
-      {
-        "id": "recbB1B7UBTuNsiOk",
-        "title": "FASN Inhibition Enhances the Efficacy of Chemotherapy in Colorectal Cancer by Inhibiting the DNA Damage Response.",
-        "summary": "FASN inhibition in colorectal cancer enhances chemotherapy effectiveness by disrupting DNA damage repair and increasing cancer cell death.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41661672/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Colorectal",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
         "added_date": "2026-02-10"
       }
     ],
@@ -881,10 +881,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5769,
+    "archive_count": 5770,
     "archive_supplements": 701,
     "archive_off_label": 247,
-    "archive_biomarkers": 3288,
+    "archive_biomarkers": 3289,
     "archive_trials": 1235
   }
 }
