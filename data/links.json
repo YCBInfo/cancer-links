@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-11T09:02:15.264Z",
+  "last_updated": "2026-02-11T10:01:33.406Z",
   "categories": {
     "supplements": [
       {
@@ -280,6 +280,34 @@
         "added_date": "2026-02-11"
       },
       {
+        "id": "recndRooRiABmHP9N",
+        "title": "Streptomycin mitigates methylglyoxal-induced carbonyl stress through its antiglycation activity: A drug-repurposing approach for carbonyl stress-related disorder.",
+        "summary": "Streptomycin showed promise in reducing harmful protein modifications caused by methylglyoxal in neuroblastoma cells, suggesting potential therapeutic use in carbonyl stress-related disorders.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41490581/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-11"
+      },
+      {
+        "id": "rec0cQ3pfLOFcmudo",
+        "title": "Valproic acid reverses macrophage-mediated temozolomide resistance in macrophage-rich gliomas.",
+        "summary": "Valproic acid helps reverse drug resistance in gliomas by transforming tumor-associated macrophages, potentially improving temozolomide treatment effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41667704/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-11"
+      },
+      {
         "id": "rec2yA2Aer1a661jc",
         "title": "Repurposing Itraconazole for Secondary Prevention of Metaplasia and Primary Prevention of Cancer in Patients With High-Risk Barrett's Esophagus in Combination With Ablation",
         "summary": "Itraconazole combined with ablation therapy shows promise for preventing esophageal cancer progression in patients with high-risk Barrett's esophagus.",
@@ -406,34 +434,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
-        "added_date": "2026-02-10"
-      },
-      {
-        "id": "reccuColh4Y7HEJWs",
-        "title": "Cell Therapies and Bispecific Engagers: Redefining Strategies Against Checkpoint Resistance.",
-        "summary": "Cell therapies and bispecific engagers show promise in overcoming immune checkpoint inhibitor resistance by redirecting immune cells and enhancing tumor targeting in solid tumors.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41661081/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-10"
-      },
-      {
-        "id": "rechfOK702Pq09M8o",
-        "title": "Dose optimization of lymph node-targeted cyclosporine-A for lupus-driven vasculopathy.",
-        "summary": "Researchers developed a targeted nanoparticle delivery of cyclosporine A that optimally suppresses immune activation in lupus at a 10 mg/kg dose, reducing inflammation and kidney injury.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41412214/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
         "added_date": "2026-02-10"
       }
     ],
@@ -882,10 +882,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5760,
+    "archive_count": 5761,
     "archive_supplements": 700,
     "archive_off_label": 243,
     "archive_biomarkers": 3285,
-    "archive_trials": 1234
+    "archive_trials": 1235
   }
 }
