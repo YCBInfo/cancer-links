@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-11T05:03:03.931Z",
+  "last_updated": "2026-02-11T05:03:14.026Z",
   "categories": {
     "supplements": [
       {
@@ -554,6 +554,20 @@
         "added_date": "2026-02-11"
       },
       {
+        "id": "recZm45jZXiBqUqbY",
+        "title": "Down-regulation of M6A demethylase ALKBH5 facilitates morphine tolerance via SGK1 in mice.",
+        "summary": "In a mouse study, reducing the ALKBH5 enzyme increased morphine tolerance through a specific cellular mechanism involving the SGK1 protein.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41666459/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-11"
+      },
+      {
         "id": "recfvCpB2iYg5xcDA",
         "title": "A Phase II/III Trial of Chemotherapy + Cetuximab vs Chemotherapy + Bevacizumab vs Atezolizumab + Bevacizumab Following Progression on Immune Checkpoint Inhibition in Recurrent/Metastatic Head and Neck Cancers",
         "summary": "The study compares different treatment combinations for recurrent or metastatic head and neck cancer to determine the most effective therapy after initial immunotherapy failure.",
@@ -635,20 +649,6 @@
           "Leukemia"
         ],
         "quality_score": 13,
-        "pub_date": "2026-02-09",
-        "added_date": "2026-02-10"
-      },
-      {
-        "id": "recbukcNXelFd2u49",
-        "title": "Ward AdmiSsion of Haematuria: an Observational mUlticentre sTudy",
-        "summary": "A multicenter study aims to investigate hospital admission practices and develop guidelines for managing emergency patients with blood in urine across different healthcare settings.",
-        "url": "https://clinicaltrials.gov/study/NCT07395037",
-        "source": "ClinicalTrials.gov",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
         "pub_date": "2026-02-09",
         "added_date": "2026-02-10"
       }
@@ -876,10 +876,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5552,
+    "archive_count": 5553,
     "archive_supplements": 684,
     "archive_off_label": 240,
-    "archive_biomarkers": 3151,
+    "archive_biomarkers": 3152,
     "archive_trials": 1179
   }
 }
