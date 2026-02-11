@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-11T05:02:53.344Z",
+  "last_updated": "2026-02-11T05:03:03.931Z",
   "categories": {
     "supplements": [
       {
@@ -540,6 +540,20 @@
         "added_date": "2026-02-11"
       },
       {
+        "id": "recGslT9nksobj9YA",
+        "title": "Digitized Canine Olfaction and Multimodal Biosensing for Breath-Based Multi-Cancer Detection: A Hypothesis-Driven Perspective.",
+        "summary": "Dogs' brain signals and behavioral responses can be digitally analyzed to detect multiple cancers non-invasively through breath volatile organic compounds (VOCs).",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41666476/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-11"
+      },
+      {
         "id": "recfvCpB2iYg5xcDA",
         "title": "A Phase II/III Trial of Chemotherapy + Cetuximab vs Chemotherapy + Bevacizumab vs Atezolizumab + Bevacizumab Following Progression on Immune Checkpoint Inhibition in Recurrent/Metastatic Head and Neck Cancers",
         "summary": "The study compares different treatment combinations for recurrent or metastatic head and neck cancer to determine the most effective therapy after initial immunotherapy failure.",
@@ -637,21 +651,6 @@
         "quality_score": 10,
         "pub_date": "2026-02-09",
         "added_date": "2026-02-10"
-      },
-      {
-        "id": "recE48sdlVfgSR0V3",
-        "title": "A Phase 2, Open-Label, Randomized, Global Study of Three Telisotuzumab Vedotin Regimens in Subjects With Previously Treated c-Met Overexpressing, EGFR Wildtype, Locally Advanced/Metastatic Non-Squamous Non-Small Cell Lung Cancer",
-        "summary": "A Phase 2 clinical trial investigates three dosing regimens of telisotuzumab vedotin for treating c-Met overexpressing non-small cell lung cancer.",
-        "url": "https://clinicaltrials.gov/study/NCT06568939",
-        "source": "ClinicalTrials.gov",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Lung",
-          "Leukemia"
-        ],
-        "quality_score": 13,
-        "pub_date": "2026-02-09",
-        "added_date": "2026-02-10"
       }
     ],
     "trials": [
@@ -725,6 +724,20 @@
           "Leukemia"
         ],
         "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-11"
+      },
+      {
+        "id": "recGslT9nksobj9YA",
+        "title": "Digitized Canine Olfaction and Multimodal Biosensing for Breath-Based Multi-Cancer Detection: A Hypothesis-Driven Perspective.",
+        "summary": "Dogs' brain signals and behavioral responses can be digitally analyzed to detect multiple cancers non-invasively through breath volatile organic compounds (VOCs).",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41666476/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-11"
       },
@@ -854,21 +867,6 @@
         "quality_score": 10,
         "pub_date": "2026-02-09",
         "added_date": "2026-02-10"
-      },
-      {
-        "id": "recE48sdlVfgSR0V3",
-        "title": "A Phase 2, Open-Label, Randomized, Global Study of Three Telisotuzumab Vedotin Regimens in Subjects With Previously Treated c-Met Overexpressing, EGFR Wildtype, Locally Advanced/Metastatic Non-Squamous Non-Small Cell Lung Cancer",
-        "summary": "A Phase 2 clinical trial investigates three dosing regimens of telisotuzumab vedotin for treating c-Met overexpressing non-small cell lung cancer.",
-        "url": "https://clinicaltrials.gov/study/NCT06568939",
-        "source": "ClinicalTrials.gov",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Lung",
-          "Leukemia"
-        ],
-        "quality_score": 13,
-        "pub_date": "2026-02-09",
-        "added_date": "2026-02-10"
       }
     ]
   },
@@ -878,10 +876,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5551,
+    "archive_count": 5552,
     "archive_supplements": 684,
     "archive_off_label": 240,
-    "archive_biomarkers": 3150,
+    "archive_biomarkers": 3151,
     "archive_trials": 1179
   }
 }
