@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-11T05:15:02.453Z",
+  "last_updated": "2026-02-11T05:15:12.886Z",
   "categories": {
     "supplements": [
       {
@@ -25,6 +25,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Prostate",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-11"
+      },
+      {
+        "id": "recp4px7Mht5RxTyL",
+        "title": "Molecular Insights into Doxorubicin-Induced Cardiotoxicity and Phytochemical-Based Cardioprotection: Challenges and Future Strategies.",
+        "summary": "Phytochemicals show promise in protecting heart cells from damage caused by doxorubicin cancer treatment, but require advanced delivery methods to improve their effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41664831/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
           "Leukemia"
         ],
         "quality_score": 15,
@@ -203,21 +217,6 @@
         ],
         "quality_score": 13,
         "pub_date": "2025-11-01",
-        "added_date": "2026-02-10"
-      },
-      {
-        "id": "recdr6g504DMvIXq5",
-        "title": "Mycotoxins, gut microbiota alterations and liver disease in animals: A scoping review.",
-        "summary": "Mycotoxins in food can alter gut bacteria and liver health in animals, potentially causing inflammation and oxidative stress across multiple species.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41663763/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia",
-          "Liver"
-        ],
-        "quality_score": 22,
-        "pub_date": "2026-02-01",
         "added_date": "2026-02-10"
       }
     ],
@@ -883,10 +882,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5620,
+    "archive_count": 5621,
     "archive_supplements": 686,
     "archive_off_label": 242,
-    "archive_biomarkers": 3203,
+    "archive_biomarkers": 3204,
     "archive_trials": 1191
   }
 }
