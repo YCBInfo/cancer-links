@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-11T11:01:03.670Z",
+  "last_updated": "2026-02-11T12:49:52.664Z",
   "categories": {
     "supplements": [
       {
@@ -351,6 +351,23 @@
         "added_date": "2026-02-11"
       },
       {
+        "id": "recslUmZrTRZ4puhK",
+        "title": "Antiprotozoal medications associated with increased longevity and reduced morbidity in two national cohorts",
+        "summary": "Two antiprotozoal medications (atovaquone-proguanil and mefloquine) were associated with reduced risks of multiple age-related diseases and increased survival across national health datasets.",
+        "url": "https://www.medrxiv.org/content/10.1101/2025.07.01.25330644",
+        "source": "medRxiv",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Lung",
+          "Leukemia",
+          "Kidney",
+          "Liver"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-01-28",
+        "added_date": "2026-02-11"
+      },
+      {
         "id": "rec2yA2Aer1a661jc",
         "title": "Repurposing Itraconazole for Secondary Prevention of Metaplasia and Primary Prevention of Cancer in Patients With High-Risk Barrett's Esophagus in Combination With Ablation",
         "summary": "Itraconazole combined with ablation therapy shows promise for preventing esophageal cancer progression in patients with high-risk Barrett's esophagus.",
@@ -419,20 +436,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
-        "added_date": "2026-02-10"
-      },
-      {
-        "id": "recmXOlF0NvQtmPtP",
-        "title": "Metformin induces ferroptosis associated with lipidomic remodeling in AML.",
-        "summary": "Metformin induces ferroptosis in acute myeloid leukemia cells by disrupting lipid metabolism, particularly in IDH2- and FLT3-mutant samples.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41172231/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
         "added_date": "2026-02-10"
       }
     ],
@@ -881,10 +884,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5775,
+    "archive_count": 5776,
     "archive_supplements": 701,
     "archive_off_label": 248,
-    "archive_biomarkers": 3289,
+    "archive_biomarkers": 3290,
     "archive_trials": 1239
   }
 }
