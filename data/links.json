@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-11T05:14:30.121Z",
+  "last_updated": "2026-02-11T05:14:40.854Z",
   "categories": {
     "supplements": [
       {
@@ -10,6 +10,21 @@
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-11"
+      },
+      {
+        "id": "recUx4TMQHrgCyOUR",
+        "title": "A Combination of Xanthohumol and Ursolic Acid in the Diet Leads to Synergistic Inhibition of Prostate Cancer Progression.",
+        "summary": "Here's a clear, concise summary sentence:\n\nXanthohumol and ursolic acid, when combined in diet, synergistically inhibit prostate cancer growth through multiple cellular mechanisms.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41664946/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Prostate",
           "Leukemia"
         ],
         "quality_score": 15,
@@ -202,20 +217,6 @@
           "Liver"
         ],
         "quality_score": 22,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-10"
-      },
-      {
-        "id": "recy4HR3kbGJ54m0u",
-        "title": "Tissue-specific distribution of cytotoxic triterpene saponins in three Red Sea sea cucumbers.",
-        "summary": "Visceral extract from Holothuria impatiens sea cucumber showed potent cytotoxicity against cancer cells, with triterpene compounds bivittosides C and D targeting key cancer-related proteins.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41663681/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-10"
       }
@@ -882,10 +883,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5617,
+    "archive_count": 5618,
     "archive_supplements": 685,
     "archive_off_label": 242,
-    "archive_biomarkers": 3201,
+    "archive_biomarkers": 3202,
     "archive_trials": 1191
   }
 }
