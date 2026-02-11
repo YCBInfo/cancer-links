@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-11T05:22:14.218Z",
+  "last_updated": "2026-02-11T05:22:25.151Z",
   "categories": {
     "supplements": [
       {
@@ -251,6 +251,21 @@
         "added_date": "2026-02-11"
       },
       {
+        "id": "receDiYkKVNKJnmOM",
+        "title": "Proteomic insights into Helicobacter pylori infection in stomach cells, revealing host response and host-targeted therapeutics repurposing.",
+        "summary": "Researchers identified how stomach cells respond to H. pylori infection, potentially revealing new treatment strategies for gastric cancer by understanding host protein changes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41664315/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Leukemia",
+          "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-11"
+      },
+      {
         "id": "rec2yA2Aer1a661jc",
         "title": "Repurposing Itraconazole for Secondary Prevention of Metaplasia and Primary Prevention of Cancer in Patients With High-Risk Barrett's Esophagus in Combination With Ablation",
         "summary": "Itraconazole combined with ablation therapy shows promise for preventing esophageal cancer progression in patients with high-risk Barrett's esophagus.",
@@ -416,20 +431,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Melanoma",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-10"
-      },
-      {
-        "id": "recfKYc5O68mKDPrC",
-        "title": "Enhancing nanomedicine efficacy in KPC pancreatic tumors through ketotifen-mediated tumor microenvironment remodeling.",
-        "summary": "Ketotifen enhances liposomal drug delivery and anti-tumor effectiveness in pancreatic cancer by softening tumor tissue and improving drug penetration.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41391724/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
           "Leukemia"
         ],
         "quality_score": 15,
@@ -882,10 +883,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5657,
+    "archive_count": 5658,
     "archive_supplements": 688,
     "archive_off_label": 242,
-    "archive_biomarkers": 3237,
+    "archive_biomarkers": 3238,
     "archive_trials": 1192
   }
 }
