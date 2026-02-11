@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-11T05:03:57.341Z",
+  "last_updated": "2026-02-11T05:04:07.384Z",
   "categories": {
     "supplements": [
       {
@@ -626,6 +626,21 @@
         "added_date": "2026-02-11"
       },
       {
+        "id": "recLFD95GRXoEzemC",
+        "title": "Stabilization of IQGAP1 by the mTORC2 component PRR5 mediates mitogenic LINC01133-to-ERK signaling in triple-negative breast cancer.",
+        "summary": "In triple-negative breast cancer, LINC01133 increases PRR5, which stabilizes IQGAP1 and promotes ERK signaling, suggesting a potential new therapeutic target.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41666264/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-11"
+      },
+      {
         "id": "recfvCpB2iYg5xcDA",
         "title": "A Phase II/III Trial of Chemotherapy + Cetuximab vs Chemotherapy + Bevacizumab vs Atezolizumab + Bevacizumab Following Progression on Immune Checkpoint Inhibition in Recurrent/Metastatic Head and Neck Cancers",
         "summary": "The study compares different treatment combinations for recurrent or metastatic head and neck cancer to determine the most effective therapy after initial immunotherapy failure.",
@@ -633,21 +648,6 @@
         "source": "ClinicalTrials.gov",
         "category": "Clinical Trials",
         "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 19,
-        "pub_date": "2026-02-09",
-        "added_date": "2026-02-10"
-      },
-      {
-        "id": "recqz13BPrS4Lzv3K",
-        "title": "A Phase 2, Open-label, Multi-centre Study of FPI-2265 (225Ac-PSMA-I&T) and Olaparib in Participants With Metastatic Castration Resistant Prostate Cancer (mCRPC)",
-        "summary": "The study investigates a new combination therapy of FPI-2265 and Olaparib to potentially improve treatment outcomes for men with metastatic castration-resistant prostate cancer.",
-        "url": "https://clinicaltrials.gov/study/NCT06909825",
-        "source": "ClinicalTrials.gov",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Prostate",
           "Leukemia"
         ],
         "quality_score": 19,
@@ -802,6 +802,21 @@
         "added_date": "2026-02-11"
       },
       {
+        "id": "recLFD95GRXoEzemC",
+        "title": "Stabilization of IQGAP1 by the mTORC2 component PRR5 mediates mitogenic LINC01133-to-ERK signaling in triple-negative breast cancer.",
+        "summary": "In triple-negative breast cancer, LINC01133 increases PRR5, which stabilizes IQGAP1 and promotes ERK signaling, suggesting a potential new therapeutic target.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41666264/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-11"
+      },
+      {
         "id": "recfvCpB2iYg5xcDA",
         "title": "A Phase II/III Trial of Chemotherapy + Cetuximab vs Chemotherapy + Bevacizumab vs Atezolizumab + Bevacizumab Following Progression on Immune Checkpoint Inhibition in Recurrent/Metastatic Head and Neck Cancers",
         "summary": "The study compares different treatment combinations for recurrent or metastatic head and neck cancer to determine the most effective therapy after initial immunotherapy failure.",
@@ -857,20 +872,6 @@
         "quality_score": 13,
         "pub_date": "2026-02-09",
         "added_date": "2026-02-10"
-      },
-      {
-        "id": "rec9V5PObhlcivXQr",
-        "title": "Optimizing Antibody-Drug Conjugate Therapy Through Molecular Analysis for Therapy Choice (ADC MATCH)",
-        "summary": "Researchers are testing three targeted antibody-drug conjugates to precisely treat solid tumors with specific protein markers, potentially improving personalized cancer therapy.",
-        "url": "https://clinicaltrials.gov/study/NCT06311214",
-        "source": "ClinicalTrials.gov",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 19,
-        "pub_date": "2026-02-09",
-        "added_date": "2026-02-10"
       }
     ]
   },
@@ -880,10 +881,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5557,
+    "archive_count": 5558,
     "archive_supplements": 684,
     "archive_off_label": 240,
-    "archive_biomarkers": 3155,
+    "archive_biomarkers": 3156,
     "archive_trials": 1180
   }
 }
