@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-11T10:01:43.053Z",
+  "last_updated": "2026-02-11T10:01:54.150Z",
   "categories": {
     "supplements": [
       {
@@ -308,6 +308,20 @@
         "added_date": "2026-02-11"
       },
       {
+        "id": "recdW4O8RFKQeXRJY",
+        "title": "PEGylated Heterofunctional Dendrimers Enable Multivalent Diclofenac Delivery for ROS-Driven Anticancer Activity.",
+        "summary": "PEGylated dendrimers significantly enhanced diclofenac's anticancer effectiveness by improving drug delivery and increasing reactive oxygen species in multiple cancer cell lines.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41666266/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-11"
+      },
+      {
         "id": "rec2yA2Aer1a661jc",
         "title": "Repurposing Itraconazole for Secondary Prevention of Metaplasia and Primary Prevention of Cancer in Patients With High-Risk Barrett's Esophagus in Combination With Ablation",
         "summary": "Itraconazole combined with ablation therapy shows promise for preventing esophageal cancer progression in patients with high-risk Barrett's esophagus.",
@@ -416,20 +430,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Leukemia",
-          "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-10"
-      },
-      {
-        "id": "recfTIDihRxwPD6iC",
-        "title": "Citalopram exhibits immune-dependent anti-tumor effects by modulating C5aR1+ TAMs.",
-        "summary": "Citalopram targets C5aR1 on tumor-associated macrophages in hepatocellular carcinoma, enhancing immune response and anti-tumor activity.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41661166/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
           "Liver"
         ],
         "quality_score": 15,
@@ -882,9 +882,9 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5762,
+    "archive_count": 5763,
     "archive_supplements": 700,
-    "archive_off_label": 244,
+    "archive_off_label": 245,
     "archive_biomarkers": 3285,
     "archive_trials": 1235
   }
