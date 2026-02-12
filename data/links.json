@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-12T10:02:34.984Z",
+  "last_updated": "2026-02-12T10:02:46.094Z",
   "categories": {
     "supplements": [
       {
@@ -322,6 +322,21 @@
         "added_date": "2026-02-12"
       },
       {
+        "id": "recTKa7bcLs6yR0dY",
+        "title": "Combination of artesunate and ruxolitinib suppresses T cell leukemia/lymphoma proliferation via the JAK STAT pathway.",
+        "summary": "Combining artesunate and ruxolitinib effectively suppresses T-cell leukemia/lymphoma cell growth by inhibiting the JAK/STAT pathway and promoting cancer cell death.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41673103/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Leukemia",
+          "Lymphoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-12"
+      },
+      {
         "id": "recxXZqPV4VtzK7nW",
         "title": "Dimethyl fumarate as an immunomodulatory enhancer of adipose-derived mesenchymal stem cells: therapeutic implications.",
         "summary": "Dimethyl fumarate enhances adipose-derived stem cells' immunomodulatory properties, potentially improving their therapeutic effectiveness in inflammatory conditions.",
@@ -416,20 +431,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-11"
-      },
-      {
-        "id": "recgTFlvoNpFB6t2j",
-        "title": "Statins halt polycystic liver disease by reprogramming metabolism and normalizing mitochondrial bioenergetics in cystic cholangiocytes.",
-        "summary": "Statins can potentially treat polycystic liver disease by correcting mitochondrial and metabolic dysfunction in liver cells, offering a promising non-surgical intervention.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41665917/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Liver"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -885,10 +886,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6037,
+    "archive_count": 6038,
     "archive_supplements": 718,
     "archive_off_label": 252,
-    "archive_biomarkers": 3461,
+    "archive_biomarkers": 3462,
     "archive_trials": 1308
   }
 }
