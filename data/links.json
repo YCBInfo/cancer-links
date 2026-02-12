@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-12T07:04:22.552Z",
+  "last_updated": "2026-02-12T07:04:33.447Z",
   "categories": {
     "supplements": [
       {
@@ -279,6 +279,20 @@
         "added_date": "2026-02-12"
       },
       {
+        "id": "recJgzyeAXXpzRNWM",
+        "title": "The NADPH oxidase inhibitor Vas2870 prevents myocyte ferroptosis and improves cardiac remodelling and function in doxorubicin-induced cardiomyopathy.",
+        "summary": "Here's a clear, concise summary sentence:\n\nBlocking NADPH oxidase with Vas2870 prevented heart muscle cell death and improved cardiac function in mice treated with the cancer drug doxorubicin.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41671579/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-12"
+      },
+      {
         "id": "recxXZqPV4VtzK7nW",
         "title": "Dimethyl fumarate as an immunomodulatory enhancer of adipose-derived mesenchymal stem cells: therapeutic implications.",
         "summary": "Dimethyl fumarate enhances adipose-derived stem cells' immunomodulatory properties, potentially improving their therapeutic effectiveness in inflammatory conditions.",
@@ -423,20 +437,6 @@
         "quality_score": 12,
         "pub_date": "2026-01-28",
         "added_date": "2026-02-11"
-      },
-      {
-        "id": "rec2yA2Aer1a661jc",
-        "title": "Repurposing Itraconazole for Secondary Prevention of Metaplasia and Primary Prevention of Cancer in Patients With High-Risk Barrett's Esophagus in Combination With Ablation",
-        "summary": "Itraconazole combined with ablation therapy shows promise for preventing esophageal cancer progression in patients with high-risk Barrett's esophagus.",
-        "url": "https://clinicaltrials.gov/study/NCT06732388",
-        "source": "ClinicalTrials.gov",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 19,
-        "pub_date": "2026-02-09",
-        "added_date": "2026-02-10"
       }
     ],
     "biomarkers": [
@@ -888,10 +888,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5959,
+    "archive_count": 5960,
     "archive_supplements": 709,
     "archive_off_label": 250,
-    "archive_biomarkers": 3438,
+    "archive_biomarkers": 3439,
     "archive_trials": 1264
   }
 }
