@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-12T05:06:45.773Z",
+  "last_updated": "2026-02-12T05:06:55.958Z",
   "categories": {
     "supplements": [
       {
@@ -222,6 +222,20 @@
     ],
     "off_label": [
       {
+        "id": "recJYch5iLvuo9C1O",
+        "title": "SAICAR Drives T Regulatory Cell Differentiation and FOXP3 Maintenance to Promote Immunotherapy Resistance.",
+        "summary": "SAICAR, a metabolite, promotes suppressive T cells in tumors, blocking immunotherapy effectiveness and suggesting a potential treatment strategy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41671386/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-12"
+      },
+      {
         "id": "recxXZqPV4VtzK7nW",
         "title": "Dimethyl fumarate as an immunomodulatory enhancer of adipose-derived mesenchymal stem cells: therapeutic implications.",
         "summary": "Dimethyl fumarate enhances adipose-derived stem cells' immunomodulatory properties, potentially improving their therapeutic effectiveness in inflammatory conditions.",
@@ -418,20 +432,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Breast",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-10"
-      },
-      {
-        "id": "recOOy9LwlzDKEqFu",
-        "title": "An intelligent responsive ZIF-8 co-delivery nanoplatform with multimodal synergistic technologies for closed-loop therapy of tumors.",
-        "summary": "A novel nanoplatform combines multiple cancer therapies (photothermal, chemodynamic, starving, and chemotherapy) to improve tumor targeting and treatment effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41468990/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
           "Leukemia"
         ],
         "quality_score": 15,
@@ -888,10 +888,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5806,
+    "archive_count": 5807,
     "archive_supplements": 701,
     "archive_off_label": 249,
-    "archive_biomarkers": 3315,
+    "archive_biomarkers": 3316,
     "archive_trials": 1243
   }
 }
