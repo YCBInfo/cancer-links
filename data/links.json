@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-12T05:10:27.354Z",
+  "last_updated": "2026-02-12T05:10:37.967Z",
   "categories": {
     "supplements": [
       {
@@ -11,6 +11,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Breast",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-12"
+      },
+      {
+        "id": "recV7pOBcPI9R75x9",
+        "title": "Inhibition of Antioxidant Genes Expression in Echinococcus Granulosus by Baicalein: Implications for Novel Antiparasitic Strategies.",
+        "summary": "Baicalein effectively inhibits antioxidant gene expression in Echinococcus granulosus parasites, offering a potential alternative to traditional hydatid cyst treatments.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41670898/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
           "Leukemia"
         ],
         "quality_score": 15,
@@ -203,21 +217,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-11"
-      },
-      {
-        "id": "recAixsCa2SdAI3Sq",
-        "title": "Sophora tonkinensis reprograms tumor-associated macrophages to M1-like phenotype and exerts anti-hepatocellular carcinoma effects.",
-        "summary": "Sophora tonkinensis extract transformed tumor-supporting macrophages into immune-attacking cells, potentially slowing the progression of liver cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41666700/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia",
-          "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-11"
       }
     ],
     "off_label": [
@@ -228,6 +227,20 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41671386/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-12"
+      },
+      {
+        "id": "recV7pOBcPI9R75x9",
+        "title": "Inhibition of Antioxidant Genes Expression in Echinococcus Granulosus by Baicalein: Implications for Novel Antiparasitic Strategies.",
+        "summary": "Baicalein effectively inhibits antioxidant gene expression in Echinococcus granulosus parasites, offering a potential alternative to traditional hydatid cyst treatments.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41670898/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Leukemia"
         ],
@@ -421,21 +434,6 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-01-01",
-        "added_date": "2026-02-10"
-      },
-      {
-        "id": "recogfUv33SWnYQuc",
-        "title": "Arachidonic acid-functionalized micelle induces ferroptosis of tumor cells to overcome chemotherapy resistance for breast cancer therapy.",
-        "summary": "An arachidonic acid-functionalized micelle loaded with doxorubicin triggers ferroptosis to enhance breast cancer treatment and overcome chemotherapy drug resistance.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41506469/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Breast",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
         "added_date": "2026-02-10"
       }
     ],
@@ -888,10 +886,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5827,
+    "archive_count": 5828,
     "archive_supplements": 702,
     "archive_off_label": 249,
-    "archive_biomarkers": 3331,
+    "archive_biomarkers": 3332,
     "archive_trials": 1247
   }
 }
