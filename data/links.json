@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-12T07:03:41.056Z",
+  "last_updated": "2026-02-12T07:03:51.453Z",
   "categories": {
     "supplements": [
       {
@@ -120,6 +120,20 @@
         "added_date": "2026-02-12"
       },
       {
+        "id": "recQaAmcOIpKfyhoT",
+        "title": "Comparative in vitro cytotoxicity of free curcumin and a liposomal curcumin formulation on various human cancer cell lines.",
+        "summary": "Liposomal curcumin significantly improved cancer cell death across multiple cancer types, showing enhanced cytotoxicity compared to free curcumin while sparing normal cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41673116/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-12"
+      },
+      {
         "id": "recbLu9tpl0BimUYO",
         "title": "Natural Product-Inspired PROTACs for Leukemia Therapy: Hederagenin-Driven Targeted Degradation of SKP2.",
         "summary": "A PROTAC derivative of hederagenin called HD15 effectively degrades SKP2 protein and inhibits T-cell leukemia cell growth by modulating key cellular pathways.",
@@ -203,20 +217,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
-        "added_date": "2026-02-11"
-      },
-      {
-        "id": "rectWPwqcWptNnfSN",
-        "title": "Antiproliferative and Anti-Inflammatory Activities of Encapsulated Opuntia Peel Polyphenols.",
-        "summary": "Opuntia peel polyphenols demonstrate potential anti-cancer and anti-inflammatory properties, with encapsulation significantly enhancing their effectiveness against colon cancer cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41667887/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
         "added_date": "2026-02-11"
       }
     ],
@@ -888,10 +888,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5955,
+    "archive_count": 5956,
     "archive_supplements": 708,
     "archive_off_label": 250,
-    "archive_biomarkers": 3435,
+    "archive_biomarkers": 3436,
     "archive_trials": 1264
   }
 }
