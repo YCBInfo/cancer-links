@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-12T05:31:34.247Z",
+  "last_updated": "2026-02-12T07:02:16.455Z",
   "categories": {
     "supplements": [
       {
@@ -83,6 +83,21 @@
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-12"
+      },
+      {
+        "id": "recIN6durdinUUKPP",
+        "title": "Multifunctional drug delivery of nanofibrous iron-polyphenolic nanochelates improved photothermal therapy against colorectal cancer via ferroptosis.",
+        "summary": "Nanofibrous iron-polyphenolic nanochelates enhanced photothermal therapy for colorectal cancer by improving ferroptosis and triggering an immune response.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41673133/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal",
           "Leukemia"
         ],
         "quality_score": 15,
@@ -200,21 +215,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-11"
-      },
-      {
-        "id": "recCkPdjO3kKMQcbE",
-        "title": "Asiatic Acid Ameliorates MNNG-Induced Chronic Atrophic Gastritis by Inhibiting the Activation of the HRAS/PI3K/AKT/GSK3β Signaling Axis.",
-        "summary": "Asiatic acid shows promise in treating chronic atrophic gastritis by blocking a specific cell signaling pathway that contributes to disease progression.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41667371/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia",
-          "Stomach"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-11"
       }
@@ -887,10 +887,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5946,
+    "archive_count": 5947,
     "archive_supplements": 706,
     "archive_off_label": 250,
-    "archive_biomarkers": 3428,
+    "archive_biomarkers": 3429,
     "archive_trials": 1264
   }
 }
