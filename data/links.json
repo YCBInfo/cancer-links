@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-12T05:03:02.760Z",
+  "last_updated": "2026-02-12T05:03:13.463Z",
   "categories": {
     "supplements": [
       {
@@ -556,6 +556,21 @@
         "added_date": "2026-02-12"
       },
       {
+        "id": "recZEL5QOCiPrfBAz",
+        "title": "Metabolic positron emission tomography imaging and tumor growth inhibition during the Q neuron-induced hibernation-like state in mice.",
+        "summary": "In mice, artificially induced hibernation significantly reduced tumor growth by lowering glucose metabolism and altering nutrient distribution in the body.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41547304/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Melanoma",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-12"
+      },
+      {
         "id": "recWmYqFQfFszTITd",
         "title": "Adverse karyotype amplifies risk in secondary acute myeloid leukemia (AML) and AML with myelodysplasia-related changes.",
         "summary": "Patients with secondary acute myeloid leukemia and AML-MRC have worse outcomes, particularly when they have unfavorable chromosomal changes.",
@@ -635,21 +650,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Lung",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-11"
-      },
-      {
-        "id": "rec5Kgz4DgEB7bHQP",
-        "title": "Clinical glycoproteomics in cancer: toward tissue-based glycoform profiling and biomarker discovery.",
-        "summary": "Here's a clear, concise summary sentence:\n\nResearchers used advanced protein analysis to map glycosylation changes in LAMP1 protein across breast cancer tissue samples, revealing potential new diagnostic insights.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41178222/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast",
           "Leukemia"
         ],
         "quality_score": 15,
@@ -739,6 +739,21 @@
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-12"
+      },
+      {
+        "id": "recZEL5QOCiPrfBAz",
+        "title": "Metabolic positron emission tomography imaging and tumor growth inhibition during the Q neuron-induced hibernation-like state in mice.",
+        "summary": "In mice, artificially induced hibernation significantly reduced tumor growth by lowering glucose metabolism and altering nutrient distribution in the body.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41547304/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Melanoma",
           "Leukemia"
         ],
         "quality_score": 15,
@@ -861,20 +876,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-11"
-      },
-      {
-        "id": "recwhF7Ry4pbuP0sV",
-        "title": "Endogenous-Activatable Nanotheranostic Platform for Multimodal Bioimaging-Guided Photodynamic and Gas Synergistic Cancer Therapy.",
-        "summary": "A multifunctional nanoplatform using gold nanoclusters and l-Arginine precisely targets cancer cells, enables imaging, and synergistically destroys tumors through photodynamic and nitric oxide therapy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41666327/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-11"
       }
     ]
   },
@@ -884,10 +885,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5785,
+    "archive_count": 5786,
     "archive_supplements": 701,
     "archive_off_label": 249,
-    "archive_biomarkers": 3296,
+    "archive_biomarkers": 3297,
     "archive_trials": 1241
   }
 }
