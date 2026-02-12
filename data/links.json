@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-12T07:08:40.745Z",
+  "last_updated": "2026-02-12T07:08:52.708Z",
   "categories": {
     "supplements": [
       {
@@ -307,6 +307,21 @@
         "added_date": "2026-02-12"
       },
       {
+        "id": "recZvYaY8wc4uBC1z",
+        "title": "Exploring synergistic therapeutic potential of Erlotinib and artemisinin in non-small cell lung Cancer (NSCLC) using pharmacological networking and mathematical modeling.",
+        "summary": "Here's a clear, concise summary sentence:\n\nCombining Erlotinib and artemisinin shows promise for overcoming treatment resistance and improving therapeutic outcomes in non-small cell lung cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41672289/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Lung",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-12"
+      },
+      {
         "id": "recxXZqPV4VtzK7nW",
         "title": "Dimethyl fumarate as an immunomodulatory enhancer of adipose-derived mesenchymal stem cells: therapeutic implications.",
         "summary": "Dimethyl fumarate enhances adipose-derived stem cells' immunomodulatory properties, potentially improving their therapeutic effectiveness in inflammatory conditions.",
@@ -415,21 +430,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-11"
-      },
-      {
-        "id": "recUWdXjtNsmRzUGU",
-        "title": "Repurposing disulfiram for ALDH-positive NSCLC: Network-based inhibition of EGFR, COX-2, and MAPK1.",
-        "summary": "Disulfiram effectively inhibits key cancer-promoting proteins in ALDH-positive non-small cell lung cancer, potentially overcoming drug resistance and treatment challenges.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41666774/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Lung",
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -885,8 +885,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5978,
-    "archive_supplements": 714,
+    "archive_count": 5979,
+    "archive_supplements": 715,
     "archive_off_label": 251,
     "archive_biomarkers": 3451,
     "archive_trials": 1264
