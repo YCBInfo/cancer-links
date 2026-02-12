@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-12T05:03:33.895Z",
+  "last_updated": "2026-02-12T05:03:44.118Z",
   "categories": {
     "supplements": [
       {
@@ -603,6 +603,20 @@
         "added_date": "2026-02-12"
       },
       {
+        "id": "recV5NAffOADRIUiV",
+        "title": "Genomic and immune landscape of parthanatos in breast carcinoma: The central role of AIFM1.",
+        "summary": "A new study reveals how a specific cell death pathway called parthanatos may impact breast cancer progression through the protein AIFM1.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41534495/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-12"
+      },
+      {
         "id": "recWmYqFQfFszTITd",
         "title": "Adverse karyotype amplifies risk in secondary acute myeloid leukemia (AML) and AML with myelodysplasia-related changes.",
         "summary": "Patients with secondary acute myeloid leukemia and AML-MRC have worse outcomes, particularly when they have unfavorable chromosomal changes.",
@@ -642,20 +656,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
-        "added_date": "2026-02-11"
-      },
-      {
-        "id": "recKr1oARxNXp9uhO",
-        "title": "N-homocysteinylation of ferritin and associated changes in iron metabolism as potential drivers of vascular endothelial dysfunction in hyperhomocysteinemia.",
-        "summary": "Homocysteine thiolactone disrupts iron metabolism in blood vessel cells by modifying ferritin, potentially causing cellular damage through altered iron handling.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41475620/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
         "added_date": "2026-02-11"
       }
     ],
@@ -889,10 +889,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5788,
+    "archive_count": 5789,
     "archive_supplements": 701,
     "archive_off_label": 249,
-    "archive_biomarkers": 3299,
+    "archive_biomarkers": 3300,
     "archive_trials": 1241
   }
 }
