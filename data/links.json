@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-12T10:04:14.521Z",
+  "last_updated": "2026-02-12T10:04:22.321Z",
   "categories": {
     "supplements": [
       {
@@ -409,6 +409,21 @@
         "added_date": "2026-02-12"
       },
       {
+        "id": "reco0b64i1CrYNMxX",
+        "title": "Gene Expression-Based Drug Repurposing Predicted GSK-2126458 and KU-0060648 as Candidate Small Molecules for Glioblastoma Multiforme Treatment.",
+        "summary": "Researchers identified two potential drugs, GSK-2126458 and KU-0060648, that show promise in treating glioblastoma by effectively killing cancer cells at low concentrations.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41670244/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Leukemia",
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-12"
+      },
+      {
         "id": "recxXZqPV4VtzK7nW",
         "title": "Dimethyl fumarate as an immunomodulatory enhancer of adipose-derived mesenchymal stem cells: therapeutic implications.",
         "summary": "Dimethyl fumarate enhances adipose-derived stem cells' immunomodulatory properties, potentially improving their therapeutic effectiveness in inflammatory conditions.",
@@ -419,21 +434,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-11"
-      },
-      {
-        "id": "recQavwQCOkiEfLnx",
-        "title": "Integrated transcriptomic and methylome analysis reveals retinoic acid pathway activation after decitabine treatment in EBV-associated gastric cancer.",
-        "summary": "Here's a clear, concise summary sentence focusing on the key finding:\n\nDecitabine treatment in Epstein-Barr virus-associated gastric cancer reactivates the retinoic acid signaling pathway by reducing DNA methylation.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41665354/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia",
-          "Stomach"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-11"
       }
@@ -887,10 +887,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6046,
+    "archive_count": 6047,
     "archive_supplements": 720,
     "archive_off_label": 255,
-    "archive_biomarkers": 3463,
+    "archive_biomarkers": 3464,
     "archive_trials": 1310
   }
 }
