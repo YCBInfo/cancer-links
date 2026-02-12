@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-12T07:05:40.673Z",
+  "last_updated": "2026-02-12T07:05:51.537Z",
   "categories": {
     "supplements": [
       {
@@ -149,6 +149,20 @@
         "added_date": "2026-02-12"
       },
       {
+        "id": "recP7xHW8ytYGf91a",
+        "title": "Formulation and characterization of pH-sensitive double emulsion sodium alginate/polyvinyl alcohol/graphene quantum dot for efficient quercetin delivery to A549 cells.",
+        "summary": "A novel nanocarrier system using sodium alginate, graphene quantum dots, and quercetin showed enhanced targeted delivery and anticancer effects in lung cancer cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41668392/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-12"
+      },
+      {
         "id": "recbLu9tpl0BimUYO",
         "title": "Natural Product-Inspired PROTACs for Leukemia Therapy: Hederagenin-Driven Targeted Degradation of SKP2.",
         "summary": "A PROTAC derivative of hederagenin called HD15 effectively degrades SKP2 protein and inhibits T-cell leukemia cell growth by modulating key cellular pathways.",
@@ -200,21 +214,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-11"
-      },
-      {
-        "id": "recnXSPY7qhY3hmJo",
-        "title": "Box-Behnken optimized copper oxide nanoparticles from Thymus vulgaris potentiate efficacy against multidrug-resistant bacterial pathogens and exhibit anticancer activity.",
-        "summary": "Green-synthesized copper oxide nanoparticles from Thymus vulgaris showed potent antimicrobial activity and moderate anticancer effects against MCF-7 breast cancer cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41667744/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast",
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -887,10 +886,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5966,
+    "archive_count": 5967,
     "archive_supplements": 710,
     "archive_off_label": 251,
-    "archive_biomarkers": 3443,
+    "archive_biomarkers": 3444,
     "archive_trials": 1264
   }
 }
