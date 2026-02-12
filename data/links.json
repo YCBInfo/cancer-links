@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-12T05:04:06.000Z",
+  "last_updated": "2026-02-12T05:04:16.633Z",
   "categories": {
     "supplements": [
       {
@@ -646,10 +646,10 @@
         "added_date": "2026-02-12"
       },
       {
-        "id": "recWmYqFQfFszTITd",
-        "title": "Adverse karyotype amplifies risk in secondary acute myeloid leukemia (AML) and AML with myelodysplasia-related changes.",
-        "summary": "Patients with secondary acute myeloid leukemia and AML-MRC have worse outcomes, particularly when they have unfavorable chromosomal changes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41666291/",
+        "id": "recUSV3l1wyxyn29c",
+        "title": "Prognostic Model Combining Mutational and Cytogenetic Profiles in Acute Myeloid Leukemia Treated with Venetoclax and Hypomethylating Agents.",
+        "summary": "A genetic risk model for acute myeloid leukemia patients treated with venetoclax and hypomethylating agents successfully predicts survival outcomes based on specific mutations and chromosomal changes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41671569/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -657,7 +657,7 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
-        "added_date": "2026-02-11"
+        "added_date": "2026-02-12"
       }
     ],
     "trials": [
@@ -825,6 +825,20 @@
         "added_date": "2026-02-12"
       },
       {
+        "id": "recUSV3l1wyxyn29c",
+        "title": "Prognostic Model Combining Mutational and Cytogenetic Profiles in Acute Myeloid Leukemia Treated with Venetoclax and Hypomethylating Agents.",
+        "summary": "A genetic risk model for acute myeloid leukemia patients treated with venetoclax and hypomethylating agents successfully predicts survival outcomes based on specific mutations and chromosomal changes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41671569/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-12"
+      },
+      {
         "id": "recWmYqFQfFszTITd",
         "title": "Adverse karyotype amplifies risk in secondary acute myeloid leukemia (AML) and AML with myelodysplasia-related changes.",
         "summary": "Patients with secondary acute myeloid leukemia and AML-MRC have worse outcomes, particularly when they have unfavorable chromosomal changes.",
@@ -866,21 +880,6 @@
         "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-02-11"
-      },
-      {
-        "id": "recs9EGmx8x4lwicK",
-        "title": "A stress granule-associated RNA-binding protein FAM120A drives cisplatin resistance in non-small cell lung cancer.",
-        "summary": "FAM120A, an RNA-binding protein in stress granules, promotes cisplatin resistance in non-small cell lung cancer by stabilizing the MALAT1 long noncoding RNA.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41328536/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-11"
       }
     ]
   },
@@ -890,10 +889,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5791,
+    "archive_count": 5792,
     "archive_supplements": 701,
     "archive_off_label": 249,
-    "archive_biomarkers": 3302,
+    "archive_biomarkers": 3303,
     "archive_trials": 1241
   }
 }
