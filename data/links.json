@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-12T05:04:26.867Z",
+  "last_updated": "2026-02-12T05:04:37.039Z",
   "categories": {
     "supplements": [
       {
@@ -853,24 +853,24 @@
         "added_date": "2026-02-12"
       },
       {
+        "id": "reczKdQSDRmByIY6X",
+        "title": "Development and Validation of a Computational Histology Artificial Intelligence-Powered Predictive Biomarker for Selection of Chemotherapy in Advanced Pancreatic Cancer.",
+        "summary": "An AI-powered biomarker accurately predicts which first-line chemotherapy treatment will be most effective for patients with advanced pancreatic cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41671529/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Pancreatic"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-12"
+      },
+      {
         "id": "recWmYqFQfFszTITd",
         "title": "Adverse karyotype amplifies risk in secondary acute myeloid leukemia (AML) and AML with myelodysplasia-related changes.",
         "summary": "Patients with secondary acute myeloid leukemia and AML-MRC have worse outcomes, particularly when they have unfavorable chromosomal changes.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41666291/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-11"
-      },
-      {
-        "id": "recqjeqm0EdEbVUWW",
-        "title": "Trimethylated H3K4 and Acetylated H3K14 Expression as Prognostic Markers in Oral Squamous Cell Carcinoma.",
-        "summary": "In oral squamous cell carcinoma, high levels of H3K14ac and H3K4me3 are associated with increased metastasis risk and lower patient survival.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41665910/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -888,10 +888,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5793,
+    "archive_count": 5794,
     "archive_supplements": 701,
     "archive_off_label": 249,
-    "archive_biomarkers": 3304,
+    "archive_biomarkers": 3305,
     "archive_trials": 1241
   }
 }
