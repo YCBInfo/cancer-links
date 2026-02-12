@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-12T05:04:16.633Z",
+  "last_updated": "2026-02-12T05:04:26.867Z",
   "categories": {
     "supplements": [
       {
@@ -839,6 +839,20 @@
         "added_date": "2026-02-12"
       },
       {
+        "id": "rec6JF5eCGeNiQkRO",
+        "title": "Evolution of tumor subclones and T-cell dynamics underlie variable ibrutinib responses in Waldenström macroglobulinemia.",
+        "summary": "In Waldenström macroglobulinemia, ibrutinib treatment reveals distinct tumor clone patterns that predict patient response, with LYN and T-cell dynamics playing key roles.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41671559/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 21,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-12"
+      },
+      {
         "id": "recWmYqFQfFszTITd",
         "title": "Adverse karyotype amplifies risk in secondary acute myeloid leukemia (AML) and AML with myelodysplasia-related changes.",
         "summary": "Patients with secondary acute myeloid leukemia and AML-MRC have worse outcomes, particularly when they have unfavorable chromosomal changes.",
@@ -865,21 +879,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-11"
-      },
-      {
-        "id": "recD6b8SuARiRnauH",
-        "title": "Novel MicroRNA biomarkers revealed in the serum and bile of thioacetamide induced cholangiocarcinoma.",
-        "summary": "Researchers identified three specific microRNAs in bile and serum that could serve as early biomarkers for cholangiocarcinoma, potentially improving cancer detection.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41412438/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia",
-          "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-11"
       }
     ]
   },
@@ -889,10 +888,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5792,
+    "archive_count": 5793,
     "archive_supplements": 701,
     "archive_off_label": 249,
-    "archive_biomarkers": 3303,
+    "archive_biomarkers": 3304,
     "archive_trials": 1241
   }
 }
