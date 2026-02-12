@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-12T07:04:57.080Z",
+  "last_updated": "2026-02-12T07:05:07.054Z",
   "categories": {
     "supplements": [
       {
@@ -134,6 +134,21 @@
         "added_date": "2026-02-12"
       },
       {
+        "id": "recrrz8SLcgqWf5il",
+        "title": "Quaternized Chitosan-Ferulic Acid-Based Nanomicelles for Dimethoxycurcumin Delivery and Synergistic Colorectal Adenocarcinoma Therapy with 5-Fluorouracil.",
+        "summary": "Nanomicelles loaded with dimethoxycurcumin enhanced colorectal cancer cell death when combined with 5-fluorouracil, showing selective tumor targeting and reduced toxicity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41670546/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-12"
+      },
+      {
         "id": "recbLu9tpl0BimUYO",
         "title": "Natural Product-Inspired PROTACs for Leukemia Therapy: Hederagenin-Driven Targeted Degradation of SKP2.",
         "summary": "A PROTAC derivative of hederagenin called HD15 effectively degrades SKP2 protein and inhibits T-cell leukemia cell growth by modulating key cellular pathways.",
@@ -204,20 +219,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-11"
-      },
-      {
-        "id": "recvnyeXUjT1c2cZc",
-        "title": "Melatonin suppresses glycolysis and coordinately disrupts DNA repair via targeting the YAP1-NAMPT signaling in breast cancer.",
-        "summary": "Melatonin suppresses glycolysis and DNA repair in triple-negative breast cancer by targeting YAP1-NAMPT signaling, potentially enhancing cancer treatment effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41485639/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-11"
       }
     ],
     "off_label": [
@@ -286,6 +287,21 @@
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-12"
+      },
+      {
+        "id": "recrrz8SLcgqWf5il",
+        "title": "Quaternized Chitosan-Ferulic Acid-Based Nanomicelles for Dimethoxycurcumin Delivery and Synergistic Colorectal Adenocarcinoma Therapy with 5-Fluorouracil.",
+        "summary": "Nanomicelles loaded with dimethoxycurcumin enhanced colorectal cancer cell death when combined with 5-fluorouracil, showing selective tumor targeting and reduced toxicity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41670546/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal",
           "Leukemia"
         ],
         "quality_score": 15,
@@ -419,23 +435,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
-        "added_date": "2026-02-11"
-      },
-      {
-        "id": "recslUmZrTRZ4puhK",
-        "title": "Antiprotozoal medications associated with increased longevity and reduced morbidity in two national cohorts",
-        "summary": "Two antiprotozoal medications (atovaquone-proguanil and mefloquine) were associated with reduced risks of multiple age-related diseases and increased survival across national health datasets.",
-        "url": "https://www.medrxiv.org/content/10.1101/2025.07.01.25330644",
-        "source": "medRxiv",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Lung",
-          "Leukemia",
-          "Kidney",
-          "Liver"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-01-28",
         "added_date": "2026-02-11"
       }
     ],
@@ -888,10 +887,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5962,
+    "archive_count": 5963,
     "archive_supplements": 709,
     "archive_off_label": 251,
-    "archive_biomarkers": 3440,
+    "archive_biomarkers": 3441,
     "archive_trials": 1264
   }
 }
