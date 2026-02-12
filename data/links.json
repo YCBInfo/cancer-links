@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-12T05:02:40.807Z",
+  "last_updated": "2026-02-12T05:02:51.413Z",
   "categories": {
     "supplements": [
       {
@@ -528,6 +528,20 @@
         "added_date": "2026-02-12"
       },
       {
+        "id": "recSpdG6DLikapJ29",
+        "title": "Specific detection of EGF-EGFR complexes on the cell surface and their dependency on EGFR-directed TKI treatment.",
+        "summary": "A new method using ActE_21 reveals that EGFR-targeted drugs can increase EGF-EGFR complexes on the cell surface in some lung and breast cancer cell lines.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41548485/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-12"
+      },
+      {
         "id": "recWmYqFQfFszTITd",
         "title": "Adverse karyotype amplifies risk in secondary acute myeloid leukemia (AML) and AML with myelodysplasia-related changes.",
         "summary": "Patients with secondary acute myeloid leukemia and AML-MRC have worse outcomes, particularly when they have unfavorable chromosomal changes.",
@@ -641,20 +655,6 @@
         "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-11"
-      },
-      {
-        "id": "recZm45jZXiBqUqbY",
-        "title": "Down-regulation of M6A demethylase ALKBH5 facilitates morphine tolerance via SGK1 in mice.",
-        "summary": "In a mouse study, reducing the ALKBH5 enzyme increased morphine tolerance through a specific cellular mechanism involving the SGK1 protein.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41666459/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-11"
       }
     ],
     "trials": [
@@ -729,6 +729,20 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
+        "added_date": "2026-02-12"
+      },
+      {
+        "id": "recSpdG6DLikapJ29",
+        "title": "Specific detection of EGF-EGFR complexes on the cell surface and their dependency on EGFR-directed TKI treatment.",
+        "summary": "A new method using ActE_21 reveals that EGFR-targeted drugs can increase EGF-EGFR complexes on the cell surface in some lung and breast cancer cell lines.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41548485/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
         "added_date": "2026-02-12"
       },
       {
@@ -861,20 +875,6 @@
         "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-11"
-      },
-      {
-        "id": "recwD5uemePEnwUKo",
-        "title": "Dynamic feedback control of oncogenic tyrosine kinase signaling in acute leukemia.",
-        "summary": "In acute leukemia, targeting CD25 disrupts a key signaling feedback loop, reducing cancer cell survival and potentially offering a new treatment approach.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41666265/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-11"
       }
     ]
   },
@@ -884,10 +884,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5783,
+    "archive_count": 5784,
     "archive_supplements": 701,
     "archive_off_label": 249,
     "archive_biomarkers": 3295,
-    "archive_trials": 1240
+    "archive_trials": 1241
   }
 }
