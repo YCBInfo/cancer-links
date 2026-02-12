@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-12T05:02:51.413Z",
+  "last_updated": "2026-02-12T05:03:02.760Z",
   "categories": {
     "supplements": [
       {
@@ -542,6 +542,20 @@
         "added_date": "2026-02-12"
       },
       {
+        "id": "recOIj4bcTQL82D9t",
+        "title": "Haploinsufficiency of MBD5 and MBD6 impairs mitochondrial respiration through chromatin-mediated gene regulation.",
+        "summary": "MBD5 and MBD6 gene deficiency impairs mitochondrial function in neuroblastoma cells by disrupting mitochondrial gene expression and cellular metabolism.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41548483/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-12"
+      },
+      {
         "id": "recWmYqFQfFszTITd",
         "title": "Adverse karyotype amplifies risk in secondary acute myeloid leukemia (AML) and AML with myelodysplasia-related changes.",
         "summary": "Patients with secondary acute myeloid leukemia and AML-MRC have worse outcomes, particularly when they have unfavorable chromosomal changes.",
@@ -639,20 +653,6 @@
           "Leukemia"
         ],
         "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-11"
-      },
-      {
-        "id": "recGslT9nksobj9YA",
-        "title": "Digitized Canine Olfaction and Multimodal Biosensing for Breath-Based Multi-Cancer Detection: A Hypothesis-Driven Perspective.",
-        "summary": "Dogs' brain signals and behavioral responses can be digitally analyzed to detect multiple cancers non-invasively through breath volatile organic compounds (VOCs).",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41666476/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-11"
       }
@@ -884,10 +884,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5784,
+    "archive_count": 5785,
     "archive_supplements": 701,
     "archive_off_label": 249,
-    "archive_biomarkers": 3295,
+    "archive_biomarkers": 3296,
     "archive_trials": 1241
   }
 }
