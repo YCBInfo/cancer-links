@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-12T05:02:05.374Z",
+  "last_updated": "2026-02-12T05:02:15.147Z",
   "categories": {
     "supplements": [
       {
@@ -485,6 +485,20 @@
         "added_date": "2026-02-12"
       },
       {
+        "id": "recvKoxtPcGdS0MkK",
+        "title": "E711-19 placement and orientation dictate CD8+ T cell response in structurally defined spherical nucleic acid vaccines.",
+        "summary": "In a targeted HPV vaccine study, specific nanostructure design enhanced T cell response and reduced tumor burden by optimizing antigen placement.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41671353/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-12"
+      },
+      {
         "id": "recWmYqFQfFszTITd",
         "title": "Adverse karyotype amplifies risk in secondary acute myeloid leukemia (AML) and AML with myelodysplasia-related changes.",
         "summary": "Patients with secondary acute myeloid leukemia and AML-MRC have worse outcomes, particularly when they have unfavorable chromosomal changes.",
@@ -642,20 +656,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-11"
-      },
-      {
-        "id": "recwhF7Ry4pbuP0sV",
-        "title": "Endogenous-Activatable Nanotheranostic Platform for Multimodal Bioimaging-Guided Photodynamic and Gas Synergistic Cancer Therapy.",
-        "summary": "A multifunctional nanoplatform using gold nanoclusters and l-Arginine precisely targets cancer cells, enables imaging, and synergistically destroys tumors through photodynamic and nitric oxide therapy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41666327/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-11"
       }
     ],
     "trials": [
@@ -683,6 +683,20 @@
         "cancer_types": [
           "Lung",
           "Colorectal",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-12"
+      },
+      {
+        "id": "recvKoxtPcGdS0MkK",
+        "title": "E711-19 placement and orientation dictate CD8+ T cell response in structurally defined spherical nucleic acid vaccines.",
+        "summary": "In a targeted HPV vaccine study, specific nanostructure design enhanced T cell response and reduced tumor burden by optimizing antigen placement.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41671353/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
           "Leukemia"
         ],
         "quality_score": 15,
@@ -862,21 +876,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-11"
-      },
-      {
-        "id": "recYyO2zUYWCueujC",
-        "title": "Development of Novel PROTAC RAD51 Degraders as Enhancers of DNA Damage Response for Hepatocellular Carcinoma Treatment.",
-        "summary": "Researchers developed a new drug that targets and destroys RAD51 protein, effectively disrupting DNA repair in liver cancer cells and enhancing treatment sensitivity.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41666241/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia",
-          "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-11"
       }
     ]
   },
@@ -886,10 +885,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5780,
+    "archive_count": 5781,
     "archive_supplements": 701,
     "archive_off_label": 249,
-    "archive_biomarkers": 3293,
+    "archive_biomarkers": 3294,
     "archive_trials": 1239
   }
 }
