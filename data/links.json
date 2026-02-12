@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-12T05:03:44.118Z",
+  "last_updated": "2026-02-12T05:03:55.002Z",
   "categories": {
     "supplements": [
       {
@@ -617,6 +617,20 @@
         "added_date": "2026-02-12"
       },
       {
+        "id": "recYipp55l3xnHTIo",
+        "title": "Magnetic nanoparticles for cancer theranostics.",
+        "summary": "Magnetic nanoparticles show promise in cancer treatment by enabling targeted therapies, precise imaging, and personalized diagnostic approaches across multiple cancer types.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41671587/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-12"
+      },
+      {
         "id": "recWmYqFQfFszTITd",
         "title": "Adverse karyotype amplifies risk in secondary acute myeloid leukemia (AML) and AML with myelodysplasia-related changes.",
         "summary": "Patients with secondary acute myeloid leukemia and AML-MRC have worse outcomes, particularly when they have unfavorable chromosomal changes.",
@@ -641,20 +655,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-11"
-      },
-      {
-        "id": "recqjeqm0EdEbVUWW",
-        "title": "Trimethylated H3K4 and Acetylated H3K14 Expression as Prognostic Markers in Oral Squamous Cell Carcinoma.",
-        "summary": "In oral squamous cell carcinoma, high levels of H3K14ac and H3K4me3 are associated with increased metastasis risk and lower patient survival.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41665910/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-11"
       }
@@ -795,6 +795,20 @@
         "added_date": "2026-02-12"
       },
       {
+        "id": "recYipp55l3xnHTIo",
+        "title": "Magnetic nanoparticles for cancer theranostics.",
+        "summary": "Magnetic nanoparticles show promise in cancer treatment by enabling targeted therapies, precise imaging, and personalized diagnostic approaches across multiple cancer types.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41671587/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-12"
+      },
+      {
         "id": "recWmYqFQfFszTITd",
         "title": "Adverse karyotype amplifies risk in secondary acute myeloid leukemia (AML) and AML with myelodysplasia-related changes.",
         "summary": "Patients with secondary acute myeloid leukemia and AML-MRC have worse outcomes, particularly when they have unfavorable chromosomal changes.",
@@ -866,20 +880,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-11"
-      },
-      {
-        "id": "recGslT9nksobj9YA",
-        "title": "Digitized Canine Olfaction and Multimodal Biosensing for Breath-Based Multi-Cancer Detection: A Hypothesis-Driven Perspective.",
-        "summary": "Dogs' brain signals and behavioral responses can be digitally analyzed to detect multiple cancers non-invasively through breath volatile organic compounds (VOCs).",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41666476/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-11"
       }
     ]
   },
@@ -889,10 +889,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5789,
+    "archive_count": 5790,
     "archive_supplements": 701,
     "archive_off_label": 249,
-    "archive_biomarkers": 3300,
+    "archive_biomarkers": 3301,
     "archive_trials": 1241
   }
 }
