@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-02-12T05:09:55.022Z",
+  "last_updated": "2026-02-12T05:10:05.888Z",
   "categories": {
     "supplements": [
+      {
+        "id": "recyTDwPj3m5e2UeX",
+        "title": "Pharmacokinetic studies and synergistic antitumor effects of cannabichromene and cannabidiol in drug-resistant breast cancers.",
+        "summary": "Cannabichromene and cannabidiol combined effectively inhibit drug-resistant triple-negative breast cancer by reducing tumor growth and blocking key cancer-promoting pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41670942/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-12"
+      },
       {
         "id": "recbLu9tpl0BimUYO",
         "title": "Natural Product-Inspired PROTACs for Leukemia Therapy: Hederagenin-Driven Targeted Degradation of SKP2.",
@@ -199,21 +214,6 @@
         "cancer_types": [
           "Leukemia",
           "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-11"
-      },
-      {
-        "id": "rectSYkbCTQk19HwV",
-        "title": "Integrative computational and experimental approaches to Hydnocarpus wightianus phytochemicals: Targeting breast Cancer through systems biology, molecular dynamics simulations, and in vitro validation in MDA-MB-231 cells.",
-        "summary": "Hydnocarpus wightianus phytochemicals show potential in targeting breast cancer by inducing cell death and mitochondrial disruption in MDA-MB-231 cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41666623/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast",
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -888,10 +888,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5824,
+    "archive_count": 5825,
     "archive_supplements": 701,
     "archive_off_label": 249,
-    "archive_biomarkers": 3329,
+    "archive_biomarkers": 3330,
     "archive_trials": 1247
   }
 }
