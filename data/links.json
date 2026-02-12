@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-12T05:02:28.663Z",
+  "last_updated": "2026-02-12T05:02:40.807Z",
   "categories": {
     "supplements": [
       {
@@ -513,6 +513,21 @@
         "added_date": "2026-02-12"
       },
       {
+        "id": "recwgVaJ17sCj2RnI",
+        "title": "[Application of a novel robot-assisted navigation system in CT-guided percutaneous lung biopsy].",
+        "summary": "A robot-assisted navigation system significantly improved CT-guided lung biopsy by reducing procedure time, needle adjustments, and CT scans while minimizing bleeding complications.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41629093/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Melanoma",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-12"
+      },
+      {
         "id": "recWmYqFQfFszTITd",
         "title": "Adverse karyotype amplifies risk in secondary acute myeloid leukemia (AML) and AML with myelodysplasia-related changes.",
         "summary": "Patients with secondary acute myeloid leukemia and AML-MRC have worse outcomes, particularly when they have unfavorable chromosomal changes.",
@@ -640,21 +655,6 @@
         "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-11"
-      },
-      {
-        "id": "recBNEswXFvNFMMKa",
-        "title": "Metal Element-Doped Prussian Blue Enhanced Chemodynamic Therapy and Imaging of Breast Cancer.",
-        "summary": "Metal-doped Prussian blue nanoparticles effectively generate cell-killing radicals and provide dual imaging for enhanced breast cancer treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41666388/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-11"
       }
     ],
     "trials": [
@@ -710,6 +710,21 @@
         "source": "PubMed",
         "category": "Clinical Trials",
         "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-12"
+      },
+      {
+        "id": "recwgVaJ17sCj2RnI",
+        "title": "[Application of a novel robot-assisted navigation system in CT-guided percutaneous lung biopsy].",
+        "summary": "A robot-assisted navigation system significantly improved CT-guided lung biopsy by reducing procedure time, needle adjustments, and CT scans while minimizing bleeding complications.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41629093/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Melanoma",
           "Leukemia"
         ],
         "quality_score": 15,
@@ -860,21 +875,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-11"
-      },
-      {
-        "id": "recLFD95GRXoEzemC",
-        "title": "Stabilization of IQGAP1 by the mTORC2 component PRR5 mediates mitogenic LINC01133-to-ERK signaling in triple-negative breast cancer.",
-        "summary": "In triple-negative breast cancer, LINC01133 increases PRR5, which stabilizes IQGAP1 and promotes ERK signaling, suggesting a potential new therapeutic target.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41666264/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-11"
       }
     ]
   },
@@ -884,10 +884,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5782,
+    "archive_count": 5783,
     "archive_supplements": 701,
     "archive_off_label": 249,
-    "archive_biomarkers": 3294,
+    "archive_biomarkers": 3295,
     "archive_trials": 1240
   }
 }
