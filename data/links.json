@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-12T05:19:35.948Z",
+  "last_updated": "2026-02-12T05:19:46.671Z",
   "categories": {
     "supplements": [
       {
@@ -263,6 +263,21 @@
         "added_date": "2026-02-12"
       },
       {
+        "id": "recAFYqMzIAzfkkVK",
+        "title": "Targeting ERLIN1 reveals a coordinated cholesterol-dependent vulnerability in hepatocellular carcinoma.",
+        "summary": "Researchers discovered that targeting the ERLIN1 protein disrupts cholesterol regulation in liver cancer cells, potentially offering a new treatment approach.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41668292/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia",
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-12"
+      },
+      {
         "id": "recxXZqPV4VtzK7nW",
         "title": "Dimethyl fumarate as an immunomodulatory enhancer of adipose-derived mesenchymal stem cells: therapeutic implications.",
         "summary": "Dimethyl fumarate enhances adipose-derived stem cells' immunomodulatory properties, potentially improving their therapeutic effectiveness in inflammatory conditions.",
@@ -415,20 +430,6 @@
         "url": "https://clinicaltrials.gov/study/NCT06732388",
         "source": "ClinicalTrials.gov",
         "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 19,
-        "pub_date": "2026-02-09",
-        "added_date": "2026-02-10"
-      },
-      {
-        "id": "rec4JmPdQNKZTj4H2",
-        "title": "Obeticholic Acid for Prevention in Barrett's Esophagus",
-        "summary": "Obeticholic acid may prevent progression of Barrett's esophagus by reducing bile acid damage and inflammation in esophageal tissue.",
-        "url": "https://clinicaltrials.gov/study/NCT04939051",
-        "source": "ClinicalTrials.gov",
-        "category": "Clinical Trials",
         "cancer_types": [
           "Leukemia"
         ],
@@ -886,10 +887,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5879,
+    "archive_count": 5880,
     "archive_supplements": 705,
     "archive_off_label": 250,
-    "archive_biomarkers": 3371,
+    "archive_biomarkers": 3372,
     "archive_trials": 1255
   }
 }
