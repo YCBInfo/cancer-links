@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-12T05:02:15.147Z",
+  "last_updated": "2026-02-12T05:02:28.663Z",
   "categories": {
     "supplements": [
       {
@@ -499,6 +499,20 @@
         "added_date": "2026-02-12"
       },
       {
+        "id": "rec2qygYM0XUQnGJl",
+        "title": "Efficacy and Safety of Neoadjuvant Immunochemotherapy for Locally Advanced Head and Neck Squamous Cell Carcinoma: A Meta-Analysis.",
+        "summary": "A combination of immunotherapy and chemotherapy before surgery shows promising results for improving treatment outcomes in advanced head and neck cancer patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41671415/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-12"
+      },
+      {
         "id": "recWmYqFQfFszTITd",
         "title": "Adverse karyotype amplifies risk in secondary acute myeloid leukemia (AML) and AML with myelodysplasia-related changes.",
         "summary": "Patients with secondary acute myeloid leukemia and AML-MRC have worse outcomes, particularly when they have unfavorable chromosomal changes.",
@@ -641,21 +655,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-11"
-      },
-      {
-        "id": "recD0ryYT7D0lTzND",
-        "title": "Impact of Abiraterone Therapeutic Drug Monitoring on Cortisol as a Surrogate Biomarker of CYP17 Inhibition in Metastatic Prostate Cancer Treatment.",
-        "summary": "Here's a concise summary sentence:\n\nTherapeutic drug monitoring of abiraterone in metastatic prostate cancer patients helps track cortisol levels as a marker of effective androgen suppression.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41666353/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Prostate",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-11"
       }
     ],
     "trials": [
@@ -696,6 +695,20 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41671353/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-12"
+      },
+      {
+        "id": "rec2qygYM0XUQnGJl",
+        "title": "Efficacy and Safety of Neoadjuvant Immunochemotherapy for Locally Advanced Head and Neck Squamous Cell Carcinoma: A Meta-Analysis.",
+        "summary": "A combination of immunotherapy and chemotherapy before surgery shows promising results for improving treatment outcomes in advanced head and neck cancer patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41671415/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
         "cancer_types": [
           "Leukemia"
         ],
@@ -862,20 +875,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-11"
-      },
-      {
-        "id": "recIkllxeTZHKKAMy",
-        "title": "Genomic and immune landscape of recurrent and/or metastatic squamous cell carcinoma of the head and neck progressing on anti-PD1 treatment.",
-        "summary": "In head and neck cancer, B2M protein expression correlates with increased T cell infiltration and improved survival after anti-PD1 immunotherapy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41666253/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-11"
       }
     ]
   },
@@ -885,10 +884,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5781,
+    "archive_count": 5782,
     "archive_supplements": 701,
     "archive_off_label": 249,
     "archive_biomarkers": 3294,
-    "archive_trials": 1239
+    "archive_trials": 1240
   }
 }
