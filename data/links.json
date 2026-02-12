@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-12T05:13:58.226Z",
+  "last_updated": "2026-02-12T05:14:09.249Z",
   "categories": {
     "supplements": [
       {
@@ -39,6 +39,21 @@
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-12"
+      },
+      {
+        "id": "recfP1gI3jzC8id87",
+        "title": "Ginkgetin inhibits non-small cell lung cancer via the HSP90-AKT signaling pathway.",
+        "summary": "Ginkgetin, a natural compound from Ginkgo biloba, inhibits non-small cell lung cancer cell growth by targeting the HSP90-AKT signaling pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41670694/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lung",
           "Leukemia"
         ],
         "quality_score": 15,
@@ -194,20 +209,6 @@
         "title": "Alkaloids in Portulaca oleracea L.: a review of extraction and purification, structural characteristics, bioactivity, and application.",
         "summary": "Portulaca oleracea L. alkaloids show promising anti-tumor potential, with diverse bioactive properties that could support future cancer treatment research.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41666015/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-11"
-      },
-      {
-        "id": "recLvNNAKlkNZI3d5",
-        "title": "Long-term association of physical activity with survival by primary cancer treatment in endometrial cancer: The Alberta Endometrial Cancer Cohort Study.",
-        "summary": "For endometrial cancer patients, pre-diagnosis physical activity was associated with different survival outcomes depending on whether they received surgery alone or surgery plus additional treatments.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41665306/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -885,10 +886,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5847,
+    "archive_count": 5848,
     "archive_supplements": 704,
     "archive_off_label": 250,
     "archive_biomarkers": 3344,
-    "archive_trials": 1251
+    "archive_trials": 1252
   }
 }
