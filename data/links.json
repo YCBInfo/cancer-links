@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-12T10:03:06.319Z",
+  "last_updated": "2026-02-12T10:03:18.766Z",
   "categories": {
     "supplements": [
       {
@@ -366,6 +366,20 @@
         "added_date": "2026-02-12"
       },
       {
+        "id": "recEqVVXtIkVZ940C",
+        "title": "Ultra-Stabilized Transethosomal Gel for Co-Delivery of 5-Fluorouracil and Carvedilol: Cytotoxicity and In-vivo studies in Skin Cancer.",
+        "summary": "A novel gel combining two drugs in nanocarriers significantly improved skin cancer treatment by enhancing drug delivery and tumor suppression in melanoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41672415/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Melanoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-12"
+      },
+      {
         "id": "recxXZqPV4VtzK7nW",
         "title": "Dimethyl fumarate as an immunomodulatory enhancer of adipose-derived mesenchymal stem cells: therapeutic implications.",
         "summary": "Dimethyl fumarate enhances adipose-derived stem cells' immunomodulatory properties, potentially improving their therapeutic effectiveness in inflammatory conditions.",
@@ -418,20 +432,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-11"
-      },
-      {
-        "id": "recndRooRiABmHP9N",
-        "title": "Streptomycin mitigates methylglyoxal-induced carbonyl stress through its antiglycation activity: A drug-repurposing approach for carbonyl stress-related disorder.",
-        "summary": "Streptomycin showed promise in reducing harmful protein modifications caused by methylglyoxal in neuroblastoma cells, suggesting potential therapeutic use in carbonyl stress-related disorders.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41490581/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
@@ -887,9 +887,9 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6039,
+    "archive_count": 6040,
     "archive_supplements": 718,
-    "archive_off_label": 252,
+    "archive_off_label": 253,
     "archive_biomarkers": 3463,
     "archive_trials": 1308
   }
