@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-11T12:50:51.260Z",
+  "last_updated": "2026-02-12T05:02:05.374Z",
   "categories": {
     "supplements": [
       {
@@ -441,6 +441,50 @@
     ],
     "biomarkers": [
       {
+        "id": "recybyMascI7aAG95",
+        "title": "Brain Network Patterns in Patients With Multiple System Atrophy: Spatial Independent Component Analysis Using FDG-PET Data.",
+        "summary": "Researchers used advanced brain imaging to map unique metabolic network patterns in multiple system atrophy, potentially improving understanding of this complex neurodegenerative disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41671525/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-12"
+      },
+      {
+        "id": "recAJCMpeNPpZcxy3",
+        "title": "Follow the 'DOTs': Vδ1+ γδ T cells as effectors of cancer immunotherapy.",
+        "summary": "Researchers propose leveraging Vδ1+ γδ T cells, particularly delta one T (DOT) cells, as a promising new approach to expand cancer immunotherapy's effectiveness across more tumor types.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41670625/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-12"
+      },
+      {
+        "id": "recsqIsT3mnCtMp68",
+        "title": "Intravenous infusion of engineered megakaryocytes to produce oncolytic platelets in vivo for enhanced cancer immunotherapy.",
+        "summary": "Engineered megakaryocytes delivering oncolytic viruses via platelets can effectively target and suppress lung and colorectal cancer metastases while enhancing immune response.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41671180/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Lung",
+          "Colorectal",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-12"
+      },
+      {
         "id": "recWmYqFQfFszTITd",
         "title": "Adverse karyotype amplifies risk in secondary acute myeloid leukemia (AML) and AML with myelodysplasia-related changes.",
         "summary": "Patients with secondary acute myeloid leukemia and AML-MRC have worse outcomes, particularly when they have unfavorable chromosomal changes.",
@@ -612,52 +656,39 @@
         "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-11"
-      },
-      {
-        "id": "recwD5uemePEnwUKo",
-        "title": "Dynamic feedback control of oncogenic tyrosine kinase signaling in acute leukemia.",
-        "summary": "In acute leukemia, targeting CD25 disrupts a key signaling feedback loop, reducing cancer cell survival and potentially offering a new treatment approach.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41666265/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-11"
-      },
-      {
-        "id": "recLFD95GRXoEzemC",
-        "title": "Stabilization of IQGAP1 by the mTORC2 component PRR5 mediates mitogenic LINC01133-to-ERK signaling in triple-negative breast cancer.",
-        "summary": "In triple-negative breast cancer, LINC01133 increases PRR5, which stabilizes IQGAP1 and promotes ERK signaling, suggesting a potential new therapeutic target.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41666264/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-11"
-      },
-      {
-        "id": "recIkllxeTZHKKAMy",
-        "title": "Genomic and immune landscape of recurrent and/or metastatic squamous cell carcinoma of the head and neck progressing on anti-PD1 treatment.",
-        "summary": "In head and neck cancer, B2M protein expression correlates with increased T cell infiltration and improved survival after anti-PD1 immunotherapy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41666253/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-11"
       }
     ],
     "trials": [
+      {
+        "id": "recAJCMpeNPpZcxy3",
+        "title": "Follow the 'DOTs': Vδ1+ γδ T cells as effectors of cancer immunotherapy.",
+        "summary": "Researchers propose leveraging Vδ1+ γδ T cells, particularly delta one T (DOT) cells, as a promising new approach to expand cancer immunotherapy's effectiveness across more tumor types.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41670625/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-12"
+      },
+      {
+        "id": "recsqIsT3mnCtMp68",
+        "title": "Intravenous infusion of engineered megakaryocytes to produce oncolytic platelets in vivo for enhanced cancer immunotherapy.",
+        "summary": "Engineered megakaryocytes delivering oncolytic viruses via platelets can effectively target and suppress lung and colorectal cancer metastases while enhancing immune response.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41671180/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Lung",
+          "Colorectal",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-12"
+      },
       {
         "id": "recWmYqFQfFszTITd",
         "title": "Adverse karyotype amplifies risk in secondary acute myeloid leukemia (AML) and AML with myelodysplasia-related changes.",
@@ -846,35 +877,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-11"
-      },
-      {
-        "id": "rec4KrdB5OZNMS6CB",
-        "title": "Water Confinement in Hollow Fe-TA Nanoparticles Synergistically Enhances Photothermal-MRI Theranostics.",
-        "summary": "Hollow iron-tannic acid nanoparticles use confined water to enhance cancer treatment, improving heat transfer, drug delivery, and imaging for effective tumor eradication.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41666237/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-11"
-      },
-      {
-        "id": "recvCGJfA5s4g0RBr",
-        "title": "Exploring the crosstalk between the FGF/FGFR pathway and tumor microenvironment in clear cell renal cell carcinoma.",
-        "summary": "Lenvatinib inhibited tumor-associated macrophage infiltration in clear cell renal cell carcinoma by targeting the fibroblast growth factor receptor pathway.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41666187/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Colorectal",
-          "Kidney"
-        ],
-        "quality_score": 23,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-11"
       }
     ]
   },
@@ -884,10 +886,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5779,
+    "archive_count": 5780,
     "archive_supplements": 701,
     "archive_off_label": 249,
-    "archive_biomarkers": 3292,
+    "archive_biomarkers": 3293,
     "archive_trials": 1239
   }
 }
