@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-12T05:30:06.995Z",
+  "last_updated": "2026-02-12T05:30:18.386Z",
   "categories": {
     "supplements": [
       {
@@ -70,6 +70,20 @@
         "cancer_types": [
           "Leukemia",
           "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-12"
+      },
+      {
+        "id": "recsTTVrSMIFJOFVe",
+        "title": "Modulating the gut-reproductive tract axis: microbial influence on gynaecological cancer pathogenesis and treatment.",
+        "summary": "Gut microbiota composition significantly influences ovarian, endometrial, and cervical cancer development, progression, and treatment response through immune and metabolic mechanisms.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41667242/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -199,21 +213,6 @@
         "cancer_types": [
           "Leukemia",
           "Stomach"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-11"
-      },
-      {
-        "id": "rectfx8zsitV1DXcQ",
-        "title": "Apigenin Sensitizes Melanoma to Chemo/Radiotherapy and Potentiates Immune Killing by Reducing T Cell PD-1 Expression.",
-        "summary": "Apigenin enhances melanoma treatment by reducing PD-1 on T cells, making chemotherapy and radiation more effective at killing cancer cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41667061/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Melanoma",
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -888,10 +887,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 5938,
+    "archive_count": 5939,
     "archive_supplements": 706,
     "archive_off_label": 250,
-    "archive_biomarkers": 3421,
+    "archive_biomarkers": 3422,
     "archive_trials": 1263
   }
 }
