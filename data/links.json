@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-13T05:26:03.666Z",
+  "last_updated": "2026-02-13T05:26:15.746Z",
   "categories": {
     "supplements": [
       {
@@ -278,6 +278,20 @@
         "added_date": "2026-02-13"
       },
       {
+        "id": "rec8ilws09gYGeVwh",
+        "title": "Inhibition of acalabrutinib metabolism by finerenone and its molecular docking studies.",
+        "summary": "Finerenone inhibits acalabrutinib metabolism in chronic lymphocytic leukemia, potentially increasing the drug's exposure and requiring adjusted dosing strategies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41673329/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-13"
+      },
+      {
         "id": "recJYch5iLvuo9C1O",
         "title": "SAICAR Drives T Regulatory Cell Differentiation and FOXP3 Maintenance to Promote Immunotherapy Resistance.",
         "summary": "SAICAR, a metabolite, promotes suppressive T cells in tumors, blocking immunotherapy effectiveness and suggesting a potential treatment strategy.",
@@ -417,20 +431,6 @@
         "category": "Clinical Trials",
         "cancer_types": [
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-12"
-      },
-      {
-        "id": "recEqVVXtIkVZ940C",
-        "title": "Ultra-Stabilized Transethosomal Gel for Co-Delivery of 5-Fluorouracil and Carvedilol: Cytotoxicity and In-vivo studies in Skin Cancer.",
-        "summary": "A novel gel combining two drugs in nanocarriers significantly improved skin cancer treatment by enhancing drug delivery and tumor suppression in melanoma.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41672415/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Melanoma"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -878,10 +878,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6197,
+    "archive_count": 6198,
     "archive_supplements": 729,
     "archive_off_label": 261,
-    "archive_biomarkers": 3572,
+    "archive_biomarkers": 3573,
     "archive_trials": 1337
   }
 }
