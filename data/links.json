@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-13T10:02:03.168Z",
+  "last_updated": "2026-02-13T10:02:14.514Z",
   "categories": {
     "supplements": [
       {
@@ -319,6 +319,21 @@
         "added_date": "2026-02-13"
       },
       {
+        "id": "recLDk3Y5hVi5Ekun",
+        "title": "Weight Loss Patterns and Clinical Outcomes of GLP1 Receptor Agonists in Breast Cancer Survivors.",
+        "summary": "In breast cancer survivors, GLP1 receptor agonists were associated with modest weight loss and significantly improved overall survival.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41677473/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Breast",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-13"
+      },
+      {
         "id": "recJYch5iLvuo9C1O",
         "title": "SAICAR Drives T Regulatory Cell Differentiation and FOXP3 Maintenance to Promote Immunotherapy Resistance.",
         "summary": "SAICAR, a metabolite, promotes suppressive T cells in tumors, blocking immunotherapy effectiveness and suggesting a potential treatment strategy.",
@@ -414,21 +429,6 @@
         "cancer_types": [
           "Lung",
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-12"
-      },
-      {
-        "id": "recTKa7bcLs6yR0dY",
-        "title": "Combination of artesunate and ruxolitinib suppresses T cell leukemia/lymphoma proliferation via the JAK STAT pathway.",
-        "summary": "Combining artesunate and ruxolitinib effectively suppresses T-cell leukemia/lymphoma cell growth by inhibiting the JAK/STAT pathway and promoting cancer cell death.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41673103/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia",
-          "Lymphoma"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -876,10 +876,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6290,
+    "archive_count": 6291,
     "archive_supplements": 732,
     "archive_off_label": 263,
     "archive_biomarkers": 3613,
-    "archive_trials": 1384
+    "archive_trials": 1385
   }
 }
