@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-13T05:15:46.373Z",
+  "last_updated": "2026-02-13T05:15:55.733Z",
   "categories": {
     "supplements": [
       {
@@ -264,6 +264,20 @@
         "added_date": "2026-02-13"
       },
       {
+        "id": "recRCpGOjh5RLf7Fn",
+        "title": "Impact of prenatal sirolimus on cardiac rhabdomyomas and brain tubers.",
+        "summary": "Prenatal sirolimus treatment reduced tumor size and improved cardiac outcomes in fetuses with cardiac rhabdomyomas associated with tuberous sclerosis complex.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41674351/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-13"
+      },
+      {
         "id": "recJYch5iLvuo9C1O",
         "title": "SAICAR Drives T Regulatory Cell Differentiation and FOXP3 Maintenance to Promote Immunotherapy Resistance.",
         "summary": "SAICAR, a metabolite, promotes suppressive T cells in tumors, blocking immunotherapy effectiveness and suggesting a potential treatment strategy.",
@@ -417,20 +431,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Melanoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-12"
-      },
-      {
-        "id": "recZtXXksLKRqfUGh",
-        "title": "Lepidium sativum and Metformin Hydrochloride Hydrogels for Effective Management of Wounds in an Induced Diabetic Rat Model.",
-        "summary": "A combined hydrogel of Lepidium sativum seeds extract and metformin effectively accelerated diabetic wound healing by reducing inflammation and promoting tissue regeneration.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41672102/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -878,10 +878,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6139,
+    "archive_count": 6140,
     "archive_supplements": 728,
     "archive_off_label": 260,
-    "archive_biomarkers": 3519,
+    "archive_biomarkers": 3520,
     "archive_trials": 1334
   }
 }
