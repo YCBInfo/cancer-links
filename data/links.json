@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-13T05:04:13.086Z",
+  "last_updated": "2026-02-13T05:04:23.491Z",
   "categories": {
     "supplements": [
       {
@@ -570,6 +570,20 @@
         "added_date": "2026-02-13"
       },
       {
+        "id": "recVVvdYoGu0bcLQG",
+        "title": "Association of immune checkpoint inhibitors with muscle mass and density in patients with melanoma.",
+        "summary": "Researchers investigated how immune checkpoint inhibitors affect muscle mass and density in melanoma patients, exploring potential links with kidney function.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41678711/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Melanoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-13"
+      },
+      {
         "id": "recybyMascI7aAG95",
         "title": "Brain Network Patterns in Patients With Multiple System Atrophy: Spatial Independent Component Analysis Using FDG-PET Data.",
         "summary": "Researchers used advanced brain imaging to map unique metabolic network patterns in multiple system atrophy, potentially improving understanding of this complex neurodegenerative disease.",
@@ -635,21 +649,6 @@
         "source": "PubMed",
         "category": "Clinical Trials",
         "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-12"
-      },
-      {
-        "id": "recwgVaJ17sCj2RnI",
-        "title": "[Application of a novel robot-assisted navigation system in CT-guided percutaneous lung biopsy].",
-        "summary": "A robot-assisted navigation system significantly improved CT-guided lung biopsy by reducing procedure time, needle adjustments, and CT scans while minimizing bleeding complications.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41629093/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Melanoma",
           "Leukemia"
         ],
         "quality_score": 15,
@@ -788,6 +787,34 @@
         "added_date": "2026-02-13"
       },
       {
+        "id": "recVVvdYoGu0bcLQG",
+        "title": "Association of immune checkpoint inhibitors with muscle mass and density in patients with melanoma.",
+        "summary": "Researchers investigated how immune checkpoint inhibitors affect muscle mass and density in melanoma patients, exploring potential links with kidney function.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41678711/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Melanoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-13"
+      },
+      {
+        "id": "rec2MSdl4IH2em2pH",
+        "title": "Integrated Near-Infrared Light-Driven Janus Micromotor-Fluorescent Nanodiamond Dynamic Sensing Platform for Active Motion-Enhanced Biodetection.",
+        "summary": "A near-infrared-powered micromotor platform with fluorescent nanodiamonds enhances microRNA and protein detection sensitivity by improving mass transport and capture efficiency.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41678651/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-13"
+      },
+      {
         "id": "recAJCMpeNPpZcxy3",
         "title": "Follow the 'DOTs': Vδ1+ γδ T cells as effectors of cancer immunotherapy.",
         "summary": "Researchers propose leveraging Vδ1+ γδ T cells, particularly delta one T (DOT) cells, as a promising new approach to expand cancer immunotherapy's effectiveness across more tumor types.",
@@ -844,35 +871,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-12"
-      },
-      {
-        "id": "recwgVaJ17sCj2RnI",
-        "title": "[Application of a novel robot-assisted navigation system in CT-guided percutaneous lung biopsy].",
-        "summary": "A robot-assisted navigation system significantly improved CT-guided lung biopsy by reducing procedure time, needle adjustments, and CT scans while minimizing bleeding complications.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41629093/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Melanoma",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-12"
-      },
-      {
-        "id": "recSpdG6DLikapJ29",
-        "title": "Specific detection of EGF-EGFR complexes on the cell surface and their dependency on EGFR-directed TKI treatment.",
-        "summary": "A new method using ActE_21 reveals that EGFR-targeted drugs can increase EGF-EGFR complexes on the cell surface in some lung and breast cancer cell lines.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41548485/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-12"
       }
     ]
   },
@@ -882,10 +880,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6074,
+    "archive_count": 6075,
     "archive_supplements": 722,
     "archive_off_label": 258,
-    "archive_biomarkers": 3475,
+    "archive_biomarkers": 3476,
     "archive_trials": 1321
   }
 }
