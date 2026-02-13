@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-13T10:02:47.581Z",
+  "last_updated": "2026-02-13T10:02:59.981Z",
   "categories": {
     "supplements": [
       {
@@ -350,6 +350,20 @@
         "added_date": "2026-02-13"
       },
       {
+        "id": "rec9XSA8KuU0mdMNy",
+        "title": "Disulfiram metabolite Cu(DDC)2 enhances radionuclide uptake in vivo revealing insights into tumoural ablation resistance.",
+        "summary": "A copper-containing derivative of disulfiram improved iodine uptake in tumors, potentially enhancing radioiodine treatment effectiveness for cancer patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41679192/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-13"
+      },
+      {
         "id": "recJYch5iLvuo9C1O",
         "title": "SAICAR Drives T Regulatory Cell Differentiation and FOXP3 Maintenance to Promote Immunotherapy Resistance.",
         "summary": "SAICAR, a metabolite, promotes suppressive T cells in tumors, blocking immunotherapy effectiveness and suggesting a potential treatment strategy.",
@@ -414,21 +428,6 @@
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-12"
-      },
-      {
-        "id": "recrrz8SLcgqWf5il",
-        "title": "Quaternized Chitosan-Ferulic Acid-Based Nanomicelles for Dimethoxycurcumin Delivery and Synergistic Colorectal Adenocarcinoma Therapy with 5-Fluorouracil.",
-        "summary": "Nanomicelles loaded with dimethoxycurcumin enhanced colorectal cancer cell death when combined with 5-fluorouracil, showing selective tumor targeting and reduced toxicity.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41670546/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal",
           "Leukemia"
         ],
         "quality_score": 15,
@@ -877,10 +876,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6294,
+    "archive_count": 6295,
     "archive_supplements": 732,
     "archive_off_label": 264,
-    "archive_biomarkers": 3614,
+    "archive_biomarkers": 3615,
     "archive_trials": 1386
   }
 }
