@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-13T10:02:35.945Z",
+  "last_updated": "2026-02-13T10:02:47.581Z",
   "categories": {
     "supplements": [
       {
@@ -334,6 +334,22 @@
         "added_date": "2026-02-13"
       },
       {
+        "id": "recbXU5XgXVlhALA6",
+        "title": "Impact of type 2 diabetes on malignancies of the female reproductive system.",
+        "summary": "Type 2 diabetes significantly increases risk and severity of endometrial, ovarian, and breast cancers by disrupting hormonal and metabolic processes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41679247/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast",
+          "Leukemia",
+          "Ovarian"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-13"
+      },
+      {
         "id": "recJYch5iLvuo9C1O",
         "title": "SAICAR Drives T Regulatory Cell Differentiation and FOXP3 Maintenance to Promote Immunotherapy Resistance.",
         "summary": "SAICAR, a metabolite, promotes suppressive T cells in tumors, blocking immunotherapy effectiveness and suggesting a potential treatment strategy.",
@@ -413,21 +429,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Colorectal",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-12"
-      },
-      {
-        "id": "recZvYaY8wc4uBC1z",
-        "title": "Exploring synergistic therapeutic potential of Erlotinib and artemisinin in non-small cell lung Cancer (NSCLC) using pharmacological networking and mathematical modeling.",
-        "summary": "Exploring synergistic therapeutic potential of Erlotinib and artemisinin in non-small cell lung Cancer (NSCLC) using pharmacological networking and mathematical modeling.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41672289/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Lung",
           "Leukemia"
         ],
         "quality_score": 15,
@@ -876,10 +877,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6293,
+    "archive_count": 6294,
     "archive_supplements": 732,
     "archive_off_label": 264,
-    "archive_biomarkers": 3613,
+    "archive_biomarkers": 3614,
     "archive_trials": 1386
   }
 }
