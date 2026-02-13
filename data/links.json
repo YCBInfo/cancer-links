@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-13T05:03:19.818Z",
+  "last_updated": "2026-02-13T05:03:31.201Z",
   "categories": {
     "supplements": [
       {
@@ -513,6 +513,34 @@
         "added_date": "2026-02-13"
       },
       {
+        "id": "recHDMYyJe9c6KGoF",
+        "title": "Cytokine use in the Hematopoietic Subsyndrome of Acute Radiation Syndrome (H-ARS): Implications for the role of cytokines in a mass casualty radiologic/nuclear (R/N) emergency.",
+        "summary": "Sargramostim showed promising survival benefits in non-human primates exposed to radiation, supporting its potential use as a cytokine treatment for acute radiation syndrome.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41678840/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 19,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-13"
+      },
+      {
+        "id": "reckR7KFeFjkD39vI",
+        "title": "Effectiveness of Educational Videos in Encouraging Preferences for Guideline-Based Cancer Screening in Japan: Three-Arm Pseudorandomized Controlled Trial.",
+        "summary": "An educational video intervention effectively improved Japanese participants' understanding of appropriate cancer screening guidelines, potentially reducing unnecessary screenings.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41678792/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-13"
+      },
+      {
         "id": "recybyMascI7aAG95",
         "title": "Brain Network Patterns in Patients With Multiple System Atrophy: Spatial Independent Component Analysis Using FDG-PET Data.",
         "summary": "Researchers used advanced brain imaging to map unique metabolic network patterns in multiple system atrophy, potentially improving understanding of this complex neurodegenerative disease.",
@@ -626,35 +654,6 @@
         "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-02-12"
-      },
-      {
-        "id": "recZEL5QOCiPrfBAz",
-        "title": "Metabolic positron emission tomography imaging and tumor growth inhibition during the Q neuron-induced hibernation-like state in mice.",
-        "summary": "In mice, artificially induced hibernation significantly reduced tumor growth by lowering glucose metabolism and altering nutrient distribution in the body.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41547304/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Melanoma",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-12"
-      },
-      {
-        "id": "recF2gvO3r5KOkcUn",
-        "title": "Multi-scale transcriptomics analysis reveals MHC suppression in MEF2D fusion positive B-cell acute lymphoblastic leukemia.",
-        "summary": "In MEF2D fusion B-cell acute lymphoblastic leukemia, single-cell analysis revealed reduced MHC expression, potentially enabling cancer cells to evade immune detection.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41547299/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-12"
       }
     ],
     "trials": [
@@ -727,6 +726,20 @@
           "General"
         ],
         "quality_score": 19,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-13"
+      },
+      {
+        "id": "reckR7KFeFjkD39vI",
+        "title": "Effectiveness of Educational Videos in Encouraging Preferences for Guideline-Based Cancer Screening in Japan: Three-Arm Pseudorandomized Controlled Trial.",
+        "summary": "An educational video intervention effectively improved Japanese participants' understanding of appropriate cancer screening guidelines, potentially reducing unnecessary screenings.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41678792/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-13"
       },
@@ -863,20 +876,6 @@
         "quality_score": 24,
         "pub_date": "2026-01-01",
         "added_date": "2026-02-12"
-      },
-      {
-        "id": "recYipp55l3xnHTIo",
-        "title": "Magnetic nanoparticles for cancer theranostics.",
-        "summary": "Magnetic nanoparticles show promise in cancer treatment by enabling targeted therapies, precise imaging, and personalized diagnostic approaches across multiple cancer types.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41671587/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-12"
       }
     ]
   },
@@ -886,10 +885,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6069,
+    "archive_count": 6070,
     "archive_supplements": 722,
     "archive_off_label": 258,
     "archive_biomarkers": 3474,
-    "archive_trials": 1317
+    "archive_trials": 1318
   }
 }
