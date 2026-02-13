@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-13T10:03:21.039Z",
+  "last_updated": "2026-02-13T10:03:33.468Z",
   "categories": {
     "supplements": [
       {
@@ -364,6 +364,20 @@
         "added_date": "2026-02-13"
       },
       {
+        "id": "rec2ACohveAXdTRZc",
+        "title": "Fenticonazole targets NF-κB p105/p50 to suppress triple-negative breast cancer via ROS-mediated ER stress and apoptosis.",
+        "summary": "Fenticonazole, an antifungal drug, suppresses triple-negative breast cancer growth by disrupting key cellular proteins and triggering cancer cell death.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41679661/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-13"
+      },
+      {
         "id": "recJYch5iLvuo9C1O",
         "title": "SAICAR Drives T Regulatory Cell Differentiation and FOXP3 Maintenance to Promote Immunotherapy Resistance.",
         "summary": "SAICAR, a metabolite, promotes suppressive T cells in tumors, blocking immunotherapy effectiveness and suggesting a potential treatment strategy.",
@@ -415,20 +429,6 @@
         "cancer_types": [
           "Leukemia",
           "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-12"
-      },
-      {
-        "id": "recJgzyeAXXpzRNWM",
-        "title": "The NADPH oxidase inhibitor Vas2870 prevents myocyte ferroptosis and improves cardiac remodelling and function in doxorubicin-induced cardiomyopathy.",
-        "summary": "Researchers found that blocking a specific cellular enzyme with the drug Vas2870 can protect heart muscle cells from damage and improve heart function in patients experiencing chemotherapy-related ...",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41671579/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -876,10 +876,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6297,
+    "archive_count": 6298,
     "archive_supplements": 732,
     "archive_off_label": 265,
-    "archive_biomarkers": 3616,
+    "archive_biomarkers": 3617,
     "archive_trials": 1386
   }
 }
