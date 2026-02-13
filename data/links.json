@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-13T05:02:40.239Z",
+  "last_updated": "2026-02-13T05:02:50.246Z",
   "categories": {
     "supplements": [
       {
@@ -484,6 +484,20 @@
         "added_date": "2026-02-13"
       },
       {
+        "id": "rec3bDHG5eGMNgZG1",
+        "title": "Utility of serum biomarkers for prostate cancer diagnosis in the magnetic resonance imaging era.",
+        "summary": "The discovery of prostate-specific antigen (PSA) as a biomarker in prostate cancer has enriched the field of uro-oncology, offering valuable insights for disease monitoring, management decisions an...",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41677411/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-13"
+      },
+      {
         "id": "recybyMascI7aAG95",
         "title": "Brain Network Patterns in Patients With Multiple System Atrophy: Spatial Independent Component Analysis Using FDG-PET Data.",
         "summary": "Researchers used advanced brain imaging to map unique metabolic network patterns in multiple system atrophy, potentially improving understanding of this complex neurodegenerative disease.",
@@ -644,20 +658,6 @@
         "quality_score": 24,
         "pub_date": "2026-01-01",
         "added_date": "2026-02-12"
-      },
-      {
-        "id": "recV5NAffOADRIUiV",
-        "title": "Genomic and immune landscape of parthanatos in breast carcinoma: The central role of AIFM1.",
-        "summary": "A new study reveals how a specific cell death pathway called parthanatos may impact breast cancer progression through the protein AIFM1.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41534495/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-12"
       }
     ],
     "trials": [
@@ -671,6 +671,20 @@
         "cancer_types": [
           "Breast",
           "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-13"
+      },
+      {
+        "id": "rec3bDHG5eGMNgZG1",
+        "title": "Utility of serum biomarkers for prostate cancer diagnosis in the magnetic resonance imaging era.",
+        "summary": "The discovery of prostate-specific antigen (PSA) as a biomarker in prostate cancer has enriched the field of uro-oncology, offering valuable insights for disease monitoring, management decisions an...",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41677411/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Prostate"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -866,20 +880,6 @@
         "quality_score": 21,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-12"
-      },
-      {
-        "id": "reczKdQSDRmByIY6X",
-        "title": "Development and Validation of a Computational Histology Artificial Intelligence-Powered Predictive Biomarker for Selection of Chemotherapy in Advanced Pancreatic Cancer.",
-        "summary": "An AI-powered biomarker accurately predicts which first-line chemotherapy treatment will be most effective for patients with advanced pancreatic cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41671529/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Pancreatic"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-12"
       }
     ]
   },
@@ -889,10 +889,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6066,
+    "archive_count": 6067,
     "archive_supplements": 722,
     "archive_off_label": 258,
-    "archive_biomarkers": 3471,
+    "archive_biomarkers": 3472,
     "archive_trials": 1317
   }
 }
