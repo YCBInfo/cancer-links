@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-13T05:04:23.491Z",
+  "last_updated": "2026-02-13T05:04:33.901Z",
   "categories": {
     "supplements": [
       {
@@ -584,6 +584,20 @@
         "added_date": "2026-02-13"
       },
       {
+        "id": "rec2MSdl4IH2em2pH",
+        "title": "Integrated Near-Infrared Light-Driven Janus Micromotor-Fluorescent Nanodiamond Dynamic Sensing Platform for Active Motion-Enhanced Biodetection.",
+        "summary": "A near-infrared-powered micromotor platform with fluorescent nanodiamonds enhances microRNA and protein detection sensitivity by improving mass transport and capture efficiency.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41678651/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-13"
+      },
+      {
         "id": "recybyMascI7aAG95",
         "title": "Brain Network Patterns in Patients With Multiple System Atrophy: Spatial Independent Component Analysis Using FDG-PET Data.",
         "summary": "Researchers used advanced brain imaging to map unique metabolic network patterns in multiple system atrophy, potentially improving understanding of this complex neurodegenerative disease.",
@@ -634,20 +648,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41671353/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-12"
-      },
-      {
-        "id": "rec2qygYM0XUQnGJl",
-        "title": "Efficacy and Safety of Neoadjuvant Immunochemotherapy for Locally Advanced Head and Neck Squamous Cell Carcinoma: A Meta-Analysis.",
-        "summary": "A combination of immunotherapy and chemotherapy before surgery shows promising results for improving treatment outcomes in advanced head and neck cancer patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41671415/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
         "cancer_types": [
           "Leukemia"
         ],
@@ -880,10 +880,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6075,
+    "archive_count": 6076,
     "archive_supplements": 722,
     "archive_off_label": 258,
     "archive_biomarkers": 3476,
-    "archive_trials": 1321
+    "archive_trials": 1322
   }
 }
