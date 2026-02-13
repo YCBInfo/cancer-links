@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-13T05:06:29.606Z",
+  "last_updated": "2026-02-13T05:06:39.852Z",
   "categories": {
     "supplements": [
       {
@@ -236,6 +236,20 @@
         "added_date": "2026-02-13"
       },
       {
+        "id": "recOzBZucae3tCHZ4",
+        "title": "Mass Spectrometry Monitoring of Water Dimer Radical Cations for Highly Efficient Dye Degradation.",
+        "summary": "Water dimer radical cations efficiently degraded rhodamine B dye, achieving 99% removal in 8 minutes without additional chemicals, using a corona discharge method.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41678323/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-13"
+      },
+      {
         "id": "recJYch5iLvuo9C1O",
         "title": "SAICAR Drives T Regulatory Cell Differentiation and FOXP3 Maintenance to Promote Immunotherapy Resistance.",
         "summary": "SAICAR, a metabolite, promotes suppressive T cells in tumors, blocking immunotherapy effectiveness and suggesting a potential treatment strategy.",
@@ -418,21 +432,6 @@
         "cancer_types": [
           "Melanoma",
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-12"
-      },
-      {
-        "id": "reco0b64i1CrYNMxX",
-        "title": "Gene Expression-Based Drug Repurposing Predicted GSK-2126458 and KU-0060648 as Candidate Small Molecules for Glioblastoma Multiforme Treatment.",
-        "summary": "Researchers identified two potential drugs, GSK-2126458 and KU-0060648, that show promise in treating glioblastoma by effectively killing cancer cells at low concentrations.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41670244/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia",
-          "Brain"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -880,10 +879,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6087,
+    "archive_count": 6088,
     "archive_supplements": 723,
     "archive_off_label": 258,
-    "archive_biomarkers": 3485,
+    "archive_biomarkers": 3486,
     "archive_trials": 1323
   }
 }
