@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-13T10:05:23.801Z",
+  "last_updated": "2026-02-13T10:05:33.318Z",
   "categories": {
     "supplements": [
       {
@@ -394,6 +394,21 @@
         "added_date": "2026-02-13"
       },
       {
+        "id": "rec7dPaEiikKcEJne",
+        "title": "Metformin Suppresses Glioblastoma Tumor Growth and Progression Through the AMPK/FoxO3a/Survivin Axis.",
+        "summary": "Metformin suppresses glioblastoma tumor growth by activating a molecular pathway that reduces survivin and inhibits cancer cell survival and invasion.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41677673/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Leukemia",
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-13"
+      },
+      {
         "id": "recJYch5iLvuo9C1O",
         "title": "SAICAR Drives T Regulatory Cell Differentiation and FOXP3 Maintenance to Promote Immunotherapy Resistance.",
         "summary": "SAICAR, a metabolite, promotes suppressive T cells in tumors, blocking immunotherapy effectiveness and suggesting a potential treatment strategy.",
@@ -414,20 +429,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41670898/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-12"
-      },
-      {
-        "id": "recL2pEx0mIelDzAx",
-        "title": "Exploring FDA-approved small molecules for their potential as PD-1/PD-L1 inhibitors: integrating computational screening with experimental testing.",
-        "summary": "Researchers used computational screening to identify FDA-approved small molecules that could potentially block PD-1/PD-L1 interactions and enhance cancer immunotherapy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41670748/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
         "cancer_types": [
           "Leukemia"
         ],
@@ -877,10 +878,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6305,
+    "archive_count": 6306,
     "archive_supplements": 734,
     "archive_off_label": 266,
-    "archive_biomarkers": 3619,
+    "archive_biomarkers": 3620,
     "archive_trials": 1388
   }
 }
