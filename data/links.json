@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-13T05:26:25.097Z",
+  "last_updated": "2026-02-13T05:26:36.276Z",
   "categories": {
     "supplements": [
       {
@@ -292,6 +292,20 @@
         "added_date": "2026-02-13"
       },
       {
+        "id": "recJkzERmt4mgNHoa",
+        "title": "Short-term hormonal modulation with mifepristone does not induce oncogenic changes in the endometrium of BRCA1/2 pathogenic variant carriers.",
+        "summary": "Mifepristone, a potential breast cancer prevention drug for BRCA1/2 mutation carriers, showed no harmful changes in the endometrium during short-term use.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41673285/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-13"
+      },
+      {
         "id": "recJYch5iLvuo9C1O",
         "title": "SAICAR Drives T Regulatory Cell Differentiation and FOXP3 Maintenance to Promote Immunotherapy Resistance.",
         "summary": "SAICAR, a metabolite, promotes suppressive T cells in tumors, blocking immunotherapy effectiveness and suggesting a potential treatment strategy.",
@@ -416,20 +430,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Lung",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-12"
-      },
-      {
-        "id": "recGYfcQoVu0DPXiU",
-        "title": "NKG2D upregulation sensitizes tumors to combined anti-PD1 and anti-VEGF therapy and prevents hearing loss.",
-        "summary": "Combining anti-PD1 and anti-VEGF therapies inhibits vestibular schwannoma growth by improving immune cell infiltration and cytotoxicity.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41673019/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
           "Leukemia"
         ],
         "quality_score": 15,
@@ -878,9 +878,9 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6199,
+    "archive_count": 6200,
     "archive_supplements": 729,
-    "archive_off_label": 261,
+    "archive_off_label": 262,
     "archive_biomarkers": 3574,
     "archive_trials": 1337
   }
