@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-13T05:12:08.750Z",
+  "last_updated": "2026-02-13T05:12:18.210Z",
   "categories": {
     "supplements": [
       {
@@ -50,6 +50,20 @@
         "title": "High-protein diets increase microbiota associated p-cresol production in the colon and reduce gut barrier function in a sex-dependent manner.",
         "summary": "In female and male pigs, high-protein diets increased harmful gut bacteria metabolites and reduced gut barrier function differently by sex.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41677896/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-13"
+      },
+      {
+        "id": "recpt09vjbBh93v4q",
+        "title": "Associations of six dietary patterns with all-cause and cause-specific mortality among individuals with depression in the UK biobank: a prospective cohort study.",
+        "summary": "Diet plays an important role in the development of depression, but the impact of dietary patterns on mortality in individuals with depression is unclear.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41677888/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -200,20 +214,6 @@
         "cancer_types": [
           "Colorectal",
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-12"
-      },
-      {
-        "id": "recP7xHW8ytYGf91a",
-        "title": "Formulation and characterization of pH-sensitive double emulsion sodium alginate/polyvinyl alcohol/graphene quantum dot for efficient quercetin delivery to A549 cells.",
-        "summary": "A novel nanocarrier system using sodium alginate, graphene quantum dots, and quercetin showed enhanced targeted delivery and anticancer effects in lung cancer cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41668392/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -879,8 +879,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6119,
-    "archive_supplements": 725,
+    "archive_count": 6120,
+    "archive_supplements": 726,
     "archive_off_label": 260,
     "archive_biomarkers": 3504,
     "archive_trials": 1332
