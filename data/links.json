@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-12T23:01:13.383Z",
+  "last_updated": "2026-02-13T05:02:40.239Z",
   "categories": {
     "supplements": [
       {
@@ -441,6 +441,49 @@
     ],
     "biomarkers": [
       {
+        "id": "recV06H87QjVRXfhB",
+        "title": "Decoding RNA-protein interactions using high-throughput methods.",
+        "summary": "High-throughput experimental methods are revealing the complex interactions between RNA-binding proteins and RNA sequences, enhancing our understanding of gene expression mechanisms.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41605250/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-13"
+      },
+      {
+        "id": "recbptH5duS98EakG",
+        "title": "Assessment of cytotoxicity and induction of apoptosis by cytolysin-A in MCF-7 human breast cancer cell line.",
+        "summary": "Cytolysin A shows promising selective toxicity against MCF-7 breast cancer cells by inducing apoptosis while minimally affecting normal cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41675308/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-13"
+      },
+      {
+        "id": "recD0eHzMJTs9L8ik",
+        "title": "ARP2/3 complex mediates the neuropathology of PTEN-deficient human neural cells downstream of mTORC1 and mTORC2 hyperactivation.",
+        "summary": "In PTEN-deficient neural cells, ARP2/3 complex inhibition can reverse neurodevelopmental disorder symptoms by reducing cell proliferation and neuronal hyperactivity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41678301/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-13"
+      },
+      {
         "id": "recybyMascI7aAG95",
         "title": "Brain Network Patterns in Patients With Multiple System Atrophy: Spatial Independent Component Analysis Using FDG-PET Data.",
         "summary": "Researchers used advanced brain imaging to map unique metabolic network patterns in multiple system atrophy, potentially improving understanding of this complex neurodegenerative disease.",
@@ -615,26 +658,14 @@
         "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-02-12"
-      },
+      }
+    ],
+    "trials": [
       {
-        "id": "recYipp55l3xnHTIo",
-        "title": "Magnetic nanoparticles for cancer theranostics.",
-        "summary": "Magnetic nanoparticles show promise in cancer treatment by enabling targeted therapies, precise imaging, and personalized diagnostic approaches across multiple cancer types.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41671587/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-12"
-      },
-      {
-        "id": "recu4HbjexLdD1LPd",
-        "title": "Selective multimodal deep learning for reliable breast cancer subtype classification from histopathology and genomic data.",
-        "summary": "A multimodal deep learning approach combining histology and genomic data achieves 94.93% accuracy in classifying breast cancer subtypes with improved computational efficiency.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41671586/",
+        "id": "recbptH5duS98EakG",
+        "title": "Assessment of cytotoxicity and induction of apoptosis by cytolysin-A in MCF-7 human breast cancer cell line.",
+        "summary": "Cytolysin A shows promising selective toxicity against MCF-7 breast cancer cells by inducing apoptosis while minimally affecting normal cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41675308/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -643,24 +674,8 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
-        "added_date": "2026-02-12"
+        "added_date": "2026-02-13"
       },
-      {
-        "id": "recUSV3l1wyxyn29c",
-        "title": "Prognostic Model Combining Mutational and Cytogenetic Profiles in Acute Myeloid Leukemia Treated with Venetoclax and Hypomethylating Agents.",
-        "summary": "A genetic risk model for acute myeloid leukemia patients treated with venetoclax and hypomethylating agents successfully predicts survival outcomes based on specific mutations and chromosomal changes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41671569/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-12"
-      }
-    ],
-    "trials": [
       {
         "id": "recAJCMpeNPpZcxy3",
         "title": "Follow the 'DOTs': Vδ1+ γδ T cells as effectors of cancer immunotherapy.",
@@ -865,20 +880,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-12"
-      },
-      {
-        "id": "recImXGuvY5o8jZCX",
-        "title": "Long-Term Survivorship After Chimeric Antigen Receptor T-Cell Therapy for Hematologic Malignancies.",
-        "summary": "CAR T-cell therapy shows promise for treating blood cancers, but long-term survivors still face risks of infections and secondary complications requiring careful follow-up.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41671523/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-12"
       }
     ]
   },
@@ -888,10 +889,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6065,
+    "archive_count": 6066,
     "archive_supplements": 722,
     "archive_off_label": 258,
-    "archive_biomarkers": 3470,
+    "archive_biomarkers": 3471,
     "archive_trials": 1317
   }
 }
