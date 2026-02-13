@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-13T05:11:04.635Z",
+  "last_updated": "2026-02-13T05:11:15.580Z",
   "categories": {
     "supplements": [
       {
@@ -25,6 +25,21 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-13"
+      },
+      {
+        "id": "recBoCpIB3bIDKq3y",
+        "title": "Vascular normalization by erianin unleashes CAR-T immunotherapy in glioblastoma.",
+        "summary": "Erianin, a natural compound, normalizes blood vessels in glioblastoma, improving CAR-T cell therapy by enhancing T cell infiltration and activity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41677939/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia",
+          "Brain"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -201,20 +216,6 @@
           "Lung"
         ],
         "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-12"
-      },
-      {
-        "id": "recAal8XmBLVObW9m",
-        "title": "Hormonal rewiring of immunity during dietary restriction ensures host defense and systemic glucose conservation.",
-        "summary": "Glucocorticoid hormones help the immune system adapt to food scarcity by balancing pathogen defense and glucose conservation.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41672072/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-12"
       }
@@ -878,10 +879,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6113,
+    "archive_count": 6114,
     "archive_supplements": 724,
     "archive_off_label": 260,
-    "archive_biomarkers": 3501,
+    "archive_biomarkers": 3502,
     "archive_trials": 1330
   }
 }
