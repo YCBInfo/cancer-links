@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-13T07:02:52.407Z",
+  "last_updated": "2026-02-13T07:03:03.648Z",
   "categories": {
     "supplements": [
       {
@@ -145,6 +145,21 @@
         "added_date": "2026-02-13"
       },
       {
+        "id": "rec4X5xIT1TwWjdCj",
+        "title": "Dual inhibition of ERα/NF-κB pathways coupled with sonodynamic therapy via a multifunctional AIEgen.",
+        "summary": "A novel sonosensitizer (TBEP) combines ultrasound, targeted therapy, and anti-inflammatory effects to precisely attack breast cancer cells and their surrounding environment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41677037/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-13"
+      },
+      {
         "id": "recyTDwPj3m5e2UeX",
         "title": "Pharmacokinetic studies and synergistic antitumor effects of cannabichromene and cannabidiol in drug-resistant breast cancers.",
         "summary": "Cannabichromene and cannabidiol combined effectively inhibit drug-resistant triple-negative breast cancer by reducing tumor growth and blocking key cancer-promoting pathways.",
@@ -197,21 +212,6 @@
         "cancer_types": [
           "Lung",
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-12"
-      },
-      {
-        "id": "recueYVJrFuTHGYV3",
-        "title": "Five daucane-type sesquiterpenes isolated from the roots of Ferula songarica Pall. ex Schult. and their anti-gastric cancer activity.",
-        "summary": "Researchers discovered three potent compounds from Ferula songarica roots that effectively inhibit gastric cancer cell growth in laboratory tests.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41668466/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia",
-          "Stomach"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -877,10 +877,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6230,
+    "archive_count": 6231,
     "archive_supplements": 730,
     "archive_off_label": 263,
-    "archive_biomarkers": 3597,
+    "archive_biomarkers": 3598,
     "archive_trials": 1342
   }
 }
