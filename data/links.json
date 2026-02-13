@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-13T05:03:06.230Z",
+  "last_updated": "2026-02-13T05:03:19.818Z",
   "categories": {
     "supplements": [
       {
@@ -221,6 +221,21 @@
     ],
     "off_label": [
       {
+        "id": "rechQ2y0eNRGhOkLB",
+        "title": "Neratinib, a Clinical Drug Treating Breast Cancer, Protects Against Vascular Inflammation and Atherosclerosis.",
+        "summary": "Neratinib, a breast cancer drug, demonstrates potential to reduce vascular inflammation and slow atherosclerosis progression by targeting key inflammatory pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41510568/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Breast",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-13"
+      },
+      {
         "id": "recJYch5iLvuo9C1O",
         "title": "SAICAR Drives T Regulatory Cell Differentiation and FOXP3 Maintenance to Promote Immunotherapy Resistance.",
         "summary": "SAICAR, a metabolite, promotes suppressive T cells in tumors, blocking immunotherapy effectiveness and suggesting a potential treatment strategy.",
@@ -422,21 +437,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-12"
-      },
-      {
-        "id": "rec7BCrxZJUGWuOuG",
-        "title": "Knock-in reporter constructs and drug screening for compounds to restore RKIP expression in cancer.",
-        "summary": "Researchers identified eight FDA-approved compounds that can boost RKIP expression in breast cancer, potentially offering a new therapeutic approach.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41671790/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Breast",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-12"
       }
     ],
     "biomarkers": [
@@ -492,6 +492,21 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-13"
+      },
+      {
+        "id": "rechQ2y0eNRGhOkLB",
+        "title": "Neratinib, a Clinical Drug Treating Breast Cancer, Protects Against Vascular Inflammation and Atherosclerosis.",
+        "summary": "Neratinib, a breast cancer drug, demonstrates potential to reduce vascular inflammation and slow atherosclerosis progression by targeting key inflammatory pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41510568/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Breast",
+          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -640,24 +655,6 @@
         "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-02-12"
-      },
-      {
-        "id": "recIX0bmOaFluo6LT",
-        "title": "Tubulin α-1C chain as a central signalling hub in carcinogenesis: Towards a conceptual framework.",
-        "summary": "TUBA1C protein is consistently overexpressed across multiple cancer types, promoting tumor progression, metastasis, and treatment resistance through diverse signaling pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41539178/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal",
-          "Leukemia",
-          "Bladder",
-          "Kidney",
-          "Brain"
-        ],
-        "quality_score": 24,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-12"
       }
     ],
     "trials": [
@@ -701,6 +698,35 @@
           "Leukemia"
         ],
         "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-13"
+      },
+      {
+        "id": "rechQ2y0eNRGhOkLB",
+        "title": "Neratinib, a Clinical Drug Treating Breast Cancer, Protects Against Vascular Inflammation and Atherosclerosis.",
+        "summary": "Neratinib, a breast cancer drug, demonstrates potential to reduce vascular inflammation and slow atherosclerosis progression by targeting key inflammatory pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41510568/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Breast",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-13"
+      },
+      {
+        "id": "recHDMYyJe9c6KGoF",
+        "title": "Cytokine use in the Hematopoietic Subsyndrome of Acute Radiation Syndrome (H-ARS): Implications for the role of cytokines in a mass casualty radiologic/nuclear (R/N) emergency.",
+        "summary": "Sargramostim showed promising survival benefits in non-human primates exposed to radiation, supporting its potential use as a cytokine treatment for acute radiation syndrome.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41678840/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 19,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-13"
       },
@@ -851,35 +877,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-12"
-      },
-      {
-        "id": "recu4HbjexLdD1LPd",
-        "title": "Selective multimodal deep learning for reliable breast cancer subtype classification from histopathology and genomic data.",
-        "summary": "A multimodal deep learning approach combining histology and genomic data achieves 94.93% accuracy in classifying breast cancer subtypes with improved computational efficiency.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41671586/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-12"
-      },
-      {
-        "id": "recUSV3l1wyxyn29c",
-        "title": "Prognostic Model Combining Mutational and Cytogenetic Profiles in Acute Myeloid Leukemia Treated with Venetoclax and Hypomethylating Agents.",
-        "summary": "A genetic risk model for acute myeloid leukemia patients treated with venetoclax and hypomethylating agents successfully predicts survival outcomes based on specific mutations and chromosomal changes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41671569/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-12"
       }
     ]
   },
@@ -889,10 +886,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6068,
+    "archive_count": 6069,
     "archive_supplements": 722,
     "archive_off_label": 258,
-    "archive_biomarkers": 3473,
+    "archive_biomarkers": 3474,
     "archive_trials": 1317
   }
 }
