@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-13T05:12:18.210Z",
+  "last_updated": "2026-02-13T05:12:29.264Z",
   "categories": {
     "supplements": [
       {
@@ -70,6 +70,20 @@
           "Leukemia"
         ],
         "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-13"
+      },
+      {
+        "id": "recvZUSRjpABUEqSV",
+        "title": "Fungi as a source of anticancer agents: metabolic products and their functional implications.",
+        "summary": "Fungi, especially endophytic species, produce diverse metabolites that can kill cancer cells through multiple mechanisms like oxidative stress and mitochondrial damage.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41677882/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-13"
       },
@@ -198,21 +212,6 @@
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-12"
-      },
-      {
-        "id": "recrrz8SLcgqWf5il",
-        "title": "Quaternized Chitosan-Ferulic Acid-Based Nanomicelles for Dimethoxycurcumin Delivery and Synergistic Colorectal Adenocarcinoma Therapy with 5-Fluorouracil.",
-        "summary": "Nanomicelles loaded with dimethoxycurcumin enhanced colorectal cancer cell death when combined with 5-fluorouracil, showing selective tumor targeting and reduced toxicity.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41670546/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal",
           "Leukemia"
         ],
         "quality_score": 15,
@@ -879,10 +878,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6120,
+    "archive_count": 6121,
     "archive_supplements": 726,
     "archive_off_label": 260,
-    "archive_biomarkers": 3504,
+    "archive_biomarkers": 3505,
     "archive_trials": 1332
   }
 }
