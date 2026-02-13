@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-13T05:11:36.171Z",
+  "last_updated": "2026-02-13T05:11:50.705Z",
   "categories": {
     "supplements": [
       {
@@ -40,6 +40,20 @@
         "cancer_types": [
           "Leukemia",
           "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-13"
+      },
+      {
+        "id": "recsqX4FWGelPjkPH",
+        "title": "High-protein diets increase microbiota associated p-cresol production in the colon and reduce gut barrier function in a sex-dependent manner.",
+        "summary": "In female and male pigs, high-protein diets increased harmful gut bacteria metabolites and reduced gut barrier function differently by sex.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41677896/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -196,20 +210,6 @@
         "title": "Formulation and characterization of pH-sensitive double emulsion sodium alginate/polyvinyl alcohol/graphene quantum dot for efficient quercetin delivery to A549 cells.",
         "summary": "A novel nanocarrier system using sodium alginate, graphene quantum dots, and quercetin showed enhanced targeted delivery and anticancer effects in lung cancer cells.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41668392/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-12"
-      },
-      {
-        "id": "recAVcLn44jphs9DZ",
-        "title": "Naringenin roled octacalcium phosphate reinforced with polyvinyl alcohol composite for sarcoma affected bone repair.",
-        "summary": "A naringenin-enhanced calcium phosphate composite showed promising potential for bone repair and cancer cell suppression in osteosarcoma, increasing stem cell survival and inhibiting cancer cell growth.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/38498946/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -879,10 +879,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6116,
+    "archive_count": 6117,
     "archive_supplements": 725,
     "archive_off_label": 260,
     "archive_biomarkers": 3503,
-    "archive_trials": 1330
+    "archive_trials": 1331
   }
 }
