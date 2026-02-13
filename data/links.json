@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-13T05:22:21.265Z",
+  "last_updated": "2026-02-13T05:22:32.942Z",
   "categories": {
     "supplements": [
       {
@@ -97,6 +97,20 @@
         "cancer_types": [
           "Leukemia",
           "Ovarian"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-13"
+      },
+      {
+        "id": "recHvkTgmuFyQTnjF",
+        "title": "Multiomics combined drugs to explore the potential mechanism and treatment of ankylosing spondylitis.",
+        "summary": "Multiomics research reveals elevated CD8+ memory T cells and potential guava leaf compounds as a promising treatment for ankylosing spondylitis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41673882/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -202,21 +216,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
-        "added_date": "2026-02-12"
-      },
-      {
-        "id": "recOwdubXKkZW7gns",
-        "title": "Natural exosome-like nanovesicles from Smilax China rhizome induce mitophagy-dependent ferroptosis in hepatocellular carcinoma via GPX4/ACSL4 axis.",
-        "summary": "Natural nanovesicles from a Chinese medicinal plant trigger a specific type of cell death in liver cancer by targeting mitochondrial processes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41529459/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia",
-          "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
         "added_date": "2026-02-12"
       }
     ],
@@ -879,10 +878,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6176,
+    "archive_count": 6177,
     "archive_supplements": 729,
     "archive_off_label": 261,
-    "archive_biomarkers": 3553,
+    "archive_biomarkers": 3554,
     "archive_trials": 1335
   }
 }
