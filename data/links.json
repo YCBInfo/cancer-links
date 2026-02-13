@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-13T07:02:39.982Z",
+  "last_updated": "2026-02-13T07:02:52.407Z",
   "categories": {
     "supplements": [
       {
@@ -131,6 +131,20 @@
         "added_date": "2026-02-13"
       },
       {
+        "id": "rec7G5qCPPnsvINSc",
+        "title": "Natural Product Modulators of Protein-Protein Interactions: A Comprehensive Review.",
+        "summary": "Natural products show promise for targeting protein interactions in potential cancer therapies by disrupting harmful molecular complexes or stabilizing beneficial ones.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41677319/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-13"
+      },
+      {
         "id": "recyTDwPj3m5e2UeX",
         "title": "Pharmacokinetic studies and synergistic antitumor effects of cannabichromene and cannabidiol in drug-resistant breast cancers.",
         "summary": "Cannabichromene and cannabidiol combined effectively inhibit drug-resistant triple-negative breast cancer by reducing tumor growth and blocking key cancer-promoting pathways.",
@@ -198,20 +212,6 @@
         "cancer_types": [
           "Leukemia",
           "Stomach"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-12"
-      },
-      {
-        "id": "recsTTVrSMIFJOFVe",
-        "title": "Modulating the gut-reproductive tract axis: microbial influence on gynaecological cancer pathogenesis and treatment.",
-        "summary": "Gut microbiota composition significantly influences ovarian, endometrial, and cervical cancer development, progression, and treatment response through immune and metabolic mechanisms.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41667242/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -877,10 +877,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6229,
+    "archive_count": 6230,
     "archive_supplements": 730,
     "archive_off_label": 263,
-    "archive_biomarkers": 3596,
+    "archive_biomarkers": 3597,
     "archive_trials": 1342
   }
 }
