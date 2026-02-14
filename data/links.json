@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-14T05:13:18.980Z",
+  "last_updated": "2026-02-14T05:13:30.249Z",
   "categories": {
     "supplements": [
       {
@@ -38,6 +38,21 @@
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-14"
+      },
+      {
+        "id": "recasCxOZnEBSYDJK",
+        "title": "Synergistic anticancer effects of tamoxifen in combination with fisetin and chrysin on breast cancer cells: insights into viability, migration, and apoptosis.",
+        "summary": "Combining tamoxifen with fisetin and chrysin significantly enhanced breast cancer cell death and reduced cancer cell migration and survival.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41686196/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast",
           "Leukemia"
         ],
         "quality_score": 15,
@@ -199,21 +214,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
-        "added_date": "2026-02-13"
-      },
-      {
-        "id": "reci9YYD021VOmSC4",
-        "title": "Evaluating the Effectiveness of Supervised Practice or Distance Supervised Physical Activity (Walking) in the Overall Management of Fatigue in Breast Cancer Patients During Hormonal Therapy: Pilot Study",
-        "summary": "A supervised walking program twice weekly for 6 weeks significantly reduced fatigue in breast cancer patients undergoing hormonal therapy.",
-        "url": "https://clinicaltrials.gov/study/NCT02785861",
-        "source": "ClinicalTrials.gov",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast",
-          "Leukemia"
-        ],
-        "quality_score": 13,
-        "pub_date": "2026-02-12",
         "added_date": "2026-02-13"
       }
     ],
@@ -878,10 +878,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6376,
+    "archive_count": 6377,
     "archive_supplements": 737,
     "archive_off_label": 270,
     "archive_biomarkers": 3675,
-    "archive_trials": 1396
+    "archive_trials": 1397
   }
 }
