@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-14T05:18:05.495Z",
+  "last_updated": "2026-02-14T05:18:16.405Z",
   "categories": {
     "supplements": [
       {
@@ -82,6 +82,20 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-14"
+      },
+      {
+        "id": "recAMLxuWfamYp7Qg",
+        "title": "Mechanistic insights into the anti-inflammatory effects of isocoronarin D associated with reduced PKCδ and PI3K/Akt signalling in LPS-activated macrophages.",
+        "summary": "Isocoronarin D from Curcuma comosa demonstrates anti-inflammatory effects by reducing inflammatory proteins and signaling pathways in macrophage cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41680540/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -194,20 +208,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41673882/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-13"
-      },
-      {
-        "id": "recLGWdmDBes6vf2b",
-        "title": "Total Synthesis and Complete Stereochemical Assignment of the Marine Bromotriterpenoid (+)-Callicladol through a Combined Approach Using Model Syntheses and Nuclear Magnetic Resonance Calculations.",
-        "summary": "Researchers synthesized callicladol from a marine alga and confirmed its complex structure, revealing potential cancer cell growth inhibition through sophisticated chemical techniques.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41678745/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Leukemia"
         ],
@@ -875,10 +875,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6403,
+    "archive_count": 6404,
     "archive_supplements": 738,
     "archive_off_label": 271,
-    "archive_biomarkers": 3697,
+    "archive_biomarkers": 3698,
     "archive_trials": 1399
   }
 }
