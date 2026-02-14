@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-14T05:13:40.894Z",
+  "last_updated": "2026-02-14T05:13:51.687Z",
   "categories": {
     "supplements": [
       {
@@ -53,6 +53,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Breast",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-14"
+      },
+      {
+        "id": "recHMoEQniTzWkic6",
+        "title": "Noninvasive Salivary Ketone Monitoring: A Ratiometric Pdot Biosensor toward Personalized Ketogenic Management.",
+        "summary": "A novel saliva-based sensor can quickly and accurately detect ketone levels, offering a noninvasive method for monitoring metabolic health and diet management.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41686130/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
           "Leukemia"
         ],
         "quality_score": 15,
@@ -195,21 +209,6 @@
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-13"
-      },
-      {
-        "id": "rec4X5xIT1TwWjdCj",
-        "title": "Dual inhibition of ERα/NF-κB pathways coupled with sonodynamic therapy via a multifunctional AIEgen.",
-        "summary": "A novel sonosensitizer (TBEP) combines ultrasound, targeted therapy, and anti-inflammatory effects to precisely attack breast cancer cells and their surrounding environment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41677037/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast",
           "Leukemia"
         ],
         "quality_score": 15,
@@ -878,8 +877,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6378,
-    "archive_supplements": 737,
+    "archive_count": 6379,
+    "archive_supplements": 738,
     "archive_off_label": 270,
     "archive_biomarkers": 3676,
     "archive_trials": 1397
