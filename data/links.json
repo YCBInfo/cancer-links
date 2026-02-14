@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-14T05:15:37.267Z",
+  "last_updated": "2026-02-14T05:15:48.045Z",
   "categories": {
     "supplements": [
       {
@@ -290,6 +290,20 @@
         "added_date": "2026-02-14"
       },
       {
+        "id": "rec2afWpY1G7QOwws",
+        "title": "Adherence to Dental Care in Head and Neck Cancer Patients Post-Radiation Therapy: A Scoping Review.",
+        "summary": "Patients with head and neck cancer often struggle to follow dental care guidelines after radiation therapy, which can impact their overall recovery and health.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41685693/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-14"
+      },
+      {
         "id": "rechQ2y0eNRGhOkLB",
         "title": "Neratinib, a Clinical Drug Treating Breast Cancer, Protects Against Vascular Inflammation and Atherosclerosis.",
         "summary": "Neratinib, a breast cancer drug, demonstrates potential to reduce vascular inflammation and slow atherosclerosis progression by targeting key inflammatory pathways.",
@@ -414,20 +428,6 @@
           "Breast",
           "Leukemia",
           "Ovarian"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-13"
-      },
-      {
-        "id": "rec9XSA8KuU0mdMNy",
-        "title": "Disulfiram metabolite Cu(DDC)2 enhances radionuclide uptake in vivo revealing insights into tumoural ablation resistance.",
-        "summary": "A copper-containing derivative of disulfiram improved iodine uptake in tumors, potentially enhancing radioiodine treatment effectiveness for cancer patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41679192/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -877,10 +877,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6389,
+    "archive_count": 6390,
     "archive_supplements": 738,
     "archive_off_label": 270,
-    "archive_biomarkers": 3686,
+    "archive_biomarkers": 3687,
     "archive_trials": 1397
   }
 }
