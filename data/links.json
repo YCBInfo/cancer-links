@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-14T05:06:49.922Z",
+  "last_updated": "2026-02-14T05:07:00.279Z",
   "categories": {
     "supplements": [
       {
@@ -251,6 +251,20 @@
         "added_date": "2026-02-14"
       },
       {
+        "id": "recMo8hqNEEAgRKOS",
+        "title": "In-silico target prediction and pathway analysis of propranolol as a potential therapeutic agent for hepatocellular carcinoma.",
+        "summary": "Propranolol shows potential to target key cancer-driving proteins in hepatocellular carcinoma, suggesting it could be a promising therapeutic drug.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41686791/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-14"
+      },
+      {
         "id": "rechQ2y0eNRGhOkLB",
         "title": "Neratinib, a Clinical Drug Treating Breast Cancer, Protects Against Vascular Inflammation and Atherosclerosis.",
         "summary": "Neratinib, a breast cancer drug, demonstrates potential to reduce vascular inflammation and slow atherosclerosis progression by targeting key inflammatory pathways.",
@@ -417,21 +431,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-13"
-      },
-      {
-        "id": "rec7dPaEiikKcEJne",
-        "title": "Metformin Suppresses Glioblastoma Tumor Growth and Progression Through the AMPK/FoxO3a/Survivin Axis.",
-        "summary": "Metformin suppresses glioblastoma tumor growth by activating a molecular pathway that reduces survivin and inhibits cancer cell survival and invasion.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41677673/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia",
-          "Brain"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -881,10 +880,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6339,
+    "archive_count": 6340,
     "archive_supplements": 734,
     "archive_off_label": 268,
-    "archive_biomarkers": 3646,
+    "archive_biomarkers": 3647,
     "archive_trials": 1393
   }
 }
