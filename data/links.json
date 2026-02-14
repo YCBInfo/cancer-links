@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-14T05:19:19.128Z",
+  "last_updated": "2026-02-14T05:19:31.359Z",
   "categories": {
     "supplements": [
       {
@@ -319,6 +319,20 @@
         "added_date": "2026-02-14"
       },
       {
+        "id": "rec4E7SK37oBcn4AF",
+        "title": "Clinical outcomes and genomic alterations in patients with metastatic malignant phyllodes tumors.",
+        "summary": "Genomic profiling of rare metastatic phyllodes breast tumors reveals potential targeted treatment insights, though standard therapy remains undefined.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41206092/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-14"
+      },
+      {
         "id": "rechQ2y0eNRGhOkLB",
         "title": "Neratinib, a Clinical Drug Treating Breast Cancer, Protects Against Vascular Inflammation and Atherosclerosis.",
         "summary": "Neratinib, a breast cancer drug, demonstrates potential to reduce vascular inflammation and slow atherosclerosis progression by targeting key inflammatory pathways.",
@@ -414,21 +428,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-13"
-      },
-      {
-        "id": "recLDk3Y5hVi5Ekun",
-        "title": "Weight Loss Patterns and Clinical Outcomes of GLP1 Receptor Agonists in Breast Cancer Survivors.",
-        "summary": "In breast cancer survivors, GLP1 receptor agonists were associated with modest weight loss and significantly improved overall survival.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41677473/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Breast",
-          "Leukemia"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-13"
       }
@@ -876,10 +875,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6410,
+    "archive_count": 6411,
     "archive_supplements": 740,
     "archive_off_label": 271,
-    "archive_biomarkers": 3702,
+    "archive_biomarkers": 3703,
     "archive_trials": 1399
   }
 }
