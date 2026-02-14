@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-14T10:02:15.697Z",
+  "last_updated": "2026-02-14T10:02:26.519Z",
   "categories": {
     "supplements": [
       {
@@ -405,6 +405,20 @@
         "added_date": "2026-02-14"
       },
       {
+        "id": "rec6nVyOY98zR6oPq",
+        "title": "Single-Mitochondrion ATP Profiling Directs Discovery of Targetable OXPHOS Dependency in Cancers.",
+        "summary": "A new nano-flow cytometry method reveals higher mitochondrial ATP levels in breast and colon cancer cells, enabling targeted metabolic inhibitor screening.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41684301/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-14"
+      },
+      {
         "id": "rechQ2y0eNRGhOkLB",
         "title": "Neratinib, a Clinical Drug Treating Breast Cancer, Protects Against Vascular Inflammation and Atherosclerosis.",
         "summary": "Neratinib, a breast cancer drug, demonstrates potential to reduce vascular inflammation and slow atherosclerosis progression by targeting key inflammatory pathways.",
@@ -416,20 +430,6 @@
           "Leukemia"
         ],
         "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-13"
-      },
-      {
-        "id": "recOzBZucae3tCHZ4",
-        "title": "Mass Spectrometry Monitoring of Water Dimer Radical Cations for Highly Efficient Dye Degradation.",
-        "summary": "Water dimer radical cations efficiently degraded rhodamine B dye, achieving 99% removal in 8 minutes without additional chemicals, using a corona discharge method.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41678323/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-13"
       }
@@ -877,10 +877,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6514,
+    "archive_count": 6515,
     "archive_supplements": 756,
     "archive_off_label": 273,
-    "archive_biomarkers": 3771,
+    "archive_biomarkers": 3772,
     "archive_trials": 1416
   }
 }
