@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-14T05:04:49.551Z",
+  "last_updated": "2026-02-14T05:05:02.338Z",
   "categories": {
     "supplements": [
       {
@@ -815,6 +815,21 @@
         "added_date": "2026-02-14"
       },
       {
+        "id": "recGnrQvYmzQ1w5ZI",
+        "title": "Surface Tracking-Assisted Multi-Cycle 4D MRI Motion Modeling for Lung Radiotherapy: A Preliminary Validation Study.",
+        "summary": "Researchers developed a non-invasive method using surface tracking and MRI to more accurately predict lung motion during radiotherapy, potentially improving treatment precision.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41687130/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-14"
+      },
+      {
         "id": "recbptH5duS98EakG",
         "title": "Assessment of cytotoxicity and induction of apoptosis by cytolysin-A in MCF-7 human breast cancer cell line.",
         "summary": "Cytolysin A shows promising selective toxicity against MCF-7 breast cancer cells by inducing apoptosis while minimally affecting normal cells.",
@@ -856,21 +871,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-13"
-      },
-      {
-        "id": "rechQ2y0eNRGhOkLB",
-        "title": "Neratinib, a Clinical Drug Treating Breast Cancer, Protects Against Vascular Inflammation and Atherosclerosis.",
-        "summary": "Neratinib, a breast cancer drug, demonstrates potential to reduce vascular inflammation and slow atherosclerosis progression by targeting key inflammatory pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41510568/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Breast",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-13"
       }
     ]
   },
@@ -880,10 +880,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6328,
+    "archive_count": 6329,
     "archive_supplements": 734,
     "archive_off_label": 268,
-    "archive_biomarkers": 3637,
+    "archive_biomarkers": 3638,
     "archive_trials": 1391
   }
 }
