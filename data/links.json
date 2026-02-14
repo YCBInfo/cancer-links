@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-14T05:24:37.949Z",
+  "last_updated": "2026-02-14T05:24:49.157Z",
   "categories": {
     "supplements": [
       {
@@ -346,6 +346,21 @@
         "added_date": "2026-02-14"
       },
       {
+        "id": "rec0nlZaO1eRkdaA6",
+        "title": "The antitumor mechanism of oclacitinib in canine lymphoma.",
+        "summary": "Oclacitinib inhibits cancer cell growth in canine lymphoma by blocking JAK1/STAT5 signaling, potentially offering a new treatment approach for certain lymphoma types.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41680286/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Melanoma",
+          "Lymphoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-14"
+      },
+      {
         "id": "rechQ2y0eNRGhOkLB",
         "title": "Neratinib, a Clinical Drug Treating Breast Cancer, Protects Against Vascular Inflammation and Atherosclerosis.",
         "summary": "Neratinib, a breast cancer drug, demonstrates potential to reduce vascular inflammation and slow atherosclerosis progression by targeting key inflammatory pathways.",
@@ -411,20 +426,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-13"
-      },
-      {
-        "id": "recJkzERmt4mgNHoa",
-        "title": "Short-term hormonal modulation with mifepristone does not induce oncogenic changes in the endometrium of BRCA1/2 pathogenic variant carriers.",
-        "summary": "Mifepristone, a potential breast cancer prevention drug for BRCA1/2 mutation carriers, showed no harmful changes in the endometrium during short-term use.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41673285/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -874,10 +875,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6440,
+    "archive_count": 6441,
     "archive_supplements": 740,
     "archive_off_label": 272,
     "archive_biomarkers": 3728,
-    "archive_trials": 1402
+    "archive_trials": 1403
   }
 }
