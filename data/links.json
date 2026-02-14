@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-14T05:02:38.203Z",
+  "last_updated": "2026-02-14T05:02:52.928Z",
   "categories": {
     "supplements": [
       {
@@ -495,6 +495,21 @@
         "added_date": "2026-02-14"
       },
       {
+        "id": "recOVTfiHwHNhN7ed",
+        "title": "Suppressive role of SCN4B in the epithelial‑mesenchymal transition of lung adenocarcinoma.",
+        "summary": "In lung adenocarcinoma, low SCN4B expression promotes cancer cell migration and invasion, while restoring SCN4B levels suppresses tumor progression.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41685607/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-14"
+      },
+      {
         "id": "recV06H87QjVRXfhB",
         "title": "Decoding RNA-protein interactions using high-throughput methods.",
         "summary": "High-throughput experimental methods are revealing the complex interactions between RNA-binding proteins and RNA sequences, enhancing our understanding of gene expression mechanisms.",
@@ -636,20 +651,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-13"
-      },
-      {
-        "id": "rec2MSdl4IH2em2pH",
-        "title": "Integrated Near-Infrared Light-Driven Janus Micromotor-Fluorescent Nanodiamond Dynamic Sensing Platform for Active Motion-Enhanced Biodetection.",
-        "summary": "A near-infrared-powered micromotor platform with fluorescent nanodiamonds enhances microRNA and protein detection sensitivity by improving mass transport and capture efficiency.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41678651/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-13"
       }
     ],
     "trials": [
@@ -692,6 +693,21 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-14"
+      },
+      {
+        "id": "recOVTfiHwHNhN7ed",
+        "title": "Suppressive role of SCN4B in the epithelial‑mesenchymal transition of lung adenocarcinoma.",
+        "summary": "In lung adenocarcinoma, low SCN4B expression promotes cancer cell migration and invasion, while restoring SCN4B levels suppresses tumor progression.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41685607/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung",
+          "Leukemia"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-14"
       },
@@ -851,21 +867,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-13"
-      },
-      {
-        "id": "recKwM5DwfxPXI3JT",
-        "title": "Synergistic Gene Immunotherapy for Lung Cancer via Targeted Nanomedicine Restoring Genetic Tumor Suppression and Activating STING Pathway.",
-        "summary": "A targeted nanoparticle delivery system restores tumor suppressor genes and activates immune response, effectively inhibiting non-small cell lung cancer progression.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41678601/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-13"
       }
     ]
   },
@@ -875,10 +876,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6316,
+    "archive_count": 6317,
     "archive_supplements": 734,
     "archive_off_label": 267,
-    "archive_biomarkers": 3626,
+    "archive_biomarkers": 3627,
     "archive_trials": 1391
   }
 }
