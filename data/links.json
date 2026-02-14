@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-14T05:21:42.860Z",
+  "last_updated": "2026-02-14T05:21:51.621Z",
   "categories": {
     "supplements": [
       {
@@ -333,6 +333,20 @@
         "added_date": "2026-02-14"
       },
       {
+        "id": "rec5CQcCdLRkBBWjg",
+        "title": "CXCR2 affects sensitization of radioresistant HPV-negative head and neck squamous cell carcinoma cells by ABT-263.",
+        "summary": "ABT-263 targets the CXCR2 pathway to sensitize radiation-resistant HPV-negative head and neck cancer cells to treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41680869/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-14"
+      },
+      {
         "id": "rechQ2y0eNRGhOkLB",
         "title": "Neratinib, a Clinical Drug Treating Breast Cancer, Protects Against Vascular Inflammation and Atherosclerosis.",
         "summary": "Neratinib, a breast cancer drug, demonstrates potential to reduce vascular inflammation and slow atherosclerosis progression by targeting key inflammatory pathways.",
@@ -414,20 +428,6 @@
           "Breast"
         ],
         "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-13"
-      },
-      {
-        "id": "recMd1WwxfCgAi1ad",
-        "title": "Long-term MAPK inhibition of childhood refractory-Langerhans cell histiocytosis: an observational study on 288 patients.",
-        "summary": "In children with refractory Langerhans cell histiocytosis, MAPK inhibitors showed high safety and effectiveness, with 98% five-year survival, but disease often reactivates after treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41678955/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-13"
       }
@@ -875,10 +875,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6423,
+    "archive_count": 6424,
     "archive_supplements": 740,
     "archive_off_label": 272,
-    "archive_biomarkers": 3713,
+    "archive_biomarkers": 3714,
     "archive_trials": 1400
   }
 }
