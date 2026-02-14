@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-14T05:03:57.185Z",
+  "last_updated": "2026-02-14T05:04:08.682Z",
   "categories": {
     "supplements": [
       {
@@ -612,6 +612,20 @@
         "added_date": "2026-02-14"
       },
       {
+        "id": "recPUwwGM3hi3WxaK",
+        "title": "Emerging roles of RNA m6A modification in multiple myeloma pathogenesis and treatment resistance (Review).",
+        "summary": "RNA m6A modifications significantly influence multiple myeloma's progression, drug resistance, and potential treatment strategies by regulating key cellular processes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41685571/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-14"
+      },
+      {
         "id": "recV06H87QjVRXfhB",
         "title": "Decoding RNA-protein interactions using high-throughput methods.",
         "summary": "High-throughput experimental methods are revealing the complex interactions between RNA-binding proteins and RNA sequences, enhancing our understanding of gene expression mechanisms.",
@@ -637,20 +651,6 @@
           "Leukemia"
         ],
         "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-13"
-      },
-      {
-        "id": "recD0eHzMJTs9L8ik",
-        "title": "ARP2/3 complex mediates the neuropathology of PTEN-deficient human neural cells downstream of mTORC1 and mTORC2 hyperactivation.",
-        "summary": "In PTEN-deficient neural cells, ARP2/3 complex inhibition can reverse neurodevelopmental disorder symptoms by reducing cell proliferation and neuronal hyperactivity.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41678301/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-13"
       }
@@ -881,10 +881,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6323,
+    "archive_count": 6324,
     "archive_supplements": 734,
     "archive_off_label": 268,
-    "archive_biomarkers": 3632,
+    "archive_biomarkers": 3633,
     "archive_trials": 1391
   }
 }
