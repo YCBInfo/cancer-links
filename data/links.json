@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-14T05:05:02.338Z",
+  "last_updated": "2026-02-14T05:05:12.369Z",
   "categories": {
     "supplements": [
       {
@@ -830,6 +830,21 @@
         "added_date": "2026-02-14"
       },
       {
+        "id": "recYAlWAJYLKD5OOC",
+        "title": "PD-1 Inhibitors in Orbital and Periocular Squamous Cell Carcinoma: A Review.",
+        "summary": "PD-1 inhibitors show promise as a targeted therapy for advanced periocular and orbital squamous cell carcinoma, potentially offering a less invasive treatment alternative.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41687030/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Melanoma",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-14"
+      },
+      {
         "id": "recbptH5duS98EakG",
         "title": "Assessment of cytotoxicity and induction of apoptosis by cytolysin-A in MCF-7 human breast cancer cell line.",
         "summary": "Cytolysin A shows promising selective toxicity against MCF-7 breast cancer cells by inducing apoptosis while minimally affecting normal cells.",
@@ -857,20 +872,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-13"
-      },
-      {
-        "id": "rec5bxvks3wzx0nhV",
-        "title": "SWAP70 Promotes Atherosclerosis Via Endothelial CAV1 Nuclear Translocation.",
-        "summary": "Atherosclerosis, the leading cause of coronary artery disease, is initiated and exacerbated by disturbed blood flow and chronic endothelial inflammation.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41532295/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-13"
       }
     ]
   },
@@ -880,10 +881,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6329,
+    "archive_count": 6330,
     "archive_supplements": 734,
     "archive_off_label": 268,
-    "archive_biomarkers": 3638,
+    "archive_biomarkers": 3639,
     "archive_trials": 1391
   }
 }
