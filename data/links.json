@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-14T05:05:12.369Z",
+  "last_updated": "2026-02-14T05:05:25.581Z",
   "categories": {
     "supplements": [
       {
@@ -845,33 +845,32 @@
         "added_date": "2026-02-14"
       },
       {
-        "id": "recbptH5duS98EakG",
-        "title": "Assessment of cytotoxicity and induction of apoptosis by cytolysin-A in MCF-7 human breast cancer cell line.",
-        "summary": "Cytolysin A shows promising selective toxicity against MCF-7 breast cancer cells by inducing apoptosis while minimally affecting normal cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41675308/",
+        "id": "rec4R2wTlhvGaEVUf",
+        "title": "TCRγ constant usage tunes human γδ T cell antigen sensitivity, thymic programming, and peripheral function.",
+        "summary": "Human γδ T cell receptor constant regions (Cγ1 and Cγ2) independently influence cell activation, differentiation, and function across thymic development and peripheral tissues.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41686911/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
-          "Breast",
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-14"
+      },
+      {
+        "id": "recJuLkY9apehWq8O",
+        "title": "De novo identification of the specificities of recurrently identified human T cell receptors.",
+        "summary": "Researchers identified the specific viral targets of rare, shared T cell receptors, revealing common immune responses to viruses like seasonal coronaviruses and influenza.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41686909/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
           "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
-        "added_date": "2026-02-13"
-      },
-      {
-        "id": "rec3bDHG5eGMNgZG1",
-        "title": "Utility of serum biomarkers for prostate cancer diagnosis in the magnetic resonance imaging era.",
-        "summary": "The discovery of prostate-specific antigen (PSA) as a biomarker in prostate cancer has enriched the field of uro-oncology, offering valuable insights for disease monitoring, management decisions an...",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41677411/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Prostate"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-13"
+        "added_date": "2026-02-14"
       }
     ]
   },
@@ -881,10 +880,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6330,
+    "archive_count": 6331,
     "archive_supplements": 734,
     "archive_off_label": 268,
-    "archive_biomarkers": 3639,
+    "archive_biomarkers": 3640,
     "archive_trials": 1391
   }
 }
