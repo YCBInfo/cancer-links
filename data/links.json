@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-14T05:08:35.365Z",
+  "last_updated": "2026-02-14T05:08:46.430Z",
   "categories": {
     "supplements": [
       {
@@ -13,6 +13,34 @@
           "Leukemia"
         ],
         "quality_score": 22,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-14"
+      },
+      {
+        "id": "recThhngozitAZeJv",
+        "title": "Insights into the potential mechanism of Beiqishen Jiangtang Granule in the treatment of type 2 diabetes nephropathy: A study based on network pharmacology, molecular docking, and biological validation.",
+        "summary": "Beiqishen Jiangtang Granule helps manage type 2 diabetes by regulating insulin, inflammatory markers, and gut microbiota through multiple molecular pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41686594/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-14"
+      },
+      {
+        "id": "reclZ1xs9mOjSGzyE",
+        "title": "Potential mechanisms of Si-Wu-Tang against esophageal squamous cell carcinoma: A machine learning pharmacological study.",
+        "summary": "Si-Wu-Tang may combat esophageal cancer by targeting key genes like CDK1, affecting multiple signaling pathways and the tumor immune environment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41686584/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-14"
       },
@@ -187,36 +215,6 @@
         "quality_score": 13,
         "pub_date": "2026-02-12",
         "added_date": "2026-02-13"
-      },
-      {
-        "id": "recn38pPPqQgaDst7",
-        "title": "Marine natural product-inspired 2-(3,4,5-trimethoxybenzoyl)quinazolin-4(3H)-one derivative CHNQD-01522: A novel anti-hepatocellular carcinoma agent targeting colchicine binding site of microtubule.",
-        "summary": "A novel marine-derived compound CHNQD-01522 effectively inhibits liver cancer cell growth by targeting microtubules and overcoming drug resistance mechanisms.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41679197/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Melanoma",
-          "Leukemia",
-          "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-13"
-      },
-      {
-        "id": "rec2hqzw0TP12PeAe",
-        "title": "Sulforaphane-rich aqueous broccoli seed extract suppresses diet-induced obesity via 5-HT2A/AMPK signaling in mice.",
-        "summary": "Broccoli seed extract reduced weight gain in mice by activating specific metabolic pathways linked to fat regulation.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41678915/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-13"
       }
     ],
     "off_label": [
@@ -258,6 +256,20 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-14"
+      },
+      {
+        "id": "recThhngozitAZeJv",
+        "title": "Insights into the potential mechanism of Beiqishen Jiangtang Granule in the treatment of type 2 diabetes nephropathy: A study based on network pharmacology, molecular docking, and biological validation.",
+        "summary": "Beiqishen Jiangtang Granule helps manage type 2 diabetes by regulating insulin, inflammatory markers, and gut microbiota through multiple molecular pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41686594/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -416,20 +428,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-13"
-      },
-      {
-        "id": "recfGCz7cvKR7Rzbh",
-        "title": "Galectin-3 binds to the RGD-binding site in a glycan-independent manner and to the allosteric site and activates integrins αvβ3, αIIbβ3, and α5β1.",
-        "summary": "Galectin-3 directly binds to and activates specific integrins through two binding sites, potentially contributing to inflammatory and pro-cancer cellular processes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41676549/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -879,10 +877,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6349,
+    "archive_count": 6350,
     "archive_supplements": 735,
     "archive_off_label": 269,
-    "archive_biomarkers": 3654,
+    "archive_biomarkers": 3655,
     "archive_trials": 1393
   }
 }
