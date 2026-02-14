@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-14T05:11:23.929Z",
+  "last_updated": "2026-02-14T05:11:35.421Z",
   "categories": {
     "supplements": [
       {
@@ -276,6 +276,21 @@
         "added_date": "2026-02-14"
       },
       {
+        "id": "recaWaLszuzAqbdIc",
+        "title": "Nicotine pouches: an aid in smoking cessation, or a new public health hazard?",
+        "summary": "Nicotine pouches offer a potentially lower-risk alternative to smoking, with reduced toxicant exposure and promising harm reduction potential for smokers unable to quit.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41686395/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Lung",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-14"
+      },
+      {
         "id": "rechQ2y0eNRGhOkLB",
         "title": "Neratinib, a Clinical Drug Treating Breast Cancer, Protects Against Vascular Inflammation and Atherosclerosis.",
         "summary": "Neratinib, a breast cancer drug, demonstrates potential to reduce vascular inflammation and slow atherosclerosis progression by targeting key inflammatory pathways.",
@@ -414,20 +429,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-13"
-      },
-      {
-        "id": "rec2ACohveAXdTRZc",
-        "title": "Fenticonazole targets NF-κB p105/p50 to suppress triple-negative breast cancer via ROS-mediated ER stress and apoptosis.",
-        "summary": "Fenticonazole, an antifungal drug, suppresses triple-negative breast cancer growth by disrupting key cellular proteins and triggering cancer cell death.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41679661/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -877,10 +878,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6365,
+    "archive_count": 6366,
     "archive_supplements": 737,
     "archive_off_label": 269,
-    "archive_biomarkers": 3667,
+    "archive_biomarkers": 3668,
     "archive_trials": 1394
   }
 }
