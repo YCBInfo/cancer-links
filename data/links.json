@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-14T05:03:04.801Z",
+  "last_updated": "2026-02-14T05:03:15.448Z",
   "categories": {
     "supplements": [
       {
@@ -538,6 +538,21 @@
         "added_date": "2026-02-14"
       },
       {
+        "id": "recGQorPwbDhIa12v",
+        "title": "Tumor visualization and evaluation of glioblastoma in mice using small animal 9.4T MRI and PET‑CT with high resolution.",
+        "summary": "High-resolution PET-CT and MRI effectively visualized and tracked glioblastoma tumor growth and metabolism in mice over 21 days.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41685597/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia",
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-14"
+      },
+      {
         "id": "recV06H87QjVRXfhB",
         "title": "Decoding RNA-protein interactions using high-throughput methods.",
         "summary": "High-throughput experimental methods are revealing the complex interactions between RNA-binding proteins and RNA sequences, enhancing our understanding of gene expression mechanisms.",
@@ -636,21 +651,6 @@
         "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-13"
-      },
-      {
-        "id": "recJduqvM3VNA5bzP",
-        "title": "Unraveling the Tapestry: Lessons from multiomics and spatial biology in hepatocellular cancer.",
-        "summary": "Spatial omics technologies reveal how cellular interactions in the liver cancer microenvironment influence tumor progression, immune response, and potential treatment strategies.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41678777/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia",
-          "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-13"
       }
     ],
     "trials": [
@@ -734,6 +734,21 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-14"
+      },
+      {
+        "id": "recGQorPwbDhIa12v",
+        "title": "Tumor visualization and evaluation of glioblastoma in mice using small animal 9.4T MRI and PET‑CT with high resolution.",
+        "summary": "High-resolution PET-CT and MRI effectively visualized and tracked glioblastoma tumor growth and metabolism in mice over 21 days.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41685597/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia",
+          "Brain"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -853,20 +868,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-13"
-      },
-      {
-        "id": "recqw45KRL8c5xW4u",
-        "title": "Ibrutinib with venetoclax in patients with relapsed/refractory chronic lymphocytic leukemia: A phase II study.",
-        "summary": "The combination of ibrutinib and venetoclax showed high response rates and prolonged progression-free survival in patients with relapsed/refractory chronic lymphocytic leukemia.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41678768/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 21,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-13"
       }
     ]
   },
@@ -876,10 +877,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6318,
+    "archive_count": 6319,
     "archive_supplements": 734,
     "archive_off_label": 267,
-    "archive_biomarkers": 3628,
+    "archive_biomarkers": 3629,
     "archive_trials": 1391
   }
 }
