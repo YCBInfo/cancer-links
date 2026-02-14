@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-14T05:14:01.729Z",
+  "last_updated": "2026-02-14T05:14:13.142Z",
   "categories": {
     "supplements": [
       {
@@ -68,6 +68,20 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-14"
+      },
+      {
+        "id": "recI3cDIZ622TfMEr",
+        "title": "Impact of Diet and Drugs on Fecal Lachnoclostridium Gene Marker (m3) in Non-Invasive Diagnosis of Colorectal Neoplasia.",
+        "summary": "A specific bacterial gene marker could help diagnose colorectal cancer and precancerous growths through a non-invasive test.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41685947/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -192,20 +206,6 @@
         "title": "Total Synthesis and Complete Stereochemical Assignment of the Marine Bromotriterpenoid (+)-Callicladol through a Combined Approach Using Model Syntheses and Nuclear Magnetic Resonance Calculations.",
         "summary": "Researchers synthesized callicladol from a marine alga and confirmed its complex structure, revealing potential cancer cell growth inhibition through sophisticated chemical techniques.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41678745/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-13"
-      },
-      {
-        "id": "rec7G5qCPPnsvINSc",
-        "title": "Natural Product Modulators of Protein-Protein Interactions: A Comprehensive Review.",
-        "summary": "Natural products show promise for targeting protein interactions in potential cancer therapies by disrupting harmful molecular complexes or stabilizing beneficial ones.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41677319/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -877,10 +877,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6380,
+    "archive_count": 6381,
     "archive_supplements": 738,
     "archive_off_label": 270,
-    "archive_biomarkers": 3677,
+    "archive_biomarkers": 3678,
     "archive_trials": 1397
   }
 }
