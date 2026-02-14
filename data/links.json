@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-13T12:50:35.728Z",
+  "last_updated": "2026-02-14T05:02:27.065Z",
   "categories": {
     "supplements": [
       {
@@ -439,6 +439,48 @@
     ],
     "biomarkers": [
       {
+        "id": "recAL51FDoqHQUFVl",
+        "title": "Exosomal circ_001895 from lung cancer cells drives M2 macrophage polarization via the miR-20a-5p/JAK1/STAT3 axis to promote tumor progression.",
+        "summary": "Exosomes play a vital role in cancer cell and tumor microenvironment (TME) crosstalk.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41686469/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-14"
+      },
+      {
+        "id": "recsLfuq05ei0FfIY",
+        "title": "Chronotype and sleep duration in relation to leukaemia subtypes: a two-sample Mendelian randomization analysis.",
+        "summary": "Several observational studies have suggested an association between sleep traits and leukaemia.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41685402/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-14"
+      },
+      {
+        "id": "recWPsWb3BrwfmBUZ",
+        "title": "Clinical Features and Biomarkers Associated With Intensive Care-Dependent Refractory NMDAR Encephalitis: A Retrospective Cohort Study.",
+        "summary": "A subset of patients with NMDAR encephalitis is resistant to first-line and second-line immunotherapy and requires prolonged intensive care.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41687039/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-14"
+      },
+      {
         "id": "recV06H87QjVRXfhB",
         "title": "Decoding RNA-protein interactions using high-throughput methods.",
         "summary": "High-throughput experimental methods are revealing the complex interactions between RNA-binding proteins and RNA sequences, enhancing our understanding of gene expression mechanisms.",
@@ -608,53 +650,37 @@
         "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-13"
-      },
-      {
-        "id": "recKwM5DwfxPXI3JT",
-        "title": "Synergistic Gene Immunotherapy for Lung Cancer via Targeted Nanomedicine Restoring Genetic Tumor Suppression and Activating STING Pathway.",
-        "summary": "A targeted nanoparticle delivery system restores tumor suppressor genes and activates immune response, effectively inhibiting non-small cell lung cancer progression.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41678601/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-13"
-      },
-      {
-        "id": "recZPk6SSA4U8CeLm",
-        "title": "Al18F-NOTA-FAPI-04 PET/CT for diagnosis of breast cancer and its correlation with pathological features: A single-center retrospective study.",
-        "summary": "A new PET/CT imaging technique using a specialized tracer showed promising ability to detect and characterize breast cancer tumors with high accuracy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41678503/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-13"
-      },
-      {
-        "id": "recorngVKU8sHa6xR",
-        "title": "Communication and information needs of patients with cancer in Ghana: A scoping review.",
-        "summary": "A comprehensive review highlights the critical need for culturally sensitive communication guidelines in cancer care in Ghana to improve patient support and treatment outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41678489/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-13"
       }
     ],
     "trials": [
+      {
+        "id": "recAL51FDoqHQUFVl",
+        "title": "Exosomal circ_001895 from lung cancer cells drives M2 macrophage polarization via the miR-20a-5p/JAK1/STAT3 axis to promote tumor progression.",
+        "summary": "Exosomes play a vital role in cancer cell and tumor microenvironment (TME) crosstalk.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41686469/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-14"
+      },
+      {
+        "id": "recWPsWb3BrwfmBUZ",
+        "title": "Clinical Features and Biomarkers Associated With Intensive Care-Dependent Refractory NMDAR Encephalitis: A Retrospective Cohort Study.",
+        "summary": "A subset of patients with NMDAR encephalitis is resistant to first-line and second-line immunotherapy and requires prolonged intensive care.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41687039/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-14"
+      },
       {
         "id": "recbptH5duS98EakG",
         "title": "Assessment of cytotoxicity and induction of apoptosis by cytolysin-A in MCF-7 human breast cancer cell line.",
@@ -840,35 +866,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-13"
-      },
-      {
-        "id": "recZPk6SSA4U8CeLm",
-        "title": "Al18F-NOTA-FAPI-04 PET/CT for diagnosis of breast cancer and its correlation with pathological features: A single-center retrospective study.",
-        "summary": "A new PET/CT imaging technique using a specialized tracer showed promising ability to detect and characterize breast cancer tumors with high accuracy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41678503/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-13"
-      },
-      {
-        "id": "recorngVKU8sHa6xR",
-        "title": "Communication and information needs of patients with cancer in Ghana: A scoping review.",
-        "summary": "A comprehensive review highlights the critical need for culturally sensitive communication guidelines in cancer care in Ghana to improve patient support and treatment outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41678489/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-13"
       }
     ]
   },
@@ -878,10 +875,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6314,
+    "archive_count": 6315,
     "archive_supplements": 734,
     "archive_off_label": 267,
-    "archive_biomarkers": 3624,
+    "archive_biomarkers": 3625,
     "archive_trials": 1391
   }
 }
