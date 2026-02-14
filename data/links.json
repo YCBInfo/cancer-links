@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-14T05:06:07.714Z",
+  "last_updated": "2026-02-14T05:06:18.821Z",
   "categories": {
     "supplements": [
       {
@@ -236,6 +236,21 @@
         "added_date": "2026-02-14"
       },
       {
+        "id": "recld2Gt0rEv0E6vB",
+        "title": "Precision screening identifies mitoxantrone as a multitarget inhibitor in ageing-associated cancers with extensive computational validation and doxorubicin comparison.",
+        "summary": "Mitoxantrone shows promise as a potential multi-target drug for treating ageing-associated cancers, demonstrating superior performance compared to doxorubicin through computational analysis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41686850/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Prostate",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-14"
+      },
+      {
         "id": "rechQ2y0eNRGhOkLB",
         "title": "Neratinib, a Clinical Drug Treating Breast Cancer, Protects Against Vascular Inflammation and Atherosclerosis.",
         "summary": "Neratinib, a breast cancer drug, demonstrates potential to reduce vascular inflammation and slow atherosclerosis progression by targeting key inflammatory pathways.",
@@ -421,20 +436,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-13"
-      },
-      {
-        "id": "recJYch5iLvuo9C1O",
-        "title": "SAICAR Drives T Regulatory Cell Differentiation and FOXP3 Maintenance to Promote Immunotherapy Resistance.",
-        "summary": "SAICAR, a metabolite, promotes suppressive T cells in tumors, blocking immunotherapy effectiveness and suggesting a potential treatment strategy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41671386/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-12"
       }
     ],
     "biomarkers": [
@@ -880,10 +881,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6335,
+    "archive_count": 6336,
     "archive_supplements": 734,
     "archive_off_label": 268,
     "archive_biomarkers": 3643,
-    "archive_trials": 1392
+    "archive_trials": 1393
   }
 }
