@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-15T05:03:32.378Z",
+  "last_updated": "2026-02-15T05:03:42.429Z",
   "categories": {
     "supplements": [
       {
@@ -757,6 +757,20 @@
         "added_date": "2026-02-15"
       },
       {
+        "id": "recCPFCuaPZxjCnoS",
+        "title": "Control arm overperformance in phase 3 oncology clinical trials.",
+        "summary": "In randomized clinical trials (RCTs), anticipating control arm outcomes is important for power calculations and enrollment goals.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41653086/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 29,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-15"
+      },
+      {
         "id": "recAL51FDoqHQUFVl",
         "title": "Exosomal circ_001895 from lung cancer cells drives M2 macrophage polarization via the miR-20a-5p/JAK1/STAT3 axis to promote tumor progression.",
         "summary": "Exosomes play a vital role in cancer cell and tumor microenvironment (TME) crosstalk.",
@@ -855,21 +869,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-14"
-      },
-      {
-        "id": "recUPTkoXY8AJcQtn",
-        "title": "Research progress on long non‑coding RNAs in lung cancer (Review).",
-        "summary": "Long non-coding RNAs show significant potential as diagnostic and prognostic biomarkers in lung cancer, influencing tumor progression and treatment response.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41685590/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-14"
       }
     ]
   },
@@ -879,10 +878,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6571,
+    "archive_count": 6572,
     "archive_supplements": 757,
     "archive_off_label": 273,
-    "archive_biomarkers": 3783,
+    "archive_biomarkers": 3784,
     "archive_trials": 1460
   }
 }
