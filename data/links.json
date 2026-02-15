@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-15T10:03:32.131Z",
+  "last_updated": "2026-02-15T10:03:45.361Z",
   "categories": {
     "supplements": [
       {
@@ -350,6 +350,20 @@
         "added_date": "2026-02-15"
       },
       {
+        "id": "recoRHO8f0pxAJ9Pf",
+        "title": "Metformin and Oncogenic Pathways: Crosstalk Between Energy Sensing and Tumor Progression.",
+        "summary": "Metformin disrupts cancer cell growth by activating AMPK, inhibiting mTOR, and interfering with tumor metabolism and signaling pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41687746/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-15"
+      },
+      {
         "id": "recd7CWOnGvBuhQdQ",
         "title": "Regorafenib and Nifuroxazide exert enhanced suppression of hepatocellular carcinoma by inhibiting STAT3 and immune remodeling.",
         "summary": "Combining low-dose Regorafenib with Nifuroxazide effectively suppresses hepatocellular carcinoma by inhibiting STAT3 and enhancing anti-tumor immune responses.",
@@ -418,20 +432,6 @@
           "Leukemia"
         ],
         "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-14"
-      },
-      {
-        "id": "rec2afWpY1G7QOwws",
-        "title": "Adherence to Dental Care in Head and Neck Cancer Patients Post-Radiation Therapy: A Scoping Review.",
-        "summary": "Patients with head and neck cancer often struggle to follow dental care guidelines after radiation therapy, which can impact their overall recovery and health.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41685693/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-14"
       }
@@ -879,10 +879,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6733,
+    "archive_count": 6734,
     "archive_supplements": 767,
     "archive_off_label": 280,
     "archive_biomarkers": 3916,
-    "archive_trials": 1472
+    "archive_trials": 1473
   }
 }
