@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-15T05:14:43.614Z",
+  "last_updated": "2026-02-15T05:14:49.916Z",
   "categories": {
     "supplements": [
       {
@@ -70,6 +70,21 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-15"
+      },
+      {
+        "id": "recAcSPlTVaY623jI",
+        "title": "Target validation and drug discovery for TNBC: Targeting the Lin28B/Let-7/PBK with the ponicidin.",
+        "summary": "Ponicidin inhibits triple-negative breast cancer by targeting Lin28B, disrupting its interaction with Let-7 and reducing oncogenic protein expression.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41406550/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast",
+          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
@@ -194,20 +209,6 @@
         "title": "Probabilistic dietary exposure assessment of polycyclic aromatic hydrocarbons (PAHs) and its associated disease burden in Singapore.",
         "summary": "Research found that dietary exposure to polycyclic aromatic hydrocarbons (PAHs) in Singaporean food poses a relatively low lifetime cancer risk.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41680437/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-14"
-      },
-      {
-        "id": "recypab07So5Jl7TC",
-        "title": "Colonic spatial single-cell proteomics and murine models link mitochondrial dysfunction to dimeric IgA-secreting plasma cell deficiency in Crohn's disease.",
-        "summary": "Crohn's disease patients have reduced dimeric IgA production due to mitochondrial dysfunction, which impairs plasma cell maturation in the colon.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41680132/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -877,10 +878,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6634,
+    "archive_count": 6635,
     "archive_supplements": 762,
     "archive_off_label": 274,
-    "archive_biomarkers": 3836,
+    "archive_biomarkers": 3837,
     "archive_trials": 1464
   }
 }
