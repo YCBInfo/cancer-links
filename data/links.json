@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-15T05:03:10.827Z",
+  "last_updated": "2026-02-15T05:03:21.862Z",
   "categories": {
     "supplements": [
       {
@@ -509,6 +509,21 @@
         "added_date": "2026-02-15"
       },
       {
+        "id": "recWSyeZJ93hw07IU",
+        "title": "Evolving strategies in prostate cancer: Emerging approaches and unmet needs from the Bridging the Gaps in Prostate Cancer expert panel.",
+        "summary": "The expansion of treatment options for prostate cancer (PC) has improved disease-specific and overall survival outcomes but has also raised questions about the optimal level of treatment needed for...",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41669866/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Prostate",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-15"
+      },
+      {
         "id": "recAL51FDoqHQUFVl",
         "title": "Exosomal circ_001895 from lung cancer cells drives M2 macrophage polarization via the miR-20a-5p/JAK1/STAT3 axis to promote tumor progression.",
         "summary": "Exosomes play a vital role in cancer cell and tumor microenvironment (TME) crosstalk.",
@@ -636,22 +651,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-14"
-      },
-      {
-        "id": "recEY3lPIpDBEMrAp",
-        "title": "Role of SPAG6 in regulating physiological functions and tumorigenesis (Review).",
-        "summary": "SPAG6 protein plays a critical role in cancer progression, potentially serving as a diagnostic marker and therapeutic target across multiple cancer types.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41685588/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast",
-          "Lung",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-14"
       }
     ],
     "trials": [
@@ -724,6 +723,21 @@
         "cancer_types": [
           "Leukemia",
           "Lymphoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-15"
+      },
+      {
+        "id": "recWSyeZJ93hw07IU",
+        "title": "Evolving strategies in prostate cancer: Emerging approaches and unmet needs from the Bridging the Gaps in Prostate Cancer expert panel.",
+        "summary": "The expansion of treatment options for prostate cancer (PC) has improved disease-specific and overall survival outcomes but has also raised questions about the optimal level of treatment needed for...",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41669866/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Prostate",
+          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -859,20 +873,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-14"
-      },
-      {
-        "id": "rec0LVkdksQANdufO",
-        "title": "Chorus line in oral squamous cell carcinoma: How stromal and immune players orchestrate tumor progression (Review).",
-        "summary": "Cancer-associated fibroblasts and PD-L1 in oral squamous cell carcinoma collaborate to promote tumor growth, spread, and resistance to treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41685581/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-14"
       }
     ]
   },
@@ -882,10 +882,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6569,
+    "archive_count": 6570,
     "archive_supplements": 757,
     "archive_off_label": 273,
-    "archive_biomarkers": 3781,
+    "archive_biomarkers": 3782,
     "archive_trials": 1460
   }
 }
