@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-15T05:02:31.832Z",
+  "last_updated": "2026-02-15T05:02:42.640Z",
   "categories": {
     "supplements": [
       {
@@ -666,6 +666,20 @@
         "added_date": "2026-02-15"
       },
       {
+        "id": "recDFdI7xw1xSWhTH",
+        "title": "Long-term outcomes of newly diagnosed POEMS syndrome patients treated with bortezomib-based therapies.",
+        "summary": "Bortezomib-based therapy shows promising long-term clinical improvements for patients with the rare blood disorder POEMS syndrome.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41689769/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-15"
+      },
+      {
         "id": "recAL51FDoqHQUFVl",
         "title": "Exosomal circ_001895 from lung cancer cells drives M2 macrophage polarization via the miR-20a-5p/JAK1/STAT3 axis to promote tumor progression.",
         "summary": "Exosomes play a vital role in cancer cell and tumor microenvironment (TME) crosstalk.",
@@ -853,20 +867,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-14"
-      },
-      {
-        "id": "rec4R2wTlhvGaEVUf",
-        "title": "TCRγ constant usage tunes human γδ T cell antigen sensitivity, thymic programming, and peripheral function.",
-        "summary": "Human γδ T cell receptor constant regions (Cγ1 and Cγ2) independently influence cell activation, differentiation, and function across thymic development and peripheral tissues.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41686911/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-14"
       }
     ]
   },
@@ -876,10 +876,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6567,
+    "archive_count": 6568,
     "archive_supplements": 757,
     "archive_off_label": 273,
-    "archive_biomarkers": 3780,
+    "archive_biomarkers": 3781,
     "archive_trials": 1459
   }
 }
