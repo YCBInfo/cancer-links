@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-15T05:10:57.213Z",
+  "last_updated": "2026-02-15T05:11:06.616Z",
   "categories": {
     "supplements": [
       {
@@ -56,6 +56,20 @@
         "cancer_types": [
           "Leukemia",
           "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-15"
+      },
+      {
+        "id": "rectVovnxylQt8vme",
+        "title": "Sinomenine derivative 1f suppresses glioblastoma through inducing both apoptosis mediated by intrinsic pathway and necroptosis mediated by TNF-α/NF-κB/MAPK signaling pathway.",
+        "summary": "A novel sinomenine derivative (1f) effectively targets glioblastoma by triggering two cell death mechanisms, inhibiting tumor growth and improving patient survival.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41475072/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Brain"
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
@@ -200,20 +214,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-14"
-      },
-      {
-        "id": "rec6saR30rB4atgGc",
-        "title": "Association of dietary choline intake with all-cause and disease-specific mortality among individuals with diabetes: a population-based prospective cohort study.",
-        "summary": "For adults with diabetes, moderate dietary choline intake (286-539 mg/day) is associated with lower all-cause mortality risk compared to very low or very high intake levels.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41365816/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-14"
       }
@@ -877,10 +877,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6613,
+    "archive_count": 6614,
     "archive_supplements": 761,
     "archive_off_label": 274,
-    "archive_biomarkers": 3816,
+    "archive_biomarkers": 3817,
     "archive_trials": 1464
   }
 }
