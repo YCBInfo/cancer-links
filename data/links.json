@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-15T05:09:53.865Z",
+  "last_updated": "2026-02-15T05:10:04.427Z",
   "categories": {
     "supplements": [
       {
@@ -41,6 +41,21 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-15"
+      },
+      {
+        "id": "reclgJ2JtfGcsDXD6",
+        "title": "Salidroside alleviates ethanol exposure-exacerbated hepatic insulin resistance in diabetic mice.",
+        "summary": "Salidroside effectively mitigates liver insulin resistance caused by excessive alcohol consumption in diabetic mice by reducing inflammation and improving cellular insulin sensitivity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41477995/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia",
+          "Liver"
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
@@ -196,21 +211,6 @@
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-14"
-      },
-      {
-        "id": "recCoZnnglPrBemuu",
-        "title": "The effect of a person-centred lifestyle programme on cancer-related fatigue in colorectal cancer survivors: a randomised trial.",
-        "summary": "A personalized lifestyle coaching program for colorectal cancer survivors improved diet and activity but did not significantly reduce cancer-related fatigue or improve quality of life.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41363069/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal",
           "Leukemia"
         ],
         "quality_score": 15,
@@ -877,10 +877,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6607,
+    "archive_count": 6608,
     "archive_supplements": 760,
     "archive_off_label": 274,
     "archive_biomarkers": 3813,
-    "archive_trials": 1462
+    "archive_trials": 1463
   }
 }
