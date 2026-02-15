@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-15T05:04:04.298Z",
+  "last_updated": "2026-02-15T05:04:14.298Z",
   "categories": {
     "supplements": [
       {
@@ -552,6 +552,34 @@
         "added_date": "2026-02-15"
       },
       {
+        "id": "recrH8eEex8RX3Ha6",
+        "title": "Incidence and oncologic outcomes of patients with prostate-specific antigen persistence after radical prostatectomy.",
+        "summary": "Patients with postradical prostatectomy (RP) prostate-specific antigen (PSA) persistence (PPP) have been grouped with patients experiencing biochemical recurrence (BCR) in guidelines and clinical t...",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41645394/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-15"
+      },
+      {
+        "id": "recFBhMrYvCNE1GYD",
+        "title": "Cervical cancer elimination in India: Repurposing diagnostics, vaccination, and accelerating policy for the 2030 target.",
+        "summary": "India aims to eliminate cervical cancer by 2030 by leveraging COVID-19 testing infrastructure for HPV screening and introducing a new indigenous vaccine.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41645272/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-15"
+      },
+      {
         "id": "recAL51FDoqHQUFVl",
         "title": "Exosomal circ_001895 from lung cancer cells drives M2 macrophage polarization via the miR-20a-5p/JAK1/STAT3 axis to promote tumor progression.",
         "summary": "Exosomes play a vital role in cancer cell and tumor microenvironment (TME) crosstalk.",
@@ -616,34 +644,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Lung",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-14"
-      },
-      {
-        "id": "recd7CWOnGvBuhQdQ",
-        "title": "Regorafenib and Nifuroxazide exert enhanced suppression of hepatocellular carcinoma by inhibiting STAT3 and immune remodeling.",
-        "summary": "Combining low-dose Regorafenib with Nifuroxazide effectively suppresses hepatocellular carcinoma by inhibiting STAT3 and enhancing anti-tumor immune responses.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41685604/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-14"
-      },
-      {
-        "id": "reckSdIbFCgcqKssV",
-        "title": "Liquid biopsy in malignant primary bone tumors: Clinical applications of circulating tumor DNA and circulating tumor cells for diagnosis, prognosis and treatment monitoring (Review).",
-        "summary": "Liquid biopsy provides a noninvasive method to detect, monitor, and predict outcomes for bone cancers by analyzing circulating tumor DNA and cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41685600/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
           "Leukemia"
         ],
         "quality_score": 15,
@@ -798,6 +798,20 @@
         "added_date": "2026-02-15"
       },
       {
+        "id": "recFBhMrYvCNE1GYD",
+        "title": "Cervical cancer elimination in India: Repurposing diagnostics, vaccination, and accelerating policy for the 2030 target.",
+        "summary": "India aims to eliminate cervical cancer by 2030 by leveraging COVID-19 testing infrastructure for HPV screening and introducing a new indigenous vaccine.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41645272/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-15"
+      },
+      {
         "id": "recAL51FDoqHQUFVl",
         "title": "Exosomal circ_001895 from lung cancer cells drives M2 macrophage polarization via the miR-20a-5p/JAK1/STAT3 axis to promote tumor progression.",
         "summary": "Exosomes play a vital role in cancer cell and tumor microenvironment (TME) crosstalk.",
@@ -853,20 +867,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-14"
-      },
-      {
-        "id": "recd7CWOnGvBuhQdQ",
-        "title": "Regorafenib and Nifuroxazide exert enhanced suppression of hepatocellular carcinoma by inhibiting STAT3 and immune remodeling.",
-        "summary": "Combining low-dose Regorafenib with Nifuroxazide effectively suppresses hepatocellular carcinoma by inhibiting STAT3 and enhancing anti-tumor immune responses.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41685604/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-14"
       }
     ]
   },
@@ -876,10 +876,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6574,
+    "archive_count": 6575,
     "archive_supplements": 757,
     "archive_off_label": 273,
     "archive_biomarkers": 3786,
-    "archive_trials": 1460
+    "archive_trials": 1461
   }
 }
