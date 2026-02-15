@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-15T05:05:06.742Z",
+  "last_updated": "2026-02-15T05:05:19.010Z",
   "categories": {
     "supplements": [
       {
@@ -220,6 +220,20 @@
     ],
     "off_label": [
       {
+        "id": "rec5x0N6vLC8Dtomg",
+        "title": "Therapeutic effects of methotrexate encapsulated in hyaluronic acid-coated exosomes derived from Wharton's jelly mesenchymal stem cells in a rat model of rheumatoid arthritis.",
+        "summary": "Methotrexate (MTX) is widely used for treating rheumatoid arthritis (RA); however, its clinical application is limited because of its nonspecific distribution and significant long-term adverse effe...",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41611067/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-15"
+      },
+      {
         "id": "recd7CWOnGvBuhQdQ",
         "title": "Regorafenib and Nifuroxazide exert enhanced suppression of hepatocellular carcinoma by inhibiting STAT3 and immune remodeling.",
         "summary": "Combining low-dose Regorafenib with Nifuroxazide effectively suppresses hepatocellular carcinoma by inhibiting STAT3 and enhancing anti-tumor immune responses.",
@@ -416,20 +430,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
-        "added_date": "2026-02-14"
-      },
-      {
-        "id": "recemQByKUyWZEMOP",
-        "title": "Tirzepatide With Progestin Intrauterine Device to Treat Endometrial Hyperplasia and Grade 1 Endometrial Cancer in Overweight and Obese Women",
-        "summary": "Tirzepatide combined with an intrauterine device may help overweight women with early-stage endometrial cancer lose weight and improve treatment response without surgery.",
-        "url": "https://clinicaltrials.gov/study/NCT07349641",
-        "source": "ClinicalTrials.gov",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 19,
-        "pub_date": "2026-02-13",
         "added_date": "2026-02-14"
       }
     ],
@@ -637,18 +637,18 @@
         "added_date": "2026-02-15"
       },
       {
-        "id": "recAL51FDoqHQUFVl",
-        "title": "Exosomal circ_001895 from lung cancer cells drives M2 macrophage polarization via the miR-20a-5p/JAK1/STAT3 axis to promote tumor progression.",
-        "summary": "Exosomes play a vital role in cancer cell and tumor microenvironment (TME) crosstalk.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41686469/",
+        "id": "rec5x0N6vLC8Dtomg",
+        "title": "Therapeutic effects of methotrexate encapsulated in hyaluronic acid-coated exosomes derived from Wharton's jelly mesenchymal stem cells in a rat model of rheumatoid arthritis.",
+        "summary": "Methotrexate (MTX) is widely used for treating rheumatoid arthritis (RA); however, its clinical application is limited because of its nonspecific distribution and significant long-term adverse effe...",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41611067/",
         "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
+        "category": "Off-Label Medications",
         "cancer_types": [
-          "Lung"
+          "General"
         ],
-        "quality_score": 15,
+        "quality_score": 12,
         "pub_date": "2026-02-01",
-        "added_date": "2026-02-14"
+        "added_date": "2026-02-15"
       }
     ],
     "trials": [
@@ -876,10 +876,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6580,
+    "archive_count": 6581,
     "archive_supplements": 757,
     "archive_off_label": 273,
-    "archive_biomarkers": 3791,
+    "archive_biomarkers": 3792,
     "archive_trials": 1461
   }
 }
