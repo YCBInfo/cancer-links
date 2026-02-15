@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-15T09:01:59.788Z",
+  "last_updated": "2026-02-15T10:01:36.259Z",
   "categories": {
     "supplements": [
       {
@@ -294,6 +294,20 @@
         "added_date": "2026-02-15"
       },
       {
+        "id": "recFg7gJPJznXE6uW",
+        "title": "Metformin use and reduced dementia risk in older adults with type 2 diabetes and delirium.",
+        "summary": "Diabetes-related delirium markedly impairs cognitive function in older adults with type 2 diabetes mellitus (T2DM) and may precede dementia.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41554369/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-15"
+      },
+      {
         "id": "recd7CWOnGvBuhQdQ",
         "title": "Regorafenib and Nifuroxazide exert enhanced suppression of hepatocellular carcinoma by inhibiting STAT3 and immune remodeling.",
         "summary": "Combining low-dose Regorafenib with Nifuroxazide effectively suppresses hepatocellular carcinoma by inhibiting STAT3 and enhancing anti-tumor immune responses.",
@@ -416,21 +430,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-14"
-      },
-      {
-        "id": "rec0nlZaO1eRkdaA6",
-        "title": "The antitumor mechanism of oclacitinib in canine lymphoma.",
-        "summary": "Oclacitinib inhibits cancer cell growth in canine lymphoma by blocking JAK1/STAT5 signaling, potentially offering a new treatment approach for certain lymphoma types.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41680286/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Melanoma",
-          "Lymphoma"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -880,10 +879,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6722,
+    "archive_count": 6723,
     "archive_supplements": 766,
     "archive_off_label": 276,
     "archive_biomarkers": 3911,
-    "archive_trials": 1471
+    "archive_trials": 1472
   }
 }
