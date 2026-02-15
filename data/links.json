@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-15T05:05:49.637Z",
+  "last_updated": "2026-02-15T05:06:02.811Z",
   "categories": {
     "supplements": [
       {
@@ -7,6 +7,21 @@
         "title": "Bufotalin targets COL1A1 to suppress non-small cell lung cancer growth and remodel the tumor microenvironment via dual inhibition of PI3K/AKT/mTOR and MAPK pathways.",
         "summary": "Bufotalin targets COL1A1 in non-small cell lung cancer, simultaneously blocking cancer cell growth and remodeling the tumor environment.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41581717/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lung",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-15"
+      },
+      {
+        "id": "rechyEHmHcYD2vLTN",
+        "title": "YAP inhibition by gloriosine unlocks autophagic cell death as an anticancer strategy in lung malignancies.",
+        "summary": "Gloriosine selectively kills lung adenocarcinoma cells by blocking YAP signaling, triggering autophagy-mediated cell death with minimal damage to normal cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41577325/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -201,21 +216,6 @@
         "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-14"
-      },
-      {
-        "id": "rechOyHiZT2gseL1s",
-        "title": "Folate receptor-α targeted delivery of berberine via folate-functionalized bovine serum albumin nanocarriers to enhance intracellular internalization and suppress 3D spheroid formation as a pioneering therapeutic modality for glioblastoma.",
-        "summary": "Folic acid-modified nanoparticles delivering berberine specifically target and effectively suppress glioblastoma cell growth by enhancing cellular uptake and inducing apoptosis.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41686123/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia",
-          "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-14"
       }
     ],
     "off_label": [
@@ -230,6 +230,21 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-15"
+      },
+      {
+        "id": "recqzNfyEx2OuGiPf",
+        "title": "CRISPR/Cas9-based genome-wide screen reveals a synergistic effect of Irinotecan and USP1 inhibitor in colorectal cancer.",
+        "summary": "In colorectal cancer, combining a USP1 inhibitor with Irinotecan significantly enhances drug effectiveness by disrupting cancer cell repair mechanisms and improving treatment response.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41577322/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal",
+          "Leukemia"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-15"
       },
@@ -415,20 +430,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-14"
-      },
-      {
-        "id": "rec6nVyOY98zR6oPq",
-        "title": "Single-Mitochondrion ATP Profiling Directs Discovery of Targetable OXPHOS Dependency in Cancers.",
-        "summary": "A new nano-flow cytometry method reveals higher mitochondrial ATP levels in breast and colon cancer cells, enabling targeted metabolic inhibitor screening.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41684301/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-14"
       }
@@ -876,8 +877,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6584,
-    "archive_supplements": 757,
+    "archive_count": 6585,
+    "archive_supplements": 758,
     "archive_off_label": 274,
     "archive_biomarkers": 3794,
     "archive_trials": 1461
