@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-15T05:04:26.849Z",
+  "last_updated": "2026-02-15T05:04:37.569Z",
   "categories": {
     "supplements": [
       {
@@ -594,6 +594,20 @@
         "added_date": "2026-02-15"
       },
       {
+        "id": "recFG8LUfVYPBqrHp",
+        "title": "Nucleolar Protein Nop2 Promotes Neural Differentiation by Regulating Ribosome Biogenesis-Related Processes.",
+        "summary": "In zebrafish, losing the Nop2 protein disrupts neural development by impairing ribosome formation, causing embryonic lethality and brain abnormalities.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41631357/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-15"
+      },
+      {
         "id": "recAL51FDoqHQUFVl",
         "title": "Exosomal circ_001895 from lung cancer cells drives M2 macrophage polarization via the miR-20a-5p/JAK1/STAT3 axis to promote tumor progression.",
         "summary": "Exosomes play a vital role in cancer cell and tumor microenvironment (TME) crosstalk.",
@@ -626,20 +640,6 @@
         "title": "Clinical Features and Biomarkers Associated With Intensive Care-Dependent Refractory NMDAR Encephalitis: A Retrospective Cohort Study.",
         "summary": "A subset of patients with NMDAR encephalitis is resistant to first-line and second-line immunotherapy and requires prolonged intensive care.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41687039/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-14"
-      },
-      {
-        "id": "recv71AK5O4D4cdwG",
-        "title": "Impact of the intratumoral resident microbiome on the immune microenvironment of malignant tumors (Review).",
-        "summary": "Advances in cancer research have highlighted the importance of tumor‑intrinsic factors, including tumor type, immune environment, immunogenicity, metabolic demands and the intratumoral microbiome.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41685611/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -825,6 +825,20 @@
         "added_date": "2026-02-15"
       },
       {
+        "id": "recFG8LUfVYPBqrHp",
+        "title": "Nucleolar Protein Nop2 Promotes Neural Differentiation by Regulating Ribosome Biogenesis-Related Processes.",
+        "summary": "In zebrafish, losing the Nop2 protein disrupts neural development by impairing ribosome formation, causing embryonic lethality and brain abnormalities.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41631357/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-15"
+      },
+      {
         "id": "recAL51FDoqHQUFVl",
         "title": "Exosomal circ_001895 from lung cancer cells drives M2 macrophage polarization via the miR-20a-5p/JAK1/STAT3 axis to promote tumor progression.",
         "summary": "Exosomes play a vital role in cancer cell and tumor microenvironment (TME) crosstalk.",
@@ -851,20 +865,6 @@
         "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-14"
-      },
-      {
-        "id": "recv71AK5O4D4cdwG",
-        "title": "Impact of the intratumoral resident microbiome on the immune microenvironment of malignant tumors (Review).",
-        "summary": "Advances in cancer research have highlighted the importance of tumor‑intrinsic factors, including tumor type, immune environment, immunogenicity, metabolic demands and the intratumoral microbiome.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41685611/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-14"
       }
     ]
   },
@@ -874,10 +874,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6576,
+    "archive_count": 6577,
     "archive_supplements": 757,
     "archive_off_label": 273,
-    "archive_biomarkers": 3787,
+    "archive_biomarkers": 3788,
     "archive_trials": 1461
   }
 }
