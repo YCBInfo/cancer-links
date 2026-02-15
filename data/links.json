@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-02-15T05:05:28.890Z",
+  "last_updated": "2026-02-15T05:05:39.189Z",
   "categories": {
     "supplements": [
+      {
+        "id": "recAtO6G0WleVB1XZ",
+        "title": "Bufotalin targets COL1A1 to suppress non-small cell lung cancer growth and remodel the tumor microenvironment via dual inhibition of PI3K/AKT/mTOR and MAPK pathways.",
+        "summary": "Bufotalin targets COL1A1 in non-small cell lung cancer, simultaneously blocking cancer cell growth and remodeling the tumor environment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41581717/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lung",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-15"
+      },
       {
         "id": "recny6JfnYrhXCgwO",
         "title": "Prognostic impact of weight loss during radiation therapy in patients with head and neck cancer: A systematic review.",
@@ -197,21 +212,6 @@
         "cancer_types": [
           "Leukemia",
           "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-14"
-      },
-      {
-        "id": "recYs1evFuqk4bgCc",
-        "title": "Assessment of the protective effects of tannic acid against bleomycin-induced lung fibrosis in rats.",
-        "summary": "Tannic acid significantly reduced lung fibrosis markers and inflammation in rats, offering potential protective effects against bleomycin-induced pulmonary damage.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41685413/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Lung",
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -876,9 +876,9 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6582,
+    "archive_count": 6583,
     "archive_supplements": 757,
-    "archive_off_label": 273,
+    "archive_off_label": 274,
     "archive_biomarkers": 3793,
     "archive_trials": 1461
   }
