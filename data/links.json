@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-15T05:03:21.862Z",
+  "last_updated": "2026-02-15T05:03:32.378Z",
   "categories": {
     "supplements": [
       {
@@ -524,6 +524,20 @@
         "added_date": "2026-02-15"
       },
       {
+        "id": "rece9FInBBvuQQq33",
+        "title": "Re-evaluating the diagnostic value of α-fetoprotein for hepatocellular carcinoma in the direct-acting antiviral era.",
+        "summary": "A study found that direct-acting antivirals in hepatitis C patients may improve α-fetoprotein's accuracy in detecting hepatocellular carcinoma by reducing baseline inflammation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41665927/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-15"
+      },
+      {
         "id": "recAL51FDoqHQUFVl",
         "title": "Exosomal circ_001895 from lung cancer cells drives M2 macrophage polarization via the miR-20a-5p/JAK1/STAT3 axis to promote tumor progression.",
         "summary": "Exosomes play a vital role in cancer cell and tumor microenvironment (TME) crosstalk.",
@@ -636,21 +650,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-14"
-      },
-      {
-        "id": "recUPTkoXY8AJcQtn",
-        "title": "Research progress on long non‑coding RNAs in lung cancer (Review).",
-        "summary": "Long non-coding RNAs show significant potential as diagnostic and prognostic biomarkers in lung cancer, influencing tumor progression and treatment response.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41685590/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-14"
       }
     ],
     "trials": [
@@ -738,6 +737,20 @@
         "cancer_types": [
           "Prostate",
           "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-15"
+      },
+      {
+        "id": "rece9FInBBvuQQq33",
+        "title": "Re-evaluating the diagnostic value of α-fetoprotein for hepatocellular carcinoma in the direct-acting antiviral era.",
+        "summary": "A study found that direct-acting antivirals in hepatitis C patients may improve α-fetoprotein's accuracy in detecting hepatocellular carcinoma by reducing baseline inflammation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41665927/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Liver"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -857,22 +870,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-14"
-      },
-      {
-        "id": "recEY3lPIpDBEMrAp",
-        "title": "Role of SPAG6 in regulating physiological functions and tumorigenesis (Review).",
-        "summary": "SPAG6 protein plays a critical role in cancer progression, potentially serving as a diagnostic marker and therapeutic target across multiple cancer types.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41685588/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast",
-          "Lung",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-14"
       }
     ]
   },
@@ -882,10 +879,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6570,
+    "archive_count": 6571,
     "archive_supplements": 757,
     "archive_off_label": 273,
-    "archive_biomarkers": 3782,
+    "archive_biomarkers": 3783,
     "archive_trials": 1460
   }
 }
