@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-15T10:02:43.827Z",
+  "last_updated": "2026-02-15T10:02:59.537Z",
   "categories": {
     "supplements": [
       {
@@ -336,6 +336,20 @@
         "added_date": "2026-02-15"
       },
       {
+        "id": "recN8DHMbssgCBlfQ",
+        "title": "SLC5A11 Mediates Metformin-Induced PD-L1 Suppression to Enhance Cancer Immunotherapy through AMPK-IRF1 Signaling.",
+        "summary": "Metformin suppresses PD-L1 in cancer through SLC5A11, enhancing immunotherapy's effectiveness by boosting T cell response in lung and pancreatic tumors.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41690450/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Pancreatic"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-15"
+      },
+      {
         "id": "recd7CWOnGvBuhQdQ",
         "title": "Regorafenib and Nifuroxazide exert enhanced suppression of hepatocellular carcinoma by inhibiting STAT3 and immune remodeling.",
         "summary": "Combining low-dose Regorafenib with Nifuroxazide effectively suppresses hepatocellular carcinoma by inhibiting STAT3 and enhancing anti-tumor immune responses.",
@@ -418,20 +432,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-14"
-      },
-      {
-        "id": "recH5SSCRqmvUE0nx",
-        "title": "Continuous glucose monitoring reveals bimodal glycemic patterns during and outside Capivasertib administration.",
-        "summary": "Continuous glucose monitoring revealed unique blood sugar changes during capivasertib treatment, showing post-dose glucose spikes and next-morning hypoglycemia.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41685403/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-14"
       }
@@ -879,10 +879,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6729,
+    "archive_count": 6730,
     "archive_supplements": 767,
     "archive_off_label": 279,
-    "archive_biomarkers": 3913,
+    "archive_biomarkers": 3914,
     "archive_trials": 1472
   }
 }
