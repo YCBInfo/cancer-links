@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-15T05:09:10.664Z",
+  "last_updated": "2026-02-15T05:09:21.129Z",
   "categories": {
     "supplements": [
       {
@@ -30,6 +30,20 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
+        "added_date": "2026-02-15"
+      },
+      {
+        "id": "reciX3BsGnwuRHNWY",
+        "title": "Multi-omics profiling reveals that targeting NEK3 synergizes with cuproptosis to promote M1 macrophage polarization in cervical cancer.",
+        "summary": "In cervical cancer, targeting the NEK3 protein alongside cuproptosis can help activate immune-fighting macrophages and potentially enhance cancer treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41483620/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
         "added_date": "2026-02-15"
       },
       {
@@ -200,20 +214,6 @@
           "Leukemia"
         ],
         "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-14"
-      },
-      {
-        "id": "recClkSNnPSFe0onq",
-        "title": "Higher adherence to core food-based vegetarian and prudent dietary patterns is associated with lower adiposity and metabolic disease risk in Pacific and New Zealand European women.",
-        "summary": "Higher adherence to vegetarian and prudent dietary patterns with core foods was linked to lower body fat and reduced metabolic disease risk in Pacific and NZ European women.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41686758/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-14"
       }
@@ -877,10 +877,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6603,
+    "archive_count": 6604,
     "archive_supplements": 759,
     "archive_off_label": 274,
-    "archive_biomarkers": 3810,
+    "archive_biomarkers": 3811,
     "archive_trials": 1462
   }
 }
