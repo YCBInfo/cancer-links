@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-14T13:24:44.662Z",
+  "last_updated": "2026-02-15T05:02:31.832Z",
   "categories": {
     "supplements": [
       {
@@ -435,6 +435,34 @@
     ],
     "biomarkers": [
       {
+        "id": "rec12rOuOzt84LFhe",
+        "title": "Helicobacter pylori induces the production of interleukin-37 to promote broad immunosuppression and enhance colonization.",
+        "summary": "Helicobacter pylori bacteria manipulate the immune system by triggering interleukin-37 production, which suppresses immune responses and helps the bacteria colonize the stomach.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41689434/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-15"
+      },
+      {
+        "id": "recrcPQGBQSDgoRYy",
+        "title": "Gut bacterial O-demethylation modulates systemic exposure to oral etoposide.",
+        "summary": "Gut bacteria can modify the anticancer drug etoposide, potentially increasing its toxicity to myeloid cells and altering its systemic exposure.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41688891/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-15"
+      },
+      {
         "id": "recAL51FDoqHQUFVl",
         "title": "Exosomal circ_001895 from lung cancer cells drives M2 macrophage polarization via the miR-20a-5p/JAK1/STAT3 axis to promote tumor progression.",
         "summary": "Exosomes play a vital role in cancer cell and tumor microenvironment (TME) crosstalk.",
@@ -620,37 +648,23 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-14"
-      },
-      {
-        "id": "rect0k6HksEmY8vJL",
-        "title": "Association of Systemic Inflammatory Markers With Cerebral Small Vessel Disease Progression: A Community-Based Prospective Study.",
-        "summary": "Higher levels of inflammatory markers like neutrophil-to-lymphocyte ratio were linked to increased progression of cerebral small vessel disease in this community-based study.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41687047/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-14"
-      },
-      {
-        "id": "recwBy37zNzrjL1DI",
-        "title": "DEprot: a comprehensive R-package for the analysis of label-free quantitation mass spectrometry data.",
-        "summary": "DEprot is a new R-package that helps researchers analyze protein interaction data more accurately by improving methods for handling missing protein information.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41685351/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-14"
       }
     ],
     "trials": [
+      {
+        "id": "recrcPQGBQSDgoRYy",
+        "title": "Gut bacterial O-demethylation modulates systemic exposure to oral etoposide.",
+        "summary": "Gut bacteria can modify the anticancer drug etoposide, potentially increasing its toxicity to myeloid cells and altering its systemic exposure.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41688891/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-15"
+      },
       {
         "id": "recAL51FDoqHQUFVl",
         "title": "Exosomal circ_001895 from lung cancer cells drives M2 macrophage polarization via the miR-20a-5p/JAK1/STAT3 axis to promote tumor progression.",
@@ -853,20 +867,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-14"
-      },
-      {
-        "id": "recJuLkY9apehWq8O",
-        "title": "De novo identification of the specificities of recurrently identified human T cell receptors.",
-        "summary": "Researchers identified the specific viral targets of rare, shared T cell receptors, revealing common immune responses to viruses like seasonal coronaviruses and influenza.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41686909/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-14"
       }
     ]
   },
@@ -876,10 +876,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6566,
+    "archive_count": 6567,
     "archive_supplements": 757,
     "archive_off_label": 273,
-    "archive_biomarkers": 3779,
+    "archive_biomarkers": 3780,
     "archive_trials": 1459
   }
 }
