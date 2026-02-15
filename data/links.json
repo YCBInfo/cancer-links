@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-15T05:04:46.872Z",
+  "last_updated": "2026-02-15T05:04:57.488Z",
   "categories": {
     "supplements": [
       {
@@ -622,6 +622,21 @@
         "added_date": "2026-02-15"
       },
       {
+        "id": "rec98O5t8jrdtFifm",
+        "title": "Influence of CT harmonization in longitudinal radiomics for NSCLC immunotherapy response prediction.",
+        "summary": "A novel CT scan harmonization technique improved predicting immunotherapy response in non-small cell lung cancer by reducing imaging variability and enhancing feature reliability across institutions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41616709/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-15"
+      },
+      {
         "id": "recAL51FDoqHQUFVl",
         "title": "Exosomal circ_001895 from lung cancer cells drives M2 macrophage polarization via the miR-20a-5p/JAK1/STAT3 axis to promote tumor progression.",
         "summary": "Exosomes play a vital role in cancer cell and tumor microenvironment (TME) crosstalk.",
@@ -632,20 +647,6 @@
           "Lung"
         ],
         "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-14"
-      },
-      {
-        "id": "recsLfuq05ei0FfIY",
-        "title": "Chronotype and sleep duration in relation to leukaemia subtypes: a two-sample Mendelian randomization analysis.",
-        "summary": "Several observational studies have suggested an association between sleep traits and leukaemia.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41685402/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-14"
       }
@@ -853,18 +854,19 @@
         "added_date": "2026-02-15"
       },
       {
-        "id": "recAL51FDoqHQUFVl",
-        "title": "Exosomal circ_001895 from lung cancer cells drives M2 macrophage polarization via the miR-20a-5p/JAK1/STAT3 axis to promote tumor progression.",
-        "summary": "Exosomes play a vital role in cancer cell and tumor microenvironment (TME) crosstalk.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41686469/",
+        "id": "rec98O5t8jrdtFifm",
+        "title": "Influence of CT harmonization in longitudinal radiomics for NSCLC immunotherapy response prediction.",
+        "summary": "A novel CT scan harmonization technique improved predicting immunotherapy response in non-small cell lung cancer by reducing imaging variability and enhancing feature reliability across institutions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41616709/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
-          "Lung"
+          "Lung",
+          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
-        "added_date": "2026-02-14"
+        "added_date": "2026-02-15"
       }
     ]
   },
@@ -874,10 +876,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6578,
+    "archive_count": 6579,
     "archive_supplements": 757,
     "archive_off_label": 273,
-    "archive_biomarkers": 3789,
+    "archive_biomarkers": 3790,
     "archive_trials": 1461
   }
 }
