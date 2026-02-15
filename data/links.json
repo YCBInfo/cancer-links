@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-15T10:04:35.997Z",
+  "last_updated": "2026-02-15T10:04:59.049Z",
   "categories": {
     "supplements": [
       {
@@ -379,6 +379,22 @@
         "added_date": "2026-02-15"
       },
       {
+        "id": "receP7lUNiqubH1Fr",
+        "title": "Machine learning-driven computational drug repurposing to identify new tubulin inhibitors against cancer.",
+        "summary": "Machine learning screening of FDA-approved drugs identified omeprazole and podofilox as potential new tubulin inhibitors against melanoma and colorectal cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41689974/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Colorectal",
+          "Melanoma",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-15"
+      },
+      {
         "id": "recd7CWOnGvBuhQdQ",
         "title": "Regorafenib and Nifuroxazide exert enhanced suppression of hepatocellular carcinoma by inhibiting STAT3 and immune remodeling.",
         "summary": "Combining low-dose Regorafenib with Nifuroxazide effectively suppresses hepatocellular carcinoma by inhibiting STAT3 and enhancing anti-tumor immune responses.",
@@ -416,20 +432,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-14"
-      },
-      {
-        "id": "recThhngozitAZeJv",
-        "title": "Insights into the potential mechanism of Beiqishen Jiangtang Granule in the treatment of type 2 diabetes nephropathy: A study based on network pharmacology, molecular docking, and biological validation.",
-        "summary": "Beiqishen Jiangtang Granule helps manage type 2 diabetes by regulating insulin, inflammatory markers, and gut microbiota through multiple molecular pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41686594/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -879,10 +881,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6737,
+    "archive_count": 6738,
     "archive_supplements": 767,
     "archive_off_label": 282,
     "archive_biomarkers": 3916,
-    "archive_trials": 1474
+    "archive_trials": 1475
   }
 }
