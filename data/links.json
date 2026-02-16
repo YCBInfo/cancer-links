@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-16T05:05:09.956Z",
+  "last_updated": "2026-02-16T05:05:19.792Z",
   "categories": {
     "supplements": [
       {
@@ -849,6 +849,20 @@
         "added_date": "2026-02-16"
       },
       {
+        "id": "rec5C2YIvh4pUqwpY",
+        "title": "High-Content SRS Imaging Unveils Altered Cholesterol Metabolism in Ovarian Cancers Under CAR-T Treatment.",
+        "summary": "High-content imaging reveals ovarian cancer cells survive CAR-T therapy by altering cholesterol metabolism, which can be disrupted to improve treatment effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41691468/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Ovarian"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-16"
+      },
+      {
         "id": "recrcPQGBQSDgoRYy",
         "title": "Gut bacterial O-demethylation modulates systemic exposure to oral etoposide.",
         "summary": "Gut bacteria can modify the anticancer drug etoposide, potentially increasing its toxicity to myeloid cells and altering its systemic exposure.",
@@ -861,20 +875,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-15"
-      },
-      {
-        "id": "recDFdI7xw1xSWhTH",
-        "title": "Long-term outcomes of newly diagnosed POEMS syndrome patients treated with bortezomib-based therapies.",
-        "summary": "Bortezomib-based therapy shows promising long-term clinical improvements for patients with the rare blood disorder POEMS syndrome.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41689769/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-15"
       }
     ]
   },
@@ -884,10 +884,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6755,
+    "archive_count": 6756,
     "archive_supplements": 769,
     "archive_off_label": 283,
-    "archive_biomarkers": 3926,
+    "archive_biomarkers": 3927,
     "archive_trials": 1479
   }
 }
