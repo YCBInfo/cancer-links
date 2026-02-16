@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-16T05:03:34.559Z",
+  "last_updated": "2026-02-16T05:03:44.661Z",
   "categories": {
     "supplements": [
       {
@@ -556,6 +556,20 @@
         "added_date": "2026-02-16"
       },
       {
+        "id": "recpMt01ZBJAbT7if",
+        "title": "Pilocytic astrocytoma in pediatric and adult patients: a single-center analysis of 650 cases.",
+        "summary": "A comprehensive study of 650 pilocytic astrocytoma cases revealed distinct age-related differences in tumor characteristics and found that complete surgical removal and low mitotic activity predict better patient outcomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41691591/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-16"
+      },
+      {
         "id": "rec12rOuOzt84LFhe",
         "title": "Helicobacter pylori induces the production of interleukin-37 to promote broad immunosuppression and enhance colonization.",
         "summary": "Helicobacter pylori bacteria manipulate the immune system by triggering interleukin-37 production, which suppresses immune responses and helps the bacteria colonize the stomach.",
@@ -643,20 +657,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-15"
-      },
-      {
-        "id": "rece9FInBBvuQQq33",
-        "title": "Re-evaluating the diagnostic value of α-fetoprotein for hepatocellular carcinoma in the direct-acting antiviral era.",
-        "summary": "A study found that direct-acting antivirals in hepatitis C patients may improve α-fetoprotein's accuracy in detecting hepatocellular carcinoma by reducing baseline inflammation.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41665927/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-15"
       }
     ],
     "trials": [
@@ -731,6 +731,20 @@
           "Breast"
         ],
         "quality_score": 22,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-16"
+      },
+      {
+        "id": "recpMt01ZBJAbT7if",
+        "title": "Pilocytic astrocytoma in pediatric and adult patients: a single-center analysis of 650 cases.",
+        "summary": "A comprehensive study of 650 pilocytic astrocytoma cases revealed distinct age-related differences in tumor characteristics and found that complete surgical removal and low mitotic activity predict better patient outcomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41691591/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-16"
       },
@@ -864,20 +878,6 @@
         "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-15"
-      },
-      {
-        "id": "recrH8eEex8RX3Ha6",
-        "title": "Incidence and oncologic outcomes of patients with prostate-specific antigen persistence after radical prostatectomy.",
-        "summary": "Patients with postradical prostatectomy (RP) prostate-specific antigen (PSA) persistence (PPP) have been grouped with patients experiencing biochemical recurrence (BCR) in guidelines and clinical t...",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41645394/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-15"
       }
     ]
   },
@@ -887,10 +887,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6746,
+    "archive_count": 6747,
     "archive_supplements": 769,
     "archive_off_label": 283,
-    "archive_biomarkers": 3918,
+    "archive_biomarkers": 3919,
     "archive_trials": 1478
   }
 }
