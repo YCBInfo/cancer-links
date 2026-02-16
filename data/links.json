@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-16T07:05:19.711Z",
+  "last_updated": "2026-02-16T07:05:32.735Z",
   "categories": {
     "supplements": [
       {
@@ -264,6 +264,20 @@
         "added_date": "2026-02-16"
       },
       {
+        "id": "recojuMju07MAMOdC",
+        "title": "Lactate targeting: Regulatory networks and therapeutic potential in bone diseases.",
+        "summary": "Lactate plays a multifaceted role in bone diseases by regulating immune responses, metabolism, and cellular processes across various bone-related pathological conditions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41691736/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-16"
+      },
+      {
         "id": "rec5x0N6vLC8Dtomg",
         "title": "Therapeutic effects of methotrexate encapsulated in hyaluronic acid-coated exosomes derived from Wharton's jelly mesenchymal stem cells in a rat model of rheumatoid arthritis.",
         "summary": "Methotrexate (MTX) is widely used for treating rheumatoid arthritis (RA); however, its clinical application is limited because of its nonspecific distribution and significant long-term adverse effe...",
@@ -414,22 +428,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Breast",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-15"
-      },
-      {
-        "id": "receP7lUNiqubH1Fr",
-        "title": "Machine learning-driven computational drug repurposing to identify new tubulin inhibitors against cancer.",
-        "summary": "Machine learning screening of FDA-approved drugs identified omeprazole and podofilox as potential new tubulin inhibitors against melanoma and colorectal cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41689974/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Colorectal",
-          "Melanoma",
           "Leukemia"
         ],
         "quality_score": 15,
@@ -884,10 +882,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6806,
+    "archive_count": 6807,
     "archive_supplements": 775,
     "archive_off_label": 285,
-    "archive_biomarkers": 3962,
+    "archive_biomarkers": 3963,
     "archive_trials": 1486
   }
 }
