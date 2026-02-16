@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-16T05:04:47.312Z",
+  "last_updated": "2026-02-16T05:04:57.659Z",
   "categories": {
     "supplements": [
       {
@@ -818,6 +818,20 @@
         "added_date": "2026-02-16"
       },
       {
+        "id": "rec2vaaYfsocPV7pI",
+        "title": "Uptake of cascade tests in relatives of patients undergoing cancer precision medicine in Japan.",
+        "summary": "In a Japanese study, researchers examined how many relatives of cancer patients chose to undergo genetic testing after a precision medicine diagnosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41691475/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-16"
+      },
+      {
         "id": "recrcPQGBQSDgoRYy",
         "title": "Gut bacterial O-demethylation modulates systemic exposure to oral etoposide.",
         "summary": "Gut bacteria can modify the anticancer drug etoposide, potentially increasing its toxicity to myeloid cells and altering its systemic exposure.",
@@ -859,22 +873,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-15"
-      },
-      {
-        "id": "recDZpLnVgN48PJYE",
-        "title": "Clinical, genetic, and familial features of POT1 tumor predisposition syndrome.",
-        "summary": "Inherited POT1 gene mutations increase risk of chronic lymphocytic leukemia and multiple other cancers in affected families.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41686515/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Melanoma",
-          "Leukemia",
-          "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-15"
       }
     ]
   },
@@ -884,10 +882,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6753,
+    "archive_count": 6754,
     "archive_supplements": 769,
     "archive_off_label": 283,
-    "archive_biomarkers": 3924,
+    "archive_biomarkers": 3925,
     "archive_trials": 1479
   }
 }
