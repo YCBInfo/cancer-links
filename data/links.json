@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-16T05:03:12.721Z",
+  "last_updated": "2026-02-16T05:03:24.768Z",
   "categories": {
     "supplements": [
       {
@@ -528,6 +528,20 @@
         "added_date": "2026-02-16"
       },
       {
+        "id": "rec7PsUdcIpdm1c7O",
+        "title": "Neoadjuvant Chemotherapy in Triple Negative Breast Cancer: A Systematic Review of Breast and Node Pathologic Response.",
+        "summary": "In triple-negative breast cancer, neoadjuvant chemotherapy shows varying complete response rates between breast tumors and lymph nodes, potentially impacting future surgical approaches.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41691697/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 22,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-16"
+      },
+      {
         "id": "rec12rOuOzt84LFhe",
         "title": "Helicobacter pylori induces the production of interleukin-37 to promote broad immunosuppression and enhance colonization.",
         "summary": "Helicobacter pylori bacteria manipulate the immune system by triggering interleukin-37 production, which suppresses immune responses and helps the bacteria colonize the stomach.",
@@ -643,20 +657,6 @@
         "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-15"
-      },
-      {
-        "id": "recrH8eEex8RX3Ha6",
-        "title": "Incidence and oncologic outcomes of patients with prostate-specific antigen persistence after radical prostatectomy.",
-        "summary": "Patients with postradical prostatectomy (RP) prostate-specific antigen (PSA) persistence (PPP) have been grouped with patients experiencing biochemical recurrence (BCR) in guidelines and clinical t...",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41645394/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-15"
       }
     ],
     "trials": [
@@ -718,6 +718,20 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
+        "added_date": "2026-02-16"
+      },
+      {
+        "id": "rec7PsUdcIpdm1c7O",
+        "title": "Neoadjuvant Chemotherapy in Triple Negative Breast Cancer: A Systematic Review of Breast and Node Pathologic Response.",
+        "summary": "In triple-negative breast cancer, neoadjuvant chemotherapy shows varying complete response rates between breast tumors and lymph nodes, potentially impacting future surgical approaches.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41691697/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 22,
+        "pub_date": "2026-02-01",
         "added_date": "2026-02-16"
       },
       {
@@ -864,20 +878,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-15"
-      },
-      {
-        "id": "recFBhMrYvCNE1GYD",
-        "title": "Cervical cancer elimination in India: Repurposing diagnostics, vaccination, and accelerating policy for the 2030 target.",
-        "summary": "India aims to eliminate cervical cancer by 2030 by leveraging COVID-19 testing infrastructure for HPV screening and introducing a new indigenous vaccine.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41645272/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-15"
       }
     ]
   },
@@ -887,8 +887,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6744,
-    "archive_supplements": 768,
+    "archive_count": 6745,
+    "archive_supplements": 769,
     "archive_off_label": 283,
     "archive_biomarkers": 3917,
     "archive_trials": 1478
