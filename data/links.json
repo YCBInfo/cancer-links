@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-16T05:07:57.387Z",
+  "last_updated": "2026-02-16T05:08:08.624Z",
   "categories": {
     "supplements": [
       {
@@ -222,6 +222,21 @@
     ],
     "off_label": [
       {
+        "id": "recV0LUBl5nJl0T7v",
+        "title": "cRGD-Functionalized macrophage extracellular vesicles loaded with GSK2033 enhance T cell antitumor immunity in GBM by disrupting the LXR/ABCA1-Mediated Myelin lipid transfer axis.",
+        "summary": "cRGD-functionalized macrophage extracellular vesicles loaded with GSK2033 enhance T cell immunity by disrupting lipid transfer in glioblastoma, improving tumor treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41691219/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia",
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-16"
+      },
+      {
         "id": "rec5x0N6vLC8Dtomg",
         "title": "Therapeutic effects of methotrexate encapsulated in hyaluronic acid-coated exosomes derived from Wharton's jelly mesenchymal stem cells in a rat model of rheumatoid arthritis.",
         "summary": "Methotrexate (MTX) is widely used for treating rheumatoid arthritis (RA); however, its clinical application is limited because of its nonspecific distribution and significant long-term adverse effe...",
@@ -418,20 +433,6 @@
         "cancer_types": [
           "Prostate",
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-14"
-      },
-      {
-        "id": "recMo8hqNEEAgRKOS",
-        "title": "In-silico target prediction and pathway analysis of propranolol as a potential therapeutic agent for hepatocellular carcinoma.",
-        "summary": "Propranolol shows potential to target key cancer-driving proteins in hepatocellular carcinoma, suggesting it could be a promising therapeutic drug.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41686791/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Liver"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -885,10 +886,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6766,
+    "archive_count": 6767,
     "archive_supplements": 769,
     "archive_off_label": 283,
-    "archive_biomarkers": 3934,
+    "archive_biomarkers": 3935,
     "archive_trials": 1482
   }
 }
