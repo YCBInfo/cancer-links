@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-16T07:06:23.143Z",
+  "last_updated": "2026-02-16T07:06:32.240Z",
   "categories": {
     "supplements": [
       {
@@ -130,6 +130,21 @@
         "added_date": "2026-02-16"
       },
       {
+        "id": "rec773UIAekJZe3bw",
+        "title": "Quercetin suppresses the proliferation of thyroid cancer cells by reducing the expression level of DPP4 and inhibiting its enzyme activity.",
+        "summary": "Quercetin, a compound from Cistanches Herba, suppresses thyroid cancer cell growth by reducing DPP4 expression and enzyme activity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41689601/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia",
+          "Thyroid"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-16"
+      },
+      {
         "id": "recAtO6G0WleVB1XZ",
         "title": "Bufotalin targets COL1A1 to suppress non-small cell lung cancer growth and remodel the tumor microenvironment via dual inhibition of PI3K/AKT/mTOR and MAPK pathways.",
         "summary": "Bufotalin targets COL1A1 in non-small cell lung cancer, simultaneously blocking cancer cell growth and remodeling the tumor environment.",
@@ -197,21 +212,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-15"
-      },
-      {
-        "id": "recAcSPlTVaY623jI",
-        "title": "Target validation and drug discovery for TNBC: Targeting the Lin28B/Let-7/PBK with the ponicidin.",
-        "summary": "Ponicidin inhibits triple-negative breast cancer by targeting Lin28B, disrupting its interaction with Let-7 and reducing oncogenic protein expression.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41406550/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast",
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
@@ -882,10 +882,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6811,
+    "archive_count": 6812,
     "archive_supplements": 776,
     "archive_off_label": 285,
-    "archive_biomarkers": 3965,
+    "archive_biomarkers": 3966,
     "archive_trials": 1487
   }
 }
