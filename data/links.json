@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-16T07:03:17.034Z",
+  "last_updated": "2026-02-16T07:03:27.892Z",
   "categories": {
     "supplements": [
       {
@@ -252,6 +252,20 @@
         "added_date": "2026-02-16"
       },
       {
+        "id": "recexmD31WEDRZu9R",
+        "title": "The anti-obesity effect of namodenoson, an A3 adenosine receptor agonist.",
+        "summary": "Namodenoson, an A3 adenosine receptor agonist, significantly reduced weight gain in obese mice by inhibiting adipocyte proliferation and lipid accumulation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41692913/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-16"
+      },
+      {
         "id": "rec5x0N6vLC8Dtomg",
         "title": "Therapeutic effects of methotrexate encapsulated in hyaluronic acid-coated exosomes derived from Wharton's jelly mesenchymal stem cells in a rat model of rheumatoid arthritis.",
         "summary": "Methotrexate (MTX) is widely used for treating rheumatoid arthritis (RA); however, its clinical application is limited because of its nonspecific distribution and significant long-term adverse effe...",
@@ -423,20 +437,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-15"
-      },
-      {
-        "id": "recd7CWOnGvBuhQdQ",
-        "title": "Regorafenib and Nifuroxazide exert enhanced suppression of hepatocellular carcinoma by inhibiting STAT3 and immune remodeling.",
-        "summary": "Combining low-dose Regorafenib with Nifuroxazide effectively suppresses hepatocellular carcinoma by inhibiting STAT3 and enhancing anti-tumor immune responses.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41685604/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-14"
       }
     ],
     "biomarkers": [
@@ -886,8 +886,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6795,
-    "archive_supplements": 772,
+    "archive_count": 6796,
+    "archive_supplements": 773,
     "archive_off_label": 283,
     "archive_biomarkers": 3956,
     "archive_trials": 1486
