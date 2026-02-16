@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-16T05:03:24.768Z",
+  "last_updated": "2026-02-16T05:03:34.559Z",
   "categories": {
     "supplements": [
       {
@@ -542,6 +542,20 @@
         "added_date": "2026-02-16"
       },
       {
+        "id": "reczFXNa5F8kGzVRo",
+        "title": "Human-derived cardiac-neural microtissues reveal catecholaminergic polymorphic ventricular tachycardia is also a disease of the sympathetic neuron.",
+        "summary": "In catecholaminergic polymorphic ventricular tachycardia, dysfunctional sympathetic neurons can directly trigger cardiac arrhythmias, revealing the disease as a neurological disorder.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41691612/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-16"
+      },
+      {
         "id": "rec12rOuOzt84LFhe",
         "title": "Helicobacter pylori induces the production of interleukin-37 to promote broad immunosuppression and enhance colonization.",
         "summary": "Helicobacter pylori bacteria manipulate the immune system by triggering interleukin-37 production, which suppresses immune responses and helps the bacteria colonize the stomach.",
@@ -641,20 +655,6 @@
           "Liver"
         ],
         "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-15"
-      },
-      {
-        "id": "rec9zIbwztUEcEJfi",
-        "title": "Ultrasensitive next-generation sequencing-based detection of circulating human papillomavirus DNA for cervical cancer recurrence monitoring.",
-        "summary": "Circulating cell-free human papillomavirus (ccfHPV) DNA is a promising biomarker for cervical cancer monitoring.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41653072/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-15"
       }
@@ -887,10 +887,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6745,
+    "archive_count": 6746,
     "archive_supplements": 769,
     "archive_off_label": 283,
-    "archive_biomarkers": 3917,
+    "archive_biomarkers": 3918,
     "archive_trials": 1478
   }
 }
