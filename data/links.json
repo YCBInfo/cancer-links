@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-16T05:02:51.656Z",
+  "last_updated": "2026-02-16T05:03:03.643Z",
   "categories": {
     "supplements": [
       {
@@ -499,6 +499,21 @@
         "added_date": "2026-02-16"
       },
       {
+        "id": "rec9ino6X0prbFk6J",
+        "title": "SLC38A5 drives colorectal cancer ferroptosis resistance through the Hippo-YAP/Nrf2 axis.",
+        "summary": "SLC38A5 promotes colorectal cancer resistance to ferroptosis by activating protective cellular pathways through YAP and Nrf2 signaling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41412526/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-16"
+      },
+      {
         "id": "rec12rOuOzt84LFhe",
         "title": "Helicobacter pylori induces the production of interleukin-37 to promote broad immunosuppression and enhance colonization.",
         "summary": "Helicobacter pylori bacteria manipulate the immune system by triggering interleukin-37 production, which suppresses immune responses and helps the bacteria colonize the stomach.",
@@ -642,20 +657,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-15"
-      },
-      {
-        "id": "recCNkkk0T8tiHAiY",
-        "title": "Quorum-Sensing Regulator C8-HSL Promotes the Proliferation, Migration, and Invasion of Lung Cancer Cells by Activating the PI3K/AKT/ERK Pathway.",
-        "summary": "C8-HSL, a bacterial molecule, promotes lung cancer cell growth and spread by activating cellular pathways that increase proliferation and migration.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41637668/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-15"
       }
     ],
     "trials": [
@@ -699,6 +700,21 @@
         "cancer_types": [
           "Leukemia",
           "Lymphoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-16"
+      },
+      {
+        "id": "rec9ino6X0prbFk6J",
+        "title": "SLC38A5 drives colorectal cancer ferroptosis resistance through the Hippo-YAP/Nrf2 axis.",
+        "summary": "SLC38A5 promotes colorectal cancer resistance to ferroptosis by activating protective cellular pathways through YAP and Nrf2 signaling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41412526/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal",
+          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
@@ -862,20 +878,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-15"
-      },
-      {
-        "id": "recCNkkk0T8tiHAiY",
-        "title": "Quorum-Sensing Regulator C8-HSL Promotes the Proliferation, Migration, and Invasion of Lung Cancer Cells by Activating the PI3K/AKT/ERK Pathway.",
-        "summary": "C8-HSL, a bacterial molecule, promotes lung cancer cell growth and spread by activating cellular pathways that increase proliferation and migration.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41637668/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-15"
       }
     ]
   },
@@ -885,10 +887,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6742,
+    "archive_count": 6743,
     "archive_supplements": 767,
     "archive_off_label": 283,
     "archive_biomarkers": 3917,
-    "archive_trials": 1477
+    "archive_trials": 1478
   }
 }
