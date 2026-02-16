@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-16T07:04:11.687Z",
+  "last_updated": "2026-02-16T07:04:21.176Z",
   "categories": {
     "supplements": [
       {
@@ -78,6 +78,20 @@
         "title": "The Role of Traditional Chinese Medicine in the Management of Polyploid Giant Cancer Cells.",
         "summary": "Traditional Chinese medicine herbs like Coptis chinensis may help combat polyploid giant cancer cells by regulating cell cycles and signaling pathways, potentially reducing tumor recurrence.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41692704/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-16"
+      },
+      {
+        "id": "recBHpqWIMJRzabIr",
+        "title": "Brusatol enhances ferroptosis susceptibility in nasopharyngeal carcinoma by downregulating Nrf2 expression.",
+        "summary": "Brusatol enhances ferroptosis in nasopharyngeal carcinoma by reducing Nrf2 expression, thereby increasing cancer cell death and potentially offering a new treatment approach.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41539347/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -199,20 +213,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Colorectal",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-15"
-      },
-      {
-        "id": "reczVvIGFCinIoLEj",
-        "title": "Crocin Modulates AKT/mTORC1/ULK1 Cascade to Attenuate Ferritinophagy-Induced Colonic Oxidative Injury in Ulcerative Colitis: Network Pharmacology, Molecular Docking, and Experimental Validation.",
-        "summary": "Crocin reduces oxidative damage in ulcerative colitis by modulating key cellular pathways and protecting against inflammatory cell death in rat colonic tissue.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41688406/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
           "Leukemia"
         ],
         "quality_score": 15,
@@ -886,10 +886,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6800,
+    "archive_count": 6801,
     "archive_supplements": 773,
     "archive_off_label": 285,
-    "archive_biomarkers": 3958,
+    "archive_biomarkers": 3959,
     "archive_trials": 1486
   }
 }
