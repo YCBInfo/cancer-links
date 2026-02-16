@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-16T07:03:06.718Z",
+  "last_updated": "2026-02-16T07:03:17.034Z",
   "categories": {
     "supplements": [
       {
@@ -237,6 +237,21 @@
         "added_date": "2026-02-16"
       },
       {
+        "id": "rec9oO3PJiJpryo9p",
+        "title": "A dual-responsive metal-polyphenol nanomedicine based on targeting LAT1 via levodopa and ROS amplification for precise treatment of breast cancer.",
+        "summary": "A metal-polyphenol nanoparticle targets triple-negative breast cancer cells, delivering chemotherapy and amplifying cell-killing reactive oxygen species.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41412529/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Breast",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-16"
+      },
+      {
         "id": "rec5x0N6vLC8Dtomg",
         "title": "Therapeutic effects of methotrexate encapsulated in hyaluronic acid-coated exosomes derived from Wharton's jelly mesenchymal stem cells in a rat model of rheumatoid arthritis.",
         "summary": "Methotrexate (MTX) is widely used for treating rheumatoid arthritis (RA); however, its clinical application is limited because of its nonspecific distribution and significant long-term adverse effe...",
@@ -418,21 +433,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-14"
-      },
-      {
-        "id": "recld2Gt0rEv0E6vB",
-        "title": "Precision screening identifies mitoxantrone as a multitarget inhibitor in ageing-associated cancers with extensive computational validation and doxorubicin comparison.",
-        "summary": "Mitoxantrone shows promise as a potential multi-target drug for treating ageing-associated cancers, demonstrating superior performance compared to doxorubicin through computational analysis.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41686850/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Prostate",
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -886,10 +886,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6794,
+    "archive_count": 6795,
     "archive_supplements": 772,
     "archive_off_label": 283,
-    "archive_biomarkers": 3955,
+    "archive_biomarkers": 3956,
     "archive_trials": 1486
   }
 }
