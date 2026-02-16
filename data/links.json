@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-16T07:04:32.109Z",
+  "last_updated": "2026-02-16T07:04:46.102Z",
   "categories": {
     "supplements": [
       {
@@ -102,6 +102,20 @@
         "added_date": "2026-02-16"
       },
       {
+        "id": "recRPn1P9atVNI593",
+        "title": "Advances in AI for predicting pharmacological properties of natural medicines.",
+        "summary": "AI-powered screening techniques can efficiently identify promising natural compounds with potential pharmaceutical properties, accelerating drug discovery and development processes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41475482/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-16"
+      },
+      {
         "id": "recAtO6G0WleVB1XZ",
         "title": "Bufotalin targets COL1A1 to suppress non-small cell lung cancer growth and remodel the tumor microenvironment via dual inhibition of PI3K/AKT/mTOR and MAPK pathways.",
         "summary": "Bufotalin targets COL1A1 in non-small cell lung cancer, simultaneously blocking cancer cell growth and remodeling the tumor environment.",
@@ -198,21 +212,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Lung",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-15"
-      },
-      {
-        "id": "reclRXBZzI6EDh2wE",
-        "title": "Multifunctional pectin derivatives as anticancer agents in colorectal cancer via synthesis, computational insights, and modulation of NRF2/HO-1, HIF-1α, and VEGF/PDGF-D signaling pathways.",
-        "summary": "This research describes the design, synthesis, characterization, and biological assessment of new Pectin-based Hydrazide and Oxadiazole derivatives as possible anticancer agents.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41688504/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal",
           "Leukemia"
         ],
         "quality_score": 15,
@@ -886,8 +885,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6802,
-    "archive_supplements": 773,
+    "archive_count": 6803,
+    "archive_supplements": 774,
     "archive_off_label": 285,
     "archive_biomarkers": 3960,
     "archive_trials": 1486
