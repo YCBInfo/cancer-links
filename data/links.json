@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-16T05:04:36.628Z",
+  "last_updated": "2026-02-16T05:04:47.312Z",
   "categories": {
     "supplements": [
       {
@@ -641,18 +641,19 @@
         "added_date": "2026-02-16"
       },
       {
-        "id": "rec12rOuOzt84LFhe",
-        "title": "Helicobacter pylori induces the production of interleukin-37 to promote broad immunosuppression and enhance colonization.",
-        "summary": "Helicobacter pylori bacteria manipulate the immune system by triggering interleukin-37 production, which suppresses immune responses and helps the bacteria colonize the stomach.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41689434/",
+        "id": "recZMkyYPp0JpRBxd",
+        "title": "UBE2T-Driven p53 Degradation Rewires Glycolysis to Orchestrate Lactylation-Mediated CAFs Activation and ECM Deposition in Pancreatic Cancer.",
+        "summary": "In pancreatic cancer, UBE2T drives metabolic changes that increase lactate production, activating cancer-associated fibroblasts and hindering immunotherapy effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41691486/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
-          "General"
+          "Leukemia",
+          "Pancreatic"
         ],
-        "quality_score": 12,
+        "quality_score": 15,
         "pub_date": "2026-02-01",
-        "added_date": "2026-02-15"
+        "added_date": "2026-02-16"
       }
     ],
     "trials": [
@@ -802,6 +803,21 @@
         "added_date": "2026-02-16"
       },
       {
+        "id": "recZMkyYPp0JpRBxd",
+        "title": "UBE2T-Driven p53 Degradation Rewires Glycolysis to Orchestrate Lactylation-Mediated CAFs Activation and ECM Deposition in Pancreatic Cancer.",
+        "summary": "In pancreatic cancer, UBE2T drives metabolic changes that increase lactate production, activating cancer-associated fibroblasts and hindering immunotherapy effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41691486/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia",
+          "Pancreatic"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-16"
+      },
+      {
         "id": "recrcPQGBQSDgoRYy",
         "title": "Gut bacterial O-demethylation modulates systemic exposure to oral etoposide.",
         "summary": "Gut bacteria can modify the anticancer drug etoposide, potentially increasing its toxicity to myeloid cells and altering its systemic exposure.",
@@ -859,21 +875,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-15"
-      },
-      {
-        "id": "rec0Ft3M0lwLojLbF",
-        "title": "Exploratory association of muscle and adipose tissue indices with clinical outcomes in aggressive lymphomas.",
-        "summary": "In older adults with aggressive non-Hodgkin lymphoma, body composition measurements from CT scans may predict survival and treatment outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41669999/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia",
-          "Lymphoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-15"
       }
     ]
   },
@@ -883,10 +884,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6752,
+    "archive_count": 6753,
     "archive_supplements": 769,
     "archive_off_label": 283,
-    "archive_biomarkers": 3923,
+    "archive_biomarkers": 3924,
     "archive_trials": 1479
   }
 }
