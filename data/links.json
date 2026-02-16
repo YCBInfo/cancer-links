@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-16T05:12:01.535Z",
+  "last_updated": "2026-02-16T07:02:26.091Z",
   "categories": {
     "supplements": [
       {
@@ -36,6 +36,34 @@
         "title": "How Acute and Chronic Exercise Regulate Muscle Atrophic Genes to Mitigate Sarcopenia: A Narrative Review.",
         "summary": "Exercise can mitigate muscle wasting by activating growth pathways and suppressing atrophy genes, potentially helping prevent loss of muscle mass in aging and chronic conditions.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41691131/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-16"
+      },
+      {
+        "id": "recCyALSqy80lmKrN",
+        "title": "Tumor cell cycle regulation: integrated perspective of stage characteristics, regulatory networks, and signaling pathway intervention strategies.",
+        "summary": "The review explores how disrupted cell cycle regulation drives tumor growth and identifies potential targeted therapies by analyzing regulatory networks and signaling pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41692895/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-16"
+      },
+      {
+        "id": "recpjgkXo7bmneutb",
+        "title": "High-dose vitamin C supplementation in patients undergoing allogeneic hematopoietic stem cell transplantation: A pilot randomized, triple-blind, placebo-controlled trial.",
+        "summary": "High-dose vitamin C supplementation may reduce complications and improve recovery for patients undergoing stem cell transplantation for blood disorders.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41692856/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -190,34 +218,6 @@
         "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-02-15"
-      },
-      {
-        "id": "recny6JfnYrhXCgwO",
-        "title": "Prognostic impact of weight loss during radiation therapy in patients with head and neck cancer: A systematic review.",
-        "summary": "In head and neck cancer patients, weight loss greater than 10% before radiation therapy consistently predicts worse survival outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41686741/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 22,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-14"
-      },
-      {
-        "id": "recThhngozitAZeJv",
-        "title": "Insights into the potential mechanism of Beiqishen Jiangtang Granule in the treatment of type 2 diabetes nephropathy: A study based on network pharmacology, molecular docking, and biological validation.",
-        "summary": "Beiqishen Jiangtang Granule helps manage type 2 diabetes by regulating insulin, inflammatory markers, and gut microbiota through multiple molecular pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41686594/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-14"
       }
     ],
     "off_label": [
@@ -886,10 +886,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6789,
+    "archive_count": 6790,
     "archive_supplements": 770,
     "archive_off_label": 283,
     "archive_biomarkers": 3953,
-    "archive_trials": 1485
+    "archive_trials": 1486
   }
 }
