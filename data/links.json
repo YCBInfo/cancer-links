@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-16T05:03:44.661Z",
+  "last_updated": "2026-02-16T05:03:55.665Z",
   "categories": {
     "supplements": [
       {
@@ -570,6 +570,20 @@
         "added_date": "2026-02-16"
       },
       {
+        "id": "rec9Y5SqhlBpaWLhv",
+        "title": "Characterization of tumour microenvironment in thymic epithelial tumours of different histological subtypes.",
+        "summary": "Thymic epithelial tumours (TETs) include several World Health Organization (WHO) defined histological subtypes, ranging from indolent thymomas to highly aggressive thymic carcinoma (TC).",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41691589/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-16"
+      },
+      {
         "id": "rec12rOuOzt84LFhe",
         "title": "Helicobacter pylori induces the production of interleukin-37 to promote broad immunosuppression and enhance colonization.",
         "summary": "Helicobacter pylori bacteria manipulate the immune system by triggering interleukin-37 production, which suppresses immune responses and helps the bacteria colonize the stomach.",
@@ -638,21 +652,6 @@
         "cancer_types": [
           "Leukemia",
           "Lymphoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-15"
-      },
-      {
-        "id": "recWSyeZJ93hw07IU",
-        "title": "Evolving strategies in prostate cancer: Emerging approaches and unmet needs from the Bridging the Gaps in Prostate Cancer expert panel.",
-        "summary": "The expansion of treatment options for prostate cancer (PC) has improved disease-specific and overall survival outcomes but has also raised questions about the optimal level of treatment needed for...",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41669866/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Prostate",
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -887,10 +886,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6747,
+    "archive_count": 6748,
     "archive_supplements": 769,
     "archive_off_label": 283,
     "archive_biomarkers": 3919,
-    "archive_trials": 1478
+    "archive_trials": 1479
   }
 }
