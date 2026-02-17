@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-17T05:25:08.908Z",
+  "last_updated": "2026-02-17T05:25:19.794Z",
   "categories": {
     "supplements": [
       {
@@ -53,6 +53,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-17"
+      },
+      {
+        "id": "recCoSBOl8PZDvjXW",
+        "title": "Efficacy and safety of integrated Chinese and Western medicine in advanced pancreatic cancer: A double-center retrospective cohort study.",
+        "summary": "In advanced pancreatic cancer, combining Chinese and Western medicine showed potential benefits, potentially improving patient outcomes compared to traditional treatment alone.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41695916/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Pancreatic"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -195,20 +209,6 @@
         "cancer_types": [
           "Leukemia",
           "Thyroid"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-16"
-      },
-      {
-        "id": "recmwFcUM2XI6NwJZ",
-        "title": "Xuefu Zhuyu Capsule alleviates depression in post-stroke depression model rats via modulation of the gut microbiota-gut-brain axis.",
-        "summary": "Xuefu Zhuyu Capsule reduced post-stroke depression symptoms in rats by positively modifying gut microbiota and decreasing neuroinflammation.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41692443/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -885,10 +885,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6984,
+    "archive_count": 6985,
     "archive_supplements": 796,
     "archive_off_label": 286,
     "archive_biomarkers": 4098,
-    "archive_trials": 1506
+    "archive_trials": 1507
   }
 }
