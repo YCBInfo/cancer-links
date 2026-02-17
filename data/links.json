@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-17T05:02:34.232Z",
+  "last_updated": "2026-02-17T05:02:46.295Z",
   "categories": {
     "supplements": [
       {
@@ -490,6 +490,22 @@
         "added_date": "2026-02-17"
       },
       {
+        "id": "recED2HeuasSqsBwG",
+        "title": "Profound alterations of cancer transcriptomes by the RNase L inhibitor ABCE1 through the modulation of UU/UA-dinucleotide rich transcript abundance.",
+        "summary": "ABCE1 overexpression in colorectal cancer alters gene expression of cell cycle-related transcripts, surprisingly correlating with improved patient survival.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41663214/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung",
+          "Colorectal",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-17"
+      },
+      {
         "id": "recnBiy3u81aH86KW",
         "title": "Melanoma: a genetics guide for surgeons.",
         "summary": "Melanoma is considered the most lethal cutaneous malignancy when not detected early and treated at early stages.",
@@ -632,20 +648,6 @@
         "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-16"
-      },
-      {
-        "id": "rec9BtT4qq5q7OBpX",
-        "title": "The likely possibility of predicting treatment outcomes of cervical lesions using serum FOXP3 and P16INK4A as shown by a cohort study in South Western Uganda.",
-        "summary": "The study suggests that blood levels of FOXP3 and P16INK4A could help predict treatment outcomes for cervical lesions in Uganda.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41691576/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-16"
       }
     ],
     "trials": [
@@ -689,6 +691,22 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-17"
+      },
+      {
+        "id": "recED2HeuasSqsBwG",
+        "title": "Profound alterations of cancer transcriptomes by the RNase L inhibitor ABCE1 through the modulation of UU/UA-dinucleotide rich transcript abundance.",
+        "summary": "ABCE1 overexpression in colorectal cancer alters gene expression of cell cycle-related transcripts, surprisingly correlating with improved patient survival.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41663214/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung",
+          "Colorectal",
+          "Leukemia"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-17"
       },
@@ -851,20 +869,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-16"
-      },
-      {
-        "id": "rec2vaaYfsocPV7pI",
-        "title": "Uptake of cascade tests in relatives of patients undergoing cancer precision medicine in Japan.",
-        "summary": "In a Japanese study, researchers examined how many relatives of cancer patients chose to undergo genetic testing after a precision medicine diagnosis.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41691475/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-16"
       }
     ]
   },
@@ -874,10 +878,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6858,
+    "archive_count": 6859,
     "archive_supplements": 793,
     "archive_off_label": 285,
-    "archive_biomarkers": 3988,
+    "archive_biomarkers": 3989,
     "archive_trials": 1494
   }
 }
