@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-17T05:04:45.780Z",
+  "last_updated": "2026-02-17T05:04:57.471Z",
   "categories": {
     "supplements": [
       {
@@ -845,27 +845,28 @@
         "added_date": "2026-02-17"
       },
       {
+        "id": "recg2T44kagLCpQs8",
+        "title": "PDZK1-ULK1 Axis Triggers Lipophagy to Inhibit Tumor Progression and Sunitinib Resistance in Clear Cell Renal Cell Carcinoma.",
+        "summary": "PDZK1 inhibits lipid droplet accumulation in kidney cancer by activating ULK1, potentially improving sunitinib treatment response.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41698049/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal",
+          "Leukemia",
+          "Kidney"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-17"
+      },
+      {
         "id": "recnBiy3u81aH86KW",
         "title": "Melanoma: a genetics guide for surgeons.",
         "summary": "Melanoma is considered the most lethal cutaneous malignancy when not detected early and treated at early stages.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41691534/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Melanoma",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-16"
-      },
-      {
-        "id": "rec3tBMyjxFzKaliX",
-        "title": "Determinants of adjuvant treatment choice between immunotherapy (immune checkpoint inhibitor) and targeted therapy in resected stage III BRAF V600-mutated cutaneous melanoma: a multicenter observational study: MELADJ3.",
-        "summary": "In stage III BRAF-mutated melanoma, younger working patients preferred targeted therapy, while older patients chose immunotherapy, based on personal lifestyle and medical follow-up preferences.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41691529/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
         "cancer_types": [
           "Melanoma",
           "Leukemia"
@@ -882,10 +883,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6869,
+    "archive_count": 6870,
     "archive_supplements": 793,
     "archive_off_label": 285,
-    "archive_biomarkers": 3997,
+    "archive_biomarkers": 3998,
     "archive_trials": 1496
   }
 }
