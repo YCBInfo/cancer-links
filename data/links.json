@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-17T05:24:26.601Z",
+  "last_updated": "2026-02-17T05:24:37.144Z",
   "categories": {
     "supplements": [
       {
@@ -39,6 +39,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-17"
+      },
+      {
+        "id": "recaeMzm6XEDtBjLK",
+        "title": "Taurine suppresses gastric intestinal metaplasia in patient-derived organoids and Atp4a -/- mice.",
+        "summary": "Taurine effectively reduced precancerous changes in stomach tissue, offering a potential preventive strategy for gastric cancer development.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41695925/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Stomach"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -197,20 +211,6 @@
           "Leukemia"
         ],
         "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-16"
-      },
-      {
-        "id": "recy981CcCoUh5iMh",
-        "title": "Protective effect of docosahexaenoic acid supplementation during pregnancy against lipopolysaccharide-induced intrauterine growth restriction in fetal mice.",
-        "summary": "Docosahexaenoic acid (DHA) supplementation during pregnancy reduced inflammation-related fetal growth restriction in mice, potentially offering a protective nutritional strategy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41692177/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-16"
       }
@@ -885,10 +885,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6980,
+    "archive_count": 6981,
     "archive_supplements": 795,
     "archive_off_label": 286,
-    "archive_biomarkers": 4095,
+    "archive_biomarkers": 4096,
     "archive_trials": 1506
   }
 }
