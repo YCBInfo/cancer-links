@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-17T10:02:44.930Z",
+  "last_updated": "2026-02-17T10:02:56.164Z",
   "categories": {
     "supplements": [
       {
@@ -363,6 +363,20 @@
         "added_date": "2026-02-17"
       },
       {
+        "id": "recE0UsGsSehWrZK8",
+        "title": "Disseminated Strongyloidiasis Following Chemoradiotherapy for Lung Cancer in a Patient Living in a Non-endemic Area in Japan.",
+        "summary": "A lung cancer patient with HTLV-1 developed disseminated strongyloidiasis after chemoradiotherapy, successfully treated with intermittent ivermectin over six months.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40707225/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-17"
+      },
+      {
         "id": "recV0LUBl5nJl0T7v",
         "title": "cRGD-Functionalized macrophage extracellular vesicles loaded with GSK2033 enhance T cell antitumor immunity in GBM by disrupting the LXR/ABCA1-Mediated Myelin lipid transfer axis.",
         "summary": "cRGD-functionalized macrophage extracellular vesicles loaded with GSK2033 enhance T cell immunity by disrupting lipid transfer in glioblastoma, improving tumor treatment.",
@@ -413,20 +427,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41691736/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-16"
-      },
-      {
-        "id": "recmyvPySDKJS0rn4",
-        "title": "Ameliorative effects of gum Arabic-coated selenium nanoparticles on Cisplatin-induced cerebellar neurotoxicity in rats.",
-        "summary": "Selenium nanoparticles coated with Arabic gum successfully reduced neurotoxic damage in rat cerebellum caused by cisplatin chemotherapy treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41680296/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Leukemia"
         ],
@@ -887,10 +887,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7050,
+    "archive_count": 7051,
     "archive_supplements": 813,
     "archive_off_label": 290,
     "archive_biomarkers": 4129,
-    "archive_trials": 1520
+    "archive_trials": 1521
   }
 }
