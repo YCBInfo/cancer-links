@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-17T05:02:56.152Z",
+  "last_updated": "2026-02-17T05:03:06.807Z",
   "categories": {
     "supplements": [
       {
@@ -506,6 +506,20 @@
         "added_date": "2026-02-17"
       },
       {
+        "id": "recHrKPIYodXcMk3J",
+        "title": "Prophylactic Mechanical Closure for Preventing Delayed Bleeding after Gastric Endoscopic Submucosal Dissection: A Systematic Review and Meta-Analysis.",
+        "summary": "Mechanical closure after gastric endoscopic submucosal dissection significantly reduces the risk of delayed bleeding complications.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41693739/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-17"
+      },
+      {
         "id": "recnBiy3u81aH86KW",
         "title": "Melanoma: a genetics guide for surgeons.",
         "summary": "Melanoma is considered the most lethal cutaneous malignancy when not detected early and treated at early stages.",
@@ -634,20 +648,6 @@
         "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-16"
-      },
-      {
-        "id": "rec9Y5SqhlBpaWLhv",
-        "title": "Characterization of tumour microenvironment in thymic epithelial tumours of different histological subtypes.",
-        "summary": "Thymic epithelial tumours (TETs) include several World Health Organization (WHO) defined histological subtypes, ranging from indolent thymomas to highly aggressive thymic carcinoma (TC).",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41691589/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-16"
       }
     ],
     "trials": [
@@ -704,6 +704,20 @@
         "cancer_types": [
           "Lung",
           "Colorectal",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-17"
+      },
+      {
+        "id": "recHrKPIYodXcMk3J",
+        "title": "Prophylactic Mechanical Closure for Preventing Delayed Bleeding after Gastric Endoscopic Submucosal Dissection: A Systematic Review and Meta-Analysis.",
+        "summary": "Mechanical closure after gastric endoscopic submucosal dissection significantly reduces the risk of delayed bleeding complications.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41693739/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
           "Leukemia"
         ],
         "quality_score": 15,
@@ -854,21 +868,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-16"
-      },
-      {
-        "id": "recZMkyYPp0JpRBxd",
-        "title": "UBE2T-Driven p53 Degradation Rewires Glycolysis to Orchestrate Lactylation-Mediated CAFs Activation and ECM Deposition in Pancreatic Cancer.",
-        "summary": "In pancreatic cancer, UBE2T drives metabolic changes that increase lactate production, activating cancer-associated fibroblasts and hindering immunotherapy effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41691486/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia",
-          "Pancreatic"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-16"
       }
     ]
   },
@@ -878,10 +877,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6860,
+    "archive_count": 6861,
     "archive_supplements": 793,
     "archive_off_label": 285,
-    "archive_biomarkers": 3990,
+    "archive_biomarkers": 3991,
     "archive_trials": 1494
   }
 }
