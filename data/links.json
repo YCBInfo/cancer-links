@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-17T10:02:00.897Z",
+  "last_updated": "2026-02-17T10:02:12.152Z",
   "categories": {
     "supplements": [
       {
@@ -349,6 +349,20 @@
         "added_date": "2026-02-17"
       },
       {
+        "id": "recr0n2M7MpmQAUEh",
+        "title": "HSP90AB1-Mediated Ubiquitin-Proteasome Degradation of ITGBL1 Promotes Osteosarcoma Progression by Inhibiting Endoplasmic Reticulum Stress-Induced Autophagy.",
+        "summary": "In osteosarcoma, HSP90AB1 promotes cancer progression by degrading ITGBL1, a protein that suppresses tumor growth, with ivermectin showing potential as a treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41697125/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-17"
+      },
+      {
         "id": "recV0LUBl5nJl0T7v",
         "title": "cRGD-Functionalized macrophage extracellular vesicles loaded with GSK2033 enhance T cell antitumor immunity in GBM by disrupting the LXR/ABCA1-Mediated Myelin lipid transfer axis.",
         "summary": "cRGD-functionalized macrophage extracellular vesicles loaded with GSK2033 enhance T cell immunity by disrupting lipid transfer in glioblastoma, improving tumor treatment.",
@@ -419,20 +433,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-16"
-      },
-      {
-        "id": "rec5x0N6vLC8Dtomg",
-        "title": "Therapeutic effects of methotrexate encapsulated in hyaluronic acid-coated exosomes derived from Wharton's jelly mesenchymal stem cells in a rat model of rheumatoid arthritis.",
-        "summary": "Methotrexate (MTX) is widely used for treating rheumatoid arthritis (RA); however, its clinical application is limited because of its nonspecific distribution and significant long-term adverse effe...",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41611067/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-15"
       }
     ],
     "biomarkers": [
@@ -887,10 +887,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7046,
+    "archive_count": 7047,
     "archive_supplements": 813,
     "archive_off_label": 289,
-    "archive_biomarkers": 4127,
+    "archive_biomarkers": 4128,
     "archive_trials": 1519
   }
 }
