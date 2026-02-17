@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-17T05:26:01.344Z",
+  "last_updated": "2026-02-17T05:26:12.257Z",
   "categories": {
     "supplements": [
       {
@@ -289,6 +289,20 @@
         "added_date": "2026-02-17"
       },
       {
+        "id": "recsziDooOejzM5rg",
+        "title": "Exposure to GLP-1RA and risk of structural progression in differentiated thyroid cancer.",
+        "summary": "GLP-1 receptor agonists may potentially slow structural progression in patients with well-differentiated thyroid cancer, suggesting a promising new therapeutic approach.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41693146/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Thyroid"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-17"
+      },
+      {
         "id": "recV0LUBl5nJl0T7v",
         "title": "cRGD-Functionalized macrophage extracellular vesicles loaded with GSK2033 enhance T cell antitumor immunity in GBM by disrupting the LXR/ABCA1-Mediated Myelin lipid transfer axis.",
         "summary": "cRGD-functionalized macrophage extracellular vesicles loaded with GSK2033 enhance T cell immunity by disrupting lipid transfer in glioblastoma, improving tumor treatment.",
@@ -415,20 +429,6 @@
           "Lymphoma"
         ],
         "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-15"
-      },
-      {
-        "id": "recsCbbgUw6w32YYz",
-        "title": "Determinants of access route in single-port off-clamp robotic partial nephrectomy: A contemporary cohort study.",
-        "summary": "Tumor location, size, and kidney anatomy help surgeons decide between retroperitoneal or transperitoneal approaches during single-port robotic kidney cancer surgery.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41688720/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-15"
       }
@@ -885,10 +885,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6989,
+    "archive_count": 6990,
     "archive_supplements": 797,
     "archive_off_label": 286,
-    "archive_biomarkers": 4100,
+    "archive_biomarkers": 4101,
     "archive_trials": 1508
   }
 }
