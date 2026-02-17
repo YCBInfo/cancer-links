@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-17T05:03:32.432Z",
+  "last_updated": "2026-02-17T05:03:48.086Z",
   "categories": {
     "supplements": [
       {
@@ -550,6 +550,22 @@
         "added_date": "2026-02-17"
       },
       {
+        "id": "rect8jeLOsQUtPSm9",
+        "title": "Cancer incidence and mortality trends from 2007 to 2021 in Milan.",
+        "summary": "In Milan, cancer incidence declined for males and stabilized for females from 2007-2021, with mortality decreasing in both sexes, despite COVID-19 diagnostic disruptions in 2020.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41698010/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal",
+          "Leukemia",
+          "Bladder"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-17"
+      },
+      {
         "id": "recnBiy3u81aH86KW",
         "title": "Melanoma: a genetics guide for surgeons.",
         "summary": "Melanoma is considered the most lethal cutaneous malignancy when not detected early and treated at early stages.",
@@ -635,20 +651,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
-        "added_date": "2026-02-16"
-      },
-      {
-        "id": "rec7PsUdcIpdm1c7O",
-        "title": "Neoadjuvant Chemotherapy in Triple Negative Breast Cancer: A Systematic Review of Breast and Node Pathologic Response.",
-        "summary": "In triple-negative breast cancer, neoadjuvant chemotherapy shows varying complete response rates between breast tumors and lymph nodes, potentially impacting future surgical approaches.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41691697/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 22,
-        "pub_date": "2026-02-01",
         "added_date": "2026-02-16"
       }
     ],
@@ -757,6 +759,36 @@
         "added_date": "2026-02-17"
       },
       {
+        "id": "rect8jeLOsQUtPSm9",
+        "title": "Cancer incidence and mortality trends from 2007 to 2021 in Milan.",
+        "summary": "In Milan, cancer incidence declined for males and stabilized for females from 2007-2021, with mortality decreasing in both sexes, despite COVID-19 diagnostic disruptions in 2020.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41698010/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal",
+          "Leukemia",
+          "Bladder"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-17"
+      },
+      {
+        "id": "recO3Yyvi2oedyCqS",
+        "title": "A systems approach identifies MERTK as a therapeutic vulnerability in ZFTA-RELA-driven ependymomas.",
+        "summary": "In ZFTA-RELA-driven ependymomas, targeting MERTK reduces tumor growth by suppressing key pro-survival signaling pathways in this aggressive brain cancer subtype.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41665993/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-17"
+      },
+      {
         "id": "recnBiy3u81aH86KW",
         "title": "Melanoma: a genetics guide for surgeons.",
         "summary": "Melanoma is considered the most lethal cutaneous malignancy when not detected early and treated at early stages.",
@@ -843,34 +875,6 @@
         "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-16"
-      },
-      {
-        "id": "rec9BtT4qq5q7OBpX",
-        "title": "The likely possibility of predicting treatment outcomes of cervical lesions using serum FOXP3 and P16INK4A as shown by a cohort study in South Western Uganda.",
-        "summary": "The study suggests that blood levels of FOXP3 and P16INK4A could help predict treatment outcomes for cervical lesions in Uganda.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41691576/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-16"
-      },
-      {
-        "id": "recCbL11Th5Tgd5QR",
-        "title": "Association between baseline prostate MRI PI-RADS classification and risk of Gleason upgrade during active surveillance: a systematic review and meta-analysis.",
-        "summary": "Higher baseline PI-RADS scores on prostate MRI are associated with increased risk of Gleason grade progression in low-risk prostate cancer patients under active surveillance.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41691567/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Prostate"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-16"
       }
     ]
   },
@@ -880,10 +884,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6863,
+    "archive_count": 6864,
     "archive_supplements": 793,
     "archive_off_label": 285,
-    "archive_biomarkers": 3992,
+    "archive_biomarkers": 3993,
     "archive_trials": 1495
   }
 }
