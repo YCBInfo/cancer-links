@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-17T07:04:00.541Z",
+  "last_updated": "2026-02-17T07:04:11.764Z",
   "categories": {
     "supplements": [
       {
@@ -306,6 +306,21 @@
         "added_date": "2026-02-17"
       },
       {
+        "id": "recLgNavkpCr7QfX5",
+        "title": "Digoxin attenuates LPS-induced acute lung injury in mice via NF-κB and HIF-1α inhibition.",
+        "summary": "Digoxin effectively reduces lung inflammation and injury in mice by inhibiting key inflammatory pathways after lipopolysaccharide-induced acute lung damage.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41693482/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Lung",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-17"
+      },
+      {
         "id": "recV0LUBl5nJl0T7v",
         "title": "cRGD-Functionalized macrophage extracellular vesicles loaded with GSK2033 enhance T cell antitumor immunity in GBM by disrupting the LXR/ABCA1-Mediated Myelin lipid transfer axis.",
         "summary": "cRGD-functionalized macrophage extracellular vesicles loaded with GSK2033 enhance T cell immunity by disrupting lipid transfer in glioblastoma, improving tumor treatment.",
@@ -418,21 +433,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
-        "added_date": "2026-02-15"
-      },
-      {
-        "id": "recxGRYs1r90LJTED",
-        "title": "Complete remission of relapsed ATXN2L::JAK2 fusion positive anaplastic large cell lymphoma following ruxolitinib monotherapy in a child.",
-        "summary": "A 13-year-old boy with relapsed ALK-negative anaplastic large cell lymphoma achieved complete remission using ruxolitinib after identifying a rare JAK2 gene fusion.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41688673/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia",
-          "Lymphoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
         "added_date": "2026-02-15"
       }
     ],
@@ -888,10 +888,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7015,
+    "archive_count": 7016,
     "archive_supplements": 800,
     "archive_off_label": 287,
-    "archive_biomarkers": 4115,
+    "archive_biomarkers": 4116,
     "archive_trials": 1515
   }
 }
