@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-17T05:25:19.794Z",
+  "last_updated": "2026-02-17T05:25:30.170Z",
   "categories": {
     "supplements": [
       {
@@ -67,6 +67,21 @@
         "category": "Clinical Trials",
         "cancer_types": [
           "Pancreatic"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-17"
+      },
+      {
+        "id": "rec26lQigfU3QIb5K",
+        "title": "Clinical efficacy of Fuzheng Jiedu Xiaoyong granules in advanced colorectal cancer (spleen deficiency and stasis toxin syndrome).",
+        "summary": "Fuzheng Jiedu Xiaoyong granules improved immune function and reduced side effects in patients with advanced colorectal cancer undergoing chemotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41695913/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal",
+          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -194,21 +209,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-16"
-      },
-      {
-        "id": "rec773UIAekJZe3bw",
-        "title": "Quercetin suppresses the proliferation of thyroid cancer cells by reducing the expression level of DPP4 and inhibiting its enzyme activity.",
-        "summary": "Quercetin, a compound from Cistanches Herba, suppresses thyroid cancer cell growth by reducing DPP4 expression and enzyme activity.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41689601/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia",
-          "Thyroid"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -885,10 +885,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6985,
+    "archive_count": 6986,
     "archive_supplements": 796,
     "archive_off_label": 286,
-    "archive_biomarkers": 4098,
+    "archive_biomarkers": 4099,
     "archive_trials": 1507
   }
 }
