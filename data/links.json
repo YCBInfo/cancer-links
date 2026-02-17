@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-17T10:01:40.468Z",
+  "last_updated": "2026-02-17T10:01:51.414Z",
   "categories": {
     "supplements": [
       {
@@ -334,6 +334,21 @@
         "added_date": "2026-02-17"
       },
       {
+        "id": "recWe60iXzHcP3ZiV",
+        "title": "Targeting of HSP27 and MMP-2/9 Crosstalk by High-Throughput Drug Repurposing Strategies Identifies Paroxetine as a Potential Candidate in Glioblastoma.",
+        "summary": "Paroxetine, an antidepressant, was found to inhibit HSP27 and reduce tumor progression in glioblastoma by disrupting key molecular interactions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41698807/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Leukemia",
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-17"
+      },
+      {
         "id": "recV0LUBl5nJl0T7v",
         "title": "cRGD-Functionalized macrophage extracellular vesicles loaded with GSK2033 enhance T cell antitumor immunity in GBM by disrupting the LXR/ABCA1-Mediated Myelin lipid transfer axis.",
         "summary": "cRGD-functionalized macrophage extracellular vesicles loaded with GSK2033 enhance T cell immunity by disrupting lipid transfer in glioblastoma, improving tumor treatment.",
@@ -416,21 +431,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-15"
-      },
-      {
-        "id": "recqzNfyEx2OuGiPf",
-        "title": "CRISPR/Cas9-based genome-wide screen reveals a synergistic effect of Irinotecan and USP1 inhibitor in colorectal cancer.",
-        "summary": "In colorectal cancer, combining a USP1 inhibitor with Irinotecan significantly enhances drug effectiveness by disrupting cancer cell repair mechanisms and improving treatment response.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41577322/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal",
-          "Leukemia"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-15"
       }
@@ -887,10 +887,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7044,
+    "archive_count": 7045,
     "archive_supplements": 812,
     "archive_off_label": 289,
     "archive_biomarkers": 4127,
-    "archive_trials": 1518
+    "archive_trials": 1519
   }
 }
