@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-17T05:19:51.381Z",
+  "last_updated": "2026-02-17T05:20:01.466Z",
   "categories": {
     "supplements": [
       {
@@ -246,6 +246,20 @@
         "added_date": "2026-02-17"
       },
       {
+        "id": "reclUVp6aKBVEvOee",
+        "title": "Cancer-Associated Fibroblasts Promote Imatinib Resistance in Gastrointestinal Stromal Tumors through PGK1-Mediated Metabolic Reprogramming.",
+        "summary": "Cancer-associated fibroblasts in gastrointestinal stromal tumors promote imatinib resistance by altering cancer cell metabolism through TGFβ1 signaling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41270149/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-17"
+      },
+      {
         "id": "recV0LUBl5nJl0T7v",
         "title": "cRGD-Functionalized macrophage extracellular vesicles loaded with GSK2033 enhance T cell antitumor immunity in GBM by disrupting the LXR/ABCA1-Mediated Myelin lipid transfer axis.",
         "summary": "cRGD-functionalized macrophage extracellular vesicles loaded with GSK2033 enhance T cell immunity by disrupting lipid transfer in glioblastoma, improving tumor treatment.",
@@ -415,20 +429,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
-        "added_date": "2026-02-15"
-      },
-      {
-        "id": "recPY5uvqMnxX9GtC",
-        "title": "BRD4-mediated ER membrane contact creates functionally distinct mitochondrial subtypes.",
-        "summary": "Fedratinib, an FDA-approved drug, increases communication between endoplasmic reticulum and mitochondria, potentially altering cellular metabolism and mitochondrial function.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41690300/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
         "added_date": "2026-02-15"
       }
     ],
@@ -884,10 +884,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6954,
+    "archive_count": 6955,
     "archive_supplements": 794,
     "archive_off_label": 286,
-    "archive_biomarkers": 4071,
+    "archive_biomarkers": 4072,
     "archive_trials": 1505
   }
 }
