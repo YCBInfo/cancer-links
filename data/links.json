@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-02-17T05:06:52.801Z",
+  "last_updated": "2026-02-17T05:07:02.321Z",
   "categories": {
     "supplements": [
+      {
+        "id": "recRKRzUG9dkT4CXb",
+        "title": "The impact of dietary constituents on inflammation and cognitive function in healthy older Irish adults: A pilot study.",
+        "summary": "In healthy older adults, higher BMI, low physical activity, and nutrient deficiencies were associated with increased inflammation and decreased cognitive performance.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41697732/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-17"
+      },
       {
         "id": "recONZ3bDYO96d7i5",
         "title": "Neuroprotective effects of aegeline against LPS-induced memory dysfunction: involvement of hippocampal cholinergic/proinflammatory cytokines receptor modulation and insilico insight.",
@@ -191,20 +205,6 @@
         "title": "Influence of syringic acid on schizophrenia in mice: Modulation of PI3K/AKT1/GSK3β signaling pathway, galectin-3 and MBP.",
         "summary": "Syringic acid reduced schizophrenia-like symptoms in mice by suppressing neuroinflammation and improving myelin health through complex molecular pathway modulation.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41689874/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-16"
-      },
-      {
-        "id": "recBzMvQOsxo8CWty",
-        "title": "IGSF3 binds to TNFR2 on Treg to facilitate immunosuppression in cervical cancer.",
-        "summary": "In cervical cancer, IGSF3 helps regulatory T cells suppress immune responses, and blocking it with purpurogallin improves immunotherapy effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41690453/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -884,10 +884,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6881,
+    "archive_count": 6882,
     "archive_supplements": 793,
     "archive_off_label": 286,
-    "archive_biomarkers": 4007,
+    "archive_biomarkers": 4008,
     "archive_trials": 1497
   }
 }
