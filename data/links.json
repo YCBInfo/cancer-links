@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-17T05:21:59.264Z",
+  "last_updated": "2026-02-17T05:22:08.993Z",
   "categories": {
     "supplements": [
       {
@@ -260,6 +260,20 @@
         "added_date": "2026-02-17"
       },
       {
+        "id": "recGchJEo5s2y4rkq",
+        "title": "Metabolic dysfunction-associated steatotic liver disease and type 2 diabetes: Pathophysiology, diagnosis, and emerging therapeutic strategies.",
+        "summary": "In patients with type 2 diabetes, emerging pharmacotherapies like GLP-1 receptor agonists show promise in treating metabolic liver disease and reducing related health risks.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41696109/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-17"
+      },
+      {
         "id": "recV0LUBl5nJl0T7v",
         "title": "cRGD-Functionalized macrophage extracellular vesicles loaded with GSK2033 enhance T cell antitumor immunity in GBM by disrupting the LXR/ABCA1-Mediated Myelin lipid transfer axis.",
         "summary": "cRGD-functionalized macrophage extracellular vesicles loaded with GSK2033 enhance T cell immunity by disrupting lipid transfer in glioblastoma, improving tumor treatment.",
@@ -415,20 +429,6 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-02-01",
-        "added_date": "2026-02-15"
-      },
-      {
-        "id": "rec6mZ5N6cgz0q3qc",
-        "title": "Ketoconazole-carbonic anhydrase inhibitors as potential anticancer agents.",
-        "summary": "Researchers combined ketoconazole with carbonic anhydrase inhibitors to disrupt cancer cell growth by targeting extracellular vesicle production and enzyme activity.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41418744/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
         "added_date": "2026-02-15"
       }
     ],
@@ -884,10 +884,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6966,
+    "archive_count": 6967,
     "archive_supplements": 794,
     "archive_off_label": 286,
-    "archive_biomarkers": 4082,
+    "archive_biomarkers": 4083,
     "archive_trials": 1506
   }
 }
