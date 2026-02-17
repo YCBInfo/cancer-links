@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-17T07:03:37.060Z",
+  "last_updated": "2026-02-17T07:03:48.794Z",
   "categories": {
     "supplements": [
       {
@@ -147,6 +147,20 @@
         "added_date": "2026-02-17"
       },
       {
+        "id": "recm1bGXSv79Sntgc",
+        "title": "Iron-based nanomaterials for tumor therapy: structural engineering and functional mechanisms.",
+        "summary": "Iron-based nanomaterials show promise in cancer treatment by generating reactive oxygen species, inducing cell death, and improving therapeutic targeting across multiple cancer types.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41693702/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-17"
+      },
+      {
         "id": "recONZ3bDYO96d7i5",
         "title": "Neuroprotective effects of aegeline against LPS-induced memory dysfunction: involvement of hippocampal cholinergic/proinflammatory cytokines receptor modulation and insilico insight.",
         "summary": "Aegeline, a natural compound, helps protect rat brain memory function by reducing inflammation and preserving cholinergic systems after lipopolysaccharide-induced damage.",
@@ -194,20 +208,6 @@
         "title": "Tumor cell cycle regulation: integrated perspective of stage characteristics, regulatory networks, and signaling pathway intervention strategies.",
         "summary": "The review explores how disrupted cell cycle regulation drives tumor growth and identifies potential targeted therapies by analyzing regulatory networks and signaling pathways.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41692895/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-16"
-      },
-      {
-        "id": "recpjgkXo7bmneutb",
-        "title": "High-dose vitamin C supplementation in patients undergoing allogeneic hematopoietic stem cell transplantation: A pilot randomized, triple-blind, placebo-controlled trial.",
-        "summary": "High-dose vitamin C supplementation may reduce complications and improve recovery for patients undergoing stem cell transplantation for blood disorders.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41692856/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -888,8 +888,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7013,
-    "archive_supplements": 799,
+    "archive_count": 7014,
+    "archive_supplements": 800,
     "archive_off_label": 287,
     "archive_biomarkers": 4115,
     "archive_trials": 1514
