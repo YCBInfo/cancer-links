@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-17T05:23:44.542Z",
+  "last_updated": "2026-02-17T05:23:55.109Z",
   "categories": {
     "supplements": [
       {
@@ -274,6 +274,21 @@
         "added_date": "2026-02-17"
       },
       {
+        "id": "recvG5EaMQZluZJlw",
+        "title": "Metallic elements and their molecular roles in gastric cancer: Pathogenic mechanisms and therapeutic implications.",
+        "summary": "Metallic elements like iron, copper, zinc, and calcium play critical roles in gastric cancer progression through complex molecular mechanisms that influence tumor development and potential treatment strategies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41695929/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia",
+          "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-17"
+      },
+      {
         "id": "recV0LUBl5nJl0T7v",
         "title": "cRGD-Functionalized macrophage extracellular vesicles loaded with GSK2033 enhance T cell antitumor immunity in GBM by disrupting the LXR/ABCA1-Mediated Myelin lipid transfer axis.",
         "summary": "cRGD-functionalized macrophage extracellular vesicles loaded with GSK2033 enhance T cell immunity by disrupting lipid transfer in glioblastoma, improving tumor treatment.",
@@ -408,20 +423,6 @@
         "title": "Determinants of access route in single-port off-clamp robotic partial nephrectomy: A contemporary cohort study.",
         "summary": "Tumor location, size, and kidney anatomy help surgeons decide between retroperitoneal or transperitoneal approaches during single-port robotic kidney cancer surgery.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41688720/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-15"
-      },
-      {
-        "id": "recFg7gJPJznXE6uW",
-        "title": "Metformin use and reduced dementia risk in older adults with type 2 diabetes and delirium.",
-        "summary": "Diabetes-related delirium markedly impairs cognitive function in older adults with type 2 diabetes mellitus (T2DM) and may precede dementia.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41554369/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -884,10 +885,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6976,
+    "archive_count": 6977,
     "archive_supplements": 795,
     "archive_off_label": 286,
-    "archive_biomarkers": 4091,
+    "archive_biomarkers": 4092,
     "archive_trials": 1506
   }
 }
