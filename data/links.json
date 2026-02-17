@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-17T05:22:08.993Z",
+  "last_updated": "2026-02-17T05:22:19.030Z",
   "categories": {
     "supplements": [
       {
@@ -13,6 +13,34 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-17"
+      },
+      {
+        "id": "recGchJEo5s2y4rkq",
+        "title": "Metabolic dysfunction-associated steatotic liver disease and type 2 diabetes: Pathophysiology, diagnosis, and emerging therapeutic strategies.",
+        "summary": "In patients with type 2 diabetes, emerging pharmacotherapies like GLP-1 receptor agonists show promise in treating metabolic liver disease and reducing related health risks.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41696109/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-17"
+      },
+      {
+        "id": "reco2P0FU2niqg3Ne",
+        "title": "Integrated hepatic transcriptome and metabolome reveal the mechanisms of Jiangtang Tiaozhi formula on improving glycolipid metabolic disorder.",
+        "summary": "Glycolipid metabolic disorder includes a series of chronic diseases that are closely associated with disturbances in both glucose and lipid metabolism.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41696100/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-17"
       },
@@ -183,34 +211,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-16"
-      },
-      {
-        "id": "recd77jHztnn58D0k",
-        "title": "Natural Combatants: How Herbal Monomers Regulate Autophagy in Ovarian Cancer.",
-        "summary": "Ovarian cancer (OC) is a lethal gynecological malignancy, with current therapies constrained by drug resistance and side effects.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41691674/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Ovarian"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-16"
-      },
-      {
-        "id": "recHYFlNdcFlLTDB3",
-        "title": "Influence of syringic acid on schizophrenia in mice: Modulation of PI3K/AKT1/GSK3β signaling pathway, galectin-3 and MBP.",
-        "summary": "Syringic acid reduced schizophrenia-like symptoms in mice by suppressing neuroinflammation and improving myelin health through complex molecular pathway modulation.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41689874/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-16"
       }
@@ -884,10 +884,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6967,
+    "archive_count": 6968,
     "archive_supplements": 794,
     "archive_off_label": 286,
-    "archive_biomarkers": 4083,
+    "archive_biomarkers": 4084,
     "archive_trials": 1506
   }
 }
