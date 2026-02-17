@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-17T07:02:22.562Z",
+  "last_updated": "2026-02-17T07:02:33.753Z",
   "categories": {
     "supplements": [
       {
@@ -84,6 +84,20 @@
           "Leukemia"
         ],
         "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-17"
+      },
+      {
+        "id": "recVUbGloZ2sdgxsr",
+        "title": "Mithramycin alters EWS::FLI1 DNA binding and RNA polymerase II processivity to inhibit nascent transcription.",
+        "summary": "Mithramycin disrupts the EWS::FLI1 oncogene's DNA binding and RNA polymerase activity, inhibiting transcription and reducing Ewing sarcoma tumor growth.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41698909/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-17"
       },
@@ -198,20 +212,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
-        "added_date": "2026-02-16"
-      },
-      {
-        "id": "reccKDWlEIYxsSZ5V",
-        "title": "Resveratrol targeting Smad4 via a concentration-dependent biphasic effect regulates stem cells-mediated regeneration.",
-        "summary": "Low-dose resveratrol promotes stem cell regeneration in planarians by enhancing cell proliferation and differentiation, while high doses inhibit the process.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41691936/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
         "added_date": "2026-02-16"
       }
     ],
@@ -885,10 +885,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7006,
+    "archive_count": 7007,
     "archive_supplements": 797,
     "archive_off_label": 287,
-    "archive_biomarkers": 4112,
+    "archive_biomarkers": 4113,
     "archive_trials": 1512
   }
 }
