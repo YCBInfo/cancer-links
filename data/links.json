@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-17T05:06:41.533Z",
+  "last_updated": "2026-02-17T05:06:52.801Z",
   "categories": {
     "supplements": [
       {
@@ -231,6 +231,21 @@
         "added_date": "2026-02-17"
       },
       {
+        "id": "recCaeD1CTmDhfdpk",
+        "title": "Hyperactivation of mTORC1 signaling mediates folliculin deficiency-induced pulmonary cyst formation in Birt-Hogg-Dubé syndrome.",
+        "summary": "In Birt-Hogg-Dubé syndrome, loss of the FLCN gene in lung mesenchymal cells leads to lung cyst formation through hyperactive mTORC1 signaling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41697734/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-17"
+      },
+      {
         "id": "recV0LUBl5nJl0T7v",
         "title": "cRGD-Functionalized macrophage extracellular vesicles loaded with GSK2033 enhance T cell antitumor immunity in GBM by disrupting the LXR/ABCA1-Mediated Myelin lipid transfer axis.",
         "summary": "cRGD-functionalized macrophage extracellular vesicles loaded with GSK2033 enhance T cell immunity by disrupting lipid transfer in glioblastoma, improving tumor treatment.",
@@ -411,20 +426,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-15"
-      },
-      {
-        "id": "recN8DHMbssgCBlfQ",
-        "title": "SLC5A11 Mediates Metformin-Induced PD-L1 Suppression to Enhance Cancer Immunotherapy through AMPK-IRF1 Signaling.",
-        "summary": "Metformin suppresses PD-L1 in cancer through SLC5A11, enhancing immunotherapy's effectiveness by boosting T cell response in lung and pancreatic tumors.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41690450/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Pancreatic"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -883,10 +884,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6880,
+    "archive_count": 6881,
     "archive_supplements": 793,
     "archive_off_label": 286,
-    "archive_biomarkers": 4006,
+    "archive_biomarkers": 4007,
     "archive_trials": 1497
   }
 }
