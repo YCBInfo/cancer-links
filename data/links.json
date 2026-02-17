@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-17T05:05:17.297Z",
+  "last_updated": "2026-02-17T05:05:28.302Z",
   "categories": {
     "supplements": [
       {
@@ -217,6 +217,20 @@
     ],
     "off_label": [
       {
+        "id": "recHo9WjzVWLAqeYS",
+        "title": "Insulin Autoimmune Syndrome Associated With Hashimoto Thyroiditis and Nodular Thyroid Disease: Clinical Management With Flash Glucose Monitoring and Prednisolone Therapy.",
+        "summary": "In a rare case, prednisolone therapy successfully managed a white woman's insulin autoimmune syndrome associated with Hashimoto's thyroiditis and hypoglycemia.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41697927/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 18,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-17"
+      },
+      {
         "id": "recV0LUBl5nJl0T7v",
         "title": "cRGD-Functionalized macrophage extracellular vesicles loaded with GSK2033 enhance T cell antitumor immunity in GBM by disrupting the LXR/ABCA1-Mediated Myelin lipid transfer axis.",
         "summary": "cRGD-functionalized macrophage extracellular vesicles loaded with GSK2033 enhance T cell immunity by disrupting lipid transfer in glioblastoma, improving tumor treatment.",
@@ -411,20 +425,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Pancreatic"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-15"
-      },
-      {
-        "id": "recoRHO8f0pxAJ9Pf",
-        "title": "Metformin and Oncogenic Pathways: Crosstalk Between Energy Sensing and Tumor Progression.",
-        "summary": "Metformin disrupts cancer cell growth by activating AMPK, inhibiting mTOR, and interfering with tumor metabolism and signaling pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41687746/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -883,10 +883,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 6872,
+    "archive_count": 6873,
     "archive_supplements": 793,
     "archive_off_label": 285,
-    "archive_biomarkers": 4000,
+    "archive_biomarkers": 4001,
     "archive_trials": 1496
   }
 }
