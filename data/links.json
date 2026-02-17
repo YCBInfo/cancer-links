@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-17T10:04:29.317Z",
+  "last_updated": "2026-02-17T10:04:40.877Z",
   "categories": {
     "supplements": [
       {
@@ -405,6 +405,20 @@
         "added_date": "2026-02-17"
       },
       {
+        "id": "recROIgMMrltIrpvg",
+        "title": "Efficacy of mebendazole in the spontaneous NZBxNZWF1 animal model of systemic lupus erythematosus.",
+        "summary": "Mebendazole treatment in lupus-prone mice reduced disease severity by decreasing protein in urine, antibody levels, and kidney damage.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41680254/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-17"
+      },
+      {
         "id": "recV0LUBl5nJl0T7v",
         "title": "cRGD-Functionalized macrophage extracellular vesicles loaded with GSK2033 enhance T cell antitumor immunity in GBM by disrupting the LXR/ABCA1-Mediated Myelin lipid transfer axis.",
         "summary": "cRGD-functionalized macrophage extracellular vesicles loaded with GSK2033 enhance T cell immunity by disrupting lipid transfer in glioblastoma, improving tumor treatment.",
@@ -417,21 +431,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
-        "added_date": "2026-02-16"
-      },
-      {
-        "id": "rec9oO3PJiJpryo9p",
-        "title": "A dual-responsive metal-polyphenol nanomedicine based on targeting LAT1 via levodopa and ROS amplification for precise treatment of breast cancer.",
-        "summary": "A metal-polyphenol nanoparticle targets triple-negative breast cancer cells, delivering chemotherapy and amplifying cell-killing reactive oxygen species.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41412529/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Breast",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
         "added_date": "2026-02-16"
       }
     ],
@@ -887,9 +886,9 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7059,
+    "archive_count": 7060,
     "archive_supplements": 813,
-    "archive_off_label": 292,
+    "archive_off_label": 293,
     "archive_biomarkers": 4133,
     "archive_trials": 1523
   }
