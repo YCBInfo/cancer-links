@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-17T07:04:42.167Z",
+  "last_updated": "2026-02-17T07:04:54.653Z",
   "categories": {
     "supplements": [
       {
@@ -321,6 +321,20 @@
         "added_date": "2026-02-17"
       },
       {
+        "id": "recsIB7Ohgdrx53kp",
+        "title": "Mitochondrial oxidants promote platelet activation and thrombotic susceptibility in prediabetes.",
+        "summary": "In prediabetes, mitochondrial oxidants increase platelet activation and thrombosis risk, which can be reduced by targeted antioxidant treatments.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41433113/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-17"
+      },
+      {
         "id": "recV0LUBl5nJl0T7v",
         "title": "cRGD-Functionalized macrophage extracellular vesicles loaded with GSK2033 enhance T cell antitumor immunity in GBM by disrupting the LXR/ABCA1-Mediated Myelin lipid transfer axis.",
         "summary": "cRGD-functionalized macrophage extracellular vesicles loaded with GSK2033 enhance T cell immunity by disrupting lipid transfer in glioblastoma, improving tumor treatment.",
@@ -419,20 +433,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
-        "added_date": "2026-02-15"
-      },
-      {
-        "id": "recbpRch6LM3Hh0Dt",
-        "title": "Tucidinostat ameliorates DSS-induced ulcerative colitis by inhibiting cellular senescence, modulating the p53 signaling pathway and cell cycle, and restoring the gut microbiota-metabolite Axis.",
-        "summary": "Tucidinostat reduces ulcerative colitis symptoms by inhibiting cellular aging, modulating cell signaling, and restoring beneficial gut bacteria and metabolites.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41485252/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
         "added_date": "2026-02-15"
       }
     ],
@@ -888,10 +888,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7019,
+    "archive_count": 7020,
     "archive_supplements": 800,
     "archive_off_label": 288,
-    "archive_biomarkers": 4117,
+    "archive_biomarkers": 4118,
     "archive_trials": 1516
   }
 }
