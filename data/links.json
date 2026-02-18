@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-18T07:05:23.120Z",
+  "last_updated": "2026-02-18T07:05:34.513Z",
   "categories": {
     "supplements": [
       {
@@ -828,6 +828,20 @@
         "added_date": "2026-02-18"
       },
       {
+        "id": "reczAsjgRSsKpssnQ",
+        "title": "Exploring the theranostic potential of two metabolically stable GRPR-targeting peptides labelled with Ga-68 for PET imaging.",
+        "summary": "Two modified peptides targeting gastrin-releasing peptide receptor showed promising potential for PET imaging and targeted radionuclide therapy of cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41701408/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-18"
+      },
+      {
         "id": "rec4KKM39oM6AMUwk",
         "title": "Palladium-catalysed synthesis of small-molecule epigenetic inhibitors as anticancer therapeutics.",
         "summary": "Palladium-catalyzed chemical reactions enable precise synthesis of small-molecule compounds that could potentially inhibit cancer cell growth by targeting epigenetic mechanisms.",
@@ -855,20 +869,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-17"
-      },
-      {
-        "id": "recb4z21m86skJV5I",
-        "title": "Diethyl Phthalate (DEP) as a potential osteosarcoma risk factor: a multi-omics study integrating network Toxicology, single-cell RNA sequencing, and molecular docking.",
-        "summary": "DEP, a common plasticiser, may increase osteosarcoma risk by disrupting extracellular matrix genes, potentially providing new diagnostic biomarkers.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41693684/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-17"
       }
     ]
   },
@@ -878,10 +878,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7090,
+    "archive_count": 7091,
     "archive_supplements": 820,
     "archive_off_label": 299,
     "archive_biomarkers": 4146,
-    "archive_trials": 1527
+    "archive_trials": 1528
   }
 }
