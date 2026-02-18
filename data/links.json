@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-18T07:03:26.737Z",
+  "last_updated": "2026-02-18T07:03:37.408Z",
   "categories": {
     "supplements": [
       {
@@ -583,6 +583,20 @@
         "added_date": "2026-02-18"
       },
       {
+        "id": "recJrZGFDKuo8VrQs",
+        "title": "Transient telomere uncapping triggers telomeric and subtelomeric rearrangements.",
+        "summary": "Transient telomere uncapping in yeast rapidly triggers extensive chromosome rearrangements and telomere elongation through homologous recombination mechanisms.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41703072/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-18"
+      },
+      {
         "id": "reckbVj0frNpjAxkp",
         "title": "Novel bacterium Enterocloster sp. M3 promotes colorectal tumorigenesis via the production of the carcinogen styrene.",
         "summary": "The bacterial marker 'm3' shows promise for the non-invasive diagnosis of colorectal cancer (CRC) and adenomas.",
@@ -636,22 +650,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-17"
-      },
-      {
-        "id": "recED2HeuasSqsBwG",
-        "title": "Profound alterations of cancer transcriptomes by the RNase L inhibitor ABCE1 through the modulation of UU/UA-dinucleotide rich transcript abundance.",
-        "summary": "ABCE1 overexpression in colorectal cancer alters gene expression of cell cycle-related transcripts, surprisingly correlating with improved patient survival.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41663214/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung",
-          "Colorectal",
-          "Leukemia"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-17"
       }
@@ -887,10 +885,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7079,
+    "archive_count": 7080,
     "archive_supplements": 817,
     "archive_off_label": 297,
-    "archive_biomarkers": 4140,
+    "archive_biomarkers": 4141,
     "archive_trials": 1527
   }
 }
