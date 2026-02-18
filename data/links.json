@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-18T07:03:17.098Z",
+  "last_updated": "2026-02-18T07:03:26.737Z",
   "categories": {
     "supplements": [
       {
@@ -222,6 +222,20 @@
     ],
     "off_label": [
       {
+        "id": "recTAcUvj8gLbHkvf",
+        "title": "A machine learning model for optimizing treatment of patients with poorly controlled type 2 diabetes.",
+        "summary": "A machine learning model predicts the most effective diabetes medication by analyzing individual patient characteristics to guide personalized treatment selection.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41703087/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Kidney"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-18"
+      },
+      {
         "id": "recHo9WjzVWLAqeYS",
         "title": "Insulin Autoimmune Syndrome Associated With Hashimoto Thyroiditis and Nodular Thyroid Disease: Clinical Management With Flash Glucose Monitoring and Prednisolone Therapy.",
         "summary": "In a rare case, prednisolone therapy successfully managed a white woman's insulin autoimmune syndrome associated with Hashimoto's thyroiditis and hypoglycemia.",
@@ -420,21 +434,6 @@
         "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-17"
-      },
-      {
-        "id": "receuQEzwbo4iGUdh",
-        "title": "Computational and Experimental Verification of Cabozantinib Targeting DDX11 to Inhibit DNA Damage Repair in Liver Cancer.",
-        "summary": "Cabozantinib inhibits DNA damage repair in liver cancer by targeting the DDX11 protein, potentially disrupting cancer cell survival mechanisms.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41696275/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia",
-          "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-17"
       }
     ],
     "biomarkers": [
@@ -570,6 +569,20 @@
         "added_date": "2026-02-18"
       },
       {
+        "id": "recTAcUvj8gLbHkvf",
+        "title": "A machine learning model for optimizing treatment of patients with poorly controlled type 2 diabetes.",
+        "summary": "A machine learning model predicts the most effective diabetes medication by analyzing individual patient characteristics to guide personalized treatment selection.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41703087/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Kidney"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-18"
+      },
+      {
         "id": "reckbVj0frNpjAxkp",
         "title": "Novel bacterium Enterocloster sp. M3 promotes colorectal tumorigenesis via the production of the carcinogen styrene.",
         "summary": "The bacterial marker 'm3' shows promise for the non-invasive diagnosis of colorectal cancer (CRC) and adenomas.",
@@ -636,20 +649,6 @@
         "cancer_types": [
           "Lung",
           "Colorectal",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-17"
-      },
-      {
-        "id": "recHrKPIYodXcMk3J",
-        "title": "Prophylactic Mechanical Closure for Preventing Delayed Bleeding after Gastric Endoscopic Submucosal Dissection: A Systematic Review and Meta-Analysis.",
-        "summary": "Mechanical closure after gastric endoscopic submucosal dissection significantly reduces the risk of delayed bleeding complications.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41693739/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
           "Leukemia"
         ],
         "quality_score": 15,
@@ -888,8 +887,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7078,
-    "archive_supplements": 816,
+    "archive_count": 7079,
+    "archive_supplements": 817,
     "archive_off_label": 297,
     "archive_biomarkers": 4140,
     "archive_trials": 1527
