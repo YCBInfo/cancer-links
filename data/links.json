@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-18T10:02:51.839Z",
+  "last_updated": "2026-02-18T10:03:02.429Z",
   "categories": {
     "supplements": [
       {
@@ -350,6 +350,20 @@
         "added_date": "2026-02-18"
       },
       {
+        "id": "reckwB50lYH7LwWMR",
+        "title": "Cell type-specific gene regulatory atlas prioritizes drug targets and repurposable medicines in Alzheimer's disease.",
+        "summary": "By analyzing brain cell gene activity across Alzheimer's disease stages, researchers identified nine potential repurposable drugs targeting key disease-related genes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41565468/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-18"
+      },
+      {
         "id": "recHo9WjzVWLAqeYS",
         "title": "Insulin Autoimmune Syndrome Associated With Hashimoto Thyroiditis and Nodular Thyroid Disease: Clinical Management With Flash Glucose Monitoring and Prednisolone Therapy.",
         "summary": "In a rare case, prednisolone therapy successfully managed a white woman's insulin autoimmune syndrome associated with Hashimoto's thyroiditis and hypoglycemia.",
@@ -416,20 +430,6 @@
         "cancer_types": [
           "Leukemia",
           "Stomach"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-17"
-      },
-      {
-        "id": "recsziDooOejzM5rg",
-        "title": "Exposure to GLP-1RA and risk of structural progression in differentiated thyroid cancer.",
-        "summary": "GLP-1 receptor agonists may potentially slow structural progression in patients with well-differentiated thyroid cancer, suggesting a promising new therapeutic approach.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41693146/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Thyroid"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -881,10 +881,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7186,
+    "archive_count": 7187,
     "archive_supplements": 829,
     "archive_off_label": 303,
     "archive_biomarkers": 4176,
-    "archive_trials": 1580
+    "archive_trials": 1581
   }
 }
