@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-18T08:09:43.049Z",
+  "last_updated": "2026-02-18T09:02:00.627Z",
   "categories": {
     "supplements": [
       {
@@ -306,6 +306,20 @@
         "added_date": "2026-02-18"
       },
       {
+        "id": "recJnhXUOn8DmSmK0",
+        "title": "The cyclin dependent kinase (CDK)7 inhibitor BS-181 inhibits pathogenic Cryptococcus species, causing G2/M arrest and a splicing defect.",
+        "summary": "BS-181, a CDK7 inhibitor, effectively inhibits Cryptococcus growth and enhances antifungal drug performance by disrupting cell cycle progression and gene splicing.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41701636/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-18"
+      },
+      {
         "id": "recHo9WjzVWLAqeYS",
         "title": "Insulin Autoimmune Syndrome Associated With Hashimoto Thyroiditis and Nodular Thyroid Disease: Clinical Management With Flash Glucose Monitoring and Prednisolone Therapy.",
         "summary": "In a rare case, prednisolone therapy successfully managed a white woman's insulin autoimmune syndrome associated with Hashimoto's thyroiditis and hypoglycemia.",
@@ -415,21 +429,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-17"
-      },
-      {
-        "id": "recWe60iXzHcP3ZiV",
-        "title": "Targeting of HSP27 and MMP-2/9 Crosstalk by High-Throughput Drug Repurposing Strategies Identifies Paroxetine as a Potential Candidate in Glioblastoma.",
-        "summary": "Paroxetine, an antidepressant, was found to inhibit HSP27 and reduce tumor progression in glioblastoma by disrupting key molecular interactions.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41698807/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia",
-          "Brain"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -881,10 +880,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7171,
+    "archive_count": 7172,
     "archive_supplements": 829,
     "archive_off_label": 301,
     "archive_biomarkers": 4170,
-    "archive_trials": 1573
+    "archive_trials": 1574
   }
 }
