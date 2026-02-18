@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-18T07:03:48.522Z",
+  "last_updated": "2026-02-18T07:03:58.165Z",
   "categories": {
     "supplements": [
       {
@@ -612,6 +612,21 @@
         "added_date": "2026-02-18"
       },
       {
+        "id": "recY6AZyPq6PJfGsP",
+        "title": "Galloyl-Mediated Antigen Capture Coupled with Hypoxia-Responsive Reprogramming Drives Potent Photoimmunotherapy.",
+        "summary": "A nanoparticle vaccine capturing tumor antigens and using photodynamic therapy helps activate immune responses against melanoma, suppressing both local and distant tumors.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41702861/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Melanoma",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-18"
+      },
+      {
         "id": "reckbVj0frNpjAxkp",
         "title": "Novel bacterium Enterocloster sp. M3 promotes colorectal tumorigenesis via the production of the carcinogen styrene.",
         "summary": "The bacterial marker 'm3' shows promise for the non-invasive diagnosis of colorectal cancer (CRC) and adenomas.",
@@ -633,21 +648,6 @@
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-17"
-      },
-      {
-        "id": "recivEVVYVmzq6zif",
-        "title": "Design, synthesis and anti-breast cancer activity evaluation of 6,7-dihydro-5H-pyrrolo[3,4-d]pyrimidine-based PARP1/ATR dual inhibitors.",
-        "summary": "Researchers developed a novel dual-targeting compound (38a) that effectively inhibits PARP1 and ATR, showing promising anti-breast cancer activity in triple-negative breast cancer cell lines.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41693691/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast",
           "Leukemia"
         ],
         "quality_score": 15,
@@ -710,6 +710,21 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Lung",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-18"
+      },
+      {
+        "id": "recY6AZyPq6PJfGsP",
+        "title": "Galloyl-Mediated Antigen Capture Coupled with Hypoxia-Responsive Reprogramming Drives Potent Photoimmunotherapy.",
+        "summary": "A nanoparticle vaccine capturing tumor antigens and using photodynamic therapy helps activate immune responses against melanoma, suppressing both local and distant tumors.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41702861/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Melanoma",
           "Leukemia"
         ],
         "quality_score": 15,
@@ -863,20 +878,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-17"
-      },
-      {
-        "id": "recInbT9gC3AF9VFD",
-        "title": "Discovery of Novel Heterotetracyclic DNA-Dependent Protein Kinase (DNA-PK) Inhibitors with Improved Oral Bioavailability and Potent Cancer Immunotherapy-Potentiating Activity.",
-        "summary": "Researchers developed a novel DNA-PK inhibitor (D11) that shows promise in cancer treatment by enhancing drug effectiveness and immune response across multiple cancer cell lines.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41698171/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-17"
       }
     ]
   },
@@ -886,9 +887,9 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7081,
+    "archive_count": 7082,
     "archive_supplements": 818,
-    "archive_off_label": 297,
+    "archive_off_label": 298,
     "archive_biomarkers": 4141,
     "archive_trials": 1527
   }
