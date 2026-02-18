@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-18T10:01:57.934Z",
+  "last_updated": "2026-02-18T10:02:08.763Z",
   "categories": {
     "supplements": [
       {
@@ -320,6 +320,22 @@
         "added_date": "2026-02-18"
       },
       {
+        "id": "rec5vA6uWoJV0Ytsx",
+        "title": "Antithrombotic therapy for cancer-associated venous thromboembolism.",
+        "summary": "Low-molecular-weight heparins and direct oral anticoagulants are effective first-line treatments for managing venous thromboembolism in cancer patients, with treatment selection based on individual risk factors.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41701347/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Lung",
+          "Leukemia",
+          "Kidney"
+        ],
+        "quality_score": 23,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-18"
+      },
+      {
         "id": "recHo9WjzVWLAqeYS",
         "title": "Insulin Autoimmune Syndrome Associated With Hashimoto Thyroiditis and Nodular Thyroid Disease: Clinical Management With Flash Glucose Monitoring and Prednisolone Therapy.",
         "summary": "In a rare case, prednisolone therapy successfully managed a white woman's insulin autoimmune syndrome associated with Hashimoto's thyroiditis and hypoglycemia.",
@@ -415,20 +431,6 @@
         "cancer_types": [
           "Lung",
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-17"
-      },
-      {
-        "id": "recsIB7Ohgdrx53kp",
-        "title": "Mitochondrial oxidants promote platelet activation and thrombotic susceptibility in prediabetes.",
-        "summary": "In prediabetes, mitochondrial oxidants increase platelet activation and thrombosis risk, which can be reduced by targeted antioxidant treatments.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41433113/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -880,10 +882,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7181,
+    "archive_count": 7182,
     "archive_supplements": 829,
     "archive_off_label": 302,
     "archive_biomarkers": 4175,
-    "archive_trials": 1577
+    "archive_trials": 1578
   }
 }
