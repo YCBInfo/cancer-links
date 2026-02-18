@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-18T07:06:06.450Z",
+  "last_updated": "2026-02-18T07:06:16.661Z",
   "categories": {
     "supplements": [
       {
@@ -132,6 +132,21 @@
         "added_date": "2026-02-18"
       },
       {
+        "id": "recCrKLPVcTQ2fEXL",
+        "title": "Regulation of CAF by α-Mangostin Promotes the Penetration of Nanomedicine and Inhibits the Metastasis of Breast Tumor.",
+        "summary": "α-Mangostin transforms cancer-associated fibroblasts in breast tumors, enhancing nanomedicine penetration and reducing tumor growth and metastasis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41701112/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-18"
+      },
+      {
         "id": "recRKRzUG9dkT4CXb",
         "title": "The impact of dietary constituents on inflammation and cognitive function in healthy older Irish adults: A pilot study.",
         "summary": "In healthy older adults, higher BMI, low physical activity, and nutrient deficiencies were associated with increased inflammation and decreased cognitive performance.",
@@ -196,21 +211,6 @@
         "category": "Clinical Trials",
         "cancer_types": [
           "Pancreatic"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-17"
-      },
-      {
-        "id": "rec26lQigfU3QIb5K",
-        "title": "Clinical efficacy of Fuzheng Jiedu Xiaoyong granules in advanced colorectal cancer (spleen deficiency and stasis toxin syndrome).",
-        "summary": "Fuzheng Jiedu Xiaoyong granules improved immune function and reduced side effects in patients with advanced colorectal cancer undergoing chemotherapy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41695913/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal",
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -856,18 +856,19 @@
         "added_date": "2026-02-18"
       },
       {
-        "id": "rec4KKM39oM6AMUwk",
-        "title": "Palladium-catalysed synthesis of small-molecule epigenetic inhibitors as anticancer therapeutics.",
-        "summary": "Palladium-catalyzed chemical reactions enable precise synthesis of small-molecule compounds that could potentially inhibit cancer cell growth by targeting epigenetic mechanisms.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41693699/",
+        "id": "recCrKLPVcTQ2fEXL",
+        "title": "Regulation of CAF by α-Mangostin Promotes the Penetration of Nanomedicine and Inhibits the Metastasis of Breast Tumor.",
+        "summary": "α-Mangostin transforms cancer-associated fibroblasts in breast tumors, enhancing nanomedicine penetration and reducing tumor growth and metastasis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41701112/",
         "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
+        "category": "Supplements & Nutraceuticals",
         "cancer_types": [
+          "Breast",
           "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
-        "added_date": "2026-02-17"
+        "added_date": "2026-02-18"
       }
     ]
   },
@@ -877,10 +878,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7094,
+    "archive_count": 7095,
     "archive_supplements": 821,
     "archive_off_label": 299,
-    "archive_biomarkers": 4148,
+    "archive_biomarkers": 4149,
     "archive_trials": 1528
   }
 }
