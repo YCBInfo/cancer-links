@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-18T07:02:44.711Z",
+  "last_updated": "2026-02-18T07:02:56.221Z",
   "categories": {
     "supplements": [
       {
@@ -41,6 +41,20 @@
         "cancer_types": [
           "Leukemia",
           "Kidney"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-18"
+      },
+      {
+        "id": "recMdyWkVrbXoh4T6",
+        "title": "Orthologue inference-based enzyme mining for diversification of the anti-cancer evodiamine scaffold.",
+        "summary": "Researchers discovered four enzymes from rare plants that can selectively modify evodiamine, an anti-cancer compound, potentially improving its therapeutic potential.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41703295/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -197,20 +211,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41693702/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-17"
-      },
-      {
-        "id": "rec2TcK9CaxmjvWyP",
-        "title": "Neuroprotective potential of a plant-based intervention in diabetic neuropathy: Biochemical and behavioral insights from a streptozotocin-induced rat model.",
-        "summary": "Plant-based treatment showed promise in reducing nerve damage in diabetic neuropathy by lowering oxidative stress and inflammation in a rat study.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41696095/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Leukemia"
         ],
@@ -525,6 +525,20 @@
         "added_date": "2026-02-18"
       },
       {
+        "id": "recMdyWkVrbXoh4T6",
+        "title": "Orthologue inference-based enzyme mining for diversification of the anti-cancer evodiamine scaffold.",
+        "summary": "Researchers discovered four enzymes from rare plants that can selectively modify evodiamine, an anti-cancer compound, potentially improving its therapeutic potential.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41703295/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-18"
+      },
+      {
         "id": "reckbVj0frNpjAxkp",
         "title": "Novel bacterium Enterocloster sp. M3 promotes colorectal tumorigenesis via the production of the carcinogen styrene.",
         "summary": "The bacterial marker 'm3' shows promise for the non-invasive diagnosis of colorectal cancer (CRC) and adenomas.",
@@ -636,22 +650,6 @@
         "cancer_types": [
           "Leukemia",
           "Lymphoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-17"
-      },
-      {
-        "id": "rect8jeLOsQUtPSm9",
-        "title": "Cancer incidence and mortality trends from 2007 to 2021 in Milan.",
-        "summary": "In Milan, cancer incidence declined for males and stabilized for females from 2007-2021, with mortality decreasing in both sexes, despite COVID-19 diagnostic disruptions in 2020.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41698010/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal",
-          "Leukemia",
-          "Bladder"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -888,10 +886,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7075,
+    "archive_count": 7076,
     "archive_supplements": 814,
     "archive_off_label": 297,
-    "archive_biomarkers": 4139,
+    "archive_biomarkers": 4140,
     "archive_trials": 1527
   }
 }
