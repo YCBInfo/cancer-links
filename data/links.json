@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-18T07:05:14.942Z",
+  "last_updated": "2026-02-18T07:05:23.120Z",
   "categories": {
     "supplements": [
       {
@@ -247,6 +247,20 @@
         "added_date": "2026-02-18"
       },
       {
+        "id": "recW2SuPNJpBKKVzW",
+        "title": "Pan-cancer immunogenomics and structure-guided repurposing identify N-Acetyl-L-carnosine as a PAR2 binding modulator.",
+        "summary": "N-Acetyl-L-carnosine was identified as a potential PAR2-binding molecule in head and neck and lung cancers, offering a new approach to modulate tumor immune suppression.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41701422/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-18"
+      },
+      {
         "id": "recHo9WjzVWLAqeYS",
         "title": "Insulin Autoimmune Syndrome Associated With Hashimoto Thyroiditis and Nodular Thyroid Disease: Clinical Management With Flash Glucose Monitoring and Prednisolone Therapy.",
         "summary": "In a rare case, prednisolone therapy successfully managed a white woman's insulin autoimmune syndrome associated with Hashimoto's thyroiditis and hypoglycemia.",
@@ -409,20 +423,6 @@
         "title": "Azithromycin in preterm premature rupture of membranes: population pharmacokinetics and dose optimization.",
         "summary": "Researchers examined optimal azithromycin dosing to help manage antibiotic treatment for pregnant women experiencing preterm premature rupture of membranes.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41692622/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-17"
-      },
-      {
-        "id": "recksUGzOW8UcFiZn",
-        "title": "Helper-dependent adenoviral vector-mediated expression of an LDL receptor/transferrin chimeric protein in muscle safely reduces atherosclerosis in LDLR-deficient mice.",
-        "summary": "A gene therapy using a modified LDL receptor protein delivered to muscle cells successfully reduced cholesterol levels and arterial plaque in mice with familial hypercholesterolemia.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41691368/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -814,6 +814,20 @@
         "added_date": "2026-02-18"
       },
       {
+        "id": "recW2SuPNJpBKKVzW",
+        "title": "Pan-cancer immunogenomics and structure-guided repurposing identify N-Acetyl-L-carnosine as a PAR2 binding modulator.",
+        "summary": "N-Acetyl-L-carnosine was identified as a potential PAR2-binding molecule in head and neck and lung cancers, offering a new approach to modulate tumor immune suppression.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41701422/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-18"
+      },
+      {
         "id": "rec4KKM39oM6AMUwk",
         "title": "Palladium-catalysed synthesis of small-molecule epigenetic inhibitors as anticancer therapeutics.",
         "summary": "Palladium-catalyzed chemical reactions enable precise synthesis of small-molecule compounds that could potentially inhibit cancer cell growth by targeting epigenetic mechanisms.",
@@ -855,22 +869,6 @@
         "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-17"
-      },
-      {
-        "id": "recED2HeuasSqsBwG",
-        "title": "Profound alterations of cancer transcriptomes by the RNase L inhibitor ABCE1 through the modulation of UU/UA-dinucleotide rich transcript abundance.",
-        "summary": "ABCE1 overexpression in colorectal cancer alters gene expression of cell cycle-related transcripts, surprisingly correlating with improved patient survival.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41663214/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung",
-          "Colorectal",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-17"
       }
     ]
   },
@@ -880,10 +878,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7089,
+    "archive_count": 7090,
     "archive_supplements": 820,
     "archive_off_label": 299,
-    "archive_biomarkers": 4145,
+    "archive_biomarkers": 4146,
     "archive_trials": 1527
   }
 }
