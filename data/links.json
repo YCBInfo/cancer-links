@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-18T10:02:08.763Z",
+  "last_updated": "2026-02-18T10:02:17.921Z",
   "categories": {
     "supplements": [
       {
@@ -336,6 +336,20 @@
         "added_date": "2026-02-18"
       },
       {
+        "id": "rechixr7DRj4Ohxd2",
+        "title": "Beyond Thiol-Enzyme Inhibition: Sterically Bulky NHC-Au(I) Complexes are Catalytically Active Anticancer Agents with Reprogrammed Immunomodulatory Function.",
+        "summary": "A novel gold-based anticancer compound (Au-8) selectively kills cancer cells while preserving immune cell function through strategic molecular design.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41700834/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-18"
+      },
+      {
         "id": "recHo9WjzVWLAqeYS",
         "title": "Insulin Autoimmune Syndrome Associated With Hashimoto Thyroiditis and Nodular Thyroid Disease: Clinical Management With Flash Glucose Monitoring and Prednisolone Therapy.",
         "summary": "In a rare case, prednisolone therapy successfully managed a white woman's insulin autoimmune syndrome associated with Hashimoto's thyroiditis and hypoglycemia.",
@@ -416,21 +430,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Thyroid"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-17"
-      },
-      {
-        "id": "recLgNavkpCr7QfX5",
-        "title": "Digoxin attenuates LPS-induced acute lung injury in mice via NF-κB and HIF-1α inhibition.",
-        "summary": "Digoxin effectively reduces lung inflammation and injury in mice by inhibiting key inflammatory pathways after lipopolysaccharide-induced acute lung damage.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41693482/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Lung",
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -882,10 +881,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7182,
+    "archive_count": 7183,
     "archive_supplements": 829,
     "archive_off_label": 302,
-    "archive_biomarkers": 4175,
+    "archive_biomarkers": 4176,
     "archive_trials": 1578
   }
 }
