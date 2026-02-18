@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-18T07:03:06.489Z",
+  "last_updated": "2026-02-18T07:03:17.098Z",
   "categories": {
     "supplements": [
       {
@@ -54,6 +54,21 @@
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-18"
+      },
+      {
+        "id": "recNFIhFzcYeXXZai",
+        "title": "KDM6A alternative splicing induced by 25(OH)D inhibits breast cancer cell stemness through repressing TRAP1 transcription.",
+        "summary": "25(OH)D promotes an alternative KDM6A splice variant that reduces breast cancer cell stemness by suppressing TRAP1 transcription.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41703283/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast",
           "Leukemia"
         ],
         "quality_score": 15,
@@ -201,20 +216,6 @@
           "Leukemia"
         ],
         "quality_score": 32,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-17"
-      },
-      {
-        "id": "recm1bGXSv79Sntgc",
-        "title": "Iron-based nanomaterials for tumor therapy: structural engineering and functional mechanisms.",
-        "summary": "Iron-based nanomaterials show promise in cancer treatment by generating reactive oxygen species, inducing cell death, and improving therapeutic targeting across multiple cancer types.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41693702/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-17"
       }
@@ -554,6 +555,21 @@
         "added_date": "2026-02-18"
       },
       {
+        "id": "recNFIhFzcYeXXZai",
+        "title": "KDM6A alternative splicing induced by 25(OH)D inhibits breast cancer cell stemness through repressing TRAP1 transcription.",
+        "summary": "25(OH)D promotes an alternative KDM6A splice variant that reduces breast cancer cell stemness by suppressing TRAP1 transcription.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41703283/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-18"
+      },
+      {
         "id": "reckbVj0frNpjAxkp",
         "title": "Novel bacterium Enterocloster sp. M3 promotes colorectal tumorigenesis via the production of the carcinogen styrene.",
         "summary": "The bacterial marker 'm3' shows promise for the non-invasive diagnosis of colorectal cancer (CRC) and adenomas.",
@@ -635,21 +651,6 @@
         "category": "Clinical Trials",
         "cancer_types": [
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-17"
-      },
-      {
-        "id": "recBAp5be2f26G0jl",
-        "title": "Heme Oxygenase-1 as a Predictor of Early Allograft Dysfunction in Liver Transplantation: A Prospective Observational Pilot Study.",
-        "summary": "In liver transplantation, higher levels of the enzyme heme oxygenase-1 might help predict and potentially reduce early allograft dysfunction risk.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41694482/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia",
-          "Liver"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -887,8 +888,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7077,
-    "archive_supplements": 815,
+    "archive_count": 7078,
+    "archive_supplements": 816,
     "archive_off_label": 297,
     "archive_biomarkers": 4140,
     "archive_trials": 1527
