@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-18T07:03:58.165Z",
+  "last_updated": "2026-02-18T07:04:10.176Z",
   "categories": {
     "supplements": [
       {
@@ -70,6 +70,20 @@
         "cancer_types": [
           "Breast",
           "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-18"
+      },
+      {
+        "id": "recdl2vArovng5Wrh",
+        "title": "Vitamin D supplementation before in vitro fertilisation in women with polycystic ovary syndrome: multicentre, double blind, placebo controlled, randomised clinical trial.",
+        "summary": "To evaluate whether vitamin D supplementation improves live birth rates in women with polycystic ovary syndrome undergoing in vitro fertilisation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41702641/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Ovarian"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -201,21 +215,6 @@
           "Ovarian"
         ],
         "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-17"
-      },
-      {
-        "id": "recm2pWwkwP0NrGNU",
-        "title": "Effectiveness and safety of bone protective interventions to mitigate bone loss and skeletal fractures experienced by patients with non-metastatic breast cancer: a systematic review and meta-analysis.",
-        "summary": "Bisphosphonates effectively protect bone density and reduce fracture risk in non-metastatic breast cancer patients, with significant improvements in bone mineral density and skeletal health.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41697310/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Breast",
-          "Leukemia"
-        ],
-        "quality_score": 32,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-17"
       }
@@ -732,6 +731,20 @@
         "added_date": "2026-02-18"
       },
       {
+        "id": "recdl2vArovng5Wrh",
+        "title": "Vitamin D supplementation before in vitro fertilisation in women with polycystic ovary syndrome: multicentre, double blind, placebo controlled, randomised clinical trial.",
+        "summary": "To evaluate whether vitamin D supplementation improves live birth rates in women with polycystic ovary syndrome undergoing in vitro fertilisation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41702641/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Ovarian"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-18"
+      },
+      {
         "id": "rec4KKM39oM6AMUwk",
         "title": "Palladium-catalysed synthesis of small-molecule epigenetic inhibitors as anticancer therapeutics.",
         "summary": "Palladium-catalyzed chemical reactions enable precise synthesis of small-molecule compounds that could potentially inhibit cancer cell growth by targeting epigenetic mechanisms.",
@@ -863,21 +876,6 @@
         "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-17"
-      },
-      {
-        "id": "recsosJtlkSYGCTEP",
-        "title": "Ivosidenib treatment in IDH-mutant WHO grade 4 astrocytomas: illustrative case.",
-        "summary": "Isocitrate dehydrogenase (IDH) is a commonly mutated gene in gliomas.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41698198/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Leukemia",
-          "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-17"
       }
     ]
   },
@@ -887,10 +885,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7082,
+    "archive_count": 7083,
     "archive_supplements": 818,
     "archive_off_label": 298,
-    "archive_biomarkers": 4141,
+    "archive_biomarkers": 4142,
     "archive_trials": 1527
   }
 }
