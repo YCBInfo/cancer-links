@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-18T07:02:34.594Z",
+  "last_updated": "2026-02-18T07:02:44.711Z",
   "categories": {
     "supplements": [
       {
@@ -21,6 +21,21 @@
         "title": "Bone health in patients with cancer: a SEOM-SEIOMM consensus review of risk factors, assessment strategies, and management approaches.",
         "summary": "Comprehensive review highlights strategies to protect bone health in cancer patients by assessing risks and implementing targeted prevention and treatment approaches.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41703396/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia",
+          "Kidney"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-18"
+      },
+      {
+        "id": "rec6E5QI9zOA3mVpb",
+        "title": "PINK1 deacetylation by emodin-induced SIRT3 upregulation alleviates acute kidney injury by Inhibition of ferroptosis.",
+        "summary": "Emodin reduces acute kidney injury by activating SIRT3, which helps protect mitochondria and prevent cell death through PINK1 regulation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41703345/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -194,20 +209,6 @@
         "title": "Neuroprotective potential of a plant-based intervention in diabetic neuropathy: Biochemical and behavioral insights from a streptozotocin-induced rat model.",
         "summary": "Plant-based treatment showed promise in reducing nerve damage in diabetic neuropathy by lowering oxidative stress and inflammation in a rat study.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41696095/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-17"
-      },
-      {
-        "id": "recKH8VkQLO113GKZ",
-        "title": "Coordination Self-Assembly of a Carrier-Free Hyaluronic Acid-Modified Nanoplatform for Augmented Photothermal/Chemodynamic Therapy and Robust Antimetastatic Immunity.",
-        "summary": "A carrier-free nanoplatform using luteolin and iron modifies hyaluronic acid to enhance cancer therapy by simultaneously destroying tumor cells and boosting immune response.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41693136/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -509,6 +510,21 @@
         "added_date": "2026-02-18"
       },
       {
+        "id": "rec6E5QI9zOA3mVpb",
+        "title": "PINK1 deacetylation by emodin-induced SIRT3 upregulation alleviates acute kidney injury by Inhibition of ferroptosis.",
+        "summary": "Emodin reduces acute kidney injury by activating SIRT3, which helps protect mitochondria and prevent cell death through PINK1 regulation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41703345/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia",
+          "Kidney"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-18"
+      },
+      {
         "id": "reckbVj0frNpjAxkp",
         "title": "Novel bacterium Enterocloster sp. M3 promotes colorectal tumorigenesis via the production of the carcinogen styrene.",
         "summary": "The bacterial marker 'm3' shows promise for the non-invasive diagnosis of colorectal cancer (CRC) and adenomas.",
@@ -638,20 +654,6 @@
           "Bladder"
         ],
         "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-17"
-      },
-      {
-        "id": "recO3Yyvi2oedyCqS",
-        "title": "A systems approach identifies MERTK as a therapeutic vulnerability in ZFTA-RELA-driven ependymomas.",
-        "summary": "In ZFTA-RELA-driven ependymomas, targeting MERTK reduces tumor growth by suppressing key pro-survival signaling pathways in this aggressive brain cancer subtype.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41665993/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-17"
       }
@@ -886,10 +888,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7074,
+    "archive_count": 7075,
     "archive_supplements": 814,
     "archive_off_label": 297,
-    "archive_biomarkers": 4138,
+    "archive_biomarkers": 4139,
     "archive_trials": 1527
   }
 }
