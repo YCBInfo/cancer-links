@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-18T07:05:45.788Z",
+  "last_updated": "2026-02-18T07:05:56.305Z",
   "categories": {
     "supplements": [
       {
@@ -261,6 +261,20 @@
         "added_date": "2026-02-18"
       },
       {
+        "id": "recLDSqEOjYmKtUcE",
+        "title": "Evocalcet improved the PTH-calcium setpoint and suppressed parathyroid proliferation in mice model of primary hyperparathyroidism.",
+        "summary": "Evocalcet reduced parathyroid hormone levels and slowed cell growth in a mouse model of primary hyperparathyroidism by targeting the calcium-sensing receptor.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41701341/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-18"
+      },
+      {
         "id": "recHo9WjzVWLAqeYS",
         "title": "Insulin Autoimmune Syndrome Associated With Hashimoto Thyroiditis and Nodular Thyroid Disease: Clinical Management With Flash Glucose Monitoring and Prednisolone Therapy.",
         "summary": "In a rare case, prednisolone therapy successfully managed a white woman's insulin autoimmune syndrome associated with Hashimoto's thyroiditis and hypoglycemia.",
@@ -413,20 +427,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-17"
-      },
-      {
-        "id": "recyeOupWMAU9O4Oc",
-        "title": "Azithromycin in preterm premature rupture of membranes: population pharmacokinetics and dose optimization.",
-        "summary": "Researchers examined optimal azithromycin dosing to help manage antibiotic treatment for pregnant women experiencing preterm premature rupture of membranes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41692622/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -877,10 +877,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7092,
+    "archive_count": 7093,
     "archive_supplements": 821,
     "archive_off_label": 299,
-    "archive_biomarkers": 4146,
+    "archive_biomarkers": 4147,
     "archive_trials": 1528
   }
 }
