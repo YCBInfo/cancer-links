@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-19T05:10:02.188Z",
+  "last_updated": "2026-02-19T05:10:13.070Z",
   "categories": {
     "supplements": [
       {
@@ -26,6 +26,23 @@
         "cancer_types": [
           "Lung",
           "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-19"
+      },
+      {
+        "id": "recuFasu3lkRpTR8w",
+        "title": "Pan-cancer multi-omics characterization of CDK12 and virtual screening of Vietnamese natural products for novel inhibitors.",
+        "summary": "Researchers identified CDK12 as a key cancer driver across multiple tumor types and discovered promising natural compound inhibitors from Vietnamese medicinal herbs.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41706297/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia",
+          "Ovarian",
+          "Kidney",
+          "Brain"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -200,20 +217,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-18"
-      },
-      {
-        "id": "rec3uGLik3SoYb0vY",
-        "title": "Enhanced Photothermal Sterilization and Wound Healing Performance Through Natural Polyphenol-Mediated Formation of Porphyrin J-Aggregates.",
-        "summary": "Persistent bacterial infections and oxidative stress-induced inflammatory responses present significant challenges to wound healing.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41700081/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-18"
       }
@@ -873,10 +876,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7240,
+    "archive_count": 7241,
     "archive_supplements": 831,
     "archive_off_label": 304,
-    "archive_biomarkers": 4217,
+    "archive_biomarkers": 4218,
     "archive_trials": 1590
   }
 }
