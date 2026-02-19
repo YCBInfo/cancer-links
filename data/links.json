@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-19T07:02:20.063Z",
+  "last_updated": "2026-02-19T07:02:30.155Z",
   "categories": {
     "supplements": [
       {
@@ -309,6 +309,21 @@
         "added_date": "2026-02-19"
       },
       {
+        "id": "rec9dAZxKVZ6SFitY",
+        "title": "Theranostic and Radionuclide-based Treatment Approaches for Radioiodine-refractory Thyroid Cancer: From Biology to Clinical Application.",
+        "summary": "Targeted radionuclide therapies and molecular imaging techniques offer new hope for treating radioiodine-refractory thyroid cancer by restoring iodine uptake and providing personalized treatment options.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41708943/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia",
+          "Thyroid"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-19"
+      },
+      {
         "id": "recTAcUvj8gLbHkvf",
         "title": "A machine learning model for optimizing treatment of patients with poorly controlled type 2 diabetes.",
         "summary": "A machine learning model predicts the most effective diabetes medication by analyzing individual patient characteristics to guide personalized treatment selection.",
@@ -420,20 +435,6 @@
           "Kidney"
         ],
         "quality_score": 23,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-18"
-      },
-      {
-        "id": "rechixr7DRj4Ohxd2",
-        "title": "Beyond Thiol-Enzyme Inhibition: Sterically Bulky NHC-Au(I) Complexes are Catalytically Active Anticancer Agents with Reprogrammed Immunomodulatory Function.",
-        "summary": "A novel gold-based anticancer compound (Au-8) selectively kills cancer cells while preserving immune cell function through strategic molecular design.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41700834/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-18"
       }
@@ -877,8 +878,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7382,
-    "archive_supplements": 838,
+    "archive_count": 7383,
+    "archive_supplements": 839,
     "archive_off_label": 307,
     "archive_biomarkers": 4326,
     "archive_trials": 1613
