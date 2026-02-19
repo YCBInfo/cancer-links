@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-19T05:21:16.904Z",
+  "last_updated": "2026-02-19T05:21:27.300Z",
   "categories": {
     "supplements": [
       {
@@ -281,6 +281,20 @@
         "added_date": "2026-02-19"
       },
       {
+        "id": "recZX8feQMPT7IrST",
+        "title": "Efficacy and safety of baricitinib versus azathioprine, both combined with topical corticosteroids, in patients with moderate-to-severe atopic dermatitis: a single-centre randomized open-label trial.",
+        "summary": "Baricitinib was found to be as effective and safe as azathioprine when combined with topical steroids for treating moderate-to-severe atopic dermatitis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41239194/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-19"
+      },
+      {
         "id": "recTAcUvj8gLbHkvf",
         "title": "A machine learning model for optimizing treatment of patients with poorly controlled type 2 diabetes.",
         "summary": "A machine learning model predicts the most effective diabetes medication by analyzing individual patient characteristics to guide personalized treatment selection.",
@@ -422,20 +436,6 @@
         "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-18"
-      },
-      {
-        "id": "recHo9WjzVWLAqeYS",
-        "title": "Insulin Autoimmune Syndrome Associated With Hashimoto Thyroiditis and Nodular Thyroid Disease: Clinical Management With Flash Glucose Monitoring and Prednisolone Therapy.",
-        "summary": "In a rare case, prednisolone therapy successfully managed a white woman's insulin autoimmune syndrome associated with Hashimoto's thyroiditis and hypoglycemia.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41697927/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 18,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-17"
       }
     ],
     "biomarkers": [
@@ -877,10 +877,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7303,
+    "archive_count": 7304,
     "archive_supplements": 837,
     "archive_off_label": 306,
-    "archive_biomarkers": 4265,
+    "archive_biomarkers": 4266,
     "archive_trials": 1597
   }
 }
