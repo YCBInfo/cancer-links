@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-19T05:10:44.990Z",
+  "last_updated": "2026-02-19T05:10:55.731Z",
   "categories": {
     "supplements": [
       {
@@ -43,6 +43,20 @@
           "Ovarian",
           "Kidney",
           "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-19"
+      },
+      {
+        "id": "recVvqefQFfEXn15r",
+        "title": "Protective effect and results of glutamine and partially hydrolyzed Guar gum on rats with experimental radiation enteritis.",
+        "summary": "Glutamine and partially hydrolyzed guar gum did not significantly protect rats from radiation-induced intestinal damage when administered during experimental radiation enteritis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41706173/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -203,20 +217,6 @@
           "Leukemia"
         ],
         "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-18"
-      },
-      {
-        "id": "recFqj4Sivxnrrgj2",
-        "title": "Isolation, characterization and antioxidant and cytotoxic activities of constituents from the orchid Oncidium spp.",
-        "summary": "Phenanthrenes and dihydrophenanthrenes extracted from Oncidium orchid showed selective cytotoxicity against colorectal cancer cells while preserving normal cell viability.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41700117/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-18"
       }
@@ -876,10 +876,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7244,
+    "archive_count": 7245,
     "archive_supplements": 833,
     "archive_off_label": 304,
-    "archive_biomarkers": 4219,
+    "archive_biomarkers": 4220,
     "archive_trials": 1590
   }
 }
