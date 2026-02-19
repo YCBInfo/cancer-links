@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-19T05:32:47.606Z",
+  "last_updated": "2026-02-19T05:32:58.522Z",
   "categories": {
     "supplements": [
       {
@@ -295,6 +295,20 @@
         "added_date": "2026-02-19"
       },
       {
+        "id": "recoB4RxG0X92tOjR",
+        "title": "Elucidating key targets and mechanisms of diethyl phthalate-induced colorectal cancer through network toxicology and molecular docking.",
+        "summary": "Diethyl phthalate (DEP), a widely used plasticizer with endocrine-disrupting properties, has raised concerns regarding its potential carcinogenic effects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41701740/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-19"
+      },
+      {
         "id": "recTAcUvj8gLbHkvf",
         "title": "A machine learning model for optimizing treatment of patients with poorly controlled type 2 diabetes.",
         "summary": "A machine learning model predicts the most effective diabetes medication by analyzing individual patient characteristics to guide personalized treatment selection.",
@@ -420,20 +434,6 @@
           "Leukemia"
         ],
         "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-18"
-      },
-      {
-        "id": "reckwB50lYH7LwWMR",
-        "title": "Cell type-specific gene regulatory atlas prioritizes drug targets and repurposable medicines in Alzheimer's disease.",
-        "summary": "By analyzing brain cell gene activity across Alzheimer's disease stages, researchers identified nine potential repurposable drugs targeting key disease-related genes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41565468/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-18"
       }
@@ -877,10 +877,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7367,
+    "archive_count": 7368,
     "archive_supplements": 838,
     "archive_off_label": 307,
-    "archive_biomarkers": 4312,
+    "archive_biomarkers": 4313,
     "archive_trials": 1612
   }
 }
