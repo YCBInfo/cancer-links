@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-19T09:02:08.495Z",
+  "last_updated": "2026-02-19T10:01:39.020Z",
   "categories": {
     "supplements": [
       {
@@ -383,6 +383,20 @@
         "added_date": "2026-02-19"
       },
       {
+        "id": "reci67gVr0Qso10gK",
+        "title": "Repurposing Tirazone as an effective quorum-sensing inhibitor against Pseudomonas aeruginosa virulence and biofilm formation.",
+        "summary": "Tirazone effectively inhibits Pseudomonas aeruginosa quorum sensing, reducing virulence and biofilm formation, and enhancing antibiotic treatment in lab and animal models.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41708876/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-19"
+      },
+      {
         "id": "recTAcUvj8gLbHkvf",
         "title": "A machine learning model for optimizing treatment of patients with poorly controlled type 2 diabetes.",
         "summary": "A machine learning model predicts the most effective diabetes medication by analyzing individual patient characteristics to guide personalized treatment selection.",
@@ -417,20 +431,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41701422/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-18"
-      },
-      {
-        "id": "recLDSqEOjYmKtUcE",
-        "title": "Evocalcet improved the PTH-calcium setpoint and suppressed parathyroid proliferation in mice model of primary hyperparathyroidism.",
-        "summary": "Evocalcet reduced parathyroid hormone levels and slowed cell growth in a mouse model of primary hyperparathyroidism by targeting the calcium-sensing receptor.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41701341/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
         "cancer_types": [
           "Leukemia"
         ],
@@ -878,10 +878,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7475,
+    "archive_count": 7476,
     "archive_supplements": 856,
     "archive_off_label": 308,
-    "archive_biomarkers": 4356,
+    "archive_biomarkers": 4357,
     "archive_trials": 1657
   }
 }
