@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-19T10:02:31.007Z",
+  "last_updated": "2026-02-19T10:02:41.722Z",
   "categories": {
     "supplements": [
       {
@@ -397,6 +397,20 @@
         "added_date": "2026-02-19"
       },
       {
+        "id": "recuogqmkMYkdU9pW",
+        "title": "Trichomonas vaginalis Among Cisgender Women Taking Doxycycline Postexposure Prophylaxis.",
+        "summary": "Doxycycline postexposure prophylaxis did not significantly reduce Trichomonas vaginalis infections among Kenyan women in this clinical trial.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41063661/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-19"
+      },
+      {
         "id": "recTAcUvj8gLbHkvf",
         "title": "A machine learning model for optimizing treatment of patients with poorly controlled type 2 diabetes.",
         "summary": "A machine learning model predicts the most effective diabetes medication by analyzing individual patient characteristics to guide personalized treatment selection.",
@@ -417,20 +431,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41701766/",
         "source": "PubMed",
         "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-18"
-      },
-      {
-        "id": "recW2SuPNJpBKKVzW",
-        "title": "Pan-cancer immunogenomics and structure-guided repurposing identify N-Acetyl-L-carnosine as a PAR2 binding modulator.",
-        "summary": "N-Acetyl-L-carnosine was identified as a potential PAR2-binding molecule in head and neck and lung cancers, offering a new approach to modulate tumor immune suppression.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41701422/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Leukemia"
         ],
@@ -878,10 +878,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7481,
+    "archive_count": 7482,
     "archive_supplements": 856,
     "archive_off_label": 309,
     "archive_biomarkers": 4360,
-    "archive_trials": 1658
+    "archive_trials": 1659
   }
 }
