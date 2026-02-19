@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-19T07:03:47.900Z",
+  "last_updated": "2026-02-19T07:03:58.571Z",
   "categories": {
     "supplements": [
       {
@@ -149,6 +149,21 @@
         "added_date": "2026-02-19"
       },
       {
+        "id": "reccKecqQp8iQ3tIX",
+        "title": "Fatty acid and cysteine metabolic interplay regulate ferroptosis and highlight xCT as a selenium-chrysin target in breast carcinoma.",
+        "summary": "Cancer metabolic remodeling impacts the entire network of metabolic pathways, and strategies that target various points within this system could contribute to successfully abrogating cancer cell su...",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41706708/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-19"
+      },
+      {
         "id": "recxKWmwLVsPudukP",
         "title": "The Diet-Multiple Sclerosis Connection: Oxidative Stress and Emerging Mechanisms.",
         "summary": "Dietary interventions like Mediterranean and ketogenic diets may help reduce oxidative stress in multiple sclerosis by activating the Nrf2 antioxidant pathway.",
@@ -200,21 +215,6 @@
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-18"
-      },
-      {
-        "id": "recNFIhFzcYeXXZai",
-        "title": "KDM6A alternative splicing induced by 25(OH)D inhibits breast cancer cell stemness through repressing TRAP1 transcription.",
-        "summary": "25(OH)D promotes an alternative KDM6A splice variant that reduces breast cancer cell stemness by suppressing TRAP1 transcription.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41703283/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast",
           "Leukemia"
         ],
         "quality_score": 15,
@@ -325,6 +325,21 @@
         "added_date": "2026-02-19"
       },
       {
+        "id": "reccKecqQp8iQ3tIX",
+        "title": "Fatty acid and cysteine metabolic interplay regulate ferroptosis and highlight xCT as a selenium-chrysin target in breast carcinoma.",
+        "summary": "Cancer metabolic remodeling impacts the entire network of metabolic pathways, and strategies that target various points within this system could contribute to successfully abrogating cancer cell su...",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41706708/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-19"
+      },
+      {
         "id": "recTAcUvj8gLbHkvf",
         "title": "A machine learning model for optimizing treatment of patients with poorly controlled type 2 diabetes.",
         "summary": "A machine learning model predicts the most effective diabetes medication by analyzing individual patient characteristics to guide personalized treatment selection.",
@@ -420,22 +435,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-18"
-      },
-      {
-        "id": "rec5vA6uWoJV0Ytsx",
-        "title": "Antithrombotic therapy for cancer-associated venous thromboembolism.",
-        "summary": "Low-molecular-weight heparins and direct oral anticoagulants are effective first-line treatments for managing venous thromboembolism in cancer patients, with treatment selection based on individual risk factors.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41701347/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Lung",
-          "Leukemia",
-          "Kidney"
-        ],
-        "quality_score": 23,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-18"
       }
@@ -879,8 +878,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7390,
-    "archive_supplements": 839,
+    "archive_count": 7391,
+    "archive_supplements": 840,
     "archive_off_label": 307,
     "archive_biomarkers": 4332,
     "archive_trials": 1614
