@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-19T07:10:53.203Z",
+  "last_updated": "2026-02-19T07:11:04.079Z",
   "categories": {
     "supplements": [
       {
@@ -355,6 +355,20 @@
         "added_date": "2026-02-19"
       },
       {
+        "id": "rec2gNC2uqG6AixQP",
+        "title": "Colchicine-cinnamic acid hybrids with potent anticancer activities: synthesis, in vitro, and in vivo biological evaluations.",
+        "summary": "Researchers developed a hybrid molecule (B7) combining colchicine and cinnamic acid that effectively disrupts cancer cell growth and shows promising antitumor activity in breast cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41704451/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-19"
+      },
+      {
         "id": "recTAcUvj8gLbHkvf",
         "title": "A machine learning model for optimizing treatment of patients with poorly controlled type 2 diabetes.",
         "summary": "A machine learning model predicts the most effective diabetes medication by analyzing individual patient characteristics to guide personalized treatment selection.",
@@ -420,20 +434,6 @@
         "cancer_types": [
           "Colorectal",
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-18"
-      },
-      {
-        "id": "recLN6zb8xi2PmIec",
-        "title": "AKR1C inhibitors medroxyprogesterone acetate and mefenamic acid exhibit antitumor activity alone and combined with carboplatin in platinum-resistant high-grade serous ovarian cancer models.",
-        "summary": "Medroxyprogesterone acetate and mefenamic acid show promise in treating platinum-resistant high-grade serous ovarian cancer by inhibiting tumor growth and migration.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41702359/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Ovarian"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -879,10 +879,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7427,
+    "archive_count": 7428,
     "archive_supplements": 854,
     "archive_off_label": 307,
-    "archive_biomarkers": 4350,
+    "archive_biomarkers": 4351,
     "archive_trials": 1618
   }
 }
