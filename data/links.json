@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-19T05:11:17.511Z",
+  "last_updated": "2026-02-19T05:11:27.493Z",
   "categories": {
     "supplements": [
       {
@@ -237,6 +237,21 @@
         "added_date": "2026-02-19"
       },
       {
+        "id": "recoLTRVWTK2sA7TR",
+        "title": "Sacubitril/valsartan as a modulator of pulmonary fibrosis: insights into Lnc-SNHG-16/miR-455 modulation and Notch/Smad-3 pathway inhibition.",
+        "summary": "Sacubitril/valsartan reduces pulmonary fibrosis by targeting specific molecular pathways, potentially decreasing inflammation and fibrotic tissue development in lung disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41706147/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Lung",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-19"
+      },
+      {
         "id": "recTAcUvj8gLbHkvf",
         "title": "A machine learning model for optimizing treatment of patients with poorly controlled type 2 diabetes.",
         "summary": "A machine learning model predicts the most effective diabetes medication by analyzing individual patient characteristics to guide personalized treatment selection.",
@@ -417,20 +432,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-17"
-      },
-      {
-        "id": "recGchJEo5s2y4rkq",
-        "title": "Metabolic dysfunction-associated steatotic liver disease and type 2 diabetes: Pathophysiology, diagnosis, and emerging therapeutic strategies.",
-        "summary": "In patients with type 2 diabetes, emerging pharmacotherapies like GLP-1 receptor agonists show promise in treating metabolic liver disease and reducing related health risks.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41696109/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Liver"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -876,8 +877,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7247,
-    "archive_supplements": 833,
+    "archive_count": 7248,
+    "archive_supplements": 834,
     "archive_off_label": 304,
     "archive_biomarkers": 4222,
     "archive_trials": 1590
