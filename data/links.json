@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-19T05:17:50.574Z",
+  "last_updated": "2026-02-19T05:18:00.223Z",
   "categories": {
     "supplements": [
       {
@@ -71,6 +71,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-19"
+      },
+      {
+        "id": "recnRUik1JupoxMRu",
+        "title": "Naringenin Alleviates 5-Fluorouracil-Induced Intestinal Mucositis via Modulating the Gut Microbiota, Bile Acid Metabolism, and PPAR Signaling Pathway.",
+        "summary": "Naringenin reduces intestinal mucositis in chemotherapy by modifying gut bacteria, bile acids, and cellular pathways, potentially protecting patients from treatment-related digestive damage.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41656679/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -199,21 +213,6 @@
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-18"
-      },
-      {
-        "id": "recCrKLPVcTQ2fEXL",
-        "title": "Regulation of CAF by α-Mangostin Promotes the Penetration of Nanomedicine and Inhibits the Metastasis of Breast Tumor.",
-        "summary": "α-Mangostin transforms cancer-associated fibroblasts in breast tumors, enhancing nanomedicine penetration and reducing tumor growth and metastasis.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41701112/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast",
           "Leukemia"
         ],
         "quality_score": 15,
@@ -878,10 +877,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7284,
+    "archive_count": 7285,
     "archive_supplements": 835,
     "archive_off_label": 306,
-    "archive_biomarkers": 4251,
+    "archive_biomarkers": 4252,
     "archive_trials": 1594
   }
 }
