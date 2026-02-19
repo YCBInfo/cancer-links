@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-19T05:09:41.186Z",
+  "last_updated": "2026-02-19T05:09:51.801Z",
   "categories": {
     "supplements": [
       {
@@ -13,6 +13,21 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-19"
+      },
+      {
+        "id": "recLKbaHEUynlSRSd",
+        "title": "Bio-mediated synthesis of zinc oxide nanoparticles from Crossandra infundibuliformis leaves: A potent inducer of apoptosis in lung cancer cells.",
+        "summary": "Biosynthesized zinc oxide nanoparticles from Crossandra infundibuliformis leaves effectively induce apoptosis in lung cancer cells by triggering oxidative stress and genetic changes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41706370/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lung",
+          "Leukemia"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-19"
       },
@@ -196,21 +211,6 @@
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-18"
-      },
-      {
-        "id": "reck2h1o5A5EztCUk",
-        "title": "H2S-Activable BiFeO3-x Nanocatalysts for Ferroptosis-Driven Cancer Immunotherapy.",
-        "summary": "H2S-activated BiFeO3-x nanoparticles trigger ferroptosis and immune response in colorectal cancer by generating reactive oxygen species and transforming the tumor microenvironment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41622764/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal",
           "Leukemia"
         ],
         "quality_score": 15,
@@ -874,10 +874,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7238,
+    "archive_count": 7239,
     "archive_supplements": 831,
     "archive_off_label": 304,
-    "archive_biomarkers": 4215,
+    "archive_biomarkers": 4216,
     "archive_trials": 1590
   }
 }
