@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-19T05:11:48.932Z",
+  "last_updated": "2026-02-19T05:11:59.906Z",
   "categories": {
     "supplements": [
       {
@@ -252,6 +252,21 @@
         "added_date": "2026-02-19"
       },
       {
+        "id": "rectkTQE5hzvGfNUv",
+        "title": "Leveraging Naturally Assembled Tumor Extracellular Vesicles as Self-Adjuvanting Nanovaccines to Potentiate Cancer Immunotherapy via cGAS/STING Activation.",
+        "summary": "Researchers transformed tumor cell waste into a cancer vaccine by loading extracellular vesicles with nanoparticles, effectively activating immune responses and enabling tumor eradication.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41706104/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Melanoma",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-19"
+      },
+      {
         "id": "recTAcUvj8gLbHkvf",
         "title": "A machine learning model for optimizing treatment of patients with poorly controlled type 2 diabetes.",
         "summary": "A machine learning model predicts the most effective diabetes medication by analyzing individual patient characteristics to guide personalized treatment selection.",
@@ -417,20 +432,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Lung",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-17"
-      },
-      {
-        "id": "reclUVp6aKBVEvOee",
-        "title": "Cancer-Associated Fibroblasts Promote Imatinib Resistance in Gastrointestinal Stromal Tumors through PGK1-Mediated Metabolic Reprogramming.",
-        "summary": "Cancer-associated fibroblasts in gastrointestinal stromal tumors promote imatinib resistance by altering cancer cell metabolism through TGFβ1 signaling.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41270149/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
           "Leukemia"
         ],
         "quality_score": 15,
@@ -877,9 +878,9 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7250,
+    "archive_count": 7251,
     "archive_supplements": 835,
-    "archive_off_label": 304,
+    "archive_off_label": 305,
     "archive_biomarkers": 4222,
     "archive_trials": 1591
   }
