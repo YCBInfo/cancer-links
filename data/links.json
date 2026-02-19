@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-19T05:35:17.248Z",
+  "last_updated": "2026-02-19T07:02:20.063Z",
   "categories": {
     "supplements": [
       {
@@ -120,6 +120,20 @@
         "added_date": "2026-02-19"
       },
       {
+        "id": "rec1DKVOUD8Eo9lmp",
+        "title": "Anti-inflammatory effects of nicotinamide mononucleotide (NMN) in human skeletal muscle after BFR-exercise.",
+        "summary": "NMN supplementation reduced inflammation in human skeletal muscle after blood flow restriction exercise, potentially offering a therapeutic approach for muscle recovery.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41705654/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-19"
+      },
+      {
         "id": "recxKWmwLVsPudukP",
         "title": "The Diet-Multiple Sclerosis Connection: Oxidative Stress and Emerging Mechanisms.",
         "summary": "Dietary interventions like Mediterranean and ketogenic diets may help reduce oxidative stress in multiple sclerosis by activating the Nrf2 antioxidant pathway.",
@@ -201,20 +215,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Ovarian"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-18"
-      },
-      {
-        "id": "recDMY1vlFrKkIiqE",
-        "title": "Dual-phytochemical electrospun PLA-PCL nanofibers loaded with centella asiatica extract and curcumin for sustained anticancer and antimicrobial drug delivery.",
-        "summary": "Electrospun nanofibers combining Centella asiatica extract and curcumin demonstrate targeted, sustained anticancer activity against breast cancer cells with reduced toxicity.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41702049/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -877,10 +877,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7381,
+    "archive_count": 7382,
     "archive_supplements": 838,
     "archive_off_label": 307,
-    "archive_biomarkers": 4325,
+    "archive_biomarkers": 4326,
     "archive_trials": 1613
   }
 }
