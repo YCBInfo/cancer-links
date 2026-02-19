@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-19T05:24:58.789Z",
+  "last_updated": "2026-02-19T05:25:08.300Z",
   "categories": {
     "supplements": [
       {
@@ -106,6 +106,20 @@
         "added_date": "2026-02-19"
       },
       {
+        "id": "rec8OUb3CpXyocfgO",
+        "title": "Diet, nutrition, and hormone therapy for prostate cancer: a systematic review with implications for future interventions.",
+        "summary": "Given excellent prostate cancer outcomes, comorbidity management is critical to survivorship.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41703670/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 31,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-19"
+      },
+      {
         "id": "recxKWmwLVsPudukP",
         "title": "The Diet-Multiple Sclerosis Connection: Oxidative Stress and Emerging Mechanisms.",
         "summary": "Dietary interventions like Mediterranean and ketogenic diets may help reduce oxidative stress in multiple sclerosis by activating the Nrf2 antioxidant pathway.",
@@ -201,20 +215,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-18"
-      },
-      {
-        "id": "recziafVc2Sq2UkXT",
-        "title": "Metal-Phenolic Networks-Based Nanozyme Reprograms Tumor Metabolism and Immunosuppressive Microenvironment to Enhance Ferroptosis and Potentiate Cancer Immunotherapy.",
-        "summary": "A metal-phenolic nanozyme loaded with multiple compounds reprograms tumor metabolism, induces ferroptosis, and boosts immune response against cancer cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41701766/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -877,10 +877,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7324,
+    "archive_count": 7325,
     "archive_supplements": 837,
     "archive_off_label": 307,
-    "archive_biomarkers": 4281,
+    "archive_biomarkers": 4282,
     "archive_trials": 1601
   }
 }
