@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-19T08:07:39.123Z",
+  "last_updated": "2026-02-19T08:07:47.919Z",
   "categories": {
     "supplements": [
       {
@@ -369,6 +369,20 @@
         "added_date": "2026-02-19"
       },
       {
+        "id": "recz2OIukJ3WLTTdn",
+        "title": "A Multicenter Phase 2 Study of the Bruton's Tyrosine Kinase Inhibitor PCI-32765 (Ibrutinib) for Treatment of Relapsed Hairy Cell Leukemia",
+        "summary": "Ibrutinib shows promise in treating relapsed hairy cell leukemia by blocking cancer cell growth enzymes.",
+        "url": "https://clinicaltrials.gov/study/NCT01841723",
+        "source": "ClinicalTrials.gov",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 19,
+        "pub_date": "2026-02-18",
+        "added_date": "2026-02-19"
+      },
+      {
         "id": "recTAcUvj8gLbHkvf",
         "title": "A machine learning model for optimizing treatment of patients with poorly controlled type 2 diabetes.",
         "summary": "A machine learning model predicts the most effective diabetes medication by analyzing individual patient characteristics to guide personalized treatment selection.",
@@ -418,21 +432,6 @@
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-18"
-      },
-      {
-        "id": "reck2h1o5A5EztCUk",
-        "title": "H2S-Activable BiFeO3-x Nanocatalysts for Ferroptosis-Driven Cancer Immunotherapy.",
-        "summary": "H2S-activated BiFeO3-x nanoparticles trigger ferroptosis and immune response in colorectal cancer by generating reactive oxygen species and transforming the tumor microenvironment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41622764/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal",
           "Leukemia"
         ],
         "quality_score": 15,
@@ -879,10 +878,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7468,
+    "archive_count": 7469,
     "archive_supplements": 856,
     "archive_off_label": 308,
     "archive_biomarkers": 4356,
-    "archive_trials": 1650
+    "archive_trials": 1651
   }
 }
