@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-19T10:02:52.919Z",
+  "last_updated": "2026-02-19T10:03:04.528Z",
   "categories": {
     "supplements": [
       {
@@ -411,6 +411,20 @@
         "added_date": "2026-02-19"
       },
       {
+        "id": "recFYrc9trJ6v2zNC",
+        "title": "Building a new arsenal: repurposed drugs and metronomic chemotherapy against medulloblastoma.",
+        "summary": "Medulloblastoma (MB) represents the most prevalent malignant pediatric brain tumor.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41703714/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-19"
+      },
+      {
         "id": "recTAcUvj8gLbHkvf",
         "title": "A machine learning model for optimizing treatment of patients with poorly controlled type 2 diabetes.",
         "summary": "A machine learning model predicts the most effective diabetes medication by analyzing individual patient characteristics to guide personalized treatment selection.",
@@ -419,20 +433,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Kidney"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-18"
-      },
-      {
-        "id": "recziafVc2Sq2UkXT",
-        "title": "Metal-Phenolic Networks-Based Nanozyme Reprograms Tumor Metabolism and Immunosuppressive Microenvironment to Enhance Ferroptosis and Potentiate Cancer Immunotherapy.",
-        "summary": "A metal-phenolic nanozyme loaded with multiple compounds reprograms tumor metabolism, induces ferroptosis, and boosts immune response against cancer cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41701766/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -878,10 +878,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7483,
+    "archive_count": 7484,
     "archive_supplements": 856,
     "archive_off_label": 309,
     "archive_biomarkers": 4360,
-    "archive_trials": 1660
+    "archive_trials": 1661
   }
 }
