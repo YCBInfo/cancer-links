@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-19T05:04:34.594Z",
+  "last_updated": "2026-02-19T05:04:44.917Z",
   "categories": {
     "supplements": [
       {
@@ -636,18 +636,19 @@
         "added_date": "2026-02-19"
       },
       {
-        "id": "recrcvftg8uko6wJg",
-        "title": "The Antiparasitic Effects of Nitrate and Lactic Acid on Sarcocystis Bradyzoites in Meat: Enhancing Food Safety.",
-        "summary": "Lactic acid and nitrate effectively kill Sarcocystis bradyzoites in sheep meat, with lactic acid showing superior parasite elimination at lower concentrations.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/40045798/",
+        "id": "recnJtAltBcOeX20i",
+        "title": "MPC1 deficiency promotes melanoma progression via Wnt/β-catenin signaling.",
+        "summary": "MPC1 deficiency promotes melanoma progression by activating the Wnt/β-catenin pathway, enhancing cancer cell growth and spread.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41576477/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
+          "Melanoma",
           "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
-        "added_date": "2026-02-18"
+        "added_date": "2026-02-19"
       }
     ],
     "trials": [
@@ -822,6 +823,21 @@
         "added_date": "2026-02-19"
       },
       {
+        "id": "recnJtAltBcOeX20i",
+        "title": "MPC1 deficiency promotes melanoma progression via Wnt/β-catenin signaling.",
+        "summary": "MPC1 deficiency promotes melanoma progression by activating the Wnt/β-catenin pathway, enhancing cancer cell growth and spread.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41576477/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Melanoma",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-19"
+      },
+      {
         "id": "recGykNFLxjyBQ3B2",
         "title": "Anti-apoptotic BCL-2 binds to all three IP3R isoforms, thereby limiting the Ca2+-flux properties of IP3R homo-tetramers.",
         "summary": "BCL-2 protein universally inhibits calcium signaling across all three IP3R receptor isoforms, potentially impacting cancer cell survival mechanisms.",
@@ -850,21 +866,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-18"
-      },
-      {
-        "id": "recflCqBxLwI3137A",
-        "title": "TFAP2C protects against ferroptosis in ovarian cancer through the KEAP1-NRF2 axis by recruiting HDAC1/2.",
-        "summary": "In ovarian cancer, TFAP2C protects cancer cells from ferroptosis by stabilizing NRF2 and suppressing KEAP1, thereby enhancing cellular antioxidant defenses.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41703284/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia",
-          "Ovarian"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-18"
       }
     ]
   },
@@ -874,10 +875,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7209,
+    "archive_count": 7210,
     "archive_supplements": 830,
     "archive_off_label": 304,
-    "archive_biomarkers": 4193,
+    "archive_biomarkers": 4194,
     "archive_trials": 1584
   }
 }
