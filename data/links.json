@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-19T05:09:51.801Z",
+  "last_updated": "2026-02-19T05:10:02.188Z",
   "categories": {
     "supplements": [
       {
@@ -220,6 +220,20 @@
     ],
     "off_label": [
       {
+        "id": "recDXLoQFYlyr74lx",
+        "title": "Harnessing endophytes and Multi-Omics for sustainable Colchicine biosynthesis.",
+        "summary": "Endophytic microorganisms in Gloriosa superba enhance colchicine production through metabolic interactions, offering a sustainable approach to biosynthesis for medical treatments.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41706338/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-19"
+      },
+      {
         "id": "recTAcUvj8gLbHkvf",
         "title": "A machine learning model for optimizing treatment of patients with poorly controlled type 2 diabetes.",
         "summary": "A machine learning model predicts the most effective diabetes medication by analyzing individual patient characteristics to guide personalized treatment selection.",
@@ -414,21 +428,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-17"
-      },
-      {
-        "id": "recvG5EaMQZluZJlw",
-        "title": "Metallic elements and their molecular roles in gastric cancer: Pathogenic mechanisms and therapeutic implications.",
-        "summary": "Metallic elements like iron, copper, zinc, and calcium play critical roles in gastric cancer progression through complex molecular mechanisms that influence tumor development and potential treatment strategies.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41695929/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia",
-          "Stomach"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -874,10 +873,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7239,
+    "archive_count": 7240,
     "archive_supplements": 831,
     "archive_off_label": 304,
-    "archive_biomarkers": 4216,
+    "archive_biomarkers": 4217,
     "archive_trials": 1590
   }
 }
