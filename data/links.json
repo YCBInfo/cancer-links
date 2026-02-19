@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-19T05:02:47.983Z",
+  "last_updated": "2026-02-19T05:02:59.547Z",
   "categories": {
     "supplements": [
       {
@@ -508,6 +508,20 @@
         "added_date": "2026-02-19"
       },
       {
+        "id": "rec4bJ3WZ8SRp2Thj",
+        "title": "HOTAIR promotes the progression of B-cell acute lymphoblastic leukemia by regulating the miR-326/IGF-1R axis and activating the PI3K/AKT signaling pathway.",
+        "summary": "In B-cell acute lymphoblastic leukemia, the HOTAIR gene promotes cancer progression by interacting with specific molecular pathways that enhance tumor growth.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41699973/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-19"
+      },
+      {
         "id": "recrcvftg8uko6wJg",
         "title": "The Antiparasitic Effects of Nitrate and Lactic Acid on Sarcocystis Bradyzoites in Meat: Enhancing Food Safety.",
         "summary": "Lactic acid and nitrate effectively kill Sarcocystis bradyzoites in sheep meat, with lactic acid showing superior parasite elimination at lower concentrations.",
@@ -633,20 +647,6 @@
         "cancer_types": [
           "Breast",
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-18"
-      },
-      {
-        "id": "recTAcUvj8gLbHkvf",
-        "title": "A machine learning model for optimizing treatment of patients with poorly controlled type 2 diabetes.",
-        "summary": "A machine learning model predicts the most effective diabetes medication by analyzing individual patient characteristics to guide personalized treatment selection.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41703087/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Kidney"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -878,10 +878,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7200,
+    "archive_count": 7201,
     "archive_supplements": 830,
     "archive_off_label": 304,
     "archive_biomarkers": 4186,
-    "archive_trials": 1582
+    "archive_trials": 1583
   }
 }
