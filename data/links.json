@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-19T05:11:07.460Z",
+  "last_updated": "2026-02-19T05:11:17.511Z",
   "categories": {
     "supplements": [
       {
@@ -57,6 +57,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-19"
+      },
+      {
+        "id": "recWQU9E2ZAuNqY8c",
+        "title": "LC-MS/MS-based metabolomics analysis and experimental verification reveal the mechanism of Dahuang Mudan Decoction inhibition with the proliferation of colorectal cancer cells.",
+        "summary": "Dahuang Mudan Decoction, a traditional herbal treatment, demonstrates potential to inhibit colorectal cancer cell growth by disrupting key metabolic pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41706148/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -200,20 +214,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Breast",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-18"
-      },
-      {
-        "id": "recUv0iuCpLgKrxLZ",
-        "title": "Discovery of Potent HDAC6-Selective Inhibitors Based on Artemisinin: Design, Synthesis, and Antitumor Evaluation.",
-        "summary": "Researchers developed an artemisinin-based compound (G25) that selectively targets HDAC6, showing potent anti-leukemia activity and potential as a new cancer treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41701111/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
           "Leukemia"
         ],
         "quality_score": 15,
@@ -876,10 +876,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7246,
+    "archive_count": 7247,
     "archive_supplements": 833,
     "archive_off_label": 304,
-    "archive_biomarkers": 4221,
+    "archive_biomarkers": 4222,
     "archive_trials": 1590
   }
 }
