@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-19T05:03:21.536Z",
+  "last_updated": "2026-02-19T05:03:31.086Z",
   "categories": {
     "supplements": [
       {
@@ -536,6 +536,20 @@
         "added_date": "2026-02-19"
       },
       {
+        "id": "recWUBRJ58psfp11V",
+        "title": "DoBSeqWF: a framework for sensitive detection of individual genetic variation in pooled sequencing data.",
+        "summary": "Researchers developed a computational workflow (DoBSeqWF) that enables sensitive and cost-effective detection of rare genetic variations in pooled sequencing data for potential early disease diagnosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41704565/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-19"
+      },
+      {
         "id": "recrcvftg8uko6wJg",
         "title": "The Antiparasitic Effects of Nitrate and Lactic Acid on Sarcocystis Bradyzoites in Meat: Enhancing Food Safety.",
         "summary": "Lactic acid and nitrate effectively kill Sarcocystis bradyzoites in sheep meat, with lactic acid showing superior parasite elimination at lower concentrations.",
@@ -635,21 +649,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-18"
-      },
-      {
-        "id": "recflCqBxLwI3137A",
-        "title": "TFAP2C protects against ferroptosis in ovarian cancer through the KEAP1-NRF2 axis by recruiting HDAC1/2.",
-        "summary": "In ovarian cancer, TFAP2C protects cancer cells from ferroptosis by stabilizing NRF2 and suppressing KEAP1, thereby enhancing cellular antioxidant defenses.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41703284/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia",
-          "Ovarian"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-18"
       }
     ],
     "trials": [
@@ -728,6 +727,20 @@
         "title": "Evaluating the Diagnostic Accuracy of Ultrasound-Guided Omental Biopsy in Relation to Pre-Biopsy Computed Tomography Imaging.",
         "summary": "Ultrasound-guided omental biopsy demonstrated high diagnostic accuracy (90.67%) with no complications in identifying omental involvement in cancer patients.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41705910/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-19"
+      },
+      {
+        "id": "recWUBRJ58psfp11V",
+        "title": "DoBSeqWF: a framework for sensitive detection of individual genetic variation in pooled sequencing data.",
+        "summary": "Researchers developed a computational workflow (DoBSeqWF) that enables sensitive and cost-effective detection of rare genetic variations in pooled sequencing data for potential early disease diagnosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41704565/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -853,20 +866,6 @@
         "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-18"
-      },
-      {
-        "id": "recziafVc2Sq2UkXT",
-        "title": "Metal-Phenolic Networks-Based Nanozyme Reprograms Tumor Metabolism and Immunosuppressive Microenvironment to Enhance Ferroptosis and Potentiate Cancer Immunotherapy.",
-        "summary": "A metal-phenolic nanozyme loaded with multiple compounds reprograms tumor metabolism, induces ferroptosis, and boosts immune response against cancer cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41701766/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-18"
       }
     ]
   },
@@ -876,10 +875,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7203,
+    "archive_count": 7204,
     "archive_supplements": 830,
     "archive_off_label": 304,
-    "archive_biomarkers": 4187,
+    "archive_biomarkers": 4188,
     "archive_trials": 1584
   }
 }
