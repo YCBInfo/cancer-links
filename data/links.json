@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-19T05:02:35.402Z",
+  "last_updated": "2026-02-19T05:02:47.983Z",
   "categories": {
     "supplements": [
       {
@@ -494,6 +494,20 @@
         "added_date": "2026-02-19"
       },
       {
+        "id": "recrG70nIKiaFSqii",
+        "title": "Cost-effectiveness of the GAAD algorithm for hepatocellular carcinoma surveillance of patients with compensated cirrhosis: a model-based analysis using Italian real-world data.",
+        "summary": "Early detection of hepatocellular carcinoma (HCC) in patients with compensated cirrhosis (CC) is critical for improving prognosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41701165/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-19"
+      },
+      {
         "id": "recrcvftg8uko6wJg",
         "title": "The Antiparasitic Effects of Nitrate and Lactic Acid on Sarcocystis Bradyzoites in Meat: Enhancing Food Safety.",
         "summary": "Lactic acid and nitrate effectively kill Sarcocystis bradyzoites in sheep meat, with lactic acid showing superior parasite elimination at lower concentrations.",
@@ -637,20 +651,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-18"
-      },
-      {
-        "id": "recJrZGFDKuo8VrQs",
-        "title": "Transient telomere uncapping triggers telomeric and subtelomeric rearrangements.",
-        "summary": "Transient telomere uncapping in yeast rapidly triggers extensive chromosome rearrangements and telomere elongation through homologous recombination mechanisms.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41703072/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-18"
       }
     ],
     "trials": [
@@ -705,6 +705,20 @@
         "category": "Clinical Trials",
         "cancer_types": [
           "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-19"
+      },
+      {
+        "id": "recrG70nIKiaFSqii",
+        "title": "Cost-effectiveness of the GAAD algorithm for hepatocellular carcinoma surveillance of patients with compensated cirrhosis: a model-based analysis using Italian real-world data.",
+        "summary": "Early detection of hepatocellular carcinoma (HCC) in patients with compensated cirrhosis (CC) is critical for improving prognosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41701165/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Liver"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -855,20 +869,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-18"
-      },
-      {
-        "id": "reciA5Pji6MyGnmzg",
-        "title": "Outcomes of children with T-cell acute lymphoblastic leukemia treated with the JACLS T-02 protocol.",
-        "summary": "A targeted chemotherapy protocol for T-cell acute lymphoblastic leukemia achieved 91.6% complete remission and 70.9% two-year event-free survival in pediatric patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41701450/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-18"
       }
     ]
   },
@@ -878,10 +878,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7199,
+    "archive_count": 7200,
     "archive_supplements": 830,
     "archive_off_label": 304,
-    "archive_biomarkers": 4185,
+    "archive_biomarkers": 4186,
     "archive_trials": 1582
   }
 }
