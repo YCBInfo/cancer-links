@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-19T05:21:06.670Z",
+  "last_updated": "2026-02-19T05:21:16.904Z",
   "categories": {
     "supplements": [
       {
@@ -267,6 +267,20 @@
         "added_date": "2026-02-19"
       },
       {
+        "id": "recgIoCprb0MTYpU4",
+        "title": "Sleep patterns and the risk of psoriatic disease: genetic predisposition and metabonomics.",
+        "summary": "Sleep disruption may increase genetic risk and metabolic changes associated with developing psoriatic disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41240371/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-19"
+      },
+      {
         "id": "recTAcUvj8gLbHkvf",
         "title": "A machine learning model for optimizing treatment of patients with poorly controlled type 2 diabetes.",
         "summary": "A machine learning model predicts the most effective diabetes medication by analyzing individual patient characteristics to guide personalized treatment selection.",
@@ -420,21 +434,6 @@
           "Leukemia"
         ],
         "quality_score": 18,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-17"
-      },
-      {
-        "id": "recCaeD1CTmDhfdpk",
-        "title": "Hyperactivation of mTORC1 signaling mediates folliculin deficiency-induced pulmonary cyst formation in Birt-Hogg-Dubé syndrome.",
-        "summary": "In Birt-Hogg-Dubé syndrome, loss of the FLCN gene in lung mesenchymal cells leads to lung cyst formation through hyperactive mTORC1 signaling.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41697734/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung",
-          "Leukemia"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-17"
       }
@@ -878,10 +877,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7302,
+    "archive_count": 7303,
     "archive_supplements": 837,
     "archive_off_label": 306,
     "archive_biomarkers": 4265,
-    "archive_trials": 1596
+    "archive_trials": 1597
   }
 }
