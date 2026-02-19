@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-19T05:18:56.660Z",
+  "last_updated": "2026-02-19T05:19:08.526Z",
   "categories": {
     "supplements": [
       {
@@ -84,6 +84,21 @@
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-19"
+      },
+      {
+        "id": "reccNNjbXALqdGjVY",
+        "title": "Withanolides from Physalis angulata as Potent Antimelanoma Agents: Activation of the p53 Pathway In Vitro and In Vivo.",
+        "summary": "Specific withanolides from Physalis angulata effectively inhibit melanoma cell growth by activating the p53 pathway, demonstrating potential anti-cancer properties.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41633575/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Melanoma",
           "Leukemia"
         ],
         "quality_score": 15,
@@ -198,20 +213,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41701766/",
         "source": "PubMed",
         "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-18"
-      },
-      {
-        "id": "recGvfyDI5aOP52Mj",
-        "title": "Methanol extract of Chenopodium murale L. attenuated TNF-α-mediated oxidative stress and inflammation in murine models.",
-        "summary": "Chenopodium murale L. methanol extract reduced inflammation and oxidative stress in arthritis models by suppressing TNF-α and inflammatory markers.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41701423/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Leukemia"
         ],
@@ -877,10 +878,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7290,
+    "archive_count": 7291,
     "archive_supplements": 836,
     "archive_off_label": 306,
-    "archive_biomarkers": 4256,
+    "archive_biomarkers": 4257,
     "archive_trials": 1594
   }
 }
