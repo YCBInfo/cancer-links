@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-19T07:09:08.728Z",
+  "last_updated": "2026-02-19T07:09:17.602Z",
   "categories": {
     "supplements": [
       {
@@ -340,6 +340,21 @@
         "added_date": "2026-02-19"
       },
       {
+        "id": "recRZVw8KnP5sDL0g",
+        "title": "Manipulating metabolism-reprogrammed monocytic-MDSCs prevents colitis-associated dysplasia by IL-10/HIF-1α/DLL4 signaling.",
+        "summary": "In colitis-associated colorectal cancer, blocking metabolism-altered monocytic immune cells and using a plant compound can prevent abnormal intestinal cell growth.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41707819/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-19"
+      },
+      {
         "id": "recTAcUvj8gLbHkvf",
         "title": "A machine learning model for optimizing treatment of patients with poorly controlled type 2 diabetes.",
         "summary": "A machine learning model predicts the most effective diabetes medication by analyzing individual patient characteristics to guide personalized treatment selection.",
@@ -421,20 +436,6 @@
           "Ovarian"
         ],
         "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-18"
-      },
-      {
-        "id": "recJnhXUOn8DmSmK0",
-        "title": "The cyclin dependent kinase (CDK)7 inhibitor BS-181 inhibits pathogenic Cryptococcus species, causing G2/M arrest and a splicing defect.",
-        "summary": "BS-181, a CDK7 inhibitor, effectively inhibits Cryptococcus growth and enhances antifungal drug performance by disrupting cell cycle progression and gene splicing.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41701636/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-18"
       }
@@ -878,10 +879,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7417,
+    "archive_count": 7418,
     "archive_supplements": 850,
     "archive_off_label": 307,
-    "archive_biomarkers": 4346,
+    "archive_biomarkers": 4347,
     "archive_trials": 1616
   }
 }
