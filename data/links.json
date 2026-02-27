@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-27T10:07:05.221Z",
+  "last_updated": "2026-02-27T10:07:14.648Z",
   "categories": {
     "supplements": [
       {
@@ -365,6 +365,22 @@
         "added_date": "2026-02-27"
       },
       {
+        "id": "recEgL1MyTCgrUAuJ",
+        "title": "From Neuropsychiatric Use to Oncology: Repurposing Antipsychotic Drugs for Cancer Treatment.",
+        "summary": "Antipsychotic drugs show promise against colon, breast, lung, and brain cancers, potentially enhancing chemotherapy effectiveness when combined with standard treatments.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41747798/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Melanoma",
+          "Lymphoma",
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-27"
+      },
+      {
         "id": "recDXLoQFYlyr74lx",
         "title": "Harnessing endophytes and Multi-Omics for sustainable Colchicine biosynthesis.",
         "summary": "Endophytic microorganisms in Gloriosa superba enhance colchicine production through metabolic interactions, offering a sustainable approach to biosynthesis for medical treatments.",
@@ -415,20 +431,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41240371/",
         "source": "PubMed",
         "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-19"
-      },
-      {
-        "id": "recZX8feQMPT7IrST",
-        "title": "Efficacy and safety of baricitinib versus azathioprine, both combined with topical corticosteroids, in patients with moderate-to-severe atopic dermatitis: a single-centre randomized open-label trial.",
-        "summary": "Baricitinib was found to be as effective and safe as azathioprine when combined with topical steroids for treating moderate-to-severe atopic dermatitis.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41239194/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
         "cancer_types": [
           "General"
         ],
@@ -878,9 +880,9 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7560,
+    "archive_count": 7561,
     "archive_supplements": 860,
-    "archive_off_label": 319,
+    "archive_off_label": 320,
     "archive_biomarkers": 4395,
     "archive_trials": 1688
   }
