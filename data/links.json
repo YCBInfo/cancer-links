@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-27T09:03:31.426Z",
+  "last_updated": "2026-02-27T09:03:43.671Z",
   "categories": {
     "supplements": [
       {
@@ -543,6 +543,20 @@
         "added_date": "2026-02-27"
       },
       {
+        "id": "rec1Gdlc4sZkEW5aH",
+        "title": "Design, synthesis and antiproliferative activity of oxadiazole derivatives as potent glycogen synthase kinase-3/histone deacetylase 6 dual inhibitors.",
+        "summary": "Researchers designed a new compound that simultaneously blocks two cancer-related proteins, showing strong activity against stomach cancer cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41725379/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-27"
+      },
+      {
         "id": "receMYxNbS8EiyeoA",
         "title": "AMPK-dependent maturation of hiPSC-derived cardiomyocytes induced by human cardiac fibroblast exosomes.",
         "summary": "Human cardiac fibroblast exosomes enhance the maturity and regenerative potential of stem cell-derived heart cells through an AMPK-dependent mechanism.",
@@ -631,20 +645,6 @@
         "title": "Evaluating the Diagnostic Accuracy of Ultrasound-Guided Omental Biopsy in Relation to Pre-Biopsy Computed Tomography Imaging.",
         "summary": "Ultrasound-guided omental biopsy demonstrated high diagnostic accuracy (90.67%) with no complications in identifying omental involvement in cancer patients.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41705910/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-19"
-      },
-      {
-        "id": "recWUBRJ58psfp11V",
-        "title": "DoBSeqWF: a framework for sensitive detection of individual genetic variation in pooled sequencing data.",
-        "summary": "Researchers developed a computational workflow (DoBSeqWF) that enables sensitive and cost-effective detection of rare genetic variations in pooled sequencing data for potential early disease diagnosis.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41704565/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -878,10 +878,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7514,
+    "archive_count": 7515,
     "archive_supplements": 856,
     "archive_off_label": 313,
     "archive_biomarkers": 4373,
-    "archive_trials": 1674
+    "archive_trials": 1675
   }
 }
