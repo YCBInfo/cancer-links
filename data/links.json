@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-27T09:03:10.337Z",
+  "last_updated": "2026-02-27T09:03:21.201Z",
   "categories": {
     "supplements": [
       {
@@ -771,6 +771,20 @@
         "added_date": "2026-02-27"
       },
       {
+        "id": "recADobMh0qfzgLVo",
+        "title": "Dynamic trends and determinants of COVID-19 vaccine hesitancy among adults in China during 2021-2022: A multilevel analysis based on four national cross-sectional surveys.",
+        "summary": "This is a COVID-19 vaccine study, not cancer research. It examines vaccine hesitancy trends among Chinese adults from 2021-2022, finding hesitancy rose and fell with pandemic phases and perception changes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41728815/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-27"
+      },
+      {
         "id": "receMYxNbS8EiyeoA",
         "title": "AMPK-dependent maturation of hiPSC-derived cardiomyocytes induced by human cardiac fibroblast exosomes.",
         "summary": "Human cardiac fibroblast exosomes enhance the maturity and regenerative potential of stem cell-derived heart cells through an AMPK-dependent mechanism.",
@@ -853,20 +867,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-19"
-      },
-      {
-        "id": "recWUBRJ58psfp11V",
-        "title": "DoBSeqWF: a framework for sensitive detection of individual genetic variation in pooled sequencing data.",
-        "summary": "Researchers developed a computational workflow (DoBSeqWF) that enables sensitive and cost-effective detection of rare genetic variations in pooled sequencing data for potential early disease diagnosis.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41704565/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-19"
       }
     ]
   },
@@ -876,10 +876,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7512,
+    "archive_count": 7513,
     "archive_supplements": 856,
     "archive_off_label": 313,
-    "archive_biomarkers": 4372,
+    "archive_biomarkers": 4373,
     "archive_trials": 1673
   }
 }
