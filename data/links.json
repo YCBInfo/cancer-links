@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-27T10:04:44.108Z",
+  "last_updated": "2026-02-27T10:04:53.650Z",
   "categories": {
     "supplements": [
       {
@@ -306,6 +306,20 @@
         "added_date": "2026-02-27"
       },
       {
+        "id": "recTuw2mKbpcrJuW0",
+        "title": "NIBAN2/FLII/RREB1 Axis Drives Glioma Stem Cell Malignancy via TLR3 Pathway Activation.",
+        "summary": "NIBAN2 protein drives glioma stem cell survival through a metabolic pathway, and combining nelfinavir with LDHA inhibitor FX11 effectively blocks tumor growth.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41736673/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-27"
+      },
+      {
         "id": "recDXLoQFYlyr74lx",
         "title": "Harnessing endophytes and Multi-Omics for sustainable Colchicine biosynthesis.",
         "summary": "Endophytic microorganisms in Gloriosa superba enhance colchicine production through metabolic interactions, offering a sustainable approach to biosynthesis for medical treatments.",
@@ -415,21 +429,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Breast",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-19"
-      },
-      {
-        "id": "recRZVw8KnP5sDL0g",
-        "title": "Manipulating metabolism-reprogrammed monocytic-MDSCs prevents colitis-associated dysplasia by IL-10/HIF-1α/DLL4 signaling.",
-        "summary": "In colitis-associated colorectal cancer, blocking metabolism-altered monocytic immune cells and using a plant compound can prevent abnormal intestinal cell growth.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41707819/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal",
           "Leukemia"
         ],
         "quality_score": 15,
@@ -878,10 +877,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7547,
+    "archive_count": 7548,
     "archive_supplements": 859,
     "archive_off_label": 318,
-    "archive_biomarkers": 4387,
+    "archive_biomarkers": 4388,
     "archive_trials": 1685
   }
 }
