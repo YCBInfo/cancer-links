@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-27T09:02:27.879Z",
+  "last_updated": "2026-02-27T09:02:38.538Z",
   "categories": {
     "supplements": [
       {
@@ -716,6 +716,20 @@
         "added_date": "2026-02-27"
       },
       {
+        "id": "recaUaBApfeEsz3KT",
+        "title": "On-label persistence in psoriasis after switching to guselkumab, tumor necrosis factor inhibitors, interleukin-17 inhibitors, or apremilast from other advanced therapies.",
+        "summary": "Guselkumab showed better treatment persistence in psoriasis patients compared to other advanced therapies when switching treatments.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41732098/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Melanoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-27"
+      },
+      {
         "id": "receMYxNbS8EiyeoA",
         "title": "AMPK-dependent maturation of hiPSC-derived cardiomyocytes induced by human cardiac fibroblast exosomes.",
         "summary": "Human cardiac fibroblast exosomes enhance the maturity and regenerative potential of stem cell-derived heart cells through an AMPK-dependent mechanism.",
@@ -855,20 +869,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-19"
-      },
-      {
-        "id": "recEjgRsmFmCcK2Ld",
-        "title": "Monitoring of plasma and urine tumor-derived DNA to inform bladder-sparing approaches for patients with muscle-invasive bladder cancer.",
-        "summary": "Monitoring tumor DNA in plasma and urine could help identify bladder cancer patients who can safely avoid bladder removal after initial treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41706890/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Bladder"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-19"
       }
     ]
   },
@@ -878,9 +878,9 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7508,
+    "archive_count": 7509,
     "archive_supplements": 856,
-    "archive_off_label": 312,
+    "archive_off_label": 313,
     "archive_biomarkers": 4371,
     "archive_trials": 1671
   }
