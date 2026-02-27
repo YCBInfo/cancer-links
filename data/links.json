@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-27T09:01:55.446Z",
+  "last_updated": "2026-02-27T09:02:06.691Z",
   "categories": {
     "supplements": [
       {
@@ -224,6 +224,20 @@
     ],
     "off_label": [
       {
+        "id": "recfDj917JcxW7oXH",
+        "title": "Drug repurposing of ticagrelor suppresses renal cell carcinoma growth by blockading the EGFR/PI3K/AKT axis.",
+        "summary": "Ticagrelor, an antiplatelet drug, slows kidney cancer growth by blocking a key cancer-promoting pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41741334/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Kidney"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-27"
+      },
+      {
         "id": "recDXLoQFYlyr74lx",
         "title": "Harnessing endophytes and Multi-Omics for sustainable Colchicine biosynthesis.",
         "summary": "Endophytic microorganisms in Gloriosa superba enhance colchicine production through metabolic interactions, offering a sustainable approach to biosynthesis for medical treatments.",
@@ -423,20 +437,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-19"
-      },
-      {
-        "id": "recrDkHpfCfC4Wol4",
-        "title": "SACUBITRIL/VALSARTAN AS A CARDIAC RADIOPROTECTOR.",
-        "summary": "The role of the natriuretic peptides in radiation heart injury (RHI) has not been thoroughly examined.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41707992/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-19"
       }
     ],
     "biomarkers": [
@@ -480,6 +480,20 @@
         "cancer_types": [
           "Breast",
           "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-27"
+      },
+      {
+        "id": "recfDj917JcxW7oXH",
+        "title": "Drug repurposing of ticagrelor suppresses renal cell carcinoma growth by blockading the EGFR/PI3K/AKT axis.",
+        "summary": "Ticagrelor, an antiplatelet drug, slows kidney cancer growth by blocking a key cancer-promoting pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41741334/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Kidney"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -635,20 +649,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-19"
-      },
-      {
-        "id": "recEjgRsmFmCcK2Ld",
-        "title": "Monitoring of plasma and urine tumor-derived DNA to inform bladder-sparing approaches for patients with muscle-invasive bladder cancer.",
-        "summary": "Monitoring tumor DNA in plasma and urine could help identify bladder cancer patients who can safely avoid bladder removal after initial treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41706890/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Bladder"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -879,10 +879,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7505,
+    "archive_count": 7506,
     "archive_supplements": 856,
     "archive_off_label": 312,
     "archive_biomarkers": 4370,
-    "archive_trials": 1669
+    "archive_trials": 1670
   }
 }
