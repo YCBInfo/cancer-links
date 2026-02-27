@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-27T10:13:54.918Z",
+  "last_updated": "2026-02-27T10:14:04.650Z",
   "categories": {
     "supplements": [
       {
@@ -83,6 +83,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-27"
+      },
+      {
+        "id": "recISk9sUrLJ1D4Rl",
+        "title": "Comparative multi-pathway inhibition of breast cancer by micro-and nano-formulated Curcumin.",
+        "summary": "Curcumin in micro- and nano-formulations effectively reduced breast cancer cell growth through multiple cellular pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41721902/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-27"
       },
@@ -200,20 +214,6 @@
           "Prostate"
         ],
         "quality_score": 31,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-19"
-      },
-      {
-        "id": "rec1DKVOUD8Eo9lmp",
-        "title": "Anti-inflammatory effects of nicotinamide mononucleotide (NMN) in human skeletal muscle after BFR-exercise.",
-        "summary": "NMN supplementation reduced inflammation in human skeletal muscle after blood flow restriction exercise, potentially offering a therapeutic approach for muscle recovery.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41705654/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-19"
       }
@@ -876,10 +876,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7598,
+    "archive_count": 7599,
     "archive_supplements": 862,
     "archive_off_label": 327,
     "archive_biomarkers": 4414,
-    "archive_trials": 1697
+    "archive_trials": 1698
   }
 }
