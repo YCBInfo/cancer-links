@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-27T09:04:25.086Z",
+  "last_updated": "2026-02-27T09:04:35.862Z",
   "categories": {
     "supplements": [
       {
@@ -613,6 +613,20 @@
         "added_date": "2026-02-27"
       },
       {
+        "id": "rec6qSB6EKCzjSoiM",
+        "title": "Immune checkpoint inhibitor-induced myocarditis is dependent on CD8 T cell-derived TNF and TNFR2 signaling.",
+        "summary": "Blocking TNF signaling in immune cells prevents heart damage from cancer immunotherapy while maintaining anti-tumor effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41718716/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-27"
+      },
+      {
         "id": "receMYxNbS8EiyeoA",
         "title": "AMPK-dependent maturation of hiPSC-derived cardiomyocytes induced by human cardiac fibroblast exosomes.",
         "summary": "Human cardiac fibroblast exosomes enhance the maturity and regenerative potential of stem cell-derived heart cells through an AMPK-dependent mechanism.",
@@ -633,20 +647,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41706678/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-19"
-      },
-      {
-        "id": "rectmRyfYrT7dyK9G",
-        "title": "Time to access matters: patient gains from faster CAR T-cell reimbursement in Europe.",
-        "summary": "Despite clinical efficacy and cost-effectiveness, time to reimbursement for chimeric antigen receptor (CAR) T-cell therapies varies greatly across Europe.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41705912/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
         "cancer_types": [
           "General"
         ],
@@ -878,10 +878,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7519,
+    "archive_count": 7520,
     "archive_supplements": 856,
     "archive_off_label": 313,
-    "archive_biomarkers": 4375,
+    "archive_biomarkers": 4376,
     "archive_trials": 1677
   }
 }
