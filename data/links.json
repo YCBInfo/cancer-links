@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-27T09:04:57.532Z",
+  "last_updated": "2026-02-27T09:05:08.554Z",
   "categories": {
     "supplements": [
       {
@@ -627,6 +627,20 @@
         "added_date": "2026-02-27"
       },
       {
+        "id": "recY5LjpO6anVNmeQ",
+        "title": "N-acetyl-aspartyl-glutamate connects neuroinflammatory signatures to attention and working memory in people with HIV.",
+        "summary": "A brain chemical called NAAG links inflammation to memory and attention problems in people with HIV, even when the virus is controlled.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41739081/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-27"
+      },
+      {
         "id": "receMYxNbS8EiyeoA",
         "title": "AMPK-dependent maturation of hiPSC-derived cardiomyocytes induced by human cardiac fibroblast exosomes.",
         "summary": "Human cardiac fibroblast exosomes enhance the maturity and regenerative potential of stem cell-derived heart cells through an AMPK-dependent mechanism.",
@@ -637,20 +651,6 @@
           "Leukemia"
         ],
         "quality_score": 24,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-19"
-      },
-      {
-        "id": "recEEYEGRUuAo4YQt",
-        "title": "DRP1 depletion protects NK cells from hypoxia-induced dysfunction.",
-        "summary": "Blocking the DRP1 protein helps natural killer immune cells maintain their cancer-fighting ability in low-oxygen tumor environments.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41706678/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-19"
       }
@@ -878,10 +878,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7522,
+    "archive_count": 7523,
     "archive_supplements": 856,
     "archive_off_label": 314,
-    "archive_biomarkers": 4377,
+    "archive_biomarkers": 4378,
     "archive_trials": 1677
   }
 }
