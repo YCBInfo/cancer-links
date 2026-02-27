@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-27T10:03:49.661Z",
+  "last_updated": "2026-02-27T10:04:00.583Z",
   "categories": {
     "supplements": [
       {
@@ -21,6 +21,20 @@
         "title": "A preliminary study on Tapyadi Loha for the treatment of hepatic encephalopathy based on Insilico and Invitro analysis.",
         "summary": "Tapyadi Loha, an Ayurvedic medicine, shows promise as an alternative treatment for hepatic encephalopathy, a serious liver-related brain condition.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41747606/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-27"
+      },
+      {
+        "id": "recGvJEf1R8dfp5ND",
+        "title": "Integrating computational chemistry, network pharmacology and in vitro experimental assays for deciphering the antitumor effects of naturally occurring sesquiterpene lactone-parthenolide in human oral carcinoma cells.",
+        "summary": "Parthenolide, a natural compound, kills oral cancer cells by triggering apoptosis through inflammatory and tumor-suppressing pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41739945/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -200,20 +214,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Breast",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-19"
-      },
-      {
-        "id": "rec8qNSSlc3EFjBik",
-        "title": "Potential Application of Natural Products in Weight Management and Obesity: Focusing on the Gut Microbiota.",
-        "summary": "Natural products like polysaccharides and polyphenols can potentially help manage obesity by positively altering the gut microbiota's composition and diversity.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41705727/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
           "Leukemia"
         ],
         "quality_score": 15,
@@ -879,10 +879,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7542,
+    "archive_count": 7543,
     "archive_supplements": 858,
     "archive_off_label": 318,
-    "archive_biomarkers": 4385,
+    "archive_biomarkers": 4386,
     "archive_trials": 1683
   }
 }
