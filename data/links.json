@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-27T10:04:22.676Z",
+  "last_updated": "2026-02-27T10:04:33.286Z",
   "categories": {
     "supplements": [
       {
@@ -35,6 +35,20 @@
         "title": "Integrating computational chemistry, network pharmacology and in vitro experimental assays for deciphering the antitumor effects of naturally occurring sesquiterpene lactone-parthenolide in human oral carcinoma cells.",
         "summary": "Parthenolide, a natural compound, kills oral cancer cells by triggering apoptosis through inflammatory and tumor-suppressing pathways.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41739945/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-27"
+      },
+      {
+        "id": "recfDhbeuvf7C6xcc",
+        "title": "Curcumin-mediated modulation of immunogenic cancer cell death pathways.",
+        "summary": "Curcumin triggers cancer cell death mechanisms that activate the immune system to fight tumors more effectively.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41739293/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -195,21 +209,6 @@
         "title": "Fatty acid and cysteine metabolic interplay regulate ferroptosis and highlight xCT as a selenium-chrysin target in breast carcinoma.",
         "summary": "Cancer metabolic remodeling impacts the entire network of metabolic pathways, and strategies that target various points within this system could contribute to successfully abrogating cancer cell su...",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41706708/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-19"
-      },
-      {
-        "id": "recTfItxUw97gae3B",
-        "title": "Microenvironment-responsive EGCG-functionalized nanoplatform for synergistic photothermal-chemotherapy against triple-negative breast cancer.",
-        "summary": "A multifunctional nanoplatform combining chemotherapy, photothermal therapy, and immune response activation significantly improved treatment outcomes for triple-negative breast cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41705930/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -879,8 +878,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7545,
-    "archive_supplements": 858,
+    "archive_count": 7546,
+    "archive_supplements": 859,
     "archive_off_label": 318,
     "archive_biomarkers": 4387,
     "archive_trials": 1684
