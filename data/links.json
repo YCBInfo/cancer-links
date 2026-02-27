@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-27T10:02:46.429Z",
+  "last_updated": "2026-02-27T10:02:58.020Z",
   "categories": {
     "supplements": [
       {
@@ -280,6 +280,20 @@
         "added_date": "2026-02-27"
       },
       {
+        "id": "recIvhtDfb5cU2z3B",
+        "title": "Aspirin and other nonsteroidal anti-inflammatory drugs (NSAIDs) for preventing colorectal cancer and colorectal adenoma in the general population.",
+        "summary": "Aspirin and NSAIDs may help prevent colorectal cancer, but more research is needed to balance benefits against potential risks.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41740630/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 22,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-27"
+      },
+      {
         "id": "recDXLoQFYlyr74lx",
         "title": "Harnessing endophytes and Multi-Omics for sustainable Colchicine biosynthesis.",
         "summary": "Endophytic microorganisms in Gloriosa superba enhance colchicine production through metabolic interactions, offering a sustainable approach to biosynthesis for medical treatments.",
@@ -422,20 +436,6 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-02-01",
-        "added_date": "2026-02-19"
-      },
-      {
-        "id": "recz2OIukJ3WLTTdn",
-        "title": "A Multicenter Phase 2 Study of the Bruton's Tyrosine Kinase Inhibitor PCI-32765 (Ibrutinib) for Treatment of Relapsed Hairy Cell Leukemia",
-        "summary": "Ibrutinib shows promise in treating relapsed hairy cell leukemia by blocking cancer cell growth enzymes.",
-        "url": "https://clinicaltrials.gov/study/NCT01841723",
-        "source": "ClinicalTrials.gov",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 19,
-        "pub_date": "2026-02-18",
         "added_date": "2026-02-19"
       }
     ],
@@ -880,10 +880,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7536,
+    "archive_count": 7537,
     "archive_supplements": 857,
     "archive_off_label": 315,
-    "archive_biomarkers": 4383,
+    "archive_biomarkers": 4384,
     "archive_trials": 1683
   }
 }
