@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-27T10:14:37.754Z",
+  "last_updated": "2026-02-27T10:14:48.752Z",
   "categories": {
     "supplements": [
       {
@@ -95,6 +95,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-27"
+      },
+      {
+        "id": "recbc44fMF9OGuRSy",
+        "title": "Mechanistic insights into cordycepin-enhanced CTLA-4 blockade efficacy via Eubacterium rectale-mediated immunomodulation in colon cancer.",
+        "summary": "Cordycepin combined with CTLA-4 inhibitors and a beneficial gut bacterium significantly improves colon cancer treatment by strengthening immune cell response.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41722537/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -200,20 +214,6 @@
           "Leukemia"
         ],
         "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-19"
-      },
-      {
-        "id": "rec8OUb3CpXyocfgO",
-        "title": "Diet, nutrition, and hormone therapy for prostate cancer: a systematic review with implications for future interventions.",
-        "summary": "Given excellent prostate cancer outcomes, comorbidity management is critical to survivorship.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41703670/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Prostate"
-        ],
-        "quality_score": 31,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-19"
       }
@@ -876,10 +876,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7602,
+    "archive_count": 7603,
     "archive_supplements": 863,
     "archive_off_label": 328,
     "archive_biomarkers": 4414,
-    "archive_trials": 1699
+    "archive_trials": 1700
   }
 }
