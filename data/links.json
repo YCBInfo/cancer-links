@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-27T09:02:49.252Z",
+  "last_updated": "2026-02-27T09:02:59.886Z",
   "categories": {
     "supplements": [
       {
@@ -743,6 +743,20 @@
         "added_date": "2026-02-27"
       },
       {
+        "id": "recmF1t8vUnjs6ROU",
+        "title": "Current landscape of clinical trials for mRNA-based therapeutics.",
+        "summary": "mRNA-based therapeutics show expanding clinical potential beyond COVID-19 vaccines, with 557 trials mostly focusing on infectious diseases and vaccines.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41729563/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 23,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-27"
+      },
+      {
         "id": "receMYxNbS8EiyeoA",
         "title": "AMPK-dependent maturation of hiPSC-derived cardiomyocytes induced by human cardiac fibroblast exosomes.",
         "summary": "Human cardiac fibroblast exosomes enhance the maturity and regenerative potential of stem cell-derived heart cells through an AMPK-dependent mechanism.",
@@ -853,21 +867,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-19"
-      },
-      {
-        "id": "recDlmPIiPOj85JDV",
-        "title": "A Novel Peptide, HS1002, Enhances Antitumor Activity via Dual Targeting of the GnRH Receptor and Human Telomerase Reverse Transcriptase in Prostate Cancer Cells.",
-        "summary": "HS1002, a novel peptide targeting GnRH receptor and hTERT, effectively suppresses prostate cancer cell growth and enhances anticancer immune responses.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41700173/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Prostate",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-19"
       }
     ]
   },
@@ -877,10 +876,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7510,
+    "archive_count": 7511,
     "archive_supplements": 856,
     "archive_off_label": 313,
     "archive_biomarkers": 4372,
-    "archive_trials": 1671
+    "archive_trials": 1672
   }
 }
