@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-27T10:07:57.617Z",
+  "last_updated": "2026-02-27T10:08:08.489Z",
   "categories": {
     "supplements": [
       {
@@ -394,6 +394,20 @@
         "added_date": "2026-02-27"
       },
       {
+        "id": "recTxp5HjbALejGvV",
+        "title": "A metabolism-specific drug-repurposing screen reveals itraconazole as a potent OXPHOS inhibitor in acute myeloid leukemia.",
+        "summary": "Itraconazole, an FDA-approved antifungal drug, effectively inhibits mitochondrial energy production in acute myeloid leukemia cells and overcomes treatment resistance.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41734389/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-27"
+      },
+      {
         "id": "recDXLoQFYlyr74lx",
         "title": "Harnessing endophytes and Multi-Omics for sustainable Colchicine biosynthesis.",
         "summary": "Endophytic microorganisms in Gloriosa superba enhance colchicine production through metabolic interactions, offering a sustainable approach to biosynthesis for medical treatments.",
@@ -416,21 +430,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Lung",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-19"
-      },
-      {
-        "id": "rectkTQE5hzvGfNUv",
-        "title": "Leveraging Naturally Assembled Tumor Extracellular Vesicles as Self-Adjuvanting Nanovaccines to Potentiate Cancer Immunotherapy via cGAS/STING Activation.",
-        "summary": "Researchers transformed tumor cell waste into a cancer vaccine by loading extracellular vesicles with nanoparticles, effectively activating immune responses and enabling tumor eradication.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41706104/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Melanoma",
           "Leukemia"
         ],
         "quality_score": 15,
@@ -879,10 +878,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7565,
+    "archive_count": 7566,
     "archive_supplements": 861,
     "archive_off_label": 321,
     "archive_biomarkers": 4397,
-    "archive_trials": 1688
+    "archive_trials": 1689
   }
 }
