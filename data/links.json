@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-27T10:01:26.427Z",
+  "last_updated": "2026-02-27T10:01:39.671Z",
   "categories": {
     "supplements": [
       {
@@ -252,6 +252,20 @@
         "added_date": "2026-02-27"
       },
       {
+        "id": "recvY1huViVMaAaHe",
+        "title": "Global trends, knowledge structure, and thematic evolution of statin-cancer research: A comprehensive mapping and visualization study with insights from highly cited literature (1940-2025).",
+        "summary": "Research shows statins may help prevent cancer, with studies increasingly focusing on breast cancer and translating findings into clinical treatments.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41748945/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-27"
+      },
+      {
         "id": "recDXLoQFYlyr74lx",
         "title": "Harnessing endophytes and Multi-Omics for sustainable Colchicine biosynthesis.",
         "summary": "Endophytic microorganisms in Gloriosa superba enhance colchicine production through metabolic interactions, offering a sustainable approach to biosynthesis for medical treatments.",
@@ -421,20 +435,6 @@
           "Leukemia"
         ],
         "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-19"
-      },
-      {
-        "id": "recuogqmkMYkdU9pW",
-        "title": "Trichomonas vaginalis Among Cisgender Women Taking Doxycycline Postexposure Prophylaxis.",
-        "summary": "Doxycycline postexposure prophylaxis did not significantly reduce Trichomonas vaginalis infections among Kenyan women in this clinical trial.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41063661/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-19"
       }
@@ -880,10 +880,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7529,
+    "archive_count": 7530,
     "archive_supplements": 856,
     "archive_off_label": 314,
     "archive_biomarkers": 4381,
-    "archive_trials": 1680
+    "archive_trials": 1681
   }
 }
