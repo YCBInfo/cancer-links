@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-27T10:06:32.142Z",
+  "last_updated": "2026-02-27T10:06:43.396Z",
   "categories": {
     "supplements": [
       {
@@ -334,6 +334,23 @@
         "added_date": "2026-02-27"
       },
       {
+        "id": "recq4J3DCJB1cn8rU",
+        "title": "Targeting PCK1 to overcome CDK4/6 inhibitor resistance for breast cancer therapy.",
+        "summary": "Blocking PCK1 protein combined with CDK4/6 inhibitors overcomes drug resistance and suppresses breast cancer growth.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41748011/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Breast",
+          "Colorectal",
+          "Pancreatic",
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-27"
+      },
+      {
         "id": "recDXLoQFYlyr74lx",
         "title": "Harnessing endophytes and Multi-Omics for sustainable Colchicine biosynthesis.",
         "summary": "Endophytic microorganisms in Gloriosa superba enhance colchicine production through metabolic interactions, offering a sustainable approach to biosynthesis for medical treatments.",
@@ -414,21 +431,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-19"
-      },
-      {
-        "id": "rec9dAZxKVZ6SFitY",
-        "title": "Theranostic and Radionuclide-based Treatment Approaches for Radioiodine-refractory Thyroid Cancer: From Biology to Clinical Application.",
-        "summary": "Targeted radionuclide therapies and molecular imaging techniques offer new hope for treating radioiodine-refractory thyroid cancer by restoring iodine uptake and providing personalized treatment options.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41708943/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia",
-          "Thyroid"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -876,10 +878,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7557,
+    "archive_count": 7558,
     "archive_supplements": 860,
     "archive_off_label": 318,
-    "archive_biomarkers": 4393,
+    "archive_biomarkers": 4394,
     "archive_trials": 1688
   }
 }
