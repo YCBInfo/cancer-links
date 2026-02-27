@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-27T09:04:04.358Z",
+  "last_updated": "2026-02-27T09:04:15.462Z",
   "categories": {
     "supplements": [
       {
@@ -238,6 +238,20 @@
         "added_date": "2026-02-27"
       },
       {
+        "id": "recYqaOn6D25TOLJb",
+        "title": "Anti-diabetic drugs: a novel therapeutic approach against cisplatin-induced kidney injury, a mechanistic review of preclinical studies.",
+        "summary": "Anti-diabetic drugs reduce kidney damage caused by cisplatin chemotherapy by lowering inflammation and oxidative stress in preclinical studies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41743895/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-27"
+      },
+      {
         "id": "recDXLoQFYlyr74lx",
         "title": "Harnessing endophytes and Multi-Omics for sustainable Colchicine biosynthesis.",
         "summary": "Endophytic microorganisms in Gloriosa superba enhance colchicine production through metabolic interactions, offering a sustainable approach to biosynthesis for medical treatments.",
@@ -423,20 +437,6 @@
         "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-19"
-      },
-      {
-        "id": "recFYrc9trJ6v2zNC",
-        "title": "Building a new arsenal: repurposed drugs and metronomic chemotherapy against medulloblastoma.",
-        "summary": "Medulloblastoma (MB) represents the most prevalent malignant pediatric brain tumor.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41703714/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-19"
       }
     ],
     "biomarkers": [
@@ -585,6 +585,20 @@
         "added_date": "2026-02-27"
       },
       {
+        "id": "recYqaOn6D25TOLJb",
+        "title": "Anti-diabetic drugs: a novel therapeutic approach against cisplatin-induced kidney injury, a mechanistic review of preclinical studies.",
+        "summary": "Anti-diabetic drugs reduce kidney damage caused by cisplatin chemotherapy by lowering inflammation and oxidative stress in preclinical studies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41743895/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-27"
+      },
+      {
         "id": "receMYxNbS8EiyeoA",
         "title": "AMPK-dependent maturation of hiPSC-derived cardiomyocytes induced by human cardiac fibroblast exosomes.",
         "summary": "Human cardiac fibroblast exosomes enhance the maturity and regenerative potential of stem cell-derived heart cells through an AMPK-dependent mechanism.",
@@ -635,20 +649,6 @@
         "category": "Clinical Trials",
         "cancer_types": [
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-19"
-      },
-      {
-        "id": "recrG70nIKiaFSqii",
-        "title": "Cost-effectiveness of the GAAD algorithm for hepatocellular carcinoma surveillance of patients with compensated cirrhosis: a model-based analysis using Italian real-world data.",
-        "summary": "Early detection of hepatocellular carcinoma (HCC) in patients with compensated cirrhosis (CC) is critical for improving prognosis.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41701165/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Liver"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -878,10 +878,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7517,
+    "archive_count": 7518,
     "archive_supplements": 856,
     "archive_off_label": 313,
-    "archive_biomarkers": 4373,
+    "archive_biomarkers": 4374,
     "archive_trials": 1677
   }
 }
