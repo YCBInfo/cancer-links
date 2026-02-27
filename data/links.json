@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-27T10:06:08.964Z",
+  "last_updated": "2026-02-27T10:06:21.074Z",
   "categories": {
     "supplements": [
       {
@@ -320,6 +320,20 @@
         "added_date": "2026-02-27"
       },
       {
+        "id": "rec7gtzkHohz3UDFW",
+        "title": "Association of proton pump inhibitor use with outcome of patients with recurrent glioblastoma.",
+        "summary": "Proton pump inhibitors may worsen outcomes in patients with recurrent glioblastoma, similar to effects seen in newly diagnosed cases.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41548362/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-27"
+      },
+      {
         "id": "recDXLoQFYlyr74lx",
         "title": "Harnessing endophytes and Multi-Omics for sustainable Colchicine biosynthesis.",
         "summary": "Endophytic microorganisms in Gloriosa superba enhance colchicine production through metabolic interactions, offering a sustainable approach to biosynthesis for medical treatments.",
@@ -415,21 +429,6 @@
         "cancer_types": [
           "Leukemia",
           "Thyroid"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-19"
-      },
-      {
-        "id": "reccKecqQp8iQ3tIX",
-        "title": "Fatty acid and cysteine metabolic interplay regulate ferroptosis and highlight xCT as a selenium-chrysin target in breast carcinoma.",
-        "summary": "Cancer metabolic remodeling impacts the entire network of metabolic pathways, and strategies that target various points within this system could contribute to successfully abrogating cancer cell su...",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41706708/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast",
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -877,10 +876,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7555,
+    "archive_count": 7556,
     "archive_supplements": 860,
     "archive_off_label": 318,
     "archive_biomarkers": 4393,
-    "archive_trials": 1686
+    "archive_trials": 1687
   }
 }
