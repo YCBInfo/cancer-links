@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-27T09:02:17.377Z",
+  "last_updated": "2026-02-27T09:02:27.879Z",
   "categories": {
     "supplements": [
       {
@@ -702,6 +702,20 @@
         "added_date": "2026-02-27"
       },
       {
+        "id": "recrjxuWzdWV3fYK9",
+        "title": "Association between hypothermic machine perfusion parameters and graft function in deceased donor kidney transplantation.",
+        "summary": "Hypothermic machine perfusion improves kidney transplant function by reducing injury compared to traditional cold storage methods.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41736560/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Kidney"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-27"
+      },
+      {
         "id": "receMYxNbS8EiyeoA",
         "title": "AMPK-dependent maturation of hiPSC-derived cardiomyocytes induced by human cardiac fibroblast exosomes.",
         "summary": "Human cardiac fibroblast exosomes enhance the maturity and regenerative potential of stem cell-derived heart cells through an AMPK-dependent mechanism.",
@@ -855,21 +869,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-19"
-      },
-      {
-        "id": "recD4vWYkx1vfIxd9",
-        "title": "Oncogenic function and transcriptional dynamics of MYCN in liver tumorigenesis.",
-        "summary": "In mice, MYCN overexpression combined with AKT activation promotes liver cancer development by creating a stress-adaptive, metastasis-prone cellular environment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41706888/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia",
-          "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-19"
       }
     ]
   },
@@ -879,10 +878,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7507,
+    "archive_count": 7508,
     "archive_supplements": 856,
     "archive_off_label": 312,
     "archive_biomarkers": 4371,
-    "archive_trials": 1670
+    "archive_trials": 1671
   }
 }
