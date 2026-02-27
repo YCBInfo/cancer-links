@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-27T10:06:53.038Z",
+  "last_updated": "2026-02-27T10:07:05.221Z",
   "categories": {
     "supplements": [
       {
@@ -351,6 +351,20 @@
         "added_date": "2026-02-27"
       },
       {
+        "id": "recMY0JdLzaje7pjV",
+        "title": "Metabolic reprogramming and intracellular ATP homeostasis in immunity.",
+        "summary": "ATP metabolism controls immune cell function, and drugs targeting purine pathways offer therapeutic potential for cancer and inflammatory diseases.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41747828/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-27"
+      },
+      {
         "id": "recDXLoQFYlyr74lx",
         "title": "Harnessing endophytes and Multi-Omics for sustainable Colchicine biosynthesis.",
         "summary": "Endophytic microorganisms in Gloriosa superba enhance colchicine production through metabolic interactions, offering a sustainable approach to biosynthesis for medical treatments.",
@@ -419,20 +433,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-19"
-      },
-      {
-        "id": "recoB4RxG0X92tOjR",
-        "title": "Elucidating key targets and mechanisms of diethyl phthalate-induced colorectal cancer through network toxicology and molecular docking.",
-        "summary": "Diethyl phthalate (DEP), a widely used plasticizer with endocrine-disrupting properties, has raised concerns regarding its potential carcinogenic effects.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41701740/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-19"
       }
@@ -878,10 +878,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7559,
+    "archive_count": 7560,
     "archive_supplements": 860,
     "archive_off_label": 319,
-    "archive_biomarkers": 4394,
+    "archive_biomarkers": 4395,
     "archive_trials": 1688
   }
 }
