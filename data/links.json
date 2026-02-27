@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-27T09:03:43.671Z",
+  "last_updated": "2026-02-27T09:03:53.438Z",
   "categories": {
     "supplements": [
       {
@@ -557,6 +557,20 @@
         "added_date": "2026-02-27"
       },
       {
+        "id": "rec3T1wZxcivYvj2O",
+        "title": "Impact of breast biopsy markers on magnetic resonance-guided focused ultrasound.",
+        "summary": "Breast biopsy markers may interfere with focused ultrasound treatment, requiring further investigation before clinical use.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41725365/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-27"
+      },
+      {
         "id": "receMYxNbS8EiyeoA",
         "title": "AMPK-dependent maturation of hiPSC-derived cardiomyocytes induced by human cardiac fibroblast exosomes.",
         "summary": "Human cardiac fibroblast exosomes enhance the maturity and regenerative potential of stem cell-derived heart cells through an AMPK-dependent mechanism.",
@@ -631,20 +645,6 @@
         "title": "HOTAIR promotes the progression of B-cell acute lymphoblastic leukemia by regulating the miR-326/IGF-1R axis and activating the PI3K/AKT signaling pathway.",
         "summary": "In B-cell acute lymphoblastic leukemia, the HOTAIR gene promotes cancer progression by interacting with specific molecular pathways that enhance tumor growth.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41699973/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-19"
-      },
-      {
-        "id": "reco61q2D0oA3lkBy",
-        "title": "Evaluating the Diagnostic Accuracy of Ultrasound-Guided Omental Biopsy in Relation to Pre-Biopsy Computed Tomography Imaging.",
-        "summary": "Ultrasound-guided omental biopsy demonstrated high diagnostic accuracy (90.67%) with no complications in identifying omental involvement in cancer patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41705910/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -878,10 +878,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7515,
+    "archive_count": 7516,
     "archive_supplements": 856,
     "archive_off_label": 313,
     "archive_biomarkers": 4373,
-    "archive_trials": 1675
+    "archive_trials": 1676
   }
 }
