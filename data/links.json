@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-27T09:05:08.554Z",
+  "last_updated": "2026-02-27T09:05:19.139Z",
   "categories": {
     "supplements": [
       {
@@ -641,18 +641,19 @@
         "added_date": "2026-02-27"
       },
       {
-        "id": "receMYxNbS8EiyeoA",
-        "title": "AMPK-dependent maturation of hiPSC-derived cardiomyocytes induced by human cardiac fibroblast exosomes.",
-        "summary": "Human cardiac fibroblast exosomes enhance the maturity and regenerative potential of stem cell-derived heart cells through an AMPK-dependent mechanism.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41703772/",
+        "id": "recztxdoodj8e57IS",
+        "title": "Approaches for Lung Fiducial Markers Insertion in Stereotactic Body Radiotherapy: A Systematic Review and Meta-Analysis.",
+        "summary": "Fiducial markers inserted via three different approaches improve radiation tracking accuracy for lung cancer treatment in inoperable patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41738525/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
+          "Lung",
           "Leukemia"
         ],
-        "quality_score": 24,
+        "quality_score": 32,
         "pub_date": "2026-02-01",
-        "added_date": "2026-02-19"
+        "added_date": "2026-02-27"
       }
     ],
     "trials": [
@@ -843,6 +844,21 @@
         "added_date": "2026-02-27"
       },
       {
+        "id": "recztxdoodj8e57IS",
+        "title": "Approaches for Lung Fiducial Markers Insertion in Stereotactic Body Radiotherapy: A Systematic Review and Meta-Analysis.",
+        "summary": "Fiducial markers inserted via three different approaches improve radiation tracking accuracy for lung cancer treatment in inoperable patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41738525/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung",
+          "Leukemia"
+        ],
+        "quality_score": 32,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-27"
+      },
+      {
         "id": "receMYxNbS8EiyeoA",
         "title": "AMPK-dependent maturation of hiPSC-derived cardiomyocytes induced by human cardiac fibroblast exosomes.",
         "summary": "Human cardiac fibroblast exosomes enhance the maturity and regenerative potential of stem cell-derived heart cells through an AMPK-dependent mechanism.",
@@ -855,20 +871,6 @@
         "quality_score": 24,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-19"
-      },
-      {
-        "id": "recEEYEGRUuAo4YQt",
-        "title": "DRP1 depletion protects NK cells from hypoxia-induced dysfunction.",
-        "summary": "Blocking the DRP1 protein helps natural killer immune cells maintain their cancer-fighting ability in low-oxygen tumor environments.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41706678/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-19"
       }
     ]
   },
@@ -878,10 +880,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7523,
+    "archive_count": 7524,
     "archive_supplements": 856,
     "archive_off_label": 314,
     "archive_biomarkers": 4378,
-    "archive_trials": 1677
+    "archive_trials": 1678
   }
 }
