@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-19T12:51:03.075Z",
+  "last_updated": "2026-02-27T09:01:55.446Z",
   "categories": {
     "supplements": [
       {
@@ -441,6 +441,51 @@
     ],
     "biomarkers": [
       {
+        "id": "recBH9lIEC7PcGf7U",
+        "title": "A mixed inflammatory peripheral signature defines clinical outcomes in a phase II trial combining pembrolizumab with paclitaxel and carboplatin in melanoma.",
+        "summary": "Combining immunotherapy with chemotherapy didn't improve melanoma survival compared to immunotherapy alone, but blood markers identified treatment responders.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41732954/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung",
+          "Melanoma",
+          "Leukemia"
+        ],
+        "quality_score": 21,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-27"
+      },
+      {
+        "id": "recOaUo59aOW7HMpN",
+        "title": "Alcohol consumption in metabolic dysfunction-associated steatotic liver disease (MASLD): understanding the gut-liver crosstalk for clinical translation.",
+        "summary": "Researchers found that gut bacteria changes contribute to liver disease caused by alcohol and metabolic problems, suggesting microbiome treatments may help.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41723574/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-27"
+      },
+      {
+        "id": "recASLBuBCrlwutZw",
+        "title": "Axillary treatment options in clinically nodes-positive breast cancer whose nodes become pathologically nodes-negative after neoadjuvant chemotherapy: a pairwise and network meta-analysis.",
+        "summary": "Study identifies the best axillary treatment approach for breast cancer patients whose lymph nodes clear after chemotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41742886/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Breast",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-27"
+      },
+      {
         "id": "receMYxNbS8EiyeoA",
         "title": "AMPK-dependent maturation of hiPSC-derived cardiomyocytes induced by human cardiac fibroblast exosomes.",
         "summary": "Human cardiac fibroblast exosomes enhance the maturity and regenerative potential of stem cell-derived heart cells through an AMPK-dependent mechanism.",
@@ -608,53 +653,54 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-19"
-      },
+      }
+    ],
+    "trials": [
       {
-        "id": "recD4vWYkx1vfIxd9",
-        "title": "Oncogenic function and transcriptional dynamics of MYCN in liver tumorigenesis.",
-        "summary": "In mice, MYCN overexpression combined with AKT activation promotes liver cancer development by creating a stress-adaptive, metastasis-prone cellular environment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41706888/",
+        "id": "recBH9lIEC7PcGf7U",
+        "title": "A mixed inflammatory peripheral signature defines clinical outcomes in a phase II trial combining pembrolizumab with paclitaxel and carboplatin in melanoma.",
+        "summary": "Combining immunotherapy with chemotherapy didn't improve melanoma survival compared to immunotherapy alone, but blood markers identified treatment responders.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41732954/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
-          "Leukemia",
-          "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-19"
-      },
-      {
-        "id": "rec0Yau01EwyBzv0B",
-        "title": "Disrupted energy metabolism is associated with retinal ganglion cell degeneration in autosomal dominant optic atrophy.",
-        "summary": "In an autosomal dominant optic atrophy mouse model, disrupted energy metabolism in retinal ganglion cells leads to cell degeneration, with potential treatment through NAD+ redox ratio restoration.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41706861/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-19"
-      },
-      {
-        "id": "recnJtAltBcOeX20i",
-        "title": "MPC1 deficiency promotes melanoma progression via Wnt/β-catenin signaling.",
-        "summary": "MPC1 deficiency promotes melanoma progression by activating the Wnt/β-catenin pathway, enhancing cancer cell growth and spread.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41576477/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
+          "Lung",
           "Melanoma",
+          "Leukemia"
+        ],
+        "quality_score": 21,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-27"
+      },
+      {
+        "id": "recywmNfrSBOfXv5N",
+        "title": "Quantitative live-cell imaging of auxin and cytokinin signalling in developing feeding sites of Heterodera schachtii.",
+        "summary": "Cytokinin signaling precedes auxin signaling in nematode-induced feeding structures, with cytokinin activating broadly while auxin remains localized to infection sites.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41728823/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
           "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
-        "added_date": "2026-02-19"
-      }
-    ],
-    "trials": [
+        "added_date": "2026-02-27"
+      },
+      {
+        "id": "recASLBuBCrlwutZw",
+        "title": "Axillary treatment options in clinically nodes-positive breast cancer whose nodes become pathologically nodes-negative after neoadjuvant chemotherapy: a pairwise and network meta-analysis.",
+        "summary": "Study identifies the best axillary treatment approach for breast cancer patients whose lymph nodes clear after chemotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41742886/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Breast",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-27"
+      },
       {
         "id": "receMYxNbS8EiyeoA",
         "title": "AMPK-dependent maturation of hiPSC-derived cardiomyocytes induced by human cardiac fibroblast exosomes.",
@@ -824,51 +870,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-19"
-      },
-      {
-        "id": "recnJtAltBcOeX20i",
-        "title": "MPC1 deficiency promotes melanoma progression via Wnt/β-catenin signaling.",
-        "summary": "MPC1 deficiency promotes melanoma progression by activating the Wnt/β-catenin pathway, enhancing cancer cell growth and spread.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41576477/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Melanoma",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-19"
-      },
-      {
-        "id": "rec2u8L7HIcy3BRfv",
-        "title": "Cyclin D1 and the resistance landscape of HIF2 inhibition in clear-cell renal cell carcinoma: Insights from a mini-review.",
-        "summary": "In clear-cell renal cell carcinoma, Cyclin D1 contributes to HIF2 inhibitor resistance by driving cell proliferation and angiogenesis.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41570697/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal",
-          "Leukemia",
-          "Kidney"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-19"
-      },
-      {
-        "id": "recuOHWNfVvkgTb8u",
-        "title": "Teclistamab plus Daratumumab in Relapsed or Refractory Multiple Myeloma.",
-        "summary": "Teclistamab combined with daratumumab effectively treated patients with heavily pretreated multiple myeloma, showing promising durable responses in clinical trials.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41363801/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-19"
       }
     ]
   },
@@ -878,10 +879,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7504,
+    "archive_count": 7505,
     "archive_supplements": 856,
     "archive_off_label": 312,
-    "archive_biomarkers": 4369,
+    "archive_biomarkers": 4370,
     "archive_trials": 1669
   }
 }
