@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28T08:03:31.377Z",
+  "last_updated": "2026-02-28T08:03:40.651Z",
   "categories": {
     "supplements": [
       {
@@ -385,6 +385,20 @@
         "added_date": "2026-02-28"
       },
       {
+        "id": "recop7SAXxQOa1fii",
+        "title": "IL-1 Receptor Antagonist to Prevent Severe Chimeric Antigen Receptor T-Cell Related Encephalopathy Syndrome",
+        "summary": "Anakinra may prevent severe brain inflammation in large B-cell lymphoma patients receiving CAR T-cell therapy.",
+        "url": "https://clinicaltrials.gov/study/NCT04205838",
+        "source": "ClinicalTrials.gov",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Lymphoma"
+        ],
+        "quality_score": 19,
+        "pub_date": "2026-02-27",
+        "added_date": "2026-02-28"
+      },
+      {
         "id": "recfDj917JcxW7oXH",
         "title": "Drug repurposing of ticagrelor suppresses renal cell carcinoma growth by blockading the EGFR/PI3K/AKT axis.",
         "summary": "Ticagrelor, an antiplatelet drug, slows kidney cancer growth by blocking a key cancer-promoting pathway.",
@@ -407,20 +421,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "General"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-27"
-      },
-      {
-        "id": "recvY1huViVMaAaHe",
-        "title": "Global trends, knowledge structure, and thematic evolution of statin-cancer research: A comprehensive mapping and visualization study with insights from highly cited literature (1940-2025).",
-        "summary": "Research shows statins may help prevent cancer, with studies increasingly focusing on breast cancer and translating findings into clinical treatments.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41748945/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7933,
+    "archive_count": 7934,
     "archive_supplements": 919,
     "archive_off_label": 333,
     "archive_biomarkers": 4633,
-    "archive_trials": 1751
+    "archive_trials": 1752
   }
 }
