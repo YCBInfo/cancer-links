@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28T05:03:53.454Z",
+  "last_updated": "2026-02-28T05:04:03.466Z",
   "categories": {
     "supplements": [
       {
@@ -588,6 +588,20 @@
         "added_date": "2026-02-28"
       },
       {
+        "id": "recLnlWUro7B2TEAx",
+        "title": "A rare case of ectopic cushing's syndrome caused by renal neuroendocrine tumor.",
+        "summary": "A rare kidney neuroendocrine tumor caused Cushing's syndrome by producing hormone, requiring surgical removal for treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41757383/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-28"
+      },
+      {
         "id": "recBH9lIEC7PcGf7U",
         "title": "A mixed inflammatory peripheral signature defines clinical outcomes in a phase II trial combining pembrolizumab with paclitaxel and carboplatin in melanoma.",
         "summary": "Combining immunotherapy with chemotherapy didn't improve melanoma survival compared to immunotherapy alone, but blood markers identified treatment responders.",
@@ -625,20 +639,6 @@
         "category": "Clinical Trials",
         "cancer_types": [
           "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-27"
-      },
-      {
-        "id": "recfDj917JcxW7oXH",
-        "title": "Drug repurposing of ticagrelor suppresses renal cell carcinoma growth by blockading the EGFR/PI3K/AKT axis.",
-        "summary": "Ticagrelor, an antiplatelet drug, slows kidney cancer growth by blocking a key cancer-promoting pathway.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41741334/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Kidney"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -865,10 +865,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7632,
+    "archive_count": 7633,
     "archive_supplements": 864,
     "archive_off_label": 331,
-    "archive_biomarkers": 4437,
+    "archive_biomarkers": 4438,
     "archive_trials": 1703
   }
 }
