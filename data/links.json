@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28T05:05:53.196Z",
+  "last_updated": "2026-02-28T05:06:04.312Z",
   "categories": {
     "supplements": [
       {
@@ -730,6 +730,20 @@
         "added_date": "2026-02-28"
       },
       {
+        "id": "recfCC4dWQGEtoG4s",
+        "title": "RNA Regulatory Networks: Key Hubs in the Panorama of Cancer and Emerging Therapeutic Targets.",
+        "summary": "RNA networks control cancer development and progression, offering new precision medicine targets through therapies like antisense oligonucleotides and CRISPR-Cas13.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41756253/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-28"
+      },
+      {
         "id": "recBH9lIEC7PcGf7U",
         "title": "A mixed inflammatory peripheral signature defines clinical outcomes in a phase II trial combining pembrolizumab with paclitaxel and carboplatin in melanoma.",
         "summary": "Combining immunotherapy with chemotherapy didn't improve melanoma survival compared to immunotherapy alone, but blood markers identified treatment responders.",
@@ -841,20 +855,6 @@
         "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-27"
-      },
-      {
-        "id": "recADobMh0qfzgLVo",
-        "title": "Dynamic trends and determinants of COVID-19 vaccine hesitancy among adults in China during 2021-2022: A multilevel analysis based on four national cross-sectional surveys.",
-        "summary": "This is a COVID-19 vaccine study, not cancer research. It examines vaccine hesitancy trends among Chinese adults from 2021-2022, finding hesitancy rose and fell with pandemic phases and perception changes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41728815/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-27"
       }
     ]
   },
@@ -864,10 +864,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7643,
+    "archive_count": 7644,
     "archive_supplements": 864,
     "archive_off_label": 331,
-    "archive_biomarkers": 4447,
+    "archive_biomarkers": 4448,
     "archive_trials": 1704
   }
 }
