@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28T05:10:31.026Z",
+  "last_updated": "2026-02-28T05:10:42.278Z",
   "categories": {
     "supplements": [
       {
@@ -56,6 +56,20 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-02-01",
+        "added_date": "2026-02-28"
+      },
+      {
+        "id": "recUAfI27NyyeX3jT",
+        "title": "Flavonoid diversity across six Ocimum accessions: UPLC-MS/MS metabolomics and RNA-seq reveal anticancer leads and nutraceutical potential.",
+        "summary": "Three flavonoid compounds from Ocimum plants show promise against cancer by targeting multiple cancer-related proteins and pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41539837/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-01-01",
         "added_date": "2026-02-28"
       },
       {
@@ -193,22 +207,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-19"
-      },
-      {
-        "id": "recuFasu3lkRpTR8w",
-        "title": "Pan-cancer multi-omics characterization of CDK12 and virtual screening of Vietnamese natural products for novel inhibitors.",
-        "summary": "Researchers identified CDK12 as a key cancer driver across multiple tumor types and discovered promising natural compound inhibitors from Vietnamese medicinal herbs.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41706297/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Ovarian",
-          "Kidney",
-          "Brain"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -864,10 +862,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7669,
+    "archive_count": 7670,
     "archive_supplements": 868,
     "archive_off_label": 331,
-    "archive_biomarkers": 4465,
+    "archive_biomarkers": 4466,
     "archive_trials": 1708
   }
 }
