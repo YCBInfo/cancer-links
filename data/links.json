@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28T05:02:37.853Z",
+  "last_updated": "2026-02-28T05:02:48.046Z",
   "categories": {
     "supplements": [
       {
@@ -490,6 +490,20 @@
         "added_date": "2026-02-28"
       },
       {
+        "id": "recBzI3lw4PpLHxUL",
+        "title": "Aging-caused the changes of the gut microbiota drive intestinal barrier dysfunction and increase sepsis susceptibility.",
+        "summary": "Aging alters gut bacteria to produce histamine, damaging intestinal barriers and worsening sepsis severity; targeting this pathway may help treat sepsis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41723572/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-28"
+      },
+      {
         "id": "recBH9lIEC7PcGf7U",
         "title": "A mixed inflammatory peripheral signature defines clinical outcomes in a phase II trial combining pembrolizumab with paclitaxel and carboplatin in melanoma.",
         "summary": "Combining immunotherapy with chemotherapy didn't improve melanoma survival compared to immunotherapy alone, but blood markers identified treatment responders.",
@@ -623,20 +637,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41722038/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-27"
-      },
-      {
-        "id": "recYqaOn6D25TOLJb",
-        "title": "Anti-diabetic drugs: a novel therapeutic approach against cisplatin-induced kidney injury, a mechanistic review of preclinical studies.",
-        "summary": "Anti-diabetic drugs reduce kidney damage caused by cisplatin chemotherapy by lowering inflammation and oxidative stress in preclinical studies.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41743895/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
         "cancer_types": [
           "General"
         ],
@@ -865,10 +865,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7625,
+    "archive_count": 7626,
     "archive_supplements": 864,
     "archive_off_label": 331,
-    "archive_biomarkers": 4430,
+    "archive_biomarkers": 4431,
     "archive_trials": 1703
   }
 }
