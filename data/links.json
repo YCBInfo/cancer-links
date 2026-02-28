@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28T05:05:42.811Z",
+  "last_updated": "2026-02-28T05:05:53.196Z",
   "categories": {
     "supplements": [
       {
@@ -217,6 +217,20 @@
     ],
     "off_label": [
       {
+        "id": "recBUFY5I8mmddlxj",
+        "title": "LKB1-AMPK Signaling Pathway in Cardiovascular and Other Diseases.",
+        "summary": "The LKB1-AMPK pathway regulates cellular energy and is dysregulated in cardiovascular disease, cancer, diabetes, and neurodegeneration, offering therapeutic targets.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41756254/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 21,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-28"
+      },
+      {
         "id": "recfDj917JcxW7oXH",
         "title": "Drug repurposing of ticagrelor suppresses renal cell carcinoma growth by blockading the EGFR/PI3K/AKT axis.",
         "summary": "Ticagrelor, an antiplatelet drug, slows kidney cancer growth by blocking a key cancer-promoting pathway.",
@@ -414,20 +428,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-27"
-      },
-      {
-        "id": "rec2Aj4CXpITp6zle",
-        "title": "WBP2 Attenuates Metformin Response in HER2-Positive Breast Cancer Cells by Repressing AMPK Activation and Inducing a Lower AMP:ATP Ratio State Through Enhanced ATP Production.",
-        "summary": "WBP2 protein blocks metformin's cancer-fighting effects in HER2-positive breast cancer by reducing energy stress in tumor cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41744824/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-27"
       }
@@ -864,10 +864,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7642,
+    "archive_count": 7643,
     "archive_supplements": 864,
     "archive_off_label": 331,
-    "archive_biomarkers": 4446,
+    "archive_biomarkers": 4447,
     "archive_trials": 1704
   }
 }
