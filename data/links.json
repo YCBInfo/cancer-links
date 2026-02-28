@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28T05:06:46.705Z",
+  "last_updated": "2026-02-28T05:06:57.548Z",
   "categories": {
     "supplements": [
       {
@@ -758,6 +758,20 @@
         "added_date": "2026-02-28"
       },
       {
+        "id": "recbUejWCxFLt8CIb",
+        "title": "Allogeneic Hematopoietic Stem Cell Transplantation for Children With Mixed Phenotype Acute Leukemia: A Single-Center Retrospective Study.",
+        "summary": "Stem cell transplantation improved survival outcomes in children with mixed phenotype acute leukemia, a rare and difficult-to-treat blood cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41738872/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-28"
+      },
+      {
         "id": "recBH9lIEC7PcGf7U",
         "title": "A mixed inflammatory peripheral signature defines clinical outcomes in a phase II trial combining pembrolizumab with paclitaxel and carboplatin in melanoma.",
         "summary": "Combining immunotherapy with chemotherapy didn't improve melanoma survival compared to immunotherapy alone, but blood markers identified treatment responders.",
@@ -841,20 +855,6 @@
         "quality_score": 23,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-27"
-      },
-      {
-        "id": "recmF1t8vUnjs6ROU",
-        "title": "Current landscape of clinical trials for mRNA-based therapeutics.",
-        "summary": "mRNA-based therapeutics show expanding clinical potential beyond COVID-19 vaccines, with 557 trials mostly focusing on infectious diseases and vaccines.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41729563/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 23,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-27"
       }
     ]
   },
@@ -864,10 +864,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7648,
+    "archive_count": 7649,
     "archive_supplements": 864,
     "archive_off_label": 331,
-    "archive_biomarkers": 4452,
+    "archive_biomarkers": 4453,
     "archive_trials": 1704
   }
 }
