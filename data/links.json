@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28T05:12:40.480Z",
+  "last_updated": "2026-02-28T05:12:51.040Z",
   "categories": {
     "supplements": [
       {
@@ -229,6 +229,20 @@
         "added_date": "2026-02-28"
       },
       {
+        "id": "rec20uD6k4MGSgtN1",
+        "title": "Lidocaine potentiates thermal ablation in cholangiocarcinoma by modulating TRPV6-Driven Ca2+/PI3K/AKT/HSF-1 signaling pathway.",
+        "summary": "Lidocaine enhances heat treatment effectiveness in bile duct cancer by blocking a calcium channel that normally helps tumors survive heat stress.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41421662/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-28"
+      },
+      {
         "id": "recfDj917JcxW7oXH",
         "title": "Drug repurposing of ticagrelor suppresses renal cell carcinoma growth by blockading the EGFR/PI3K/AKT axis.",
         "summary": "Ticagrelor, an antiplatelet drug, slows kidney cancer growth by blocking a key cancer-promoting pathway.",
@@ -412,20 +426,6 @@
           "Leukemia"
         ],
         "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-27"
-      },
-      {
-        "id": "reciInZTf63bLpvOb",
-        "title": "Colchicine in patients with chronic inflammatory cardiomyopathy: Rationale and design of the CMP-MYTHiC.",
-        "summary": "A trial tests whether colchicine reduces heart inflammation in patients with chronic inflammatory cardiomyopathy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41730291/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-27"
       }
@@ -861,10 +861,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7681,
+    "archive_count": 7682,
     "archive_supplements": 871,
     "archive_off_label": 331,
-    "archive_biomarkers": 4472,
+    "archive_biomarkers": 4473,
     "archive_trials": 1710
   }
 }
