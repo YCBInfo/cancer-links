@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28T05:11:05.091Z",
+  "last_updated": "2026-02-28T05:11:15.580Z",
   "categories": {
     "supplements": [
       {
@@ -826,6 +826,20 @@
         "added_date": "2026-02-28"
       },
       {
+        "id": "recbejsl8qLsrKNCP",
+        "title": "CAR-T Cell Exhaustion in Cancer over the Past Decade: Mitochondrial Metabolism as a Target for Counteraction.",
+        "summary": "Targeting mitochondrial metabolism in CAR-T cells could restore their energy and effectiveness, overcoming exhaustion that limits cancer treatment success.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41485684/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-28"
+      },
+      {
         "id": "recBH9lIEC7PcGf7U",
         "title": "A mixed inflammatory peripheral signature defines clinical outcomes in a phase II trial combining pembrolizumab with paclitaxel and carboplatin in melanoma.",
         "summary": "Combining immunotherapy with chemotherapy didn't improve melanoma survival compared to immunotherapy alone, but blood markers identified treatment responders.",
@@ -839,20 +853,6 @@
         "quality_score": 21,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-27"
-      },
-      {
-        "id": "recywmNfrSBOfXv5N",
-        "title": "Quantitative live-cell imaging of auxin and cytokinin signalling in developing feeding sites of Heterodera schachtii.",
-        "summary": "Cytokinin signaling precedes auxin signaling in nematode-induced feeding structures, with cytokinin activating broadly while auxin remains localized to infection sites.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41728823/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-27"
       }
     ]
   },
@@ -862,8 +862,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7672,
-    "archive_supplements": 868,
+    "archive_count": 7673,
+    "archive_supplements": 869,
     "archive_off_label": 331,
     "archive_biomarkers": 4468,
     "archive_trials": 1708
