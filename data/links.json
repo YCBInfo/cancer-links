@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28T05:05:21.555Z",
+  "last_updated": "2026-02-28T05:05:32.030Z",
   "categories": {
     "supplements": [
       {
@@ -702,6 +702,20 @@
         "added_date": "2026-02-28"
       },
       {
+        "id": "recYX8rFgfMUWOXCh",
+        "title": "Breast Fibromatosis in a Patient With a History of Treated Breast Cancer: A Case Report.",
+        "summary": "A rare benign breast tumor (fibromatosis) developed in a cancer survivor and required surgical removal after radiotherapy failed to control pain and growth.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41756704/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-28"
+      },
+      {
         "id": "recBH9lIEC7PcGf7U",
         "title": "A mixed inflammatory peripheral signature defines clinical outcomes in a phase II trial combining pembrolizumab with paclitaxel and carboplatin in melanoma.",
         "summary": "Combining immunotherapy with chemotherapy didn't improve melanoma survival compared to immunotherapy alone, but blood markers identified treatment responders.",
@@ -841,20 +855,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-27"
-      },
-      {
-        "id": "recTvRhCtdWvUgqtL",
-        "title": "Mapping research trends in esophageal cancer immunotherapy: A decade of thematic evolution and emerging priorities.",
-        "summary": "Immunotherapy research for esophageal cancer has surged since 2019, with focus shifting from checkpoint inhibitors to tumor microenvironment mechanisms.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41722038/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-27"
       }
     ]
   },
@@ -864,10 +864,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7640,
+    "archive_count": 7641,
     "archive_supplements": 864,
     "archive_off_label": 331,
-    "archive_biomarkers": 4444,
+    "archive_biomarkers": 4445,
     "archive_trials": 1704
   }
 }
