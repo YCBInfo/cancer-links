@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28T05:14:09.402Z",
+  "last_updated": "2026-02-28T05:14:16.130Z",
   "categories": {
     "supplements": [
       {
@@ -257,6 +257,21 @@
         "added_date": "2026-02-28"
       },
       {
+        "id": "recI56k09tpO3oOAo",
+        "title": "Lactic acid promotes an MDSC-like phenotype via HIF1α stabilization with impact on prognosis in renal cell carcinoma.",
+        "summary": "Tumor-derived lactate promotes immune-suppressing myeloid cells in kidney cancer, and blocking lactate transport may restore anti-tumor immunity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41371433/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal",
+          "Kidney"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-28"
+      },
+      {
         "id": "recfDj917JcxW7oXH",
         "title": "Drug repurposing of ticagrelor suppresses renal cell carcinoma growth by blockading the EGFR/PI3K/AKT axis.",
         "summary": "Ticagrelor, an antiplatelet drug, slows kidney cancer growth by blocking a key cancer-promoting pathway.",
@@ -410,20 +425,6 @@
           "Melanoma",
           "Lymphoma",
           "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-27"
-      },
-      {
-        "id": "rec6Vdzdg7leGEsii",
-        "title": "Paraptosis Turning Cellular Stress into Therapeutic Weapon for Urological Diseases.",
-        "summary": "Researchers propose triggering paraptosis, a non-traditional cell death pathway, to overcome drug resistance in prostate, bladder, and kidney cancers.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41743851/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Kidney"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -861,10 +862,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7689,
+    "archive_count": 7690,
     "archive_supplements": 871,
     "archive_off_label": 332,
-    "archive_biomarkers": 4479,
+    "archive_biomarkers": 4480,
     "archive_trials": 1710
   }
 }
