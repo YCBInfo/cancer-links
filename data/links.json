@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28T05:17:05.081Z",
+  "last_updated": "2026-02-28T05:17:15.181Z",
   "categories": {
     "supplements": [
       {
@@ -101,6 +101,20 @@
         "added_date": "2026-02-28"
       },
       {
+        "id": "rec7HgIHOr1D8v4yt",
+        "title": "Evaluation of the mechanism underlying melatonin action in cholestatic liver disease treatment via network pharmacology, molecular docking, and in vivo experiments.",
+        "summary": "Melatonin reduces inflammation and fibrosis in cholestatic liver disease by modulating MMP9 and EGFR/AKT signaling pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41758906/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-28"
+      },
+      {
         "id": "recJKKug6dtdd0uom",
         "title": "Factors associated with adherence to allocated treatment in the ASCEND trial: a mail-based randomised trial of aspirin and of omega-3 fatty acid supplementation in people with diabetes.",
         "summary": "The study identifies which patient factors predict whether people with diabetes stick with aspirin or omega-3 supplements in a large remote trial.",
@@ -193,20 +207,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-27"
-      },
-      {
-        "id": "recbc44fMF9OGuRSy",
-        "title": "Mechanistic insights into cordycepin-enhanced CTLA-4 blockade efficacy via Eubacterium rectale-mediated immunomodulation in colon cancer.",
-        "summary": "Cordycepin combined with CTLA-4 inhibitors and a beneficial gut bacterium significantly improves colon cancer treatment by strengthening immune cell response.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41722537/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -861,10 +861,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7705,
+    "archive_count": 7706,
     "archive_supplements": 871,
     "archive_off_label": 332,
-    "archive_biomarkers": 4494,
+    "archive_biomarkers": 4495,
     "archive_trials": 1711
   }
 }
