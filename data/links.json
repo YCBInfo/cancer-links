@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28T05:03:42.977Z",
+  "last_updated": "2026-02-28T05:03:53.454Z",
   "categories": {
     "supplements": [
       {
@@ -574,6 +574,20 @@
         "added_date": "2026-02-28"
       },
       {
+        "id": "rech36l1BxqlR5835",
+        "title": "KCMF1 promotes malignant progression by NXN ubiquitin-dependent degradation in ovarian cancer.",
+        "summary": "KCMF1 protein promotes ovarian cancer growth and spread by breaking down NXN protein, offering a potential new treatment target.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41721648/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Ovarian"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-28"
+      },
+      {
         "id": "recBH9lIEC7PcGf7U",
         "title": "A mixed inflammatory peripheral signature defines clinical outcomes in a phase II trial combining pembrolizumab with paclitaxel and carboplatin in melanoma.",
         "summary": "Combining immunotherapy with chemotherapy didn't improve melanoma survival compared to immunotherapy alone, but blood markers identified treatment responders.",
@@ -625,20 +639,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Kidney"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-27"
-      },
-      {
-        "id": "recA0d5U2otoaDV2P",
-        "title": "Comparative burden and projections of chewing tobacco-attributable lip/oral cavity and esophageal cancers: global and China-specific trends, 2000-2036.",
-        "summary": "Chewing tobacco causes growing lip, oral, and esophageal cancer burden globally, with particularly concerning trends projected for China through 2036.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41739173/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -865,10 +865,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7631,
+    "archive_count": 7632,
     "archive_supplements": 864,
     "archive_off_label": 331,
-    "archive_biomarkers": 4436,
+    "archive_biomarkers": 4437,
     "archive_trials": 1703
   }
 }
