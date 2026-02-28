@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28T05:03:21.456Z",
+  "last_updated": "2026-02-28T05:03:31.949Z",
   "categories": {
     "supplements": [
       {
@@ -546,6 +546,20 @@
         "added_date": "2026-02-28"
       },
       {
+        "id": "recDx3VKdukxLCN53",
+        "title": "Tertiary lymphoid structures guided opportunities and challenges for immunotherapy in early gastroesophageal junction cancer and low rectal cancer.",
+        "summary": "Early gastroesophageal and rectal cancers show immune-active tumors with structures that could guide immunotherapy to potentially preserve organs instead of surgery.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41742891/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-28"
+      },
+      {
         "id": "recBH9lIEC7PcGf7U",
         "title": "A mixed inflammatory peripheral signature defines clinical outcomes in a phase II trial combining pembrolizumab with paclitaxel and carboplatin in melanoma.",
         "summary": "Combining immunotherapy with chemotherapy didn't improve melanoma survival compared to immunotherapy alone, but blood markers identified treatment responders.",
@@ -629,20 +643,6 @@
         "quality_score": 23,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-27"
-      },
-      {
-        "id": "recQFnEo9mHJqkFSt",
-        "title": "Molecular targeted therapy in combination with chemotherapy for the treatment of platinum-resistant/refractory ovarian cancer (PROC): a systematic review and network meta-analysis.",
-        "summary": "Combining targeted therapy with chemotherapy improves treatment outcomes for platinum-resistant ovarian cancer compared to chemotherapy alone.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41725538/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Ovarian"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-27"
       }
     ],
     "trials": [
@@ -671,6 +671,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-28"
+      },
+      {
+        "id": "recDx3VKdukxLCN53",
+        "title": "Tertiary lymphoid structures guided opportunities and challenges for immunotherapy in early gastroesophageal junction cancer and low rectal cancer.",
+        "summary": "Early gastroesophageal and rectal cancers show immune-active tumors with structures that could guide immunotherapy to potentially preserve organs instead of surgery.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41742891/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-28"
       },
@@ -842,20 +856,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-27"
-      },
-      {
-        "id": "recvEEWE23dcSJhZO",
-        "title": "Assessment of Compliance with Nursing Care Documentation for Patients with Acute Coronary Syndrome Using the Clinical Care Classification System in the Emergency Department: A Descriptive and Directed Content Analysis Study.",
-        "summary": "Nursing documentation for emergency heart attack patients showed only 27% compliance with a standardized classification system, revealing significant room for improvement.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41739506/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-27"
       }
     ]
   },
@@ -865,10 +865,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7629,
+    "archive_count": 7630,
     "archive_supplements": 864,
     "archive_off_label": 331,
-    "archive_biomarkers": 4434,
+    "archive_biomarkers": 4435,
     "archive_trials": 1703
   }
 }
