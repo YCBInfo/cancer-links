@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28T08:05:27.150Z",
+  "last_updated": "2026-02-28T08:05:37.879Z",
   "categories": {
     "supplements": [
       {
@@ -399,6 +399,20 @@
         "added_date": "2026-02-28"
       },
       {
+        "id": "recV5dknHGxp1Gn5p",
+        "title": "A Phase 1 Study of the Polymerase Theta (POLθ) Inhibitor Novobiocin in BRCA- Mutant and Other DNA Damage Repair-Deficient Solid Tumors",
+        "summary": "Novobiocin, a DNA polymerase theta inhibitor, is tested to treat solid tumors with DNA repair gene mutations.",
+        "url": "https://clinicaltrials.gov/study/NCT05687110",
+        "source": "ClinicalTrials.gov",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 10,
+        "pub_date": "2026-02-27",
+        "added_date": "2026-02-28"
+      },
+      {
         "id": "recfDj917JcxW7oXH",
         "title": "Drug repurposing of ticagrelor suppresses renal cell carcinoma growth by blockading the EGFR/PI3K/AKT axis.",
         "summary": "Ticagrelor, an antiplatelet drug, slows kidney cancer growth by blocking a key cancer-promoting pathway.",
@@ -407,20 +421,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Kidney"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-27"
-      },
-      {
-        "id": "recYqaOn6D25TOLJb",
-        "title": "Anti-diabetic drugs: a novel therapeutic approach against cisplatin-induced kidney injury, a mechanistic review of preclinical studies.",
-        "summary": "Anti-diabetic drugs reduce kidney damage caused by cisplatin chemotherapy by lowering inflammation and oxidative stress in preclinical studies.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41743895/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -858,8 +858,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7944,
-    "archive_supplements": 919,
+    "archive_count": 7945,
+    "archive_supplements": 920,
     "archive_off_label": 334,
     "archive_biomarkers": 4636,
     "archive_trials": 1758
