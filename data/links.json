@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28T05:03:10.850Z",
+  "last_updated": "2026-02-28T05:03:21.456Z",
   "categories": {
     "supplements": [
       {
@@ -532,6 +532,20 @@
         "added_date": "2026-02-28"
       },
       {
+        "id": "recPHngo04EzwqVfL",
+        "title": "From spectroscopic analysis to clinical imaging: emerging applications and persistent challenges of raman spectroscopy in CTCs-based liquid biopsies.",
+        "summary": "Raman spectroscopy enables non-invasive detection and analysis of circulating tumor cells in blood for improved cancer diagnosis and monitoring.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41746879/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-28"
+      },
+      {
         "id": "recBH9lIEC7PcGf7U",
         "title": "A mixed inflammatory peripheral signature defines clinical outcomes in a phase II trial combining pembrolizumab with paclitaxel and carboplatin in melanoma.",
         "summary": "Combining immunotherapy with chemotherapy didn't improve melanoma survival compared to immunotherapy alone, but blood markers identified treatment responders.",
@@ -625,20 +639,6 @@
         "category": "Clinical Trials",
         "cancer_types": [
           "Ovarian"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-27"
-      },
-      {
-        "id": "rec1Gdlc4sZkEW5aH",
-        "title": "Design, synthesis and antiproliferative activity of oxadiazole derivatives as potent glycogen synthase kinase-3/histone deacetylase 6 dual inhibitors.",
-        "summary": "Researchers designed a new compound that simultaneously blocks two cancer-related proteins, showing strong activity against stomach cancer cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41725379/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -865,10 +865,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7628,
+    "archive_count": 7629,
     "archive_supplements": 864,
     "archive_off_label": 331,
-    "archive_biomarkers": 4433,
+    "archive_biomarkers": 4434,
     "archive_trials": 1703
   }
 }
