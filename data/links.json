@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-27T12:12:37.740Z",
+  "last_updated": "2026-02-28T05:02:37.853Z",
   "categories": {
     "supplements": [
       {
@@ -136,8 +136,7 @@
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
-          "Lung",
-          "Leukemia"
+          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -151,7 +150,6 @@
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
-          "Leukemia",
           "Ovarian",
           "Kidney",
           "Brain"
@@ -168,7 +166,7 @@
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
-          "Leukemia"
+          "General"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -196,7 +194,7 @@
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
-          "Leukemia"
+          "General"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -210,8 +208,7 @@
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
-          "Melanoma",
-          "Leukemia"
+          "Melanoma"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -241,7 +238,7 @@
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
-          "Leukemia"
+          "General"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -437,6 +434,62 @@
     ],
     "biomarkers": [
       {
+        "id": "reclMg1dUKWVH1zLv",
+        "title": "Exploring the gut microbiome and metabolomic interactions of antimetabolite drugs to optimize therapy.",
+        "summary": "Gut bacteria influence how antimetabolite cancer drugs work and cause side effects; understanding these interactions could improve treatment outcomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41758194/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-28"
+      },
+      {
+        "id": "rec0is7tfp3Zqu5yN",
+        "title": "Multidimensional immune profiling uncovers biphasic peripheral T-cell dynamics after chemoradiation in patients with locally advanced head and neck cancer.",
+        "summary": "Head and neck cancer patients show suppressed immune responses one month after chemotherapy, but robust tumor-fighting T-cells emerge by three months.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41749511/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-28"
+      },
+      {
+        "id": "recnHZoM7HSYOi7ph",
+        "title": "TNF-α deficiency underlies NK cell dysfunction in colorectal cancer.",
+        "summary": "Low TNF-α levels in colorectal cancer patients impair natural killer cell function, suppressing the immune response against tumors.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41742461/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-28"
+      },
+      {
+        "id": "recpFG1q9sDfyb7yn",
+        "title": "Monocytes acquire a tumor-associated IL1B program upon encountering patient-derived colon cancer organoids.",
+        "summary": "Colon cancer cells reprogram monocytes to suppress immune responses through soluble factors and debris uptake in tumor microenvironments.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41723598/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-28"
+      },
+      {
         "id": "recBH9lIEC7PcGf7U",
         "title": "A mixed inflammatory peripheral signature defines clinical outcomes in a phase II trial combining pembrolizumab with paclitaxel and carboplatin in melanoma.",
         "summary": "Combining immunotherapy with chemotherapy didn't improve melanoma survival compared to immunotherapy alone, but blood markers identified treatment responders.",
@@ -445,8 +498,7 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Lung",
-          "Melanoma",
-          "Leukemia"
+          "Melanoma"
         ],
         "quality_score": 21,
         "pub_date": "2026-02-01",
@@ -474,8 +526,7 @@
         "source": "PubMed",
         "category": "Clinical Trials",
         "cancer_types": [
-          "Breast",
-          "Leukemia"
+          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -503,7 +554,7 @@
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
-          "Leukemia"
+          "General"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -517,7 +568,7 @@
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
-          "Leukemia"
+          "General"
         ],
         "quality_score": 23,
         "pub_date": "2026-02-01",
@@ -531,7 +582,6 @@
         "source": "PubMed",
         "category": "Clinical Trials",
         "cancer_types": [
-          "Leukemia",
           "Ovarian"
         ],
         "quality_score": 15,
@@ -546,7 +596,7 @@
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
-          "Leukemia"
+          "General"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -574,7 +624,7 @@
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
-          "Leukemia"
+          "General"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -588,71 +638,42 @@
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-27"
-      },
-      {
-        "id": "recBkFgJAtKl4fsk3",
-        "title": "Low Prevalence and Inconsistency of LRP4-IgG Detection in Suspected Myasthenia Gravis: A Multicenter CBA Comparison.",
-        "summary": "LRP4-IgG antibodies are rarely and inconsistently detected in myasthenia gravis patients using current testing methods.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41719501/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
           "General"
         ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-27"
-      },
-      {
-        "id": "rec6qSB6EKCzjSoiM",
-        "title": "Immune checkpoint inhibitor-induced myocarditis is dependent on CD8 T cell-derived TNF and TNFR2 signaling.",
-        "summary": "Blocking TNF signaling in immune cells prevents heart damage from cancer immunotherapy while maintaining anti-tumor effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41718716/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
         "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-27"
-      },
-      {
-        "id": "recY5LjpO6anVNmeQ",
-        "title": "N-acetyl-aspartyl-glutamate connects neuroinflammatory signatures to attention and working memory in people with HIV.",
-        "summary": "A brain chemical called NAAG links inflammation to memory and attention problems in people with HIV, even when the virus is controlled.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41739081/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-27"
-      },
-      {
-        "id": "recztxdoodj8e57IS",
-        "title": "Approaches for Lung Fiducial Markers Insertion in Stereotactic Body Radiotherapy: A Systematic Review and Meta-Analysis.",
-        "summary": "Fiducial markers inserted via three different approaches improve radiation tracking accuracy for lung cancer treatment in inoperable patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41738525/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung",
-          "Leukemia"
-        ],
-        "quality_score": 32,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-27"
       }
     ],
     "trials": [
+      {
+        "id": "reclMg1dUKWVH1zLv",
+        "title": "Exploring the gut microbiome and metabolomic interactions of antimetabolite drugs to optimize therapy.",
+        "summary": "Gut bacteria influence how antimetabolite cancer drugs work and cause side effects; understanding these interactions could improve treatment outcomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41758194/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-28"
+      },
+      {
+        "id": "rec0is7tfp3Zqu5yN",
+        "title": "Multidimensional immune profiling uncovers biphasic peripheral T-cell dynamics after chemoradiation in patients with locally advanced head and neck cancer.",
+        "summary": "Head and neck cancer patients show suppressed immune responses one month after chemotherapy, but robust tumor-fighting T-cells emerge by three months.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41749511/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-28"
+      },
       {
         "id": "recBH9lIEC7PcGf7U",
         "title": "A mixed inflammatory peripheral signature defines clinical outcomes in a phase II trial combining pembrolizumab with paclitaxel and carboplatin in melanoma.",
@@ -662,8 +683,7 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Lung",
-          "Melanoma",
-          "Leukemia"
+          "Melanoma"
         ],
         "quality_score": 21,
         "pub_date": "2026-02-01",
@@ -677,7 +697,7 @@
         "source": "PubMed",
         "category": "Clinical Trials",
         "cancer_types": [
-          "Leukemia"
+          "General"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -691,8 +711,7 @@
         "source": "PubMed",
         "category": "Clinical Trials",
         "cancer_types": [
-          "Breast",
-          "Leukemia"
+          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -734,7 +753,7 @@
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
-          "Leukemia"
+          "General"
         ],
         "quality_score": 23,
         "pub_date": "2026-02-01",
@@ -748,7 +767,7 @@
         "source": "PubMed",
         "category": "Clinical Trials",
         "cancer_types": [
-          "Leukemia"
+          "General"
         ],
         "quality_score": 23,
         "pub_date": "2026-02-01",
@@ -776,7 +795,7 @@
         "source": "PubMed",
         "category": "Clinical Trials",
         "cancer_types": [
-          "Leukemia"
+          "General"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -790,7 +809,6 @@
         "source": "PubMed",
         "category": "Clinical Trials",
         "cancer_types": [
-          "Leukemia",
           "Ovarian"
         ],
         "quality_score": 15,
@@ -805,7 +823,7 @@
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
-          "Leukemia"
+          "General"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -819,7 +837,7 @@
         "source": "PubMed",
         "category": "Clinical Trials",
         "cancer_types": [
-          "Leukemia"
+          "General"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -833,36 +851,7 @@
         "source": "PubMed",
         "category": "Clinical Trials",
         "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-27"
-      },
-      {
-        "id": "recztxdoodj8e57IS",
-        "title": "Approaches for Lung Fiducial Markers Insertion in Stereotactic Body Radiotherapy: A Systematic Review and Meta-Analysis.",
-        "summary": "Fiducial markers inserted via three different approaches improve radiation tracking accuracy for lung cancer treatment in inoperable patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41738525/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung",
-          "Leukemia"
-        ],
-        "quality_score": 32,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-27"
-      },
-      {
-        "id": "recrmXeuFYRfKMvoP",
-        "title": "Rectal Arteriovenous Malformation Mimicking a Submucosal Tumor: Successful Long-Term Outcome After Transcatheter Arterial Embolization With N-Butyl-2-Cyanoacrylate-Lipiodol.",
-        "summary": "Transcatheter arterial embolization successfully treated a rectal arteriovenous malformation that mimicked a tumor, with no recurrence after three years.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41736959/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Leukemia"
+          "General"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -876,10 +865,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7631,
+    "archive_count": 7625,
     "archive_supplements": 864,
     "archive_off_label": 331,
-    "archive_biomarkers": 4429,
-    "archive_trials": 1709
+    "archive_biomarkers": 4430,
+    "archive_trials": 1703
   }
 }
