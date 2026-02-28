@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28T05:22:06.286Z",
+  "last_updated": "2026-02-28T05:22:26.359Z",
   "categories": {
     "supplements": [
       {
@@ -301,6 +301,20 @@
         "added_date": "2026-02-28"
       },
       {
+        "id": "recXCuCFFASTljmPr",
+        "title": "ARID1A Deficiency in Diffuse-Type Gastric Cancer Promotes a Pyrimidine Metabolic Vulnerability.",
+        "summary": "ARID1A-deficient gastric cancer has a metabolic weakness that makes it vulnerable to Gemcitabine chemotherapy treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41757873/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-28"
+      },
+      {
         "id": "recfDj917JcxW7oXH",
         "title": "Drug repurposing of ticagrelor suppresses renal cell carcinoma growth by blockading the EGFR/PI3K/AKT axis.",
         "summary": "Ticagrelor, an antiplatelet drug, slows kidney cancer growth by blocking a key cancer-promoting pathway.",
@@ -407,23 +421,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-27"
-      },
-      {
-        "id": "recq4J3DCJB1cn8rU",
-        "title": "Targeting PCK1 to overcome CDK4/6 inhibitor resistance for breast cancer therapy.",
-        "summary": "Blocking PCK1 protein combined with CDK4/6 inhibitors overcomes drug resistance and suppresses breast cancer growth.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41748011/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Breast",
-          "Colorectal",
-          "Pancreatic",
-          "Liver"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -861,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7732,
+    "archive_count": 7733,
     "archive_supplements": 872,
     "archive_off_label": 332,
-    "archive_biomarkers": 4517,
+    "archive_biomarkers": 4518,
     "archive_trials": 1714
   }
 }
