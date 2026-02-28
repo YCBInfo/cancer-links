@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28T05:08:33.051Z",
+  "last_updated": "2026-02-28T05:08:44.562Z",
   "categories": {
     "supplements": [
       {
@@ -13,6 +13,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-28"
+      },
+      {
+        "id": "rec5tdqjqiCxZoMh6",
+        "title": "Germacrone Alleviates Cisplatin-Induced Nephrotoxicity by Activating PI3K/Akt Signaling, Inhibiting Ras/MAPK Signaling, and Regulating Macrophage Polarization.",
+        "summary": "Germacrone protects kidneys from cisplatin chemotherapy damage without reducing the drug's cancer-fighting effects in breast cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41677398/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-28"
       },
@@ -195,20 +209,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-19"
-      },
-      {
-        "id": "recnRUik1JupoxMRu",
-        "title": "Naringenin Alleviates 5-Fluorouracil-Induced Intestinal Mucositis via Modulating the Gut Microbiota, Bile Acid Metabolism, and PPAR Signaling Pathway.",
-        "summary": "Naringenin reduces intestinal mucositis in chemotherapy by modifying gut bacteria, bile acids, and cellular pathways, potentially protecting patients from treatment-related digestive damage.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41656679/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -864,8 +864,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7658,
-    "archive_supplements": 864,
+    "archive_count": 7659,
+    "archive_supplements": 865,
     "archive_off_label": 331,
     "archive_biomarkers": 4459,
     "archive_trials": 1707
