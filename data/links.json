@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28T07:09:18.399Z",
+  "last_updated": "2026-02-28T07:09:36.335Z",
   "categories": {
     "supplements": [
       {
@@ -329,6 +329,20 @@
         "added_date": "2026-02-28"
       },
       {
+        "id": "rec7MW0tT7UmogGIw",
+        "title": "Mutant SRSF2-associated impaired erythropoiesis is defined by increased mTORC1 signaling due to FYN missplicing.",
+        "summary": "SRSF2 mutations in blood cancers impair red blood cell production by increasing mTORC1 signaling; mTORC1 inhibitors may restore blood cell formation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41748695/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-28"
+      },
+      {
         "id": "recfDj917JcxW7oXH",
         "title": "Drug repurposing of ticagrelor suppresses renal cell carcinoma growth by blockading the EGFR/PI3K/AKT axis.",
         "summary": "Ticagrelor, an antiplatelet drug, slows kidney cancer growth by blocking a key cancer-promoting pathway.",
@@ -409,20 +423,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-27"
-      },
-      {
-        "id": "recTuw2mKbpcrJuW0",
-        "title": "NIBAN2/FLII/RREB1 Axis Drives Glioma Stem Cell Malignancy via TLR3 Pathway Activation.",
-        "summary": "NIBAN2 protein drives glioma stem cell survival through a metabolic pathway, and combining nelfinavir with LDHA inhibitor FX11 effectively blocks tumor growth.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41736673/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Brain"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-27"
       }
@@ -858,8 +858,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7836,
-    "archive_supplements": 888,
+    "archive_count": 7837,
+    "archive_supplements": 889,
     "archive_off_label": 332,
     "archive_biomarkers": 4589,
     "archive_trials": 1730
