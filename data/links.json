@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28T05:07:18.424Z",
+  "last_updated": "2026-02-28T05:07:29.694Z",
   "categories": {
     "supplements": [
       {
@@ -786,6 +786,20 @@
         "added_date": "2026-02-28"
       },
       {
+        "id": "recqfBRDz89YnodCS",
+        "title": "Self-management of male urinary symptoms: qualitative findings from a primary care trial.",
+        "summary": "A self-management program in primary care helps men better manage lower urinary tract symptoms compared to standard treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40953937/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 21,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-28"
+      },
+      {
         "id": "recBH9lIEC7PcGf7U",
         "title": "A mixed inflammatory peripheral signature defines clinical outcomes in a phase II trial combining pembrolizumab with paclitaxel and carboplatin in melanoma.",
         "summary": "Combining immunotherapy with chemotherapy didn't improve melanoma survival compared to immunotherapy alone, but blood markers identified treatment responders.",
@@ -841,20 +855,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-27"
-      },
-      {
-        "id": "recaUaBApfeEsz3KT",
-        "title": "On-label persistence in psoriasis after switching to guselkumab, tumor necrosis factor inhibitors, interleukin-17 inhibitors, or apremilast from other advanced therapies.",
-        "summary": "Guselkumab showed better treatment persistence in psoriasis patients compared to other advanced therapies when switching treatments.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41732098/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Melanoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-27"
       }
     ]
   },
@@ -864,10 +864,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7651,
+    "archive_count": 7652,
     "archive_supplements": 864,
     "archive_off_label": 331,
     "archive_biomarkers": 4454,
-    "archive_trials": 1705
+    "archive_trials": 1706
   }
 }
