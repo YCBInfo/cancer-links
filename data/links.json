@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28T05:03:31.949Z",
+  "last_updated": "2026-02-28T05:03:42.977Z",
   "categories": {
     "supplements": [
       {
@@ -560,6 +560,20 @@
         "added_date": "2026-02-28"
       },
       {
+        "id": "recc3f9UYszbGVbc1",
+        "title": "Targeting FMO3 suppresses the malignant phenotype of colorectal cancer: evidence from bioinformatics to functional experiments.",
+        "summary": "Blocking FMO3 protein reduces the aggressiveness of colorectal cancer cells, offering a potential new treatment target.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41721713/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-28"
+      },
+      {
         "id": "recBH9lIEC7PcGf7U",
         "title": "A mixed inflammatory peripheral signature defines clinical outcomes in a phase II trial combining pembrolizumab with paclitaxel and carboplatin in melanoma.",
         "summary": "Combining immunotherapy with chemotherapy didn't improve melanoma survival compared to immunotherapy alone, but blood markers identified treatment responders.",
@@ -627,20 +641,6 @@
           "General"
         ],
         "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-27"
-      },
-      {
-        "id": "recifR7efQijzytKO",
-        "title": "Economic evaluation of perioperative pembrolizumab plus standard of care as treatment for resectable locally advanced head and neck squamous cell carcinoma in the United States.",
-        "summary": "Perioperative pembrolizumab plus standard treatment improved survival and proved cost-effective for resectable advanced head and neck cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41730003/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 23,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-27"
       }
@@ -865,10 +865,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7630,
+    "archive_count": 7631,
     "archive_supplements": 864,
     "archive_off_label": 331,
-    "archive_biomarkers": 4435,
+    "archive_biomarkers": 4436,
     "archive_trials": 1703
   }
 }
