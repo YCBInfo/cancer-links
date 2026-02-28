@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28T05:11:15.580Z",
+  "last_updated": "2026-02-28T05:11:26.148Z",
   "categories": {
     "supplements": [
       {
@@ -83,6 +83,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-28"
+      },
+      {
+        "id": "recwu043OYDeLC99q",
+        "title": "Electroacupuncture combined with fruquintinib and sintilimab in microsatellite-stable metastatic colorectal cancer: A phase II study.",
+        "summary": "Electroacupuncture combined with two cancer drugs improved tolerability while maintaining effectiveness against treatment-resistant colorectal cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41485683/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 21,
         "pub_date": "2026-01-01",
         "added_date": "2026-02-28"
       },
@@ -197,20 +211,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-27"
-      },
-      {
-        "id": "recqGSvrGksDSFfHV",
-        "title": "Betanin-encapsulated nanoparticles mitigate neurotoxicity against AlCl3-induced Alzheimer's disease via modulation of AChE/TNF-α/IL-1β expression.",
-        "summary": "Betanin-loaded nanoparticles improved cognitive function and reduced inflammation in an Alzheimer's disease rat model by mitigating oxidative stress and neuroinflammatory responses.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41570699/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-19"
       }
     ],
     "off_label": [
@@ -840,19 +840,18 @@
         "added_date": "2026-02-28"
       },
       {
-        "id": "recBH9lIEC7PcGf7U",
-        "title": "A mixed inflammatory peripheral signature defines clinical outcomes in a phase II trial combining pembrolizumab with paclitaxel and carboplatin in melanoma.",
-        "summary": "Combining immunotherapy with chemotherapy didn't improve melanoma survival compared to immunotherapy alone, but blood markers identified treatment responders.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41732954/",
+        "id": "recwu043OYDeLC99q",
+        "title": "Electroacupuncture combined with fruquintinib and sintilimab in microsatellite-stable metastatic colorectal cancer: A phase II study.",
+        "summary": "Electroacupuncture combined with two cancer drugs improved tolerability while maintaining effectiveness against treatment-resistant colorectal cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41485683/",
         "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
+        "category": "Supplements & Nutraceuticals",
         "cancer_types": [
-          "Lung",
-          "Melanoma"
+          "Colorectal"
         ],
         "quality_score": 21,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-27"
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-28"
       }
     ]
   },
@@ -862,8 +861,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7673,
-    "archive_supplements": 869,
+    "archive_count": 7674,
+    "archive_supplements": 870,
     "archive_off_label": 331,
     "archive_biomarkers": 4468,
     "archive_trials": 1708
