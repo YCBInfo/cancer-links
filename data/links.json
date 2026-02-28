@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28T08:02:46.984Z",
+  "last_updated": "2026-02-28T08:02:58.136Z",
   "categories": {
     "supplements": [
       {
@@ -371,6 +371,20 @@
         "added_date": "2026-02-28"
       },
       {
+        "id": "rec8UM2YAnRjiFn7u",
+        "title": "A Phase I Trial of Azacitidine and Abatacept in Relapsed or Refractory T-Cell Lymphoma",
+        "summary": "Researchers test whether combining azacitidine and abatacept drugs can shrink tumors in people with relapsed or refractory T-cell lymphoma.",
+        "url": "https://clinicaltrials.gov/study/NCT07388563",
+        "source": "ClinicalTrials.gov",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Lymphoma"
+        ],
+        "quality_score": 13,
+        "pub_date": "2026-02-27",
+        "added_date": "2026-02-28"
+      },
+      {
         "id": "recfDj917JcxW7oXH",
         "title": "Drug repurposing of ticagrelor suppresses renal cell carcinoma growth by blockading the EGFR/PI3K/AKT axis.",
         "summary": "Ticagrelor, an antiplatelet drug, slows kidney cancer growth by blocking a key cancer-promoting pathway.",
@@ -409,20 +423,6 @@
           "Breast"
         ],
         "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-27"
-      },
-      {
-        "id": "recFPW331i70yf2ci",
-        "title": "Prime Time for The Use of Statins in MPNs: From Comorbidity Drugs to Disease-Modifying Partners.",
-        "summary": "Statins show promise in treating myeloproliferative neoplasms by reducing inflammation and enhancing interferon therapy effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41747195/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-27"
       }
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7929,
+    "archive_count": 7930,
     "archive_supplements": 919,
     "archive_off_label": 333,
     "archive_biomarkers": 4633,
-    "archive_trials": 1747
+    "archive_trials": 1748
   }
 }
