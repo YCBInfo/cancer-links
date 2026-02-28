@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28T05:06:57.548Z",
+  "last_updated": "2026-02-28T05:07:08.066Z",
   "categories": {
     "supplements": [
       {
@@ -772,6 +772,20 @@
         "added_date": "2026-02-28"
       },
       {
+        "id": "recjxhNpk6YWe2mj5",
+        "title": "Fatal tracheal perforation following Dabrafenib-Trametinib therapy in BRAF V600E-mutant mixed anaplastic thyroid cancer.",
+        "summary": "Dabrafenib-Trametinib therapy caused fatal tracheal perforation in a BRAF-mutant thyroid cancer patient due to rapid tumor shrinkage.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41737645/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Thyroid"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-28"
+      },
+      {
         "id": "recBH9lIEC7PcGf7U",
         "title": "A mixed inflammatory peripheral signature defines clinical outcomes in a phase II trial combining pembrolizumab with paclitaxel and carboplatin in melanoma.",
         "summary": "Combining immunotherapy with chemotherapy didn't improve melanoma survival compared to immunotherapy alone, but blood markers identified treatment responders.",
@@ -841,20 +855,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-27"
-      },
-      {
-        "id": "recifR7efQijzytKO",
-        "title": "Economic evaluation of perioperative pembrolizumab plus standard of care as treatment for resectable locally advanced head and neck squamous cell carcinoma in the United States.",
-        "summary": "Perioperative pembrolizumab plus standard treatment improved survival and proved cost-effective for resectable advanced head and neck cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41730003/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 23,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-27"
       }
     ]
   },
@@ -864,10 +864,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7649,
+    "archive_count": 7650,
     "archive_supplements": 864,
     "archive_off_label": 331,
-    "archive_biomarkers": 4453,
+    "archive_biomarkers": 4454,
     "archive_trials": 1704
   }
 }
