@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28T05:17:37.641Z",
+  "last_updated": "2026-02-28T05:17:48.074Z",
   "categories": {
     "supplements": [
       {
@@ -287,6 +287,20 @@
         "added_date": "2026-02-28"
       },
       {
+        "id": "recyXvo6t9xJRxjAO",
+        "title": "DADA Enhances CD8+ T Cell Stemness to Improve Anti-Tumor Immunity and Immunotherapy Efficacy.",
+        "summary": "DADA enhances immune T cells' ability to fight cancer by improving their stem-like properties and boosting immunotherapy effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41758776/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-28"
+      },
+      {
         "id": "recfDj917JcxW7oXH",
         "title": "Drug repurposing of ticagrelor suppresses renal cell carcinoma growth by blockading the EGFR/PI3K/AKT axis.",
         "summary": "Ticagrelor, an antiplatelet drug, slows kidney cancer growth by blocking a key cancer-promoting pathway.",
@@ -412,20 +426,6 @@
           "Liver"
         ],
         "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-27"
-      },
-      {
-        "id": "recMY0JdLzaje7pjV",
-        "title": "Metabolic reprogramming and intracellular ATP homeostasis in immunity.",
-        "summary": "ATP metabolism controls immune cell function, and drugs targeting purine pathways offer therapeutic potential for cancer and inflammatory diseases.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41747828/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-27"
       }
@@ -861,8 +861,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7708,
-    "archive_supplements": 871,
+    "archive_count": 7709,
+    "archive_supplements": 872,
     "archive_off_label": 332,
     "archive_biomarkers": 4497,
     "archive_trials": 1711
