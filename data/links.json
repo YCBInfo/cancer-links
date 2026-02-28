@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28T05:13:22.872Z",
+  "last_updated": "2026-02-28T05:13:33.572Z",
   "categories": {
     "supplements": [
       {
@@ -243,6 +243,20 @@
         "added_date": "2026-02-28"
       },
       {
+        "id": "rec9GiroAI2bDHBCz",
+        "title": "NCAPH promotes immune evasion via inhibiting PD-L1 protein degradation in head and neck squamous cell carcinoma.",
+        "summary": "NCAPH protein helps head and neck cancer evade immunity by stabilizing PD-L1; blocking this interaction or degrading NCAPH restores immune response.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41386505/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-28"
+      },
+      {
         "id": "recfDj917JcxW7oXH",
         "title": "Drug repurposing of ticagrelor suppresses renal cell carcinoma growth by blockading the EGFR/PI3K/AKT axis.",
         "summary": "Ticagrelor, an antiplatelet drug, slows kidney cancer growth by blocking a key cancer-promoting pathway.",
@@ -410,20 +424,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Kidney"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-27"
-      },
-      {
-        "id": "recTxp5HjbALejGvV",
-        "title": "A metabolism-specific drug-repurposing screen reveals itraconazole as a potent OXPHOS inhibitor in acute myeloid leukemia.",
-        "summary": "Itraconazole, an FDA-approved antifungal drug, effectively inhibits mitochondrial energy production in acute myeloid leukemia cells and overcomes treatment resistance.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41734389/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -861,10 +861,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7685,
+    "archive_count": 7686,
     "archive_supplements": 871,
     "archive_off_label": 332,
-    "archive_biomarkers": 4475,
+    "archive_biomarkers": 4476,
     "archive_trials": 1710
   }
 }
