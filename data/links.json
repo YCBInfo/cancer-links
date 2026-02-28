@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28T05:14:48.845Z",
+  "last_updated": "2026-02-28T05:14:58.976Z",
   "categories": {
     "supplements": [
       {
@@ -272,6 +272,21 @@
         "added_date": "2026-02-28"
       },
       {
+        "id": "recuFAselkEaNHFSi",
+        "title": "SRC at the crossroads of KRAS inhibitor resistance: Mechanisms and therapeutic opportunities.",
+        "summary": "SRC protein drives resistance to KRAS inhibitors in lung, colon, and pancreatic cancers; targeting SRC could restore drug effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41338446/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung",
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-28"
+      },
+      {
         "id": "recfDj917JcxW7oXH",
         "title": "Drug repurposing of ticagrelor suppresses renal cell carcinoma growth by blockading the EGFR/PI3K/AKT axis.",
         "summary": "Ticagrelor, an antiplatelet drug, slows kidney cancer growth by blocking a key cancer-promoting pathway.",
@@ -411,22 +426,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-27"
-      },
-      {
-        "id": "recEgL1MyTCgrUAuJ",
-        "title": "From Neuropsychiatric Use to Oncology: Repurposing Antipsychotic Drugs for Cancer Treatment.",
-        "summary": "Antipsychotic drugs show promise against colon, breast, lung, and brain cancers, potentially enhancing chemotherapy effectiveness when combined with standard treatments.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41747798/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Melanoma",
-          "Lymphoma",
-          "Brain"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-27"
       }
@@ -862,10 +861,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7693,
+    "archive_count": 7694,
     "archive_supplements": 871,
     "archive_off_label": 332,
-    "archive_biomarkers": 4483,
+    "archive_biomarkers": 4484,
     "archive_trials": 1710
   }
 }
