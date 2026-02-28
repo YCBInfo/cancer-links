@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28T05:10:42.278Z",
+  "last_updated": "2026-02-28T05:10:52.392Z",
   "categories": {
     "supplements": [
       {
@@ -63,6 +63,20 @@
         "title": "Flavonoid diversity across six Ocimum accessions: UPLC-MS/MS metabolomics and RNA-seq reveal anticancer leads and nutraceutical potential.",
         "summary": "Three flavonoid compounds from Ocimum plants show promise against cancer by targeting multiple cancer-related proteins and pathways.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41539837/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-02-28"
+      },
+      {
+        "id": "recF4mGbxrriuI4vP",
+        "title": "Mechanistic insights into the antioxidant activity of sorghum bran phenolics via compositional profiling, network pharmacology and molecular docking.",
+        "summary": "Sorghum bran's phenolic compounds may fight cancer by blocking the PI3K-AKT signaling pathway through interactions with key cancer-related proteins.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41539828/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -195,20 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-19"
-      },
-      {
-        "id": "recLKbaHEUynlSRSd",
-        "title": "Bio-mediated synthesis of zinc oxide nanoparticles from Crossandra infundibuliformis leaves: A potent inducer of apoptosis in lung cancer cells.",
-        "summary": "Biosynthesized zinc oxide nanoparticles from Crossandra infundibuliformis leaves effectively induce apoptosis in lung cancer cells by triggering oxidative stress and genetic changes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41706370/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-19"
       }
@@ -862,10 +862,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7670,
+    "archive_count": 7671,
     "archive_supplements": 868,
     "archive_off_label": 331,
-    "archive_biomarkers": 4466,
+    "archive_biomarkers": 4467,
     "archive_trials": 1708
   }
 }
