@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28T05:02:58.821Z",
+  "last_updated": "2026-02-28T05:03:10.850Z",
   "categories": {
     "supplements": [
       {
@@ -518,6 +518,20 @@
         "added_date": "2026-02-28"
       },
       {
+        "id": "recaMo8019R9vX60l",
+        "title": "Opportunities and challenges for cancer immunotherapy based on antigen cross-presentation.",
+        "summary": "Tumors evade immune attacks by blocking two pathways: reducing antigen presentation and suppressing dendritic cells through immunosuppressive factors.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41758201/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-28"
+      },
+      {
         "id": "recBH9lIEC7PcGf7U",
         "title": "A mixed inflammatory peripheral signature defines clinical outcomes in a phase II trial combining pembrolizumab with paclitaxel and carboplatin in melanoma.",
         "summary": "Combining immunotherapy with chemotherapy didn't improve melanoma survival compared to immunotherapy alone, but blood markers identified treatment responders.",
@@ -627,20 +641,6 @@
           "General"
         ],
         "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-27"
-      },
-      {
-        "id": "rec3T1wZxcivYvj2O",
-        "title": "Impact of breast biopsy markers on magnetic resonance-guided focused ultrasound.",
-        "summary": "Breast biopsy markers may interfere with focused ultrasound treatment, requiring further investigation before clinical use.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41725365/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-27"
       }
@@ -865,10 +865,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7627,
+    "archive_count": 7628,
     "archive_supplements": 864,
     "archive_off_label": 331,
-    "archive_biomarkers": 4432,
+    "archive_biomarkers": 4433,
     "archive_trials": 1703
   }
 }
