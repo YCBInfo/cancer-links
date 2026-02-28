@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28T07:25:13.643Z",
+  "last_updated": "2026-02-28T08:02:03.922Z",
   "categories": {
     "supplements": [
       {
@@ -357,6 +357,20 @@
         "added_date": "2026-02-28"
       },
       {
+        "id": "recwMZsVxIJ4vEweb",
+        "title": "Sparsentan for the Treatment of VEGF Signaling Pathway Inhibitor-Associated Proteinuria",
+        "summary": "Sparsentan reduces severe protein loss in urine caused by cancer drugs that block blood vessel growth.",
+        "url": "https://clinicaltrials.gov/study/NCT07224776",
+        "source": "ClinicalTrials.gov",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 10,
+        "pub_date": "2026-02-27",
+        "added_date": "2026-02-28"
+      },
+      {
         "id": "recfDj917JcxW7oXH",
         "title": "Drug repurposing of ticagrelor suppresses renal cell carcinoma growth by blockading the EGFR/PI3K/AKT axis.",
         "summary": "Ticagrelor, an antiplatelet drug, slows kidney cancer growth by blocking a key cancer-promoting pathway.",
@@ -409,20 +423,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-27"
-      },
-      {
-        "id": "recIvhtDfb5cU2z3B",
-        "title": "Aspirin and other nonsteroidal anti-inflammatory drugs (NSAIDs) for preventing colorectal cancer and colorectal adenoma in the general population.",
-        "summary": "Aspirin and NSAIDs may help prevent colorectal cancer, but more research is needed to balance benefits against potential risks.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41740630/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 22,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-27"
       }
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7924,
+    "archive_count": 7925,
     "archive_supplements": 919,
     "archive_off_label": 332,
     "archive_biomarkers": 4632,
-    "archive_trials": 1744
+    "archive_trials": 1745
   }
 }
