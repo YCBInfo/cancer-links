@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28T05:09:26.990Z",
+  "last_updated": "2026-02-28T05:09:37.521Z",
   "categories": {
     "supplements": [
       {
@@ -25,6 +25,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-02-28"
+      },
+      {
+        "id": "recoGk7LTaExLy5bn",
+        "title": "Koumine from Gelsemium elegans Benth suppresses colorectal cancer metastasis by inhibiting vasculogenic mimicry formation through epithelial-mesenchymal transition and cytoskeleton remodeling.",
+        "summary": "Koumine, a plant compound, stops colorectal cancer spread by blocking abnormal blood vessel formation and preventing cancer cells from becoming mobile.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41651330/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -195,20 +209,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "General"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-19"
-      },
-      {
-        "id": "recWQU9E2ZAuNqY8c",
-        "title": "LC-MS/MS-based metabolomics analysis and experimental verification reveal the mechanism of Dahuang Mudan Decoction inhibition with the proliferation of colorectal cancer cells.",
-        "summary": "Dahuang Mudan Decoction, a traditional herbal treatment, demonstrates potential to inhibit colorectal cancer cell growth by disrupting key metabolic pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41706148/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -864,10 +864,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7663,
+    "archive_count": 7664,
     "archive_supplements": 866,
     "archive_off_label": 331,
-    "archive_biomarkers": 4461,
+    "archive_biomarkers": 4462,
     "archive_trials": 1708
   }
 }
