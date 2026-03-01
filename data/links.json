@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-01T05:03:19.979Z",
+  "last_updated": "2026-03-01T05:03:30.925Z",
   "categories": {
     "supplements": [
       {
@@ -499,6 +499,20 @@
         "added_date": "2026-03-01"
       },
       {
+        "id": "rectdPEsMdd6u0Ya8",
+        "title": "Dacomitinib as a First-Line Therapy for Advanced EGFR-Mutated Non-Small Cell Lung Cancer Without Brain Metastases: A Multicenter Retrospective Observational Study.",
+        "summary": "Dacomitinib shows promise as an effective first-line treatment for advanced lung cancer patients with specific genetic mutations.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41761381/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-01"
+      },
+      {
         "id": "reclMg1dUKWVH1zLv",
         "title": "Exploring the gut microbiome and metabolomic interactions of antimetabolite drugs to optimize therapy.",
         "summary": "Gut bacteria influence how antimetabolite cancer drugs work and cause side effects; understanding these interactions could improve treatment outcomes.",
@@ -623,20 +637,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-28"
-      },
-      {
-        "id": "recc3f9UYszbGVbc1",
-        "title": "Targeting FMO3 suppresses the malignant phenotype of colorectal cancer: evidence from bioinformatics to functional experiments.",
-        "summary": "Blocking FMO3 protein reduces the aggressiveness of colorectal cancer cells, offering a potential new treatment target.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41721713/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-28"
       }
     ],
     "trials": [
@@ -691,6 +691,20 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-01"
+      },
+      {
+        "id": "rectdPEsMdd6u0Ya8",
+        "title": "Dacomitinib as a First-Line Therapy for Advanced EGFR-Mutated Non-Small Cell Lung Cancer Without Brain Metastases: A Multicenter Retrospective Observational Study.",
+        "summary": "Dacomitinib shows promise as an effective first-line treatment for advanced lung cancer patients with specific genetic mutations.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41761381/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -835,20 +849,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-28"
-      },
-      {
-        "id": "recqfBRDz89YnodCS",
-        "title": "Self-management of male urinary symptoms: qualitative findings from a primary care trial.",
-        "summary": "A self-management program in primary care helps men better manage lower urinary tract symptoms compared to standard treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/40953937/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 21,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-28"
       }
     ]
   },
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7990,
+    "archive_count": 7991,
     "archive_supplements": 924,
     "archive_off_label": 339,
-    "archive_biomarkers": 4646,
+    "archive_biomarkers": 4647,
     "archive_trials": 1784
   }
 }
