@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-03-01T05:04:34.745Z",
+  "last_updated": "2026-03-01T05:04:45.326Z",
   "categories": {
     "supplements": [
+      {
+        "id": "recevOPzO42YchD4b",
+        "title": "Physalin A Suppresses Human Oral Squamous Carcinoma Cell Migration and Invasion Through Inhibiting Grb2/Ras and MMP/uPA Signaling Pathways.",
+        "summary": "Physalin A, a natural compound, reduces oral cancer cell migration and invasion by blocking specific cellular signaling pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41760308/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-01"
+      },
       {
         "id": "rechFh4Yj5NJDny1G",
         "title": "Reduced Versus Oxidized NAD+ Precursors Drive Distinct Transcriptomic, Proteomic, and Metabolic Profiles in Hepatocytes.",
@@ -195,20 +209,6 @@
           "General"
         ],
         "quality_score": 22,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-28"
-      },
-      {
-        "id": "recu7OgVFbh67xXBe",
-        "title": "Association between Japanese diet and the risk of cancer incidence: data from the Ohsaki Cohort Study.",
-        "summary": "A traditional Japanese diet showed no significant association with cancer risk in a 14-year study of over 25,000 adults.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41449904/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-28"
       }
@@ -583,6 +583,20 @@
         "added_date": "2026-03-01"
       },
       {
+        "id": "recevOPzO42YchD4b",
+        "title": "Physalin A Suppresses Human Oral Squamous Carcinoma Cell Migration and Invasion Through Inhibiting Grb2/Ras and MMP/uPA Signaling Pathways.",
+        "summary": "Physalin A, a natural compound, reduces oral cancer cell migration and invasion by blocking specific cellular signaling pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41760308/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-01"
+      },
+      {
         "id": "reclMg1dUKWVH1zLv",
         "title": "Exploring the gut microbiome and metabolomic interactions of antimetabolite drugs to optimize therapy.",
         "summary": "Gut bacteria influence how antimetabolite cancer drugs work and cause side effects; understanding these interactions could improve treatment outcomes.",
@@ -615,20 +629,6 @@
         "title": "TNF-α deficiency underlies NK cell dysfunction in colorectal cancer.",
         "summary": "Low TNF-α levels in colorectal cancer patients impair natural killer cell function, suppressing the immune response against tumors.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41742461/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-28"
-      },
-      {
-        "id": "recpFG1q9sDfyb7yn",
-        "title": "Monocytes acquire a tumor-associated IL1B program upon encountering patient-derived colon cancer organoids.",
-        "summary": "Colon cancer cells reprogram monocytes to suppress immune responses through soluble factors and debris uptake in tumor microenvironments.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41723598/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7997,
+    "archive_count": 7998,
     "archive_supplements": 924,
     "archive_off_label": 340,
     "archive_biomarkers": 4650,
-    "archive_trials": 1786
+    "archive_trials": 1787
   }
 }
