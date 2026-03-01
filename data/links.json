@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-01T05:05:49.338Z",
+  "last_updated": "2026-03-01T05:06:00.709Z",
   "categories": {
     "supplements": [
       {
@@ -811,6 +811,20 @@
         "added_date": "2026-03-01"
       },
       {
+        "id": "recSZvLJolLyAvtsw",
+        "title": "Immature Peritumoral Tertiary Lymphoid Structures Indicate Poor Prognosis in Pancreatic Ductal Adenocarcinoma After NAC.",
+        "summary": "Immature immune structures near pancreatic cancer tumors predict worse outcomes for patients receiving chemotherapy before surgery.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41760276/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-01"
+      },
+      {
         "id": "reclMg1dUKWVH1zLv",
         "title": "Exploring the gut microbiome and metabolomic interactions of antimetabolite drugs to optimize therapy.",
         "summary": "Gut bacteria influence how antimetabolite cancer drugs work and cause side effects; understanding these interactions could improve treatment outcomes.",
@@ -837,20 +851,6 @@
         "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-28"
-      },
-      {
-        "id": "recDx3VKdukxLCN53",
-        "title": "Tertiary lymphoid structures guided opportunities and challenges for immunotherapy in early gastroesophageal junction cancer and low rectal cancer.",
-        "summary": "Early gastroesophageal and rectal cancers show immune-active tumors with structures that could guide immunotherapy to potentially preserve organs instead of surgery.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41742891/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-28"
       }
     ]
   },
@@ -860,10 +860,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8004,
+    "archive_count": 8005,
     "archive_supplements": 926,
     "archive_off_label": 340,
-    "archive_biomarkers": 4654,
+    "archive_biomarkers": 4655,
     "archive_trials": 1787
   }
 }
