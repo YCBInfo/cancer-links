@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28T11:01:51.602Z",
+  "last_updated": "2026-03-01T05:02:48.404Z",
   "categories": {
     "supplements": [
       {
@@ -429,6 +429,48 @@
     ],
     "biomarkers": [
       {
+        "id": "recyzvGj35I7tRy0D",
+        "title": "Mass Cytometry Workflow to Achieve High-Dimensional Immunophenotyping in Resource-Limited or Decentralized Environments.",
+        "summary": "New workflow enables advanced immune testing for lung cancer patients in remote and resource-limited communities without specialized equipment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41761779/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-01"
+      },
+      {
+        "id": "recGDbZpnB7KZACRq",
+        "title": "Successful Management of Suspected Epstein-Barr Virus-Associated Hemophagocytic Lymphohistiocytosis in BRAF-Mutant Cholangiocarcinoma Following Treatment With Immune Checkpoint Inhibitors and BRAF/MEK Inhibitors: A Case Report.",
+        "summary": "Combination immune and BRAF inhibitor therapy helped treat a rare cholangiocarcinoma case, though it triggered a serious immune side effect requiring careful management.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41761754/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-01"
+      },
+      {
+        "id": "recMGoL68BEt24I2i",
+        "title": "Multiomic characterization of small cell lung cancer: Real-world insights into therapeutic opportunities.",
+        "summary": "Researchers identified four distinct small cell lung cancer subtypes based on specific proteins, revealing some tumors have more immune cells, offering new treatment targets.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41761743/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-01"
+      },
+      {
         "id": "reclMg1dUKWVH1zLv",
         "title": "Exploring the gut microbiome and metabolomic interactions of antimetabolite drugs to optimize therapy.",
         "summary": "Gut bacteria influence how antimetabolite cancer drugs work and cause side effects; understanding these interactions could improve treatment outcomes.",
@@ -595,51 +637,37 @@
         "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-28"
-      },
-      {
-        "id": "rech72ES2eqvkpBN0",
-        "title": "Rnd3 regulates lung cancer cell invasion and migration independently of ROCK1 signaling via alpha 5 integrin modulation.",
-        "summary": "Low Rnd3 levels in lung cancer reduce cell invasion and migration through alpha 5 integrin, offering a new treatment target.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41735013/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-28"
-      },
-      {
-        "id": "recbtj1w95meSGj6Q",
-        "title": "HOP2-MND1 chaperones a diffusing DMC1-ssDNA complex to survey dsDNA for homology recognition during meiotic recombination.",
-        "summary": "Scientists discovered that HOP2-MND1 proteins help DMC1 find matching DNA sequences during meiosis by maintaining expanded DNA structures for proper pairing.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41746729/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-28"
-      },
-      {
-        "id": "recWnAAcJ2PTrd4JP",
-        "title": "Human oncogenic herpesvirus latency proteins activate NEK2 to promote chromosomal instability and tumorigenesis.",
-        "summary": "Herpes viruses EBV and KSHV activate a protein called NEK2 that causes chromosomal instability and cancer growth.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41734070/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-28"
       }
     ],
     "trials": [
+      {
+        "id": "recsRtTOoAfnff8Uv",
+        "title": "Study on the Promotion of Mitochondrial Pathway Apoptosis and Muscle Tenderization in Postmortem Tibetan Sheep Meat by Cold Atmospheric Plasma Treatment.",
+        "summary": "Cold atmospheric plasma treatment tenderizes Tibetan sheep meat by damaging mitochondria and triggering cell death pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41762645/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-01"
+      },
+      {
+        "id": "recGDbZpnB7KZACRq",
+        "title": "Successful Management of Suspected Epstein-Barr Virus-Associated Hemophagocytic Lymphohistiocytosis in BRAF-Mutant Cholangiocarcinoma Following Treatment With Immune Checkpoint Inhibitors and BRAF/MEK Inhibitors: A Case Report.",
+        "summary": "Combination immune and BRAF inhibitor therapy helped treat a rare cholangiocarcinoma case, though it triggered a serious immune side effect requiring careful management.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41761754/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-01"
+      },
       {
         "id": "reclMg1dUKWVH1zLv",
         "title": "Exploring the gut microbiome and metabolomic interactions of antimetabolite drugs to optimize therapy.",
@@ -821,34 +849,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-28"
-      },
-      {
-        "id": "recbejsl8qLsrKNCP",
-        "title": "CAR-T Cell Exhaustion in Cancer over the Past Decade: Mitochondrial Metabolism as a Target for Counteraction.",
-        "summary": "Targeting mitochondrial metabolism in CAR-T cells could restore their energy and effectiveness, overcoming exhaustion that limits cancer treatment success.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41485684/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-28"
-      },
-      {
-        "id": "recwu043OYDeLC99q",
-        "title": "Electroacupuncture combined with fruquintinib and sintilimab in microsatellite-stable metastatic colorectal cancer: A phase II study.",
-        "summary": "Electroacupuncture combined with two cancer drugs improved tolerability while maintaining effectiveness against treatment-resistant colorectal cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41485683/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 21,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-28"
       }
     ]
   },
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7986,
+    "archive_count": 7987,
     "archive_supplements": 924,
     "archive_off_label": 339,
     "archive_biomarkers": 4643,
-    "archive_trials": 1783
+    "archive_trials": 1784
   }
 }
