@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-01T10:03:40.313Z",
+  "last_updated": "2026-03-01T10:04:14.609Z",
   "categories": {
     "supplements": [
       {
@@ -384,24 +384,10 @@
         "added_date": "2026-03-01"
       },
       {
-        "id": "recBUFY5I8mmddlxj",
-        "title": "LKB1-AMPK Signaling Pathway in Cardiovascular and Other Diseases.",
-        "summary": "The LKB1-AMPK pathway regulates cellular energy and is dysregulated in cardiovascular disease, cancer, diabetes, and neurodegeneration, offering therapeutic targets.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41756254/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 21,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-28"
-      },
-      {
-        "id": "rec20uD6k4MGSgtN1",
-        "title": "Lidocaine potentiates thermal ablation in cholangiocarcinoma by modulating TRPV6-Driven Ca2+/PI3K/AKT/HSF-1 signaling pathway.",
-        "summary": "Lidocaine enhances heat treatment effectiveness in bile duct cancer by blocking a calcium channel that normally helps tumors survive heat stress.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41421662/",
+        "id": "recYKQZ7xKRDnWevB",
+        "title": "Identifying Drugs Associated With Parkinson's Disease Risk Using Machine Learning.",
+        "summary": "Machine learning identified inhalant anticholinergics, antimalarials, and antibiotics as potentially protective against Parkinson's disease risk.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41611649/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -409,21 +395,35 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-01-01",
-        "added_date": "2026-02-28"
+        "added_date": "2026-03-01"
       },
       {
-        "id": "rec9GiroAI2bDHBCz",
-        "title": "NCAPH promotes immune evasion via inhibiting PD-L1 protein degradation in head and neck squamous cell carcinoma.",
-        "summary": "NCAPH protein helps head and neck cancer evade immunity by stabilizing PD-L1; blocking this interaction or degrading NCAPH restores immune response.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41386505/",
+        "id": "recsEpR7hD3mR5Sf6",
+        "title": "Effect of apatinib on albendazole metabolism in vitro and in vivo.",
+        "summary": "Apatinib inhibits albendazole metabolism in laboratory and animal studies, potentially increasing albendazole levels when drugs are used together.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41610585/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-28"
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-01"
+      },
+      {
+        "id": "rec1luyixEyZGfbyz",
+        "title": "Indomethacin alleviates acute pancreatitis by restoring autophagic flux via the AMPK signaling pathway.",
+        "summary": "Indomethacin reduces acute pancreatitis damage by activating autophagy through the AMPK signaling pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41605026/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-01"
       }
     ],
     "biomarkers": [
@@ -858,9 +858,9 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8322,
+    "archive_count": 8323,
     "archive_supplements": 998,
-    "archive_off_label": 346,
+    "archive_off_label": 347,
     "archive_biomarkers": 4840,
     "archive_trials": 1841
   }
