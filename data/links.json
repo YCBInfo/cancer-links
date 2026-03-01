@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-01T05:04:02.717Z",
+  "last_updated": "2026-03-01T05:04:13.736Z",
   "categories": {
     "supplements": [
       {
@@ -725,6 +725,20 @@
         "added_date": "2026-03-01"
       },
       {
+        "id": "recBJhuGdaFY5fJ2c",
+        "title": "Stereotactic Radiotherapy for Metastatic Anaplastic Thyroid Cancer: A Single-center Experience and Systematic Review.",
+        "summary": "Focused radiation therapy shows promise for treating spread anaplastic thyroid cancer when limited metastases develop.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41760331/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Thyroid"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-01"
+      },
+      {
         "id": "reclMg1dUKWVH1zLv",
         "title": "Exploring the gut microbiome and metabolomic interactions of antimetabolite drugs to optimize therapy.",
         "summary": "Gut bacteria influence how antimetabolite cancer drugs work and cause side effects; understanding these interactions could improve treatment outcomes.",
@@ -835,20 +849,6 @@
         "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-28"
-      },
-      {
-        "id": "recbUejWCxFLt8CIb",
-        "title": "Allogeneic Hematopoietic Stem Cell Transplantation for Children With Mixed Phenotype Acute Leukemia: A Single-Center Retrospective Study.",
-        "summary": "Stem cell transplantation improved survival outcomes in children with mixed phenotype acute leukemia, a rare and difficult-to-treat blood cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41738872/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-28"
       }
     ]
   },
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7994,
+    "archive_count": 7995,
     "archive_supplements": 924,
     "archive_off_label": 339,
-    "archive_biomarkers": 4648,
+    "archive_biomarkers": 4649,
     "archive_trials": 1786
   }
 }
