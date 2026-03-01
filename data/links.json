@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-01T07:18:32.953Z",
+  "last_updated": "2026-03-01T07:18:48.834Z",
   "categories": {
     "supplements": [
       {
@@ -328,6 +328,20 @@
         "added_date": "2026-03-01"
       },
       {
+        "id": "recsUYiDT46RhqhYh",
+        "title": "Advances in Cardiovascular Pharmacotherapy. VI. Sacubitril-Valsartan, An Angiotensin Receptor-Neprilysin Inhibitor.",
+        "summary": "This is not cancer research. The article reviews sacubitril-valsartan, a heart failure medication, with only a brief mention of chemotherapy-related heart damage as one application area.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41539898/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 21,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-01"
+      },
+      {
         "id": "recBUFY5I8mmddlxj",
         "title": "LKB1-AMPK Signaling Pathway in Cardiovascular and Other Diseases.",
         "summary": "The LKB1-AMPK pathway regulates cellular energy and is dysregulated in cardiovascular disease, cancer, diabetes, and neurodegeneration, offering therapeutic targets.",
@@ -410,20 +424,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-28"
-      },
-      {
-        "id": "recXCuCFFASTljmPr",
-        "title": "ARID1A Deficiency in Diffuse-Type Gastric Cancer Promotes a Pyrimidine Metabolic Vulnerability.",
-        "summary": "ARID1A-deficient gastric cancer has a metabolic weakness that makes it vulnerable to Gemcitabine chemotherapy treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41757873/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Stomach"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-28"
       }
@@ -860,8 +860,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8264,
-    "archive_supplements": 979,
+    "archive_count": 8265,
+    "archive_supplements": 980,
     "archive_off_label": 345,
     "archive_biomarkers": 4816,
     "archive_trials": 1827
