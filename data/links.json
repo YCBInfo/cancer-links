@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-01T05:18:46.355Z",
+  "last_updated": "2026-03-01T05:18:56.821Z",
   "categories": {
     "supplements": [
       {
@@ -244,6 +244,20 @@
         "added_date": "2026-03-01"
       },
       {
+        "id": "recSgkkWCsA7NVxGY",
+        "title": "Impact of Angiotensin-Converting Enzyme Inhibitors on Disease Symptoms in Patients with Chronic Myeloproliferative Neoplasms.",
+        "summary": "ACE inhibitors may reduce inflammation-related symptoms in patients with chronic myeloproliferative neoplasms by controlling the overactive renin-angiotensin system.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41728173/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-01"
+      },
+      {
         "id": "recBUFY5I8mmddlxj",
         "title": "LKB1-AMPK Signaling Pathway in Cardiovascular and Other Diseases.",
         "summary": "The LKB1-AMPK pathway regulates cellular energy and is dysregulated in cardiovascular disease, cancer, diabetes, and neurodegeneration, offering therapeutic targets.",
@@ -410,20 +424,6 @@
           "Lymphoma"
         ],
         "quality_score": 13,
-        "pub_date": "2026-02-27",
-        "added_date": "2026-02-28"
-      },
-      {
-        "id": "recop7SAXxQOa1fii",
-        "title": "IL-1 Receptor Antagonist to Prevent Severe Chimeric Antigen Receptor T-Cell Related Encephalopathy Syndrome",
-        "summary": "Anakinra may prevent severe brain inflammation in large B-cell lymphoma patients receiving CAR T-cell therapy.",
-        "url": "https://clinicaltrials.gov/study/NCT04205838",
-        "source": "ClinicalTrials.gov",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Lymphoma"
-        ],
-        "quality_score": 19,
         "pub_date": "2026-02-27",
         "added_date": "2026-02-28"
       }
@@ -860,10 +860,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8075,
+    "archive_count": 8076,
     "archive_supplements": 929,
     "archive_off_label": 341,
     "archive_biomarkers": 4711,
-    "archive_trials": 1797
+    "archive_trials": 1798
   }
 }
