@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-01T10:03:29.579Z",
+  "last_updated": "2026-03-01T10:03:40.313Z",
   "categories": {
     "supplements": [
       {
@@ -370,6 +370,20 @@
         "added_date": "2026-03-01"
       },
       {
+        "id": "recjZtAFtFwz9xaGz",
+        "title": "Impact of Proton Pump Inhibitor Use on the Efficacy of IO-IO Versus IO-TKI Therapy in Metastatic Renal Cell Carcinoma.",
+        "summary": "Proton pump inhibitors may reduce the effectiveness of immune-based treatments for metastatic kidney cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41619561/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Kidney"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-01"
+      },
+      {
         "id": "recBUFY5I8mmddlxj",
         "title": "LKB1-AMPK Signaling Pathway in Cardiovascular and Other Diseases.",
         "summary": "The LKB1-AMPK pathway regulates cellular energy and is dysregulated in cardiovascular disease, cancer, diabetes, and neurodegeneration, offering therapeutic targets.",
@@ -408,21 +422,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-28"
-      },
-      {
-        "id": "recI56k09tpO3oOAo",
-        "title": "Lactic acid promotes an MDSC-like phenotype via HIF1α stabilization with impact on prognosis in renal cell carcinoma.",
-        "summary": "Tumor-derived lactate promotes immune-suppressing myeloid cells in kidney cancer, and blocking lactate transport may restore anti-tumor immunity.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41371433/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal",
-          "Kidney"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-02-28"
       }
@@ -859,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8321,
+    "archive_count": 8322,
     "archive_supplements": 998,
     "archive_off_label": 346,
     "archive_biomarkers": 4840,
-    "archive_trials": 1840
+    "archive_trials": 1841
   }
 }
