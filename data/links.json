@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-01T05:03:30.925Z",
+  "last_updated": "2026-03-01T05:03:41.094Z",
   "categories": {
     "supplements": [
       {
@@ -513,6 +513,20 @@
         "added_date": "2026-03-01"
       },
       {
+        "id": "reclm1dqXlU654NaP",
+        "title": "Dysregulated Peroxiredoxins in Bladder Cancer Are Associated With an Altered Tumour Immune Microenvironment.",
+        "summary": "High PRDX1 and PRDX6 levels predict poor outcomes in bladder cancer and could help guide immunotherapy treatment strategies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41761027/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Bladder"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-01"
+      },
+      {
         "id": "reclMg1dUKWVH1zLv",
         "title": "Exploring the gut microbiome and metabolomic interactions of antimetabolite drugs to optimize therapy.",
         "summary": "Gut bacteria influence how antimetabolite cancer drugs work and cause side effects; understanding these interactions could improve treatment outcomes.",
@@ -621,20 +635,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-28"
-      },
-      {
-        "id": "recDx3VKdukxLCN53",
-        "title": "Tertiary lymphoid structures guided opportunities and challenges for immunotherapy in early gastroesophageal junction cancer and low rectal cancer.",
-        "summary": "Early gastroesophageal and rectal cancers show immune-active tumors with structures that could guide immunotherapy to potentially preserve organs instead of surgery.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41742891/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-28"
       }
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7991,
+    "archive_count": 7992,
     "archive_supplements": 924,
     "archive_off_label": 339,
     "archive_biomarkers": 4647,
-    "archive_trials": 1784
+    "archive_trials": 1785
   }
 }
