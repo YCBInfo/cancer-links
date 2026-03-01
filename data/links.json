@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-01T05:12:04.596Z",
+  "last_updated": "2026-03-01T05:12:25.581Z",
   "categories": {
     "supplements": [
       {
@@ -230,6 +230,20 @@
         "added_date": "2026-03-01"
       },
       {
+        "id": "recutcJlBLyq0yuup",
+        "title": "Targeting mutant VHL-gene results in therapy response in metastatic clear cell carcinoma of rete testis.",
+        "summary": "Targeting a mutant VHL gene with belzutifan drug achieved complete remission in a rare metastatic testis cancer patient.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41756742/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-01"
+      },
+      {
         "id": "recBUFY5I8mmddlxj",
         "title": "LKB1-AMPK Signaling Pathway in Cardiovascular and Other Diseases.",
         "summary": "The LKB1-AMPK pathway regulates cellular energy and is dysregulated in cardiovascular disease, cancer, diabetes, and neurodegeneration, offering therapeutic targets.",
@@ -410,20 +424,6 @@
           "Lymphoma"
         ],
         "quality_score": 19,
-        "pub_date": "2026-02-27",
-        "added_date": "2026-02-28"
-      },
-      {
-        "id": "recV5dknHGxp1Gn5p",
-        "title": "A Phase 1 Study of the Polymerase Theta (POLθ) Inhibitor Novobiocin in BRCA- Mutant and Other DNA Damage Repair-Deficient Solid Tumors",
-        "summary": "Novobiocin, a DNA polymerase theta inhibitor, is tested to treat solid tumors with DNA repair gene mutations.",
-        "url": "https://clinicaltrials.gov/study/NCT05687110",
-        "source": "ClinicalTrials.gov",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
         "pub_date": "2026-02-27",
         "added_date": "2026-02-28"
       }
@@ -860,10 +860,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8039,
+    "archive_count": 8040,
     "archive_supplements": 928,
     "archive_off_label": 340,
-    "archive_biomarkers": 4681,
+    "archive_biomarkers": 4682,
     "archive_trials": 1793
   }
 }
