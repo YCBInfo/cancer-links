@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-01T05:03:52.151Z",
+  "last_updated": "2026-03-01T05:04:02.717Z",
   "categories": {
     "supplements": [
       {
@@ -215,6 +215,20 @@
     ],
     "off_label": [
       {
+        "id": "recYT4uY1GMUhFJr9",
+        "title": "Oral Administration of Itraconazole Induces M1 Polarization of Tumor-associated Macrophages in Gynecological Cancer.",
+        "summary": "Oral antifungal drug itraconazole shifts immune cells in gynecological cancers toward anti-tumor activity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41760333/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-01"
+      },
+      {
         "id": "recBUFY5I8mmddlxj",
         "title": "LKB1-AMPK Signaling Pathway in Cardiovascular and Other Diseases.",
         "summary": "The LKB1-AMPK pathway regulates cellular energy and is dysregulated in cardiovascular disease, cancer, diabetes, and neurodegeneration, offering therapeutic targets.",
@@ -411,20 +425,6 @@
         "quality_score": 10,
         "pub_date": "2026-02-27",
         "added_date": "2026-02-28"
-      },
-      {
-        "id": "recpiyQuqbyWOp0IV",
-        "title": "High-fat diet induced ECM remodeling attenuates chemosensitivity in prostate cancer via activating Piezo1-dependent mitochondria-ER contacts.",
-        "summary": "High-fat diet makes prostate cancer resistant to chemotherapy by stiffening the tumor environment, which can be reversed by blocking specific mechanosensors.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41380904/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Prostate"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-28"
       }
     ],
     "biomarkers": [
@@ -541,6 +541,20 @@
         "added_date": "2026-03-01"
       },
       {
+        "id": "recYT4uY1GMUhFJr9",
+        "title": "Oral Administration of Itraconazole Induces M1 Polarization of Tumor-associated Macrophages in Gynecological Cancer.",
+        "summary": "Oral antifungal drug itraconazole shifts immune cells in gynecological cancers toward anti-tumor activity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41760333/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-01"
+      },
+      {
         "id": "reclMg1dUKWVH1zLv",
         "title": "Exploring the gut microbiome and metabolomic interactions of antimetabolite drugs to optimize therapy.",
         "summary": "Gut bacteria influence how antimetabolite cancer drugs work and cause side effects; understanding these interactions could improve treatment outcomes.",
@@ -623,20 +637,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-28"
-      },
-      {
-        "id": "recaMo8019R9vX60l",
-        "title": "Opportunities and challenges for cancer immunotherapy based on antigen cross-presentation.",
-        "summary": "Tumors evade immune attacks by blocking two pathways: reducing antigen presentation and suppressing dendritic cells through immunosuppressive factors.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41758201/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-28"
       }
     ],
     "trials": [
@@ -707,6 +707,20 @@
           "Lung"
         ],
         "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-01"
+      },
+      {
+        "id": "recYT4uY1GMUhFJr9",
+        "title": "Oral Administration of Itraconazole Induces M1 Polarization of Tumor-associated Macrophages in Gynecological Cancer.",
+        "summary": "Oral antifungal drug itraconazole shifts immune cells in gynecological cancers toward anti-tumor activity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41760333/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-03-01"
       },
@@ -835,20 +849,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-28"
-      },
-      {
-        "id": "recjxhNpk6YWe2mj5",
-        "title": "Fatal tracheal perforation following Dabrafenib-Trametinib therapy in BRAF V600E-mutant mixed anaplastic thyroid cancer.",
-        "summary": "Dabrafenib-Trametinib therapy caused fatal tracheal perforation in a BRAF-mutant thyroid cancer patient due to rapid tumor shrinkage.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41737645/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Thyroid"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-28"
       }
     ]
   },
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7993,
+    "archive_count": 7994,
     "archive_supplements": 924,
     "archive_off_label": 339,
     "archive_biomarkers": 4648,
-    "archive_trials": 1785
+    "archive_trials": 1786
   }
 }
