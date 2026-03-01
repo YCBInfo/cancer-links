@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-01T05:03:09.021Z",
+  "last_updated": "2026-03-01T05:03:19.979Z",
   "categories": {
     "supplements": [
       {
@@ -485,6 +485,20 @@
         "added_date": "2026-03-01"
       },
       {
+        "id": "recLKJvA1C5ptjRuD",
+        "title": "A trial of risk-adapted prostate cancer screening in a federally supported health center network serving a high-risk population.",
+        "summary": "A trial tested risk-adapted prostate cancer screening guidelines in clinics serving high-risk Black communities to improve screening practices and outcomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41761486/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-01"
+      },
+      {
         "id": "reclMg1dUKWVH1zLv",
         "title": "Exploring the gut microbiome and metabolomic interactions of antimetabolite drugs to optimize therapy.",
         "summary": "Gut bacteria influence how antimetabolite cancer drugs work and cause side effects; understanding these interactions could improve treatment outcomes.",
@@ -623,20 +637,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-28"
-      },
-      {
-        "id": "rech36l1BxqlR5835",
-        "title": "KCMF1 promotes malignant progression by NXN ubiquitin-dependent degradation in ovarian cancer.",
-        "summary": "KCMF1 protein promotes ovarian cancer growth and spread by breaking down NXN protein, offering a potential new treatment target.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41721648/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Ovarian"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-28"
       }
     ],
     "trials": [
@@ -675,6 +675,20 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41761597/",
         "source": "PubMed",
         "category": "Clinical Trials",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-01"
+      },
+      {
+        "id": "recLKJvA1C5ptjRuD",
+        "title": "A trial of risk-adapted prostate cancer screening in a federally supported health center network serving a high-risk population.",
+        "summary": "A trial tested risk-adapted prostate cancer screening guidelines in clinics serving high-risk Black communities to improve screening practices and outcomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41761486/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Prostate"
         ],
@@ -835,20 +849,6 @@
         "quality_score": 21,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-28"
-      },
-      {
-        "id": "reczOg3krNQWNzCco",
-        "title": "The Application of PD-1 Inhibitors in Immunotherapy for Glioblastoma.",
-        "summary": "PD-1 inhibitors combined with chemotherapy, radiotherapy, or other immunotherapies show promise for treating glioblastoma better than the drug alone.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41689429/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-28"
       }
     ]
   },
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7989,
+    "archive_count": 7990,
     "archive_supplements": 924,
     "archive_off_label": 339,
-    "archive_biomarkers": 4645,
+    "archive_biomarkers": 4646,
     "archive_trials": 1784
   }
 }
