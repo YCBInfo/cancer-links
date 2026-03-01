@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-01T05:05:07.058Z",
+  "last_updated": "2026-03-01T05:05:17.781Z",
   "categories": {
     "supplements": [
       {
@@ -627,18 +627,18 @@
         "added_date": "2026-03-01"
       },
       {
-        "id": "reclMg1dUKWVH1zLv",
-        "title": "Exploring the gut microbiome and metabolomic interactions of antimetabolite drugs to optimize therapy.",
-        "summary": "Gut bacteria influence how antimetabolite cancer drugs work and cause side effects; understanding these interactions could improve treatment outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41758194/",
+        "id": "recaullaSRrARgVfJ",
+        "title": "The Prognostic Role of Baseline and Early Dynamics of Peripheral Blood Cell Ratios in Metastatic Renal Cell Carcinoma Patients Treated With Nivolumab.",
+        "summary": "Blood cell ratios at treatment start predict survival outcomes in advanced kidney cancer patients receiving nivolumab immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41760301/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
-          "General"
+          "Kidney"
         ],
-        "quality_score": 12,
+        "quality_score": 15,
         "pub_date": "2026-02-01",
-        "added_date": "2026-02-28"
+        "added_date": "2026-03-01"
       }
     ],
     "trials": [
@@ -769,6 +769,20 @@
         "added_date": "2026-03-01"
       },
       {
+        "id": "recaullaSRrARgVfJ",
+        "title": "The Prognostic Role of Baseline and Early Dynamics of Peripheral Blood Cell Ratios in Metastatic Renal Cell Carcinoma Patients Treated With Nivolumab.",
+        "summary": "Blood cell ratios at treatment start predict survival outcomes in advanced kidney cancer patients receiving nivolumab immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41760301/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Kidney"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-01"
+      },
+      {
         "id": "reclMg1dUKWVH1zLv",
         "title": "Exploring the gut microbiome and metabolomic interactions of antimetabolite drugs to optimize therapy.",
         "summary": "Gut bacteria influence how antimetabolite cancer drugs work and cause side effects; understanding these interactions could improve treatment outcomes.",
@@ -837,20 +851,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-28"
-      },
-      {
-        "id": "recDRFYjGBUAKJtRU",
-        "title": "Inhibiting ADAR1-Mediated Excessive Epigenetic A-to-I RNA Editing Improves the Immune Microenvironment and Increases Sensitivity to Immunotherapy in Lung Adenocarcinoma.",
-        "summary": "Blocking ADAR1 enzyme in lung adenocarcinoma improves immune response and makes immunotherapy more effective in mice and patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41756256/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-28"
       }
     ]
   },
@@ -860,8 +860,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8000,
-    "archive_supplements": 924,
+    "archive_count": 8001,
+    "archive_supplements": 925,
     "archive_off_label": 340,
     "archive_biomarkers": 4652,
     "archive_trials": 1787
