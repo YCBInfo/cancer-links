@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-01T05:04:45.326Z",
+  "last_updated": "2026-03-01T05:04:56.027Z",
   "categories": {
     "supplements": [
       {
@@ -597,6 +597,20 @@
         "added_date": "2026-03-01"
       },
       {
+        "id": "rec5PN85AATtmoYVh",
+        "title": "Chondromyxoid Fibroma: An Updated Review.",
+        "summary": "Chondromyxoid fibroma is a rare benign bone tumor in young adults; GRM1 gene alterations help diagnose it, with surgery as primary treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41760307/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-01"
+      },
+      {
         "id": "reclMg1dUKWVH1zLv",
         "title": "Exploring the gut microbiome and metabolomic interactions of antimetabolite drugs to optimize therapy.",
         "summary": "Gut bacteria influence how antimetabolite cancer drugs work and cause side effects; understanding these interactions could improve treatment outcomes.",
@@ -621,20 +635,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-28"
-      },
-      {
-        "id": "recnHZoM7HSYOi7ph",
-        "title": "TNF-α deficiency underlies NK cell dysfunction in colorectal cancer.",
-        "summary": "Low TNF-α levels in colorectal cancer patients impair natural killer cell function, suppressing the immune response against tumors.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41742461/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-28"
       }
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7998,
+    "archive_count": 7999,
     "archive_supplements": 924,
     "archive_off_label": 340,
-    "archive_biomarkers": 4650,
+    "archive_biomarkers": 4651,
     "archive_trials": 1787
   }
 }
