@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-01T07:08:52.423Z",
+  "last_updated": "2026-03-01T07:09:03.342Z",
   "categories": {
     "supplements": [
       {
@@ -286,6 +286,20 @@
         "added_date": "2026-03-01"
       },
       {
+        "id": "rec9as3CuiIFEWjfH",
+        "title": "Effect of linezolid combined with N-acetylcysteine on lung function, blood gas and inflammation in patients with severe pneumonia.",
+        "summary": "Combining linezolid with N-acetylcysteine improved lung function and reduced inflammation in severe pneumonia patients better than antibiotics alone.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41620910/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-01"
+      },
+      {
         "id": "recBUFY5I8mmddlxj",
         "title": "LKB1-AMPK Signaling Pathway in Cardiovascular and Other Diseases.",
         "summary": "The LKB1-AMPK pathway regulates cellular energy and is dysregulated in cardiovascular disease, cancer, diabetes, and neurodegeneration, offering therapeutic targets.",
@@ -410,20 +424,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-28"
-      },
-      {
-        "id": "rec7PaJpwMQdm1jWk",
-        "title": "Targeting de novo pyrimidine synthesis confers vulnerability to copper-mediated ATR inactivation in PARP inhibitor-resistant ovarian cancer.",
-        "summary": "Blocking pyrimidine synthesis combined with copper and PARP inhibitors overcomes drug resistance in ovarian cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41735312/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Ovarian"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-28"
       }
@@ -860,8 +860,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8211,
-    "archive_supplements": 950,
+    "archive_count": 8212,
+    "archive_supplements": 951,
     "archive_off_label": 343,
     "archive_biomarkers": 4798,
     "archive_trials": 1823
