@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-01T05:23:32.351Z",
+  "last_updated": "2026-03-01T05:23:42.970Z",
   "categories": {
     "supplements": [
       {
@@ -258,6 +258,20 @@
         "added_date": "2026-03-01"
       },
       {
+        "id": "reckDDwkQInovaax7",
+        "title": "IGSF9 promotes immunotherapy resistance in colon cancer by orchestrating an immunosuppressive tumor microenvironment and enables combinatorial targeting strategies.",
+        "summary": "IGSF9 promotes immunotherapy resistance in colon cancer; combining MAPK inhibitor Doramapimod with anti-PD-1 therapy overcomes this resistance.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41717080/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-01"
+      },
+      {
         "id": "recBUFY5I8mmddlxj",
         "title": "LKB1-AMPK Signaling Pathway in Cardiovascular and Other Diseases.",
         "summary": "The LKB1-AMPK pathway regulates cellular energy and is dysregulated in cardiovascular disease, cancer, diabetes, and neurodegeneration, offering therapeutic targets.",
@@ -410,20 +424,6 @@
           "General"
         ],
         "quality_score": 10,
-        "pub_date": "2026-02-27",
-        "added_date": "2026-02-28"
-      },
-      {
-        "id": "rec8UM2YAnRjiFn7u",
-        "title": "A Phase I Trial of Azacitidine and Abatacept in Relapsed or Refractory T-Cell Lymphoma",
-        "summary": "Researchers test whether combining azacitidine and abatacept drugs can shrink tumors in people with relapsed or refractory T-cell lymphoma.",
-        "url": "https://clinicaltrials.gov/study/NCT07388563",
-        "source": "ClinicalTrials.gov",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Lymphoma"
-        ],
-        "quality_score": 13,
         "pub_date": "2026-02-27",
         "added_date": "2026-02-28"
       }
@@ -860,10 +860,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8102,
+    "archive_count": 8103,
     "archive_supplements": 930,
     "archive_off_label": 342,
-    "archive_biomarkers": 4729,
+    "archive_biomarkers": 4730,
     "archive_trials": 1804
   }
 }
