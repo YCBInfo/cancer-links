@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-01T05:10:59.354Z",
+  "last_updated": "2026-03-01T05:11:09.602Z",
   "categories": {
     "supplements": [
       {
@@ -42,6 +42,20 @@
           "Lung"
         ],
         "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-01"
+      },
+      {
+        "id": "rec2E855UJ7pu4kaG",
+        "title": "Cardioprotective and anti-inflammatory properties of blood flow restriction training in older or high-risk cardiovascular disease population: systematic review and meta-analysis.",
+        "summary": "Blood flow restriction training combined with aerobic exercise safely improves heart health and reduces inflammation in elderly and high-risk cardiovascular patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41757628/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 22,
         "pub_date": "2026-02-01",
         "added_date": "2026-03-01"
       },
@@ -196,20 +210,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-28"
-      },
-      {
-        "id": "reciRhdEdWk4tp0UP",
-        "title": "Curcumin for the Treatment of Inflammatory Bowel Disease: From Mechanism to Clinic.",
-        "summary": "Curcumin, a natural compound, shows promise in treating inflammatory bowel disease by reducing inflammation and improving patient symptoms.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41757464/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-28"
       }
@@ -860,10 +860,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8033,
+    "archive_count": 8034,
     "archive_supplements": 927,
     "archive_off_label": 340,
-    "archive_biomarkers": 4676,
+    "archive_biomarkers": 4677,
     "archive_trials": 1793
   }
 }
