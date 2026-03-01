@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-01T07:24:35.637Z",
+  "last_updated": "2026-03-01T07:24:45.542Z",
   "categories": {
     "supplements": [
       {
@@ -356,6 +356,20 @@
         "added_date": "2026-03-01"
       },
       {
+        "id": "recAVTGvq8bsxsoap",
+        "title": "Artemisinin sensitizes triple negative breast cancer to immune checkpoint therapy through suppressing KEAP1-mediated PD-L1 degradation.",
+        "summary": "Artemisinin boosts triple-negative breast cancer's immune checkpoint therapy response by increasing PD-L1 protein levels on tumor cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41506550/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-03-01"
+      },
+      {
         "id": "recBUFY5I8mmddlxj",
         "title": "LKB1-AMPK Signaling Pathway in Cardiovascular and Other Diseases.",
         "summary": "The LKB1-AMPK pathway regulates cellular energy and is dysregulated in cardiovascular disease, cancer, diabetes, and neurodegeneration, offering therapeutic targets.",
@@ -407,21 +421,6 @@
         "cancer_types": [
           "Colorectal",
           "Kidney"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-02-28"
-      },
-      {
-        "id": "recuFAselkEaNHFSi",
-        "title": "SRC at the crossroads of KRAS inhibitor resistance: Mechanisms and therapeutic opportunities.",
-        "summary": "SRC protein drives resistance to KRAS inhibitors in lung, colon, and pancreatic cancers; targeting SRC could restore drug effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41338446/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung",
-          "Colorectal"
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
@@ -860,10 +859,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8298,
+    "archive_count": 8299,
     "archive_supplements": 994,
     "archive_off_label": 346,
-    "archive_biomarkers": 4831,
+    "archive_biomarkers": 4832,
     "archive_trials": 1830
   }
 }
