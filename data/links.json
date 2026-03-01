@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-01T05:03:41.094Z",
+  "last_updated": "2026-03-01T05:03:52.151Z",
   "categories": {
     "supplements": [
       {
@@ -527,6 +527,20 @@
         "added_date": "2026-03-01"
       },
       {
+        "id": "recEm04QojOL3GyW6",
+        "title": "Anti-CD146 Autoantibodies: The First Biologic Markers Associated With Occupational Exposure in Systemic Sclerosis.",
+        "summary": "Researchers identified anti-CD146 antibodies as a biological marker linking occupational exposure to systemic sclerosis development.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41760363/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-01"
+      },
+      {
         "id": "reclMg1dUKWVH1zLv",
         "title": "Exploring the gut microbiome and metabolomic interactions of antimetabolite drugs to optimize therapy.",
         "summary": "Gut bacteria influence how antimetabolite cancer drugs work and cause side effects; understanding these interactions could improve treatment outcomes.",
@@ -615,20 +629,6 @@
         "title": "Opportunities and challenges for cancer immunotherapy based on antigen cross-presentation.",
         "summary": "Tumors evade immune attacks by blocking two pathways: reducing antigen presentation and suppressing dendritic cells through immunosuppressive factors.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41758201/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-28"
-      },
-      {
-        "id": "recPHngo04EzwqVfL",
-        "title": "From spectroscopic analysis to clinical imaging: emerging applications and persistent challenges of raman spectroscopy in CTCs-based liquid biopsies.",
-        "summary": "Raman spectroscopy enables non-invasive detection and analysis of circulating tumor cells in blood for improved cancer diagnosis and monitoring.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41746879/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7992,
+    "archive_count": 7993,
     "archive_supplements": 924,
     "archive_off_label": 339,
-    "archive_biomarkers": 4647,
+    "archive_biomarkers": 4648,
     "archive_trials": 1785
   }
 }
