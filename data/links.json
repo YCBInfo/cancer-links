@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-01T05:16:56.820Z",
+  "last_updated": "2026-03-01T05:17:09.314Z",
   "categories": {
     "supplements": [
       {
@@ -56,6 +56,20 @@
           "General"
         ],
         "quality_score": 22,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-01"
+      },
+      {
+        "id": "recUdmdBOae5o5hp5",
+        "title": "Melittin Acts as a Radiosensitizer for Non-Small Cell Lung Cancer by Inhibiting the DNA Damage Repair System and Inducing Apoptosis.",
+        "summary": "Melittin from bee venom makes lung cancer cells more vulnerable to radiation therapy by blocking their DNA repair abilities.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41734980/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-03-01"
       },
@@ -190,20 +204,6 @@
         "title": "Farnesol Targets the GSTP1/MAPK Axis to Inhibit Trauma-Induced Tendon Heterotopic Ossification.",
         "summary": "Farnesol, a natural compound, prevents abnormal bone formation in injured tendons by blocking the GSTP1/MAPK signaling pathway.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41749439/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-28"
-      },
-      {
-        "id": "recEFk3rb2U4aQidP",
-        "title": "Serum vitamin D and lean non-alcoholic fatty liver disease: a nonlinear 'L-shaped' association in a national cross-sectional study.",
-        "summary": "Low vitamin D levels show a strong link to lean non-alcoholic fatty liver disease in a national study.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41758197/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -860,10 +860,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8065,
+    "archive_count": 8066,
     "archive_supplements": 928,
     "archive_off_label": 341,
-    "archive_biomarkers": 4704,
+    "archive_biomarkers": 4705,
     "archive_trials": 1795
   }
 }
