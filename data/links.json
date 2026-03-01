@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-01T05:23:11.095Z",
+  "last_updated": "2026-03-01T05:23:21.771Z",
   "categories": {
     "supplements": [
       {
@@ -78,6 +78,20 @@
         "title": "Arachidonic Acid and Lipoxin A4 Protect Pancreatic β-Cells and Improve Hyperglycemia Induced by Bleomycin.",
         "summary": "Arachidonic acid and lipoxin A4 protect pancreatic cells from bleomycin damage and reverse bleomycin-induced high blood sugar.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41725241/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-01"
+      },
+      {
+        "id": "recbSYiLBMXXcGd9W",
+        "title": "Nephroprotective Potential of Tectorigenin Against Thiamethoxam Instigated Renal Toxicity Via Regulating HMGB1/RAGE, TLR4/MyD88, and NF-κB Pathway in Sprague Dawley Rats: An In-Vivo and In-Silico Investigation.",
+        "summary": "Tectorigenin protects rat kidneys from insecticide damage by reducing inflammation, oxidative stress, and cell death.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41717770/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -190,20 +204,6 @@
         "title": "Evaluation of the mechanism underlying melatonin action in cholestatic liver disease treatment via network pharmacology, molecular docking, and in vivo experiments.",
         "summary": "Melatonin reduces inflammation and fibrosis in cholestatic liver disease by modulating MMP9 and EGFR/AKT signaling pathways.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41758906/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-28"
-      },
-      {
-        "id": "recmbQK4dofADUq4c",
-        "title": "Skeletal Diversity of Diterpenoids Isolated from the Soft Coral Sclerophytum heterospiculatum in Kikai Island.",
-        "summary": "Researchers isolated five new compounds from soft coral that showed cytotoxic activity against human cancer cell lines.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41587931/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -860,10 +860,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8100,
+    "archive_count": 8101,
     "archive_supplements": 930,
     "archive_off_label": 342,
-    "archive_biomarkers": 4727,
+    "archive_biomarkers": 4728,
     "archive_trials": 1804
   }
 }
