@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-01T05:02:58.603Z",
+  "last_updated": "2026-03-01T05:03:09.021Z",
   "categories": {
     "supplements": [
       {
@@ -669,6 +669,20 @@
         "added_date": "2026-03-01"
       },
       {
+        "id": "recaqYTXRKG76pts6",
+        "title": "An X-ray and γ-ray combination strategy to exploit steep dose gradients for improved prostate cancer radiotherapy: A dosimetric comparison of Taichi Pro and Halcyon.",
+        "summary": "A new machine combining X-rays and gamma rays creates sharper radiation doses, potentially improving prostate cancer treatment effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41761597/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-01"
+      },
+      {
         "id": "reclMg1dUKWVH1zLv",
         "title": "Exploring the gut microbiome and metabolomic interactions of antimetabolite drugs to optimize therapy.",
         "summary": "Gut bacteria influence how antimetabolite cancer drugs work and cause side effects; understanding these interactions could improve treatment outcomes.",
@@ -835,20 +849,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-28"
-      },
-      {
-        "id": "recDSyQpUIuZKMaJR",
-        "title": "SPP1+ Macrophage-POSTN+ Fibroblast-Endothelial Triad Dictates Immunotherapy Response in Bladder Cancer.",
-        "summary": "A cellular structure of immune cells, fibroblasts, and blood vessels drives immunotherapy resistance in bladder cancer; blocking SPP1 restores treatment response.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41653034/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Bladder"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-28"
       }
     ]
   },
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7988,
+    "archive_count": 7989,
     "archive_supplements": 924,
     "archive_off_label": 339,
-    "archive_biomarkers": 4644,
+    "archive_biomarkers": 4645,
     "archive_trials": 1784
   }
 }
