@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-01T05:04:56.027Z",
+  "last_updated": "2026-03-01T05:05:07.058Z",
   "categories": {
     "supplements": [
       {
@@ -13,6 +13,21 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-01"
+      },
+      {
+        "id": "recWbf249cPRs5kaj",
+        "title": "Methionine Restriction Alone Induces T-cell-mediated Immunotherapy of Osteosarcoma in a Syngeneic Mouse Model.",
+        "summary": "Restricting methionine alone effectively triggers the immune system to fight osteosarcoma in mice without additional treatments.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41760305/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal",
+          "Melanoma"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-03-01"
       },
@@ -195,20 +210,6 @@
           "Brain"
         ],
         "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-28"
-      },
-      {
-        "id": "reciHGauhJnxgOjvP",
-        "title": "Circulating Myokine Responses to Acute Endurance Exercise and Their Role in Immunoregulation: A Systematic Review and Meta-Analysis.",
-        "summary": "Endurance exercise increases protective immune molecules (myokines) in the blood, offering potential therapeutic benefits across various diseases.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41661185/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 22,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-28"
       }
@@ -611,24 +612,25 @@
         "added_date": "2026-03-01"
       },
       {
+        "id": "recWbf249cPRs5kaj",
+        "title": "Methionine Restriction Alone Induces T-cell-mediated Immunotherapy of Osteosarcoma in a Syngeneic Mouse Model.",
+        "summary": "Restricting methionine alone effectively triggers the immune system to fight osteosarcoma in mice without additional treatments.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41760305/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal",
+          "Melanoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-01"
+      },
+      {
         "id": "reclMg1dUKWVH1zLv",
         "title": "Exploring the gut microbiome and metabolomic interactions of antimetabolite drugs to optimize therapy.",
         "summary": "Gut bacteria influence how antimetabolite cancer drugs work and cause side effects; understanding these interactions could improve treatment outcomes.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41758194/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-28"
-      },
-      {
-        "id": "rec0is7tfp3Zqu5yN",
-        "title": "Multidimensional immune profiling uncovers biphasic peripheral T-cell dynamics after chemoradiation in patients with locally advanced head and neck cancer.",
-        "summary": "Head and neck cancer patients show suppressed immune responses one month after chemotherapy, but robust tumor-fighting T-cells emerge by three months.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41749511/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -858,10 +860,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 7999,
+    "archive_count": 8000,
     "archive_supplements": 924,
     "archive_off_label": 340,
-    "archive_biomarkers": 4651,
+    "archive_biomarkers": 4652,
     "archive_trials": 1787
   }
 }
