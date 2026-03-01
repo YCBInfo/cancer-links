@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-01T05:20:41.703Z",
+  "last_updated": "2026-03-01T05:20:52.461Z",
   "categories": {
     "supplements": [
       {
@@ -70,6 +70,20 @@
           "Lung"
         ],
         "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-01"
+      },
+      {
+        "id": "recVIDmhax3k3fUrs",
+        "title": "Arachidonic Acid and Lipoxin A4 Protect Pancreatic β-Cells and Improve Hyperglycemia Induced by Bleomycin.",
+        "summary": "Arachidonic acid and lipoxin A4 protect pancreatic cells from bleomycin damage and reverse bleomycin-induced high blood sugar.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41725241/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-03-01"
       },
@@ -190,20 +204,6 @@
         "title": "Skeletal Diversity of Diterpenoids Isolated from the Soft Coral Sclerophytum heterospiculatum in Kikai Island.",
         "summary": "Researchers isolated five new compounds from soft coral that showed cytotoxic activity against human cancer cell lines.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41587931/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-28"
-      },
-      {
-        "id": "recbKqq0JGTedRc7r",
-        "title": "Farnesol Targets the GSTP1/MAPK Axis to Inhibit Trauma-Induced Tendon Heterotopic Ossification.",
-        "summary": "Farnesol, a natural compound, prevents abnormal bone formation in injured tendons by blocking the GSTP1/MAPK signaling pathway.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41749439/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -860,10 +860,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8086,
+    "archive_count": 8087,
     "archive_supplements": 929,
     "archive_off_label": 342,
-    "archive_biomarkers": 4719,
+    "archive_biomarkers": 4720,
     "archive_trials": 1799
   }
 }
