@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-01T07:16:26.269Z",
+  "last_updated": "2026-03-01T07:16:35.858Z",
   "categories": {
     "supplements": [
       {
@@ -314,6 +314,20 @@
         "added_date": "2026-03-01"
       },
       {
+        "id": "reciEeOWUwD0dlyzh",
+        "title": "Glucocorticoid signaling mitigates colitis-associated visceral hypersensitivity by suppressing 5-HT release in enterochromaffin cells via a GR-PI3K-SGK1 axis.",
+        "summary": "Glucocorticoids reduce gut pain sensitivity in colitis by lowering serotonin production in intestinal cells through a specific signaling pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41554225/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-03-01"
+      },
+      {
         "id": "recBUFY5I8mmddlxj",
         "title": "LKB1-AMPK Signaling Pathway in Cardiovascular and Other Diseases.",
         "summary": "The LKB1-AMPK pathway regulates cellular energy and is dysregulated in cardiovascular disease, cancer, diabetes, and neurodegeneration, offering therapeutic targets.",
@@ -410,20 +424,6 @@
           "Stomach"
         ],
         "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-02-28"
-      },
-      {
-        "id": "rectZ1stjmUzlYc43",
-        "title": "Machine Learning-Informed Nano Co-Assembly Inhibits Fibroblast Activation Protein and Improves Drug Delivery in Fibrotic Tissue.",
-        "summary": "Researchers used machine learning to develop nanoparticles that better deliver drugs through fibrotic tissue barriers, improving treatment for fibrosis-related diseases.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41757658/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-02-28"
       }
@@ -860,10 +860,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8253,
+    "archive_count": 8254,
     "archive_supplements": 974,
     "archive_off_label": 344,
-    "archive_biomarkers": 4811,
+    "archive_biomarkers": 4812,
     "archive_trials": 1827
   }
 }
