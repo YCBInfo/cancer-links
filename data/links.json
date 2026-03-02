@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-01T11:02:00.130Z",
+  "last_updated": "2026-03-02T05:02:50.848Z",
   "categories": {
     "supplements": [
       {
@@ -428,6 +428,48 @@
     ],
     "biomarkers": [
       {
+        "id": "recawVcA6phwRvtni",
+        "title": "Impact of offering blood-based testing alongside existing modalities for colorectal cancer screening among those who previously declined screening: an economic evaluation.",
+        "summary": "Blood-based colorectal cancer screening helps previously reluctant patients get tested, offering a cost-effective alternative to traditional screening methods.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41764032/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 24,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-02"
+      },
+      {
+        "id": "recho9yzITfs8yte9",
+        "title": "Single-cell and spatial profiling highlights TB-induced myofibroblasts as drivers of lung pathology.",
+        "summary": "TB-infected lungs contain myofibroblasts that drive lung damage and fibrosis, offering new targets for tuberculosis treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41489684/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 10,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-03-02"
+      },
+      {
+        "id": "recyS7DYGeaORMzYs",
+        "title": "Atypical E-cadherin attachments mediate melanoblast migration through confined epithelial spaces.",
+        "summary": "Melanoma precursor cells migrate through skin using modified cell adhesion proteins that allow movement without disrupting the skin barrier.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41474628/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 10,
+        "pub_date": "2025-12-01",
+        "added_date": "2026-03-02"
+      },
+      {
         "id": "recyzvGj35I7tRy0D",
         "title": "Mass Cytometry Workflow to Achieve High-Dimensional Immunophenotyping in Resource-Limited or Decentralized Environments.",
         "summary": "New workflow enables advanced immune testing for lung cancer patients in remote and resource-limited communities without specialized equipment.",
@@ -594,52 +636,37 @@
         "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-03-01"
-      },
+      }
+    ],
+    "trials": [
       {
-        "id": "rec5PN85AATtmoYVh",
-        "title": "Chondromyxoid Fibroma: An Updated Review.",
-        "summary": "Chondromyxoid fibroma is a rare benign bone tumor in young adults; GRM1 gene alterations help diagnose it, with surgery as primary treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41760307/",
+        "id": "recawVcA6phwRvtni",
+        "title": "Impact of offering blood-based testing alongside existing modalities for colorectal cancer screening among those who previously declined screening: an economic evaluation.",
+        "summary": "Blood-based colorectal cancer screening helps previously reluctant patients get tested, offering a cost-effective alternative to traditional screening methods.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41764032/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 24,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-02"
+      },
+      {
+        "id": "rec9akHUhSq79iey4",
+        "title": "Risk of SARS-CoV-2 among Ontario Healthcare Workers: A comparison of test-negative and cohort study designs in a heterogeneous reason-for-testing population.",
+        "summary": "Healthcare workers' COVID-19 risk estimates vary significantly depending on whether testing reasons are properly adjusted for in research studies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41758975/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
         "cancer_types": [
           "General"
         ],
         "quality_score": 12,
         "pub_date": "2026-02-01",
-        "added_date": "2026-03-01"
+        "added_date": "2026-03-02"
       },
-      {
-        "id": "recWbf249cPRs5kaj",
-        "title": "Methionine Restriction Alone Induces T-cell-mediated Immunotherapy of Osteosarcoma in a Syngeneic Mouse Model.",
-        "summary": "Restricting methionine alone effectively triggers the immune system to fight osteosarcoma in mice without additional treatments.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41760305/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal",
-          "Melanoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-01"
-      },
-      {
-        "id": "recaullaSRrARgVfJ",
-        "title": "The Prognostic Role of Baseline and Early Dynamics of Peripheral Blood Cell Ratios in Metastatic Renal Cell Carcinoma Patients Treated With Nivolumab.",
-        "summary": "Blood cell ratios at treatment start predict survival outcomes in advanced kidney cancer patients receiving nivolumab immunotherapy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41760301/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Kidney"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-01"
-      }
-    ],
-    "trials": [
       {
         "id": "recsRtTOoAfnff8Uv",
         "title": "Study on the Promotion of Mitochondrial Pathway Apoptosis and Muscle Tenderization in Postmortem Tibetan Sheep Meat by Cold Atmospheric Plasma Treatment.",
@@ -821,34 +848,6 @@
         "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-03-01"
-      },
-      {
-        "id": "recqsoPJWBnGP0e7Z",
-        "title": "Concurrent Pemetrexed With EGFR-TKI Slows the Accumulation of De Novo Mutations During In Vitro Exposure.",
-        "summary": "Combining pemetrexed with EGFR inhibitors slows the development of drug-resistant mutations in lung cancer cells exposed to targeted therapy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41760274/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-01"
-      },
-      {
-        "id": "recjoywMZtL8ZuiMB",
-        "title": "Effectiveness of Pembrolizumab Monotherapy for Older Adults With Head and Neck Carcinoma by CPS Status.",
-        "summary": "Pembrolizumab alone works effectively for older adults with head and neck cancer, even without chemotherapy addition.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41760268/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-01"
       }
     ]
   },
@@ -858,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8424,
+    "archive_count": 8425,
     "archive_supplements": 1007,
     "archive_off_label": 364,
-    "archive_biomarkers": 4888,
+    "archive_biomarkers": 4889,
     "archive_trials": 1868
   }
 }
