@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-03-02T05:04:23.707Z",
+  "last_updated": "2026-03-02T05:04:33.954Z",
   "categories": {
     "supplements": [
+      {
+        "id": "recmIJwJfPx8KGNlr",
+        "title": "A novel Chinese medicine formula against hyperuricemia-induced kidney inflammation involving pyroptosis inhibition via modulating AMPK-TLR4-NLRP3 pathway.",
+        "summary": "A Chinese medicine formula reduces kidney inflammation caused by high uric acid by blocking a specific inflammatory pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41764514/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-02"
+      },
       {
         "id": "recevOPzO42YchD4b",
         "title": "Physalin A Suppresses Human Oral Squamous Carcinoma Cell Migration and Invasion Through Inhibiting Grb2/Ras and MMP/uPA Signaling Pathways.",
@@ -196,20 +210,6 @@
           "Brain"
         ],
         "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-01"
-      },
-      {
-        "id": "recix7GcTmEtHmONi",
-        "title": "Molecular Mechanisms Underlying the Anti-Cancer Effects of Tangeretin, a Phytochemical from Citrus Extracts.",
-        "summary": "Tangeretin, a compound from citrus fruits, shows promise fighting cancer by triggering cell death and reducing cancer stem cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41755771/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-03-01"
       }
@@ -582,6 +582,20 @@
         "added_date": "2026-03-02"
       },
       {
+        "id": "recmIJwJfPx8KGNlr",
+        "title": "A novel Chinese medicine formula against hyperuricemia-induced kidney inflammation involving pyroptosis inhibition via modulating AMPK-TLR4-NLRP3 pathway.",
+        "summary": "A Chinese medicine formula reduces kidney inflammation caused by high uric acid by blocking a specific inflammatory pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41764514/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-02"
+      },
+      {
         "id": "recyzvGj35I7tRy0D",
         "title": "Mass Cytometry Workflow to Achieve High-Dimensional Immunophenotyping in Resource-Limited or Decentralized Environments.",
         "summary": "New workflow enables advanced immune testing for lung cancer patients in remote and resource-limited communities without specialized equipment.",
@@ -620,20 +634,6 @@
           "Lung"
         ],
         "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-01"
-      },
-      {
-        "id": "recKbsth9vjVlFA1e",
-        "title": "Biomarker-directed aptamer panels for diagnosis and differentiation of neuroendocrine tumors.",
-        "summary": "RNA aptamer panels successfully identified neuroendocrine tumors and distinguished intestinal from pancreatic types using blood biomarkers.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41761637/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-03-01"
       }
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8433,
+    "archive_count": 8434,
     "archive_supplements": 1007,
     "archive_off_label": 364,
-    "archive_biomarkers": 4896,
+    "archive_biomarkers": 4897,
     "archive_trials": 1869
   }
 }
