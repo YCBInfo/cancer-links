@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-02T07:02:10.872Z",
+  "last_updated": "2026-03-02T07:02:21.114Z",
   "categories": {
     "supplements": [
       {
@@ -13,6 +13,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-02"
+      },
+      {
+        "id": "recmOftVgnEraLpuf",
+        "title": "Impact of vitamin D supplementation on all-cause mortality: Randomized trials revisited.",
+        "summary": "Large studies found vitamin D supplements don't reduce death rates in people with adequate vitamin D levels.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41719624/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 21,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-02"
       },
@@ -196,20 +210,6 @@
           "General"
         ],
         "quality_score": 21,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-01"
-      },
-      {
-        "id": "recx7Xt8sV8gubkXW",
-        "title": "Overall Survival of Glioblastoma Patients Treated With a Combination of 7 Micronutrients: A Nutraceutical Trial.",
-        "summary": "A combination of seven micronutrients improved overall survival in glioblastoma patients in this nutraceutical treatment trial.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41760279/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Brain"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-03-01"
       }
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8450,
+    "archive_count": 8451,
     "archive_supplements": 1008,
     "archive_off_label": 365,
-    "archive_biomarkers": 4909,
+    "archive_biomarkers": 4910,
     "archive_trials": 1871
   }
 }
