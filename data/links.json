@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-02T05:03:51.029Z",
+  "last_updated": "2026-03-02T05:04:02.657Z",
   "categories": {
     "supplements": [
       {
@@ -540,6 +540,20 @@
         "added_date": "2026-03-02"
       },
       {
+        "id": "rec9yF1b9RCiesPik",
+        "title": "Three novel concomitant NTRK2 fusions in medullary thyroid carcinoma with diagnostic implications.",
+        "summary": "Researchers discovered three rare, novel NTRK2 gene fusions in a medullary thyroid cancer patient, potentially enabling targeted drug treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41764689/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Thyroid"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-02"
+      },
+      {
         "id": "recyzvGj35I7tRy0D",
         "title": "Mass Cytometry Workflow to Achieve High-Dimensional Immunophenotyping in Resource-Limited or Decentralized Environments.",
         "summary": "New workflow enables advanced immune testing for lung cancer patients in remote and resource-limited communities without specialized equipment.",
@@ -622,20 +636,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-03-01"
-      },
-      {
-        "id": "reclm1dqXlU654NaP",
-        "title": "Dysregulated Peroxiredoxins in Bladder Cancer Are Associated With an Altered Tumour Immune Microenvironment.",
-        "summary": "High PRDX1 and PRDX6 levels predict poor outcomes in bladder cancer and could help guide immunotherapy treatment strategies.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41761027/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Bladder"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-01"
       }
     ],
     "trials": [
@@ -665,6 +665,20 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-02-01",
+        "added_date": "2026-03-02"
+      },
+      {
+        "id": "receoztL6UaSlxFAK",
+        "title": "Study protocol for a phase I investigator-initiated clinical trial of E7820 in Japanese patients with unresectable solid tumours: CIRCUS trial (NCCH2303).",
+        "summary": "E7820, a cancer drug, is being tested in Japanese patients with solid tumors after researchers discovered it works through a new mechanism affecting protein splicing.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41764635/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
         "added_date": "2026-03-02"
       },
       {
@@ -834,20 +848,6 @@
         "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-03-01"
-      },
-      {
-        "id": "recSZvLJolLyAvtsw",
-        "title": "Immature Peritumoral Tertiary Lymphoid Structures Indicate Poor Prognosis in Pancreatic Ductal Adenocarcinoma After NAC.",
-        "summary": "Immature immune structures near pancreatic cancer tumors predict worse outcomes for patients receiving chemotherapy before surgery.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41760276/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-01"
       }
     ]
   },
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8430,
+    "archive_count": 8431,
     "archive_supplements": 1007,
     "archive_off_label": 364,
-    "archive_biomarkers": 4893,
+    "archive_biomarkers": 4894,
     "archive_trials": 1869
   }
 }
