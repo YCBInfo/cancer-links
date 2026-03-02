@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-02T10:03:12.625Z",
+  "last_updated": "2026-03-02T10:04:08.331Z",
   "categories": {
     "supplements": [
       {
@@ -258,6 +258,20 @@
         "added_date": "2026-03-02"
       },
       {
+        "id": "recoCqyW7Zqa76XUR",
+        "title": "Metformin is associated with the suppression of the TNF-α/iNOS/TIMP-1 axis-mediated liver injury and fibrosis secondary to diabetes.",
+        "summary": "Metformin protects against diabetes-induced liver injury and fibrosis by reducing inflammatory markers and nitrosative stress in rats.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41764858/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-02"
+      },
+      {
         "id": "recYT4uY1GMUhFJr9",
         "title": "Oral Administration of Itraconazole Induces M1 Polarization of Tumor-associated Macrophages in Gynecological Cancer.",
         "summary": "Oral antifungal drug itraconazole shifts immune cells in gynecological cancers toward anti-tumor activity.",
@@ -409,20 +423,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-01-01",
-        "added_date": "2026-03-01"
-      },
-      {
-        "id": "recjZtAFtFwz9xaGz",
-        "title": "Impact of Proton Pump Inhibitor Use on the Efficacy of IO-IO Versus IO-TKI Therapy in Metastatic Renal Cell Carcinoma.",
-        "summary": "Proton pump inhibitors may reduce the effectiveness of immune-based treatments for metastatic kidney cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41619561/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Kidney"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
         "added_date": "2026-03-01"
       }
     ],
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8462,
+    "archive_count": 8463,
     "archive_supplements": 1011,
     "archive_off_label": 366,
-    "archive_biomarkers": 4913,
+    "archive_biomarkers": 4914,
     "archive_trials": 1875
   }
 }
