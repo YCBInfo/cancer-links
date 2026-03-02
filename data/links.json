@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-02T05:03:40.144Z",
+  "last_updated": "2026-03-02T05:03:51.029Z",
   "categories": {
     "supplements": [
       {
@@ -216,6 +216,20 @@
     ],
     "off_label": [
       {
+        "id": "rechAnCzOGltt41Zz",
+        "title": "PLOD2 Promotes Cutaneous Squamous Cell Carcinoma Progression in Association With STAT3-Related ERK and AKT Pathways.",
+        "summary": "PLOD2 protein drives skin cancer growth through STAT3 signaling, and blocking it with minoxidil slows tumor development.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41764770/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Melanoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-02"
+      },
+      {
         "id": "recYT4uY1GMUhFJr9",
         "title": "Oral Administration of Itraconazole Induces M1 Polarization of Tumor-associated Macrophages in Gynecological Cancer.",
         "summary": "Oral antifungal drug itraconazole shifts immune cells in gynecological cancers toward anti-tumor activity.",
@@ -410,20 +424,6 @@
         "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-03-01"
-      },
-      {
-        "id": "rec1luyixEyZGfbyz",
-        "title": "Indomethacin alleviates acute pancreatitis by restoring autophagic flux via the AMPK signaling pathway.",
-        "summary": "Indomethacin reduces acute pancreatitis damage by activating autophagy through the AMPK signaling pathway.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41605026/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-01"
       }
     ],
     "biomarkers": [
@@ -526,6 +526,20 @@
         "added_date": "2026-03-02"
       },
       {
+        "id": "rechAnCzOGltt41Zz",
+        "title": "PLOD2 Promotes Cutaneous Squamous Cell Carcinoma Progression in Association With STAT3-Related ERK and AKT Pathways.",
+        "summary": "PLOD2 protein drives skin cancer growth through STAT3 signaling, and blocking it with minoxidil slows tumor development.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41764770/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Melanoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-02"
+      },
+      {
         "id": "recyzvGj35I7tRy0D",
         "title": "Mass Cytometry Workflow to Achieve High-Dimensional Immunophenotyping in Resource-Limited or Decentralized Environments.",
         "summary": "New workflow enables advanced immune testing for lung cancer patients in remote and resource-limited communities without specialized equipment.",
@@ -620,20 +634,6 @@
           "Bladder"
         ],
         "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-01"
-      },
-      {
-        "id": "recEm04QojOL3GyW6",
-        "title": "Anti-CD146 Autoantibodies: The First Biologic Markers Associated With Occupational Exposure in Systemic Sclerosis.",
-        "summary": "Researchers identified anti-CD146 antibodies as a biological marker linking occupational exposure to systemic sclerosis development.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41760363/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-03-01"
       }
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8429,
+    "archive_count": 8430,
     "archive_supplements": 1007,
     "archive_off_label": 364,
-    "archive_biomarkers": 4892,
+    "archive_biomarkers": 4893,
     "archive_trials": 1869
   }
 }
