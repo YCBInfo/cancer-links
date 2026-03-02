@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-02T05:03:09.376Z",
+  "last_updated": "2026-03-02T05:03:18.703Z",
   "categories": {
     "supplements": [
       {
@@ -484,6 +484,20 @@
         "added_date": "2026-03-02"
       },
       {
+        "id": "recfYz5F403TScmzf",
+        "title": "Mechanometabolism instructs hematopoietic stem cell specification.",
+        "summary": "Blood flow-induced mechanical stress triggers mitochondrial changes that enable precursor cells to become functional blood-forming stem cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41364073/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 10,
+        "pub_date": "2025-12-01",
+        "added_date": "2026-03-02"
+      },
+      {
         "id": "recyzvGj35I7tRy0D",
         "title": "Mass Cytometry Workflow to Achieve High-Dimensional Immunophenotyping in Resource-Limited or Decentralized Environments.",
         "summary": "New workflow enables advanced immune testing for lung cancer patients in remote and resource-limited communities without specialized equipment.",
@@ -618,20 +632,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Prostate"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-01"
-      },
-      {
-        "id": "recIthJ9CkUWWUf1H",
-        "title": "Prognostic Role of Inflammatory Blood Cell Ratios in Glioblastoma Patients: Insights from a Single-institution Study.",
-        "summary": "Blood cell ratios may help predict survival outcomes in glioblastoma patients undergoing standard treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41760315/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Brain"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8426,
+    "archive_count": 8427,
     "archive_supplements": 1007,
     "archive_off_label": 364,
-    "archive_biomarkers": 4889,
+    "archive_biomarkers": 4890,
     "archive_trials": 1869
   }
 }
