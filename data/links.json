@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-02T07:02:31.324Z",
+  "last_updated": "2026-03-02T07:02:52.616Z",
   "categories": {
     "supplements": [
       {
@@ -27,6 +27,20 @@
           "General"
         ],
         "quality_score": 21,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-02"
+      },
+      {
+        "id": "recGG9DYiZWPXSFT5",
+        "title": "Dietary flavonoid intake and psychological well-being - A bidirectional relationship.",
+        "summary": "People who eat more flavonoid-rich foods report greater happiness and optimism, with a reciprocal relationship between diet and psychological well-being.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41610821/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-02"
       },
@@ -196,20 +210,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-01"
-      },
-      {
-        "id": "recDnhnrAPmmTR4dE",
-        "title": "Resveratrol Supplementation and its Potential Benefits in Obesity-related Non-communicable Diseases.",
-        "summary": "Resveratrol from grapes and berries shows promise for obesity-related diseases, but inconsistent trial results and product quality variations leave its true effectiveness unclear.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41760304/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 21,
         "pub_date": "2026-02-01",
         "added_date": "2026-03-01"
       }
@@ -857,8 +857,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8452,
-    "archive_supplements": 1008,
+    "archive_count": 8453,
+    "archive_supplements": 1009,
     "archive_off_label": 365,
     "archive_biomarkers": 4911,
     "archive_trials": 1871
