@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-02T05:03:18.703Z",
+  "last_updated": "2026-03-02T05:03:29.961Z",
   "categories": {
     "supplements": [
       {
@@ -498,6 +498,20 @@
         "added_date": "2026-03-02"
       },
       {
+        "id": "rec6vZIP4cU2wPXDS",
+        "title": "Evaluation of Epidermal Growth Factor Receptor and Its Inducible Feedback Inhibitor Leucine Rich Repeats and Immunoglobulin Like Domains 1 as Prognostic Marker in Oral Cancer.",
+        "summary": "Low LRIG1 levels predict poor survival in oral cancer, offering a potential prognostic biomarker for early detection and treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41764774/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-02"
+      },
+      {
         "id": "recyzvGj35I7tRy0D",
         "title": "Mass Cytometry Workflow to Achieve High-Dimensional Immunophenotyping in Resource-Limited or Decentralized Environments.",
         "summary": "New workflow enables advanced immune testing for lung cancer patients in remote and resource-limited communities without specialized equipment.",
@@ -620,20 +634,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-01"
-      },
-      {
-        "id": "recJnQMW1o0mMFzrF",
-        "title": "Cost-Effectiveness of PSMA PET/CT as Single Procedure for Diagnosis and Staging High-Grade Prostate Cancer: A Single Center Experience.",
-        "summary": "PSMA PET/CT imaging effectively diagnoses and stages high-grade prostate cancer in a single procedure, reducing costs compared to traditional multi-step approaches.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41760330/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Prostate"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-03-01"
       }
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8427,
+    "archive_count": 8428,
     "archive_supplements": 1007,
     "archive_off_label": 364,
-    "archive_biomarkers": 4890,
+    "archive_biomarkers": 4891,
     "archive_trials": 1869
   }
 }
