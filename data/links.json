@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-02T10:02:13.650Z",
+  "last_updated": "2026-03-02T10:02:30.061Z",
   "categories": {
     "supplements": [
       {
@@ -244,6 +244,20 @@
         "added_date": "2026-03-02"
       },
       {
+        "id": "recyM33TYrSFaG7Al",
+        "title": "Isotretinoin-related adverse sexual and reproductive outcomes: a real-world pharmacovigilance study of the FDA Adverse Event Reporting System (FAERS).",
+        "summary": "Isotretinoin, a common acne medication, may cause previously undocumented sexual and reproductive side effects that warrant further investigation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41447583/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-02"
+      },
+      {
         "id": "recYT4uY1GMUhFJr9",
         "title": "Oral Administration of Itraconazole Induces M1 Polarization of Tumor-associated Macrophages in Gynecological Cancer.",
         "summary": "Oral antifungal drug itraconazole shifts immune cells in gynecological cancers toward anti-tumor activity.",
@@ -409,20 +423,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
-        "added_date": "2026-03-01"
-      },
-      {
-        "id": "recYKQZ7xKRDnWevB",
-        "title": "Identifying Drugs Associated With Parkinson's Disease Risk Using Machine Learning.",
-        "summary": "Machine learning identified inhalant anticholinergics, antimalarials, and antibiotics as potentially protective against Parkinson's disease risk.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41611649/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-01-01",
         "added_date": "2026-03-01"
       }
     ],
@@ -836,18 +836,18 @@
         "added_date": "2026-03-02"
       },
       {
-        "id": "recsRtTOoAfnff8Uv",
-        "title": "Study on the Promotion of Mitochondrial Pathway Apoptosis and Muscle Tenderization in Postmortem Tibetan Sheep Meat by Cold Atmospheric Plasma Treatment.",
-        "summary": "Cold atmospheric plasma treatment tenderizes Tibetan sheep meat by damaging mitochondria and triggering cell death pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41762645/",
+        "id": "reco7nCHcjQSMIziF",
+        "title": "Advances in occult cancer screening for patients with unprovoked venous thromboembolism: A narrative review of epidemiology, risk, and clinical strategies.",
+        "summary": "Cancer screening in patients with unexplained blood clots can detect hidden cancers early, potentially improving treatment outcomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41422932/",
         "source": "PubMed",
-        "category": "Clinical Trials",
+        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-01"
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-02"
       }
     ]
   },
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8459,
+    "archive_count": 8460,
     "archive_supplements": 1011,
     "archive_off_label": 365,
     "archive_biomarkers": 4912,
-    "archive_trials": 1874
+    "archive_trials": 1875
   }
 }
