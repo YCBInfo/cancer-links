@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-02T05:04:12.772Z",
+  "last_updated": "2026-03-02T05:04:23.707Z",
   "categories": {
     "supplements": [
       {
@@ -568,6 +568,20 @@
         "added_date": "2026-03-02"
       },
       {
+        "id": "recjfe1LszDjWSGuZ",
+        "title": "From Functional Group and Metabolite Analysis to Rational Design: Discovery of BXY-14 as a Highly Potent TLR2 Agonist with Enhanced Vaccine Adjuvants and Cancer Immunotherapy.",
+        "summary": "Scientists designed BXY-14, a potent immune-boosting drug that enhances cancer vaccines and improves survival when combined with immunotherapy in mouse models.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41764631/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-02"
+      },
+      {
         "id": "recyzvGj35I7tRy0D",
         "title": "Mass Cytometry Workflow to Achieve High-Dimensional Immunophenotyping in Resource-Limited or Decentralized Environments.",
         "summary": "New workflow enables advanced immune testing for lung cancer patients in remote and resource-limited communities without specialized equipment.",
@@ -622,20 +636,6 @@
         "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-03-01"
-      },
-      {
-        "id": "recLKJvA1C5ptjRuD",
-        "title": "A trial of risk-adapted prostate cancer screening in a federally supported health center network serving a high-risk population.",
-        "summary": "A trial tested risk-adapted prostate cancer screening guidelines in clinics serving high-risk Black communities to improve screening practices and outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41761486/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Prostate"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-01"
       }
     ],
     "trials": [
@@ -674,6 +674,20 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41764635/",
         "source": "PubMed",
         "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-02"
+      },
+      {
+        "id": "recjfe1LszDjWSGuZ",
+        "title": "From Functional Group and Metabolite Analysis to Rational Design: Discovery of BXY-14 as a Highly Potent TLR2 Agonist with Enhanced Vaccine Adjuvants and Cancer Immunotherapy.",
+        "summary": "Scientists designed BXY-14, a potent immune-boosting drug that enhances cancer vaccines and improves survival when combined with immunotherapy in mouse models.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41764631/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
@@ -834,20 +848,6 @@
         "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-03-01"
-      },
-      {
-        "id": "rec6KBsdg2dq1pdkr",
-        "title": "Effectiveness of a Physician-Pharmacist Collaborative Protocol for Universal Hepatitis B Virus Screening Prior to Chemotherapy in Cancer Patients.",
-        "summary": "A doctor-pharmacist team protocol successfully prevents hepatitis B reactivation in cancer patients receiving chemotherapy through coordinated screening and management.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41760277/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-01"
       }
     ]
   },
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8432,
+    "archive_count": 8433,
     "archive_supplements": 1007,
     "archive_off_label": 364,
-    "archive_biomarkers": 4895,
+    "archive_biomarkers": 4896,
     "archive_trials": 1869
   }
 }
