@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-02T07:03:31.167Z",
+  "last_updated": "2026-03-02T07:04:30.373Z",
   "categories": {
     "supplements": [
       {
@@ -35,6 +35,20 @@
         "title": "Dietary flavonoid intake and psychological well-being - A bidirectional relationship.",
         "summary": "People who eat more flavonoid-rich foods report greater happiness and optimism, with a reciprocal relationship between diet and psychological well-being.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41610821/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-02"
+      },
+      {
+        "id": "recI9lAQW7aKG79uk",
+        "title": "Extracellular vesicles from microalgae Pavlova in non-heated condition potently enhance innate immune response as a novel cell-derived immunostimulatory adjuvant.",
+        "summary": "Non-heated microalgae Pavlova extracellular vesicles effectively boost innate immune response, offering potential as a safe vaccine adjuvant.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41525821/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -190,20 +204,6 @@
         "title": "Pinus morrisonicola induces cell-cycle arrest in human lung adenocarcinoma by modulating cyclins and cyclin-dependent kinases via p53-dependent signaling pathway.",
         "summary": "Taiwan white pine extract stops lung cancer cell growth by activating p53 and blocking cell division.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41710478/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-01"
-      },
-      {
-        "id": "recoGqiLqKrAzIZQo",
-        "title": "Mangiferin Ameliorates Glutamate-Induced Excitatory Toxicity in SH-SY5Y Cells via Nrf2/HO-1 and Apoptosis Pathway.",
-        "summary": "Mangiferin protects nerve cells from glutamate damage by reducing oxidative stress and preventing cell death through antioxidant pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41704152/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -780,6 +780,20 @@
         "added_date": "2026-03-02"
       },
       {
+        "id": "recowLdVOkExo3UOG",
+        "title": "Recurrence Rate, Complications and Revisions in Long-term Follow-up of Arthroscopic Posterior Bankart Repair Compared to Posterior Bone Block.",
+        "summary": "The literature suggests that both arthroscopic posterior Bankart repair (APB) and posterior bone block (PBB) are effective procedures in the short to medium term, although recurrence and revision r...",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41521474/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-02"
+      },
+      {
         "id": "recsRtTOoAfnff8Uv",
         "title": "Study on the Promotion of Mitochondrial Pathway Apoptosis and Muscle Tenderization in Postmortem Tibetan Sheep Meat by Cold Atmospheric Plasma Treatment.",
         "summary": "Cold atmospheric plasma treatment tenderizes Tibetan sheep meat by damaging mitochondria and triggering cell death pathways.",
@@ -834,20 +848,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-03-01"
-      },
-      {
-        "id": "rectdPEsMdd6u0Ya8",
-        "title": "Dacomitinib as a First-Line Therapy for Advanced EGFR-Mutated Non-Small Cell Lung Cancer Without Brain Metastases: A Multicenter Retrospective Observational Study.",
-        "summary": "Dacomitinib shows promise as an effective first-line treatment for advanced lung cancer patients with specific genetic mutations.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41761381/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-01"
       }
     ]
   },
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8454,
+    "archive_count": 8455,
     "archive_supplements": 1010,
     "archive_off_label": 365,
-    "archive_biomarkers": 4911,
+    "archive_biomarkers": 4912,
     "archive_trials": 1871
   }
 }
