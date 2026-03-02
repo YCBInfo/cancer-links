@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-02T05:04:02.657Z",
+  "last_updated": "2026-03-02T05:04:12.772Z",
   "categories": {
     "supplements": [
       {
@@ -554,6 +554,20 @@
         "added_date": "2026-03-02"
       },
       {
+        "id": "receoztL6UaSlxFAK",
+        "title": "Study protocol for a phase I investigator-initiated clinical trial of E7820 in Japanese patients with unresectable solid tumours: CIRCUS trial (NCCH2303).",
+        "summary": "E7820, a cancer drug, is being tested in Japanese patients with solid tumors after researchers discovered it works through a new mechanism affecting protein splicing.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41764635/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-02"
+      },
+      {
         "id": "recyzvGj35I7tRy0D",
         "title": "Mass Cytometry Workflow to Achieve High-Dimensional Immunophenotyping in Resource-Limited or Decentralized Environments.",
         "summary": "New workflow enables advanced immune testing for lung cancer patients in remote and resource-limited communities without specialized equipment.",
@@ -618,20 +632,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Prostate"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-01"
-      },
-      {
-        "id": "rectdPEsMdd6u0Ya8",
-        "title": "Dacomitinib as a First-Line Therapy for Advanced EGFR-Mutated Non-Small Cell Lung Cancer Without Brain Metastases: A Multicenter Retrospective Observational Study.",
-        "summary": "Dacomitinib shows promise as an effective first-line treatment for advanced lung cancer patients with specific genetic mutations.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41761381/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8431,
+    "archive_count": 8432,
     "archive_supplements": 1007,
     "archive_off_label": 364,
-    "archive_biomarkers": 4894,
+    "archive_biomarkers": 4895,
     "archive_trials": 1869
   }
 }
