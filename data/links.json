@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-02T05:03:29.961Z",
+  "last_updated": "2026-03-02T05:03:40.144Z",
   "categories": {
     "supplements": [
       {
@@ -512,6 +512,20 @@
         "added_date": "2026-03-02"
       },
       {
+        "id": "rectdEa3VER7LEaua",
+        "title": "Whole-Genome Bisulfite Sequencing Identifies Blood-Based DNA Methylation Biomarker for Hepatocellular Carcinoma.",
+        "summary": "Researchers identified a blood-based DNA methylation marker (meTSPYL5) that detects hepatocellular carcinoma with 85% sensitivity and 100% specificity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41764773/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-02"
+      },
+      {
         "id": "recyzvGj35I7tRy0D",
         "title": "Mass Cytometry Workflow to Achieve High-Dimensional Immunophenotyping in Resource-Limited or Decentralized Environments.",
         "summary": "New workflow enables advanced immune testing for lung cancer patients in remote and resource-limited communities without specialized equipment.",
@@ -616,20 +630,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41760363/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-01"
-      },
-      {
-        "id": "recYT4uY1GMUhFJr9",
-        "title": "Oral Administration of Itraconazole Induces M1 Polarization of Tumor-associated Macrophages in Gynecological Cancer.",
-        "summary": "Oral antifungal drug itraconazole shifts immune cells in gynecological cancers toward anti-tumor activity.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41760333/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
         "cancer_types": [
           "General"
         ],
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8428,
+    "archive_count": 8429,
     "archive_supplements": 1007,
     "archive_off_label": 364,
-    "archive_biomarkers": 4891,
+    "archive_biomarkers": 4892,
     "archive_trials": 1869
   }
 }
