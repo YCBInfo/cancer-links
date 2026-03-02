@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-02T05:04:44.783Z",
+  "last_updated": "2026-03-02T05:04:56.446Z",
   "categories": {
     "supplements": [
       {
@@ -610,6 +610,20 @@
         "added_date": "2026-03-02"
       },
       {
+        "id": "recrkwTgCNmrfIDng",
+        "title": "Single-cell transcriptional atlas reveals distinct immune-chondrocyte crosstalk mechanisms in temporomandibular joint osteoarthritis induced by different types of occlusal disorder.",
+        "summary": "Researchers identified immune-chondrocyte signaling mechanisms in temporomandibular joint osteoarthritis, revealing neutrophils as key drivers of cartilage damage in occlusal disorders.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41764220/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-02"
+      },
+      {
         "id": "recyzvGj35I7tRy0D",
         "title": "Mass Cytometry Workflow to Achieve High-Dimensional Immunophenotyping in Resource-Limited or Decentralized Environments.",
         "summary": "New workflow enables advanced immune testing for lung cancer patients in remote and resource-limited communities without specialized equipment.",
@@ -620,20 +634,6 @@
           "Lung"
         ],
         "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-01"
-      },
-      {
-        "id": "recGDbZpnB7KZACRq",
-        "title": "Successful Management of Suspected Epstein-Barr Virus-Associated Hemophagocytic Lymphohistiocytosis in BRAF-Mutant Cholangiocarcinoma Following Treatment With Immune Checkpoint Inhibitors and BRAF/MEK Inhibitors: A Case Report.",
-        "summary": "Combination immune and BRAF inhibitor therapy helped treat a rare cholangiocarcinoma case, though it triggered a serious immune side effect requiring careful management.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41761754/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-03-01"
       }
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8435,
+    "archive_count": 8436,
     "archive_supplements": 1007,
     "archive_off_label": 364,
-    "archive_biomarkers": 4897,
+    "archive_biomarkers": 4898,
     "archive_trials": 1870
   }
 }
