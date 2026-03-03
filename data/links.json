@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-03T07:05:23.285Z",
+  "last_updated": "2026-03-03T07:05:34.188Z",
   "categories": {
     "supplements": [
       {
@@ -83,6 +83,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-03"
+      },
+      {
+        "id": "recYpBwq5UBaPsRRv",
+        "title": "Breviscapine inhibits the proliferation and immune escape of diffuse large B-cell lymphoma cells by regulating JAK2/STAT3/PD-L1 pathway.",
+        "summary": "Breviscapine, a natural compound, stops diffuse large B-cell lymphoma cells from growing and hiding from the immune system.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41770217/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lymphoma"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-03"
       },
@@ -196,20 +210,6 @@
           "General"
         ],
         "quality_score": 22,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-01"
-      },
-      {
-        "id": "recUdmdBOae5o5hp5",
-        "title": "Melittin Acts as a Radiosensitizer for Non-Small Cell Lung Cancer by Inhibiting the DNA Damage Repair System and Inducing Apoptosis.",
-        "summary": "Melittin from bee venom makes lung cancer cells more vulnerable to radiation therapy by blocking their DNA repair abilities.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41734980/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-03-01"
       }
@@ -859,8 +859,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8486,
-    "archive_supplements": 1014,
+    "archive_count": 8487,
+    "archive_supplements": 1015,
     "archive_off_label": 367,
     "archive_biomarkers": 4928,
     "archive_trials": 1880
