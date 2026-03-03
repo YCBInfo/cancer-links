@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-03T08:03:27.607Z",
+  "last_updated": "2026-03-03T08:03:39.440Z",
   "categories": {
     "supplements": [
       {
@@ -271,6 +271,20 @@
         "added_date": "2026-03-03"
       },
       {
+        "id": "rec9JqTObYGnYngNk",
+        "title": "A Phase IIa, Placebo-Controlled, Randomized Study of Daily Obeticholic Acid (OCA) to Reduce Intestinal Polyp Burden in Familial Adenomatous Polyposis (FAP)",
+        "summary": "A study tested whether obeticholic acid reduces intestinal polyp burden in familial adenomatous polyposis patients.",
+        "url": "https://clinicaltrials.gov/study/NCT05223036",
+        "source": "ClinicalTrials.gov",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 16,
+        "pub_date": "2026-03-02",
+        "added_date": "2026-03-03"
+      },
+      {
         "id": "rechAnCzOGltt41Zz",
         "title": "PLOD2 Promotes Cutaneous Squamous Cell Carcinoma Progression in Association With STAT3-Related ERK and AKT Pathways.",
         "summary": "PLOD2 protein drives skin cancer growth through STAT3 signaling, and blocking it with minoxidil slows tumor development.",
@@ -408,20 +422,6 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-02-01",
-        "added_date": "2026-03-01"
-      },
-      {
-        "id": "recunaFI5pcfFeDT8",
-        "title": "Regulation of ferroptosis in colorectal cancer through therapeutic modulation and miRNA targeting.",
-        "summary": "Researchers identified genes and microRNAs that control ferroptosis in colorectal cancer, revealing potential drug combinations for new treatment strategies.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41561226/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-01-01",
         "added_date": "2026-03-01"
       }
     ],
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8543,
+    "archive_count": 8544,
     "archive_supplements": 1028,
     "archive_off_label": 369,
     "archive_biomarkers": 4960,
-    "archive_trials": 1889
+    "archive_trials": 1890
   }
 }
