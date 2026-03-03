@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-03T07:03:26.590Z",
+  "last_updated": "2026-03-03T07:03:38.587Z",
   "categories": {
     "supplements": [
       {
@@ -21,6 +21,20 @@
         "title": "Effects and mechanisms of probiotics supplement on hypertension.",
         "summary": "Probiotics may help lower blood pressure by improving gut health, offering a potential side-effect-free treatment for hypertension.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41766653/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-03"
+      },
+      {
+        "id": "reczB6OPajDnaCJc4",
+        "title": "Discovery of natural apigenin analogues as lysine-specific demethylase 1 inhibitors against tumoral testicular germ cells.",
+        "summary": "Researchers identified a natural apigenin compound that inhibits LSD1 protein and effectively stops testicular germ cell tumor growth in laboratory tests.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41772063/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -190,20 +204,6 @@
         "title": "Anti-cancer effect of palmitic acid against the endometrial cancer progression via inducing ferroptosis.",
         "summary": "Palmitic acid slows endometrial cancer growth by triggering a specific type of cancer cell death called ferroptosis.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41717082/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-01"
-      },
-      {
-        "id": "recdMydVKrtCYVDao",
-        "title": "Trace mineral sources affect oxidized oil induced intestinal damage in chickens by modulation of gut microbiota and short-chain fatty acid metabolism.",
-        "summary": "Organic trace minerals protect chickens from intestinal damage caused by oxidized oil by improving gut bacteria and beneficial metabolite production.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41716824/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -555,6 +555,20 @@
         "added_date": "2026-03-03"
       },
       {
+        "id": "reczB6OPajDnaCJc4",
+        "title": "Discovery of natural apigenin analogues as lysine-specific demethylase 1 inhibitors against tumoral testicular germ cells.",
+        "summary": "Researchers identified a natural apigenin compound that inhibits LSD1 protein and effectively stops testicular germ cell tumor growth in laboratory tests.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41772063/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-03"
+      },
+      {
         "id": "recawVcA6phwRvtni",
         "title": "Impact of offering blood-based testing alongside existing modalities for colorectal cancer screening among those who previously declined screening: an economic evaluation.",
         "summary": "Blood-based colorectal cancer screening helps previously reluctant patients get tested, offering a cost-effective alternative to traditional screening methods.",
@@ -622,20 +636,6 @@
         ],
         "quality_score": 10,
         "pub_date": "2025-12-01",
-        "added_date": "2026-03-02"
-      },
-      {
-        "id": "rec6vZIP4cU2wPXDS",
-        "title": "Evaluation of Epidermal Growth Factor Receptor and Its Inducible Feedback Inhibitor Leucine Rich Repeats and Immunoglobulin Like Domains 1 as Prognostic Marker in Oral Cancer.",
-        "summary": "Low LRIG1 levels predict poor survival in oral cancer, offering a potential prognostic biomarker for early detection and treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41764774/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
         "added_date": "2026-03-02"
       }
     ],
@@ -859,10 +859,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8475,
+    "archive_count": 8476,
     "archive_supplements": 1012,
     "archive_off_label": 367,
     "archive_biomarkers": 4922,
-    "archive_trials": 1877
+    "archive_trials": 1878
   }
 }
