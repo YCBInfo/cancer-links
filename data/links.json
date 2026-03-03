@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-03T09:03:33.525Z",
+  "last_updated": "2026-03-03T10:02:00.121Z",
   "categories": {
     "supplements": [
       {
@@ -285,6 +285,20 @@
         "added_date": "2026-03-03"
       },
       {
+        "id": "recQZASJ9fXUBJv4l",
+        "title": "ASO Visual Abstract: Evaluation of Talimogene Laherparepvec for the Treatment of Advanced Nonmelanoma Skin Cancers.",
+        "summary": "T-VEC, an oncolytic virus therapy, produced durable responses in over half of advanced nonmelanoma skin cancer patients, especially when combined with immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41772244/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Melanoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-03"
+      },
+      {
         "id": "rechAnCzOGltt41Zz",
         "title": "PLOD2 Promotes Cutaneous Squamous Cell Carcinoma Progression in Association With STAT3-Related ERK and AKT Pathways.",
         "summary": "PLOD2 protein drives skin cancer growth through STAT3 signaling, and blocking it with minoxidil slows tumor development.",
@@ -401,20 +415,6 @@
         "title": "Intralesional bevacizumab injection for symptomatic glomus tumors of the hand: A prospective pilot study.",
         "summary": "Injecting bevacizumab directly into hand glomus tumors reduced pain and may offer an alternative to surgery.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41716648/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-01"
-      },
-      {
-        "id": "rec9as3CuiIFEWjfH",
-        "title": "Effect of linezolid combined with N-acetylcysteine on lung function, blood gas and inflammation in patients with severe pneumonia.",
-        "summary": "Combining linezolid with N-acetylcysteine improved lung function and reduced inflammation in severe pneumonia patients better than antibiotics alone.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41620910/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8582,
+    "archive_count": 8583,
     "archive_supplements": 1028,
     "archive_off_label": 370,
-    "archive_biomarkers": 4974,
+    "archive_biomarkers": 4975,
     "archive_trials": 1913
   }
 }
