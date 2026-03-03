@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-03T07:04:51.512Z",
+  "last_updated": "2026-03-03T07:05:13.840Z",
   "categories": {
     "supplements": [
       {
@@ -55,6 +55,20 @@
           "Breast"
         ],
         "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-03"
+      },
+      {
+        "id": "recEwCb3QKz5HwxQJ",
+        "title": "De novo synthesis of plant polyketide plumbagin in yeast: a platform for sustainable production of naphthoquinones.",
+        "summary": "Scientists engineered yeast to produce plumbagin, a plant compound with anti-cancer potential, enabling sustainable large-scale manufacturing.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41770473/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-03"
       },
@@ -190,20 +204,6 @@
         "title": "Arachidonic Acid and Lipoxin A4 Protect Pancreatic β-Cells and Improve Hyperglycemia Induced by Bleomycin.",
         "summary": "Arachidonic acid and lipoxin A4 protect pancreatic cells from bleomycin damage and reverse bleomycin-induced high blood sugar.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41725241/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-01"
-      },
-      {
-        "id": "recbSYiLBMXXcGd9W",
-        "title": "Nephroprotective Potential of Tectorigenin Against Thiamethoxam Instigated Renal Toxicity Via Regulating HMGB1/RAGE, TLR4/MyD88, and NF-κB Pathway in Sprague Dawley Rats: An In-Vivo and In-Silico Investigation.",
-        "summary": "Tectorigenin protects rat kidneys from insecticide damage by reducing inflammation, oxidative stress, and cell death.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41717770/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -782,6 +782,20 @@
         "added_date": "2026-03-03"
       },
       {
+        "id": "recSYtp0yr3dtUAie",
+        "title": "Towards functional precision medicine? Evidence standards of organoids as patient-specific models.",
+        "summary": "Patient-derived organoids test cancer treatments on individual tumors to predict personalized therapy responses and improve precision medicine outcomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41770454/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 22,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-03"
+      },
+      {
         "id": "recawVcA6phwRvtni",
         "title": "Impact of offering blood-based testing alongside existing modalities for colorectal cancer screening among those who previously declined screening: an economic evaluation.",
         "summary": "Blood-based colorectal cancer screening helps previously reluctant patients get tested, offering a cost-effective alternative to traditional screening methods.",
@@ -836,20 +850,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-02"
-      },
-      {
-        "id": "recvSXqGCz4U8d1vi",
-        "title": "BCR::ABL1-Induced Enhancer Reprogramming Uncovers Hypersensitivity of Ph+B-ALL Cells to Enhancer-Targeting Drugs.",
-        "summary": "Philadelphia chromosome-positive B-cell leukemia cells are highly sensitive to enhancer-targeting drugs, which could improve current treatments.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41764406/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-02"
       }
     ]
   },
@@ -859,10 +859,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8483,
+    "archive_count": 8485,
     "archive_supplements": 1014,
     "archive_off_label": 367,
-    "archive_biomarkers": 4927,
-    "archive_trials": 1878
+    "archive_biomarkers": 4928,
+    "archive_trials": 1879
   }
 }
