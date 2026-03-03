@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-03T07:02:53.697Z",
+  "last_updated": "2026-03-03T07:03:05.092Z",
   "categories": {
     "supplements": [
       {
@@ -512,6 +512,20 @@
         "added_date": "2026-03-03"
       },
       {
+        "id": "recH6CGleABG9TuZ4",
+        "title": "Confounding factors and biases abound when predicting molecular biomarkers from histological images.",
+        "summary": "Deep learning models predicting cancer biomarkers from tissue images learn confounding patterns, making them unreliable substitutes for molecular testing.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41772176/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-03"
+      },
+      {
         "id": "recawVcA6phwRvtni",
         "title": "Impact of offering blood-based testing alongside existing modalities for colorectal cancer screening among those who previously declined screening: an economic evaluation.",
         "summary": "Blood-based colorectal cancer screening helps previously reluctant patients get tested, offering a cost-effective alternative to traditional screening methods.",
@@ -622,20 +636,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-02"
-      },
-      {
-        "id": "rec9yF1b9RCiesPik",
-        "title": "Three novel concomitant NTRK2 fusions in medullary thyroid carcinoma with diagnostic implications.",
-        "summary": "Researchers discovered three rare, novel NTRK2 gene fusions in a medullary thyroid cancer patient, potentially enabling targeted drug treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41764689/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Thyroid"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-02"
       }
     ],
     "trials": [
@@ -692,6 +692,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-03"
+      },
+      {
+        "id": "recc1nfarurjf7Fuz",
+        "title": "Quality of life, anxiety and depression risks after natural orifice specimen extraction surgery and conventional laparoscopic surgery for colorectal cancer patients: a prospective two-centre case-matched study.",
+        "summary": "NOSES surgery for colorectal cancer reduces anxiety and depression compared to conventional laparoscopic surgery, improving patient quality of life.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41772222/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-03"
       },
@@ -834,20 +848,6 @@
         "quality_score": 21,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-02"
-      },
-      {
-        "id": "recowLdVOkExo3UOG",
-        "title": "Recurrence Rate, Complications and Revisions in Long-term Follow-up of Arthroscopic Posterior Bankart Repair Compared to Posterior Bone Block.",
-        "summary": "The literature suggests that both arthroscopic posterior Bankart repair (APB) and posterior bone block (PBB) are effective procedures in the short to medium term, although recurrence and revision r...",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41521474/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-02"
       }
     ]
   },
@@ -857,8 +857,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8472,
-    "archive_supplements": 1011,
+    "archive_count": 8473,
+    "archive_supplements": 1012,
     "archive_off_label": 367,
     "archive_biomarkers": 4921,
     "archive_trials": 1876
