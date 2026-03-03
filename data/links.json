@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-03T07:10:29.695Z",
+  "last_updated": "2026-03-03T07:10:40.415Z",
   "categories": {
     "supplements": [
       {
@@ -244,6 +244,20 @@
         "added_date": "2026-03-03"
       },
       {
+        "id": "rectVIrhYGqjx9sIS",
+        "title": "Regulation of Autophagy and Metabolism in Hepatocellular Carcinoma: Involvement of Wnt-β-Catenin Pathway.",
+        "summary": "Riluzole stops hepatocellular carcinoma growth by blocking a key pathway that controls cancer cell metabolism and triggers cell death.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41772397/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-03"
+      },
+      {
         "id": "rechAnCzOGltt41Zz",
         "title": "PLOD2 Promotes Cutaneous Squamous Cell Carcinoma Progression in Association With STAT3-Related ERK and AKT Pathways.",
         "summary": "PLOD2 protein drives skin cancer growth through STAT3 signaling, and blocking it with minoxidil slows tumor development.",
@@ -409,20 +423,6 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-01-01",
-        "added_date": "2026-03-01"
-      },
-      {
-        "id": "recsUYiDT46RhqhYh",
-        "title": "Advances in Cardiovascular Pharmacotherapy. VI. Sacubitril-Valsartan, An Angiotensin Receptor-Neprilysin Inhibitor.",
-        "summary": "This is not cancer research. The article reviews sacubitril-valsartan, a heart failure medication, with only a brief mention of chemotherapy-related heart damage as one application area.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41539898/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 21,
-        "pub_date": "2026-02-01",
         "added_date": "2026-03-01"
       }
     ],
@@ -859,10 +859,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8514,
+    "archive_count": 8515,
     "archive_supplements": 1019,
     "archive_off_label": 367,
-    "archive_biomarkers": 4950,
+    "archive_biomarkers": 4951,
     "archive_trials": 1881
   }
 }
