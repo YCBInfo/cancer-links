@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-03T07:08:11.041Z",
+  "last_updated": "2026-03-03T07:08:20.740Z",
   "categories": {
     "supplements": [
       {
@@ -216,6 +216,20 @@
     ],
     "off_label": [
       {
+        "id": "recdAwv58DxLdISvh",
+        "title": "Androgen Receptor Drives Polyamine Synthesis, Creating a Vulnerability for Prostate Cancer.",
+        "summary": "High-dose androgen therapy for prostate cancer boosts polyamine production, which can be blocked with a drug to improve treatment effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41270152/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-03"
+      },
+      {
         "id": "rechAnCzOGltt41Zz",
         "title": "PLOD2 Promotes Cutaneous Squamous Cell Carcinoma Progression in Association With STAT3-Related ERK and AKT Pathways.",
         "summary": "PLOD2 protein drives skin cancer growth through STAT3 signaling, and blocking it with minoxidil slows tumor development.",
@@ -408,20 +422,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-03-01"
-      },
-      {
-        "id": "recAVTGvq8bsxsoap",
-        "title": "Artemisinin sensitizes triple negative breast cancer to immune checkpoint therapy through suppressing KEAP1-mediated PD-L1 degradation.",
-        "summary": "Artemisinin boosts triple-negative breast cancer's immune checkpoint therapy response by increasing PD-L1 protein levels on tumor cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41506550/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-01-01",
         "added_date": "2026-03-01"
       }
@@ -859,10 +859,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8501,
+    "archive_count": 8502,
     "archive_supplements": 1019,
     "archive_off_label": 367,
-    "archive_biomarkers": 4938,
+    "archive_biomarkers": 4939,
     "archive_trials": 1880
   }
 }
