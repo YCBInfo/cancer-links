@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-03T07:04:08.571Z",
+  "last_updated": "2026-03-03T07:04:19.473Z",
   "categories": {
     "supplements": [
       {
@@ -41,6 +41,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-03"
+      },
+      {
+        "id": "recZ39QbLEEPcv3bx",
+        "title": "Three novel benzophenones from Mesua caudata (King) Kosterm. and their cytotoxic activity.",
+        "summary": "Researchers isolated three new compounds from a plant that killed cervical and breast cancer cells in laboratory tests.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41770739/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-03"
       },
@@ -190,20 +204,6 @@
         "title": "Nephroprotective Potential of Tectorigenin Against Thiamethoxam Instigated Renal Toxicity Via Regulating HMGB1/RAGE, TLR4/MyD88, and NF-κB Pathway in Sprague Dawley Rats: An In-Vivo and In-Silico Investigation.",
         "summary": "Tectorigenin protects rat kidneys from insecticide damage by reducing inflammation, oxidative stress, and cell death.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41717770/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-01"
-      },
-      {
-        "id": "recc7863CKGm33sdL",
-        "title": "Anti-cancer effect of palmitic acid against the endometrial cancer progression via inducing ferroptosis.",
-        "summary": "Palmitic acid slows endometrial cancer growth by triggering a specific type of cancer cell death called ferroptosis.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41717082/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -597,6 +597,20 @@
         "added_date": "2026-03-03"
       },
       {
+        "id": "recZ39QbLEEPcv3bx",
+        "title": "Three novel benzophenones from Mesua caudata (King) Kosterm. and their cytotoxic activity.",
+        "summary": "Researchers isolated three new compounds from a plant that killed cervical and breast cancer cells in laboratory tests.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41770739/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-03"
+      },
+      {
         "id": "recawVcA6phwRvtni",
         "title": "Impact of offering blood-based testing alongside existing modalities for colorectal cancer screening among those who previously declined screening: an economic evaluation.",
         "summary": "Blood-based colorectal cancer screening helps previously reluctant patients get tested, offering a cost-effective alternative to traditional screening methods.",
@@ -622,20 +636,6 @@
         ],
         "quality_score": 10,
         "pub_date": "2026-01-01",
-        "added_date": "2026-03-02"
-      },
-      {
-        "id": "recyS7DYGeaORMzYs",
-        "title": "Atypical E-cadherin attachments mediate melanoblast migration through confined epithelial spaces.",
-        "summary": "Melanoma precursor cells migrate through skin using modified cell adhesion proteins that allow movement without disrupting the skin barrier.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41474628/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
-        "pub_date": "2025-12-01",
         "added_date": "2026-03-02"
       }
     ],
@@ -859,8 +859,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8479,
-    "archive_supplements": 1012,
+    "archive_count": 8480,
+    "archive_supplements": 1013,
     "archive_off_label": 367,
     "archive_biomarkers": 4925,
     "archive_trials": 1878
