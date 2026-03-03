@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-03T08:02:19.607Z",
+  "last_updated": "2026-03-03T08:02:30.137Z",
   "categories": {
     "supplements": [
       {
@@ -257,6 +257,20 @@
         "added_date": "2026-03-03"
       },
       {
+        "id": "recf7pGZLlnSZaxUq",
+        "title": "Phase 2 Study of Systemic IL-6 Receptor Antagonist ACTEMRA® (Tocilizumab) for the Treatment of Progressive/Recurrent Pediatric Adamantinomatous Craniopharyngioma",
+        "summary": "A drug that blocks IL-6 is being tested to treat children with recurrent brain tumors called craniopharyngioma.",
+        "url": "https://clinicaltrials.gov/study/NCT05233397",
+        "source": "ClinicalTrials.gov",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 16,
+        "pub_date": "2026-03-02",
+        "added_date": "2026-03-03"
+      },
+      {
         "id": "rechAnCzOGltt41Zz",
         "title": "PLOD2 Promotes Cutaneous Squamous Cell Carcinoma Progression in Association With STAT3-Related ERK and AKT Pathways.",
         "summary": "PLOD2 protein drives skin cancer growth through STAT3 signaling, and blocking it with minoxidil slows tumor development.",
@@ -407,20 +421,6 @@
           "Colorectal"
         ],
         "quality_score": 15,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-03-01"
-      },
-      {
-        "id": "reciEeOWUwD0dlyzh",
-        "title": "Glucocorticoid signaling mitigates colitis-associated visceral hypersensitivity by suppressing 5-HT release in enterochromaffin cells via a GR-PI3K-SGK1 axis.",
-        "summary": "Glucocorticoids reduce gut pain sensitivity in colitis by lowering serotonin production in intestinal cells through a specific signaling pathway.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41554225/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-01-01",
         "added_date": "2026-03-01"
       }
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8537,
+    "archive_count": 8538,
     "archive_supplements": 1028,
     "archive_off_label": 368,
     "archive_biomarkers": 4958,
-    "archive_trials": 1886
+    "archive_trials": 1887
   }
 }
