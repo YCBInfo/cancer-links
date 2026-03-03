@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-03T07:05:13.840Z",
+  "last_updated": "2026-03-03T07:05:23.285Z",
   "categories": {
     "supplements": [
       {
@@ -63,6 +63,20 @@
         "title": "De novo synthesis of plant polyketide plumbagin in yeast: a platform for sustainable production of naphthoquinones.",
         "summary": "Scientists engineered yeast to produce plumbagin, a plant compound with anti-cancer potential, enabling sustainable large-scale manufacturing.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41770473/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-03"
+      },
+      {
+        "id": "rec1ikiIEUKf6RyEK",
+        "title": "S-equol producing bacteria: isolation and identification from Albino Wistar rat gut microbiota.",
+        "summary": "Researchers isolated gut bacteria from rats that produce S-equol from soy, a compound potentially protective against hormone-related cancers.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41770313/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -196,20 +210,6 @@
           "Lung"
         ],
         "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-01"
-      },
-      {
-        "id": "recVIDmhax3k3fUrs",
-        "title": "Arachidonic Acid and Lipoxin A4 Protect Pancreatic β-Cells and Improve Hyperglycemia Induced by Bleomycin.",
-        "summary": "Arachidonic acid and lipoxin A4 protect pancreatic cells from bleomycin damage and reverse bleomycin-induced high blood sugar.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41725241/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-03-01"
       }
@@ -859,10 +859,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8485,
+    "archive_count": 8486,
     "archive_supplements": 1014,
     "archive_off_label": 367,
     "archive_biomarkers": 4928,
-    "archive_trials": 1879
+    "archive_trials": 1880
   }
 }
