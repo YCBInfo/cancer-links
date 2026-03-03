@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-03T07:03:38.587Z",
+  "last_updated": "2026-03-03T07:03:47.697Z",
   "categories": {
     "supplements": [
       {
@@ -569,6 +569,20 @@
         "added_date": "2026-03-03"
       },
       {
+        "id": "reczxHm8UPg08UpUg",
+        "title": "Optimizing bowel preparation for colonoscopy: Updated consensus recommendations.",
+        "summary": "Updated guidelines simplify colonoscopy bowel preparation with lower-volume regimens and split-dosing to improve patient tolerability for colorectal cancer screening.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41771680/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-03"
+      },
+      {
         "id": "recawVcA6phwRvtni",
         "title": "Impact of offering blood-based testing alongside existing modalities for colorectal cancer screening among those who previously declined screening: an economic evaluation.",
         "summary": "Blood-based colorectal cancer screening helps previously reluctant patients get tested, offering a cost-effective alternative to traditional screening methods.",
@@ -621,20 +635,6 @@
           "Breast"
         ],
         "quality_score": 13,
-        "pub_date": "2025-12-01",
-        "added_date": "2026-03-02"
-      },
-      {
-        "id": "recfYz5F403TScmzf",
-        "title": "Mechanometabolism instructs hematopoietic stem cell specification.",
-        "summary": "Blood flow-induced mechanical stress triggers mitochondrial changes that enable precursor cells to become functional blood-forming stem cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41364073/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
         "pub_date": "2025-12-01",
         "added_date": "2026-03-02"
       }
@@ -720,6 +720,20 @@
         "cancer_types": [
           "Colorectal",
           "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-03"
+      },
+      {
+        "id": "reczxHm8UPg08UpUg",
+        "title": "Optimizing bowel preparation for colonoscopy: Updated consensus recommendations.",
+        "summary": "Updated guidelines simplify colonoscopy bowel preparation with lower-volume regimens and split-dosing to improve patient tolerability for colorectal cancer screening.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41771680/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -836,20 +850,6 @@
         "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-03-02"
-      },
-      {
-        "id": "rec26gebSbMHhH3IE",
-        "title": "Retinal Astrocytic Hamartoma in a Child With Neurofibromatosis Type 1 Treated With Selumetinib.",
-        "summary": "Selumetinib, a drug used to treat neurofibromatosis tumors, unexpectedly shrank a rare eye tumor and restored vision in a child.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41707682/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-02"
       }
     ]
   },
@@ -859,10 +859,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8476,
+    "archive_count": 8477,
     "archive_supplements": 1012,
     "archive_off_label": 367,
-    "archive_biomarkers": 4922,
+    "archive_biomarkers": 4923,
     "archive_trials": 1878
   }
 }
