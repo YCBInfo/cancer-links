@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-03T07:02:22.321Z",
+  "last_updated": "2026-03-03T07:02:32.771Z",
   "categories": {
     "supplements": [
       {
@@ -9,6 +9,20 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41771153/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-03"
+      },
+      {
+        "id": "recncg3LaKWxuwo06",
+        "title": "Effects and mechanisms of probiotics supplement on hypertension.",
+        "summary": "Probiotics may help lower blood pressure by improving gut health, offering a potential side-effect-free treatment for hypertension.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41766653/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "General"
         ],
@@ -190,20 +204,6 @@
         "title": "Trace mineral sources affect oxidized oil induced intestinal damage in chickens by modulation of gut microbiota and short-chain fatty acid metabolism.",
         "summary": "Organic trace minerals protect chickens from intestinal damage caused by oxidized oil by improving gut bacteria and beneficial metabolite production.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41716824/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-01"
-      },
-      {
-        "id": "recOaC0zsKF5OaNRr",
-        "title": "Polydatin as a Multifunctional Anticancer Agent: Cellular Mechanisms, Therapeutic Potential and Future Clinical Perspectives.",
-        "summary": "Polydatin, a natural compound, shows promise in killing cancer cells and enhancing chemotherapy and radiotherapy effectiveness while reducing drug resistance.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41711294/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -498,6 +498,20 @@
         "added_date": "2026-03-03"
       },
       {
+        "id": "recxIICWd8NtTHPow",
+        "title": "Multi-reader evaluation of deep learning-based auto-segmentation of eloquent brain arteriovenous malformation on MRA and white matter tractography in stereotactic radiosurgery.",
+        "summary": "A deep learning system successfully auto-segments brain arteriovenous malformations to protect white matter during radiation treatment planning.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41772699/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-03"
+      },
+      {
         "id": "recawVcA6phwRvtni",
         "title": "Impact of offering blood-based testing alongside existing modalities for colorectal cancer screening among those who previously declined screening: an economic evaluation.",
         "summary": "Blood-based colorectal cancer screening helps previously reluctant patients get tested, offering a cost-effective alternative to traditional screening methods.",
@@ -620,20 +634,6 @@
           "Thyroid"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-02"
-      },
-      {
-        "id": "receoztL6UaSlxFAK",
-        "title": "Study protocol for a phase I investigator-initiated clinical trial of E7820 in Japanese patients with unresectable solid tumours: CIRCUS trial (NCCH2303).",
-        "summary": "E7820, a cancer drug, is being tested in Japanese patients with solid tumors after researchers discovered it works through a new mechanism affecting protein splicing.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41764635/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-02"
       }
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8469,
+    "archive_count": 8470,
     "archive_supplements": 1011,
     "archive_off_label": 367,
-    "archive_biomarkers": 4918,
+    "archive_biomarkers": 4919,
     "archive_trials": 1876
   }
 }
