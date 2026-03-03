@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-03T10:03:14.668Z",
+  "last_updated": "2026-03-03T10:03:27.106Z",
   "categories": {
     "supplements": [
       {
@@ -327,6 +327,20 @@
         "added_date": "2026-03-03"
       },
       {
+        "id": "rec5tDoZOiwCaIwma",
+        "title": "Nutrient Availability Dictates Cancer Metabolism-Based Therapeutic Responses to Nononcology Drugs.",
+        "summary": "A screening platform identifies non-cancer drugs that kill cancer cells more effectively when nutrient availability is restricted, enabling personalized treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41289560/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-03"
+      },
+      {
         "id": "rechAnCzOGltt41Zz",
         "title": "PLOD2 Promotes Cutaneous Squamous Cell Carcinoma Progression in Association With STAT3-Related ERK and AKT Pathways.",
         "summary": "PLOD2 protein drives skin cancer growth through STAT3 signaling, and blocking it with minoxidil slows tumor development.",
@@ -401,20 +415,6 @@
         "title": "Targeting mutant VHL-gene results in therapy response in metastatic clear cell carcinoma of rete testis.",
         "summary": "Targeting a mutant VHL gene with belzutifan drug achieved complete remission in a rare metastatic testis cancer patient.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41756742/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-01"
-      },
-      {
-        "id": "recSgkkWCsA7NVxGY",
-        "title": "Impact of Angiotensin-Converting Enzyme Inhibitors on Disease Symptoms in Patients with Chronic Myeloproliferative Neoplasms.",
-        "summary": "ACE inhibitors may reduce inflammation-related symptoms in patients with chronic myeloproliferative neoplasms by controlling the overactive renin-angiotensin system.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41728173/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -858,9 +858,9 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8590,
+    "archive_count": 8591,
     "archive_supplements": 1028,
-    "archive_off_label": 372,
+    "archive_off_label": 373,
     "archive_biomarkers": 4977,
     "archive_trials": 1916
   }
