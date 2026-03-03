@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-03T07:08:31.706Z",
+  "last_updated": "2026-03-03T07:08:42.213Z",
   "categories": {
     "supplements": [
       {
@@ -230,6 +230,20 @@
         "added_date": "2026-03-03"
       },
       {
+        "id": "recZPrKNrITws8HCJ",
+        "title": "T2R5 Agonist Phendione Decreases Cell Viability and Induces Apoptosis in Head and Neck Squamous Cell Carcinoma.",
+        "summary": "A compound called phendione kills head and neck cancer cells by activating a taste receptor, offering a new treatment approach.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41201971/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-03"
+      },
+      {
         "id": "rechAnCzOGltt41Zz",
         "title": "PLOD2 Promotes Cutaneous Squamous Cell Carcinoma Progression in Association With STAT3-Related ERK and AKT Pathways.",
         "summary": "PLOD2 protein drives skin cancer growth through STAT3 signaling, and blocking it with minoxidil slows tumor development.",
@@ -409,20 +423,6 @@
         ],
         "quality_score": 21,
         "pub_date": "2026-02-01",
-        "added_date": "2026-03-01"
-      },
-      {
-        "id": "recAZ00oQLbJRHML1",
-        "title": "Afatinib inhibits esophageal squamous cell carcinoma by regulating ferroptosis and NRF2 protein homeostasis.",
-        "summary": "Afatinib fights esophageal cancer by triggering a cell-death process involving iron and protein regulation.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41520560/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-01-01",
         "added_date": "2026-03-01"
       }
     ],
@@ -859,10 +859,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8503,
+    "archive_count": 8504,
     "archive_supplements": 1019,
     "archive_off_label": 367,
     "archive_biomarkers": 4940,
-    "archive_trials": 1880
+    "archive_trials": 1881
   }
 }
