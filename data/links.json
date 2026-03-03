@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-03T10:03:48.415Z",
+  "last_updated": "2026-03-03T10:03:59.330Z",
   "categories": {
     "supplements": [
       {
@@ -341,6 +341,20 @@
         "added_date": "2026-03-03"
       },
       {
+        "id": "reccrsxupxtvDl863",
+        "title": "Metformin as an immunometabolic modulator in breast cancer: integrating NK and NKT cell responses.",
+        "summary": "Metformin boosts immune cells to fight breast cancer by reprogramming tumor metabolism and restoring natural killer cell function.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41768419/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-03"
+      },
+      {
         "id": "rechAnCzOGltt41Zz",
         "title": "PLOD2 Promotes Cutaneous Squamous Cell Carcinoma Progression in Association With STAT3-Related ERK and AKT Pathways.",
         "summary": "PLOD2 protein drives skin cancer growth through STAT3 signaling, and blocking it with minoxidil slows tumor development.",
@@ -401,20 +415,6 @@
         "title": "Oral Administration of Itraconazole Induces M1 Polarization of Tumor-associated Macrophages in Gynecological Cancer.",
         "summary": "Oral antifungal drug itraconazole shifts immune cells in gynecological cancers toward anti-tumor activity.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41760333/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-01"
-      },
-      {
-        "id": "recutcJlBLyq0yuup",
-        "title": "Targeting mutant VHL-gene results in therapy response in metastatic clear cell carcinoma of rete testis.",
-        "summary": "Targeting a mutant VHL gene with belzutifan drug achieved complete remission in a rare metastatic testis cancer patient.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41756742/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -858,9 +858,9 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8593,
+    "archive_count": 8594,
     "archive_supplements": 1028,
-    "archive_off_label": 373,
+    "archive_off_label": 374,
     "archive_biomarkers": 4978,
     "archive_trials": 1917
   }
