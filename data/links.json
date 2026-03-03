@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-03T10:02:42.399Z",
+  "last_updated": "2026-03-03T10:02:53.496Z",
   "categories": {
     "supplements": [
       {
@@ -313,6 +313,20 @@
         "added_date": "2026-03-03"
       },
       {
+        "id": "rec5b2HEow78t4XWz",
+        "title": "GLP-1s Spur Greater Reduction in Colorectal Cancer Risk than Aspirin.",
+        "summary": "GLP-1 drugs reduce colorectal cancer risk by 36% more effectively than aspirin in large populations.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41543505/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-03"
+      },
+      {
         "id": "rechAnCzOGltt41Zz",
         "title": "PLOD2 Promotes Cutaneous Squamous Cell Carcinoma Progression in Association With STAT3-Related ERK and AKT Pathways.",
         "summary": "PLOD2 protein drives skin cancer growth through STAT3 signaling, and blocking it with minoxidil slows tumor development.",
@@ -407,20 +421,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-01"
-      },
-      {
-        "id": "reckDDwkQInovaax7",
-        "title": "IGSF9 promotes immunotherapy resistance in colon cancer by orchestrating an immunosuppressive tumor microenvironment and enables combinatorial targeting strategies.",
-        "summary": "IGSF9 promotes immunotherapy resistance in colon cancer; combining MAPK inhibitor Doramapimod with anti-PD-1 therapy overcomes this resistance.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41717080/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-03-01"
       }
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8587,
+    "archive_count": 8588,
     "archive_supplements": 1028,
     "archive_off_label": 371,
     "archive_biomarkers": 4977,
-    "archive_trials": 1914
+    "archive_trials": 1915
   }
 }
