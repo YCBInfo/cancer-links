@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-03T07:03:15.059Z",
+  "last_updated": "2026-03-03T07:03:26.590Z",
   "categories": {
     "supplements": [
       {
@@ -526,6 +526,35 @@
         "added_date": "2026-03-03"
       },
       {
+        "id": "recaOKvXEaXFwTbiu",
+        "title": "Leveraging tissue-resident memory T cells for non-invasive immune monitoring via microneedle skin patches.",
+        "summary": "Microneedle skin patches combined with immune cell stimulation enable non-invasive detection of vaccine and disease-fighting immune responses.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41772174/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-03"
+      },
+      {
+        "id": "recMt8x3kBLp3PAsk",
+        "title": "Chloroethylnitrosourea analogue HJ03 overcomes temozolomide resistance of glioblastoma in mice through induction of ferroptosis and apoptosis.",
+        "summary": "A new drug called HJ03 overcomes temozolomide resistance in glioblastoma by triggering cell death through two mechanisms simultaneously.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41772145/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal",
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-03"
+      },
+      {
         "id": "recawVcA6phwRvtni",
         "title": "Impact of offering blood-based testing alongside existing modalities for colorectal cancer screening among those who previously declined screening: an economic evaluation.",
         "summary": "Blood-based colorectal cancer screening helps previously reluctant patients get tested, offering a cost-effective alternative to traditional screening methods.",
@@ -608,34 +637,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-02"
-      },
-      {
-        "id": "rectdEa3VER7LEaua",
-        "title": "Whole-Genome Bisulfite Sequencing Identifies Blood-Based DNA Methylation Biomarker for Hepatocellular Carcinoma.",
-        "summary": "Researchers identified a blood-based DNA methylation marker (meTSPYL5) that detects hepatocellular carcinoma with 85% sensitivity and 100% specificity.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41764773/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-02"
-      },
-      {
-        "id": "rechAnCzOGltt41Zz",
-        "title": "PLOD2 Promotes Cutaneous Squamous Cell Carcinoma Progression in Association With STAT3-Related ERK and AKT Pathways.",
-        "summary": "PLOD2 protein drives skin cancer growth through STAT3 signaling, and blocking it with minoxidil slows tumor development.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41764770/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Melanoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-02"
       }
     ],
     "trials": [
@@ -704,6 +705,21 @@
         "category": "Clinical Trials",
         "cancer_types": [
           "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-03"
+      },
+      {
+        "id": "recMt8x3kBLp3PAsk",
+        "title": "Chloroethylnitrosourea analogue HJ03 overcomes temozolomide resistance of glioblastoma in mice through induction of ferroptosis and apoptosis.",
+        "summary": "A new drug called HJ03 overcomes temozolomide resistance in glioblastoma by triggering cell death through two mechanisms simultaneously.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41772145/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal",
+          "Brain"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -834,20 +850,6 @@
         "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-03-02"
-      },
-      {
-        "id": "recmOftVgnEraLpuf",
-        "title": "Impact of vitamin D supplementation on all-cause mortality: Randomized trials revisited.",
-        "summary": "Large studies found vitamin D supplements don't reduce death rates in people with adequate vitamin D levels.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41719624/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 21,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-02"
       }
     ]
   },
@@ -857,10 +859,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8474,
+    "archive_count": 8475,
     "archive_supplements": 1012,
     "archive_off_label": 367,
     "archive_biomarkers": 4922,
-    "archive_trials": 1876
+    "archive_trials": 1877
   }
 }
