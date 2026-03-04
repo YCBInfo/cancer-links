@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-04T07:03:20.972Z",
+  "last_updated": "2026-03-04T07:03:30.833Z",
   "categories": {
     "supplements": [
       {
@@ -315,6 +315,20 @@
         "added_date": "2026-03-04"
       },
       {
+        "id": "rec868g0c7Zmd7Vpk",
+        "title": "Empagliflozin and intermittent fasting as a strategy to mitigate anthracycline-induced cardiotoxicity.",
+        "summary": "Empagliflozin and intermittent fasting each reduce heart damage from doxorubicin chemotherapy by protecting heart cells and reducing inflammation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41775778/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-04"
+      },
+      {
         "id": "recdAwv58DxLdISvh",
         "title": "Androgen Receptor Drives Polyamine Synthesis, Creating a Vulnerability for Prostate Cancer.",
         "summary": "High-dose androgen therapy for prostate cancer boosts polyamine production, which can be blocked with a drug to improve treatment effectiveness.",
@@ -409,20 +423,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-03"
-      },
-      {
-        "id": "rec5b2HEow78t4XWz",
-        "title": "GLP-1s Spur Greater Reduction in Colorectal Cancer Risk than Aspirin.",
-        "summary": "GLP-1 drugs reduce colorectal cancer risk by 36% more effectively than aspirin in large populations.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41543505/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-03"
       }
@@ -860,10 +860,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8801,
+    "archive_count": 8802,
     "archive_supplements": 1041,
     "archive_off_label": 380,
-    "archive_biomarkers": 5138,
+    "archive_biomarkers": 5139,
     "archive_trials": 1945
   }
 }
