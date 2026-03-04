@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-04T10:03:03.103Z",
+  "last_updated": "2026-03-04T10:03:13.567Z",
   "categories": {
     "supplements": [
       {
@@ -385,6 +385,20 @@
         "added_date": "2026-03-04"
       },
       {
+        "id": "recJ6CtMqZIDKfz9O",
+        "title": "The TRIB1-PPARγ Axis Regulates Cholesterol Metabolism in Pancreatic Ductal Adenocarcinoma.",
+        "summary": "TRIB1 protein drives pancreatic cancer growth by boosting cholesterol production, and blocking this pathway with statins may treat high-TRIB1 tumors.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41774091/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-04"
+      },
+      {
         "id": "recdAwv58DxLdISvh",
         "title": "Androgen Receptor Drives Polyamine Synthesis, Creating a Vulnerability for Prostate Cancer.",
         "summary": "High-dose androgen therapy for prostate cancer boosts polyamine production, which can be blocked with a drug to improve treatment effectiveness.",
@@ -409,20 +423,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-03"
-      },
-      {
-        "id": "rectVIrhYGqjx9sIS",
-        "title": "Regulation of Autophagy and Metabolism in Hepatocellular Carcinoma: Involvement of Wnt-β-Catenin Pathway.",
-        "summary": "Riluzole stops hepatocellular carcinoma growth by blocking a key pathway that controls cancer cell metabolism and triggers cell death.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41772397/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Liver"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-03"
       }
@@ -860,10 +860,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8878,
+    "archive_count": 8879,
     "archive_supplements": 1054,
     "archive_off_label": 383,
-    "archive_biomarkers": 5170,
+    "archive_biomarkers": 5171,
     "archive_trials": 1974
   }
 }
