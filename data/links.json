@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-04T05:06:19.844Z",
+  "last_updated": "2026-03-04T05:06:31.472Z",
   "categories": {
     "supplements": [
       {
@@ -767,6 +767,20 @@
         "added_date": "2026-03-04"
       },
       {
+        "id": "recbyZvhrjTgvBQ1n",
+        "title": "Phase I multi-center clinical and biomarker study of the dual-action androgen receptor inhibitor ONCT-534.",
+        "summary": "ONCT-534, a new prostate cancer drug, safely reduced androgen receptor protein levels but showed limited clinical benefit in early testing.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41774321/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-04"
+      },
+      {
         "id": "recjyfu3GdFnPPGVV",
         "title": "Timely Matters: Predictors of Delay in Oral Cavity Cancer Patients Across the Care Continuum.",
         "summary": "Study identifies factors causing delays in oral cavity cancer diagnosis and treatment from symptom onset through completion.",
@@ -835,21 +849,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-03"
-      },
-      {
-        "id": "recMt8x3kBLp3PAsk",
-        "title": "Chloroethylnitrosourea analogue HJ03 overcomes temozolomide resistance of glioblastoma in mice through induction of ferroptosis and apoptosis.",
-        "summary": "A new drug called HJ03 overcomes temozolomide resistance in glioblastoma by triggering cell death through two mechanisms simultaneously.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41772145/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal",
-          "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-03"
       }
     ]
   },
@@ -859,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8631,
+    "archive_count": 8632,
     "archive_supplements": 1029,
     "archive_off_label": 375,
     "archive_biomarkers": 5000,
-    "archive_trials": 1930
+    "archive_trials": 1931
   }
 }
