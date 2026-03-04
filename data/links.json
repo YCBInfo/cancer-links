@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-04T05:03:28.859Z",
+  "last_updated": "2026-03-04T05:03:40.112Z",
   "categories": {
     "supplements": [
       {
@@ -526,6 +526,20 @@
         "added_date": "2026-03-04"
       },
       {
+        "id": "recimfYPvZwdLPrn6",
+        "title": "Feline Cancers: Cat-aloging the Mutational Landscape.",
+        "summary": "Researchers sequenced cat tumors and found mutations similar to human cancers, particularly in the TP53 gene, supporting cats as cancer research models.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41774833/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-04"
+      },
+      {
         "id": "recjyfu3GdFnPPGVV",
         "title": "Timely Matters: Predictors of Delay in Oral Cavity Cancer Patients Across the Care Continuum.",
         "summary": "Study identifies factors causing delays in oral cavity cancer diagnosis and treatment from symptom onset through completion.",
@@ -614,20 +628,6 @@
         "title": "Confounding factors and biases abound when predicting molecular biomarkers from histological images.",
         "summary": "Deep learning models predicting cancer biomarkers from tissue images learn confounding patterns, making them unreliable substitutes for molecular testing.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41772176/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-03"
-      },
-      {
-        "id": "recaOKvXEaXFwTbiu",
-        "title": "Leveraging tissue-resident memory T cells for non-invasive immune monitoring via microneedle skin patches.",
-        "summary": "Microneedle skin patches combined with immune cell stimulation enable non-invasive detection of vaccine and disease-fighting immune responses.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41772174/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -859,10 +859,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8615,
+    "archive_count": 8616,
     "archive_supplements": 1028,
     "archive_off_label": 375,
-    "archive_biomarkers": 4988,
+    "archive_biomarkers": 4989,
     "archive_trials": 1927
   }
 }
