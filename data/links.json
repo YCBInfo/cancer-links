@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-04T05:32:11.782Z",
+  "last_updated": "2026-03-04T05:32:22.896Z",
   "categories": {
     "supplements": [
       {
@@ -300,6 +300,21 @@
         "added_date": "2026-03-04"
       },
       {
+        "id": "recfYNasgQTSEwmwK",
+        "title": "Dasatinib boosts γδ T cell expansion and memory phenotypes with enhanced antitumor immunity.",
+        "summary": "Dasatinib drug treatment enhances expansion and anti-tumor function of gamma-delta T cells against glioblastoma and breast cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41770421/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Breast",
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-04"
+      },
+      {
         "id": "recdAwv58DxLdISvh",
         "title": "Androgen Receptor Drives Polyamine Synthesis, Creating a Vulnerability for Prostate Cancer.",
         "summary": "High-dose androgen therapy for prostate cancer boosts polyamine production, which can be blocked with a drug to improve treatment effectiveness.",
@@ -408,20 +423,6 @@
           "Colorectal"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-03"
-      },
-      {
-        "id": "rec5tDoZOiwCaIwma",
-        "title": "Nutrient Availability Dictates Cancer Metabolism-Based Therapeutic Responses to Nononcology Drugs.",
-        "summary": "A screening platform identifies non-cancer drugs that kill cancer cells more effectively when nutrient availability is restricted, enabling personalized treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41289560/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-03"
       }
@@ -859,10 +860,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8770,
+    "archive_count": 8771,
     "archive_supplements": 1036,
     "archive_off_label": 379,
-    "archive_biomarkers": 5117,
+    "archive_biomarkers": 5118,
     "archive_trials": 1941
   }
 }
