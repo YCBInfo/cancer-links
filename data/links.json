@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-04T05:29:31.289Z",
+  "last_updated": "2026-03-04T05:29:42.273Z",
   "categories": {
     "supplements": [
       {
@@ -115,6 +115,20 @@
         "added_date": "2026-03-04"
       },
       {
+        "id": "recoE0YpUi7JZcwfM",
+        "title": "A tumor-targeting gambogic acid-loaded nanovaccine reprograms the tumor microenvironment for enhanced cancer immunotherapy.",
+        "summary": "A nanovaccine combining cancer cell membranes with a traditional medicine compound effectively targets colorectal tumors and boosts immune response.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41770715/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-04"
+      },
+      {
         "id": "rec9zdeJ3vMyFDwNX",
         "title": "Longitudinal Plasma Metabolomics Guides Dynamic Risk Assessment and Dietary Modulation for Esophageal Squamous Cell Cancer Chemoimmunotherapy.",
         "summary": "Blood metabolite patterns predict esophageal cancer treatment response and specific dietary compounds improve immunotherapy outcomes.",
@@ -195,20 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-03"
-      },
-      {
-        "id": "recYpBwq5UBaPsRRv",
-        "title": "Breviscapine inhibits the proliferation and immune escape of diffuse large B-cell lymphoma cells by regulating JAK2/STAT3/PD-L1 pathway.",
-        "summary": "Breviscapine, a natural compound, stops diffuse large B-cell lymphoma cells from growing and hiding from the immune system.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41770217/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Lymphoma"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-03"
       }
@@ -859,10 +859,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8755,
+    "archive_count": 8756,
     "archive_supplements": 1034,
     "archive_off_label": 379,
-    "archive_biomarkers": 5106,
+    "archive_biomarkers": 5107,
     "archive_trials": 1939
   }
 }
