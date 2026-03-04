@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-03T12:13:05.130Z",
+  "last_updated": "2026-03-04T05:02:54.913Z",
   "categories": {
     "supplements": [
       {
@@ -427,6 +427,63 @@
     ],
     "biomarkers": [
       {
+        "id": "recTBfuHqUovhBLKz",
+        "title": "Neoadjuvant Systemic Therapy in Kidney and Bladder Cancer: Current Evidence and Emerging Paradigms.",
+        "summary": "Neoadjuvant therapy before surgery improves outcomes in kidney and bladder cancer, with immunotherapy showing promise alongside chemotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41774881/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Bladder",
+          "Kidney"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-04"
+      },
+      {
+        "id": "recs4UzovvYijMNra",
+        "title": "Primary Clear Cell Adenocarcinoma of the Female Urethra: A Case Report of a Rare Disease.",
+        "summary": "Doctors report imaging findings for a rare female urethral cancer, emphasizing MRI and PET/CT's role in diagnosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41771042/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-04"
+      },
+      {
+        "id": "recRRrlI61t3VJ2Ns",
+        "title": "Brain and Spinal Leptomeningeal Metastases in Prostate Cancer Detected by PSMA PET and MRI Fusion.",
+        "summary": "PSMA PET imaging successfully detected widespread brain and spinal cord metastases in a prostate cancer patient with worsening neurological symptoms.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41771034/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-04"
+      },
+      {
+        "id": "recPXsFcCTt1o7HE4",
+        "title": "Dynamic reprogramming of the tumor immune network via multicycle checkpoint degradation for cancer immunotherapy.",
+        "summary": "A new platform called RECYC removes immune checkpoint proteins from multiple immune cells in tumors, enhancing anti-tumor immunity better than current treatments.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41770936/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-04"
+      },
+      {
         "id": "recjyfu3GdFnPPGVV",
         "title": "Timely Matters: Predictors of Delay in Oral Cavity Cancer Patients Across the Care Continuum.",
         "summary": "Study identifies factors causing delays in oral cavity cancer diagnosis and treatment from symptom onset through completion.",
@@ -580,65 +637,38 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-03"
-      },
-      {
-        "id": "recALjjA4aTv6jqs4",
-        "title": "Axially Polarized O-Fe-N4 Single-Atom Enzyme Drives Clearance of Tumor-Resident Intracellular Microbiota and Potentiates Immunotherapy.",
-        "summary": "A new nanozyme treatment clears tumor bacteria and boosts immunotherapy effectiveness when combined with ultrasound and checkpoint inhibitors.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41770983/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-03"
-      },
-      {
-        "id": "recZ39QbLEEPcv3bx",
-        "title": "Three novel benzophenones from Mesua caudata (King) Kosterm. and their cytotoxic activity.",
-        "summary": "Researchers isolated three new compounds from a plant that killed cervical and breast cancer cells in laboratory tests.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41770739/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-03"
-      },
-      {
-        "id": "rec9Nx7cXtxQrHwQZ",
-        "title": "Summary of Research: Elranatamab Fixed Dosing-A Safe, Effective, and Convenient Dosing Approach.",
-        "summary": "Fixed-dose elranatamab (76 mg) is safe and effective for multiple myeloma patients across all body weights.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41770510/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-03"
-      },
-      {
-        "id": "receHJZVbP0m50Qou",
-        "title": "Impact of neutron sieve therapy for deep site in boron neutron capture therapy using Monte Carlo calculation.",
-        "summary": "Neutron sieve filters improve dose penetration depth in boron neutron capture therapy for deep-seated tumors by shifting maximum dose 8mm deeper.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41770639/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-03"
       }
     ],
     "trials": [
+      {
+        "id": "recTBfuHqUovhBLKz",
+        "title": "Neoadjuvant Systemic Therapy in Kidney and Bladder Cancer: Current Evidence and Emerging Paradigms.",
+        "summary": "Neoadjuvant therapy before surgery improves outcomes in kidney and bladder cancer, with immunotherapy showing promise alongside chemotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41774881/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Bladder",
+          "Kidney"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-04"
+      },
+      {
+        "id": "recPXsFcCTt1o7HE4",
+        "title": "Dynamic reprogramming of the tumor immune network via multicycle checkpoint degradation for cancer immunotherapy.",
+        "summary": "A new platform called RECYC removes immune checkpoint proteins from multiple immune cells in tumors, enhancing anti-tumor immunity better than current treatments.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41770936/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-04"
+      },
       {
         "id": "recjyfu3GdFnPPGVV",
         "title": "Timely Matters: Predictors of Delay in Oral Cavity Cancer Patients Across the Care Continuum.",
@@ -821,34 +851,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-03"
-      },
-      {
-        "id": "recpOUGa2pyvAw42r",
-        "title": "Flow solitons of supermolecular complex DEAE-dextran-MMA copolymer/small noncoding RNAs for epigenetic change from cancer to normal cells in TME.",
-        "summary": "A polymer-RNA complex cured virus-induced sarcoma in mice by reprogramming cancer cells into normal cells through epigenetic changes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41574418/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-03"
-      },
-      {
-        "id": "rec2vBZ3tzulybeHi",
-        "title": "T cell receptor-engineered T cells targeting the TP53R248Q neoantigen elicit antitumor effects in human cancer models.",
-        "summary": "Engineered T cells targeting a common TP53 mutation effectively killed cancer cells in laboratory and patient tumor models.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41528883/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-03"
       }
     ]
   },
@@ -858,10 +860,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8611,
+    "archive_count": 8612,
     "archive_supplements": 1028,
     "archive_off_label": 375,
     "archive_biomarkers": 4985,
-    "archive_trials": 1926
+    "archive_trials": 1927
   }
 }
