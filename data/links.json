@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-04T05:20:21.590Z",
+  "last_updated": "2026-03-04T05:20:33.730Z",
   "categories": {
     "supplements": [
       {
@@ -229,6 +229,20 @@
         "added_date": "2026-03-04"
       },
       {
+        "id": "reckxrraPTDiv8Vxu",
+        "title": "Targeting the RXR Pathway for the Prevention of Triple-Negative Breast Cancer.",
+        "summary": "RXR agonist drugs delayed or prevented triple-negative breast cancer development in mouse models with minimal side effects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41134141/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-04"
+      },
+      {
         "id": "recdAwv58DxLdISvh",
         "title": "Androgen Receptor Drives Polyamine Synthesis, Creating a Vulnerability for Prostate Cancer.",
         "summary": "High-dose androgen therapy for prostate cancer boosts polyamine production, which can be blocked with a drug to improve treatment effectiveness.",
@@ -408,20 +422,6 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-02-01",
-        "added_date": "2026-03-02"
-      },
-      {
-        "id": "recoCqyW7Zqa76XUR",
-        "title": "Metformin is associated with the suppression of the TNF-α/iNOS/TIMP-1 axis-mediated liver injury and fibrosis secondary to diabetes.",
-        "summary": "Metformin protects against diabetes-induced liver injury and fibrosis by reducing inflammatory markers and nitrosative stress in rats.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41764858/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
         "added_date": "2026-03-02"
       }
     ],
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8705,
+    "archive_count": 8706,
     "archive_supplements": 1034,
     "archive_off_label": 376,
-    "archive_biomarkers": 5063,
+    "archive_biomarkers": 5064,
     "archive_trials": 1935
   }
 }
