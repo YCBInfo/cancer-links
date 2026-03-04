@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-03-04T05:04:02.669Z",
+  "last_updated": "2026-03-04T05:04:14.557Z",
   "categories": {
     "supplements": [
+      {
+        "id": "rec8kmDckpZBWrj43",
+        "title": "The role of prehabilitation in improving brain health and cognition after chemotherapy in patients with colorectal cancer: Study protocol of the Chemo Brain Prehab Project.",
+        "summary": "Researchers are testing whether exercise and training before chemotherapy can prevent memory and thinking problems in colorectal cancer patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41774738/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-04"
+      },
       {
         "id": "rec9zdeJ3vMyFDwNX",
         "title": "Longitudinal Plasma Metabolomics Guides Dynamic Risk Assessment and Dietary Modulation for Esophageal Squamous Cell Cancer Chemoimmunotherapy.",
@@ -195,20 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-03"
-      },
-      {
-        "id": "recvKM82JVNCtpvug",
-        "title": "Nutritional, Anti-inflammatory, and in-silico inhibitory Studies of Trametes versicolor (L.) Lloyd and Flammulina velutipes (Curtis) on HER2 breast cancer protein.",
-        "summary": "Two medicinal mushrooms show promise against HER2 breast cancer through anti-inflammatory compounds and natural molecules that bind effectively to cancer proteins.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41769067/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-03"
       }
@@ -683,6 +683,20 @@
         "added_date": "2026-03-04"
       },
       {
+        "id": "rec8kmDckpZBWrj43",
+        "title": "The role of prehabilitation in improving brain health and cognition after chemotherapy in patients with colorectal cancer: Study protocol of the Chemo Brain Prehab Project.",
+        "summary": "Researchers are testing whether exercise and training before chemotherapy can prevent memory and thinking problems in colorectal cancer patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41774738/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-04"
+      },
+      {
         "id": "recjyfu3GdFnPPGVV",
         "title": "Timely Matters: Predictors of Delay in Oral Cavity Cancer Patients Across the Care Continuum.",
         "summary": "Study identifies factors causing delays in oral cavity cancer diagnosis and treatment from symptom onset through completion.",
@@ -836,20 +850,6 @@
         "quality_score": 22,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-03"
-      },
-      {
-        "id": "recqtFn30Euh6GdoG",
-        "title": "Polyamine Metabolism as a Metabolic Vulnerability in Prostate Cancer Treated with Supraphysiological Androgens.",
-        "summary": "Blocking polyamine production with DFMO enhances supraphysiological androgen therapy's ability to suppress prostate cancer growth.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41766411/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Prostate"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-03"
       }
     ]
   },
@@ -859,10 +859,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8618,
+    "archive_count": 8619,
     "archive_supplements": 1028,
     "archive_off_label": 375,
-    "archive_biomarkers": 4991,
+    "archive_biomarkers": 4992,
     "archive_trials": 1927
   }
 }
