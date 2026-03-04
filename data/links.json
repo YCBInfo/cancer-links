@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-04T05:07:44.972Z",
+  "last_updated": "2026-03-04T05:07:56.307Z",
   "categories": {
     "supplements": [
       {
@@ -823,6 +823,20 @@
         "added_date": "2026-03-04"
       },
       {
+        "id": "recDfRacQmUjfnrYo",
+        "title": "Clinical and immunological implications of lymphocyte-activation gene 3 expression in metastatic colorectal cancer.",
+        "summary": "LAG3 expression in metastatic colorectal cancer affects prognosis and immune response, suggesting it as a potential treatment target.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41774207/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-04"
+      },
+      {
         "id": "recjyfu3GdFnPPGVV",
         "title": "Timely Matters: Predictors of Delay in Oral Cavity Cancer Patients Across the Care Continuum.",
         "summary": "Study identifies factors causing delays in oral cavity cancer diagnosis and treatment from symptom onset through completion.",
@@ -835,20 +849,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-03"
-      },
-      {
-        "id": "recxAP6lu0gqI7JdX",
-        "title": "Neoadjuvant pembrolizumab plus chemotherapy in older patients with early-stage triple-negative breast cancer: real-world insights from neo-real/GBECAM-0123.",
-        "summary": "Older patients with triple-negative breast cancer tolerate immunotherapy plus chemotherapy less well, experiencing more side effects despite similar treatment effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41771887/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-03"
       }
     ]
   },
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8639,
+    "archive_count": 8640,
     "archive_supplements": 1031,
     "archive_off_label": 375,
-    "archive_biomarkers": 5004,
+    "archive_biomarkers": 5005,
     "archive_trials": 1932
   }
 }
