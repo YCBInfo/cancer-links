@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-04T05:02:54.913Z",
+  "last_updated": "2026-03-04T05:03:05.095Z",
   "categories": {
     "supplements": [
       {
@@ -484,6 +484,20 @@
         "added_date": "2026-03-04"
       },
       {
+        "id": "recCM0kUme8aUwHTA",
+        "title": "Structural and mechanistic basis of mTORC2 activation of protein kinase AKT/PKB.",
+        "summary": "Researchers identified how mTORC2 specifically activates AKT protein, enabling development of targeted cancer therapies blocking this crucial growth pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41774454/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-04"
+      },
+      {
         "id": "recjyfu3GdFnPPGVV",
         "title": "Timely Matters: Predictors of Delay in Oral Cavity Cancer Patients Across the Care Continuum.",
         "summary": "Study identifies factors causing delays in oral cavity cancer diagnosis and treatment from symptom onset through completion.",
@@ -621,20 +635,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-03"
-      },
-      {
-        "id": "reczxHm8UPg08UpUg",
-        "title": "Optimizing bowel preparation for colonoscopy: Updated consensus recommendations.",
-        "summary": "Updated guidelines simplify colonoscopy bowel preparation with lower-volume regimens and split-dosing to improve patient tolerability for colorectal cancer screening.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41771680/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-03"
       }
@@ -860,10 +860,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8612,
+    "archive_count": 8613,
     "archive_supplements": 1028,
     "archive_off_label": 375,
-    "archive_biomarkers": 4985,
+    "archive_biomarkers": 4986,
     "archive_trials": 1927
   }
 }
