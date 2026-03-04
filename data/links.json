@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-04T05:27:39.880Z",
+  "last_updated": "2026-03-04T05:27:51.736Z",
   "categories": {
     "supplements": [
       {
@@ -272,6 +272,20 @@
         "added_date": "2026-03-04"
       },
       {
+        "id": "recrfK013JadgnAGK",
+        "title": "Pharmacokinetics of intra-articular delivery of flavopiridol-loaded microparticles reveal sustained effects in Lewis rats.",
+        "summary": "Researchers developed a sustained-release injection of flavopiridol for osteoarthritis that maintains therapeutic levels in affected joints.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41771250/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-04"
+      },
+      {
         "id": "recdAwv58DxLdISvh",
         "title": "Androgen Receptor Drives Polyamine Synthesis, Creating a Vulnerability for Prostate Cancer.",
         "summary": "High-dose androgen therapy for prostate cancer boosts polyamine production, which can be blocked with a drug to improve treatment effectiveness.",
@@ -410,20 +424,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-03"
-      },
-      {
-        "id": "rechAnCzOGltt41Zz",
-        "title": "PLOD2 Promotes Cutaneous Squamous Cell Carcinoma Progression in Association With STAT3-Related ERK and AKT Pathways.",
-        "summary": "PLOD2 protein drives skin cancer growth through STAT3 signaling, and blocking it with minoxidil slows tumor development.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41764770/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Melanoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-02"
       }
     ],
     "biomarkers": [
@@ -859,10 +859,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8745,
+    "archive_count": 8746,
     "archive_supplements": 1034,
     "archive_off_label": 377,
-    "archive_biomarkers": 5100,
+    "archive_biomarkers": 5101,
     "archive_trials": 1937
   }
 }
