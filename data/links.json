@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-04T05:14:40.978Z",
+  "last_updated": "2026-03-04T05:14:52.058Z",
   "categories": {
     "supplements": [
       {
@@ -55,6 +55,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-04"
+      },
+      {
+        "id": "recU069VEAJrTsI7D",
+        "title": "Vitamin D inhibits the development of colorectal cancer cells by regulating the gut microbiota and immune microenvironment using JAKSTAT signaling pathway.",
+        "summary": "Vitamin D reduces colorectal cancer cell growth by improving gut bacteria and immune response through a specific signaling pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41773043/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-04"
       },
@@ -189,20 +203,6 @@
         "title": "Four New Phenolic Glycosides From the Roots of Ilex pubescens and Their Cardioprotective Effects.",
         "summary": "Researchers identified four new compounds from Ilex pubescens roots that protect heart cells from injury in laboratory tests.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41772394/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-03"
-      },
-      {
-        "id": "recCNnFTjDI6L2ngP",
-        "title": "Two New Naphthoquinone-Naphthalene Hybrid Dimers From a Marine-Derived Streptomyces Species.",
-        "summary": "Researchers discovered two new compounds from marine bacteria that kill breast and stomach cancer cells in laboratory tests.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41772392/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8677,
+    "archive_count": 8678,
     "archive_supplements": 1031,
     "archive_off_label": 376,
-    "archive_biomarkers": 5039,
+    "archive_biomarkers": 5040,
     "archive_trials": 1934
   }
 }
