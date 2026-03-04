@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-04T05:06:53.273Z",
+  "last_updated": "2026-03-04T05:07:05.445Z",
   "categories": {
     "supplements": [
       {
@@ -27,6 +27,34 @@
           "Breast"
         ],
         "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-04"
+      },
+      {
+        "id": "recMfqnbJVgQbH0Q2",
+        "title": "UHRF1 as an epigenetic therapeutic target in Cancer.",
+        "summary": "UHRF1 protein, overexpressed in many cancers, is a promising drug target that could be inhibited to stop tumor growth and restore treatment sensitivity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41774300/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-04"
+      },
+      {
+        "id": "recSvL6wugW04Subu",
+        "title": "Herbacetin alleviates acute doxorubicin cardiotoxicity via regulating the ERK1/2-FOXO3a signaling pathway.",
+        "summary": "Herbacetin protects heart cells from doxorubicin chemotherapy damage by activating a specific cellular signaling pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41774278/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-04"
       },
@@ -181,34 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-03"
-      },
-      {
-        "id": "recOp6Ym7kWJQAdP1",
-        "title": "Phytoconstituents of Gmelina Arborea as Potential Breast Cancer Inhibitors: LC-MS/MS, Docking, MD Simulations, and In Vitro Evaluation.",
-        "summary": "Gmelina arborea leaf extract shows promise against breast cancer by containing compounds that effectively kill cancer cells in laboratory tests.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41772374/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-03"
-      },
-      {
-        "id": "recF8PXuIM30VqFpM",
-        "title": "Chemo Profiling and In Vitro and In Silico Exploration of Essential Oils From Stem and Leaves of Boswellia sacra Fluck.",
-        "summary": "Boswellia sacra leaf oil shows promise against breast cancer cells while stem oil demonstrates strong antidiabetic and antimicrobial properties.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41771798/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-03"
       }
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8634,
+    "archive_count": 8635,
     "archive_supplements": 1029,
     "archive_off_label": 375,
     "archive_biomarkers": 5002,
-    "archive_trials": 1931
+    "archive_trials": 1932
   }
 }
