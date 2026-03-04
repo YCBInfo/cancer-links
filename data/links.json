@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-04T07:05:17.164Z",
+  "last_updated": "2026-03-04T07:05:27.717Z",
   "categories": {
     "supplements": [
       {
@@ -329,6 +329,20 @@
         "added_date": "2026-03-04"
       },
       {
+        "id": "rece9dvKyCtU7qQzp",
+        "title": "cGAS-STING signaling in pollution-induced toxicity: mechanism and relieving medication.",
+        "summary": "Environmental pollutants activate a cellular alarm pathway (cGAS-STING) causing inflammation and disease; blocking it may reduce toxicity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41774273/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-04"
+      },
+      {
         "id": "recdAwv58DxLdISvh",
         "title": "Androgen Receptor Drives Polyamine Synthesis, Creating a Vulnerability for Prostate Cancer.",
         "summary": "High-dose androgen therapy for prostate cancer boosts polyamine production, which can be blocked with a drug to improve treatment effectiveness.",
@@ -409,20 +423,6 @@
           "Melanoma"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-03"
-      },
-      {
-        "id": "rectBjrOHjjsc5wx8",
-        "title": "Repurposing statins for choriocarcinoma: targeting the mevalonate pathway to disrupt mechanosignaling and overcome therapeutic resistance.",
-        "summary": "Statins may help treat aggressive choriocarcinoma by blocking a cellular pathway that drives tumor invasion and drug resistance.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41770291/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-03"
       }
@@ -860,10 +860,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8812,
+    "archive_count": 8813,
     "archive_supplements": 1044,
     "archive_off_label": 381,
-    "archive_biomarkers": 5143,
+    "archive_biomarkers": 5144,
     "archive_trials": 1947
   }
 }
