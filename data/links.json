@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-04T10:04:05.907Z",
+  "last_updated": "2026-03-04T10:04:54.692Z",
   "categories": {
     "supplements": [
       {
@@ -399,6 +399,20 @@
         "added_date": "2026-03-04"
       },
       {
+        "id": "reciTnlOemCesEMMC",
+        "title": "PROTAC‑Mediated HMGCR Depletion Reprograms Lipid Metabolism in Breast Cancer to Potentiate Photoimmunotherapy via Ferroptosis.",
+        "summary": "A nanoparticle therapy depletes a key metabolic protein in triple-negative breast cancer, triggering cell death and boosting immune response with minimal toxicity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41486701/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-04"
+      },
+      {
         "id": "recdAwv58DxLdISvh",
         "title": "Androgen Receptor Drives Polyamine Synthesis, Creating a Vulnerability for Prostate Cancer.",
         "summary": "High-dose androgen therapy for prostate cancer boosts polyamine production, which can be blocked with a drug to improve treatment effectiveness.",
@@ -409,20 +423,6 @@
           "Prostate"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-03"
-      },
-      {
-        "id": "recZPrKNrITws8HCJ",
-        "title": "T2R5 Agonist Phendione Decreases Cell Viability and Induces Apoptosis in Head and Neck Squamous Cell Carcinoma.",
-        "summary": "A compound called phendione kills head and neck cancer cells by activating a taste receptor, offering a new treatment approach.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41201971/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-03"
       }
@@ -860,9 +860,9 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8882,
+    "archive_count": 8883,
     "archive_supplements": 1054,
-    "archive_off_label": 383,
+    "archive_off_label": 384,
     "archive_biomarkers": 5173,
     "archive_trials": 1975
   }
