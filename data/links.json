@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-04T05:03:40.112Z",
+  "last_updated": "2026-03-04T05:03:51.807Z",
   "categories": {
     "supplements": [
       {
@@ -540,6 +540,34 @@
         "added_date": "2026-03-04"
       },
       {
+        "id": "rec7kearfdX9RLsRV",
+        "title": "Glucose metabolism sustains aberrant STAT3 signaling in colorectal cancer through glycosylated local signaling factors.",
+        "summary": "Glucose metabolism keeps STAT3 abnormally active in colorectal cancer, offering a new target for treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41774818/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-04"
+      },
+      {
+        "id": "rec7naDIYmDPVNdF6",
+        "title": "Investigation of Radiolabeled KISS1R Ligands as Promising Tools for Diagnosis and Treatment of Triple-Negative Breast Cancer.",
+        "summary": "Researchers developed improved radiolabeled peptides targeting KISS1R receptor to diagnose and treat triple-negative breast cancer more effectively.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41774810/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-04"
+      },
+      {
         "id": "recjyfu3GdFnPPGVV",
         "title": "Timely Matters: Predictors of Delay in Oral Cavity Cancer Patients Across the Care Continuum.",
         "summary": "Study identifies factors causing delays in oral cavity cancer diagnosis and treatment from symptom onset through completion.",
@@ -600,34 +628,6 @@
         "title": "Longitudinal Plasma Metabolomics Guides Dynamic Risk Assessment and Dietary Modulation for Esophageal Squamous Cell Cancer Chemoimmunotherapy.",
         "summary": "Blood metabolite patterns predict esophageal cancer treatment response and specific dietary compounds improve immunotherapy outcomes.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41771153/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-03"
-      },
-      {
-        "id": "recxIICWd8NtTHPow",
-        "title": "Multi-reader evaluation of deep learning-based auto-segmentation of eloquent brain arteriovenous malformation on MRA and white matter tractography in stereotactic radiosurgery.",
-        "summary": "A deep learning system successfully auto-segments brain arteriovenous malformations to protect white matter during radiation treatment planning.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41772699/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-03"
-      },
-      {
-        "id": "recH6CGleABG9TuZ4",
-        "title": "Confounding factors and biases abound when predicting molecular biomarkers from histological images.",
-        "summary": "Deep learning models predicting cancer biomarkers from tissue images learn confounding patterns, making them unreliable substitutes for molecular testing.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41772176/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -859,10 +859,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8616,
+    "archive_count": 8617,
     "archive_supplements": 1028,
     "archive_off_label": 375,
-    "archive_biomarkers": 4989,
+    "archive_biomarkers": 4990,
     "archive_trials": 1927
   }
 }
