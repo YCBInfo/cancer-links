@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-04T05:24:15.811Z",
+  "last_updated": "2026-03-04T05:24:27.119Z",
   "categories": {
     "supplements": [
       {
@@ -243,6 +243,20 @@
         "added_date": "2026-03-04"
       },
       {
+        "id": "recLVcUn4yvPfSUB6",
+        "title": "The multifunctional RNA helicase DDX39A drives glioblastoma progression by modulating WISP1 alternative splicing that induces an immunosuppressive macrophage polarization.",
+        "summary": "DDX39A protein drives glioblastoma growth by suppressing immune cells; blocking it with a drug slows tumor progression.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41772197/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-04"
+      },
+      {
         "id": "recdAwv58DxLdISvh",
         "title": "Androgen Receptor Drives Polyamine Synthesis, Creating a Vulnerability for Prostate Cancer.",
         "summary": "High-dose androgen therapy for prostate cancer boosts polyamine production, which can be blocked with a drug to improve treatment effectiveness.",
@@ -401,20 +415,6 @@
         "title": "Retinal Astrocytic Hamartoma in a Child With Neurofibromatosis Type 1 Treated With Selumetinib.",
         "summary": "Selumetinib, a drug used to treat neurofibromatosis tumors, unexpectedly shrank a rare eye tumor and restored vision in a child.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41707682/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-02"
-      },
-      {
-        "id": "recyM33TYrSFaG7Al",
-        "title": "Isotretinoin-related adverse sexual and reproductive outcomes: a real-world pharmacovigilance study of the FDA Adverse Event Reporting System (FAERS).",
-        "summary": "Isotretinoin, a common acne medication, may cause previously undocumented sexual and reproductive side effects that warrant further investigation.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41447583/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8726,
+    "archive_count": 8727,
     "archive_supplements": 1034,
     "archive_off_label": 377,
-    "archive_biomarkers": 5083,
+    "archive_biomarkers": 5084,
     "archive_trials": 1935
   }
 }
