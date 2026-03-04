@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-04T05:15:01.958Z",
+  "last_updated": "2026-03-04T05:15:11.621Z",
   "categories": {
     "supplements": [
       {
@@ -67,6 +67,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-04"
+      },
+      {
+        "id": "recRDWkZYu0XBINJh",
+        "title": "Examination of the Effect of Riboflavin on TNF-α, Cas-3 Expression and SIRT1/p53/Bax/Bcl-2 Gene Expression in Diatrizoate-Induced Experimental Nephropathy Model.",
+        "summary": "Riboflavin reduced inflammation and cell death markers in a kidney damage model by activating protective genes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41773034/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lymphoma"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -195,20 +209,6 @@
           "General"
         ],
         "quality_score": 21,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-03"
-      },
-      {
-        "id": "recZzeoXXip7tyrz9",
-        "title": "Four New Phenolic Glycosides From the Roots of Ilex pubescens and Their Cardioprotective Effects.",
-        "summary": "Researchers identified four new compounds from Ilex pubescens roots that protect heart cells from injury in laboratory tests.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41772394/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-03"
       }
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8679,
+    "archive_count": 8680,
     "archive_supplements": 1031,
     "archive_off_label": 376,
-    "archive_biomarkers": 5041,
+    "archive_biomarkers": 5042,
     "archive_trials": 1934
   }
 }
