@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-04T05:16:26.937Z",
+  "last_updated": "2026-03-04T05:16:37.370Z",
   "categories": {
     "supplements": [
       {
@@ -81,6 +81,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Lymphoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-04"
+      },
+      {
+        "id": "recqCk4aouJ7VDyfB",
+        "title": "Efficacy of a plant-based diet on FOLFOX chemotherapy-induced gastrointestinal toxicity in patients with colorectal cancer: study protocol for a multicentre, stratified, randomised controlled trial.",
+        "summary": "A study will test whether a plant-based diet reduces stomach problems in colorectal cancer patients undergoing chemotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41772652/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -195,20 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-03"
-      },
-      {
-        "id": "recpdufHG3rNOZ7ix",
-        "title": "Effect Modification by Serum Vitamin A Levels on the Association between Vitamin D and Relapse or Death in Patients with Digestive Tract Cancer.",
-        "summary": "Vitamin A levels may influence whether vitamin D supplementation helps prevent relapse or death in digestive tract cancer patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41524587/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 21,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-03"
       }
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8687,
+    "archive_count": 8688,
     "archive_supplements": 1033,
     "archive_off_label": 376,
-    "archive_biomarkers": 5046,
+    "archive_biomarkers": 5047,
     "archive_trials": 1935
   }
 }
