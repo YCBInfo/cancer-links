@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-04T09:02:30.320Z",
+  "last_updated": "2026-03-04T10:01:57.002Z",
   "categories": {
     "supplements": [
       {
@@ -343,6 +343,34 @@
         "added_date": "2026-03-04"
       },
       {
+        "id": "recQX6lap5eHZb6ZS",
+        "title": "Liposomal Amodiaquine for Localized Therapy of Non-Small Cell Lung Cancer (NSCLC).",
+        "summary": "Inhalable liposomes containing an anti-malarial drug showed enhanced effectiveness against lung cancer cells in laboratory studies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41776149/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-04"
+      },
+      {
+        "id": "rec7bL3YfceVNp74s",
+        "title": "Post-translational modifications of triosephosphate isomerase reveal metabolic vulnerabilities in T-ALL: effect of combining dichloroacetic acid and the PPI rabeprazole.",
+        "summary": "Combining rabeprazole and dichloroacetic acid selectively kills T-cell acute lymphoblastic leukemia cells by targeting a modified metabolic enzyme while sparing normal cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41627142/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-04"
+      },
+      {
         "id": "recdAwv58DxLdISvh",
         "title": "Androgen Receptor Drives Polyamine Synthesis, Creating a Vulnerability for Prostate Cancer.",
         "summary": "High-dose androgen therapy for prostate cancer boosts polyamine production, which can be blocked with a drug to improve treatment effectiveness.",
@@ -396,34 +424,6 @@
         ],
         "quality_score": 16,
         "pub_date": "2026-03-02",
-        "added_date": "2026-03-03"
-      },
-      {
-        "id": "rec9JqTObYGnYngNk",
-        "title": "A Phase IIa, Placebo-Controlled, Randomized Study of Daily Obeticholic Acid (OCA) to Reduce Intestinal Polyp Burden in Familial Adenomatous Polyposis (FAP)",
-        "summary": "A study tested whether obeticholic acid reduces intestinal polyp burden in familial adenomatous polyposis patients.",
-        "url": "https://clinicaltrials.gov/study/NCT05223036",
-        "source": "ClinicalTrials.gov",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 16,
-        "pub_date": "2026-03-02",
-        "added_date": "2026-03-03"
-      },
-      {
-        "id": "recQZASJ9fXUBJv4l",
-        "title": "ASO Visual Abstract: Evaluation of Talimogene Laherparepvec for the Treatment of Advanced Nonmelanoma Skin Cancers.",
-        "summary": "T-VEC, an oncolytic virus therapy, produced durable responses in over half of advanced nonmelanoma skin cancer patients, especially when combined with immunotherapy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41772244/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Melanoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
         "added_date": "2026-03-03"
       }
     ],
@@ -860,10 +860,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8871,
+    "archive_count": 8872,
     "archive_supplements": 1053,
     "archive_off_label": 381,
-    "archive_biomarkers": 5166,
+    "archive_biomarkers": 5167,
     "archive_trials": 1974
   }
 }
