@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-05T05:05:40.282Z",
+  "last_updated": "2026-03-05T05:05:51.488Z",
   "categories": {
     "supplements": [
       {
@@ -27,6 +27,20 @@
           "Lung"
         ],
         "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-05"
+      },
+      {
+        "id": "rec46Clk2hTn7E4En",
+        "title": "Design, semisynthesis, and anti-inflammatory activity evaluation of a terphenyllin compound library for alleviating ulcerative colitis.",
+        "summary": "Researchers developed a terphenyllin derivative (c13) that effectively reduces inflammation in ulcerative colitis, potentially lowering cancer risk.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41518956/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-03-05"
       },
@@ -195,20 +209,6 @@
           "Lymphoma"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-04"
-      },
-      {
-        "id": "recTbbOZsxIlSlZEA",
-        "title": "Calabanones A‒H, chromanone derivatives from the stem bark of Calophyllum calaba and their cytotoxic activities against cancer cells.",
-        "summary": "Eight new plant compounds from Calophyllum calaba showed moderate cytotoxic activity against KB and HeLa cancer cells in laboratory tests.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41775922/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-04"
       }
@@ -862,10 +862,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8901,
+    "archive_count": 8902,
     "archive_supplements": 1055,
     "archive_off_label": 385,
-    "archive_biomarkers": 5187,
+    "archive_biomarkers": 5188,
     "archive_trials": 1977
   }
 }
