@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-05T05:03:06.547Z",
+  "last_updated": "2026-03-05T05:03:19.765Z",
   "categories": {
     "supplements": [
       {
@@ -500,6 +500,20 @@
         "added_date": "2026-03-05"
       },
       {
+        "id": "recvHAEDg8PFVvRER",
+        "title": "Effects of Radiotherapy in Normal Tissue.",
+        "summary": "Modern radiotherapy improves tumor control while reducing side effects through better imaging, planning, and dose delivery techniques.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41780002/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-05"
+      },
+      {
         "id": "recTBfuHqUovhBLKz",
         "title": "Neoadjuvant Systemic Therapy in Kidney and Bladder Cancer: Current Evidence and Emerging Paradigms.",
         "summary": "Neoadjuvant therapy before surgery improves outcomes in kidney and bladder cancer, with immunotherapy showing promise alongside chemotherapy.",
@@ -625,23 +639,23 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-04"
-      },
-      {
-        "id": "rec7naDIYmDPVNdF6",
-        "title": "Investigation of Radiolabeled KISS1R Ligands as Promising Tools for Diagnosis and Treatment of Triple-Negative Breast Cancer.",
-        "summary": "Researchers developed improved radiolabeled peptides targeting KISS1R receptor to diagnose and treat triple-negative breast cancer more effectively.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41774810/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-04"
       }
     ],
     "trials": [
+      {
+        "id": "recvHAEDg8PFVvRER",
+        "title": "Effects of Radiotherapy in Normal Tissue.",
+        "summary": "Modern radiotherapy improves tumor control while reducing side effects through better imaging, planning, and dose delivery techniques.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41780002/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-05"
+      },
       {
         "id": "recTBfuHqUovhBLKz",
         "title": "Neoadjuvant Systemic Therapy in Kidney and Bladder Cancer: Current Evidence and Emerging Paradigms.",
@@ -838,20 +852,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-04"
-      },
-      {
-        "id": "recndLF016CPwQnAl",
-        "title": "Clinical outcomes of esophageal squamous cell carcinoma with pathological complete response after neoadjuvant chemoradiotherapy and surgery.",
-        "summary": "Esophageal cancer patients who achieve complete tumor elimination after pre-surgery chemotherapy and radiation show improved outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41774194/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-04"
       }
     ]
   },
@@ -861,10 +861,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8887,
+    "archive_count": 8888,
     "archive_supplements": 1054,
     "archive_off_label": 384,
-    "archive_biomarkers": 5175,
+    "archive_biomarkers": 5176,
     "archive_trials": 1977
   }
 }
