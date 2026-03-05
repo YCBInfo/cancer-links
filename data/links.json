@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-05T05:03:53.074Z",
+  "last_updated": "2026-03-05T05:04:05.973Z",
   "categories": {
     "supplements": [
       {
@@ -557,6 +557,20 @@
         "added_date": "2026-03-05"
       },
       {
+        "id": "rec3A2Yk0Dvuub5kl",
+        "title": "Crohn's disease under single-cell map: from INFLARE metaplastic cells to rare immune cell subpopulations.",
+        "summary": "Single-cell sequencing reveals novel immune cell subsets in Crohn's disease, offering potential new therapeutic targets.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41610714/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-05"
+      },
+      {
         "id": "recTBfuHqUovhBLKz",
         "title": "Neoadjuvant Systemic Therapy in Kidney and Bladder Cancer: Current Evidence and Emerging Paradigms.",
         "summary": "Neoadjuvant therapy before surgery improves outcomes in kidney and bladder cancer, with immunotherapy showing promise alongside chemotherapy.",
@@ -618,20 +632,6 @@
         "title": "Structural and mechanistic basis of mTORC2 activation of protein kinase AKT/PKB.",
         "summary": "Researchers identified how mTORC2 specifically activates AKT protein, enabling development of targeted cancer therapies blocking this crucial growth pathway.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41774454/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-04"
-      },
-      {
-        "id": "recdiYZCClASYvPu3",
-        "title": "Streamlined Digital Microfluidics-Mass Spectrometry Strategy for Extracellular Vesicle Enrichment and Lipid Profiling.",
-        "summary": "A new microfluidic device rapidly isolates and analyzes lipids in cancer cell-derived vesicles, revealing immune-related lipid differences in minutes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41774895/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -862,9 +862,9 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8891,
+    "archive_count": 8892,
     "archive_supplements": 1054,
-    "archive_off_label": 384,
+    "archive_off_label": 385,
     "archive_biomarkers": 5179,
     "archive_trials": 1977
   }
