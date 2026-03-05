@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-04T10:05:26.418Z",
+  "last_updated": "2026-03-05T05:02:56.421Z",
   "categories": {
     "supplements": [
       {
@@ -429,6 +429,63 @@
     ],
     "biomarkers": [
       {
+        "id": "recdQlLaf4ZGnU1JM",
+        "title": "Optimizing protocols for microRNA profiling of infant and toddler stool.",
+        "summary": "Researchers identified optimal methods for preserving and extracting genetic material from infant stool samples for microRNA analysis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41715892/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-05"
+      },
+      {
+        "id": "recSkSLzFOsK7cnaG",
+        "title": "The Diagnostic Value of PET/CT and MRI in Head and Neck Cancer of Unknown Primary.",
+        "summary": "PET/CT and MRI imaging help doctors identify the original source of head and neck cancer when the primary tumor location is unknown.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41778095/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-05"
+      },
+      {
+        "id": "rech9dwkGhAAwg5uz",
+        "title": "Extracellular heme:DNA complexes promote oxidative stress and inflammation during lupus-associated hemolysis.",
+        "summary": "Heme and free DNA released during hemolysis combine to trigger inflammation and tissue damage in lupus disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41779796/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-05"
+      },
+      {
+        "id": "recyjC5cbX6a8RQD5",
+        "title": "Neutralization of acyl-CoA-binding protein attenuates glucocorticoid-mediated suppression of cancer immunosurveillance.",
+        "summary": "Blocking a protein called ACBP/DBI restores cancer-fighting immune responses suppressed by steroids in breast, lung, and skin cancers.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41779791/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast",
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-05"
+      },
+      {
         "id": "recTBfuHqUovhBLKz",
         "title": "Neoadjuvant Systemic Therapy in Kidney and Bladder Cancer: Current Evidence and Emerging Paradigms.",
         "summary": "Neoadjuvant therapy before surgery improves outcomes in kidney and bladder cancer, with immunotherapy showing promise alongside chemotherapy.",
@@ -580,62 +637,6 @@
           "Lung"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-04"
-      },
-      {
-        "id": "rec0XvDzWRhS5alv1",
-        "title": "Characterization of Kidney and Liver Cystic Phenotype Associated with GANAB Using Advanced Imaging Biomarkers.",
-        "summary": "Researchers used advanced imaging to better understand how GANAB gene mutations cause cysts in kidneys and livers.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41774594/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-04"
-      },
-      {
-        "id": "recJjcDCrmgvSFb6f",
-        "title": "Apoptotic Marker Analysis in Heated-Intraperitoneal Chemotherapy Effluent Fluid Is Associated With Prognosis in Patients With Peritoneal Metastases.",
-        "summary": "A blood test measuring cell death markers in chemotherapy fluid predicts survival outcomes for patients with abdominal cancer spread.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41774555/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-04"
-      },
-      {
-        "id": "recXI6JZA6ftsJmPR",
-        "title": "Hybrid Community-EHR Approaches to APOL1 Kidney Disease Screening and Clinical Trials among Black Individuals.",
-        "summary": "A study used community education and screening to identify Black patients with genetic kidney disease for a clinical trial testing a new treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41774497/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 18,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-04"
-      },
-      {
-        "id": "recmNd8ORwTm2h8k4",
-        "title": "Real-World Use of Dostarlimab Plus Chemotherapy in Advanced or Recurrent dMMR Endometrial Cancer: A Nationwide Cohort Study in France.",
-        "summary": "French study confirms dostarlimab combined with chemotherapy improves outcomes for advanced endometrial cancer with specific genetic markers.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41774431/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 26,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-04"
       }
@@ -860,10 +861,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8885,
+    "archive_count": 8886,
     "archive_supplements": 1054,
     "archive_off_label": 384,
-    "archive_biomarkers": 5173,
+    "archive_biomarkers": 5174,
     "archive_trials": 1977
   }
 }
