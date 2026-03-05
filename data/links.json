@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-03-05T05:04:05.973Z",
+  "last_updated": "2026-03-05T05:04:17.815Z",
   "categories": {
     "supplements": [
+      {
+        "id": "rec8ft9JVYXiKlq3b",
+        "title": "Current landscape and therapeutic prospects of indole hybrids for prostate cancer treatment: A mini-review.",
+        "summary": "Indole hybrid compounds show promise for treating prostate cancer by targeting multiple pathways and overcoming drug resistance.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41548295/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-05"
+      },
       {
         "id": "rec8kmDckpZBWrj43",
         "title": "The role of prehabilitation in improving brain health and cognition after chemotherapy in patients with colorectal cancer: Study protocol of the Chemo Brain Prehab Project.",
@@ -189,20 +203,6 @@
         "title": "Dietary patterns and tryptophan metabolism: mechanistic insights and health implications.",
         "summary": "Diet regulates tryptophan metabolism through different pathways, with Mediterranean diet reducing inflammation and cancer risk better than Western diets.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41775650/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-04"
-      },
-      {
-        "id": "recJpmUGcgLqRoqOe",
-        "title": "Ginkgetin targets GRP78 to induce dual pathways of ER stress and immune activation in osteosarcoma.",
-        "summary": "Ginkgetin blocks GRP78 in osteosarcoma, triggering cell death and boosting immune response to fight the cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41776050/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -571,6 +571,20 @@
         "added_date": "2026-03-05"
       },
       {
+        "id": "rec8ft9JVYXiKlq3b",
+        "title": "Current landscape and therapeutic prospects of indole hybrids for prostate cancer treatment: A mini-review.",
+        "summary": "Indole hybrid compounds show promise for treating prostate cancer by targeting multiple pathways and overcoming drug resistance.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41548295/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-05"
+      },
+      {
         "id": "recTBfuHqUovhBLKz",
         "title": "Neoadjuvant Systemic Therapy in Kidney and Bladder Cancer: Current Evidence and Emerging Paradigms.",
         "summary": "Neoadjuvant therapy before surgery improves outcomes in kidney and bladder cancer, with immunotherapy showing promise alongside chemotherapy.",
@@ -618,20 +632,6 @@
         "title": "Dynamic reprogramming of the tumor immune network via multicycle checkpoint degradation for cancer immunotherapy.",
         "summary": "A new platform called RECYC removes immune checkpoint proteins from multiple immune cells in tumors, enhancing anti-tumor immunity better than current treatments.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41770936/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-04"
-      },
-      {
-        "id": "recCM0kUme8aUwHTA",
-        "title": "Structural and mechanistic basis of mTORC2 activation of protein kinase AKT/PKB.",
-        "summary": "Researchers identified how mTORC2 specifically activates AKT protein, enabling development of targeted cancer therapies blocking this crucial growth pathway.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41774454/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -862,10 +862,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8892,
+    "archive_count": 8893,
     "archive_supplements": 1054,
     "archive_off_label": 385,
-    "archive_biomarkers": 5179,
+    "archive_biomarkers": 5180,
     "archive_trials": 1977
   }
 }
