@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-05T05:09:28.714Z",
+  "last_updated": "2026-03-05T05:09:39.902Z",
   "categories": {
     "supplements": [
       {
@@ -800,6 +800,21 @@
         "added_date": "2026-03-05"
       },
       {
+        "id": "recr6HGX67DGQjnUT",
+        "title": "Myeloid/Lymphoid Neoplasms with FGFR1 Rearrangement and Pemigatinib.",
+        "summary": "Pemigatinib, a targeted drug blocking FGFR1, shows remarkable effectiveness in treating rare myeloid/lymphoid blood cancers with FGFR1 mutations.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41779732/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia",
+          "Lymphoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-05"
+      },
+      {
         "id": "recTBfuHqUovhBLKz",
         "title": "Neoadjuvant Systemic Therapy in Kidney and Bladder Cancer: Current Evidence and Emerging Paradigms.",
         "summary": "Neoadjuvant therapy before surgery improves outcomes in kidney and bladder cancer, with immunotherapy showing promise alongside chemotherapy.",
@@ -841,20 +856,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-04"
-      },
-      {
-        "id": "rec8kmDckpZBWrj43",
-        "title": "The role of prehabilitation in improving brain health and cognition after chemotherapy in patients with colorectal cancer: Study protocol of the Chemo Brain Prehab Project.",
-        "summary": "Researchers are testing whether exercise and training before chemotherapy can prevent memory and thinking problems in colorectal cancer patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41774738/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-04"
       }
     ]
   },
@@ -864,10 +865,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8922,
+    "archive_count": 8923,
     "archive_supplements": 1060,
     "archive_off_label": 385,
-    "archive_biomarkers": 5201,
+    "archive_biomarkers": 5202,
     "archive_trials": 1979
   }
 }
