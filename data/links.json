@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-05T05:04:27.827Z",
+  "last_updated": "2026-03-05T05:04:36.904Z",
   "categories": {
     "supplements": [
       {
@@ -599,6 +599,20 @@
         "added_date": "2026-03-05"
       },
       {
+        "id": "rec4BmF7vs8np0I59",
+        "title": "Discovery of WWZ-11-098: a rigid and selective CDK6 degrader.",
+        "summary": "Researchers discovered WWZ-11-098, a selective CDK6 degrader that effectively stops blood cancer cell growth without harming other proteins.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41548292/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-05"
+      },
+      {
         "id": "recTBfuHqUovhBLKz",
         "title": "Neoadjuvant Systemic Therapy in Kidney and Bladder Cancer: Current Evidence and Emerging Paradigms.",
         "summary": "Neoadjuvant therapy before surgery improves outcomes in kidney and bladder cancer, with immunotherapy showing promise alongside chemotherapy.",
@@ -622,20 +636,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-04"
-      },
-      {
-        "id": "recRRrlI61t3VJ2Ns",
-        "title": "Brain and Spinal Leptomeningeal Metastases in Prostate Cancer Detected by PSMA PET and MRI Fusion.",
-        "summary": "PSMA PET imaging successfully detected widespread brain and spinal cord metastases in a prostate cancer patient with worsening neurological symptoms.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41771034/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Prostate"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -862,10 +862,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8894,
+    "archive_count": 8895,
     "archive_supplements": 1054,
     "archive_off_label": 385,
-    "archive_biomarkers": 5181,
+    "archive_biomarkers": 5182,
     "archive_trials": 1977
   }
 }
