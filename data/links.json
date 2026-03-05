@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-05T09:02:48.578Z",
+  "last_updated": "2026-03-05T10:02:09.200Z",
   "categories": {
     "supplements": [
       {
@@ -271,6 +271,20 @@
         "added_date": "2026-03-05"
       },
       {
+        "id": "recAlrRtRQEeTmFCt",
+        "title": "Promiscuously bioactive compounds are prevalent in widely used commercial drug repurposing libraries.",
+        "summary": "Drug repurposing libraries contain many promiscuous compounds that may lead researchers astray and waste resources on ineffective clinical trials.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41494469/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-05"
+      },
+      {
         "id": "rec9i0qqpfHLYVOSh",
         "title": "Cardioprotective effects of prophylactic ACE inhibitors in anthracycline-induced cardiotoxicity: a systematic review and meta-analysis of randomized trials.",
         "summary": "ACE inhibitors help prevent heart damage in cancer patients receiving anthracycline chemotherapy, particularly those also taking trastuzumab.",
@@ -410,20 +424,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
-        "added_date": "2026-03-04"
-      },
-      {
-        "id": "rec7bL3YfceVNp74s",
-        "title": "Post-translational modifications of triosephosphate isomerase reveal metabolic vulnerabilities in T-ALL: effect of combining dichloroacetic acid and the PPI rabeprazole.",
-        "summary": "Combining rabeprazole and dichloroacetic acid selectively kills T-cell acute lymphoblastic leukemia cells by targeting a modified metabolic enzyme while sparing normal cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41627142/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
         "added_date": "2026-03-04"
       }
     ],
@@ -864,10 +864,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9164,
+    "archive_count": 9165,
     "archive_supplements": 1080,
     "archive_off_label": 386,
     "archive_biomarkers": 5368,
-    "archive_trials": 2033
+    "archive_trials": 2034
   }
 }
