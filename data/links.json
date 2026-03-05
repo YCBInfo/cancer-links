@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-05T05:05:29.472Z",
+  "last_updated": "2026-03-05T05:05:40.282Z",
   "categories": {
     "supplements": [
       {
@@ -672,6 +672,20 @@
         "added_date": "2026-03-05"
       },
       {
+        "id": "rec8josMq1GlkUkpy",
+        "title": "The efficacy of combination therapy versus monotherapy in patients with glioblastoma with abnormal epidermal growth factor receptor (EGFR) genes, a systematic review and network meta-analysis.",
+        "summary": "Combination therapies with targeted drugs plus temozolomide outperform single-drug treatments in glioblastoma patients with abnormal EGFR genes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41519428/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-05"
+      },
+      {
         "id": "recTBfuHqUovhBLKz",
         "title": "Neoadjuvant Systemic Therapy in Kidney and Bladder Cancer: Current Evidence and Emerging Paradigms.",
         "summary": "Neoadjuvant therapy before surgery improves outcomes in kidney and bladder cancer, with immunotherapy showing promise alongside chemotherapy.",
@@ -839,20 +853,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-04"
-      },
-      {
-        "id": "recz6kJLOA92yN5TE",
-        "title": "M2pep-modified liposomal nanoparticles delivering siITGB4 induce apoptosis and inhibit NSCLC metastasis via macrophage reprogramming.",
-        "summary": "Modified nanoparticles targeting lung cancer macrophages reprogram immune cells and reduce tumor spread and growth.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41774227/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-04"
       }
     ]
   },
@@ -862,10 +862,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8900,
+    "archive_count": 8901,
     "archive_supplements": 1055,
     "archive_off_label": 385,
-    "archive_biomarkers": 5186,
+    "archive_biomarkers": 5187,
     "archive_trials": 1977
   }
 }
