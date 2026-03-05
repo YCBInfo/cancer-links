@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-05T05:05:18.190Z",
+  "last_updated": "2026-03-05T05:05:29.472Z",
   "categories": {
     "supplements": [
       {
@@ -11,6 +11,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-05"
+      },
+      {
+        "id": "recFnXzVVW0tnDG2E",
+        "title": "Design, synthesis, and evaluation of unsymmetrical trifluoromethyl-containing bisindolylmethane derivatives inducing endoplasmic reticulum stress in human lung adenocarcinoma.",
+        "summary": "Researchers developed a new compound (5b) that kills lung cancer cells by triggering stress in the endoplasmic reticulum, showing superior effectiveness compared to existing treatments.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41534435/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -189,20 +203,6 @@
         "title": "Calabanones A‒H, chromanone derivatives from the stem bark of Calophyllum calaba and their cytotoxic activities against cancer cells.",
         "summary": "Eight new plant compounds from Calophyllum calaba showed moderate cytotoxic activity against KB and HeLa cancer cells in laboratory tests.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41775922/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-04"
-      },
-      {
-        "id": "recUgE5GsBO7SuxLo",
-        "title": "Dietary patterns and tryptophan metabolism: mechanistic insights and health implications.",
-        "summary": "Diet regulates tryptophan metabolism through different pathways, with Mediterranean diet reducing inflammation and cancer risk better than Western diets.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41775650/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -862,10 +862,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8899,
+    "archive_count": 8900,
     "archive_supplements": 1055,
     "archive_off_label": 385,
-    "archive_biomarkers": 5185,
+    "archive_biomarkers": 5186,
     "archive_trials": 1977
   }
 }
