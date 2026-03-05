@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-05T05:04:17.815Z",
+  "last_updated": "2026-03-05T05:04:27.827Z",
   "categories": {
     "supplements": [
       {
@@ -585,6 +585,20 @@
         "added_date": "2026-03-05"
       },
       {
+        "id": "recqrAyvofF0OYMwd",
+        "title": "Discover of a highly effective covalent inhibitor of CDK6 for triple-negative breast cancer treatment.",
+        "summary": "Researchers developed compound C32, a potent CDK6 inhibitor that is 200-fold more effective than current drugs against triple-negative breast cancer cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41548293/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-05"
+      },
+      {
         "id": "recTBfuHqUovhBLKz",
         "title": "Neoadjuvant Systemic Therapy in Kidney and Bladder Cancer: Current Evidence and Emerging Paradigms.",
         "summary": "Neoadjuvant therapy before surgery improves outcomes in kidney and bladder cancer, with immunotherapy showing promise alongside chemotherapy.",
@@ -624,20 +638,6 @@
           "Prostate"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-04"
-      },
-      {
-        "id": "recPXsFcCTt1o7HE4",
-        "title": "Dynamic reprogramming of the tumor immune network via multicycle checkpoint degradation for cancer immunotherapy.",
-        "summary": "A new platform called RECYC removes immune checkpoint proteins from multiple immune cells in tumors, enhancing anti-tumor immunity better than current treatments.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41770936/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-04"
       }
@@ -862,10 +862,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8893,
+    "archive_count": 8894,
     "archive_supplements": 1054,
     "archive_off_label": 385,
-    "archive_biomarkers": 5180,
+    "archive_biomarkers": 5181,
     "archive_trials": 1977
   }
 }
