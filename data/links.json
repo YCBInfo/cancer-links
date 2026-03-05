@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-05T05:24:06.439Z",
+  "last_updated": "2026-03-05T05:24:17.123Z",
   "categories": {
     "supplements": [
       {
@@ -257,6 +257,20 @@
         "added_date": "2026-03-05"
       },
       {
+        "id": "rec66AprZexOILaQs",
+        "title": "Immunotherapy Inhibits Tumor Cholesterol Synthesis via the IFNγ-IRF1-SREBF2 Axis.",
+        "summary": "Immunotherapy blocks cholesterol production in cancer cells through an immune signaling pathway, slowing tumor growth.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41364085/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-05"
+      },
+      {
         "id": "rec9i0qqpfHLYVOSh",
         "title": "Cardioprotective effects of prophylactic ACE inhibitors in anthracycline-induced cardiotoxicity: a systematic review and meta-analysis of randomized trials.",
         "summary": "ACE inhibitors help prevent heart damage in cancer patients receiving anthracycline chemotherapy, particularly those also taking trastuzumab.",
@@ -410,20 +424,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
-        "added_date": "2026-03-04"
-      },
-      {
-        "id": "rec7I36ZTd6iGZE23",
-        "title": "Surgically induced necrotizing scleritis after orbital surgery with intraconal tumor excision: a case report.",
-        "summary": "A woman developed severe eye inflammation with scleral damage nine weeks after orbital tumor removal surgery, successfully treated with steroids and methotrexate.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41774284/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
         "added_date": "2026-03-04"
       }
     ],
@@ -864,10 +864,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9003,
+    "archive_count": 9004,
     "archive_supplements": 1064,
     "archive_off_label": 386,
     "archive_biomarkers": 5268,
-    "archive_trials": 1988
+    "archive_trials": 1989
   }
 }
