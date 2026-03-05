@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-05T10:02:53.582Z",
+  "last_updated": "2026-03-05T10:03:13.268Z",
   "categories": {
     "supplements": [
       {
@@ -285,6 +285,20 @@
         "added_date": "2026-03-05"
       },
       {
+        "id": "recHrsFasvo4fWQkj",
+        "title": "Imeglimin Exerts Anti-Tumor Activity in Multiple Myeloma Through Affecting Energy Metabolism and Downregulating IL-16 Expression.",
+        "summary": "Imeglimin, an anti-diabetic drug, slows multiple myeloma growth by disrupting cancer cell energy and reducing inflammation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41782019/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-05"
+      },
+      {
         "id": "rec9i0qqpfHLYVOSh",
         "title": "Cardioprotective effects of prophylactic ACE inhibitors in anthracycline-induced cardiotoxicity: a systematic review and meta-analysis of randomized trials.",
         "summary": "ACE inhibitors help prevent heart damage in cancer patients receiving anthracycline chemotherapy, particularly those also taking trastuzumab.",
@@ -409,20 +423,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-04"
-      },
-      {
-        "id": "recQX6lap5eHZb6ZS",
-        "title": "Liposomal Amodiaquine for Localized Therapy of Non-Small Cell Lung Cancer (NSCLC).",
-        "summary": "Inhalable liposomes containing an anti-malarial drug showed enhanced effectiveness against lung cancer cells in laboratory studies.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41776149/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-04"
       }
@@ -864,10 +864,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9169,
+    "archive_count": 9170,
     "archive_supplements": 1080,
     "archive_off_label": 387,
-    "archive_biomarkers": 5369,
+    "archive_biomarkers": 5370,
     "archive_trials": 2036
   }
 }
