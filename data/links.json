@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-05T05:03:19.765Z",
+  "last_updated": "2026-03-05T05:03:30.705Z",
   "categories": {
     "supplements": [
       {
@@ -229,6 +229,20 @@
         "added_date": "2026-03-05"
       },
       {
+        "id": "recREFAjG7pSVpYvt",
+        "title": "Finerenone in Type 1 Diabetes and Chronic Kidney Disease.",
+        "summary": "Researchers are testing whether finerenone, a kidney-protective drug, works safely and effectively for type 1 diabetes patients with kidney disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41780000/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-05"
+      },
+      {
         "id": "rec9i0qqpfHLYVOSh",
         "title": "Cardioprotective effects of prophylactic ACE inhibitors in anthracycline-induced cardiotoxicity: a systematic review and meta-analysis of randomized trials.",
         "summary": "ACE inhibitors help prevent heart damage in cancer patients receiving anthracycline chemotherapy, particularly those also taking trastuzumab.",
@@ -409,20 +423,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-04"
-      },
-      {
-        "id": "reciTnlOemCesEMMC",
-        "title": "PROTAC‑Mediated HMGCR Depletion Reprograms Lipid Metabolism in Breast Cancer to Potentiate Photoimmunotherapy via Ferroptosis.",
-        "summary": "A nanoparticle therapy depletes a key metabolic protein in triple-negative breast cancer, triggering cell death and boosting immune response with minimal toxicity.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41486701/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-04"
       }
@@ -657,6 +657,20 @@
         "added_date": "2026-03-05"
       },
       {
+        "id": "recREFAjG7pSVpYvt",
+        "title": "Finerenone in Type 1 Diabetes and Chronic Kidney Disease.",
+        "summary": "Researchers are testing whether finerenone, a kidney-protective drug, works safely and effectively for type 1 diabetes patients with kidney disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41780000/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-05"
+      },
+      {
         "id": "recTBfuHqUovhBLKz",
         "title": "Neoadjuvant Systemic Therapy in Kidney and Bladder Cancer: Current Evidence and Emerging Paradigms.",
         "summary": "Neoadjuvant therapy before surgery improves outcomes in kidney and bladder cancer, with immunotherapy showing promise alongside chemotherapy.",
@@ -838,20 +852,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-04"
-      },
-      {
-        "id": "recDfRacQmUjfnrYo",
-        "title": "Clinical and immunological implications of lymphocyte-activation gene 3 expression in metastatic colorectal cancer.",
-        "summary": "LAG3 expression in metastatic colorectal cancer affects prognosis and immune response, suggesting it as a potential treatment target.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41774207/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-04"
       }
     ]
   },
@@ -861,10 +861,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8888,
+    "archive_count": 8889,
     "archive_supplements": 1054,
     "archive_off_label": 384,
-    "archive_biomarkers": 5176,
+    "archive_biomarkers": 5177,
     "archive_trials": 1977
   }
 }
