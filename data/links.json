@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-05T05:11:04.901Z",
+  "last_updated": "2026-03-05T05:11:18.290Z",
   "categories": {
     "supplements": [
       {
@@ -829,6 +829,20 @@
         "added_date": "2026-03-05"
       },
       {
+        "id": "recsvPuBwMGUWY0p8",
+        "title": "Comparison of first-line cetuximab and panitumumab plus doublet chemotherapies for left-sided colorectal cancer: a multicenter real-world observational study by the Japanese Society for Cancer of the Colon and Rectum.",
+        "summary": "Study compares two antibody drugs combined with chemotherapy for treating advanced left-sided colorectal cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41779341/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-05"
+      },
+      {
         "id": "recTBfuHqUovhBLKz",
         "title": "Neoadjuvant Systemic Therapy in Kidney and Bladder Cancer: Current Evidence and Emerging Paradigms.",
         "summary": "Neoadjuvant therapy before surgery improves outcomes in kidney and bladder cancer, with immunotherapy showing promise alongside chemotherapy.",
@@ -842,20 +856,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-04"
-      },
-      {
-        "id": "recPXsFcCTt1o7HE4",
-        "title": "Dynamic reprogramming of the tumor immune network via multicycle checkpoint degradation for cancer immunotherapy.",
-        "summary": "A new platform called RECYC removes immune checkpoint proteins from multiple immune cells in tumors, enhancing anti-tumor immunity better than current treatments.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41770936/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-04"
       }
     ]
   },
@@ -865,10 +865,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8931,
+    "archive_count": 8932,
     "archive_supplements": 1060,
     "archive_off_label": 385,
-    "archive_biomarkers": 5209,
+    "archive_biomarkers": 5210,
     "archive_trials": 1980
   }
 }
