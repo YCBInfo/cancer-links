@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-05T05:09:39.902Z",
+  "last_updated": "2026-03-05T05:09:49.957Z",
   "categories": {
     "supplements": [
       {
@@ -815,6 +815,20 @@
         "added_date": "2026-03-05"
       },
       {
+        "id": "recPl4Uuy8tIIBCfd",
+        "title": "Prognostic Factors and Progression Biomarkers in AL Amyloidosis: Mapping Current Knowledge and Critical Gaps.",
+        "summary": "Newer AL amyloidosis treatments achieve better survival, but prognostic models need updating to identify patients needing additional interventions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41779722/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-05"
+      },
+      {
         "id": "recTBfuHqUovhBLKz",
         "title": "Neoadjuvant Systemic Therapy in Kidney and Bladder Cancer: Current Evidence and Emerging Paradigms.",
         "summary": "Neoadjuvant therapy before surgery improves outcomes in kidney and bladder cancer, with immunotherapy showing promise alongside chemotherapy.",
@@ -842,20 +856,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-04"
-      },
-      {
-        "id": "recvhnOi6cIbJexp4",
-        "title": "Integrated CTC Enrichment and Dual-Responsive Nanoprobe Identification Enable Intelligent Liquid Biopsy-Based Cancer Diagnosis.",
-        "summary": "Researchers developed a new blood test using nanoparticles to identify lung cancer cells circulating in blood more accurately than existing methods.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41774774/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-04"
       }
     ]
   },
@@ -865,10 +865,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8923,
+    "archive_count": 8924,
     "archive_supplements": 1060,
     "archive_off_label": 385,
-    "archive_biomarkers": 5202,
+    "archive_biomarkers": 5203,
     "archive_trials": 1979
   }
 }
