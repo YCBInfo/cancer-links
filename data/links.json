@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-05T05:07:26.148Z",
+  "last_updated": "2026-03-05T05:07:37.027Z",
   "categories": {
     "supplements": [
       {
@@ -700,6 +700,20 @@
         "added_date": "2026-03-05"
       },
       {
+        "id": "recXKgNt83GFcFxyh",
+        "title": "Prognostic Significance of Circulating Tumor Cells in Patients with Esophageal Cancer Who Attained Pathological Complete Response after Neoadjuvant Therapy.",
+        "summary": "Circulating tumor cells can identify esophageal cancer patients at high recurrence risk despite achieving complete tumor response after chemotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41125545/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-05"
+      },
+      {
         "id": "recTBfuHqUovhBLKz",
         "title": "Neoadjuvant Systemic Therapy in Kidney and Bladder Cancer: Current Evidence and Emerging Paradigms.",
         "summary": "Neoadjuvant therapy before surgery improves outcomes in kidney and bladder cancer, with immunotherapy showing promise alongside chemotherapy.",
@@ -839,20 +853,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-04"
-      },
-      {
-        "id": "recog7eJZJhwcQ8IA",
-        "title": "SPAG5 promotes ferroptosis and enhances chemotherapy efficacy in locally advanced colorectal cancer via upregulating intracellular ROS levels.",
-        "summary": "SPAG5 protein boosts colorectal cancer chemotherapy effectiveness by increasing cell-damaging reactive oxygen species levels.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41774258/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-04"
       }
     ]
   },
@@ -862,10 +862,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8911,
+    "archive_count": 8912,
     "archive_supplements": 1059,
     "archive_off_label": 385,
-    "archive_biomarkers": 5193,
+    "archive_biomarkers": 5194,
     "archive_trials": 1977
   }
 }
