@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-05T05:10:54.512Z",
+  "last_updated": "2026-03-05T05:11:04.901Z",
   "categories": {
     "supplements": [
       {
@@ -83,6 +83,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-05"
+      },
+      {
+        "id": "rectnFfGTANWnlkwa",
+        "title": "Merremia tridentata ethyl acetate extract suppresses HepG2 hepatocellular carcinoma cell proliferation via PCNA downregulation and mitochondria-mediated apoptosis.",
+        "summary": "A plant extract from Merremia tridentata kills liver cancer cells by triggering programmed cell death and stopping cell growth.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41779350/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-05"
       },
@@ -195,20 +209,6 @@
           "Breast"
         ],
         "quality_score": 22,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-04"
-      },
-      {
-        "id": "recoE0YpUi7JZcwfM",
-        "title": "A tumor-targeting gambogic acid-loaded nanovaccine reprograms the tumor microenvironment for enhanced cancer immunotherapy.",
-        "summary": "A nanovaccine combining cancer cell membranes with a traditional medicine compound effectively targets colorectal tumors and boosts immune response.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41770715/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-04"
       }
@@ -865,10 +865,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8930,
+    "archive_count": 8931,
     "archive_supplements": 1060,
     "archive_off_label": 385,
-    "archive_biomarkers": 5208,
+    "archive_biomarkers": 5209,
     "archive_trials": 1980
   }
 }
