@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-05T05:03:30.705Z",
+  "last_updated": "2026-03-05T05:03:40.876Z",
   "categories": {
     "supplements": [
       {
@@ -514,6 +514,20 @@
         "added_date": "2026-03-05"
       },
       {
+        "id": "recg6UITjZkyNMl6I",
+        "title": "DLST mediates the malignant progression of osteosarcoma cells by regulating the p38 MAPK signaling pathway.",
+        "summary": "DLST protein drives osteosarcoma cancer growth by activating the p38 MAPK signaling pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41616466/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-05"
+      },
+      {
         "id": "recTBfuHqUovhBLKz",
         "title": "Neoadjuvant Systemic Therapy in Kidney and Bladder Cancer: Current Evidence and Emerging Paradigms.",
         "summary": "Neoadjuvant therapy before surgery improves outcomes in kidney and bladder cancer, with immunotherapy showing promise alongside chemotherapy.",
@@ -623,20 +637,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-04"
-      },
-      {
-        "id": "rec7kearfdX9RLsRV",
-        "title": "Glucose metabolism sustains aberrant STAT3 signaling in colorectal cancer through glycosylated local signaling factors.",
-        "summary": "Glucose metabolism keeps STAT3 abnormally active in colorectal cancer, offering a new target for treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41774818/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-04"
       }
@@ -861,10 +861,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8889,
+    "archive_count": 8890,
     "archive_supplements": 1054,
     "archive_off_label": 384,
-    "archive_biomarkers": 5177,
+    "archive_biomarkers": 5178,
     "archive_trials": 1977
   }
 }
