@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-05T05:03:40.876Z",
+  "last_updated": "2026-03-05T05:03:53.074Z",
   "categories": {
     "supplements": [
       {
@@ -528,6 +528,35 @@
         "added_date": "2026-03-05"
       },
       {
+        "id": "recDHcDYCmdfQiG4u",
+        "title": "ALB suppresses epithelial-mesenchymal transition and glycolysis via SPARC regulation in metastatic clear cell renal cell carcinoma.",
+        "summary": "Researchers identified that ALB protein suppresses tumor spread and energy metabolism in metastatic clear cell renal cell carcinoma through SPARC regulation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41610717/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal",
+          "Kidney"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-05"
+      },
+      {
+        "id": "rechYBlDlzkeGqacP",
+        "title": "Mechanistic insights and therapeutic potential of E3 ubiquitin ligases in gastric cancer development.",
+        "summary": "E3 ubiquitin ligases control protein breakdown and offer new therapeutic targets for treating gastric cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41610716/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-05"
+      },
+      {
         "id": "recTBfuHqUovhBLKz",
         "title": "Neoadjuvant Systemic Therapy in Kidney and Bladder Cancer: Current Evidence and Emerging Paradigms.",
         "summary": "Neoadjuvant therapy before surgery improves outcomes in kidney and bladder cancer, with immunotherapy showing promise alongside chemotherapy.",
@@ -603,34 +632,6 @@
         "title": "Streamlined Digital Microfluidics-Mass Spectrometry Strategy for Extracellular Vesicle Enrichment and Lipid Profiling.",
         "summary": "A new microfluidic device rapidly isolates and analyzes lipids in cancer cell-derived vesicles, revealing immune-related lipid differences in minutes.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41774895/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-04"
-      },
-      {
-        "id": "recI9lU9qZPXWHkyO",
-        "title": "[Pediatric parasagittal meningioma, case report].",
-        "summary": "Pediatric meningiomas are rare brain tumors often misdiagnosed as migraines or other common conditions, delaying treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41774884/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-04"
-      },
-      {
-        "id": "recimfYPvZwdLPrn6",
-        "title": "Feline Cancers: Cat-aloging the Mutational Landscape.",
-        "summary": "Researchers sequenced cat tumors and found mutations similar to human cancers, particularly in the TP53 gene, supporting cats as cancer research models.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41774833/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -861,10 +862,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8890,
+    "archive_count": 8891,
     "archive_supplements": 1054,
     "archive_off_label": 384,
-    "archive_biomarkers": 5178,
+    "archive_biomarkers": 5179,
     "archive_trials": 1977
   }
 }
