@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-05T05:02:56.421Z",
+  "last_updated": "2026-03-05T05:03:06.547Z",
   "categories": {
     "supplements": [
       {
@@ -215,6 +215,20 @@
     ],
     "off_label": [
       {
+        "id": "recMHIiyGTcdfvp8c",
+        "title": "MondoA mediates transcriptional coordination between the MYC network and the integrated stress response in pancreatic cancer.",
+        "summary": "Blocking MondoA protein kills pancreatic cancer cells with high MYC levels by disrupting stress response pathways and triggering cell death.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41779777/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Pancreatic"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-05"
+      },
+      {
         "id": "rec9i0qqpfHLYVOSh",
         "title": "Cardioprotective effects of prophylactic ACE inhibitors in anthracycline-induced cardiotoxicity: a systematic review and meta-analysis of randomized trials.",
         "summary": "ACE inhibitors help prevent heart damage in cancer patients receiving anthracycline chemotherapy, particularly those also taking trastuzumab.",
@@ -411,20 +425,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-04"
-      },
-      {
-        "id": "recdAwv58DxLdISvh",
-        "title": "Androgen Receptor Drives Polyamine Synthesis, Creating a Vulnerability for Prostate Cancer.",
-        "summary": "High-dose androgen therapy for prostate cancer boosts polyamine production, which can be blocked with a drug to improve treatment effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41270152/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Prostate"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-03"
       }
     ],
     "biomarkers": [
@@ -480,6 +480,20 @@
         "cancer_types": [
           "Breast",
           "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-05"
+      },
+      {
+        "id": "recMHIiyGTcdfvp8c",
+        "title": "MondoA mediates transcriptional coordination between the MYC network and the integrated stress response in pancreatic cancer.",
+        "summary": "Blocking MondoA protein kills pancreatic cancer cells with high MYC levels by disrupting stress response pathways and triggering cell death.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41779777/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Pancreatic"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -621,20 +635,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-04"
-      },
-      {
-        "id": "recvhnOi6cIbJexp4",
-        "title": "Integrated CTC Enrichment and Dual-Responsive Nanoprobe Identification Enable Intelligent Liquid Biopsy-Based Cancer Diagnosis.",
-        "summary": "Researchers developed a new blood test using nanoparticles to identify lung cancer cells circulating in blood more accurately than existing methods.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41774774/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -861,10 +861,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8886,
+    "archive_count": 8887,
     "archive_supplements": 1054,
     "archive_off_label": 384,
-    "archive_biomarkers": 5174,
+    "archive_biomarkers": 5175,
     "archive_trials": 1977
   }
 }
