@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-05T05:21:43.662Z",
+  "last_updated": "2026-03-05T05:21:56.431Z",
   "categories": {
     "supplements": [
       {
@@ -129,6 +129,20 @@
         "added_date": "2026-03-05"
       },
       {
+        "id": "recV4t6th0DdyGvMy",
+        "title": "Integrated Metabolomic and Transcriptomic Analyses Elucidate Phenolic Acid Diversity and Their Antioxidant and Functional Associations in Ocimum Species.",
+        "summary": "Ocimum plants produce diverse phenolic acids that enhance antioxidant defenses and may target cancer-related proteins like AKT1 and EGFR.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41718460/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-05"
+      },
+      {
         "id": "rec8kmDckpZBWrj43",
         "title": "The role of prehabilitation in improving brain health and cognition after chemotherapy in patients with colorectal cancer: Study protocol of the Chemo Brain Prehab Project.",
         "summary": "Researchers are testing whether exercise and training before chemotherapy can prevent memory and thinking problems in colorectal cancer patients.",
@@ -193,20 +207,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-04"
-      },
-      {
-        "id": "recRDWkZYu0XBINJh",
-        "title": "Examination of the Effect of Riboflavin on TNF-α, Cas-3 Expression and SIRT1/p53/Bax/Bcl-2 Gene Expression in Diatrizoate-Induced Experimental Nephropathy Model.",
-        "summary": "Riboflavin reduced inflammation and cell death markers in a kidney damage model by activating protective genes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41773034/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Lymphoma"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -864,10 +864,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 8990,
+    "archive_count": 8991,
     "archive_supplements": 1063,
     "archive_off_label": 386,
-    "archive_biomarkers": 5257,
+    "archive_biomarkers": 5258,
     "archive_trials": 1987
   }
 }
