@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-05T10:05:37.004Z",
+  "last_updated": "2026-03-06T05:02:55.406Z",
   "categories": {
     "supplements": [
       {
@@ -429,6 +429,62 @@
     ],
     "biomarkers": [
       {
+        "id": "rec07tHkP6cYvqzng",
+        "title": "Mislocalisation of FLT3-ITD receptor contributes to MV4-11 leukaemia cell resistance to antibody-drug conjugate.",
+        "summary": "FLT3-mutated leukemia cells resist antibody-drug conjugates because the mutant receptor gets trapped in the Golgi instead of reaching lysosomes where drugs are released.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41784256/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-06"
+      },
+      {
+        "id": "recls4imt7sS0pyiH",
+        "title": "Small Hepatoid Variant of Solid Pseudopapillary Neoplasm of the Pancreas: A Unique Case With Long-term Follow-up.",
+        "summary": "Researchers report a rare pancreatic tumor variant that remained stable without surgery during five-year follow-up, suggesting conservative monitoring may be feasible for small, asymptomatic cases.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41783483/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 18,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-06"
+      },
+      {
+        "id": "recwLGimKiQmFUMZy",
+        "title": "Tumor cell-derived IFN spatially reprograms osteopontin-enriched macrophage niches to promote PARP inhibitor resistance.",
+        "summary": "Tumor cells produce interferon that reprograms immune cells to express osteopontin, suppressing anti-cancer immunity and causing PARP inhibitor resistance in ovarian cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41734034/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Ovarian"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-06"
+      },
+      {
+        "id": "recIdttxBMb9JgP45",
+        "title": "Pretreatment MRI Versus Postoperative Pathology in Locoregional Staging of Rectal Cancer: A Germany-Wide Multicenter Re-Evaluation Study in Non-Pretreated Patients Based on the OCUM Study.",
+        "summary": "Researchers found that MRI accurately stages rectal cancer before treatment, helping doctors decide whether patients need chemotherapy and radiation therapy beforehand.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41607293/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 13,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-03-06"
+      },
+      {
         "id": "recdQlLaf4ZGnU1JM",
         "title": "Optimizing protocols for microRNA profiling of infant and toddler stool.",
         "summary": "Researchers identified optimal methods for preserving and extracting genetic material from infant stool samples for microRNA analysis.",
@@ -583,66 +639,37 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-03-05"
-      },
+      }
+    ],
+    "trials": [
       {
-        "id": "recqrAyvofF0OYMwd",
-        "title": "Discover of a highly effective covalent inhibitor of CDK6 for triple-negative breast cancer treatment.",
-        "summary": "Researchers developed compound C32, a potent CDK6 inhibitor that is 200-fold more effective than current drugs against triple-negative breast cancer cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41548293/",
+        "id": "recwLGimKiQmFUMZy",
+        "title": "Tumor cell-derived IFN spatially reprograms osteopontin-enriched macrophage niches to promote PARP inhibitor resistance.",
+        "summary": "Tumor cells produce interferon that reprograms immune cells to express osteopontin, suppressing anti-cancer immunity and causing PARP inhibitor resistance in ovarian cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41734034/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
-          "Breast"
+          "Ovarian"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
-        "added_date": "2026-03-05"
+        "added_date": "2026-03-06"
       },
       {
-        "id": "rec4BmF7vs8np0I59",
-        "title": "Discovery of WWZ-11-098: a rigid and selective CDK6 degrader.",
-        "summary": "Researchers discovered WWZ-11-098, a selective CDK6 degrader that effectively stops blood cancer cell growth without harming other proteins.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41548292/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-05"
-      },
-      {
-        "id": "rec6PxBpEkqky6Avo",
-        "title": "Preclinical evaluation of 68Ga-labeled acetazolamide derivatives as radiotracers targeting carbonic anhydrase IX in clear cell renal cell carcinoma.",
-        "summary": "Researchers developed a new PET imaging tracer targeting a kidney cancer protein, showing promise for detecting clear-cell renal carcinoma.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41544580/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal",
-          "Kidney"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-05"
-      },
-      {
-        "id": "recMdwwl9L7Huin4u",
-        "title": "Discovery of an orally bioavailable pyridone-based BRD4 inhibitor with potent antitumor efficacy in colorectal cancer.",
-        "summary": "Researchers discovered an oral drug (H5) that inhibits BRD4 protein, effectively shrinking colorectal cancer tumors in mice with minimal side effects.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41544579/",
+        "id": "recIdttxBMb9JgP45",
+        "title": "Pretreatment MRI Versus Postoperative Pathology in Locoregional Staging of Rectal Cancer: A Germany-Wide Multicenter Re-Evaluation Study in Non-Pretreated Patients Based on the OCUM Study.",
+        "summary": "Researchers found that MRI accurately stages rectal cancer before treatment, helping doctors decide whether patients need chemotherapy and radiation therapy beforehand.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41607293/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Colorectal"
         ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-05"
-      }
-    ],
-    "trials": [
+        "quality_score": 13,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-03-06"
+      },
       {
         "id": "recvHAEDg8PFVvRER",
         "title": "Effects of Radiotherapy in Normal Tissue.",
@@ -827,34 +854,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-05"
-      },
-      {
-        "id": "recsvPuBwMGUWY0p8",
-        "title": "Comparison of first-line cetuximab and panitumumab plus doublet chemotherapies for left-sided colorectal cancer: a multicenter real-world observational study by the Japanese Society for Cancer of the Colon and Rectum.",
-        "summary": "Study compares two antibody drugs combined with chemotherapy for treating advanced left-sided colorectal cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41779341/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-05"
-      },
-      {
-        "id": "reclRKZaYoirDwzUY",
-        "title": "Cost-effectiveness analysis of immune checkpoint inhibitors versus platinum-based doublet chemotherapy in the first-line treatment of advanced non-small-cell lung cancer with High PD-L1 expression in Japan.",
-        "summary": "Immune checkpoint inhibitors are more cost-effective than chemotherapy for treating advanced lung cancer with high PD-L1 expression in Japan.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41779321/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-05"
       }
     ]
   },
@@ -864,10 +863,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9177,
+    "archive_count": 9178,
     "archive_supplements": 1081,
     "archive_off_label": 388,
-    "archive_biomarkers": 5372,
+    "archive_biomarkers": 5373,
     "archive_trials": 2039
   }
 }
