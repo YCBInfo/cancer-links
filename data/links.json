@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-06T05:03:56.167Z",
+  "last_updated": "2026-03-06T05:04:06.129Z",
   "categories": {
     "supplements": [
       {
@@ -527,6 +527,20 @@
         "added_date": "2026-03-06"
       },
       {
+        "id": "recYrFh5ku4JFqlxC",
+        "title": "Body mass index (BMI) and risk of lung cancer: a systematic review and meta-analysis of studies using directly measured and genetically proxied measures of BMI.",
+        "summary": "Higher BMI appears linked to increased lung cancer risk in genetic studies, contradicting traditional measured-BMI research findings.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41784894/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-06"
+      },
+      {
         "id": "recdQlLaf4ZGnU1JM",
         "title": "Optimizing protocols for microRNA profiling of infant and toddler stool.",
         "summary": "Researchers identified optimal methods for preserving and extracting genetic material from infant stool samples for microRNA analysis.",
@@ -622,21 +636,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-05"
-      },
-      {
-        "id": "recDHcDYCmdfQiG4u",
-        "title": "ALB suppresses epithelial-mesenchymal transition and glycolysis via SPARC regulation in metastatic clear cell renal cell carcinoma.",
-        "summary": "Researchers identified that ALB protein suppresses tumor spread and energy metabolism in metastatic clear cell renal cell carcinoma through SPARC regulation.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41610717/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal",
-          "Kidney"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-03-05"
       }
@@ -862,10 +861,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9183,
+    "archive_count": 9184,
     "archive_supplements": 1081,
     "archive_off_label": 388,
-    "archive_biomarkers": 5376,
+    "archive_biomarkers": 5377,
     "archive_trials": 2041
   }
 }
