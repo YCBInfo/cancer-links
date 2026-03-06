@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-06T05:06:13.654Z",
+  "last_updated": "2026-03-06T05:06:24.444Z",
   "categories": {
     "supplements": [
       {
@@ -753,6 +753,20 @@
         "added_date": "2026-03-06"
       },
       {
+        "id": "recirPyUIRdW3ltK3",
+        "title": "The Hippo Pathway is Dysregulated in Cancer-Associated Fibroblasts in Anti-PD-L1 Resistant Cancer.",
+        "summary": "Hippo pathway dysregulation in cancer-associated fibroblasts drives immunotherapy resistance in bladder cancer, offering a potential therapeutic target.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41784658/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Bladder"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-06"
+      },
+      {
         "id": "recvHAEDg8PFVvRER",
         "title": "Effects of Radiotherapy in Normal Tissue.",
         "summary": "Modern radiotherapy improves tumor control while reducing side effects through better imaging, planning, and dose delivery techniques.",
@@ -835,21 +849,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-05"
-      },
-      {
-        "id": "recxxEO3IcAyqH73B",
-        "title": "Trastuzumab Rezetecan in Human Epidermal Growth Factor Receptor 2-Expressing Advanced Gastric Cancer or Gastroesophageal Junction Adenocarcinoma and Colorectal Cancer: A Multicenter, Open-Label, Phase I Trial.",
-        "summary": "A new targeted drug called trastuzumab rezetecan showed promise against advanced gastric, junction, and colorectal cancers with specific protein markers.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41779980/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Colorectal",
-          "Stomach"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-05"
       }
     ]
   },
@@ -859,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9196,
+    "archive_count": 9197,
     "archive_supplements": 1082,
     "archive_off_label": 388,
-    "archive_biomarkers": 5388,
+    "archive_biomarkers": 5389,
     "archive_trials": 2041
   }
 }
