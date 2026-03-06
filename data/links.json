@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-06T05:04:27.147Z",
+  "last_updated": "2026-03-06T05:04:37.674Z",
   "categories": {
     "supplements": [
       {
@@ -569,6 +569,20 @@
         "added_date": "2026-03-06"
       },
       {
+        "id": "recNCoxoRKh9ekcwA",
+        "title": "ABT-737 efficiently inhibits hepatocellular carcinoma cell activity via regulating PANoptosis.",
+        "summary": "ABT-737 drug stops hepatocellular carcinoma cells by triggering a combined cell death pathway involving multiple death mechanisms.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41784885/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-06"
+      },
+      {
         "id": "recdQlLaf4ZGnU1JM",
         "title": "Optimizing protocols for microRNA profiling of infant and toddler stool.",
         "summary": "Researchers identified optimal methods for preserving and extracting genetic material from infant stool samples for microRNA analysis.",
@@ -620,20 +634,6 @@
         "cancer_types": [
           "Breast",
           "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-05"
-      },
-      {
-        "id": "recMHIiyGTcdfvp8c",
-        "title": "MondoA mediates transcriptional coordination between the MYC network and the integrated stress response in pancreatic cancer.",
-        "summary": "Blocking MondoA protein kills pancreatic cancer cells with high MYC levels by disrupting stress response pathways and triggering cell death.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41779777/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Pancreatic"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -860,10 +860,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9186,
+    "archive_count": 9187,
     "archive_supplements": 1082,
     "archive_off_label": 388,
-    "archive_biomarkers": 5378,
+    "archive_biomarkers": 5379,
     "archive_trials": 2041
   }
 }
