@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-06T05:11:59.514Z",
+  "last_updated": "2026-03-06T05:12:10.194Z",
   "categories": {
     "supplements": [
       {
@@ -215,6 +215,20 @@
     ],
     "off_label": [
       {
+        "id": "recM2FmajWPhIz4eU",
+        "title": "Propofol regulates METTL3-mediated PARP-1 m6A modification to promote Parthanatos to improve NSCLC chemotherapy resistance.",
+        "summary": "Propofol enhances lung cancer chemotherapy by activating a cell death pathway through modification of the PARP-1 protein.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41781454/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-06"
+      },
+      {
         "id": "recMHIiyGTcdfvp8c",
         "title": "MondoA mediates transcriptional coordination between the MYC network and the integrated stress response in pancreatic cancer.",
         "summary": "Blocking MondoA protein kills pancreatic cancer cells with high MYC levels by disrupting stress response pathways and triggering cell death.",
@@ -405,20 +419,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41775778/",
         "source": "PubMed",
         "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-04"
-      },
-      {
-        "id": "rece9dvKyCtU7qQzp",
-        "title": "cGAS-STING signaling in pollution-induced toxicity: mechanism and relieving medication.",
-        "summary": "Environmental pollutants activate a cellular alarm pathway (cGAS-STING) causing inflammation and disease; blocking it may reduce toxicity.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41774273/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9228,
+    "archive_count": 9229,
     "archive_supplements": 1084,
     "archive_off_label": 388,
-    "archive_biomarkers": 5412,
+    "archive_biomarkers": 5413,
     "archive_trials": 2047
   }
 }
