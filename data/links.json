@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-06T05:06:24.444Z",
+  "last_updated": "2026-03-06T05:06:34.830Z",
   "categories": {
     "supplements": [
       {
@@ -767,6 +767,20 @@
         "added_date": "2026-03-06"
       },
       {
+        "id": "rec7pYD4TWELeoOva",
+        "title": "Cancer Susceptibility to Stapled Oncolytic Peptides is Dictated by Membrane Cholesterol and Inflammatory Signaling.",
+        "summary": "Researchers developed a peptide that kills leukemia cells by targeting their membranes, with effectiveness determined by cholesterol levels and inflammatory signaling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41784645/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-06"
+      },
+      {
         "id": "recvHAEDg8PFVvRER",
         "title": "Effects of Radiotherapy in Normal Tissue.",
         "summary": "Modern radiotherapy improves tumor control while reducing side effects through better imaging, planning, and dose delivery techniques.",
@@ -835,20 +849,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-05"
-      },
-      {
-        "id": "reciXxZJWUKSahD4H",
-        "title": "Izalontamab Brengitecan in Locally Advanced or Metastatic Non-Small Cell Lung Cancer With Actionable Genomic Alterations Outside of Classical EGFR Mutations: A Phase Ib Study.",
-        "summary": "A new drug combination shows promise treating lung cancer patients with specific genetic mutations beyond standard EGFR changes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41779981/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-05"
       }
     ]
   },
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9197,
+    "archive_count": 9198,
     "archive_supplements": 1082,
     "archive_off_label": 388,
-    "archive_biomarkers": 5389,
+    "archive_biomarkers": 5390,
     "archive_trials": 2041
   }
 }
