@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-06T05:13:59.779Z",
+  "last_updated": "2026-03-06T05:14:10.502Z",
   "categories": {
     "supplements": [
       {
@@ -55,6 +55,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-06"
+      },
+      {
+        "id": "recUwkvhQB78eT2Gf",
+        "title": "Inhibitory effect of blestriarene C on triple-negative breast cancer: Inducing ferroptosis and mitophagy via SESN2/AKT/FOXO4 axis.",
+        "summary": "Blestriarene C, a novel compound, kills triple-negative breast cancer cells by triggering two cellular death mechanisms through a specific protein pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41527177/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-06"
       },
@@ -189,20 +203,6 @@
         "title": "Integrated Metabolomic and Transcriptomic Analyses Elucidate Phenolic Acid Diversity and Their Antioxidant and Functional Associations in Ocimum Species.",
         "summary": "Ocimum plants produce diverse phenolic acids that enhance antioxidant defenses and may target cancer-related proteins like AKT1 and EGFR.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41718460/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-05"
-      },
-      {
-        "id": "reccE8hlBXiwrzpBw",
-        "title": "Life's Simple 7 score and cardiovascular health in cancer survivors: the Moli-sani study.",
-        "summary": "Cancer survivors with healthier cardiovascular habits showed better survival outcomes in this study.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41399255/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9239,
+    "archive_count": 9240,
     "archive_supplements": 1084,
     "archive_off_label": 389,
-    "archive_biomarkers": 5421,
+    "archive_biomarkers": 5422,
     "archive_trials": 2048
   }
 }
