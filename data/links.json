@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-06T05:06:34.830Z",
+  "last_updated": "2026-03-06T05:06:45.163Z",
   "categories": {
     "supplements": [
       {
@@ -781,6 +781,20 @@
         "added_date": "2026-03-06"
       },
       {
+        "id": "recQwPHKJizCc6ee1",
+        "title": "Nintedanib enhances the antitumor efficacy of pd-1 blockade, potentially through inhibition of myeloid-derived suppressor cells and cancer-associated fibroblasts.",
+        "summary": "Nintedanib combined with PD-1 inhibitors enhances cancer treatment by reducing immune-suppressive cells and increasing tumor-fighting T cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41784638/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-06"
+      },
+      {
         "id": "recvHAEDg8PFVvRER",
         "title": "Effects of Radiotherapy in Normal Tissue.",
         "summary": "Modern radiotherapy improves tumor control while reducing side effects through better imaging, planning, and dose delivery techniques.",
@@ -835,20 +849,6 @@
         "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-03-05"
-      },
-      {
-        "id": "recXKgNt83GFcFxyh",
-        "title": "Prognostic Significance of Circulating Tumor Cells in Patients with Esophageal Cancer Who Attained Pathological Complete Response after Neoadjuvant Therapy.",
-        "summary": "Circulating tumor cells can identify esophageal cancer patients at high recurrence risk despite achieving complete tumor response after chemotherapy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41125545/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-05"
       }
     ]
   },
@@ -858,8 +858,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9198,
-    "archive_supplements": 1082,
+    "archive_count": 9199,
+    "archive_supplements": 1083,
     "archive_off_label": 388,
     "archive_biomarkers": 5390,
     "archive_trials": 2041
