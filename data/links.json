@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-06T05:04:06.129Z",
+  "last_updated": "2026-03-06T05:04:17.101Z",
   "categories": {
     "supplements": [
       {
@@ -541,6 +541,20 @@
         "added_date": "2026-03-06"
       },
       {
+        "id": "reckULdeZtuOX0TXe",
+        "title": "Radiologic exposomics: imaging the environmental imprint on cancer for precision oncology.",
+        "summary": "Medical imaging combined with environmental exposure data may help predict and understand how pollution and environmental stressors influence cancer development and progression.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41784890/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-06"
+      },
+      {
         "id": "recdQlLaf4ZGnU1JM",
         "title": "Optimizing protocols for microRNA profiling of infant and toddler stool.",
         "summary": "Researchers identified optimal methods for preserving and extracting genetic material from infant stool samples for microRNA analysis.",
@@ -623,20 +637,6 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-03-01",
-        "added_date": "2026-03-05"
-      },
-      {
-        "id": "recg6UITjZkyNMl6I",
-        "title": "DLST mediates the malignant progression of osteosarcoma cells by regulating the p38 MAPK signaling pathway.",
-        "summary": "DLST protein drives osteosarcoma cancer growth by activating the p38 MAPK signaling pathway.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41616466/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
         "added_date": "2026-03-05"
       }
     ],
@@ -861,10 +861,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9184,
+    "archive_count": 9185,
     "archive_supplements": 1081,
     "archive_off_label": 388,
-    "archive_biomarkers": 5377,
+    "archive_biomarkers": 5378,
     "archive_trials": 2041
   }
 }
