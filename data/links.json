@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-06T05:03:23.286Z",
+  "last_updated": "2026-03-06T05:03:34.131Z",
   "categories": {
     "supplements": [
       {
@@ -499,6 +499,20 @@
         "added_date": "2026-03-06"
       },
       {
+        "id": "recrVHrUkqCgI6EVe",
+        "title": "Genomic Therapy Matching in Rare and Refractory Cancers.",
+        "summary": "Doctors need better evidence that matching cancer drugs to genetic mutations actually helps patients with rare, hard-to-treat cancers.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41784981/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-06"
+      },
+      {
         "id": "recdQlLaf4ZGnU1JM",
         "title": "Optimizing protocols for microRNA profiling of infant and toddler stool.",
         "summary": "Researchers identified optimal methods for preserving and extracting genetic material from infant stool samples for microRNA analysis.",
@@ -625,20 +639,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-03-05"
-      },
-      {
-        "id": "rec3A2Yk0Dvuub5kl",
-        "title": "Crohn's disease under single-cell map: from INFLARE metaplastic cells to rare immune cell subpopulations.",
-        "summary": "Single-cell sequencing reveals novel immune cell subsets in Crohn's disease, offering potential new therapeutic targets.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41610714/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-05"
       }
     ],
     "trials": [
@@ -703,6 +703,20 @@
         "title": "Pre-existing TCR clones drive major pathological responses in HNSCC patients treated with dual immune checkpoint inhibitors.",
         "summary": "Pre-existing T-cell clones predict which head and neck cancer patients will respond well to dual immune checkpoint inhibitor treatment.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41785014/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-06"
+      },
+      {
+        "id": "recrVHrUkqCgI6EVe",
+        "title": "Genomic Therapy Matching in Rare and Refractory Cancers.",
+        "summary": "Doctors need better evidence that matching cancer drugs to genetic mutations actually helps patients with rare, hard-to-treat cancers.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41784981/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -839,20 +853,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-05"
-      },
-      {
-        "id": "reclzJZFF7DZvhdfe",
-        "title": "Anti-HPA-1a Fetal-Neonatal AlloImmune Thrombocytopenia: Reframing Diagnostics, Pathophysiology, and Management.",
-        "summary": "Maternal antibodies against fetal platelets cause dangerous bleeding in newborns; new tests and treatments improve outcomes and pregnancy planning.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41779743/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-05"
       }
     ]
   },
@@ -862,10 +862,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9180,
+    "archive_count": 9181,
     "archive_supplements": 1081,
     "archive_off_label": 388,
-    "archive_biomarkers": 5375,
+    "archive_biomarkers": 5376,
     "archive_trials": 2039
   }
 }
