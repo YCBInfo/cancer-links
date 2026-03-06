@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-06T05:04:37.674Z",
+  "last_updated": "2026-03-06T05:04:48.572Z",
   "categories": {
     "supplements": [
       {
@@ -583,6 +583,20 @@
         "added_date": "2026-03-06"
       },
       {
+        "id": "recjCTVaStpguDr1W",
+        "title": "Beyond tumor mutational burden: a framework for immune-checkpoint blockade responsiveness in gastrointestinal cancers.",
+        "summary": "Researchers propose a new framework beyond tumor mutation count to better predict which gastrointestinal cancer patients will respond to immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41784875/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-06"
+      },
+      {
         "id": "recdQlLaf4ZGnU1JM",
         "title": "Optimizing protocols for microRNA profiling of infant and toddler stool.",
         "summary": "Researchers identified optimal methods for preserving and extracting genetic material from infant stool samples for microRNA analysis.",
@@ -621,21 +635,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-05"
-      },
-      {
-        "id": "recyjC5cbX6a8RQD5",
-        "title": "Neutralization of acyl-CoA-binding protein attenuates glucocorticoid-mediated suppression of cancer immunosurveillance.",
-        "summary": "Blocking a protein called ACBP/DBI restores cancer-fighting immune responses suppressed by steroids in breast, lung, and skin cancers.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41779791/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast",
-          "Lung"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-05"
       }
@@ -860,10 +859,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9187,
+    "archive_count": 9188,
     "archive_supplements": 1082,
     "archive_off_label": 388,
-    "archive_biomarkers": 5379,
+    "archive_biomarkers": 5380,
     "archive_trials": 2041
   }
 }
