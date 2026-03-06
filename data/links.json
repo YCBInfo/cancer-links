@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-06T05:07:07.222Z",
+  "last_updated": "2026-03-06T05:07:17.534Z",
   "categories": {
     "supplements": [
       {
@@ -809,6 +809,20 @@
         "added_date": "2026-03-06"
       },
       {
+        "id": "recOpAq7KhFw2OeqX",
+        "title": "ACR Appropriateness Criteria® Postmenopausal Subacute or Chronic Pelvic Pain: Update 2025.",
+        "summary": "Updated guidelines recommend ultrasound as first-line imaging for postmenopausal women with chronic pelvic pain, with MRI or CT for inconclusive cases.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41784596/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-06"
+      },
+      {
         "id": "recvHAEDg8PFVvRER",
         "title": "Effects of Radiotherapy in Normal Tissue.",
         "summary": "Modern radiotherapy improves tumor control while reducing side effects through better imaging, planning, and dose delivery techniques.",
@@ -835,20 +849,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-05"
-      },
-      {
-        "id": "rec8josMq1GlkUkpy",
-        "title": "The efficacy of combination therapy versus monotherapy in patients with glioblastoma with abnormal epidermal growth factor receptor (EGFR) genes, a systematic review and network meta-analysis.",
-        "summary": "Combination therapies with targeted drugs plus temozolomide outperform single-drug treatments in glioblastoma patients with abnormal EGFR genes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41519428/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-05"
       }
     ]
   },
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9201,
+    "archive_count": 9202,
     "archive_supplements": 1083,
     "archive_off_label": 388,
-    "archive_biomarkers": 5392,
+    "archive_biomarkers": 5393,
     "archive_trials": 2041
   }
 }
