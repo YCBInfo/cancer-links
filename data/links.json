@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-06T05:03:08.015Z",
+  "last_updated": "2026-03-06T05:03:23.286Z",
   "categories": {
     "supplements": [
       {
@@ -485,6 +485,20 @@
         "added_date": "2026-03-06"
       },
       {
+        "id": "recl1bXf6QAV3dleA",
+        "title": "Pre-existing TCR clones drive major pathological responses in HNSCC patients treated with dual immune checkpoint inhibitors.",
+        "summary": "Pre-existing T-cell clones predict which head and neck cancer patients will respond well to dual immune checkpoint inhibitor treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41785014/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-06"
+      },
+      {
         "id": "recdQlLaf4ZGnU1JM",
         "title": "Optimizing protocols for microRNA profiling of infant and toddler stool.",
         "summary": "Researchers identified optimal methods for preserving and extracting genetic material from infant stool samples for microRNA analysis.",
@@ -625,20 +639,6 @@
         "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-03-05"
-      },
-      {
-        "id": "rec8ft9JVYXiKlq3b",
-        "title": "Current landscape and therapeutic prospects of indole hybrids for prostate cancer treatment: A mini-review.",
-        "summary": "Indole hybrid compounds show promise for treating prostate cancer by targeting multiple pathways and overcoming drug resistance.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41548295/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Prostate"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-05"
       }
     ],
     "trials": [
@@ -682,6 +682,34 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-02-01",
+        "added_date": "2026-03-06"
+      },
+      {
+        "id": "recMrYj0QijQBUFq1",
+        "title": "Neuroplacental Interactions in early human development: Insights from selective acute neuronal necrosis.",
+        "summary": "This study examines how placental problems relate to brain cell death in developing fetuses and newborns during pregnancy complications.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41570735/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-06"
+      },
+      {
+        "id": "recl1bXf6QAV3dleA",
+        "title": "Pre-existing TCR clones drive major pathological responses in HNSCC patients treated with dual immune checkpoint inhibitors.",
+        "summary": "Pre-existing T-cell clones predict which head and neck cancer patients will respond well to dual immune checkpoint inhibitor treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41785014/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
         "added_date": "2026-03-06"
       },
       {
@@ -825,35 +853,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-05"
-      },
-      {
-        "id": "recGq5KgyD35blK8x",
-        "title": "How I Treat HLH-Like Toxicities Following Immune Effector Cell Therapy.",
-        "summary": "Doctors can better treat dangerous inflammatory complications from CAR T-cell cancer therapy by distinguishing between two HLH-like syndromes and intervening early.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41779733/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-05"
-      },
-      {
-        "id": "recr6HGX67DGQjnUT",
-        "title": "Myeloid/Lymphoid Neoplasms with FGFR1 Rearrangement and Pemigatinib.",
-        "summary": "Pemigatinib, a targeted drug blocking FGFR1, shows remarkable effectiveness in treating rare myeloid/lymphoid blood cancers with FGFR1 mutations.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41779732/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia",
-          "Lymphoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-05"
       }
     ]
   },
@@ -863,10 +862,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9179,
+    "archive_count": 9180,
     "archive_supplements": 1081,
     "archive_off_label": 388,
-    "archive_biomarkers": 5374,
+    "archive_biomarkers": 5375,
     "archive_trials": 2039
   }
 }
