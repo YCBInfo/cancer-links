@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-06T05:16:32.286Z",
+  "last_updated": "2026-03-06T05:16:41.893Z",
   "categories": {
     "supplements": [
       {
@@ -77,6 +77,20 @@
         "title": "The impact of gut microbiota modulation on responses to immune checkpoint inhibitors in cancer.",
         "summary": "Specific gut bacteria improve cancer immunotherapy response and survival, while antibiotics harm outcomes in immune checkpoint inhibitor treatment.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41196286/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-06"
+      },
+      {
+        "id": "recWXaPVPq59oOFmj",
+        "title": "Moderate-to-vigorous Physical Activity and Total and Site-specific Cancer: The Japan Public Health Center-based Prospective Study.",
+        "summary": "Moderate-to-vigorous physical activity is associated with lower overall cancer risk across multiple cancer types in Japanese adults.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41047348/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -189,20 +203,6 @@
         "title": "Effectiveness of Qingdu Suppository on Persistent HR-HPV and Associated Factors: A Retrospective Study.",
         "summary": "Qingdu Suppository treatment helped clear persistent HPV infections in cervical cancer patients, with certain factors predicting better treatment success.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41778865/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-05"
-      },
-      {
-        "id": "recu7iX9Qx5ZOqlY4",
-        "title": "Integrated PASS Prediction, Molecular Networking-Guided Isolation, and Quantum Mechanics-Assisted Structure Elucidation Enable the Discovery of Cytotoxic Dimeric Sesquiterpenoids from Inulae Flos.",
-        "summary": "Researchers discovered seven dimeric sesquiterpenoids from Inulae Flos that showed significant cytotoxicity against liver and prostate cancer cells using data-science techniques.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41778622/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9252,
+    "archive_count": 9253,
     "archive_supplements": 1085,
     "archive_off_label": 389,
-    "archive_biomarkers": 5431,
+    "archive_biomarkers": 5432,
     "archive_trials": 2050
   }
 }
