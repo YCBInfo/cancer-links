@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-06T05:15:57.835Z",
+  "last_updated": "2026-03-06T05:16:10.927Z",
   "categories": {
     "supplements": [
       {
@@ -69,6 +69,20 @@
           "Breast"
         ],
         "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-06"
+      },
+      {
+        "id": "recYr3B1HSmsw3w6L",
+        "title": "The impact of gut microbiota modulation on responses to immune checkpoint inhibitors in cancer.",
+        "summary": "Specific gut bacteria improve cancer immunotherapy response and survival, while antibiotics harm outcomes in immune checkpoint inhibitor treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41196286/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-06"
       },
@@ -189,20 +203,6 @@
         "title": "Integrated PASS Prediction, Molecular Networking-Guided Isolation, and Quantum Mechanics-Assisted Structure Elucidation Enable the Discovery of Cytotoxic Dimeric Sesquiterpenoids from Inulae Flos.",
         "summary": "Researchers discovered seven dimeric sesquiterpenoids from Inulae Flos that showed significant cytotoxicity against liver and prostate cancer cells using data-science techniques.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41778622/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-05"
-      },
-      {
-        "id": "recV4t6th0DdyGvMy",
-        "title": "Integrated Metabolomic and Transcriptomic Analyses Elucidate Phenolic Acid Diversity and Their Antioxidant and Functional Associations in Ocimum Species.",
-        "summary": "Ocimum plants produce diverse phenolic acids that enhance antioxidant defenses and may target cancer-related proteins like AKT1 and EGFR.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41718460/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9249,
+    "archive_count": 9250,
     "archive_supplements": 1085,
     "archive_off_label": 389,
-    "archive_biomarkers": 5429,
+    "archive_biomarkers": 5430,
     "archive_trials": 2049
   }
 }
