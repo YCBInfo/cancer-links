@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-06T05:05:31.650Z",
+  "last_updated": "2026-03-06T05:05:42.865Z",
   "categories": {
     "supplements": [
       {
@@ -739,6 +739,20 @@
         "added_date": "2026-03-06"
       },
       {
+        "id": "recFnrlnufbXV6WDX",
+        "title": "Automated radiosynthesis of 2-[18F]BPA for PET-based planning of boron neutron capture therapy (BNCT): rational precursor design, radiofluorination, and characterization of methodology.",
+        "summary": "Researchers developed an automated method to produce a fluorine-18 labeled tracer for better visualizing boron distribution in tumors during neutron capture therapy planning.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41784763/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-06"
+      },
+      {
         "id": "recvHAEDg8PFVvRER",
         "title": "Effects of Radiotherapy in Normal Tissue.",
         "summary": "Modern radiotherapy improves tumor control while reducing side effects through better imaging, planning, and dose delivery techniques.",
@@ -836,20 +850,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-05"
-      },
-      {
-        "id": "recjubYYJLLme6sA6",
-        "title": "Low-dose chemotherapy remodels hepatic immune landscape and potentiates anti-tumor response to immune checkpoint blockade in cholangiocarcinoma.",
-        "summary": "Low-dose chemotherapy combined with immunotherapy improves anti-tumor immunity and reduces toxicity in cholangiocarcinoma patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41779955/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-05"
       }
     ]
   },
@@ -859,10 +859,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9192,
+    "archive_count": 9193,
     "archive_supplements": 1082,
     "archive_off_label": 388,
-    "archive_biomarkers": 5384,
+    "archive_biomarkers": 5385,
     "archive_trials": 2041
   }
 }
