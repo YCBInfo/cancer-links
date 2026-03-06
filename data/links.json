@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-06T05:05:53.345Z",
+  "last_updated": "2026-03-06T05:06:03.228Z",
   "categories": {
     "supplements": [
       {
@@ -13,6 +13,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-06"
+      },
+      {
+        "id": "recNaZdq9CIX6VRKn",
+        "title": "Citronellol potentiates sunitinib efficacy in renal cell carcinoma by targeting JAK2/STAT3 signaling pathway.",
+        "summary": "Citronellol, a plant compound, enhances the kidney cancer drug sunitinib by blocking JAK2/STAT3 survival signals.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41784696/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Kidney"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-06"
       },
@@ -195,20 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-05"
-      },
-      {
-        "id": "rechWg5bDWg9G3prX",
-        "title": "Synthesis, characterization, antioxidant and anticancer potential of Kalanchoe pinnata green synthesized silver nanoparticles targeting p53/MDM2 nexus in hepatic cancer: integrated in vitro and in silico study.",
-        "summary": "Silver nanoparticles from Kalanchoe pinnata plant extract killed liver cancer cells by triggering cell death through a p53 pathway mechanism.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41781430/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Liver"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-05"
       }
@@ -859,10 +859,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9194,
+    "archive_count": 9195,
     "archive_supplements": 1082,
     "archive_off_label": 388,
-    "archive_biomarkers": 5386,
+    "archive_biomarkers": 5387,
     "archive_trials": 2041
   }
 }
