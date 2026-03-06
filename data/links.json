@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-06T05:21:44.978Z",
+  "last_updated": "2026-03-06T05:21:55.839Z",
   "categories": {
     "supplements": [
       {
@@ -229,6 +229,20 @@
         "added_date": "2026-03-06"
       },
       {
+        "id": "recsmEGZSqvAgXJsR",
+        "title": "A glucocorticoid-FAS axis controls immune evasion during metastatic seeding.",
+        "summary": "Blocking glucocorticoid receptors in metastatic breast cancer cells restores immune attack and reduces tumor spread in mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41781620/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-06"
+      },
+      {
         "id": "recMHIiyGTcdfvp8c",
         "title": "MondoA mediates transcriptional coordination between the MYC network and the integrated stress response in pancreatic cancer.",
         "summary": "Blocking MondoA protein kills pancreatic cancer cells with high MYC levels by disrupting stress response pathways and triggering cell death.",
@@ -409,20 +423,6 @@
           "Brain"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-04"
-      },
-      {
-        "id": "rec868g0c7Zmd7Vpk",
-        "title": "Empagliflozin and intermittent fasting as a strategy to mitigate anthracycline-induced cardiotoxicity.",
-        "summary": "Empagliflozin and intermittent fasting each reduce heart damage from doxorubicin chemotherapy by protecting heart cells and reducing inflammation.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41775778/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-04"
       }
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9281,
+    "archive_count": 9282,
     "archive_supplements": 1087,
     "archive_off_label": 389,
-    "archive_biomarkers": 5455,
+    "archive_biomarkers": 5456,
     "archive_trials": 2053
   }
 }
