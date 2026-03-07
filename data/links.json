@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07T05:08:15.670Z",
+  "last_updated": "2026-03-07T05:08:25.977Z",
   "categories": {
     "supplements": [
       {
@@ -752,6 +752,20 @@
         "added_date": "2026-03-07"
       },
       {
+        "id": "reclsRzLoNdr0zU9X",
+        "title": "Development of a Classifier for Metabolic Subtypes of Nasopharyngeal Carcinoma to Guide Personalized Immunotherapy Strategies: Biomarker Analysis of the Phase III CONTINUUM and DIPPER Trials.",
+        "summary": "Researchers developed a metabolic biomarker test to predict which nasopharyngeal cancer patients will benefit most from immunotherapy treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41791006/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 26,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-07"
+      },
+      {
         "id": "recwLGimKiQmFUMZy",
         "title": "Tumor cell-derived IFN spatially reprograms osteopontin-enriched macrophage niches to promote PARP inhibitor resistance.",
         "summary": "Tumor cells produce interferon that reprograms immune cells to express osteopontin, suppressing anti-cancer immunity and causing PARP inhibitor resistance in ovarian cancer.",
@@ -834,20 +848,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-06"
-      },
-      {
-        "id": "rec6K0ukTcgFaBxSo",
-        "title": "Italian guidelines for the use of digital breast tomosynthesis in breast cancer screening programmes: GRADE-ADOLOPMENT of the European guidelines.",
-        "summary": "Italian guidelines recommend digital breast tomosynthesis for breast cancer screening in women with dense breast tissue to improve detection.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41784888/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-06"
       }
     ]
   },
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9383,
+    "archive_count": 9384,
     "archive_supplements": 1091,
     "archive_off_label": 392,
-    "archive_biomarkers": 5517,
+    "archive_biomarkers": 5518,
     "archive_trials": 2086
   }
 }
