@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07T05:05:29.439Z",
+  "last_updated": "2026-03-07T05:05:42.597Z",
   "categories": {
     "supplements": [
       {
@@ -710,6 +710,20 @@
         "added_date": "2026-03-07"
       },
       {
+        "id": "recpXLBbPx8GceOTq",
+        "title": "Mechanisms of chemoresistance in diffuse large B‑cell lymphoma and novel therapeutic strategies (Review).",
+        "summary": "Researchers identified multiple mechanisms of drug resistance in diffuse large B-cell lymphoma and explored new treatments to overcome them.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41789584/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lymphoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-07"
+      },
+      {
         "id": "recwLGimKiQmFUMZy",
         "title": "Tumor cell-derived IFN spatially reprograms osteopontin-enriched macrophage niches to promote PARP inhibitor resistance.",
         "summary": "Tumor cells produce interferon that reprograms immune cells to express osteopontin, suppressing anti-cancer immunity and causing PARP inhibitor resistance in ovarian cancer.",
@@ -834,20 +848,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-06"
-      },
-      {
-        "id": "rec7pYD4TWELeoOva",
-        "title": "Cancer Susceptibility to Stapled Oncolytic Peptides is Dictated by Membrane Cholesterol and Inflammatory Signaling.",
-        "summary": "Researchers developed a peptide that kills leukemia cells by targeting their membranes, with effectiveness determined by cholesterol levels and inflammatory signaling.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41784645/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-06"
       }
     ]
   },
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9368,
+    "archive_count": 9369,
     "archive_supplements": 1090,
     "archive_off_label": 392,
-    "archive_biomarkers": 5505,
+    "archive_biomarkers": 5506,
     "archive_trials": 2084
   }
 }
