@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07T05:04:47.888Z",
+  "last_updated": "2026-03-07T05:05:00.984Z",
   "categories": {
     "supplements": [
       {
@@ -696,6 +696,20 @@
         "added_date": "2026-03-07"
       },
       {
+        "id": "recPcVceiW6gVeSBe",
+        "title": "Advances in immunotherapy and targeted therapy for nasopharyngeal carcinoma: Current progress and combined approaches (Review).",
+        "summary": "Combined immunotherapy and targeted therapy show promise for treating nasopharyngeal carcinoma, with emerging approaches like bispecific antibodies offering new possibilities.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41789645/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-07"
+      },
+      {
         "id": "recwLGimKiQmFUMZy",
         "title": "Tumor cell-derived IFN spatially reprograms osteopontin-enriched macrophage niches to promote PARP inhibitor resistance.",
         "summary": "Tumor cells produce interferon that reprograms immune cells to express osteopontin, suppressing anti-cancer immunity and causing PARP inhibitor resistance in ovarian cancer.",
@@ -834,20 +848,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-06"
-      },
-      {
-        "id": "recQwPHKJizCc6ee1",
-        "title": "Nintedanib enhances the antitumor efficacy of pd-1 blockade, potentially through inhibition of myeloid-derived suppressor cells and cancer-associated fibroblasts.",
-        "summary": "Nintedanib combined with PD-1 inhibitors enhances cancer treatment by reducing immune-suppressive cells and increasing tumor-fighting T cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41784638/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-06"
       }
     ]
   },
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9364,
+    "archive_count": 9365,
     "archive_supplements": 1090,
     "archive_off_label": 392,
-    "archive_biomarkers": 5501,
+    "archive_biomarkers": 5502,
     "archive_trials": 2084
   }
 }
