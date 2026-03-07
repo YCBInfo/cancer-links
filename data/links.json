@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07T05:29:29.036Z",
+  "last_updated": "2026-03-07T05:29:38.394Z",
   "categories": {
     "supplements": [
       {
@@ -271,6 +271,20 @@
         "added_date": "2026-03-07"
       },
       {
+        "id": "recMGyia9CK3i08Wh",
+        "title": "Rafoxanide disrupts mitochondrial homeostasis through VDAC1 modulation in colorectal cancer cells.",
+        "summary": "Rafoxanide kills colorectal cancer cells by disrupting mitochondria through a protein called VDAC1, causing oxidative stress and cell death.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41786695/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-07"
+      },
+      {
         "id": "recM2FmajWPhIz4eU",
         "title": "Propofol regulates METTL3-mediated PARP-1 m6A modification to promote Parthanatos to improve NSCLC chemotherapy resistance.",
         "summary": "Propofol enhances lung cancer chemotherapy by activating a cell death pathway through modification of the PARP-1 protein.",
@@ -409,20 +423,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-05"
-      },
-      {
-        "id": "rec9i0qqpfHLYVOSh",
-        "title": "Cardioprotective effects of prophylactic ACE inhibitors in anthracycline-induced cardiotoxicity: a systematic review and meta-analysis of randomized trials.",
-        "summary": "ACE inhibitors help prevent heart damage in cancer patients receiving anthracycline chemotherapy, particularly those also taking trastuzumab.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41774060/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 24,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-04"
       }
     ],
     "biomarkers": [
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9499,
+    "archive_count": 9500,
     "archive_supplements": 1095,
     "archive_off_label": 393,
-    "archive_biomarkers": 5622,
+    "archive_biomarkers": 5623,
     "archive_trials": 2092
   }
 }
