@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07T05:35:19.543Z",
+  "last_updated": "2026-03-07T07:02:18.487Z",
   "categories": {
     "supplements": [
       {
@@ -115,6 +115,34 @@
         "added_date": "2026-03-07"
       },
       {
+        "id": "recW0LSzlPA42Ypag",
+        "title": "Advances regarding physiological functions and mechanisms of theaflavin‑3,3'‑digallate (Review).",
+        "summary": "Black tea compound TF3 shows promise against cancer and disease, but its instability and breakdown in the body complicate therapeutic development.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41789592/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-07"
+      },
+      {
+        "id": "reczgHWYuHQOYLkxx",
+        "title": "Role of iron and TfR1 in the application of high‑dose ascorbate against pancreatic cancer.",
+        "summary": "High-dose vitamin C kills pancreatic cancer cells through ferroptosis, but adding iron reduces this effect by lowering iron uptake.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41789665/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Pancreatic"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-07"
+      },
+      {
         "id": "reckg7fW1Uz5CaaJv",
         "title": "Therapeutic efficacy of Curcuma longa leaf extract in experimental models of arthritis.",
         "summary": "Turmeric leaf extract reduced arthritis symptoms in rats by targeting inflammation and pain pathways, offering potential as a complementary treatment.",
@@ -181,34 +209,6 @@
           "Breast"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-06"
-      },
-      {
-        "id": "recYr3B1HSmsw3w6L",
-        "title": "The impact of gut microbiota modulation on responses to immune checkpoint inhibitors in cancer.",
-        "summary": "Specific gut bacteria improve cancer immunotherapy response and survival, while antibiotics harm outcomes in immune checkpoint inhibitor treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41196286/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-06"
-      },
-      {
-        "id": "recWXaPVPq59oOFmj",
-        "title": "Moderate-to-vigorous Physical Activity and Total and Site-specific Cancer: The Japan Public Health Center-based Prospective Study.",
-        "summary": "Moderate-to-vigorous physical activity is associated with lower overall cancer risk across multiple cancer types in Japanese adults.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41047348/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-06"
       }
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9532,
+    "archive_count": 9533,
     "archive_supplements": 1097,
     "archive_off_label": 394,
-    "archive_biomarkers": 5646,
+    "archive_biomarkers": 5647,
     "archive_trials": 2098
   }
 }
