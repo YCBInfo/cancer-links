@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07T05:03:03.229Z",
+  "last_updated": "2026-03-07T05:03:12.719Z",
   "categories": {
     "supplements": [
       {
@@ -513,6 +513,20 @@
         "added_date": "2026-03-07"
       },
       {
+        "id": "recP41rhncgD38kUd",
+        "title": "Cellular and inflammatory characteristics of patient‑derived glioblastoma organoids during in vitro cultivation.",
+        "summary": "Patient-derived glioblastoma organoids maintain tumor characteristics for 7-14 days, providing an optimal window for preclinical research models.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41789657/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-07"
+      },
+      {
         "id": "rec07tHkP6cYvqzng",
         "title": "Mislocalisation of FLT3-ITD receptor contributes to MV4-11 leukaemia cell resistance to antibody-drug conjugate.",
         "summary": "FLT3-mutated leukemia cells resist antibody-drug conjugates because the mutant receptor gets trapped in the Golgi instead of reaching lysosomes where drugs are released.",
@@ -621,20 +635,6 @@
           "Lung"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-06"
-      },
-      {
-        "id": "reckULdeZtuOX0TXe",
-        "title": "Radiologic exposomics: imaging the environmental imprint on cancer for precision oncology.",
-        "summary": "Medical imaging combined with environmental exposure data may help predict and understand how pollution and environmental stressors influence cancer development and progression.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41784890/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-06"
       }
@@ -858,9 +858,9 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9355,
+    "archive_count": 9356,
     "archive_supplements": 1090,
-    "archive_off_label": 391,
+    "archive_off_label": 392,
     "archive_biomarkers": 5493,
     "archive_trials": 2084
   }
