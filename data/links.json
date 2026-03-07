@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-06T12:13:11.742Z",
+  "last_updated": "2026-03-07T05:02:52.241Z",
   "categories": {
     "supplements": [
       {
@@ -215,6 +215,20 @@
     ],
     "off_label": [
       {
+        "id": "reclVwtR0AwhpYPyK",
+        "title": "Glutamine antagonist DON attenuates chikungunya virus-induced myositis by suppressing inflammatory activation in a murine model.",
+        "summary": "DON, a glutamine inhibitor, reduces chikungunya virus-induced muscle inflammation by suppressing immune cell activation, without affecting viral control.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41790543/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-07"
+      },
+      {
         "id": "recM2FmajWPhIz4eU",
         "title": "Propofol regulates METTL3-mediated PARP-1 m6A modification to promote Parthanatos to improve NSCLC chemotherapy resistance.",
         "summary": "Propofol enhances lung cancer chemotherapy by activating a cell death pathway through modification of the PARP-1 protein.",
@@ -410,12 +424,42 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-04"
+      }
+    ],
+    "biomarkers": [
+      {
+        "id": "recNr0leCpDPxaTyo",
+        "title": "An exploratory serum metabolomics study for screening and staging of breast cancer.",
+        "summary": "Researchers identified unique metabolic patterns in blood serum that could help detect and classify breast cancer stages.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41787748/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-07"
       },
       {
-        "id": "recrfK013JadgnAGK",
-        "title": "Pharmacokinetics of intra-articular delivery of flavopiridol-loaded microparticles reveal sustained effects in Lewis rats.",
-        "summary": "Researchers developed a sustained-release injection of flavopiridol for osteoarthritis that maintains therapeutic levels in affected joints.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41771250/",
+        "id": "recHNJPZpcnEjvOxW",
+        "title": "PD-1 genetic fate mapping uncovers immune cell diversity mediating the efficacy of combined PD-1 blockade and chemotherapy.",
+        "summary": "Combining chemotherapy with PD-1 blockade expands cancer-fighting immune cells in lung tumors, revealing how the treatment works.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41787604/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-07"
+      },
+      {
+        "id": "reclVwtR0AwhpYPyK",
+        "title": "Glutamine antagonist DON attenuates chikungunya virus-induced myositis by suppressing inflammatory activation in a murine model.",
+        "summary": "DON, a glutamine inhibitor, reduces chikungunya virus-induced muscle inflammation by suppressing immune cell activation, without affecting viral control.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41790543/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -423,10 +467,36 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-03-01",
-        "added_date": "2026-03-04"
-      }
-    ],
-    "biomarkers": [
+        "added_date": "2026-03-07"
+      },
+      {
+        "id": "recsc1DJnZfIs5qeT",
+        "title": "TimeVault turns vault particles into molecular memory of transcriptional states: how to decode the cellular black box.",
+        "summary": "TimeVault stores cell gene expression histories inside living cells, revealing which cancer cells will survive drug treatment before therapy begins.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41789510/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-07"
+      },
+      {
+        "id": "recvpnlw1zGDW9kAm",
+        "title": "Advances in the application of frailty scoring in the diagnosis and management of elderly patients with multiple myeloma (Review).",
+        "summary": "Frailty scoring helps doctors better diagnose and personalize treatment for elderly multiple myeloma patients, improving safety and outcomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41789669/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-07"
+      },
       {
         "id": "rec07tHkP6cYvqzng",
         "title": "Mislocalisation of FLT3-ITD receptor contributes to MV4-11 leukaemia cell resistance to antibody-drug conjugate.",
@@ -566,26 +636,28 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-06"
-      },
+      }
+    ],
+    "trials": [
       {
-        "id": "recNCoxoRKh9ekcwA",
-        "title": "ABT-737 efficiently inhibits hepatocellular carcinoma cell activity via regulating PANoptosis.",
-        "summary": "ABT-737 drug stops hepatocellular carcinoma cells by triggering a combined cell death pathway involving multiple death mechanisms.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41784885/",
+        "id": "recHNJPZpcnEjvOxW",
+        "title": "PD-1 genetic fate mapping uncovers immune cell diversity mediating the efficacy of combined PD-1 blockade and chemotherapy.",
+        "summary": "Combining chemotherapy with PD-1 blockade expands cancer-fighting immune cells in lung tumors, revealing how the treatment works.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41787604/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
-          "Liver"
+          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
-        "added_date": "2026-03-06"
+        "added_date": "2026-03-07"
       },
       {
-        "id": "recjCTVaStpguDr1W",
-        "title": "Beyond tumor mutational burden: a framework for immune-checkpoint blockade responsiveness in gastrointestinal cancers.",
-        "summary": "Researchers propose a new framework beyond tumor mutation count to better predict which gastrointestinal cancer patients will respond to immunotherapy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41784875/",
+        "id": "recvpnlw1zGDW9kAm",
+        "title": "Advances in the application of frailty scoring in the diagnosis and management of elderly patients with multiple myeloma (Review).",
+        "summary": "Frailty scoring helps doctors better diagnose and personalize treatment for elderly multiple myeloma patients, improving safety and outcomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41789669/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -593,52 +665,8 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-03-01",
-        "added_date": "2026-03-06"
+        "added_date": "2026-03-07"
       },
-      {
-        "id": "reckGeHb22zpwUMIq",
-        "title": "Impact of Co-Mutations and Genetic Variations on Malignancy Risk in RAS-Positive Indeterminate Thyroid Nodules: an Institutional Experience.",
-        "summary": "RAS mutations alone in thyroid nodules are often benign, but RAS combined with additional genetic mutations significantly increases thyroid cancer malignancy risk.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41784850/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Thyroid"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-06"
-      },
-      {
-        "id": "recNmtPevu8Qo9t0W",
-        "title": "Decoding the Glioblastoma Microenvironment: AI-Driven Analysis of Cellular MRI Signatures for Targeted Therapy.",
-        "summary": "AI analysis of brain tumor MRI scans identifies resistant tumor zones, enabling personalized therapies targeting glioblastoma and its protective microenvironment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41784819/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-06"
-      },
-      {
-        "id": "recmHjkAm3FZ9XVSw",
-        "title": "Amino acid metabolism-related model for prognosis and immunity in gastric cancer.",
-        "summary": "Researchers identified 16 amino acid metabolism genes that predict survival and immune response in gastric cancer patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41784817/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Stomach"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-06"
-      }
-    ],
-    "trials": [
       {
         "id": "recwLGimKiQmFUMZy",
         "title": "Tumor cell-derived IFN spatially reprograms osteopontin-enriched macrophage niches to promote PARP inhibitor resistance.",
@@ -820,34 +848,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-06"
-      },
-      {
-        "id": "recQ9J9LfNYihqQfs",
-        "title": "Trends in Long-Term Excess Mortality Risk and Survival Among Childhood and Adolescent Cancer Survivors in the United States.",
-        "summary": "Childhood cancer survivors' long-term survival is improving, though they still face higher mortality risks than the general population.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41784570/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-06"
-      },
-      {
-        "id": "recFK92gVYK7AnC59",
-        "title": "Locus-specific human endogenous retrovirus ERVK18 expression indicates an inflamed microenvironment and favorable immunotherapy outcome in small cell lung cancer.",
-        "summary": "High expression of a specific retrovirus marker predicts better immunotherapy response in small cell lung cancer patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41784525/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-06"
       }
     ]
   },
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9353,
+    "archive_count": 9354,
     "archive_supplements": 1090,
     "archive_off_label": 391,
-    "archive_biomarkers": 5491,
+    "archive_biomarkers": 5492,
     "archive_trials": 2084
   }
 }
