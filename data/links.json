@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07T05:08:25.977Z",
+  "last_updated": "2026-03-07T05:08:36.514Z",
   "categories": {
     "supplements": [
       {
@@ -766,6 +766,20 @@
         "added_date": "2026-03-07"
       },
       {
+        "id": "rec6k7Z5scoORdPet",
+        "title": "Clinical Impact and Clinicopathologic Correlations of Oncotype DX in Hormone Receptor-Positive/HER2-Negative Early Breast Cancer: Real-World Evidence From a Large Brazilian Cohort (GBECAM 0520).",
+        "summary": "Oncotype DX testing helps Brazilian breast cancer patients avoid unnecessary chemotherapy by predicting which hormone receptor-positive tumors truly need it.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41791005/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-07"
+      },
+      {
         "id": "recwLGimKiQmFUMZy",
         "title": "Tumor cell-derived IFN spatially reprograms osteopontin-enriched macrophage niches to promote PARP inhibitor resistance.",
         "summary": "Tumor cells produce interferon that reprograms immune cells to express osteopontin, suppressing anti-cancer immunity and causing PARP inhibitor resistance in ovarian cancer.",
@@ -834,20 +848,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-06"
-      },
-      {
-        "id": "recrVHrUkqCgI6EVe",
-        "title": "Genomic Therapy Matching in Rare and Refractory Cancers.",
-        "summary": "Doctors need better evidence that matching cancer drugs to genetic mutations actually helps patients with rare, hard-to-treat cancers.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41784981/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-06"
       }
     ]
   },
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9384,
+    "archive_count": 9385,
     "archive_supplements": 1091,
     "archive_off_label": 392,
-    "archive_biomarkers": 5518,
+    "archive_biomarkers": 5519,
     "archive_trials": 2086
   }
 }
