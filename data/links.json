@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07T05:25:56.237Z",
+  "last_updated": "2026-03-07T05:26:05.341Z",
   "categories": {
     "supplements": [
       {
@@ -53,6 +53,20 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-07"
+      },
+      {
+        "id": "recCAUZYy3EpS2x1I",
+        "title": "Exercise and Phellodendron amurense extract differentially impinge on oxidative stress response pathways in a mouse model of prostate cancer.",
+        "summary": "Exercise and Phellodendron amurense extract both reduce aggressive prostate tumors in mice by differently targeting oxidative stress pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41787055/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Prostate"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -197,20 +211,6 @@
         "quality_score": 10,
         "pub_date": "2026-03-05",
         "added_date": "2026-03-06"
-      },
-      {
-        "id": "rec8ft9JVYXiKlq3b",
-        "title": "Current landscape and therapeutic prospects of indole hybrids for prostate cancer treatment: A mini-review.",
-        "summary": "Indole hybrid compounds show promise for treating prostate cancer by targeting multiple pathways and overcoming drug resistance.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41548295/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Prostate"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-05"
       }
     ],
     "off_label": [
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9480,
+    "archive_count": 9481,
     "archive_supplements": 1093,
     "archive_off_label": 392,
-    "archive_biomarkers": 5606,
+    "archive_biomarkers": 5607,
     "archive_trials": 2092
   }
 }
