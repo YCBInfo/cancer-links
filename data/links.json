@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07T05:32:19.472Z",
+  "last_updated": "2026-03-07T05:32:29.483Z",
   "categories": {
     "supplements": [
       {
@@ -81,6 +81,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Kidney"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-07"
+      },
+      {
+        "id": "recxyXiZrmRhxoYcd",
+        "title": "Oleandrin Suppresses the PI3K/AKT Pathway to Inhibit Growth and Induce Apoptosis in T-cell Acute Lymphoblastic Leukemia Cells and Xenograft Mice.",
+        "summary": "Oleandrin kills T-cell acute lymphoblastic leukemia cells and tumors by blocking a key cancer growth pathway called PI3K/AKT.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41786305/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -196,20 +210,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
-        "added_date": "2026-03-06"
-      },
-      {
-        "id": "recuJYhaiJZUT4M5y",
-        "title": "Intralesional Therapies For Cutaneous Viral Warts: A Comparative Analysis Of Vitamin D3 And Acyclovir",
-        "summary": "Study compares intralesional vitamin D3 and acyclovir injections for clearing cutaneous warts in patients aged 12 and older.",
-        "url": "https://clinicaltrials.gov/study/NCT07448844",
-        "source": "ClinicalTrials.gov",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
-        "pub_date": "2026-03-05",
         "added_date": "2026-03-06"
       }
     ],
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9515,
+    "archive_count": 9516,
     "archive_supplements": 1095,
     "archive_off_label": 394,
     "archive_biomarkers": 5634,
-    "archive_trials": 2095
+    "archive_trials": 2096
   }
 }
