@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07T10:02:18.261Z",
+  "last_updated": "2026-03-07T10:02:28.830Z",
   "categories": {
     "supplements": [
       {
@@ -371,6 +371,20 @@
         "added_date": "2026-03-07"
       },
       {
+        "id": "reckJmBJozlPTne7n",
+        "title": "A phase I study of hydroxychloroquine and suba-itraconazole in men with biochemical relapse of prostate cancer (HITMAN-PC): dose escalation results.",
+        "summary": "Researchers tested a combination of two drugs to treat prostate cancer that has returned after initial treatment, establishing safe dosing levels.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41788020/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 21,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-07"
+      },
+      {
         "id": "recM2FmajWPhIz4eU",
         "title": "Propofol regulates METTL3-mediated PARP-1 m6A modification to promote Parthanatos to improve NSCLC chemotherapy resistance.",
         "summary": "Propofol enhances lung cancer chemotherapy by activating a cell death pathway through modification of the PARP-1 protein.",
@@ -409,20 +423,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-06"
-      },
-      {
-        "id": "recfP7ZENrfc563mv",
-        "title": "Comparison of Antiplatelets and Anticoagulants for Secondary Stroke Prevention in Ischemic Stroke Patients with Cancer: A Meta-Analysis.",
-        "summary": "In cancer patients with stroke, antiplatelet drugs and anticoagulants equally prevent recurrent strokes, but antiplatelets reduce death risk more.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41782589/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 29,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-06"
       }
@@ -859,10 +859,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9651,
+    "archive_count": 9652,
     "archive_supplements": 1128,
     "archive_off_label": 395,
     "archive_biomarkers": 5702,
-    "archive_trials": 2129
+    "archive_trials": 2130
   }
 }
