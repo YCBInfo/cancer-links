@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07T10:03:38.962Z",
+  "last_updated": "2026-03-07T10:03:58.927Z",
   "categories": {
     "supplements": [
       {
@@ -385,6 +385,20 @@
         "added_date": "2026-03-07"
       },
       {
+        "id": "recK9PRbVHNdZXyMQ",
+        "title": "Nebivolol-induced bi-directional modulation of intracellular kinases contributes to the inhibition of triple-negative breast cancer.",
+        "summary": "Nebivolol, a beta-blocker, inhibits triple-negative breast cancer growth by activating certain cell-death pathways while suppressing tumor-promoting signals.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41791603/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-07"
+      },
+      {
         "id": "recM2FmajWPhIz4eU",
         "title": "Propofol regulates METTL3-mediated PARP-1 m6A modification to promote Parthanatos to improve NSCLC chemotherapy resistance.",
         "summary": "Propofol enhances lung cancer chemotherapy by activating a cell death pathway through modification of the PARP-1 protein.",
@@ -409,20 +423,6 @@
           "Breast"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-06"
-      },
-      {
-        "id": "rechzW1orGCCfi4yj",
-        "title": "Fertility-preserving treatment of endometrial cancer and endometrial atypical hyperplasia for patients with metabolic abnormalities: Challenge or opportunity?",
-        "summary": "Researchers tested combining hormone-blocking therapy with metabolic treatments to preserve fertility in young women with early-stage endometrial cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/40588797/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-06"
       }
@@ -859,10 +859,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9658,
+    "archive_count": 9659,
     "archive_supplements": 1128,
     "archive_off_label": 398,
-    "archive_biomarkers": 5702,
+    "archive_biomarkers": 5703,
     "archive_trials": 2133
   }
 }
