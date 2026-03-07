@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-03-07T05:05:51.690Z",
+  "last_updated": "2026-03-07T05:06:02.087Z",
   "categories": {
     "supplements": [
+      {
+        "id": "recrMbZAtaFb2DKMP",
+        "title": "Dual in vitro and in silico evaluation of the apoptosis-inducing and migration-inhibiting potential of Capparis spinosa methanol extract in prostate cancer cells.",
+        "summary": "Capparis spinosa plant extract triggers cell death and stops movement in prostate cancer cells through flavonoid compounds.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41789307/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-07"
+      },
       {
         "id": "reckg7fW1Uz5CaaJv",
         "title": "Therapeutic efficacy of Curcuma longa leaf extract in experimental models of arthritis.",
@@ -193,20 +207,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-05"
-      },
-      {
-        "id": "recUA1nOQiBirYIuP",
-        "title": "Discovery of novel and potent harringtonine derivative P2 via systematic structure-activity Optimization: Semi-Synthesis, anti-leukemia activity, and mechanism study.",
-        "summary": "Researchers created a new leukemia drug candidate (P2) that is ten times more potent than existing treatments by blocking protein production in cancer cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41506044/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9370,
+    "archive_count": 9371,
     "archive_supplements": 1090,
     "archive_off_label": 392,
-    "archive_biomarkers": 5507,
+    "archive_biomarkers": 5508,
     "archive_trials": 2084
   }
 }
