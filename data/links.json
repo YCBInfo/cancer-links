@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07T05:03:58.248Z",
+  "last_updated": "2026-03-07T05:04:09.045Z",
   "categories": {
     "supplements": [
       {
@@ -582,6 +582,20 @@
         "added_date": "2026-03-07"
       },
       {
+        "id": "recttCaLGuteV2hmL",
+        "title": "FOXM1 inhibitor, RCM‑1, enhances venetoclax mediated apoptosis through downregulation of ATP2B4 in rhabdomyosarcoma.",
+        "summary": "A combination of FOXM1 inhibitor RCM-1 and venetoclax kills rhabdomyosarcoma cells by reducing a calcium channel protein called ATP2B4.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41789627/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-07"
+      },
+      {
         "id": "rec07tHkP6cYvqzng",
         "title": "Mislocalisation of FLT3-ITD receptor contributes to MV4-11 leukaemia cell resistance to antibody-drug conjugate.",
         "summary": "FLT3-mutated leukemia cells resist antibody-drug conjugates because the mutant receptor gets trapped in the Golgi instead of reaching lysosomes where drugs are released.",
@@ -622,20 +636,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-03-06"
-      },
-      {
-        "id": "recIdttxBMb9JgP45",
-        "title": "Pretreatment MRI Versus Postoperative Pathology in Locoregional Staging of Rectal Cancer: A Germany-Wide Multicenter Re-Evaluation Study in Non-Pretreated Patients Based on the OCUM Study.",
-        "summary": "Researchers found that MRI accurately stages rectal cancer before treatment, helping doctors decide whether patients need chemotherapy and radiation therapy beforehand.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41607293/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 13,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-03-06"
       }
     ],
     "trials": [
@@ -658,6 +658,20 @@
         "title": "Advances in the application of frailty scoring in the diagnosis and management of elderly patients with multiple myeloma (Review).",
         "summary": "Frailty scoring helps doctors better diagnose and personalize treatment for elderly multiple myeloma patients, improving safety and outcomes.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41789669/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-07"
+      },
+      {
+        "id": "recttCaLGuteV2hmL",
+        "title": "FOXM1 inhibitor, RCM‑1, enhances venetoclax mediated apoptosis through downregulation of ATP2B4 in rhabdomyosarcoma.",
+        "summary": "A combination of FOXM1 inhibitor RCM-1 and venetoclax kills rhabdomyosarcoma cells by reducing a calcium channel protein called ATP2B4.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41789627/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -834,20 +848,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-06"
-      },
-      {
-        "id": "recOpAq7KhFw2OeqX",
-        "title": "ACR Appropriateness Criteria® Postmenopausal Subacute or Chronic Pelvic Pain: Update 2025.",
-        "summary": "Updated guidelines recommend ultrasound as first-line imaging for postmenopausal women with chronic pelvic pain, with MRI or CT for inconclusive cases.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41784596/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-06"
       }
     ]
   },
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9360,
+    "archive_count": 9361,
     "archive_supplements": 1090,
     "archive_off_label": 392,
-    "archive_biomarkers": 5497,
+    "archive_biomarkers": 5498,
     "archive_trials": 2084
   }
 }
