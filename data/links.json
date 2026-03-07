@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07T07:09:56.043Z",
+  "last_updated": "2026-03-07T07:10:07.629Z",
   "categories": {
     "supplements": [
       {
@@ -314,6 +314,20 @@
         "added_date": "2026-03-07"
       },
       {
+        "id": "recEgJ6FZuCObelrd",
+        "title": "Adenylate kinase 4 promotes radioresistance by suppressing radiation-induced ferroptosis through metabolic regulation in glioblastoma.",
+        "summary": "AK4 protein promotes glioblastoma radioresistance by suppressing cell death; blocking it with entinostat restores radiation sensitivity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41784866/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-07"
+      },
+      {
         "id": "recM2FmajWPhIz4eU",
         "title": "Propofol regulates METTL3-mediated PARP-1 m6A modification to promote Parthanatos to improve NSCLC chemotherapy resistance.",
         "summary": "Propofol enhances lung cancer chemotherapy by activating a cell death pathway through modification of the PARP-1 protein.",
@@ -404,20 +418,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41778401/",
         "source": "PubMed",
         "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-05"
-      },
-      {
-        "id": "rec66AprZexOILaQs",
-        "title": "Immunotherapy Inhibits Tumor Cholesterol Synthesis via the IFNγ-IRF1-SREBF2 Axis.",
-        "summary": "Immunotherapy blocks cholesterol production in cancer cells through an immune signaling pathway, slowing tumor growth.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41364085/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9573,
+    "archive_count": 9574,
     "archive_supplements": 1110,
     "archive_off_label": 394,
-    "archive_biomarkers": 5668,
+    "archive_biomarkers": 5669,
     "archive_trials": 2104
   }
 }
