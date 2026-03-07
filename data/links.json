@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07T07:03:34.178Z",
+  "last_updated": "2026-03-07T07:03:56.071Z",
   "categories": {
     "supplements": [
       {
@@ -185,6 +185,20 @@
         "added_date": "2026-03-07"
       },
       {
+        "id": "recHRQdTATP3TByPD",
+        "title": "Dietary restriction in aging and longevity.",
+        "summary": "Dietary restriction slows aging and may prevent cancer and other age-related diseases through cellular pathway changes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41792328/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-07"
+      },
+      {
         "id": "reckg7fW1Uz5CaaJv",
         "title": "Therapeutic efficacy of Curcuma longa leaf extract in experimental models of arthritis.",
         "summary": "Turmeric leaf extract reduced arthritis symptoms in rats by targeting inflammation and pain pathways, offering potential as a complementary treatment.",
@@ -195,20 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-06"
-      },
-      {
-        "id": "recNaZdq9CIX6VRKn",
-        "title": "Citronellol potentiates sunitinib efficacy in renal cell carcinoma by targeting JAK2/STAT3 signaling pathway.",
-        "summary": "Citronellol, a plant compound, enhances the kidney cancer drug sunitinib by blocking JAK2/STAT3 survival signals.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41784696/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Kidney"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-06"
       }
@@ -857,8 +857,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9540,
-    "archive_supplements": 1101,
+    "archive_count": 9541,
+    "archive_supplements": 1102,
     "archive_off_label": 394,
     "archive_biomarkers": 5649,
     "archive_trials": 2099
