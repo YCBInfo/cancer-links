@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07T09:03:02.795Z",
+  "last_updated": "2026-03-07T10:02:06.788Z",
   "categories": {
     "supplements": [
       {
@@ -328,6 +328,34 @@
         "added_date": "2026-03-07"
       },
       {
+        "id": "recXZEFVSWrd6bF7M",
+        "title": "Overcoming acquired doxorubicin resistance of ovarian carcinoma cells by verapamil‑mediated promotion of DNA damage‑driven cytotoxicity.",
+        "summary": "Verapamil restores ovarian cancer cells' sensitivity to doxorubicin by blocking drug efflux, though it may increase normal tissue damage.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41789585/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Ovarian"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-07"
+      },
+      {
+        "id": "recAnHiNMQRGGDfJh",
+        "title": "Selective Cav1.3 inhibition promotes survival of transplanted dopaminergic neurons via the CaMKII-p65-p53 pathway.",
+        "summary": "Blocking Cav1.3 channels improves survival of transplanted dopamine neurons for Parkinson's disease treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41791389/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-07"
+      },
+      {
         "id": "recM2FmajWPhIz4eU",
         "title": "Propofol regulates METTL3-mediated PARP-1 m6A modification to promote Parthanatos to improve NSCLC chemotherapy resistance.",
         "summary": "Propofol enhances lung cancer chemotherapy by activating a cell death pathway through modification of the PARP-1 protein.",
@@ -394,34 +422,6 @@
           "Pancreatic"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-05"
-      },
-      {
-        "id": "recREFAjG7pSVpYvt",
-        "title": "Finerenone in Type 1 Diabetes and Chronic Kidney Disease.",
-        "summary": "Researchers are testing whether finerenone, a kidney-protective drug, works safely and effectively for type 1 diabetes patients with kidney disease.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41780000/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-05"
-      },
-      {
-        "id": "reccymlOSolYlPOfA",
-        "title": "Ion-Exchange and Energy-Stress Strategies Amplified Dual-Site Nanozyme-Mediated Ferroptosis/Pyroptosis Inhibition for Neuroprotection.",
-        "summary": "Researchers developed a nano-particle treatment that crosses the brain barrier to prevent cell death and reduce inflammation after brain hemorrhage.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41778401/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-05"
       }
@@ -858,9 +858,9 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9649,
+    "archive_count": 9650,
     "archive_supplements": 1128,
-    "archive_off_label": 394,
+    "archive_off_label": 395,
     "archive_biomarkers": 5701,
     "archive_trials": 2129
   }
