@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07T05:02:52.241Z",
+  "last_updated": "2026-03-07T05:03:03.229Z",
   "categories": {
     "supplements": [
       {
@@ -498,6 +498,21 @@
         "added_date": "2026-03-07"
       },
       {
+        "id": "recqVrY6F5XyPSoeR",
+        "title": "Knockdown of CCT2 inhibits the malignant progression of hepatocellular carcinoma cells by impairing STAT3 activation.",
+        "summary": "Reducing CCT2 protein slows hepatocellular carcinoma growth by blocking STAT3 activation, suggesting CCT2 as a treatment target.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41789667/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia",
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-07"
+      },
+      {
         "id": "rec07tHkP6cYvqzng",
         "title": "Mislocalisation of FLT3-ITD receptor contributes to MV4-11 leukaemia cell resistance to antibody-drug conjugate.",
         "summary": "FLT3-mutated leukemia cells resist antibody-drug conjugates because the mutant receptor gets trapped in the Golgi instead of reaching lysosomes where drugs are released.",
@@ -620,20 +635,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-06"
-      },
-      {
-        "id": "rec6K0ukTcgFaBxSo",
-        "title": "Italian guidelines for the use of digital breast tomosynthesis in breast cancer screening programmes: GRADE-ADOLOPMENT of the European guidelines.",
-        "summary": "Italian guidelines recommend digital breast tomosynthesis for breast cancer screening in women with dense breast tissue to improve detection.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41784888/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-06"
       }
@@ -857,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9354,
+    "archive_count": 9355,
     "archive_supplements": 1090,
     "archive_off_label": 391,
-    "archive_biomarkers": 5492,
+    "archive_biomarkers": 5493,
     "archive_trials": 2084
   }
 }
