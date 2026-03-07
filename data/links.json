@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07T05:06:34.182Z",
+  "last_updated": "2026-03-07T05:06:44.443Z",
   "categories": {
     "supplements": [
       {
@@ -738,6 +738,20 @@
         "added_date": "2026-03-07"
       },
       {
+        "id": "recxpUxQSdOUrue04",
+        "title": "Locoregional and symptomatic response to neoadjuvant dual HER2 blockade with chemotherapy in HER2-positive breast cancer: a pilot study.",
+        "summary": "Dual HER2 blockade with chemotherapy before surgery shrinks HER2-positive breast tumors and improves symptoms in most patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41176781/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-07"
+      },
+      {
         "id": "recwLGimKiQmFUMZy",
         "title": "Tumor cell-derived IFN spatially reprograms osteopontin-enriched macrophage niches to promote PARP inhibitor resistance.",
         "summary": "Tumor cells produce interferon that reprograms immune cells to express osteopontin, suppressing anti-cancer immunity and causing PARP inhibitor resistance in ovarian cancer.",
@@ -834,20 +848,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-06"
-      },
-      {
-        "id": "recFnrlnufbXV6WDX",
-        "title": "Automated radiosynthesis of 2-[18F]BPA for PET-based planning of boron neutron capture therapy (BNCT): rational precursor design, radiofluorination, and characterization of methodology.",
-        "summary": "Researchers developed an automated method to produce a fluorine-18 labeled tracer for better visualizing boron distribution in tumors during neutron capture therapy planning.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41784763/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-06"
       }
     ]
   },
@@ -857,8 +857,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9374,
-    "archive_supplements": 1090,
+    "archive_count": 9375,
+    "archive_supplements": 1091,
     "archive_off_label": 392,
     "archive_biomarkers": 5511,
     "archive_trials": 2084
