@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07T10:02:06.788Z",
+  "last_updated": "2026-03-07T10:02:18.261Z",
   "categories": {
     "supplements": [
       {
@@ -356,6 +356,21 @@
         "added_date": "2026-03-07"
       },
       {
+        "id": "rec8sNpOPkBgsNyPJ",
+        "title": "CuET inhibits Ewing sarcoma of bone progression through modulation of the ESM1-MAPK/ERK signaling axis.",
+        "summary": "CuET, a copper compound from disulfiram metabolism, inhibits Ewing sarcoma progression by blocking ESM1-MAPK/ERK signaling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41791304/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Breast",
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-07"
+      },
+      {
         "id": "recM2FmajWPhIz4eU",
         "title": "Propofol regulates METTL3-mediated PARP-1 m6A modification to promote Parthanatos to improve NSCLC chemotherapy resistance.",
         "summary": "Propofol enhances lung cancer chemotherapy by activating a cell death pathway through modification of the PARP-1 protein.",
@@ -410,20 +425,6 @@
         "quality_score": 29,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-06"
-      },
-      {
-        "id": "recMHIiyGTcdfvp8c",
-        "title": "MondoA mediates transcriptional coordination between the MYC network and the integrated stress response in pancreatic cancer.",
-        "summary": "Blocking MondoA protein kills pancreatic cancer cells with high MYC levels by disrupting stress response pathways and triggering cell death.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41779777/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Pancreatic"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-05"
       }
     ],
     "biomarkers": [
@@ -858,10 +859,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9650,
+    "archive_count": 9651,
     "archive_supplements": 1128,
     "archive_off_label": 395,
-    "archive_biomarkers": 5701,
+    "archive_biomarkers": 5702,
     "archive_trials": 2129
   }
 }
