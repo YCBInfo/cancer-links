@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07T05:32:51.383Z",
+  "last_updated": "2026-03-07T05:33:01.150Z",
   "categories": {
     "supplements": [
       {
@@ -101,6 +101,20 @@
         "added_date": "2026-03-07"
       },
       {
+        "id": "recLzRaaLFzrEEZnD",
+        "title": "Integrated metabolomics and network pharmacology reveal multi-target phytotherapeutic activities of Frankenia hirsuta against inflammation and diabetic neuropathy with cytotoxic potential.",
+        "summary": "Frankenia hirsuta plant extract shows promise against inflammation and diabetic nerve damage while demonstrating potential anti-cancer activity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41785409/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-07"
+      },
+      {
         "id": "reckg7fW1Uz5CaaJv",
         "title": "Therapeutic efficacy of Curcuma longa leaf extract in experimental models of arthritis.",
         "summary": "Turmeric leaf extract reduced arthritis symptoms in rats by targeting inflammation and pain pathways, offering potential as a complementary treatment.",
@@ -195,20 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-06"
-      },
-      {
-        "id": "recV5BCXfwhmaJInL",
-        "title": "Flavokawain C suppresses nephroblastoma growth by inducing autophagy-mediated downregulation of FABP4 via AMPK/mTOR pathway.",
-        "summary": "Flavokawain C suppresses pediatric kidney cancer (nephroblastoma) growth by activating a cellular cleanup process that destroys a cancer-promoting protein.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41781551/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Kidney"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-06"
       }
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9518,
+    "archive_count": 9519,
     "archive_supplements": 1095,
     "archive_off_label": 394,
-    "archive_biomarkers": 5635,
+    "archive_biomarkers": 5636,
     "archive_trials": 2097
   }
 }
