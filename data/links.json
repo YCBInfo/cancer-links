@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07T05:20:19.298Z",
+  "last_updated": "2026-03-07T05:20:30.391Z",
   "categories": {
     "supplements": [
       {
@@ -243,6 +243,20 @@
         "added_date": "2026-03-07"
       },
       {
+        "id": "recvNdFFKglfZMjAM",
+        "title": "Lactylation as a metabolic-epigenetic switch in cancer: dual roles in cell death resistance and therapeutic vulnerability.",
+        "summary": "Lactate-driven protein changes help cancers resist treatment, but blocking this process restores sensitivity to chemotherapy, radiotherapy, and immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41786683/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-07"
+      },
+      {
         "id": "recM2FmajWPhIz4eU",
         "title": "Propofol regulates METTL3-mediated PARP-1 m6A modification to promote Parthanatos to improve NSCLC chemotherapy resistance.",
         "summary": "Propofol enhances lung cancer chemotherapy by activating a cell death pathway through modification of the PARP-1 protein.",
@@ -405,20 +419,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-04"
-      },
-      {
-        "id": "recLVcUn4yvPfSUB6",
-        "title": "The multifunctional RNA helicase DDX39A drives glioblastoma progression by modulating WISP1 alternative splicing that induces an immunosuppressive macrophage polarization.",
-        "summary": "DDX39A protein drives glioblastoma growth by suppressing immune cells; blocking it with a drug slows tumor progression.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41772197/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Brain"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9450,
+    "archive_count": 9451,
     "archive_supplements": 1093,
     "archive_off_label": 392,
-    "archive_biomarkers": 5577,
+    "archive_biomarkers": 5578,
     "archive_trials": 2091
   }
 }
