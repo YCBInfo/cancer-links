@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07T05:04:09.045Z",
+  "last_updated": "2026-03-07T05:04:28.078Z",
   "categories": {
     "supplements": [
       {
@@ -596,6 +596,20 @@
         "added_date": "2026-03-07"
       },
       {
+        "id": "recDIfg41wMteduoB",
+        "title": "Pancreatic cancer EMT‑targeted therapy: Molecular mechanisms and clinical translation (Review).",
+        "summary": "Targeting EMT, a key driver of pancreatic cancer spread and drug resistance, offers promising new treatment strategies to improve survival.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41789626/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Pancreatic"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-07"
+      },
+      {
         "id": "rec07tHkP6cYvqzng",
         "title": "Mislocalisation of FLT3-ITD receptor contributes to MV4-11 leukaemia cell resistance to antibody-drug conjugate.",
         "summary": "FLT3-mutated leukemia cells resist antibody-drug conjugates because the mutant receptor gets trapped in the Golgi instead of reaching lysosomes where drugs are released.",
@@ -621,20 +635,6 @@
         ],
         "quality_score": 18,
         "pub_date": "2026-03-01",
-        "added_date": "2026-03-06"
-      },
-      {
-        "id": "recwLGimKiQmFUMZy",
-        "title": "Tumor cell-derived IFN spatially reprograms osteopontin-enriched macrophage niches to promote PARP inhibitor resistance.",
-        "summary": "Tumor cells produce interferon that reprograms immune cells to express osteopontin, suppressing anti-cancer immunity and causing PARP inhibitor resistance in ovarian cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41734034/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Ovarian"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
         "added_date": "2026-03-06"
       }
     ],
@@ -678,6 +678,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-07"
+      },
+      {
+        "id": "recDIfg41wMteduoB",
+        "title": "Pancreatic cancer EMT‑targeted therapy: Molecular mechanisms and clinical translation (Review).",
+        "summary": "Targeting EMT, a key driver of pancreatic cancer spread and drug resistance, offers promising new treatment strategies to improve survival.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41789626/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Pancreatic"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-07"
       },
@@ -834,20 +848,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-06"
-      },
-      {
-        "id": "reci9GKDQNo3sVBuW",
-        "title": "Metronomic Chemotherapy Induces Metabolic Reprogramming in Cancer Cells that Modulates Mature Regulatory Dendritic Cell Function to Stimulate Antitumor Immunity.",
-        "summary": "Metronomic chemotherapy—low-dose frequent treatment—boosts anti-tumor immunity by reprogramming cancer cells to release asparagine, which enhances immune memory responses.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41784618/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-06"
       }
     ]
   },
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9361,
+    "archive_count": 9362,
     "archive_supplements": 1090,
     "archive_off_label": 392,
-    "archive_biomarkers": 5498,
+    "archive_biomarkers": 5499,
     "archive_trials": 2084
   }
 }
