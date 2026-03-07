@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07T05:09:29.181Z",
+  "last_updated": "2026-03-07T05:09:39.840Z",
   "categories": {
     "supplements": [
       {
@@ -11,6 +11,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-07"
+      },
+      {
+        "id": "rec8dxjvM9RLfiC82",
+        "title": "Unraveling the therapeutic potential of Elaeagnus angustifolia extract on triple-negative breast cancer (TNBC): An investigation using zebrafish model.",
+        "summary": "Elaeagnus angustifolia extract safely reduced triple-negative breast cancer cell growth in zebrafish, warranting further investigation as a potential treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41790777/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -195,20 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-05"
-      },
-      {
-        "id": "rec8kClohwTt8lG1D",
-        "title": "Tanshinone IIA derivatives inhibits colorectal cancer growth by targeting pyruvate kinase M2.",
-        "summary": "A new Tanshinone IIA derivative slows colorectal cancer growth by activating a key enzyme and blocking cancer cell signaling pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41512539/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-03-05"
       }
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9390,
+    "archive_count": 9391,
     "archive_supplements": 1091,
     "archive_off_label": 392,
-    "archive_biomarkers": 5524,
+    "archive_biomarkers": 5525,
     "archive_trials": 2086
   }
 }
