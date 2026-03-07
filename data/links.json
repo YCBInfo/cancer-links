@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07T05:13:34.197Z",
+  "last_updated": "2026-03-07T05:13:48.293Z",
   "categories": {
     "supplements": [
       {
@@ -27,6 +27,20 @@
           "Breast"
         ],
         "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-07"
+      },
+      {
+        "id": "rec2PK5GLrwh1pQKk",
+        "title": "Tu-Si-Zi-Wan reduces D-galactose-induced hepatic and cerebral oxidative damage in aging mice via the Nrf2/ARE pathway.",
+        "summary": "Tu-Si-Zi-Wan, a traditional Chinese formula, reduces aging-related liver and brain damage in mice by activating antioxidant protective pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41790377/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-07"
       },
@@ -195,20 +209,6 @@
           "Lung"
         ],
         "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-05"
-      },
-      {
-        "id": "rec46Clk2hTn7E4En",
-        "title": "Design, semisynthesis, and anti-inflammatory activity evaluation of a terphenyllin compound library for alleviating ulcerative colitis.",
-        "summary": "Researchers developed a terphenyllin derivative (c13) that effectively reduces inflammation in ulcerative colitis, potentially lowering cancer risk.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41518956/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-03-05"
       }
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9413,
+    "archive_count": 9414,
     "archive_supplements": 1092,
     "archive_off_label": 392,
-    "archive_biomarkers": 5544,
+    "archive_biomarkers": 5545,
     "archive_trials": 2088
   }
 }
