@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07T05:09:50.705Z",
+  "last_updated": "2026-03-07T05:10:01.449Z",
   "categories": {
     "supplements": [
       {
@@ -808,6 +808,20 @@
         "added_date": "2026-03-07"
       },
       {
+        "id": "recMS7QxRkAWB2sby",
+        "title": "The effect of neoadjuvant therapy on radiological, surgical, and pathological results in nonmetastatic breast cancer: A retrospective observational study.",
+        "summary": "Neoadjuvant therapy improves breast cancer tumor shrinkage, enabling more patients to qualify for breast-conserving surgery.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41790702/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-07"
+      },
+      {
         "id": "recwLGimKiQmFUMZy",
         "title": "Tumor cell-derived IFN spatially reprograms osteopontin-enriched macrophage niches to promote PARP inhibitor resistance.",
         "summary": "Tumor cells produce interferon that reprograms immune cells to express osteopontin, suppressing anti-cancer immunity and causing PARP inhibitor resistance in ovarian cancer.",
@@ -834,20 +848,6 @@
         "quality_score": 13,
         "pub_date": "2026-01-01",
         "added_date": "2026-03-06"
-      },
-      {
-        "id": "rec9fxcT3a1iUtggI",
-        "title": "In vivo assessment of placental microstructure in normal pregnancy and gestational hypertension: An IVIM-based MRI study.",
-        "summary": "MRI imaging identified placental changes that can predict severe fetal growth restriction in pregnancies with high blood pressure.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41576879/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-06"
       }
     ]
   },
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9392,
+    "archive_count": 9393,
     "archive_supplements": 1091,
     "archive_off_label": 392,
-    "archive_biomarkers": 5526,
+    "archive_biomarkers": 5527,
     "archive_trials": 2086
   }
 }
