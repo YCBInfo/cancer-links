@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07T05:03:12.719Z",
+  "last_updated": "2026-03-07T05:03:23.376Z",
   "categories": {
     "supplements": [
       {
@@ -527,6 +527,20 @@
         "added_date": "2026-03-07"
       },
       {
+        "id": "recmjF3fdeTVhJzIJ",
+        "title": "Exosomal circ0000549 promotes MNNG‑induced gastric cancer through miR‑15b‑5p/KIF1B.",
+        "summary": "Exosomal circ0000549 promotes gastric cancer development in nitrite-exposed cells by blocking miR-15b-5p, offering a potential diagnostic biomarker.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41789656/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-07"
+      },
+      {
         "id": "rec07tHkP6cYvqzng",
         "title": "Mislocalisation of FLT3-ITD receptor contributes to MV4-11 leukaemia cell resistance to antibody-drug conjugate.",
         "summary": "FLT3-mutated leukemia cells resist antibody-drug conjugates because the mutant receptor gets trapped in the Golgi instead of reaching lysosomes where drugs are released.",
@@ -621,20 +635,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-06"
-      },
-      {
-        "id": "recYrFh5ku4JFqlxC",
-        "title": "Body mass index (BMI) and risk of lung cancer: a systematic review and meta-analysis of studies using directly measured and genetically proxied measures of BMI.",
-        "summary": "Higher BMI appears linked to increased lung cancer risk in genetic studies, contradicting traditional measured-BMI research findings.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41784894/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-06"
       }
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9356,
+    "archive_count": 9357,
     "archive_supplements": 1090,
     "archive_off_label": 392,
-    "archive_biomarkers": 5493,
+    "archive_biomarkers": 5494,
     "archive_trials": 2084
   }
 }
