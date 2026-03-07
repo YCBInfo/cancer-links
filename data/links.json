@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07T10:05:54.174Z",
+  "last_updated": "2026-03-07T10:06:11.566Z",
   "categories": {
     "supplements": [
       {
@@ -399,6 +399,20 @@
         "added_date": "2026-03-07"
       },
       {
+        "id": "recvLkPgWM5hNX6aN",
+        "title": "Venlafaxine reduces hot flashes in hormone receptor-positive breast cancer patients receiving tamoxifen: a prospective single-arm, open-label trial.",
+        "summary": "Venlafaxine effectively reduces hot flashes in breast cancer patients taking tamoxifen, improving their treatment adherence.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41642486/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-07"
+      },
+      {
         "id": "recM2FmajWPhIz4eU",
         "title": "Propofol regulates METTL3-mediated PARP-1 m6A modification to promote Parthanatos to improve NSCLC chemotherapy resistance.",
         "summary": "Propofol enhances lung cancer chemotherapy by activating a cell death pathway through modification of the PARP-1 protein.",
@@ -407,20 +421,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-06"
-      },
-      {
-        "id": "recsmEGZSqvAgXJsR",
-        "title": "A glucocorticoid-FAS axis controls immune evasion during metastatic seeding.",
-        "summary": "Blocking glucocorticoid receptors in metastatic breast cancer cells restores immune attack and reduces tumor spread in mice.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41781620/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -859,10 +859,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9667,
+    "archive_count": 9669,
     "archive_supplements": 1129,
     "archive_off_label": 399,
-    "archive_biomarkers": 5705,
-    "archive_trials": 2137
+    "archive_biomarkers": 5706,
+    "archive_trials": 2138
   }
 }
