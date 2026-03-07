@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07T05:04:28.078Z",
+  "last_updated": "2026-03-07T05:04:37.050Z",
   "categories": {
     "supplements": [
       {
@@ -610,6 +610,20 @@
         "added_date": "2026-03-07"
       },
       {
+        "id": "recCitVDCdZ0VwHLa",
+        "title": "RNA‑binding protein DAZAP1 promotes gastric cancer metastasis by enhancing NOTCH1 and JAG1 mRNA stability.",
+        "summary": "DAZAP1 protein promotes gastric cancer spread by stabilizing NOTCH1 and JAG1 messenger molecules.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41789621/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-07"
+      },
+      {
         "id": "rec07tHkP6cYvqzng",
         "title": "Mislocalisation of FLT3-ITD receptor contributes to MV4-11 leukaemia cell resistance to antibody-drug conjugate.",
         "summary": "FLT3-mutated leukemia cells resist antibody-drug conjugates because the mutant receptor gets trapped in the Golgi instead of reaching lysosomes where drugs are released.",
@@ -620,20 +634,6 @@
           "Leukemia"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-06"
-      },
-      {
-        "id": "recls4imt7sS0pyiH",
-        "title": "Small Hepatoid Variant of Solid Pseudopapillary Neoplasm of the Pancreas: A Unique Case With Long-term Follow-up.",
-        "summary": "Researchers report a rare pancreatic tumor variant that remained stable without surgery during five-year follow-up, suggesting conservative monitoring may be feasible for small, asymptomatic cases.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41783483/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Liver"
-        ],
-        "quality_score": 18,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-06"
       }
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9362,
+    "archive_count": 9363,
     "archive_supplements": 1090,
     "archive_off_label": 392,
-    "archive_biomarkers": 5499,
+    "archive_biomarkers": 5500,
     "archive_trials": 2084
   }
 }
