@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07T05:28:26.209Z",
+  "last_updated": "2026-03-07T05:28:36.348Z",
   "categories": {
     "supplements": [
       {
@@ -257,6 +257,20 @@
         "added_date": "2026-03-07"
       },
       {
+        "id": "recFj48pCxhmE6aaT",
+        "title": "Decreased potential for lymphatic vessel generation is a hallmark of early diagnosed arterial hypertension and can be reversed by treatment with angiotensin converting enzyme inhibitors.",
+        "summary": "ACE inhibitor treatment restores the body's ability to generate lymphatic vessels in hypertensive patients, improving kidney function and vascular health.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41786818/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-07"
+      },
+      {
         "id": "recM2FmajWPhIz4eU",
         "title": "Propofol regulates METTL3-mediated PARP-1 m6A modification to promote Parthanatos to improve NSCLC chemotherapy resistance.",
         "summary": "Propofol enhances lung cancer chemotherapy by activating a cell death pathway through modification of the PARP-1 protein.",
@@ -407,20 +421,6 @@
           "Breast"
         ],
         "quality_score": 24,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-04"
-      },
-      {
-        "id": "reckxrraPTDiv8Vxu",
-        "title": "Targeting the RXR Pathway for the Prevention of Triple-Negative Breast Cancer.",
-        "summary": "RXR agonist drugs delayed or prevented triple-negative breast cancer development in mouse models with minimal side effects.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41134141/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-04"
       }
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9493,
+    "archive_count": 9494,
     "archive_supplements": 1095,
     "archive_off_label": 392,
-    "archive_biomarkers": 5617,
+    "archive_biomarkers": 5618,
     "archive_trials": 2092
   }
 }
