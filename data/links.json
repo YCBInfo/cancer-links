@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07T05:26:59.445Z",
+  "last_updated": "2026-03-07T05:27:09.158Z",
   "categories": {
     "supplements": [
       {
@@ -67,6 +67,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-07"
+      },
+      {
+        "id": "recrMsCekNImHzQA4",
+        "title": "Gut microbiota modulation of epigenetic target EHMT2: Lacticaseibacillus rhamnosus Fb7-311 regulated renal cell carcinoma apoptosis and metastasis.",
+        "summary": "A gut bacteria strain and EHMT2 inhibitors show promise for treating renal cell carcinoma by triggering cancer cell death.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41786975/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Kidney"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -189,20 +203,6 @@
         "title": "Intralesional Therapies For Cutaneous Viral Warts: A Comparative Analysis Of Vitamin D3 And Acyclovir",
         "summary": "Study compares intralesional vitamin D3 and acyclovir injections for clearing cutaneous warts in patients aged 12 and older.",
         "url": "https://clinicaltrials.gov/study/NCT07448844",
-        "source": "ClinicalTrials.gov",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
-        "pub_date": "2026-03-05",
-        "added_date": "2026-03-06"
-      },
-      {
-        "id": "recOGDPtEcTgwJcHt",
-        "title": "BfedBwell INSPIRE: Impact of an Integrated Nutrition and Exercise Program for Post-treatment Survivors on Sleep Quality, Perceived Stress, and Biomarkers of Immune Dysregulation",
-        "summary": "A pilot study tests whether combined nutrition and exercise programs improve sleep, stress, and immune health in cancer survivors.",
-        "url": "https://clinicaltrials.gov/study/NCT07446595",
         "source": "ClinicalTrials.gov",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9485,
+    "archive_count": 9486,
     "archive_supplements": 1094,
     "archive_off_label": 392,
-    "archive_biomarkers": 5610,
+    "archive_biomarkers": 5611,
     "archive_trials": 2092
   }
 }
