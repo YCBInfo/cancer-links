@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07T07:06:15.406Z",
+  "last_updated": "2026-03-07T07:06:25.620Z",
   "categories": {
     "supplements": [
       {
@@ -285,6 +285,21 @@
         "added_date": "2026-03-07"
       },
       {
+        "id": "recaN6oGH85VyWj0I",
+        "title": "Capivasertib combines with trastuzumab deruxtecan to enhance anti-tumour activity in HER2-positive and HER2-low tumours.",
+        "summary": "Combining capivasertib with trastuzumab deruxtecan enhances tumor-fighting effects in HER2-positive and HER2-low cancers across multiple types.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41789558/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast",
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-07"
+      },
+      {
         "id": "recM2FmajWPhIz4eU",
         "title": "Propofol regulates METTL3-mediated PARP-1 m6A modification to promote Parthanatos to improve NSCLC chemotherapy resistance.",
         "summary": "Propofol enhances lung cancer chemotherapy by activating a cell death pathway through modification of the PARP-1 protein.",
@@ -408,20 +423,6 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-02-01",
-        "added_date": "2026-03-05"
-      },
-      {
-        "id": "recHrsFasvo4fWQkj",
-        "title": "Imeglimin Exerts Anti-Tumor Activity in Multiple Myeloma Through Affecting Energy Metabolism and Downregulating IL-16 Expression.",
-        "summary": "Imeglimin, an anti-diabetic drug, slows multiple myeloma growth by disrupting cancer cell energy and reducing inflammation.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41782019/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
         "added_date": "2026-03-05"
       }
     ],
@@ -857,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9553,
+    "archive_count": 9554,
     "archive_supplements": 1107,
     "archive_off_label": 394,
     "archive_biomarkers": 5655,
-    "archive_trials": 2100
+    "archive_trials": 2101
   }
 }
