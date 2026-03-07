@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07T05:18:43.648Z",
+  "last_updated": "2026-03-07T05:19:03.892Z",
   "categories": {
     "supplements": [
       {
@@ -41,6 +41,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-07"
+      },
+      {
+        "id": "recb4rXj8HRjOPei5",
+        "title": "A Self-Propelled Molecular Rocket Triggers Ferroptosis and Apoptosis for Improving Herceptin Resistance in Cancer Therapy.",
+        "summary": "Researchers developed a self-propelled molecular rocket that overcomes Herceptin resistance in breast cancer by triggering cell death through ferroptosis and apoptosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41789437/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-07"
       },
@@ -193,20 +207,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Prostate"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-05"
-      },
-      {
-        "id": "recFnXzVVW0tnDG2E",
-        "title": "Design, synthesis, and evaluation of unsymmetrical trifluoromethyl-containing bisindolylmethane derivatives inducing endoplasmic reticulum stress in human lung adenocarcinoma.",
-        "summary": "Researchers developed a new compound (5b) that kills lung cancer cells by triggering stress in the endoplasmic reticulum, showing superior effectiveness compared to existing treatments.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41534435/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9442,
+    "archive_count": 9443,
     "archive_supplements": 1093,
     "archive_off_label": 392,
     "archive_biomarkers": 5570,
-    "archive_trials": 2090
+    "archive_trials": 2091
   }
 }
