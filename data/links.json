@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-08T05:03:32.832Z",
+  "last_updated": "2026-03-08T05:03:43.025Z",
   "categories": {
     "supplements": [
       {
@@ -527,6 +527,20 @@
         "added_date": "2026-03-08"
       },
       {
+        "id": "recpiHfFMMbmFdWGx",
+        "title": "Hijacking Actin-Pre-Liquid-Liquid Phase Separation Suppresses Malignant Tumor Invasion and Growth.",
+        "summary": "Researchers developed a molecule that blocks actin droplet formation, stopping cancer cells from moving and invading tissues.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41793718/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-08"
+      },
+      {
         "id": "recNr0leCpDPxaTyo",
         "title": "An exploratory serum metabolomics study for screening and staging of breast cancer.",
         "summary": "Researchers identified unique metabolic patterns in blood serum that could help detect and classify breast cancer stages.",
@@ -620,20 +634,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-07"
-      },
-      {
-        "id": "recmjF3fdeTVhJzIJ",
-        "title": "Exosomal circ0000549 promotes MNNG‑induced gastric cancer through miR‑15b‑5p/KIF1B.",
-        "summary": "Exosomal circ0000549 promotes gastric cancer development in nitrite-exposed cells by blocking miR-15b-5p, offering a potential diagnostic biomarker.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41789656/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Stomach"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -859,10 +859,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9678,
+    "archive_count": 9679,
     "archive_supplements": 1129,
     "archive_off_label": 400,
-    "archive_biomarkers": 5712,
+    "archive_biomarkers": 5713,
     "archive_trials": 2140
   }
 }
