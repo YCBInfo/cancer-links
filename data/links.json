@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-08T05:05:37.811Z",
+  "last_updated": "2026-03-08T05:05:46.791Z",
   "categories": {
     "supplements": [
       {
@@ -753,6 +753,21 @@
         "added_date": "2026-03-08"
       },
       {
+        "id": "recADCEIg0xQZTbgM",
+        "title": "Hormonal management after risk-reducing surgery in BRCA-mutated triple-negative breast cancer survivors.",
+        "summary": "BRCA-mutated triple-negative breast cancer survivors face unclear guidance on whether hormone therapy is safe after ovary-removal surgery.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41793502/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast",
+          "Ovarian"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-08"
+      },
+      {
         "id": "recHNJPZpcnEjvOxW",
         "title": "PD-1 genetic fate mapping uncovers immune cell diversity mediating the efficacy of combined PD-1 blockade and chemotherapy.",
         "summary": "Combining chemotherapy with PD-1 blockade expands cancer-fighting immune cells in lung tumors, revealing how the treatment works.",
@@ -835,20 +850,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-07"
-      },
-      {
-        "id": "recVMSdrl4TRHp4mU",
-        "title": "Multimodal treatment with thiotepa, bevacizumab, teniposide, and tunlametinib in a patient with neurofibromatosis type 1-associated oligodendroglioma: a rare case report.",
-        "summary": "A four-drug combination including MEK inhibitor tunlametinib achieved complete tumor response in a rare NF1-associated oligodendroglioma patient.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41176787/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-07"
       }
     ]
   },
@@ -858,10 +859,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9689,
+    "archive_count": 9690,
     "archive_supplements": 1130,
     "archive_off_label": 400,
-    "archive_biomarkers": 5721,
+    "archive_biomarkers": 5722,
     "archive_trials": 2141
   }
 }
