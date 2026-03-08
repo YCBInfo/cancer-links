@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-08T05:12:22.969Z",
+  "last_updated": "2026-03-08T05:12:33.793Z",
   "categories": {
     "supplements": [
       {
@@ -27,6 +27,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-08"
+      },
+      {
+        "id": "recyCEKQ4FsDFRZjE",
+        "title": "Selenium nanoparticles with bioorthogonal targeting to boost CAR-cell therapy for colorectal cancer.",
+        "summary": "Selenium nanoparticles enhance CAR-NK cell therapy for colorectal cancer by improving immune cell targeting and tumor infiltration.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41792738/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-08"
       },
@@ -189,20 +203,6 @@
         "title": "Natural panax notoginseng-derived nanovesicles trigger multiple cell death mechanisms and reprogram chemokine signaling to impede oral squamous cell carcinoma progression.",
         "summary": "Plant-derived nanovesicles from panax notoginseng kill oral cancer cells through multiple mechanisms and reduce tumor spread in studies.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41792745/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-07"
-      },
-      {
-        "id": "recTzb30TmKlS0MhV",
-        "title": "Cannabinoid Oral Mucosal Delivery: Approaches to Formulation, Fabrication, and Permeation Enhancement.",
-        "summary": "Oral mucosal delivery systems enhance cannabinoid absorption and effectiveness by bypassing liver metabolism and improving drug solubility through innovative formulation techniques.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41792583/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -859,10 +859,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9725,
+    "archive_count": 9726,
     "archive_supplements": 1131,
     "archive_off_label": 401,
-    "archive_biomarkers": 5749,
+    "archive_biomarkers": 5750,
     "archive_trials": 2147
   }
 }
