@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-08T05:07:01.021Z",
+  "last_updated": "2026-03-08T05:07:12.047Z",
   "categories": {
     "supplements": [
       {
@@ -796,6 +796,20 @@
         "added_date": "2026-03-08"
       },
       {
+        "id": "rec6QoAV7hFFSfahW",
+        "title": "TP53 mutation is associated with improved disease control in patients with advanced RAS wild-type colorectal adenocarcinoma treated with cetuximab and pembrolizumab.",
+        "summary": "Colorectal cancer patients with TP53 mutations showed better disease control when treated with cetuximab and pembrolizumab immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41793309/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-08"
+      },
+      {
         "id": "recHNJPZpcnEjvOxW",
         "title": "PD-1 genetic fate mapping uncovers immune cell diversity mediating the efficacy of combined PD-1 blockade and chemotherapy.",
         "summary": "Combining chemotherapy with PD-1 blockade expands cancer-fighting immune cells in lung tumors, revealing how the treatment works.",
@@ -836,20 +850,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-07"
-      },
-      {
-        "id": "recDIfg41wMteduoB",
-        "title": "Pancreatic cancer EMT‑targeted therapy: Molecular mechanisms and clinical translation (Review).",
-        "summary": "Targeting EMT, a key driver of pancreatic cancer spread and drug resistance, offers promising new treatment strategies to improve survival.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41789626/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Pancreatic"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-07"
       }
     ]
   },
@@ -859,10 +859,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9696,
+    "archive_count": 9697,
     "archive_supplements": 1131,
     "archive_off_label": 400,
-    "archive_biomarkers": 5726,
+    "archive_biomarkers": 5727,
     "archive_trials": 2142
   }
 }
