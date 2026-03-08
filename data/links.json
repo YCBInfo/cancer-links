@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-08T05:15:37.611Z",
+  "last_updated": "2026-03-08T05:15:46.606Z",
   "categories": {
     "supplements": [
       {
@@ -257,6 +257,20 @@
         "added_date": "2026-03-08"
       },
       {
+        "id": "recjoRcIbjT0eWBtt",
+        "title": "DNA methyltransferase inhibition is a therapeutic vulnerability in VHL-deficient renal cell carcinoma cells.",
+        "summary": "DNA methyltransferase inhibitors effectively kill VHL-deficient renal cell carcinoma by reactivating a suppressed tumor-fighting gene.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41792232/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Kidney"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-08"
+      },
+      {
         "id": "reclVwtR0AwhpYPyK",
         "title": "Glutamine antagonist DON attenuates chikungunya virus-induced myositis by suppressing inflammatory activation in a murine model.",
         "summary": "DON, a glutamine inhibitor, reduces chikungunya virus-induced muscle inflammation by suppressing immune cell activation, without affecting viral control.",
@@ -409,20 +423,6 @@
           "Colorectal"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-07"
-      },
-      {
-        "id": "reckJmBJozlPTne7n",
-        "title": "A phase I study of hydroxychloroquine and suba-itraconazole in men with biochemical relapse of prostate cancer (HITMAN-PC): dose escalation results.",
-        "summary": "Researchers tested a combination of two drugs to treat prostate cancer that has returned after initial treatment, establishing safe dosing levels.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41788020/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Prostate"
-        ],
-        "quality_score": 21,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-07"
       }
@@ -859,10 +859,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9743,
+    "archive_count": 9744,
     "archive_supplements": 1131,
     "archive_off_label": 401,
-    "archive_biomarkers": 5764,
+    "archive_biomarkers": 5765,
     "archive_trials": 2150
   }
 }
