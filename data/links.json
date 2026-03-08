@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-08T05:04:00.698Z",
+  "last_updated": "2026-03-08T05:04:11.387Z",
   "categories": {
     "supplements": [
       {
@@ -569,6 +569,20 @@
         "added_date": "2026-03-08"
       },
       {
+        "id": "recWI9AnuDsFXRVWK",
+        "title": "Prognostic factors and outcome measures after BRAF-directed targeted therapy of unresectable metastatic BRAFV600E colorectal cancer: a study cohort-level analysis.",
+        "summary": "BRAF inhibitors improve survival in metastatic colorectal cancer, but age and microsatellite instability status predict worse outcomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41793630/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-08"
+      },
+      {
         "id": "recNr0leCpDPxaTyo",
         "title": "An exploratory serum metabolomics study for screening and staging of breast cancer.",
         "summary": "Researchers identified unique metabolic patterns in blood serum that could help detect and classify breast cancer stages.",
@@ -623,20 +637,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-07"
-      },
-      {
-        "id": "recvpnlw1zGDW9kAm",
-        "title": "Advances in the application of frailty scoring in the diagnosis and management of elderly patients with multiple myeloma (Review).",
-        "summary": "Frailty scoring helps doctors better diagnose and personalize treatment for elderly multiple myeloma patients, improving safety and outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41789669/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-07"
       }
     ],
     "trials": [
@@ -679,6 +679,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-08"
+      },
+      {
+        "id": "recWI9AnuDsFXRVWK",
+        "title": "Prognostic factors and outcome measures after BRAF-directed targeted therapy of unresectable metastatic BRAFV600E colorectal cancer: a study cohort-level analysis.",
+        "summary": "BRAF inhibitors improve survival in metastatic colorectal cancer, but age and microsatellite instability status predict worse outcomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41793630/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-08"
       },
@@ -835,20 +849,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-07"
-      },
-      {
-        "id": "recj6BwiZ0quqp7yR",
-        "title": "Modulating AP-1 enables CAR T cells to establish an intratumoral stemlike reservoir and overcomes resistance to PD-1 blockade.",
-        "summary": "Boosting a protein called c-Jun in CAR T cells enables them to work better with PD-1 blockade immunotherapy in lung cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41790934/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-07"
       }
     ]
   },
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9680,
+    "archive_count": 9681,
     "archive_supplements": 1129,
     "archive_off_label": 400,
-    "archive_biomarkers": 5714,
+    "archive_biomarkers": 5715,
     "archive_trials": 2140
   }
 }
