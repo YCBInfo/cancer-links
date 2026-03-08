@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-08T07:03:03.007Z",
+  "last_updated": "2026-03-08T07:03:15.237Z",
   "categories": {
     "supplements": [
       {
@@ -55,6 +55,20 @@
           "Breast"
         ],
         "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-08"
+      },
+      {
+        "id": "rechrk8M885fVz2ea",
+        "title": "β-hydroxybutyrate enhances the metabolic fitness of CAR T cells in cancer.",
+        "summary": "β-hydroxybutyrate boosts CAR T cell energy and function, improving tumor control across multiple cancer types.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41794025/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-08"
       },
@@ -193,20 +207,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Pancreatic"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-07"
-      },
-      {
-        "id": "recY0UAuQRdSQXh7z",
-        "title": "Potential anti-glioma targets and mechanisms of Smilax china L. based on network pharmacological, molecular docking and experimental verification.",
-        "summary": "Smilax china L. plant compounds inhibit glioma growth in mice by blocking EGFR signaling pathways, offering a potential natural treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41792454/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Brain"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9777,
+    "archive_count": 9778,
     "archive_supplements": 1132,
     "archive_off_label": 401,
-    "archive_biomarkers": 5791,
+    "archive_biomarkers": 5792,
     "archive_trials": 2156
   }
 }
