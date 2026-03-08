@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-08T05:05:57.723Z",
+  "last_updated": "2026-03-08T05:06:19.673Z",
   "categories": {
     "supplements": [
       {
@@ -768,6 +768,20 @@
         "added_date": "2026-03-08"
       },
       {
+        "id": "recpX5C4lcJ8DM4JT",
+        "title": "Improved overall survival in acute myeloid leukemia over the last 15 years.",
+        "summary": "Acute myeloid leukemia survival improved significantly from 2004 to 2019, likely due to new targeted therapies, though socioeconomic disparities remain.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41793418/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-08"
+      },
+      {
         "id": "recHNJPZpcnEjvOxW",
         "title": "PD-1 genetic fate mapping uncovers immune cell diversity mediating the efficacy of combined PD-1 blockade and chemotherapy.",
         "summary": "Combining chemotherapy with PD-1 blockade expands cancer-fighting immune cells in lung tumors, revealing how the treatment works.",
@@ -836,20 +850,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-07"
-      },
-      {
-        "id": "recpXLBbPx8GceOTq",
-        "title": "Mechanisms of chemoresistance in diffuse large B‑cell lymphoma and novel therapeutic strategies (Review).",
-        "summary": "Researchers identified multiple mechanisms of drug resistance in diffuse large B-cell lymphoma and explored new treatments to overcome them.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41789584/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lymphoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-07"
       }
     ]
   },
@@ -859,10 +859,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9691,
+    "archive_count": 9692,
     "archive_supplements": 1131,
     "archive_off_label": 400,
-    "archive_biomarkers": 5722,
+    "archive_biomarkers": 5723,
     "archive_trials": 2141
   }
 }
