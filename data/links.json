@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07T12:13:10.256Z",
+  "last_updated": "2026-03-08T05:02:46.464Z",
   "categories": {
     "supplements": [
       {
@@ -429,6 +429,48 @@
     ],
     "biomarkers": [
       {
+        "id": "rech01x9yPfCJ0B7s",
+        "title": "B cells and humoral immunity in melanoma: regulatory and autoimmune-like features and implications for immunotherapy.",
+        "summary": "B cells regulate melanoma progression and immunotherapy response through both immune-suppressive and tumor-fighting mechanisms, offering new treatment targets.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41792971/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Melanoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-08"
+      },
+      {
+        "id": "rec2zEcFMvvbApSBA",
+        "title": "Whole transcriptome sequencing reveals differences in the pathogenesis of myelodysplastic syndromes and acute myeloid leukemia.",
+        "summary": "Whole transcriptome sequencing identifies key genetic differences between myelodysplastic syndromes and acute myeloid leukemia, improving diagnosis and treatment strategies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41769973/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-08"
+      },
+      {
+        "id": "rec1QXaWC5kpWrIz0",
+        "title": "CXCL1 in triple‑negative breast cancer: Mechanisms, challenges, and therapeutic opportunities (Review).",
+        "summary": "CXCL1 protein drives triple-negative breast cancer growth and spread, offering a promising new therapeutic target despite remaining research challenges.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41789677/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-08"
+      },
+      {
         "id": "recNr0leCpDPxaTyo",
         "title": "An exploratory serum metabolomics study for screening and staging of breast cancer.",
         "summary": "Researchers identified unique metabolic patterns in blood serum that could help detect and classify breast cancer stages.",
@@ -596,51 +638,37 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-07"
-      },
-      {
-        "id": "recDIfg41wMteduoB",
-        "title": "Pancreatic cancer EMT‑targeted therapy: Molecular mechanisms and clinical translation (Review).",
-        "summary": "Targeting EMT, a key driver of pancreatic cancer spread and drug resistance, offers promising new treatment strategies to improve survival.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41789626/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Pancreatic"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-07"
-      },
-      {
-        "id": "recCitVDCdZ0VwHLa",
-        "title": "RNA‑binding protein DAZAP1 promotes gastric cancer metastasis by enhancing NOTCH1 and JAG1 mRNA stability.",
-        "summary": "DAZAP1 protein promotes gastric cancer spread by stabilizing NOTCH1 and JAG1 messenger molecules.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41789621/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Stomach"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-07"
-      },
-      {
-        "id": "recdzi4ADjyE5lLbK",
-        "title": "Characteristics of chromosomal instability‑related lncRNAs associated with progression and prognosis in breast cancer.",
-        "summary": "Researchers identified 12 chromosomal instability-related genes that predict breast cancer survival and found U62317.4 promotes cancer cell growth.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41789582/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-07"
       }
     ],
     "trials": [
+      {
+        "id": "rech01x9yPfCJ0B7s",
+        "title": "B cells and humoral immunity in melanoma: regulatory and autoimmune-like features and implications for immunotherapy.",
+        "summary": "B cells regulate melanoma progression and immunotherapy response through both immune-suppressive and tumor-fighting mechanisms, offering new treatment targets.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41792971/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Melanoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-08"
+      },
+      {
+        "id": "rec2zEcFMvvbApSBA",
+        "title": "Whole transcriptome sequencing reveals differences in the pathogenesis of myelodysplastic syndromes and acute myeloid leukemia.",
+        "summary": "Whole transcriptome sequencing identifies key genetic differences between myelodysplastic syndromes and acute myeloid leukemia, improving diagnosis and treatment strategies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41769973/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-08"
+      },
       {
         "id": "recHNJPZpcnEjvOxW",
         "title": "PD-1 genetic fate mapping uncovers immune cell diversity mediating the efficacy of combined PD-1 blockade and chemotherapy.",
@@ -822,34 +850,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-07"
-      },
-      {
-        "id": "recFaap7JDYdnrpUj",
-        "title": "Serum inflammatory factors as predictors of severity and prognosis in heart failure: A cohort study.",
-        "summary": "Three inflammatory markers—IL-2 receptor, IL-6, and IL-1β—predict heart failure severity and one-year survival outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41790676/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-07"
-      },
-      {
-        "id": "reccNWwGaGEbiJMmK",
-        "title": "Predictive value of high-resolution computed tomography radiomics for assessing the invasiveness of pulmonary adenocarcinoma presenting as ground-glass nodules: A retrospective study.",
-        "summary": "A combined imaging and data analysis model accurately predicts whether lung adenocarcinoma nodules are invasive, improving treatment planning.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41790651/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-07"
       }
     ]
   },
@@ -859,10 +859,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9674,
+    "archive_count": 9675,
     "archive_supplements": 1129,
     "archive_off_label": 400,
-    "archive_biomarkers": 5708,
+    "archive_biomarkers": 5709,
     "archive_trials": 2140
   }
 }
