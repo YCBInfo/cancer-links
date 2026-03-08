@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-08T07:02:32.680Z",
+  "last_updated": "2026-03-08T07:02:50.107Z",
   "categories": {
     "supplements": [
       {
@@ -285,6 +285,20 @@
         "added_date": "2026-03-08"
       },
       {
+        "id": "reci5QAKNmRZ55osk",
+        "title": "Distinct H3K27 methylation states drive cellular responses to the histone demethylase inhibitor GSK-J4 in ovarian cancer cells.",
+        "summary": "GSK-J4 inhibitor reduces ovarian cancer cell growth by altering histone methylation, with effects dependent on androgen receptor signaling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41793322/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Ovarian"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-08"
+      },
+      {
         "id": "reclVwtR0AwhpYPyK",
         "title": "Glutamine antagonist DON attenuates chikungunya virus-induced myositis by suppressing inflammatory activation in a murine model.",
         "summary": "DON, a glutamine inhibitor, reduces chikungunya virus-induced muscle inflammation by suppressing immune cell activation, without affecting viral control.",
@@ -408,20 +422,6 @@
           "Ovarian"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-07"
-      },
-      {
-        "id": "recAnHiNMQRGGDfJh",
-        "title": "Selective Cav1.3 inhibition promotes survival of transplanted dopaminergic neurons via the CaMKII-p65-p53 pathway.",
-        "summary": "Blocking Cav1.3 channels improves survival of transplanted dopamine neurons for Parkinson's disease treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41791389/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-07"
       }
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9772,
+    "archive_count": 9774,
     "archive_supplements": 1131,
     "archive_off_label": 401,
-    "archive_biomarkers": 5789,
+    "archive_biomarkers": 5791,
     "archive_trials": 2154
   }
 }
