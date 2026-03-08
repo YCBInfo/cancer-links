@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-08T07:04:58.280Z",
+  "last_updated": "2026-03-08T07:05:11.828Z",
   "categories": {
     "supplements": [
       {
@@ -115,6 +115,20 @@
         "added_date": "2026-03-08"
       },
       {
+        "id": "rec2keFGevab72V6k",
+        "title": "1,25D3 reprograms mitochondrial quality control via sirtuin and sensitizes glioblastoma to chemotherapy.",
+        "summary": "Vitamin D3 makes glioblastoma tumors more susceptible to chemotherapy by overloading their mitochondrial cleanup system.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41792999/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-08"
+      },
+      {
         "id": "recrMbZAtaFb2DKMP",
         "title": "Dual in vitro and in silico evaluation of the apoptosis-inducing and migration-inhibiting potential of Capparis spinosa methanol extract in prostate cancer cells.",
         "summary": "Capparis spinosa plant extract triggers cell death and stops movement in prostate cancer cells through flavonoid compounds.",
@@ -193,20 +207,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Kidney"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-07"
-      },
-      {
-        "id": "recxyXiZrmRhxoYcd",
-        "title": "Oleandrin Suppresses the PI3K/AKT Pathway to Inhibit Growth and Induce Apoptosis in T-cell Acute Lymphoblastic Leukemia Cells and Xenograft Mice.",
-        "summary": "Oleandrin kills T-cell acute lymphoblastic leukemia cells and tumors by blocking a key cancer growth pathway called PI3K/AKT.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41786305/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9785,
+    "archive_count": 9786,
     "archive_supplements": 1134,
     "archive_off_label": 401,
-    "archive_biomarkers": 5796,
+    "archive_biomarkers": 5797,
     "archive_trials": 2157
   }
 }
