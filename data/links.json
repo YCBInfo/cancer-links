@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-08T09:02:11.961Z",
+  "last_updated": "2026-03-08T09:02:23.267Z",
   "categories": {
     "supplements": [
       {
@@ -327,6 +327,21 @@
         "added_date": "2026-03-08"
       },
       {
+        "id": "recQ4EDUZWUO2YOAX",
+        "title": "Sodium valproate drives propionylation-mediated epigenetic reprogramming to enhance mesothelin CAR-T cell therapy in solid tumors.",
+        "summary": "Sodium valproate improves CAR-T cell therapy for ovarian and breast cancer by enhancing cell persistence, migration, and tumor-fighting ability.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41383012/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Breast",
+          "Ovarian"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-08"
+      },
+      {
         "id": "reclVwtR0AwhpYPyK",
         "title": "Glutamine antagonist DON attenuates chikungunya virus-induced myositis by suppressing inflammatory activation in a murine model.",
         "summary": "DON, a glutamine inhibitor, reduces chikungunya virus-induced muscle inflammation by suppressing immune cell activation, without affecting viral control.",
@@ -408,20 +423,6 @@
           "Lung"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-07"
-      },
-      {
-        "id": "recRKpF9zJms7WpGK",
-        "title": "Targeting COL6A3-C5 with nigericin suppresses endotrophin formation and enhances insulin sensitivity in obesity.",
-        "summary": "Nigericin blocks endotrophin formation by preventing enzyme access to collagen, reducing inflammation and improving insulin sensitivity in obesity.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41786973/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-07"
       }
@@ -858,10 +859,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9804,
+    "archive_count": 9805,
     "archive_supplements": 1138,
     "archive_off_label": 402,
-    "archive_biomarkers": 5808,
+    "archive_biomarkers": 5809,
     "archive_trials": 2159
   }
 }
