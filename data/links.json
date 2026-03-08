@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-08T05:04:22.476Z",
+  "last_updated": "2026-03-08T05:04:33.323Z",
   "categories": {
     "supplements": [
       {
@@ -697,6 +697,20 @@
         "added_date": "2026-03-08"
       },
       {
+        "id": "recMcX2Lfv62joeiN",
+        "title": "Immuno-Inflammatory Mechanisms in the Chronification of Pain.",
+        "summary": "Immune system inflammation drives chronic pain development; premature anti-inflammatory drugs may worsen it by disrupting natural healing.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41793583/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-08"
+      },
+      {
         "id": "recHNJPZpcnEjvOxW",
         "title": "PD-1 genetic fate mapping uncovers immune cell diversity mediating the efficacy of combined PD-1 blockade and chemotherapy.",
         "summary": "Combining chemotherapy with PD-1 blockade expands cancer-fighting immune cells in lung tumors, revealing how the treatment works.",
@@ -835,20 +849,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-07"
-      },
-      {
-        "id": "recLLGq98OxmoAryw",
-        "title": "Molecular and Antiangiogenic Effects of Paclitaxel-Loaded Nanoparticles: Influence of the Nanocarrier Type.",
-        "summary": "Nanoparticle-encapsulated paclitaxel effectively treats breast cancer while reducing toxicity and enhancing drug-induced DNA damage compared to standard drug delivery.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41790974/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-07"
       }
     ]
   },
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9682,
+    "archive_count": 9683,
     "archive_supplements": 1129,
     "archive_off_label": 400,
-    "archive_biomarkers": 5716,
+    "archive_biomarkers": 5717,
     "archive_trials": 2140
   }
 }
