@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-08T05:07:12.047Z",
+  "last_updated": "2026-03-08T05:07:22.701Z",
   "categories": {
     "supplements": [
       {
@@ -215,6 +215,20 @@
     ],
     "off_label": [
       {
+        "id": "rec93Vlb0eq01xgGz",
+        "title": "Reprogramming innate immunity to overcome endocrine resistance in estrogen receptor-positive breast cancer.",
+        "summary": "Blocking STAT3 signaling in immune cells could restore hormone therapy effectiveness in resistant estrogen receptor-positive breast cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41793307/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-08"
+      },
+      {
         "id": "reclVwtR0AwhpYPyK",
         "title": "Glutamine antagonist DON attenuates chikungunya virus-induced myositis by suppressing inflammatory activation in a murine model.",
         "summary": "DON, a glutamine inhibitor, reduces chikungunya virus-induced muscle inflammation by suppressing immune cell activation, without affecting viral control.",
@@ -411,20 +425,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-07"
-      },
-      {
-        "id": "recM2FmajWPhIz4eU",
-        "title": "Propofol regulates METTL3-mediated PARP-1 m6A modification to promote Parthanatos to improve NSCLC chemotherapy resistance.",
-        "summary": "Propofol enhances lung cancer chemotherapy by activating a cell death pathway through modification of the PARP-1 protein.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41781454/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-06"
       }
     ],
     "biomarkers": [
@@ -859,10 +859,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9697,
+    "archive_count": 9698,
     "archive_supplements": 1131,
     "archive_off_label": 400,
-    "archive_biomarkers": 5727,
+    "archive_biomarkers": 5728,
     "archive_trials": 2142
   }
 }
