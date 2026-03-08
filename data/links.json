@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-08T05:05:04.416Z",
+  "last_updated": "2026-03-08T05:05:16.495Z",
   "categories": {
     "supplements": [
       {
@@ -13,6 +13,20 @@
           "Liver"
         ],
         "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-08"
+      },
+      {
+        "id": "recWRSmtTBQSJnDJl",
+        "title": "Dose matters: a dose-stratified real-world analysis of magnesium sulfate in preventing cisplatin-induced nephrotoxicity.",
+        "summary": "Magnesium sulfate doses vary in protecting kidneys from cisplatin chemotherapy damage, with long-term effects still unclear.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41793516/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-08"
       },
@@ -189,20 +203,6 @@
         "title": "Cannabinoid Oral Mucosal Delivery: Approaches to Formulation, Fabrication, and Permeation Enhancement.",
         "summary": "Oral mucosal delivery systems enhance cannabinoid absorption and effectiveness by bypassing liver metabolism and improving drug solubility through innovative formulation techniques.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41792583/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-07"
-      },
-      {
-        "id": "recHRQdTATP3TByPD",
-        "title": "Dietary restriction in aging and longevity.",
-        "summary": "Dietary restriction slows aging and may prevent cancer and other age-related diseases through cellular pathway changes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41792328/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -725,6 +725,20 @@
         "added_date": "2026-03-08"
       },
       {
+        "id": "recWRSmtTBQSJnDJl",
+        "title": "Dose matters: a dose-stratified real-world analysis of magnesium sulfate in preventing cisplatin-induced nephrotoxicity.",
+        "summary": "Magnesium sulfate doses vary in protecting kidneys from cisplatin chemotherapy damage, with long-term effects still unclear.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41793516/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-08"
+      },
+      {
         "id": "recHNJPZpcnEjvOxW",
         "title": "PD-1 genetic fate mapping uncovers immune cell diversity mediating the efficacy of combined PD-1 blockade and chemotherapy.",
         "summary": "Combining chemotherapy with PD-1 blockade expands cancer-fighting immune cells in lung tumors, revealing how the treatment works.",
@@ -835,20 +849,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-07"
-      },
-      {
-        "id": "reclsRzLoNdr0zU9X",
-        "title": "Development of a Classifier for Metabolic Subtypes of Nasopharyngeal Carcinoma to Guide Personalized Immunotherapy Strategies: Biomarker Analysis of the Phase III CONTINUUM and DIPPER Trials.",
-        "summary": "Researchers developed a metabolic biomarker test to predict which nasopharyngeal cancer patients will benefit most from immunotherapy treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41791006/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 26,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-07"
       }
     ]
   },
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9686,
+    "archive_count": 9687,
     "archive_supplements": 1130,
     "archive_off_label": 400,
     "archive_biomarkers": 5719,
-    "archive_trials": 2140
+    "archive_trials": 2141
   }
 }
