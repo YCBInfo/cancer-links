@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-03-08T05:03:43.025Z",
+  "last_updated": "2026-03-08T05:04:00.698Z",
   "categories": {
     "supplements": [
+      {
+        "id": "rec20NAJ83v2KtxEd",
+        "title": "Integrative metabolomics and network pharmacology reveal the antifibrotic mechanisms of Gurigumu-13 in a rat model of hepatic fibrosis.",
+        "summary": "Gurigumu-13, a herbal treatment, shows promise against liver fibrosis by targeting specific metabolic pathways that prevent scarring and cancer development.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41793636/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-08"
+      },
       {
         "id": "recrMbZAtaFb2DKMP",
         "title": "Dual in vitro and in silico evaluation of the apoptosis-inducing and migration-inhibiting potential of Capparis spinosa methanol extract in prostate cancer cells.",
@@ -189,20 +203,6 @@
         "title": "Dietary restriction in aging and longevity.",
         "summary": "Dietary restriction slows aging and may prevent cancer and other age-related diseases through cellular pathway changes.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41792328/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-07"
-      },
-      {
-        "id": "rechnrumLoqEDkz93",
-        "title": "Effect of exercise therapy and self-management support on multimorbidity: Secondary analysis of the MOBILIZE trial.",
-        "summary": "A 12-week program combining exercise and self-management support improved health outcomes in people with multiple chronic conditions.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41792245/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -541,6 +541,34 @@
         "added_date": "2026-03-08"
       },
       {
+        "id": "recO04nZdD292TzNn",
+        "title": "Integrating the Glycemia Risk Index Into Clinical Practice and Research: A Consensus Report.",
+        "summary": "Experts recommend integrating the Glycemia Risk Index, a new metric summarizing glucose control data, into diabetes and cancer patient care tools.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41793701/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-08"
+      },
+      {
+        "id": "rec20NAJ83v2KtxEd",
+        "title": "Integrative metabolomics and network pharmacology reveal the antifibrotic mechanisms of Gurigumu-13 in a rat model of hepatic fibrosis.",
+        "summary": "Gurigumu-13, a herbal treatment, shows promise against liver fibrosis by targeting specific metabolic pathways that prevent scarring and cancer development.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41793636/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-08"
+      },
+      {
         "id": "recNr0leCpDPxaTyo",
         "title": "An exploratory serum metabolomics study for screening and staging of breast cancer.",
         "summary": "Researchers identified unique metabolic patterns in blood serum that could help detect and classify breast cancer stages.",
@@ -607,35 +635,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-07"
-      },
-      {
-        "id": "recqVrY6F5XyPSoeR",
-        "title": "Knockdown of CCT2 inhibits the malignant progression of hepatocellular carcinoma cells by impairing STAT3 activation.",
-        "summary": "Reducing CCT2 protein slows hepatocellular carcinoma growth by blocking STAT3 activation, suggesting CCT2 as a treatment target.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41789667/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia",
-          "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-07"
-      },
-      {
-        "id": "recP41rhncgD38kUd",
-        "title": "Cellular and inflammatory characteristics of patient‑derived glioblastoma organoids during in vitro cultivation.",
-        "summary": "Patient-derived glioblastoma organoids maintain tumor characteristics for 7-14 days, providing an optimal window for preclinical research models.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41789657/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Brain"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-07"
       }
@@ -859,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9679,
+    "archive_count": 9680,
     "archive_supplements": 1129,
     "archive_off_label": 400,
-    "archive_biomarkers": 5713,
+    "archive_biomarkers": 5714,
     "archive_trials": 2140
   }
 }
