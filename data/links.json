@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-08T08:02:39.978Z",
+  "last_updated": "2026-03-08T09:02:00.841Z",
   "categories": {
     "supplements": [
       {
@@ -313,6 +313,20 @@
         "added_date": "2026-03-08"
       },
       {
+        "id": "recb0XWgx0DcTKLqW",
+        "title": "Calcium channel blockers affect angiogenesis by modulating inflammatory factors: a meta-analysis of randomized controlled trials.",
+        "summary": "Calcium channel blockers inhibit tumor blood vessel growth by reducing inflammatory factors like IL-1, IL-6, and TNF-α.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41794822/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-08"
+      },
+      {
         "id": "reclVwtR0AwhpYPyK",
         "title": "Glutamine antagonist DON attenuates chikungunya virus-induced myositis by suppressing inflammatory activation in a murine model.",
         "summary": "DON, a glutamine inhibitor, reduces chikungunya virus-induced muscle inflammation by suppressing immune cell activation, without affecting viral control.",
@@ -408,20 +422,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-07"
-      },
-      {
-        "id": "recEgJ6FZuCObelrd",
-        "title": "Adenylate kinase 4 promotes radioresistance by suppressing radiation-induced ferroptosis through metabolic regulation in glioblastoma.",
-        "summary": "AK4 protein promotes glioblastoma radioresistance by suppressing cell death; blocking it with entinostat restores radiation sensitivity.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41784866/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Brain"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-07"
       }
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9802,
+    "archive_count": 9803,
     "archive_supplements": 1138,
     "archive_off_label": 401,
     "archive_biomarkers": 5808,
-    "archive_trials": 2158
+    "archive_trials": 2159
   }
 }
