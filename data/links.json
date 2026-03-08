@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-08T05:04:43.322Z",
+  "last_updated": "2026-03-08T05:04:54.927Z",
   "categories": {
     "supplements": [
       {
@@ -611,6 +611,20 @@
         "added_date": "2026-03-08"
       },
       {
+        "id": "recEQAbunWtyequ5j",
+        "title": "Comparative effectiveness of CDK4/6 inhibitors in metastatic breast cancer: using the target trial emulation framework to investigate overall survival in routine care.",
+        "summary": "Researchers compared three CDK4/6 inhibitors for metastatic breast cancer using real-world data to determine which extends overall survival longest.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41793559/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 24,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-08"
+      },
+      {
         "id": "recNr0leCpDPxaTyo",
         "title": "An exploratory serum metabolomics study for screening and staging of breast cancer.",
         "summary": "Researchers identified unique metabolic patterns in blood serum that could help detect and classify breast cancer stages.",
@@ -619,20 +633,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-07"
-      },
-      {
-        "id": "recHNJPZpcnEjvOxW",
-        "title": "PD-1 genetic fate mapping uncovers immune cell diversity mediating the efficacy of combined PD-1 blockade and chemotherapy.",
-        "summary": "Combining chemotherapy with PD-1 blockade expands cancer-fighting immune cells in lung tumors, revealing how the treatment works.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41787604/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -707,6 +707,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-08"
+      },
+      {
+        "id": "recEQAbunWtyequ5j",
+        "title": "Comparative effectiveness of CDK4/6 inhibitors in metastatic breast cancer: using the target trial emulation framework to investigate overall survival in routine care.",
+        "summary": "Researchers compared three CDK4/6 inhibitors for metastatic breast cancer using real-world data to determine which extends overall survival longest.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41793559/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 24,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-08"
       },
@@ -835,20 +849,6 @@
         "quality_score": 26,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-07"
-      },
-      {
-        "id": "rec6k7Z5scoORdPet",
-        "title": "Clinical Impact and Clinicopathologic Correlations of Oncotype DX in Hormone Receptor-Positive/HER2-Negative Early Breast Cancer: Real-World Evidence From a Large Brazilian Cohort (GBECAM 0520).",
-        "summary": "Oncotype DX testing helps Brazilian breast cancer patients avoid unnecessary chemotherapy by predicting which hormone receptor-positive tumors truly need it.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41791005/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-07"
       }
     ]
   },
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9684,
+    "archive_count": 9685,
     "archive_supplements": 1130,
     "archive_off_label": 400,
-    "archive_biomarkers": 5717,
+    "archive_biomarkers": 5718,
     "archive_trials": 2140
   }
 }
