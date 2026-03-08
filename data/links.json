@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-08T07:02:17.977Z",
+  "last_updated": "2026-03-08T07:02:22.004Z",
   "categories": {
     "supplements": [
       {
@@ -39,6 +39,20 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-08"
+      },
+      {
+        "id": "reci9v3XCl5MEBw4i",
+        "title": "Moving beyond cancer: longitudinal changes in 24-hour movement behaviors and their association with quality of life in breast cancer survivors.",
+        "summary": "Combined healthy movement behaviors—exercise, light activity, reduced sitting, and sleep—improve quality of life in breast cancer survivors.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41794784/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -195,20 +209,6 @@
           "Brain"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-07"
-      },
-      {
-        "id": "recUBJEgYfxR7PxwU",
-        "title": "Natural panax notoginseng-derived nanovesicles trigger multiple cell death mechanisms and reprogram chemokine signaling to impede oral squamous cell carcinoma progression.",
-        "summary": "Plant-derived nanovesicles from panax notoginseng kill oral cancer cells through multiple mechanisms and reduce tumor spread in studies.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41792745/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-07"
       }
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9770,
+    "archive_count": 9771,
     "archive_supplements": 1131,
     "archive_off_label": 401,
-    "archive_biomarkers": 5787,
+    "archive_biomarkers": 5788,
     "archive_trials": 2154
   }
 }
