@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-08T05:03:15.404Z",
+  "last_updated": "2026-03-08T05:03:32.832Z",
   "categories": {
     "supplements": [
       {
@@ -513,6 +513,20 @@
         "added_date": "2026-03-08"
       },
       {
+        "id": "recoG5EoDWe4cVNC3",
+        "title": "Importance of magnetic resonance in the diagnosis of pleomorphic parotid adenoma. Clinical case series.",
+        "summary": "MRI effectively identifies pleomorphic adenoma, the most common benign parotid tumor, using specialized imaging techniques.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41793728/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-08"
+      },
+      {
         "id": "recNr0leCpDPxaTyo",
         "title": "An exploratory serum metabolomics study for screening and staging of breast cancer.",
         "summary": "Researchers identified unique metabolic patterns in blood serum that could help detect and classify breast cancer stages.",
@@ -624,20 +638,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-07"
-      },
-      {
-        "id": "recrzVPAm2zHWyv7q",
-        "title": "ACSBG1‑driven lipid reprogramming unveiled: A fatty acid metabolism‑associated prognostic model for lung adenocarcinoma.",
-        "summary": "Researchers identified ACSBG1 as a protective gene in lung cancer that suppresses tumor growth and boosts immune response, offering a new prognostic tool.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41789655/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-07"
       }
     ],
     "trials": [
@@ -666,6 +666,20 @@
           "Leukemia"
         ],
         "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-08"
+      },
+      {
+        "id": "recoG5EoDWe4cVNC3",
+        "title": "Importance of magnetic resonance in the diagnosis of pleomorphic parotid adenoma. Clinical case series.",
+        "summary": "MRI effectively identifies pleomorphic adenoma, the most common benign parotid tumor, using specialized imaging techniques.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41793728/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-08"
       },
@@ -836,20 +850,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-07"
-      },
-      {
-        "id": "recMS7QxRkAWB2sby",
-        "title": "The effect of neoadjuvant therapy on radiological, surgical, and pathological results in nonmetastatic breast cancer: A retrospective observational study.",
-        "summary": "Neoadjuvant therapy improves breast cancer tumor shrinkage, enabling more patients to qualify for breast-conserving surgery.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41790702/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-07"
       }
     ]
   },
@@ -859,10 +859,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9677,
+    "archive_count": 9678,
     "archive_supplements": 1129,
     "archive_off_label": 400,
-    "archive_biomarkers": 5711,
+    "archive_biomarkers": 5712,
     "archive_trials": 2140
   }
 }
