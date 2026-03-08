@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-08T07:04:10.957Z",
+  "last_updated": "2026-03-08T07:04:23.056Z",
   "categories": {
     "supplements": [
       {
@@ -63,6 +63,20 @@
         "title": "β-hydroxybutyrate enhances the metabolic fitness of CAR T cells in cancer.",
         "summary": "β-hydroxybutyrate boosts CAR T cell energy and function, improving tumor control across multiple cancer types.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41794025/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-08"
+      },
+      {
+        "id": "recuin9BOPjMm4M8x",
+        "title": "Effect of vitamin D replacement on nutritional status and muscle strength in patients after allogeneic stem cell transplantation and chronic graft-versus-host disease.",
+        "summary": "Vitamin D replacement therapy improved muscle strength and nutritional status in blood cancer patients recovering from stem cell transplants.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41794390/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -195,20 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-07"
-      },
-      {
-        "id": "reczgHWYuHQOYLkxx",
-        "title": "Role of iron and TfR1 in the application of high‑dose ascorbate against pancreatic cancer.",
-        "summary": "High-dose vitamin C kills pancreatic cancer cells through ferroptosis, but adding iron reduces this effect by lowering iron uptake.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41789665/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Pancreatic"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-07"
       }
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9783,
+    "archive_count": 9784,
     "archive_supplements": 1133,
     "archive_off_label": 401,
-    "archive_biomarkers": 5795,
+    "archive_biomarkers": 5796,
     "archive_trials": 2157
   }
 }
