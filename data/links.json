@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-08T05:02:46.464Z",
+  "last_updated": "2026-03-08T05:02:59.477Z",
   "categories": {
     "supplements": [
       {
@@ -471,6 +471,34 @@
         "added_date": "2026-03-08"
       },
       {
+        "id": "recxBViFLubsxyTnz",
+        "title": "FDG PET/CT in Duodenal Follicular Dendritic Cell Sarcoma.",
+        "summary": "FDG PET/CT imaging successfully identified a rare duodenal follicular dendritic cell sarcoma, showing increased metabolic activity and necrotic areas.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41771039/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-08"
+      },
+      {
+        "id": "reclOnY6kKTHG4erE",
+        "title": "Increased Uptake of 68Ga-DOTA-IBA in Sclerosing Epithelioid Fibrosarcoma.",
+        "summary": "A new imaging scan successfully detected both the primary tumor and bone metastases in rare aggressive fibrosarcoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41771037/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-08"
+      },
+      {
         "id": "recNr0leCpDPxaTyo",
         "title": "An exploratory serum metabolomics study for screening and staging of breast cancer.",
         "summary": "Researchers identified unique metabolic patterns in blood serum that could help detect and classify breast cancer stages.",
@@ -602,34 +630,6 @@
         "title": "Mechanistic insights into inflammatory cytokines in adenomyosis‑induced infertility (Review).",
         "summary": "Inflammatory proteins disrupting the uterus prevent embryo implantation in adenomyosis; targeting these proteins could restore fertility.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41789648/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-07"
-      },
-      {
-        "id": "recoT9SEkhHGcMru0",
-        "title": "The dual role of the crosstalk between autophagy and ferroptosis in lung cancer treatment: Advances in mechanisms and therapeutic strategies (Review).",
-        "summary": "Researchers found that combining autophagy and ferroptosis processes offers dual benefits for treating lung cancer through various drug combination strategies.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41789644/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-07"
-      },
-      {
-        "id": "recttCaLGuteV2hmL",
-        "title": "FOXM1 inhibitor, RCM‑1, enhances venetoclax mediated apoptosis through downregulation of ATP2B4 in rhabdomyosarcoma.",
-        "summary": "A combination of FOXM1 inhibitor RCM-1 and venetoclax kills rhabdomyosarcoma cells by reducing a calcium channel protein called ATP2B4.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41789627/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -859,10 +859,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9675,
+    "archive_count": 9676,
     "archive_supplements": 1129,
     "archive_off_label": 400,
-    "archive_biomarkers": 5709,
+    "archive_biomarkers": 5710,
     "archive_trials": 2140
   }
 }
