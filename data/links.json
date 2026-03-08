@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-08T05:04:11.387Z",
+  "last_updated": "2026-03-08T05:04:22.476Z",
   "categories": {
     "supplements": [
       {
@@ -583,6 +583,20 @@
         "added_date": "2026-03-08"
       },
       {
+        "id": "recBWyuGli8LVsWXo",
+        "title": "TROP-2 Is Not a Therapeutic Target in Melanoma: a Morphological Study.",
+        "summary": "TROP-2 protein is not a viable treatment target for melanoma, based on morphological analysis of the protein's presence in tumors.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41793593/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Melanoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-08"
+      },
+      {
         "id": "recNr0leCpDPxaTyo",
         "title": "An exploratory serum metabolomics study for screening and staging of breast cancer.",
         "summary": "Researchers identified unique metabolic patterns in blood serum that could help detect and classify breast cancer stages.",
@@ -617,20 +631,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41790543/",
         "source": "PubMed",
         "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-07"
-      },
-      {
-        "id": "recsc1DJnZfIs5qeT",
-        "title": "TimeVault turns vault particles into molecular memory of transcriptional states: how to decode the cellular black box.",
-        "summary": "TimeVault stores cell gene expression histories inside living cells, revealing which cancer cells will survive drug treatment before therapy begins.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41789510/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9681,
+    "archive_count": 9682,
     "archive_supplements": 1129,
     "archive_off_label": 400,
-    "archive_biomarkers": 5715,
+    "archive_biomarkers": 5716,
     "archive_trials": 2140
   }
 }
