@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-08T05:05:25.480Z",
+  "last_updated": "2026-03-08T05:05:37.811Z",
   "categories": {
     "supplements": [
       {
@@ -739,6 +739,20 @@
         "added_date": "2026-03-08"
       },
       {
+        "id": "recBEkOK87KMms7gn",
+        "title": "The prognostic impact of myeloid co-mutation burden in TP53-mutated AML/MDS after allogeneic stem cell transplantation: a multicenter retrospective analysis.",
+        "summary": "In TP53-mutated blood cancers, patients with fewer additional mutations show worse survival after stem cell transplant.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41793509/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-08"
+      },
+      {
         "id": "recHNJPZpcnEjvOxW",
         "title": "PD-1 genetic fate mapping uncovers immune cell diversity mediating the efficacy of combined PD-1 blockade and chemotherapy.",
         "summary": "Combining chemotherapy with PD-1 blockade expands cancer-fighting immune cells in lung tumors, revealing how the treatment works.",
@@ -835,20 +849,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-07"
-      },
-      {
-        "id": "recxpUxQSdOUrue04",
-        "title": "Locoregional and symptomatic response to neoadjuvant dual HER2 blockade with chemotherapy in HER2-positive breast cancer: a pilot study.",
-        "summary": "Dual HER2 blockade with chemotherapy before surgery shrinks HER2-positive breast tumors and improves symptoms in most patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41176781/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-07"
       }
     ]
   },
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9688,
+    "archive_count": 9689,
     "archive_supplements": 1130,
     "archive_off_label": 400,
-    "archive_biomarkers": 5720,
+    "archive_biomarkers": 5721,
     "archive_trials": 2141
   }
 }
