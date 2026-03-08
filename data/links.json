@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-08T09:02:23.267Z",
+  "last_updated": "2026-03-08T09:03:01.155Z",
   "categories": {
     "supplements": [
       {
@@ -342,6 +342,20 @@
         "added_date": "2026-03-08"
       },
       {
+        "id": "recHudNscrB5wuVBG",
+        "title": "The Influence of Extracellular Citrate in Physiological Concentration on the Proliferation of Malignant Melanoma.",
+        "summary": "Blocking citrate uptake in melanoma cells with gluconate stops citrate-driven tumor growth, suggesting a new treatment approach.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41772395/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Melanoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-08"
+      },
+      {
         "id": "reclVwtR0AwhpYPyK",
         "title": "Glutamine antagonist DON attenuates chikungunya virus-induced myositis by suppressing inflammatory activation in a murine model.",
         "summary": "DON, a glutamine inhibitor, reduces chikungunya virus-induced muscle inflammation by suppressing immune cell activation, without affecting viral control.",
@@ -406,21 +420,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-07"
-      },
-      {
-        "id": "recaN6oGH85VyWj0I",
-        "title": "Capivasertib combines with trastuzumab deruxtecan to enhance anti-tumour activity in HER2-positive and HER2-low tumours.",
-        "summary": "Combining capivasertib with trastuzumab deruxtecan enhances tumor-fighting effects in HER2-positive and HER2-low cancers across multiple types.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41789558/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast",
-          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -859,9 +858,9 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9805,
+    "archive_count": 9806,
     "archive_supplements": 1138,
-    "archive_off_label": 402,
+    "archive_off_label": 403,
     "archive_biomarkers": 5809,
     "archive_trials": 2159
   }
