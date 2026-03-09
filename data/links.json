@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-09T04:04:23.428Z",
+  "last_updated": "2026-03-09T04:04:34.103Z",
   "categories": {
     "supplements": [
       {
@@ -582,6 +582,20 @@
         "added_date": "2026-03-09"
       },
       {
+        "id": "recKPER8ntMheaQXr",
+        "title": "Novel Resorcinol Dibenzyl Ether-Based PD-L1 Inhibitors Modulate Lipid Metabolism for Enhanced Tumor Immunotherapy.",
+        "summary": "Researchers developed a new compound (ZQ8) that blocks PD-L1 and reduces tumor-promoting lipid buildup, achieving 86% tumor growth inhibition in liver cancer mouse models.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41795649/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-09"
+      },
+      {
         "id": "rech01x9yPfCJ0B7s",
         "title": "B cells and humoral immunity in melanoma: regulatory and autoimmune-like features and implications for immunotherapy.",
         "summary": "B cells regulate melanoma progression and immunotherapy response through both immune-suppressive and tumor-fighting mechanisms, offering new treatment targets.",
@@ -622,20 +636,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-08"
-      },
-      {
-        "id": "recxBViFLubsxyTnz",
-        "title": "FDG PET/CT in Duodenal Follicular Dendritic Cell Sarcoma.",
-        "summary": "FDG PET/CT imaging successfully identified a rare duodenal follicular dendritic cell sarcoma, showing increased metabolic activity and necrotic areas.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41771039/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-08"
       }
     ],
     "trials": [
@@ -672,6 +672,20 @@
         "title": "Single-cell profiling reveals MIF-mediated immune evasion and CD8 + T cell exhaustion in relapsed multiple myeloma.",
         "summary": "Researchers found that a protein called MIF helps multiple myeloma cancer cells evade immune attack by exhausting CD8+ T cells, suggesting a new treatment target.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41795737/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-09"
+      },
+      {
+        "id": "recKPER8ntMheaQXr",
+        "title": "Novel Resorcinol Dibenzyl Ether-Based PD-L1 Inhibitors Modulate Lipid Metabolism for Enhanced Tumor Immunotherapy.",
+        "summary": "Researchers developed a new compound (ZQ8) that blocks PD-L1 and reduces tumor-promoting lipid buildup, achieving 86% tumor growth inhibition in liver cancer mouse models.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41795649/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -835,20 +849,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-08"
-      },
-      {
-        "id": "rec6QoAV7hFFSfahW",
-        "title": "TP53 mutation is associated with improved disease control in patients with advanced RAS wild-type colorectal adenocarcinoma treated with cetuximab and pembrolizumab.",
-        "summary": "Colorectal cancer patients with TP53 mutations showed better disease control when treated with cetuximab and pembrolizumab immunotherapy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41793309/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-08"
       }
     ]
   },
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9817,
+    "archive_count": 9818,
     "archive_supplements": 1138,
     "archive_off_label": 403,
-    "archive_biomarkers": 5819,
+    "archive_biomarkers": 5820,
     "archive_trials": 2160
   }
 }
