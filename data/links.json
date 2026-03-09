@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-09T04:04:02.195Z",
+  "last_updated": "2026-03-09T04:04:13.039Z",
   "categories": {
     "supplements": [
       {
@@ -554,6 +554,20 @@
         "added_date": "2026-03-09"
       },
       {
+        "id": "rec68bEUmvz70CduN",
+        "title": "Single-cell profiling reveals MIF-mediated immune evasion and CD8 + T cell exhaustion in relapsed multiple myeloma.",
+        "summary": "Researchers found that a protein called MIF helps multiple myeloma cancer cells evade immune attack by exhausting CD8+ T cells, suggesting a new treatment target.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41795737/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-09"
+      },
+      {
         "id": "rech01x9yPfCJ0B7s",
         "title": "B cells and humoral immunity in melanoma: regulatory and autoimmune-like features and implications for immunotherapy.",
         "summary": "B cells regulate melanoma progression and immunotherapy response through both immune-suppressive and tumor-fighting mechanisms, offering new treatment targets.",
@@ -622,20 +636,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-08"
-      },
-      {
-        "id": "recEk7exglPaAU7PG",
-        "title": "On-exosome-membrane DNA polymerization-powered magneto-electrochemical aptasensing for osteosarcoma.",
-        "summary": "Researchers developed a new blood test using exosomes to detect osteosarcoma earlier through an innovative amplification method.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41644253/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-08"
       }
     ],
     "trials": [
@@ -664,6 +664,20 @@
           "Colorectal"
         ],
         "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-09"
+      },
+      {
+        "id": "rec68bEUmvz70CduN",
+        "title": "Single-cell profiling reveals MIF-mediated immune evasion and CD8 + T cell exhaustion in relapsed multiple myeloma.",
+        "summary": "Researchers found that a protein called MIF helps multiple myeloma cancer cells evade immune attack by exhausting CD8+ T cells, suggesting a new treatment target.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41795737/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-09"
       },
@@ -835,20 +849,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-08"
-      },
-      {
-        "id": "rec6xdgUKIJien78W",
-        "title": "Rate of Hearing Loss in Platinum-Naïve Patients Receiving Immune Checkpoint Inhibitors.",
-        "summary": "Researchers found hearing loss rates in cancer patients treated with immune checkpoint inhibitors, the largest study of this side effect to date.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41793286/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-08"
       }
     ]
   },
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9815,
+    "archive_count": 9816,
     "archive_supplements": 1138,
     "archive_off_label": 403,
-    "archive_biomarkers": 5817,
+    "archive_biomarkers": 5818,
     "archive_trials": 2160
   }
 }
