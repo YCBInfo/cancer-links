@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-09T04:03:30.178Z",
+  "last_updated": "2026-03-09T04:03:40.777Z",
   "categories": {
     "supplements": [
       {
@@ -512,6 +512,20 @@
         "added_date": "2026-03-09"
       },
       {
+        "id": "recOw2NnDl2WQINmO",
+        "title": "Underutilization of Genetic Counseling and Germline Testing Following Abnormal Mismatch Repair Immunohistochemistry in Colorectal Cancer.",
+        "summary": "Many colorectal cancer patients with genetic markers aren't referred for genetic counseling or testing despite being eligible.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41795745/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-09"
+      },
+      {
         "id": "rech01x9yPfCJ0B7s",
         "title": "B cells and humoral immunity in melanoma: regulatory and autoimmune-like features and implications for immunotherapy.",
         "summary": "B cells regulate melanoma progression and immunotherapy response through both immune-suppressive and tumor-fighting mechanisms, offering new treatment targets.",
@@ -622,20 +636,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-08"
-      },
-      {
-        "id": "recO04nZdD292TzNn",
-        "title": "Integrating the Glycemia Risk Index Into Clinical Practice and Research: A Consensus Report.",
-        "summary": "Experts recommend integrating the Glycemia Risk Index, a new metric summarizing glucose control data, into diabetes and cancer patient care tools.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41793701/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-08"
       }
     ],
     "trials": [
@@ -650,6 +650,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-09"
+      },
+      {
+        "id": "recOw2NnDl2WQINmO",
+        "title": "Underutilization of Genetic Counseling and Germline Testing Following Abnormal Mismatch Repair Immunohistochemistry in Colorectal Cancer.",
+        "summary": "Many colorectal cancer patients with genetic markers aren't referred for genetic counseling or testing despite being eligible.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41795745/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-09"
       },
@@ -835,20 +849,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-08"
-      },
-      {
-        "id": "recEDc2PamTEMJTzw",
-        "title": "Venetoclax or Pirtobrutinib in Relapsed/Refractory Waldenström Macroglobulinemia: Clinical and Molecular Predictors and Sequencing Implications.",
-        "summary": "Venetoclax and pirtobrutinib show similar effectiveness for relapsed Waldenström macroglobulinemia, but pirtobrutinib may be preferred after prior treatments to prevent relapse.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41793242/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-08"
       }
     ]
   },
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9812,
+    "archive_count": 9813,
     "archive_supplements": 1138,
     "archive_off_label": 403,
-    "archive_biomarkers": 5814,
+    "archive_biomarkers": 5815,
     "archive_trials": 2160
   }
 }
