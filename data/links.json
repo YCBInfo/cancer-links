@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-09T06:02:37.203Z",
+  "last_updated": "2026-03-09T06:02:56.277Z",
   "categories": {
     "supplements": [
       {
@@ -83,6 +83,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-09"
+      },
+      {
+        "id": "recJVnx6XrG2pGirG",
+        "title": "Effects of naphthyl derivatives on cell physiology of human leukaemia cells: Survival, cell cycle arrest and apoptosis.",
+        "summary": "Two naphthyl compounds effectively killed leukemia cells by triggering apoptosis, even in drug-resistant cells overexpressing protective Bcl-2 protein.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41795332/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-09"
       },
@@ -195,20 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-08"
-      },
-      {
-        "id": "rec2keFGevab72V6k",
-        "title": "1,25D3 reprograms mitochondrial quality control via sirtuin and sensitizes glioblastoma to chemotherapy.",
-        "summary": "Vitamin D3 makes glioblastoma tumors more susceptible to chemotherapy by overloading their mitochondrial cleanup system.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41792999/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Brain"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-08"
       }
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9867,
+    "archive_count": 9868,
     "archive_supplements": 1143,
     "archive_off_label": 404,
-    "archive_biomarkers": 5859,
+    "archive_biomarkers": 5860,
     "archive_trials": 2164
   }
 }
