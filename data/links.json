@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-09T04:04:13.039Z",
+  "last_updated": "2026-03-09T04:04:23.428Z",
   "categories": {
     "supplements": [
       {
@@ -13,6 +13,20 @@
           "Lung"
         ],
         "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-09"
+      },
+      {
+        "id": "rec25SrAFN1qzLOX8",
+        "title": "A natural nephroprotective adjuvant for cancer chemotherapy: Rosmarinic acid disrupts IL-17 A-Ferroptosis coupling in Ifosfamide-induced renal injury.",
+        "summary": "Rosmarinic acid protects against kidney damage from cancer chemotherapy drug Ifosfamide by blocking inflammation-related cell death pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41795721/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-09"
       },
@@ -195,20 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-07"
-      },
-      {
-        "id": "recb4rXj8HRjOPei5",
-        "title": "A Self-Propelled Molecular Rocket Triggers Ferroptosis and Apoptosis for Improving Herceptin Resistance in Cancer Therapy.",
-        "summary": "Researchers developed a self-propelled molecular rocket that overcomes Herceptin resistance in breast cancer by triggering cell death through ferroptosis and apoptosis.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41789437/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-07"
       }
@@ -568,6 +568,20 @@
         "added_date": "2026-03-09"
       },
       {
+        "id": "rec25SrAFN1qzLOX8",
+        "title": "A natural nephroprotective adjuvant for cancer chemotherapy: Rosmarinic acid disrupts IL-17 A-Ferroptosis coupling in Ifosfamide-induced renal injury.",
+        "summary": "Rosmarinic acid protects against kidney damage from cancer chemotherapy drug Ifosfamide by blocking inflammation-related cell death pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41795721/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-09"
+      },
+      {
         "id": "rech01x9yPfCJ0B7s",
         "title": "B cells and humoral immunity in melanoma: regulatory and autoimmune-like features and implications for immunotherapy.",
         "summary": "B cells regulate melanoma progression and immunotherapy response through both immune-suppressive and tumor-fighting mechanisms, offering new treatment targets.",
@@ -614,20 +628,6 @@
         "title": "FDG PET/CT in Duodenal Follicular Dendritic Cell Sarcoma.",
         "summary": "FDG PET/CT imaging successfully identified a rare duodenal follicular dendritic cell sarcoma, showing increased metabolic activity and necrotic areas.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41771039/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-08"
-      },
-      {
-        "id": "reclOnY6kKTHG4erE",
-        "title": "Increased Uptake of 68Ga-DOTA-IBA in Sclerosing Epithelioid Fibrosarcoma.",
-        "summary": "A new imaging scan successfully detected both the primary tumor and bone metastases in rare aggressive fibrosarcoma.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41771037/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9816,
+    "archive_count": 9817,
     "archive_supplements": 1138,
     "archive_off_label": 403,
-    "archive_biomarkers": 5818,
+    "archive_biomarkers": 5819,
     "archive_trials": 2160
   }
 }
