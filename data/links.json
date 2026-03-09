@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-09T04:06:44.335Z",
+  "last_updated": "2026-03-09T04:06:53.831Z",
   "categories": {
     "supplements": [
       {
@@ -780,6 +780,20 @@
         "added_date": "2026-03-09"
       },
       {
+        "id": "recHOsbOsIg4qqwGN",
+        "title": "Cyclin-dependent kinases as therapeutic targets in cancer: Recent advances, challenges, and opportunities.",
+        "summary": "CDK inhibitors, especially targeting CDK4/6 and CDK2, show promise in breast cancer and may enhance immunotherapy when combined.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41795212/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-09"
+      },
+      {
         "id": "rech01x9yPfCJ0B7s",
         "title": "B cells and humoral immunity in melanoma: regulatory and autoimmune-like features and implications for immunotherapy.",
         "summary": "B cells regulate melanoma progression and immunotherapy response through both immune-suppressive and tumor-fighting mechanisms, offering new treatment targets.",
@@ -834,20 +848,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-08"
-      },
-      {
-        "id": "recMcX2Lfv62joeiN",
-        "title": "Immuno-Inflammatory Mechanisms in the Chronification of Pain.",
-        "summary": "Immune system inflammation drives chronic pain development; premature anti-inflammatory drugs may worsen it by disrupting natural healing.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41793583/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-08"
       }
     ]
   },
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9830,
+    "archive_count": 9831,
     "archive_supplements": 1140,
     "archive_off_label": 403,
-    "archive_biomarkers": 5828,
+    "archive_biomarkers": 5829,
     "archive_trials": 2162
   }
 }
