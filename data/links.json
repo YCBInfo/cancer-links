@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-09T04:08:09.937Z",
+  "last_updated": "2026-03-09T04:08:20.897Z",
   "categories": {
     "supplements": [
       {
@@ -808,6 +808,20 @@
         "added_date": "2026-03-09"
       },
       {
+        "id": "recYXPV29SMBSZUEB",
+        "title": "CDK4/6i reverse PARPi resistance by targeting the E2F1- MCM2/5 pathway.",
+        "summary": "CDK4/6 inhibitors restore ovarian cancer sensitivity to PARP inhibitors by blocking a protein pathway that drives drug resistance.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41795017/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Ovarian"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-09"
+      },
+      {
         "id": "rech01x9yPfCJ0B7s",
         "title": "B cells and humoral immunity in melanoma: regulatory and autoimmune-like features and implications for immunotherapy.",
         "summary": "B cells regulate melanoma progression and immunotherapy response through both immune-suppressive and tumor-fighting mechanisms, offering new treatment targets.",
@@ -834,20 +848,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-08"
-      },
-      {
-        "id": "recoG5EoDWe4cVNC3",
-        "title": "Importance of magnetic resonance in the diagnosis of pleomorphic parotid adenoma. Clinical case series.",
-        "summary": "MRI effectively identifies pleomorphic adenoma, the most common benign parotid tumor, using specialized imaging techniques.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41793728/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-08"
       }
     ]
   },
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9838,
+    "archive_count": 9839,
     "archive_supplements": 1140,
     "archive_off_label": 404,
-    "archive_biomarkers": 5835,
+    "archive_biomarkers": 5836,
     "archive_trials": 2162
   }
 }
