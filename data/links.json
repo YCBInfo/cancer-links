@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-09T04:04:34.103Z",
+  "last_updated": "2026-03-09T04:04:45.628Z",
   "categories": {
     "supplements": [
       {
@@ -596,6 +596,20 @@
         "added_date": "2026-03-09"
       },
       {
+        "id": "recVGquferRqpnFiL",
+        "title": "GeoMx and RNAscope: A Comparative Assessment of Their Utility for Spatial mRNA Expression Profiling in Formalin-Fixed Breast Cancer Tissue.",
+        "summary": "GeoMx and RNAscope show strong correlation for measuring gene expression in breast cancer tissue, each offering distinct advantages in sensitivity and multiplexing capability.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41795633/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-09"
+      },
+      {
         "id": "rech01x9yPfCJ0B7s",
         "title": "B cells and humoral immunity in melanoma: regulatory and autoimmune-like features and implications for immunotherapy.",
         "summary": "B cells regulate melanoma progression and immunotherapy response through both immune-suppressive and tumor-fighting mechanisms, offering new treatment targets.",
@@ -618,20 +632,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-08"
-      },
-      {
-        "id": "rec1QXaWC5kpWrIz0",
-        "title": "CXCL1 in triple‑negative breast cancer: Mechanisms, challenges, and therapeutic opportunities (Review).",
-        "summary": "CXCL1 protein drives triple-negative breast cancer growth and spread, offering a promising new therapeutic target despite remaining research challenges.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41789677/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -858,8 +858,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9818,
-    "archive_supplements": 1138,
+    "archive_count": 9819,
+    "archive_supplements": 1139,
     "archive_off_label": 403,
     "archive_biomarkers": 5820,
     "archive_trials": 2160
