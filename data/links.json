@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-09T04:06:32.466Z",
+  "last_updated": "2026-03-09T04:06:44.335Z",
   "categories": {
     "supplements": [
       {
@@ -215,6 +215,20 @@
     ],
     "off_label": [
       {
+        "id": "recTsDNPArGAjvRii",
+        "title": "Metabolic, microbial, and pharmacological stimuli elicit distinct lipidomic and cytokine responses in human placenta.",
+        "summary": "Different stressors trigger distinct lipid and immune responses in placental tissue, with bacterial exposure causing inflammation linked to pregnancy complications.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41795823/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-09"
+      },
+      {
         "id": "rec93Vlb0eq01xgGz",
         "title": "Reprogramming innate immunity to overcome endocrine resistance in estrogen receptor-positive breast cancer.",
         "summary": "Blocking STAT3 signaling in immune cells could restore hormone therapy effectiveness in resistant estrogen receptor-positive breast cancer.",
@@ -408,20 +422,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-07"
-      },
-      {
-        "id": "recMGyia9CK3i08Wh",
-        "title": "Rafoxanide disrupts mitochondrial homeostasis through VDAC1 modulation in colorectal cancer cells.",
-        "summary": "Rafoxanide kills colorectal cancer cells by disrupting mitochondria through a protein called VDAC1, causing oxidative stress and cell death.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41786695/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-07"
       }
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9829,
+    "archive_count": 9830,
     "archive_supplements": 1140,
     "archive_off_label": 403,
-    "archive_biomarkers": 5827,
+    "archive_biomarkers": 5828,
     "archive_trials": 2162
   }
 }
