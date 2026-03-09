@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-09T04:06:23.107Z",
+  "last_updated": "2026-03-09T04:06:32.466Z",
   "categories": {
     "supplements": [
       {
@@ -766,6 +766,20 @@
         "added_date": "2026-03-09"
       },
       {
+        "id": "recErdRINVc57wLhN",
+        "title": "Oncolytic Adenoviral Infection of Chordoma Achieves Treatment Efficacy Associated with Immunologic Response and Tumor Microenvironmental Alteration.",
+        "summary": "A modified virus called Delta-24-RGD effectively kills chordoma cancer cells by triggering immune responses and changing the tumor environment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41795831/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-09"
+      },
+      {
         "id": "rech01x9yPfCJ0B7s",
         "title": "B cells and humoral immunity in melanoma: regulatory and autoimmune-like features and implications for immunotherapy.",
         "summary": "B cells regulate melanoma progression and immunotherapy response through both immune-suppressive and tumor-fighting mechanisms, offering new treatment targets.",
@@ -834,20 +848,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-08"
-      },
-      {
-        "id": "recEQAbunWtyequ5j",
-        "title": "Comparative effectiveness of CDK4/6 inhibitors in metastatic breast cancer: using the target trial emulation framework to investigate overall survival in routine care.",
-        "summary": "Researchers compared three CDK4/6 inhibitors for metastatic breast cancer using real-world data to determine which extends overall survival longest.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41793559/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 24,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-08"
       }
     ]
   },
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9828,
+    "archive_count": 9829,
     "archive_supplements": 1140,
     "archive_off_label": 403,
-    "archive_biomarkers": 5826,
+    "archive_biomarkers": 5827,
     "archive_trials": 2162
   }
 }
