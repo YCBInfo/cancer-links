@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-08T11:10:12.197Z",
+  "last_updated": "2026-03-09T04:02:58.433Z",
   "categories": {
     "supplements": [
       {
@@ -428,6 +428,48 @@
     ],
     "biomarkers": [
       {
+        "id": "recUdcFM5wG2fReEI",
+        "title": "Associations of breast DNA methylation-based measures of biological ageing with obesity-related breast cancer risk markers.",
+        "summary": "Breast tissue's biological age markers show associations with obesity-related metabolic factors that may influence breast cancer risk.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41778393/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-09"
+      },
+      {
+        "id": "recUi6asRxEgG6RZU",
+        "title": "Current and emerging pharmacotherapies for treating vascular malformations.",
+        "summary": "Researchers identified genetic pathways in vascular malformations, enabling new drug treatments as alternatives to conventional surgery.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41795787/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-09"
+      },
+      {
+        "id": "recMPYvFubiTMvdnS",
+        "title": "Cytokines at the Crossroads of Mitochondrial Dysfunction and Inflammation in Colorectal Cancer: Implications for Postoperative Complications.",
+        "summary": "Inflammatory molecules and mitochondrial damage may help predict complications after colorectal cancer surgery.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41795777/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-09"
+      },
+      {
         "id": "rech01x9yPfCJ0B7s",
         "title": "B cells and humoral immunity in melanoma: regulatory and autoimmune-like features and implications for immunotherapy.",
         "summary": "B cells regulate melanoma progression and immunotherapy response through both immune-suppressive and tumor-fighting mechanisms, offering new treatment targets.",
@@ -592,48 +634,6 @@
           "Melanoma"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-08"
-      },
-      {
-        "id": "recx1nsxpI92XOvh6",
-        "title": "A novel triaptosis-related prognostic signature to assess the clinical value in HER2-low breast cancer: evidence from clinical cohorts and experimental validation.",
-        "summary": "Researchers identified a new prognostic signature based on triaptosis-related genes to better predict outcomes in HER2-low breast cancer patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41793564/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-08"
-      },
-      {
-        "id": "recEQAbunWtyequ5j",
-        "title": "Comparative effectiveness of CDK4/6 inhibitors in metastatic breast cancer: using the target trial emulation framework to investigate overall survival in routine care.",
-        "summary": "Researchers compared three CDK4/6 inhibitors for metastatic breast cancer using real-world data to determine which extends overall survival longest.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41793559/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 24,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-08"
-      },
-      {
-        "id": "recPgnlZeZshJqe2d",
-        "title": "Application of untargeted plasma metabolomics and machine learning to construct a diagnostic model for hypertrophic cardiomyopathy: a case-control study.",
-        "summary": "Researchers used metabolomics and machine learning to develop a blood test that can diagnose hypertrophic cardiomyopathy more effectively.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41793534/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-08"
       }
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9810,
+    "archive_count": 9811,
     "archive_supplements": 1138,
     "archive_off_label": 403,
-    "archive_biomarkers": 5812,
+    "archive_biomarkers": 5813,
     "archive_trials": 2160
   }
 }
