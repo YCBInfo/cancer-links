@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-09T04:03:40.777Z",
+  "last_updated": "2026-03-09T04:03:52.280Z",
   "categories": {
     "supplements": [
       {
@@ -526,6 +526,20 @@
         "added_date": "2026-03-09"
       },
       {
+        "id": "recHcbGuJttdeAJBl",
+        "title": "WISP2 Overexpression Is Associated with Reduced Vasculogenic Mimicry and Epithelial-Mesenchymal Transition in Gastric Cancer.",
+        "summary": "Increasing WISP2 protein levels reduces tumor vessel formation and cancer cell spread in gastric cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41795742/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-09"
+      },
+      {
         "id": "rech01x9yPfCJ0B7s",
         "title": "B cells and humoral immunity in melanoma: regulatory and autoimmune-like features and implications for immunotherapy.",
         "summary": "B cells regulate melanoma progression and immunotherapy response through both immune-suppressive and tumor-fighting mechanisms, offering new treatment targets.",
@@ -614,20 +628,6 @@
         "title": "Importance of magnetic resonance in the diagnosis of pleomorphic parotid adenoma. Clinical case series.",
         "summary": "MRI effectively identifies pleomorphic adenoma, the most common benign parotid tumor, using specialized imaging techniques.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41793728/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-08"
-      },
-      {
-        "id": "recpiHfFMMbmFdWGx",
-        "title": "Hijacking Actin-Pre-Liquid-Liquid Phase Separation Suppresses Malignant Tumor Invasion and Growth.",
-        "summary": "Researchers developed a molecule that blocks actin droplet formation, stopping cancer cells from moving and invading tissues.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41793718/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9813,
+    "archive_count": 9814,
     "archive_supplements": 1138,
     "archive_off_label": 403,
-    "archive_biomarkers": 5815,
+    "archive_biomarkers": 5816,
     "archive_trials": 2160
   }
 }
