@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-09T04:11:39.383Z",
+  "last_updated": "2026-03-09T04:11:51.282Z",
   "categories": {
     "supplements": [
       {
@@ -35,6 +35,20 @@
         "title": "Isolinderalactone targets TNF-α/STAT3 inflammatory pathways to attenuate psoriasis-like dermatitis.",
         "summary": "Isolinderalactone, a new topical compound, reduces skin inflammation in psoriasis by blocking TNF-α inflammatory pathways.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41795538/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-09"
+      },
+      {
+        "id": "recTrA2vVIx6tR5yq",
+        "title": "Dual-targeting strategies for cancer and diabetes: Converging pharmacological pathways and repurposed therapies.",
+        "summary": "Researchers propose treating cancer and type 2 diabetes simultaneously using shared drug targets like metformin to address their interconnected biological pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41795462/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -197,20 +211,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-07"
-      },
-      {
-        "id": "rec8dxjvM9RLfiC82",
-        "title": "Unraveling the therapeutic potential of Elaeagnus angustifolia extract on triple-negative breast cancer (TNBC): An investigation using zebrafish model.",
-        "summary": "Elaeagnus angustifolia extract safely reduced triple-negative breast cancer cell growth in zebrafish, warranting further investigation as a potential treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41790777/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-07"
       }
     ],
     "off_label": [
@@ -221,6 +221,20 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41795823/",
         "source": "PubMed",
         "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-09"
+      },
+      {
+        "id": "recTrA2vVIx6tR5yq",
+        "title": "Dual-targeting strategies for cancer and diabetes: Converging pharmacological pathways and repurposed therapies.",
+        "summary": "Researchers propose treating cancer and type 2 diabetes simultaneously using shared drug targets like metformin to address their interconnected biological pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41795462/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "General"
         ],
@@ -408,20 +422,6 @@
           "Leukemia"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-07"
-      },
-      {
-        "id": "recFj48pCxhmE6aaT",
-        "title": "Decreased potential for lymphatic vessel generation is a hallmark of early diagnosed arterial hypertension and can be reversed by treatment with angiotensin converting enzyme inhibitors.",
-        "summary": "ACE inhibitor treatment restores the body's ability to generate lymphatic vessels in hypertensive patients, improving kidney function and vascular health.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41786818/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-07"
       }
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9855,
+    "archive_count": 9856,
     "archive_supplements": 1140,
     "archive_off_label": 404,
-    "archive_biomarkers": 5851,
+    "archive_biomarkers": 5852,
     "archive_trials": 2163
   }
 }
