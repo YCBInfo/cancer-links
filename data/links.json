@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-09T04:11:18.483Z",
+  "last_updated": "2026-03-09T04:11:39.383Z",
   "categories": {
     "supplements": [
       {
@@ -21,6 +21,20 @@
         "title": "A natural nephroprotective adjuvant for cancer chemotherapy: Rosmarinic acid disrupts IL-17 A-Ferroptosis coupling in Ifosfamide-induced renal injury.",
         "summary": "Rosmarinic acid protects against kidney damage from cancer chemotherapy drug Ifosfamide by blocking inflammation-related cell death pathways.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41795721/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-09"
+      },
+      {
+        "id": "recymYWNeWcPlT70z",
+        "title": "Isolinderalactone targets TNF-α/STAT3 inflammatory pathways to attenuate psoriasis-like dermatitis.",
+        "summary": "Isolinderalactone, a new topical compound, reduces skin inflammation in psoriasis by blocking TNF-α inflammatory pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41795538/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -195,20 +209,6 @@
           "Breast"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-07"
-      },
-      {
-        "id": "rec2PK5GLrwh1pQKk",
-        "title": "Tu-Si-Zi-Wan reduces D-galactose-induced hepatic and cerebral oxidative damage in aging mice via the Nrf2/ARE pathway.",
-        "summary": "Tu-Si-Zi-Wan, a traditional Chinese formula, reduces aging-related liver and brain damage in mice by activating antioxidant protective pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41790377/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-07"
       }
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9854,
+    "archive_count": 9855,
     "archive_supplements": 1140,
     "archive_off_label": 404,
-    "archive_biomarkers": 5850,
+    "archive_biomarkers": 5851,
     "archive_trials": 2163
   }
 }
