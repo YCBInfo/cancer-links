@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-03-09T04:03:52.280Z",
+  "last_updated": "2026-03-09T04:04:02.195Z",
   "categories": {
     "supplements": [
+      {
+        "id": "recOtJIkmGx3rMPzD",
+        "title": "Exercise inhibits proliferation and induces apoptosis of lung adenocarcinoma cells via the POU2F2-SPOCD1-PI3K/AKT signaling axis.",
+        "summary": "Exercise stops lung cancer cell growth and triggers their death through a specific molecular pathway involving three key proteins.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41795741/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-09"
+      },
       {
         "id": "rec20NAJ83v2KtxEd",
         "title": "Integrative metabolomics and network pharmacology reveal the antifibrotic mechanisms of Gurigumu-13 in a rat model of hepatic fibrosis.",
@@ -193,20 +207,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-07"
-      },
-      {
-        "id": "recCAUZYy3EpS2x1I",
-        "title": "Exercise and Phellodendron amurense extract differentially impinge on oxidative stress response pathways in a mouse model of prostate cancer.",
-        "summary": "Exercise and Phellodendron amurense extract both reduce aggressive prostate tumors in mice by differently targeting oxidative stress pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41787055/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Prostate"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -540,6 +540,20 @@
         "added_date": "2026-03-09"
       },
       {
+        "id": "recOtJIkmGx3rMPzD",
+        "title": "Exercise inhibits proliferation and induces apoptosis of lung adenocarcinoma cells via the POU2F2-SPOCD1-PI3K/AKT signaling axis.",
+        "summary": "Exercise stops lung cancer cell growth and triggers their death through a specific molecular pathway involving three key proteins.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41795741/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-09"
+      },
+      {
         "id": "rech01x9yPfCJ0B7s",
         "title": "B cells and humoral immunity in melanoma: regulatory and autoimmune-like features and implications for immunotherapy.",
         "summary": "B cells regulate melanoma progression and immunotherapy response through both immune-suppressive and tumor-fighting mechanisms, offering new treatment targets.",
@@ -621,20 +635,6 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-02-01",
-        "added_date": "2026-03-08"
-      },
-      {
-        "id": "recoG5EoDWe4cVNC3",
-        "title": "Importance of magnetic resonance in the diagnosis of pleomorphic parotid adenoma. Clinical case series.",
-        "summary": "MRI effectively identifies pleomorphic adenoma, the most common benign parotid tumor, using specialized imaging techniques.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41793728/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
         "added_date": "2026-03-08"
       }
     ],
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9814,
+    "archive_count": 9815,
     "archive_supplements": 1138,
     "archive_off_label": 403,
-    "archive_biomarkers": 5816,
+    "archive_biomarkers": 5817,
     "archive_trials": 2160
   }
 }
