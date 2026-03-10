@@ -1,7 +1,35 @@
 {
-  "last_updated": "2026-03-09T09:03:15.223Z",
+  "last_updated": "2026-03-10T06:02:22.947Z",
   "categories": {
     "supplements": [
+      {
+        "id": "recoHNZVKZjVKvdpv",
+        "title": "Baicalein downregulates kinase-based and estrogen signaling pathways in breast cancer stem cells: an integrated bioinformatics and gene expression study.",
+        "summary": "Baicalein, a plant compound, suppresses key genes and pathways that promote breast cancer stem cell survival and drug resistance.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41800211/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-10"
+      },
+      {
+        "id": "recI9qFlXCrQmRQXc",
+        "title": "Broccoli-mediated biogenic gold/platinum nanohybrid for antimicrobial, antioxidant, antidiabetic, anticancer, and wound healing applications.",
+        "summary": "Broccoli-derived gold/platinum nanoparticles selectively kill liver cancer cells while sparing normal cells and accelerate wound healing.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41798226/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-10"
+      },
       {
         "id": "recOtJIkmGx3rMPzD",
         "title": "Exercise inhibits proliferation and induces apoptosis of lung adenocarcinoma cells via the POU2F2-SPOCD1-PI3K/AKT signaling axis.",
@@ -181,34 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-08"
-      },
-      {
-        "id": "recuin9BOPjMm4M8x",
-        "title": "Effect of vitamin D replacement on nutritional status and muscle strength in patients after allogeneic stem cell transplantation and chronic graft-versus-host disease.",
-        "summary": "Vitamin D replacement therapy improved muscle strength and nutritional status in blood cancer patients recovering from stem cell transplants.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41794390/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-08"
-      },
-      {
-        "id": "recQ4ScaA9VWcUpyB",
-        "title": "A resveratrol derivative RVX-208 inhibits PD-1/PD-L1 to restrain non-small cell lung cancer as an immunotherapy.",
-        "summary": "RVX-208, a resveratrol derivative, enhances immune attack on non-small cell lung cancer by reducing PD-1 and PD-L1 levels.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41794263/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 29,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-08"
       }
@@ -428,6 +428,76 @@
     ],
     "biomarkers": [
       {
+        "id": "recA2mS3R2SBiGb6H",
+        "title": "Screening of peptide inhibitors targeting YAP-TEAD4 interaction: affinity evaluation and anti-AML cell activity.",
+        "summary": "Researchers identified a peptide that blocks a protein interaction driving acute myeloid leukemia, successfully reducing cancer cell growth in laboratory tests.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41800759/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-10"
+      },
+      {
+        "id": "recoHNZVKZjVKvdpv",
+        "title": "Baicalein downregulates kinase-based and estrogen signaling pathways in breast cancer stem cells: an integrated bioinformatics and gene expression study.",
+        "summary": "Baicalein, a plant compound, suppresses key genes and pathways that promote breast cancer stem cell survival and drug resistance.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41800211/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-10"
+      },
+      {
+        "id": "recI9qFlXCrQmRQXc",
+        "title": "Broccoli-mediated biogenic gold/platinum nanohybrid for antimicrobial, antioxidant, antidiabetic, anticancer, and wound healing applications.",
+        "summary": "Broccoli-derived gold/platinum nanoparticles selectively kill liver cancer cells while sparing normal cells and accelerate wound healing.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41798226/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-10"
+      },
+      {
+        "id": "receg8C1BcX5j3dCs",
+        "title": "Adhesion forces between macrophages and cancer cells promote early tumor development.",
+        "summary": "Physical adhesion forces between macrophages and lung cancer cells drive early tumor growth through integrin interactions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41802049/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-10"
+      },
+      {
+        "id": "rec8s3vpkcoDKyaXY",
+        "title": "Can micro-CT distinguish between solid lung tumors? A comparative evaluation including solid adenocarcinoma, non-keratinizing squamous cell carcinoma, and carcinoid tumor.",
+        "summary": "Micro-CT imaging shows promise for distinguishing between three types of solid lung tumors without requiring immunohistochemistry tests.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41802710/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-10"
+      },
+      {
         "id": "recUdcFM5wG2fReEI",
         "title": "Associations of breast DNA methylation-based measures of biological ageing with obesity-related breast cancer risk markers.",
         "summary": "Breast tissue's biological age markers show associations with obesity-related metabolic factors that may influence breast cancer risk.",
@@ -564,76 +634,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-09"
-      },
-      {
-        "id": "rec25SrAFN1qzLOX8",
-        "title": "A natural nephroprotective adjuvant for cancer chemotherapy: Rosmarinic acid disrupts IL-17 A-Ferroptosis coupling in Ifosfamide-induced renal injury.",
-        "summary": "Rosmarinic acid protects against kidney damage from cancer chemotherapy drug Ifosfamide by blocking inflammation-related cell death pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41795721/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-09"
-      },
-      {
-        "id": "recKPER8ntMheaQXr",
-        "title": "Novel Resorcinol Dibenzyl Ether-Based PD-L1 Inhibitors Modulate Lipid Metabolism for Enhanced Tumor Immunotherapy.",
-        "summary": "Researchers developed a new compound (ZQ8) that blocks PD-L1 and reduces tumor-promoting lipid buildup, achieving 86% tumor growth inhibition in liver cancer mouse models.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41795649/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-09"
-      },
-      {
-        "id": "recVGquferRqpnFiL",
-        "title": "GeoMx and RNAscope: A Comparative Assessment of Their Utility for Spatial mRNA Expression Profiling in Formalin-Fixed Breast Cancer Tissue.",
-        "summary": "GeoMx and RNAscope show strong correlation for measuring gene expression in breast cancer tissue, each offering distinct advantages in sensitivity and multiplexing capability.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41795633/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-09"
-      },
-      {
-        "id": "recGrcU1KzvMJ1Mcu",
-        "title": "BMPR2 Splice-Site Variant in a Patient With Pulmonary Arteriovenous Malformation and Delayed-Onset Pulmonary Arterial Hypertension: A Case Report and Mechanistic Phenocopy Hypothesis.",
-        "summary": "A BMPR2 gene variant linked to heart disease was found in a patient with lung blood vessel malformations, suggesting a new disease mechanism beyond known genetic conditions.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41795626/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-09"
-      },
-      {
-        "id": "recGU3bBk3oQq3iOh",
-        "title": "Diagnostic Performance of CT, MRI, and ERUS in Preoperative T- and N-Staging of Colorectal Cancer: A Retrospective Single-Center Analysis.",
-        "summary": "CT, MRI, and ultrasound imaging were compared to determine which best predicts colorectal cancer spread before surgery.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41795028/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-09"
       }
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9879,
+    "archive_count": 9880,
     "archive_supplements": 1146,
     "archive_off_label": 404,
-    "archive_biomarkers": 5863,
+    "archive_biomarkers": 5864,
     "archive_trials": 2169
   }
 }
