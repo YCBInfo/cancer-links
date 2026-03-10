@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-10T06:08:32.871Z",
+  "last_updated": "2026-03-10T06:08:43.444Z",
   "categories": {
     "supplements": [
       {
@@ -794,6 +794,20 @@
         "added_date": "2026-03-10"
       },
       {
+        "id": "recUDZ04E8pb2Uqog",
+        "title": "Radiomics-driven prediction of pathologic complete response in non-mass breast cancer using post-neoadjuvant chemotherapy preoperative dynamic contrast-enhanced magnetic resonance imaging.",
+        "summary": "Researchers developed a computer analysis tool using MRI scans to predict which non-mass breast cancer patients will completely respond to chemotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41797338/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-10"
+      },
+      {
         "id": "rectxhFLnkvY5yXJ2",
         "title": "Validation of the 9th Edition of the UICC TNM classification and the prognostic impact of nodal spread in salivary gland cancer.",
         "summary": "The updated TNM classification for salivary gland cancer better predicts patient outcomes by improving how lymph node involvement is categorized.",
@@ -834,20 +848,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-09"
-      },
-      {
-        "id": "recKPER8ntMheaQXr",
-        "title": "Novel Resorcinol Dibenzyl Ether-Based PD-L1 Inhibitors Modulate Lipid Metabolism for Enhanced Tumor Immunotherapy.",
-        "summary": "Researchers developed a new compound (ZQ8) that blocks PD-L1 and reduces tumor-promoting lipid buildup, achieving 86% tumor growth inhibition in liver cancer mouse models.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41795649/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-09"
       }
     ]
   },
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9913,
+    "archive_count": 9914,
     "archive_supplements": 1158,
     "archive_off_label": 405,
-    "archive_biomarkers": 5879,
+    "archive_biomarkers": 5880,
     "archive_trials": 2174
   }
 }
