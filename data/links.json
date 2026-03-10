@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-10T06:03:42.957Z",
+  "last_updated": "2026-03-10T06:03:53.107Z",
   "categories": {
     "supplements": [
       {
@@ -568,6 +568,20 @@
         "added_date": "2026-03-10"
       },
       {
+        "id": "rec1c4hIluS8HtgRO",
+        "title": "A self-amplifying cuproptosis nanomedicine to overcome immunosuppression by blocking tumor-derived exosomes for enhancing lung cancer immunotherapy.",
+        "summary": "A new nanoparticle treatment blocks tumor exosomes and triggers copper-induced cell death, enhancing immune responses against lung cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41485488/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-10"
+      },
+      {
         "id": "recUdcFM5wG2fReEI",
         "title": "Associations of breast DNA methylation-based measures of biological ageing with obesity-related breast cancer risk markers.",
         "summary": "Breast tissue's biological age markers show associations with obesity-related metabolic factors that may influence breast cancer risk.",
@@ -620,20 +634,6 @@
           "Bladder"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-09"
-      },
-      {
-        "id": "rectxhFLnkvY5yXJ2",
-        "title": "Validation of the 9th Edition of the UICC TNM classification and the prognostic impact of nodal spread in salivary gland cancer.",
-        "summary": "The updated TNM classification for salivary gland cancer better predicts patient outcomes by improving how lymph node involvement is categorized.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41795756/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-09"
       }
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9887,
+    "archive_count": 9888,
     "archive_supplements": 1149,
     "archive_off_label": 405,
-    "archive_biomarkers": 5867,
+    "archive_biomarkers": 5868,
     "archive_trials": 2169
   }
 }
