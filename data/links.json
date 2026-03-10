@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-10T06:03:53.107Z",
+  "last_updated": "2026-03-10T06:04:03.664Z",
   "categories": {
     "supplements": [
       {
@@ -582,6 +582,20 @@
         "added_date": "2026-03-10"
       },
       {
+        "id": "recGtD1WFG6LBXuHo",
+        "title": "Pulmonary delivery of glycine-induced outer membrane vesicles as in situ vaccines for metastatic lung cancer.",
+        "summary": "Inhaled vaccine made from bacterial particles successfully suppressed metastatic lung cancer by boosting immune cells to attack tumors.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41455501/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-10"
+      },
+      {
         "id": "recUdcFM5wG2fReEI",
         "title": "Associations of breast DNA methylation-based measures of biological ageing with obesity-related breast cancer risk markers.",
         "summary": "Breast tissue's biological age markers show associations with obesity-related metabolic factors that may influence breast cancer risk.",
@@ -618,20 +632,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-09"
-      },
-      {
-        "id": "recAs4Iz2A4upQWVc",
-        "title": "Comparative genomic landscape of primary and metastatic bladder urothelial carcinoma in a large-scale cohort.",
-        "summary": "Researchers compared genetic changes between primary and metastatic bladder cancer to identify differences affecting survival outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41795757/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Bladder"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9888,
+    "archive_count": 9889,
     "archive_supplements": 1149,
     "archive_off_label": 405,
-    "archive_biomarkers": 5868,
+    "archive_biomarkers": 5869,
     "archive_trials": 2169
   }
 }
