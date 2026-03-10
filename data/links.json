@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-10T06:08:22.156Z",
+  "last_updated": "2026-03-10T06:08:32.871Z",
   "categories": {
     "supplements": [
       {
@@ -780,6 +780,20 @@
         "added_date": "2026-03-10"
       },
       {
+        "id": "reciPlMd42RLYqhL9",
+        "title": "Dihydropyrimidine dehydrogenase (DPYD) genetic testing and treatment with 5-fluoropyrimidines in cancer patients: prevalence of variants with decreased activity and chemotherapy outcomes.",
+        "summary": "Genetic testing for DPYD variants can identify cancer patients at risk of dangerous reactions to common chemotherapy drugs.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41797628/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-10"
+      },
+      {
         "id": "rectxhFLnkvY5yXJ2",
         "title": "Validation of the 9th Edition of the UICC TNM classification and the prognostic impact of nodal spread in salivary gland cancer.",
         "summary": "The updated TNM classification for salivary gland cancer better predicts patient outcomes by improving how lymph node involvement is categorized.",
@@ -834,20 +848,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-09"
-      },
-      {
-        "id": "recGrcU1KzvMJ1Mcu",
-        "title": "BMPR2 Splice-Site Variant in a Patient With Pulmonary Arteriovenous Malformation and Delayed-Onset Pulmonary Arterial Hypertension: A Case Report and Mechanistic Phenocopy Hypothesis.",
-        "summary": "A BMPR2 gene variant linked to heart disease was found in a patient with lung blood vessel malformations, suggesting a new disease mechanism beyond known genetic conditions.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41795626/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-09"
       }
     ]
   },
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9912,
+    "archive_count": 9913,
     "archive_supplements": 1158,
     "archive_off_label": 405,
     "archive_biomarkers": 5879,
-    "archive_trials": 2173
+    "archive_trials": 2174
   }
 }
