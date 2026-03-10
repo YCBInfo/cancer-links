@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-10T06:05:19.946Z",
+  "last_updated": "2026-03-10T06:05:29.798Z",
   "categories": {
     "supplements": [
       {
@@ -724,6 +724,20 @@
         "added_date": "2026-03-10"
       },
       {
+        "id": "recg1ePlwTT3gnNqP",
+        "title": "Exploring DNA Damage Repair Therapeutics in Prostate Cancer beyond BRCAness.",
+        "summary": "Researchers explore DNA repair inhibitors for prostate cancer beyond BRCA mutations to improve patient selection and overcome treatment resistance.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41802124/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-10"
+      },
+      {
         "id": "rectxhFLnkvY5yXJ2",
         "title": "Validation of the 9th Edition of the UICC TNM classification and the prognostic impact of nodal spread in salivary gland cancer.",
         "summary": "The updated TNM classification for salivary gland cancer better predicts patient outcomes by improving how lymph node involvement is categorized.",
@@ -834,20 +848,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-09"
-      },
-      {
-        "id": "reczfI9EN36W8lrIF",
-        "title": "PD-L1 positivity predicts a unique hyperaggressive tumor group within MenG C meningiomas.",
-        "summary": "PD-L1 expression identifies aggressive meningioma tumors, suggesting molecular profiling should guide future immunotherapy trials for these brain cancers.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41795833/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-09"
       }
     ]
   },
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9896,
+    "archive_count": 9897,
     "archive_supplements": 1149,
     "archive_off_label": 405,
     "archive_biomarkers": 5875,
-    "archive_trials": 2170
+    "archive_trials": 2171
   }
 }
