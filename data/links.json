@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-10T06:05:09.516Z",
+  "last_updated": "2026-03-10T06:05:19.946Z",
   "categories": {
     "supplements": [
       {
@@ -39,6 +39,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-10"
+      },
+      {
+        "id": "recjMOP3ePgyhTF3P",
+        "title": "Restoration of Immune Surveillance in Prostate Cancer Prevention by Sulforaphane in Hi-Myc Mice.",
+        "summary": "Broccoli compound sulforaphane prevents prostate cancer by boosting immune cells that fight tumors in mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41802185/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Prostate"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -193,20 +207,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-08"
-      },
-      {
-        "id": "reci9v3XCl5MEBw4i",
-        "title": "Moving beyond cancer: longitudinal changes in 24-hour movement behaviors and their association with quality of life in breast cancer survivors.",
-        "summary": "Combined healthy movement behaviors—exercise, light activity, reduced sitting, and sleep—improve quality of life in breast cancer survivors.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41794784/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -710,6 +710,20 @@
         "added_date": "2026-03-10"
       },
       {
+        "id": "recjMOP3ePgyhTF3P",
+        "title": "Restoration of Immune Surveillance in Prostate Cancer Prevention by Sulforaphane in Hi-Myc Mice.",
+        "summary": "Broccoli compound sulforaphane prevents prostate cancer by boosting immune cells that fight tumors in mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41802185/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-10"
+      },
+      {
         "id": "rectxhFLnkvY5yXJ2",
         "title": "Validation of the 9th Edition of the UICC TNM classification and the prognostic impact of nodal spread in salivary gland cancer.",
         "summary": "The updated TNM classification for salivary gland cancer better predicts patient outcomes by improving how lymph node involvement is categorized.",
@@ -834,20 +848,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-09"
-      },
-      {
-        "id": "recErdRINVc57wLhN",
-        "title": "Oncolytic Adenoviral Infection of Chordoma Achieves Treatment Efficacy Associated with Immunologic Response and Tumor Microenvironmental Alteration.",
-        "summary": "A modified virus called Delta-24-RGD effectively kills chordoma cancer cells by triggering immune responses and changing the tumor environment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41795831/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-09"
       }
     ]
   },
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9895,
+    "archive_count": 9896,
     "archive_supplements": 1149,
     "archive_off_label": 405,
-    "archive_biomarkers": 5874,
+    "archive_biomarkers": 5875,
     "archive_trials": 2170
   }
 }
