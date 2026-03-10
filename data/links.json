@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-10T06:03:08.396Z",
+  "last_updated": "2026-03-10T06:03:19.022Z",
   "categories": {
     "supplements": [
       {
@@ -540,6 +540,20 @@
         "added_date": "2026-03-10"
       },
       {
+        "id": "recmLDnvB60zXf8IY",
+        "title": "Engineered virus-derived platform enables glutathione depletion and cuproptosis for enhanced cancer immunotherapy.",
+        "summary": "Engineered virus-derived peptides deplete cancer cells' protective glutathione, triggering copper-induced cell death and boosting immune response against tumors.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41544671/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-10"
+      },
+      {
         "id": "recUdcFM5wG2fReEI",
         "title": "Associations of breast DNA methylation-based measures of biological ageing with obesity-related breast cancer risk markers.",
         "summary": "Breast tissue's biological age markers show associations with obesity-related metabolic factors that may influence breast cancer risk.",
@@ -618,20 +632,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-09"
-      },
-      {
-        "id": "recOw2NnDl2WQINmO",
-        "title": "Underutilization of Genetic Counseling and Germline Testing Following Abnormal Mismatch Repair Immunohistochemistry in Colorectal Cancer.",
-        "summary": "Many colorectal cancer patients with genetic markers aren't referred for genetic counseling or testing despite being eligible.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41795745/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -857,8 +857,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9884,
-    "archive_supplements": 1148,
+    "archive_count": 9885,
+    "archive_supplements": 1149,
     "archive_off_label": 404,
     "archive_biomarkers": 5866,
     "archive_trials": 2169
