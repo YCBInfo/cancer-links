@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-10T06:02:57.987Z",
+  "last_updated": "2026-03-10T06:03:08.396Z",
   "categories": {
     "supplements": [
       {
@@ -526,6 +526,20 @@
         "added_date": "2026-03-10"
       },
       {
+        "id": "recjSyTqrGspxNgDV",
+        "title": "ROS-responsive self-immolative polymeric prodrug for nitrosative stress-mediated cancer therapy.",
+        "summary": "Researchers developed a polymer drug that activates in tumors to release nitric oxide and deplete protective molecules, triggering cancer cell death in mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41554484/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-10"
+      },
+      {
         "id": "recUdcFM5wG2fReEI",
         "title": "Associations of breast DNA methylation-based measures of biological ageing with obesity-related breast cancer risk markers.",
         "summary": "Breast tissue's biological age markers show associations with obesity-related metabolic factors that may influence breast cancer risk.",
@@ -618,20 +632,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-09"
-      },
-      {
-        "id": "recHcbGuJttdeAJBl",
-        "title": "WISP2 Overexpression Is Associated with Reduced Vasculogenic Mimicry and Epithelial-Mesenchymal Transition in Gastric Cancer.",
-        "summary": "Increasing WISP2 protein levels reduces tumor vessel formation and cancer cell spread in gastric cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41795742/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Stomach"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9883,
+    "archive_count": 9884,
     "archive_supplements": 1148,
     "archive_off_label": 404,
-    "archive_biomarkers": 5865,
+    "archive_biomarkers": 5866,
     "archive_trials": 2169
   }
 }
