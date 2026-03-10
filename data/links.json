@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-10T06:02:34.578Z",
+  "last_updated": "2026-03-10T06:02:45.289Z",
   "categories": {
     "supplements": [
       {
@@ -215,6 +215,20 @@
     ],
     "off_label": [
       {
+        "id": "rechAM3JmzlWWGJCh",
+        "title": "Fenofibrate microemulsion eyedrops for treating nitrogen mustard induced corneal injury.",
+        "summary": "Fenofibrate eyedrops effectively treat nitrogen mustard-induced corneal injury by restoring protective protein levels and reducing inflammation in rat models.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41580131/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-10"
+      },
+      {
         "id": "recTsDNPArGAjvRii",
         "title": "Metabolic, microbial, and pharmacological stimuli elicit distinct lipidomic and cytokine responses in human placenta.",
         "summary": "Different stressors trigger distinct lipid and immune responses in placental tissue, with bacterial exposure causing inflammation linked to pregnancy complications.",
@@ -408,20 +422,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-07"
-      },
-      {
-        "id": "recoT9SEkhHGcMru0",
-        "title": "The dual role of the crosstalk between autophagy and ferroptosis in lung cancer treatment: Advances in mechanisms and therapeutic strategies (Review).",
-        "summary": "Researchers found that combining autophagy and ferroptosis processes offers dual benefits for treating lung cancer through various drug combination strategies.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41789644/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-07"
       }
@@ -857,8 +857,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9881,
-    "archive_supplements": 1147,
+    "archive_count": 9882,
+    "archive_supplements": 1148,
     "archive_off_label": 404,
     "archive_biomarkers": 5864,
     "archive_trials": 2169
