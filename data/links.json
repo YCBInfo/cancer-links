@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-10T06:06:13.678Z",
+  "last_updated": "2026-03-10T06:06:24.563Z",
   "categories": {
     "supplements": [
       {
@@ -101,6 +101,20 @@
         "added_date": "2026-03-10"
       },
       {
+        "id": "recph8UbW4JNdafKJ",
+        "title": "Investigation of the impact of resveratrol on sublethal-dose ALA-PDT in glioblastoma cells.",
+        "summary": "Resveratrol combined with photodynamic therapy enhanced cancer cell death in glioblastoma, a deadly brain cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41801670/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-10"
+      },
+      {
         "id": "recOtJIkmGx3rMPzD",
         "title": "Exercise inhibits proliferation and induces apoptosis of lung adenocarcinoma cells via the POU2F2-SPOCD1-PI3K/AKT signaling axis.",
         "summary": "Exercise stops lung cancer cell growth and triggers their death through a specific molecular pathway involving three key proteins.",
@@ -195,20 +209,6 @@
           "Leukemia"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-09"
-      },
-      {
-        "id": "rec3a05BstgdyGbzu",
-        "title": "Exploring the behavioural and biochemical effects of cordycepin in PTSD-like behaviour using an early life stress mouse model.",
-        "summary": "Cordycepin, a natural compound, reduces PTSD-like symptoms in mice by decreasing brain inflammation and restoring stress hormone levels.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41795374/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-09"
       }
@@ -857,8 +857,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9901,
-    "archive_supplements": 1150,
+    "archive_count": 9902,
+    "archive_supplements": 1151,
     "archive_off_label": 405,
     "archive_biomarkers": 5877,
     "archive_trials": 2172
