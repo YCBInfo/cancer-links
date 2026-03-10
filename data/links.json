@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-10T06:04:13.951Z",
+  "last_updated": "2026-03-10T06:04:29.038Z",
   "categories": {
     "supplements": [
       {
@@ -610,6 +610,20 @@
         "added_date": "2026-03-10"
       },
       {
+        "id": "recHgCSryR5MBDAk2",
+        "title": "Microbiome and metabolite biomarkers of CAR T-cell therapy outcomes in relapsed/refractory diffuse large B-cell lymphoma.",
+        "summary": "Specific gut bacteria and metabolites may predict treatment success and side effects in CAR T-cell therapy for aggressive lymphoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41364878/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lymphoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-10"
+      },
+      {
         "id": "recUdcFM5wG2fReEI",
         "title": "Associations of breast DNA methylation-based measures of biological ageing with obesity-related breast cancer risk markers.",
         "summary": "Breast tissue's biological age markers show associations with obesity-related metabolic factors that may influence breast cancer risk.",
@@ -620,20 +634,6 @@
           "Breast"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-09"
-      },
-      {
-        "id": "recUi6asRxEgG6RZU",
-        "title": "Current and emerging pharmacotherapies for treating vascular malformations.",
-        "summary": "Researchers identified genetic pathways in vascular malformations, enabling new drug treatments as alternatives to conventional surgery.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41795787/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-09"
       }
@@ -650,6 +650,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-10"
+      },
+      {
+        "id": "recHgCSryR5MBDAk2",
+        "title": "Microbiome and metabolite biomarkers of CAR T-cell therapy outcomes in relapsed/refractory diffuse large B-cell lymphoma.",
+        "summary": "Specific gut bacteria and metabolites may predict treatment success and side effects in CAR T-cell therapy for aggressive lymphoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41364878/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lymphoma"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-10"
       },
@@ -834,20 +848,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-09"
-      },
-      {
-        "id": "rec2HpJrmXLDljIEw",
-        "title": "AI-enabled single-cell dissection of the palmitoylation landscape identifies a multicellular prognostic program in gastric cancer.",
-        "summary": "Researchers identified a protein modification pattern in gastric cancer cells that predicts poor survival and suggests new drug targets for treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41794921/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Stomach"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-09"
       }
     ]
   },
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9890,
+    "archive_count": 9891,
     "archive_supplements": 1149,
     "archive_off_label": 405,
-    "archive_biomarkers": 5869,
+    "archive_biomarkers": 5870,
     "archive_trials": 2170
   }
 }
