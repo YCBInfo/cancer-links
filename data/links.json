@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-10T09:02:34.754Z",
+  "last_updated": "2026-03-10T09:02:44.183Z",
   "categories": {
     "supplements": [
       {
@@ -257,6 +257,22 @@
         "added_date": "2026-03-10"
       },
       {
+        "id": "reccqAVCxf26RXsDy",
+        "title": "Impact of proton pump inhibitors on immunotherapy is modulated by prior chemotherapy and linked to gut microbiome-immune cell signatures.",
+        "summary": "Common heartburn drugs (PPIs) reduce immunotherapy effectiveness in advanced cancer, particularly melanoma, by altering gut bacteria.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41801404/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Lung",
+          "Melanoma",
+          "Kidney"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-10"
+      },
+      {
         "id": "recTsDNPArGAjvRii",
         "title": "Metabolic, microbial, and pharmacological stimuli elicit distinct lipidomic and cytokine responses in human placenta.",
         "summary": "Different stressors trigger distinct lipid and immune responses in placental tissue, with bacterial exposure causing inflammation linked to pregnancy complications.",
@@ -407,21 +423,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-08"
-      },
-      {
-        "id": "recQ4EDUZWUO2YOAX",
-        "title": "Sodium valproate drives propionylation-mediated epigenetic reprogramming to enhance mesothelin CAR-T cell therapy in solid tumors.",
-        "summary": "Sodium valproate improves CAR-T cell therapy for ovarian and breast cancer by enhancing cell persistence, migration, and tumor-fighting ability.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41383012/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Breast",
-          "Ovarian"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-08"
       }
@@ -857,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9997,
+    "archive_count": 9998,
     "archive_supplements": 1177,
     "archive_off_label": 407,
     "archive_biomarkers": 5910,
-    "archive_trials": 2206
+    "archive_trials": 2207
   }
 }
