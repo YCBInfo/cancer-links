@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-10T06:03:31.153Z",
+  "last_updated": "2026-03-10T06:03:42.957Z",
   "categories": {
     "supplements": [
       {
@@ -554,6 +554,20 @@
         "added_date": "2026-03-10"
       },
       {
+        "id": "recnsodbrc8OY6VyQ",
+        "title": "Bacteria-targeted dual-lock delivery for closed-loop immune modulation in colorectal cancer.",
+        "summary": "A targeted delivery system kills tumor bacteria and remodels barriers in colorectal cancer, enhancing immune cell infiltration and checkpoint immunotherapy effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41506376/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-10"
+      },
+      {
         "id": "recUdcFM5wG2fReEI",
         "title": "Associations of breast DNA methylation-based measures of biological ageing with obesity-related breast cancer risk markers.",
         "summary": "Breast tissue's biological age markers show associations with obesity-related metabolic factors that may influence breast cancer risk.",
@@ -620,20 +634,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-09"
-      },
-      {
-        "id": "recbGVjX6I46AZxSw",
-        "title": "Association of lncRNA AGAP11 with prognosis and malignant progression in triple-negative breast cancer.",
-        "summary": "A long RNA molecule called AGAP11 may help predict outcomes and progression in aggressive triple-negative breast cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41795755/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-09"
       }
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9886,
+    "archive_count": 9887,
     "archive_supplements": 1149,
     "archive_off_label": 405,
-    "archive_biomarkers": 5866,
+    "archive_biomarkers": 5867,
     "archive_trials": 2169
   }
 }
