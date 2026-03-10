@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-10T06:04:29.038Z",
+  "last_updated": "2026-03-10T06:04:35.962Z",
   "categories": {
     "supplements": [
       {
@@ -624,18 +624,18 @@
         "added_date": "2026-03-10"
       },
       {
-        "id": "recUdcFM5wG2fReEI",
-        "title": "Associations of breast DNA methylation-based measures of biological ageing with obesity-related breast cancer risk markers.",
-        "summary": "Breast tissue's biological age markers show associations with obesity-related metabolic factors that may influence breast cancer risk.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41778393/",
+        "id": "recME52czTYVZkAGe",
+        "title": "Outcomes of relapsed or refractory acute myeloid leukemia after menin inhibition failure.",
+        "summary": "Acute myeloid leukemia patients who fail menin inhibitor treatment have poor outcomes, though some respond to venetoclax-based therapy or switching menin inhibitors.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41351513/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
-          "Breast"
+          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
-        "added_date": "2026-03-09"
+        "added_date": "2026-03-10"
       }
     ],
     "trials": [
@@ -662,6 +662,20 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Lymphoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-10"
+      },
+      {
+        "id": "recME52czTYVZkAGe",
+        "title": "Outcomes of relapsed or refractory acute myeloid leukemia after menin inhibition failure.",
+        "summary": "Acute myeloid leukemia patients who fail menin inhibitor treatment have poor outcomes, though some respond to venetoclax-based therapy or switching menin inhibitors.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41351513/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -834,20 +848,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-09"
-      },
-      {
-        "id": "recYXPV29SMBSZUEB",
-        "title": "CDK4/6i reverse PARPi resistance by targeting the E2F1- MCM2/5 pathway.",
-        "summary": "CDK4/6 inhibitors restore ovarian cancer sensitivity to PARP inhibitors by blocking a protein pathway that drives drug resistance.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41795017/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Ovarian"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-09"
       }
     ]
   },
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9891,
+    "archive_count": 9892,
     "archive_supplements": 1149,
     "archive_off_label": 405,
-    "archive_biomarkers": 5870,
+    "archive_biomarkers": 5871,
     "archive_trials": 2170
   }
 }
