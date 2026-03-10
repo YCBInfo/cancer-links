@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-10T06:05:53.101Z",
+  "last_updated": "2026-03-10T06:06:01.798Z",
   "categories": {
     "supplements": [
       {
@@ -83,6 +83,20 @@
           "Colorectal"
         ],
         "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-10"
+      },
+      {
+        "id": "recp6Z88cfyUpbs4B",
+        "title": "Quercetin prevents age-related hearing loss in C57BL/6J mice by activating mitophagy and inhibiting the NLRP3 inflammasome.",
+        "summary": "Quercetin, a natural plant compound, prevented age-related hearing loss in mice by reducing inflammation and improving mitochondrial cleanup.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41801883/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-10"
       },
@@ -197,20 +211,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-09"
-      },
-      {
-        "id": "rec20NAJ83v2KtxEd",
-        "title": "Integrative metabolomics and network pharmacology reveal the antifibrotic mechanisms of Gurigumu-13 in a rat model of hepatic fibrosis.",
-        "summary": "Gurigumu-13, a herbal treatment, shows promise against liver fibrosis by targeting specific metabolic pathways that prevent scarring and cancer development.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41793636/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-08"
       }
     ],
     "off_label": [
@@ -857,8 +857,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9899,
-    "archive_supplements": 1149,
+    "archive_count": 9900,
+    "archive_supplements": 1150,
     "archive_off_label": 405,
     "archive_biomarkers": 5876,
     "archive_trials": 2172
