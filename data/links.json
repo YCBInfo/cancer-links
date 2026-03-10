@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-10T06:04:35.962Z",
+  "last_updated": "2026-03-10T06:04:48.175Z",
   "categories": {
     "supplements": [
       {
@@ -682,6 +682,20 @@
         "added_date": "2026-03-10"
       },
       {
+        "id": "reciGMiZG9o0QruAR",
+        "title": "Real-world comparative effectiveness of Bruton tyrosine kinase inhibitors in relapsed/refractory mantle cell lymphoma.",
+        "summary": "Zanubrutinib showed longer survival benefits compared to ibrutinib in relapsed/refractory mantle cell lymphoma patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41269777/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Lymphoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-10"
+      },
+      {
         "id": "rectxhFLnkvY5yXJ2",
         "title": "Validation of the 9th Edition of the UICC TNM classification and the prognostic impact of nodal spread in salivary gland cancer.",
         "summary": "The updated TNM classification for salivary gland cancer better predicts patient outcomes by improving how lymph node involvement is categorized.",
@@ -834,20 +848,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-09"
-      },
-      {
-        "id": "recFtFDehG3qx8y83",
-        "title": "Chronic graft-versus-host disease: Current situation and unmet needs - A European position statement.",
-        "summary": "Chronic graft-versus-host disease remains a major problem after blood stem cell transplants, and new drugs show promise but better treatments and diagnostic tools are urgently needed.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41795054/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-09"
       }
     ]
   },
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9892,
+    "archive_count": 9893,
     "archive_supplements": 1149,
     "archive_off_label": 405,
-    "archive_biomarkers": 5871,
+    "archive_biomarkers": 5872,
     "archive_trials": 2170
   }
 }
