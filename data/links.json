@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-10T06:02:45.289Z",
+  "last_updated": "2026-03-10T06:02:57.987Z",
   "categories": {
     "supplements": [
       {
@@ -512,6 +512,20 @@
         "added_date": "2026-03-10"
       },
       {
+        "id": "rec5cpMMpolWP0bhQ",
+        "title": "Self-assembled multicomponent prodrugs with GSH/ROS site-responsiveness enable spatiotemporally controlled release for treating resistant NSCLC.",
+        "summary": "A three-drug nanoparticle overcomes lung cancer resistance by simultaneously disrupting microtubules, inhibiting DNA repair, and damaging mitochondria.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41580127/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-10"
+      },
+      {
         "id": "recUdcFM5wG2fReEI",
         "title": "Associations of breast DNA methylation-based measures of biological ageing with obesity-related breast cancer risk markers.",
         "summary": "Breast tissue's biological age markers show associations with obesity-related metabolic factors that may influence breast cancer risk.",
@@ -618,20 +632,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Stomach"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-09"
-      },
-      {
-        "id": "recOtJIkmGx3rMPzD",
-        "title": "Exercise inhibits proliferation and induces apoptosis of lung adenocarcinoma cells via the POU2F2-SPOCD1-PI3K/AKT signaling axis.",
-        "summary": "Exercise stops lung cancer cell growth and triggers their death through a specific molecular pathway involving three key proteins.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41795741/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9882,
+    "archive_count": 9883,
     "archive_supplements": 1148,
     "archive_off_label": 404,
-    "archive_biomarkers": 5864,
+    "archive_biomarkers": 5865,
     "archive_trials": 2169
   }
 }
