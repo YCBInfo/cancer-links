@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-10T06:05:40.872Z",
+  "last_updated": "2026-03-10T06:05:53.101Z",
   "categories": {
     "supplements": [
       {
@@ -69,6 +69,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-10"
+      },
+      {
+        "id": "rectVzhRgNeAh1nRN",
+        "title": "Integrative network pharmacology and machine learning identify potential targets of indole-3-lactic acid in colorectal cancer.",
+        "summary": "Researchers identified four genes that indole-3-lactic acid, a gut bacteria metabolite, may target to fight colorectal cancer through multiple pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41801955/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-10"
       },
@@ -195,20 +209,6 @@
           "Liver"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-08"
-      },
-      {
-        "id": "recWRSmtTBQSJnDJl",
-        "title": "Dose matters: a dose-stratified real-world analysis of magnesium sulfate in preventing cisplatin-induced nephrotoxicity.",
-        "summary": "Magnesium sulfate doses vary in protecting kidneys from cisplatin chemotherapy damage, with long-term effects still unclear.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41793516/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-08"
       }
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9898,
+    "archive_count": 9899,
     "archive_supplements": 1149,
     "archive_off_label": 405,
     "archive_biomarkers": 5876,
-    "archive_trials": 2171
+    "archive_trials": 2172
   }
 }
