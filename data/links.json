@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-10T06:04:58.326Z",
+  "last_updated": "2026-03-10T06:05:09.516Z",
   "categories": {
     "supplements": [
       {
@@ -696,6 +696,20 @@
         "added_date": "2026-03-10"
       },
       {
+        "id": "recg4fQOTKkHjydNM",
+        "title": "First-in-human phase 1 study of RO7119929, an oral TLR7 agonist prodrug, in patients with advanced primary or metastatic liver cancers.",
+        "summary": "RO7119929, an oral drug that activates immune cells in the liver, shows promise in early testing for advanced liver cancer patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41802810/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-10"
+      },
+      {
         "id": "rectxhFLnkvY5yXJ2",
         "title": "Validation of the 9th Edition of the UICC TNM classification and the prognostic impact of nodal spread in salivary gland cancer.",
         "summary": "The updated TNM classification for salivary gland cancer better predicts patient outcomes by improving how lymph node involvement is categorized.",
@@ -834,20 +848,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-09"
-      },
-      {
-        "id": "recHOsbOsIg4qqwGN",
-        "title": "Cyclin-dependent kinases as therapeutic targets in cancer: Recent advances, challenges, and opportunities.",
-        "summary": "CDK inhibitors, especially targeting CDK4/6 and CDK2, show promise in breast cancer and may enhance immunotherapy when combined.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41795212/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-09"
       }
     ]
   },
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9894,
+    "archive_count": 9895,
     "archive_supplements": 1149,
     "archive_off_label": 405,
-    "archive_biomarkers": 5873,
+    "archive_biomarkers": 5874,
     "archive_trials": 2170
   }
 }
