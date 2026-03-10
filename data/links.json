@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-10T06:03:19.022Z",
+  "last_updated": "2026-03-10T06:03:31.153Z",
   "categories": {
     "supplements": [
       {
@@ -640,6 +640,20 @@
     ],
     "trials": [
       {
+        "id": "rech3z0AnOfspDtVY",
+        "title": "Hybrid microneedle patch for administration of measles and rubella vaccine with an on-patient medical record.",
+        "summary": "Researchers created microneedle patches that deliver measles and rubella vaccines while invisibly storing medical records in skin using near-infrared particles.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41544667/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-10"
+      },
+      {
         "id": "rectxhFLnkvY5yXJ2",
         "title": "Validation of the 9th Edition of the UICC TNM classification and the prognostic impact of nodal spread in salivary gland cancer.",
         "summary": "The updated TNM classification for salivary gland cancer better predicts patient outcomes by improving how lymph node involvement is categorized.",
@@ -834,20 +848,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-09"
-      },
-      {
-        "id": "recuEMoRVWND0vBEx",
-        "title": "DNA Repair gene alterations and efficacy from gemcitabine and nab-paclitaxel with/without durvalumab and tremelimumab in metastatic pancreatic ductal adenocarcinoma.",
-        "summary": "Pancreatic cancer patients with multiple DNA repair gene mutations showed significantly better survival when treated with chemotherapy plus immunotherapy versus chemotherapy alone.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41794844/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 18,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-09"
       }
     ]
   },
@@ -857,9 +857,9 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 9885,
+    "archive_count": 9886,
     "archive_supplements": 1149,
-    "archive_off_label": 404,
+    "archive_off_label": 405,
     "archive_biomarkers": 5866,
     "archive_trials": 2169
   }
