@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-11T06:06:51.579Z",
+  "last_updated": "2026-03-11T06:07:02.205Z",
   "categories": {
     "supplements": [
       {
@@ -159,6 +159,20 @@
         "added_date": "2026-03-11"
       },
       {
+        "id": "recwI3rnrDqtUSFqU",
+        "title": "Gomisin B promotes RSL3-induced ferroptosis in neuroblastoma by inhibiting the ESR1/USP7/SREBF1 axis.",
+        "summary": "Gomisin B kills neuroblastoma cells by blocking a protein pathway that normally prevents iron-related cell death.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41803566/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-11"
+      },
+      {
         "id": "recoHNZVKZjVKvdpv",
         "title": "Baicalein downregulates kinase-based and estrogen signaling pathways in breast cancer stem cells: an integrated bioinformatics and gene expression study.",
         "summary": "Baicalein, a plant compound, suppresses key genes and pathways that promote breast cancer stem cell survival and drug resistance.",
@@ -195,20 +209,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-10"
-      },
-      {
-        "id": "recjMOP3ePgyhTF3P",
-        "title": "Restoration of Immune Surveillance in Prostate Cancer Prevention by Sulforaphane in Hi-Myc Mice.",
-        "summary": "Broccoli compound sulforaphane prevents prostate cancer by boosting immune cells that fight tumors in mice.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41802185/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Prostate"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -860,10 +860,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10199,
+    "archive_count": 10200,
     "archive_supplements": 1187,
     "archive_off_label": 410,
-    "archive_biomarkers": 6062,
+    "archive_biomarkers": 6063,
     "archive_trials": 2243
   }
 }
