@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-11T04:03:22.172Z",
+  "last_updated": "2026-03-11T04:03:43.407Z",
   "categories": {
     "supplements": [
       {
@@ -513,6 +513,34 @@
         "added_date": "2026-03-11"
       },
       {
+        "id": "recgFXrfAYxpHqW57",
+        "title": "Elevated phthalate exposure and metabolic susceptibility increased breast cancer risk: A 20-y follow-up study in Taiwan.",
+        "summary": "High exposure to DEHP phthalates increases breast cancer risk, especially combined with early menstruation onset, in this 20-year Taiwan study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41802041/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-11"
+      },
+      {
+        "id": "rec9K3M473g4KgBv0",
+        "title": "FGTI-2734 prevents ERK-mediated resistance and enhances MRTX1133 efficacy in KRAS G12D pancreatic cancer.",
+        "summary": "A new drug combination overcomes resistance to KRAS pancreatic cancer treatment by blocking an escape pathway that cancer cells use.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41722442/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Pancreatic"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-11"
+      },
+      {
         "id": "recA2mS3R2SBiGb6H",
         "title": "Screening of peptide inhibitors targeting YAP-TEAD4 interaction: affinity evaluation and anti-AML cell activity.",
         "summary": "Researchers identified a peptide that blocks a protein interaction driving acute myeloid leukemia, successfully reducing cancer cell growth in laboratory tests.",
@@ -609,34 +637,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-10"
-      },
-      {
-        "id": "recjSyTqrGspxNgDV",
-        "title": "ROS-responsive self-immolative polymeric prodrug for nitrosative stress-mediated cancer therapy.",
-        "summary": "Researchers developed a polymer drug that activates in tumors to release nitric oxide and deplete protective molecules, triggering cancer cell death in mice.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41554484/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-10"
-      },
-      {
-        "id": "recmLDnvB60zXf8IY",
-        "title": "Engineered virus-derived platform enables glutathione depletion and cuproptosis for enhanced cancer immunotherapy.",
-        "summary": "Engineered virus-derived peptides deplete cancer cells' protective glutathione, triggering copper-induced cell death and boosting immune response against tumors.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41544671/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-10"
       }
     ],
     "trials": [
@@ -651,6 +651,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-11"
+      },
+      {
+        "id": "rec9K3M473g4KgBv0",
+        "title": "FGTI-2734 prevents ERK-mediated resistance and enhances MRTX1133 efficacy in KRAS G12D pancreatic cancer.",
+        "summary": "A new drug combination overcomes resistance to KRAS pancreatic cancer treatment by blocking an escape pathway that cancer cells use.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41722442/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Pancreatic"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-11"
       },
@@ -835,20 +849,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-10"
-      },
-      {
-        "id": "recJ4abAmZr4qApNw",
-        "title": "Lung-Accumulating Mucin 5AC Silencing by Noninflammatory Lipid Nanoparticles for Asthma Treatment.",
-        "summary": "Researchers developed special nanoparticles that safely silence mucus-producing genes, effectively treating asthma and related lung diseases in mouse models.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41797405/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-10"
       }
     ]
   },
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10018,
+    "archive_count": 10019,
     "archive_supplements": 1178,
     "archive_off_label": 408,
-    "archive_biomarkers": 5924,
+    "archive_biomarkers": 5925,
     "archive_trials": 2211
   }
 }
