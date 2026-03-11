@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-03-11T04:07:21.850Z",
+  "last_updated": "2026-03-11T04:07:32.402Z",
   "categories": {
     "supplements": [
+      {
+        "id": "recWbGLJ42gdQuUZd",
+        "title": "Icaritin Sensitizes Hepatocellular Carcinoma to PD-L1 Therapy by NQO1-Dependent Ferroptosis Induction.",
+        "summary": "Icaritin makes liver cancer cells more vulnerable to immune therapy by triggering a cell death process and boosting natural killer immune cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41806164/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-11"
+      },
       {
         "id": "recoHNZVKZjVKvdpv",
         "title": "Baicalein downregulates kinase-based and estrogen signaling pathways in breast cancer stem cells: an integrated bioinformatics and gene expression study.",
@@ -195,20 +209,6 @@
           "Colorectal"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-10"
-      },
-      {
-        "id": "recdUex89pAeqvh1t",
-        "title": "Flavonoids and polycystic ovary syndrome.",
-        "summary": "Flavonoids from plants may safely treat PCOS by reducing inflammation, lowering androgen levels, and improving fertility without current medication side effects.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41711693/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-10"
       }
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10039,
+    "archive_count": 10040,
     "archive_supplements": 1178,
     "archive_off_label": 408,
-    "archive_biomarkers": 5941,
+    "archive_biomarkers": 5942,
     "archive_trials": 2215
   }
 }
