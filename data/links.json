@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-11T06:02:37.466Z",
+  "last_updated": "2026-03-11T06:02:50.574Z",
   "categories": {
     "supplements": [
       {
@@ -85,6 +85,20 @@
           "Colorectal"
         ],
         "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-11"
+      },
+      {
+        "id": "recgbLIXybvYDJPNb",
+        "title": "Comparison of hydrogen administration methods in the treatment of radiation-induced heart disease in rats.",
+        "summary": "Molecular hydrogen, administered via water or inhalation, reduced radiation-induced heart damage in rats by decreasing oxidative stress and inflammation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41806364/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-11"
       },
@@ -197,20 +211,6 @@
           "Brain"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-10"
-      },
-      {
-        "id": "recsTsRgPWr4yN9Nu",
-        "title": "Integrated computational, pharmacological and molecular investigations of piperitone in mitigating Alzheimer disease pathology by targeting cholinesterases, β-secretase and neuroinflammation.",
-        "summary": "Piperitone, a natural compound, showed promise for Alzheimer's disease by reducing brain inflammation, improving memory, and protecting neurons through multiple mechanisms.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41801601/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-10"
       }
@@ -860,10 +860,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10178,
+    "archive_count": 10179,
     "archive_supplements": 1184,
     "archive_off_label": 410,
-    "archive_biomarkers": 6050,
+    "archive_biomarkers": 6051,
     "archive_trials": 2237
   }
 }
