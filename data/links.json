@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-11T04:02:59.362Z",
+  "last_updated": "2026-03-11T04:03:10.266Z",
   "categories": {
     "supplements": [
       {
@@ -485,6 +485,20 @@
         "added_date": "2026-03-11"
       },
       {
+        "id": "reclZiDpJbzxdI7kS",
+        "title": "The membrane-associated ubiquitin ligase MARCHF8 degrades MHC-I in HPV-positive head and neck cancer for immune evasion.",
+        "summary": "HPV-positive head and neck cancer uses a protein called MARCHF8 to hide from immune cells; blocking it restores immune detection and tumor control.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41802050/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-11"
+      },
+      {
         "id": "recA2mS3R2SBiGb6H",
         "title": "Screening of peptide inhibitors targeting YAP-TEAD4 interaction: affinity evaluation and anti-AML cell activity.",
         "summary": "Researchers identified a peptide that blocks a protein interaction driving acute myeloid leukemia, successfully reducing cancer cell growth in laboratory tests.",
@@ -619,20 +633,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-10"
-      },
-      {
-        "id": "rec1c4hIluS8HtgRO",
-        "title": "A self-amplifying cuproptosis nanomedicine to overcome immunosuppression by blocking tumor-derived exosomes for enhancing lung cancer immunotherapy.",
-        "summary": "A new nanoparticle treatment blocks tumor exosomes and triggers copper-induced cell death, enhancing immune responses against lung cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41485488/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10016,
+    "archive_count": 10017,
     "archive_supplements": 1178,
     "archive_off_label": 408,
-    "archive_biomarkers": 5922,
+    "archive_biomarkers": 5923,
     "archive_trials": 2211
   }
 }
