@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-11T04:03:58.072Z",
+  "last_updated": "2026-03-11T04:04:08.391Z",
   "categories": {
     "supplements": [
       {
@@ -683,6 +683,20 @@
         "added_date": "2026-03-11"
       },
       {
+        "id": "reckhlVfGqb28Ab7z",
+        "title": "Perioperative treatment in resectable gastric cancer with spartalizumab in combination with fluorouracil, leucovorin, oxaliplatin and docetaxel (FLOT): Results from the GASPAR phase 2 study.",
+        "summary": "Adding the immune drug spartalizumab to standard gastric cancer chemotherapy (FLOT) improved treatment outcomes in resectable patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41653501/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-11"
+      },
+      {
         "id": "rech3z0AnOfspDtVY",
         "title": "Hybrid microneedle patch for administration of measles and rubella vaccine with an on-patient medical record.",
         "summary": "Researchers created microneedle patches that deliver measles and rubella vaccines while invisibly storing medical records in skin using near-infrared particles.",
@@ -835,20 +849,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-10"
-      },
-      {
-        "id": "recUDZ04E8pb2Uqog",
-        "title": "Radiomics-driven prediction of pathologic complete response in non-mass breast cancer using post-neoadjuvant chemotherapy preoperative dynamic contrast-enhanced magnetic resonance imaging.",
-        "summary": "Researchers developed a computer analysis tool using MRI scans to predict which non-mass breast cancer patients will completely respond to chemotherapy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41797338/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-10"
       }
     ]
   },
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10020,
+    "archive_count": 10021,
     "archive_supplements": 1178,
     "archive_off_label": 408,
-    "archive_biomarkers": 5926,
+    "archive_biomarkers": 5927,
     "archive_trials": 2211
   }
 }
