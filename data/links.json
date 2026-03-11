@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-11T04:17:42.332Z",
+  "last_updated": "2026-03-11T04:17:53.006Z",
   "categories": {
     "supplements": [
       {
@@ -27,6 +27,22 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-11"
+      },
+      {
+        "id": "recEkwFEZ7BebTmjo",
+        "title": "Network pharmacology-based therapeutic intervention of Mentha arvensis targeting cancer and doxorubicin-induced cardiotoxicity.",
+        "summary": "Mentha arvensis plant extract may protect the heart from doxorubicin chemotherapy damage while preserving its anti-cancer effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41803319/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia",
+          "Lymphoma",
+          "Bladder"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-11"
       },
@@ -195,20 +211,6 @@
           "Breast"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-10"
-      },
-      {
-        "id": "recetl0vnqICdbJm6",
-        "title": "The combination of human milk oligosaccharides 3-fucosyllactose and 3'-sialyllactose alleviates LPS-induced damage to intestinal epithelial cells.",
-        "summary": "Two milk compounds combined protect intestinal cells from inflammation and damage by reducing harmful inflammatory markers and strengthening cell barriers.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41725493/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-10"
       }
@@ -858,10 +860,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10096,
+    "archive_count": 10097,
     "archive_supplements": 1180,
     "archive_off_label": 408,
-    "archive_biomarkers": 5989,
+    "archive_biomarkers": 5990,
     "archive_trials": 2222
   }
 }
