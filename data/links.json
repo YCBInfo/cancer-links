@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-11T04:28:25.296Z",
+  "last_updated": "2026-03-11T04:28:36.295Z",
   "categories": {
     "supplements": [
       {
@@ -245,6 +245,20 @@
         "added_date": "2026-03-11"
       },
       {
+        "id": "recBJmhXYD6QaRttw",
+        "title": "Management of Treatment Resistant EGFR Inhibitor-Induced Papulopustular Exanthema With Isotretinoin and Dapsone.",
+        "summary": "Isotretinoin and dapsone effectively treat severe skin rashes caused by cancer drugs when standard antibiotics fail.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41804164/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-11"
+      },
+      {
         "id": "rechAM3JmzlWWGJCh",
         "title": "Fenofibrate microemulsion eyedrops for treating nitrogen mustard induced corneal injury.",
         "summary": "Fenofibrate eyedrops effectively treat nitrogen mustard-induced corneal injury by restoring protective protein levels and reducing inflammation in rat models.",
@@ -411,20 +425,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-08"
-      },
-      {
-        "id": "reci5QAKNmRZ55osk",
-        "title": "Distinct H3K27 methylation states drive cellular responses to the histone demethylase inhibitor GSK-J4 in ovarian cancer cells.",
-        "summary": "GSK-J4 inhibitor reduces ovarian cancer cell growth by altering histone methylation, with effects dependent on androgen receptor signaling.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41793322/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Ovarian"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-08"
       }
@@ -860,10 +860,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10155,
+    "archive_count": 10156,
     "archive_supplements": 1181,
     "archive_off_label": 409,
-    "archive_biomarkers": 6034,
+    "archive_biomarkers": 6035,
     "archive_trials": 2234
   }
 }
