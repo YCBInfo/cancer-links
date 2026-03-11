@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-11T04:04:08.391Z",
+  "last_updated": "2026-03-11T04:04:21.393Z",
   "categories": {
     "supplements": [
       {
@@ -555,6 +555,20 @@
         "added_date": "2026-03-11"
       },
       {
+        "id": "recRgqPsS3JxJ2AE1",
+        "title": "Cancer-associated fibroblast signature and SMAD4 mutation in resistance to adjuvant chemotherapy in stage III colon cancer patients.",
+        "summary": "Researchers identified fibroblast patterns and SMAD4 mutations that predict which stage III colon cancer patients will resist chemotherapy treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41650786/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-11"
+      },
+      {
         "id": "recA2mS3R2SBiGb6H",
         "title": "Screening of peptide inhibitors targeting YAP-TEAD4 interaction: affinity evaluation and anti-AML cell activity.",
         "summary": "Researchers identified a peptide that blocks a protein interaction driving acute myeloid leukemia, successfully reducing cancer cell growth in laboratory tests.",
@@ -623,20 +637,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-10"
-      },
-      {
-        "id": "rec7gA9dyMmA7ttfp",
-        "title": "[Mechanism of vitamin K2 in modulating matrix Gla protein to inhibit tumor growth in inflammation-associated colorectal cancer model mice].",
-        "summary": "Vitamin K2 slows colorectal cancer growth in mice by increasing a protein that activates tumor-suppressing pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41796008/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-10"
       }
     ],
     "trials": [
@@ -691,6 +691,20 @@
         "category": "Clinical Trials",
         "cancer_types": [
           "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-11"
+      },
+      {
+        "id": "recRgqPsS3JxJ2AE1",
+        "title": "Cancer-associated fibroblast signature and SMAD4 mutation in resistance to adjuvant chemotherapy in stage III colon cancer patients.",
+        "summary": "Researchers identified fibroblast patterns and SMAD4 mutations that predict which stage III colon cancer patients will resist chemotherapy treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41650786/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -835,20 +849,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-10"
-      },
-      {
-        "id": "reciPlMd42RLYqhL9",
-        "title": "Dihydropyrimidine dehydrogenase (DPYD) genetic testing and treatment with 5-fluoropyrimidines in cancer patients: prevalence of variants with decreased activity and chemotherapy outcomes.",
-        "summary": "Genetic testing for DPYD variants can identify cancer patients at risk of dangerous reactions to common chemotherapy drugs.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41797628/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-10"
       }
     ]
   },
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10021,
+    "archive_count": 10022,
     "archive_supplements": 1178,
     "archive_off_label": 408,
-    "archive_biomarkers": 5927,
+    "archive_biomarkers": 5928,
     "archive_trials": 2211
   }
 }
