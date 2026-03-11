@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-11T04:03:43.407Z",
+  "last_updated": "2026-03-11T04:03:58.072Z",
   "categories": {
     "supplements": [
       {
@@ -541,6 +541,20 @@
         "added_date": "2026-03-11"
       },
       {
+        "id": "reca7K1DuuZYgUNdL",
+        "title": "Potential induction of protective anti-tumor immune response in cancer patients by oncolytic viruses containing the GGTA1 gene.",
+        "summary": "Modified oncolytic viruses with the GGTA1 gene boost immune responses against tumors by converting infected cancer cells into therapeutic vaccines.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41707512/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-11"
+      },
+      {
         "id": "recA2mS3R2SBiGb6H",
         "title": "Screening of peptide inhibitors targeting YAP-TEAD4 interaction: affinity evaluation and anti-AML cell activity.",
         "summary": "Researchers identified a peptide that blocks a protein interaction driving acute myeloid leukemia, successfully reducing cancer cell growth in laboratory tests.",
@@ -623,20 +637,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-10"
-      },
-      {
-        "id": "rec5cpMMpolWP0bhQ",
-        "title": "Self-assembled multicomponent prodrugs with GSH/ROS site-responsiveness enable spatiotemporally controlled release for treating resistant NSCLC.",
-        "summary": "A three-drug nanoparticle overcomes lung cancer resistance by simultaneously disrupting microtubules, inhibiting DNA repair, and damaging mitochondria.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41580127/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-10"
       }
     ],
     "trials": [
@@ -665,6 +665,20 @@
           "Pancreatic"
         ],
         "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-11"
+      },
+      {
+        "id": "reca7K1DuuZYgUNdL",
+        "title": "Potential induction of protective anti-tumor immune response in cancer patients by oncolytic viruses containing the GGTA1 gene.",
+        "summary": "Modified oncolytic viruses with the GGTA1 gene boost immune responses against tumors by converting infected cancer cells into therapeutic vaccines.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41707512/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-11"
       },
@@ -835,20 +849,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-10"
-      },
-      {
-        "id": "recFiAeKn6mnTFTtB",
-        "title": "Dendrimers with a far-red NDI fluorescent core for efficient and traceable gene and RNA delivery.",
-        "summary": "Fluorescent dendrimers with an NDI core efficiently deliver GPX4 siRNA to colon cancer cells, enhancing ferroptosis-inducing drug effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41404643/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-10"
       }
     ]
   },
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10019,
+    "archive_count": 10020,
     "archive_supplements": 1178,
     "archive_off_label": 408,
-    "archive_biomarkers": 5925,
+    "archive_biomarkers": 5926,
     "archive_trials": 2211
   }
 }
