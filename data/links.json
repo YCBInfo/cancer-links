@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-11T04:04:41.151Z",
+  "last_updated": "2026-03-11T04:04:51.916Z",
   "categories": {
     "supplements": [
       {
@@ -583,6 +583,20 @@
         "added_date": "2026-03-11"
       },
       {
+        "id": "recSLAChJVa818J5k",
+        "title": "Institutional variability in testing for actionable genetic alterations in patients with stage IIIB/C or IV non-small cell lung cancer: A real-world study from the German prospective, observational, multicenter CRISP registry (AIO-TRK-0315).",
+        "summary": "German hospitals vary significantly in genetic testing rates for advanced lung cancer, potentially affecting treatment options and patient outcomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41633313/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-11"
+      },
+      {
         "id": "recA2mS3R2SBiGb6H",
         "title": "Screening of peptide inhibitors targeting YAP-TEAD4 interaction: affinity evaluation and anti-AML cell activity.",
         "summary": "Researchers identified a peptide that blocks a protein interaction driving acute myeloid leukemia, successfully reducing cancer cell growth in laboratory tests.",
@@ -617,20 +631,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41798226/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-10"
-      },
-      {
-        "id": "receg8C1BcX5j3dCs",
-        "title": "Adhesion forces between macrophages and cancer cells promote early tumor development.",
-        "summary": "Physical adhesion forces between macrophages and lung cancer cells drive early tumor growth through integrin interactions.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41802049/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
@@ -739,6 +739,20 @@
         "added_date": "2026-03-11"
       },
       {
+        "id": "recSLAChJVa818J5k",
+        "title": "Institutional variability in testing for actionable genetic alterations in patients with stage IIIB/C or IV non-small cell lung cancer: A real-world study from the German prospective, observational, multicenter CRISP registry (AIO-TRK-0315).",
+        "summary": "German hospitals vary significantly in genetic testing rates for advanced lung cancer, potentially affecting treatment options and patient outcomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41633313/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-11"
+      },
+      {
         "id": "rech3z0AnOfspDtVY",
         "title": "Hybrid microneedle patch for administration of measles and rubella vaccine with an on-patient medical record.",
         "summary": "Researchers created microneedle patches that deliver measles and rubella vaccines while invisibly storing medical records in skin using near-infrared particles.",
@@ -835,20 +849,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-10"
-      },
-      {
-        "id": "recV80vyb05s0OcIe",
-        "title": "Surgical Resections for Hepatocellular Carcinomas Arising From Fontan-Associated Liver Disease; Open, Laparoscopic and Robotic Hepatectomies.",
-        "summary": "Surgeons successfully used open, laparoscopic, and robotic methods to remove liver cancer in patients with Fontan heart surgery complications.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41801315/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-10"
       }
     ]
   },
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10024,
+    "archive_count": 10025,
     "archive_supplements": 1178,
     "archive_off_label": 408,
     "archive_biomarkers": 5930,
-    "archive_trials": 2211
+    "archive_trials": 2212
   }
 }
