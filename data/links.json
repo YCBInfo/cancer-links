@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-11T06:05:13.958Z",
+  "last_updated": "2026-03-11T06:05:23.852Z",
   "categories": {
     "supplements": [
       {
@@ -131,6 +131,20 @@
         "added_date": "2026-03-11"
       },
       {
+        "id": "recks3MHituXh2tX7",
+        "title": "Autophagy as a therapeutic linchpin in metabolic diseases and obesity-associated diabetes.",
+        "summary": "Restoring autophagy through exercise, diet, and drugs shows promise for treating obesity and type 2 diabetes by improving metabolic health.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41731726/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-11"
+      },
+      {
         "id": "recoHNZVKZjVKvdpv",
         "title": "Baicalein downregulates kinase-based and estrogen signaling pathways in breast cancer stem cells: an integrated bioinformatics and gene expression study.",
         "summary": "Baicalein, a plant compound, suppresses key genes and pathways that promote breast cancer stem cell survival and drug resistance.",
@@ -197,20 +211,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-10"
-      },
-      {
-        "id": "rectVzhRgNeAh1nRN",
-        "title": "Integrative network pharmacology and machine learning identify potential targets of indole-3-lactic acid in colorectal cancer.",
-        "summary": "Researchers identified four genes that indole-3-lactic acid, a gut bacteria metabolite, may target to fight colorectal cancer through multiple pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41801955/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-10"
       }
@@ -860,10 +860,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10192,
+    "archive_count": 10193,
     "archive_supplements": 1187,
     "archive_off_label": 410,
-    "archive_biomarkers": 6056,
+    "archive_biomarkers": 6057,
     "archive_trials": 2242
   }
 }
