@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-11T09:02:26.436Z",
+  "last_updated": "2026-03-11T09:02:43.510Z",
   "categories": {
     "supplements": [
       {
@@ -315,6 +315,20 @@
         "added_date": "2026-03-11"
       },
       {
+        "id": "rec796Zycx49hlXr4",
+        "title": "Evaluation of LG's anticancer acti̇vi̇ty on human gastric cancer cell line HGC-27 via molecular docking and gene expression analysis.",
+        "summary": "Linagliptin, a diabetes drug, kills gastric cancer cells by disrupting Hedgehog signaling and triggering cell death.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41806574/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-11"
+      },
+      {
         "id": "rechAM3JmzlWWGJCh",
         "title": "Fenofibrate microemulsion eyedrops for treating nitrogen mustard induced corneal injury.",
         "summary": "Fenofibrate eyedrops effectively treat nitrogen mustard-induced corneal injury by restoring protective protein levels and reducing inflammation in rat models.",
@@ -413,20 +427,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-09"
-      },
-      {
-        "id": "rec93Vlb0eq01xgGz",
-        "title": "Reprogramming innate immunity to overcome endocrine resistance in estrogen receptor-positive breast cancer.",
-        "summary": "Blocking STAT3 signaling in immune cells could restore hormone therapy effectiveness in resistant estrogen receptor-positive breast cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41793307/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-08"
       }
     ],
     "biomarkers": [
@@ -860,10 +860,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10251,
+    "archive_count": 10252,
     "archive_supplements": 1194,
     "archive_off_label": 412,
     "archive_biomarkers": 6078,
-    "archive_trials": 2270
+    "archive_trials": 2271
   }
 }
