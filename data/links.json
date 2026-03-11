@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-11T07:05:42.537Z",
+  "last_updated": "2026-03-11T07:06:03.709Z",
   "categories": {
     "supplements": [
       {
@@ -301,6 +301,20 @@
         "added_date": "2026-03-11"
       },
       {
+        "id": "rec9DhAQi5XVoNM6X",
+        "title": "M4OC-Prevent: Metformin for Oral Cancer Prevention",
+        "summary": "Metformin shows promise in preventing oral cancer development in patients with precancerous mouth lesions.",
+        "url": "https://clinicaltrials.gov/study/NCT02581137",
+        "source": "ClinicalTrials.gov",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 16,
+        "pub_date": "2026-03-10",
+        "added_date": "2026-03-11"
+      },
+      {
         "id": "rechAM3JmzlWWGJCh",
         "title": "Fenofibrate microemulsion eyedrops for treating nitrogen mustard induced corneal injury.",
         "summary": "Fenofibrate eyedrops effectively treat nitrogen mustard-induced corneal injury by restoring protective protein levels and reducing inflammation in rat models.",
@@ -411,20 +425,6 @@
           "Breast"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-08"
-      },
-      {
-        "id": "recwk1aFxgIWsPv9r",
-        "title": "Modulation of the HMGB1/TLR4 Pathway by Montelukast in PTZ-Induced Epilepsy: Alleviating Neuroinflammatory Oxidative Stress and Seizure Severity.",
-        "summary": "Montelukast reduces seizure severity and neuroinflammation in epilepsy models, offering potential as an alternative antiepileptic treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41793129/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-08"
       }
@@ -860,10 +860,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10236,
+    "archive_count": 10237,
     "archive_supplements": 1194,
     "archive_off_label": 411,
     "archive_biomarkers": 6075,
-    "archive_trials": 2259
+    "archive_trials": 2260
   }
 }
