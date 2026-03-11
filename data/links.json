@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-11T04:17:53.006Z",
+  "last_updated": "2026-03-11T04:18:03.707Z",
   "categories": {
     "supplements": [
       {
@@ -217,6 +217,20 @@
     ],
     "off_label": [
       {
+        "id": "recblW5olP7zeWxM8",
+        "title": "Semaglutide alleviates ovarian ferroptosis in polycystic ovary syndrome and is associated with reduced GPX4 promoter hypermethylation.",
+        "summary": "Semaglutide improves polycystic ovary syndrome by reversing ovarian cell damage through reducing harmful DNA methylation patterns.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41803302/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-11"
+      },
+      {
         "id": "rechAM3JmzlWWGJCh",
         "title": "Fenofibrate microemulsion eyedrops for treating nitrogen mustard induced corneal injury.",
         "summary": "Fenofibrate eyedrops effectively treat nitrogen mustard-induced corneal injury by restoring protective protein levels and reducing inflammation in rat models.",
@@ -411,20 +425,6 @@
           "Lung"
         ],
         "quality_score": 29,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-08"
-      },
-      {
-        "id": "recb0XWgx0DcTKLqW",
-        "title": "Calcium channel blockers affect angiogenesis by modulating inflammatory factors: a meta-analysis of randomized controlled trials.",
-        "summary": "Calcium channel blockers inhibit tumor blood vessel growth by reducing inflammatory factors like IL-1, IL-6, and TNF-α.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41794822/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-08"
       }
@@ -860,10 +860,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10097,
+    "archive_count": 10098,
     "archive_supplements": 1180,
     "archive_off_label": 408,
-    "archive_biomarkers": 5990,
+    "archive_biomarkers": 5991,
     "archive_trials": 2222
   }
 }
