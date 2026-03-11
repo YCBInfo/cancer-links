@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-11T04:29:08.127Z",
+  "last_updated": "2026-03-11T04:29:18.218Z",
   "categories": {
     "supplements": [
       {
@@ -259,6 +259,20 @@
         "added_date": "2026-03-11"
       },
       {
+        "id": "rechu8nMj5h7ypyJV",
+        "title": "MCT1 inhibition reprograms Treg metabolism via ABC transporters: implications for tumor immunity and the prognosis of acute myeloid leukemia patients.",
+        "summary": "Blocking MCT1 in immune cells disrupts their metabolism and activates a pathway linked to better survival in acute myeloid leukemia patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41804010/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-11"
+      },
+      {
         "id": "rechAM3JmzlWWGJCh",
         "title": "Fenofibrate microemulsion eyedrops for treating nitrogen mustard induced corneal injury.",
         "summary": "Fenofibrate eyedrops effectively treat nitrogen mustard-induced corneal injury by restoring protective protein levels and reducing inflammation in rat models.",
@@ -411,20 +425,6 @@
           "Kidney"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-08"
-      },
-      {
-        "id": "recxhSTOhQDPwLiYH",
-        "title": "Ferroptosis-driven in situ vaccine-like antitumor effects: NIR-triggered IFBM hydrogel synergizes with sorafenib to unleash systemic antitumor immunity.",
-        "summary": "A light-activated hydrogel combined with sorafenib triggers cancer cell death, activating immune cells to fight tumors and eliminate distant metastases.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41795072/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-08"
       }
@@ -860,9 +860,9 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10159,
+    "archive_count": 10160,
     "archive_supplements": 1181,
-    "archive_off_label": 409,
+    "archive_off_label": 410,
     "archive_biomarkers": 6037,
     "archive_trials": 2235
   }
