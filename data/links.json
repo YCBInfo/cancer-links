@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-11T06:07:24.868Z",
+  "last_updated": "2026-03-11T06:07:35.860Z",
   "categories": {
     "supplements": [
       {
@@ -173,6 +173,20 @@
         "added_date": "2026-03-11"
       },
       {
+        "id": "recCQ2uSHGndIgy7s",
+        "title": "Small RNA sequencing analysis identified miR159a as a novel candidate for activity in plant-derived nanovesicles from limon, hassaku, and sudachi.",
+        "summary": "Researchers identified miR159a as the most abundant microRNA in citrus-derived nanovesicles, suggesting potential anti-cancer activity in colon cancer cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41803186/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-11"
+      },
+      {
         "id": "recoHNZVKZjVKvdpv",
         "title": "Baicalein downregulates kinase-based and estrogen signaling pathways in breast cancer stem cells: an integrated bioinformatics and gene expression study.",
         "summary": "Baicalein, a plant compound, suppresses key genes and pathways that promote breast cancer stem cell survival and drug resistance.",
@@ -197,20 +211,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-10"
-      },
-      {
-        "id": "rec7gA9dyMmA7ttfp",
-        "title": "[Mechanism of vitamin K2 in modulating matrix Gla protein to inhibit tumor growth in inflammation-associated colorectal cancer model mice].",
-        "summary": "Vitamin K2 slows colorectal cancer growth in mice by increasing a protein that activates tumor-suppressing pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41796008/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-10"
       }
@@ -860,10 +860,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10202,
+    "archive_count": 10203,
     "archive_supplements": 1188,
     "archive_off_label": 410,
-    "archive_biomarkers": 6064,
+    "archive_biomarkers": 6065,
     "archive_trials": 2243
   }
 }
