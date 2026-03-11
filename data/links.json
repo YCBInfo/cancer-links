@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-11T04:06:49.059Z",
+  "last_updated": "2026-03-11T04:06:59.931Z",
   "categories": {
     "supplements": [
       {
@@ -795,6 +795,20 @@
         "added_date": "2026-03-11"
       },
       {
+        "id": "recrd1asD8HZ46vwJ",
+        "title": "Comprehensive circulating tumor DNA mutation profiling via CAPP-Seq liquid biopsy for cervical cancer.",
+        "summary": "Researchers developed a blood test using CAPP-Seq to detect cervical cancer DNA mutations early through liquid biopsy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41806198/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-11"
+      },
+      {
         "id": "rech3z0AnOfspDtVY",
         "title": "Hybrid microneedle patch for administration of measles and rubella vaccine with an on-patient medical record.",
         "summary": "Researchers created microneedle patches that deliver measles and rubella vaccines while invisibly storing medical records in skin using near-infrared particles.",
@@ -835,20 +849,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-10"
-      },
-      {
-        "id": "reciGMiZG9o0QruAR",
-        "title": "Real-world comparative effectiveness of Bruton tyrosine kinase inhibitors in relapsed/refractory mantle cell lymphoma.",
-        "summary": "Zanubrutinib showed longer survival benefits compared to ibrutinib in relapsed/refractory mantle cell lymphoma patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41269777/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Lymphoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-10"
       }
     ]
   },
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10036,
+    "archive_count": 10037,
     "archive_supplements": 1178,
     "archive_off_label": 408,
     "archive_biomarkers": 5939,
-    "archive_trials": 2214
+    "archive_trials": 2215
   }
 }
