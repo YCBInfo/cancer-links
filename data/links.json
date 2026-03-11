@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-10T11:13:14.746Z",
+  "last_updated": "2026-03-11T04:02:59.362Z",
   "categories": {
     "supplements": [
       {
@@ -429,6 +429,62 @@
     ],
     "biomarkers": [
       {
+        "id": "recRzNO97MMeQWxp7",
+        "title": "Overcoming claudin family homology: discovery of ARC101, a highly potent CLDN6-specific T-cell engager with a novel CD3 binder for ovarian adenocarcinoma.",
+        "summary": "ARC101, a new immunotherapy drug, targets ovarian cancer cells by precisely activating immune T cells against a cancer protein while avoiding healthy tissues.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41804857/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-11"
+      },
+      {
+        "id": "rec3vowkFixjkRbRy",
+        "title": "Prognostic impact of myelodysplasia-related gene mutations in ELN-2022 favorable-risk acute myeloid leukemia subtypes.",
+        "summary": "Certain gene mutations previously thought harmless may worsen outcomes in favorable-risk acute myeloid leukemia patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41797681/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-11"
+      },
+      {
+        "id": "recYrFNVTQSIymiP2",
+        "title": "Mapping the TNFR2-targeting antibody patent landscape: Insights from macro trends to structural signatures.",
+        "summary": "Researchers identified five distinct antibody designs targeting TNFR2 for cancer immunotherapy, revealing structural features that distinguish effective from ineffective approaches.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41797544/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-11"
+      },
+      {
+        "id": "recmObMAcf9PbEg2W",
+        "title": "Assessment of the adequacy of the Fast Healthcare Interoperability Resources (FHIR) Genomics standard for the representation of somatic testing reports.",
+        "summary": "Researchers evaluated whether FHIR Genomics standard adequately communicates cancer genetic testing results and treatment implications in medical reports.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41799366/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-11"
+      },
+      {
         "id": "recA2mS3R2SBiGb6H",
         "title": "Screening of peptide inhibitors targeting YAP-TEAD4 interaction: affinity evaluation and anti-AML cell activity.",
         "summary": "Researchers identified a peptide that blocks a protein interaction driving acute myeloid leukemia, successfully reducing cancer cell growth in laboratory tests.",
@@ -581,65 +637,23 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-10"
-      },
-      {
-        "id": "recGtD1WFG6LBXuHo",
-        "title": "Pulmonary delivery of glycine-induced outer membrane vesicles as in situ vaccines for metastatic lung cancer.",
-        "summary": "Inhaled vaccine made from bacterial particles successfully suppressed metastatic lung cancer by boosting immune cells to attack tumors.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41455501/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-10"
-      },
-      {
-        "id": "recNBg4PHEHQQPkMT",
-        "title": "Structurally-defined non-cationic docosahexaenoic acid based siRNA-micelles for safe and effective combinatorial glioblastoma therapy.",
-        "summary": "Researchers developed safe, brain-penetrating nanoparticles delivering genetic therapy that targets two pathways to effectively treat glioblastoma in mice.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41443351/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-10"
-      },
-      {
-        "id": "recHgCSryR5MBDAk2",
-        "title": "Microbiome and metabolite biomarkers of CAR T-cell therapy outcomes in relapsed/refractory diffuse large B-cell lymphoma.",
-        "summary": "Specific gut bacteria and metabolites may predict treatment success and side effects in CAR T-cell therapy for aggressive lymphoma.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41364878/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lymphoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-10"
-      },
-      {
-        "id": "recME52czTYVZkAGe",
-        "title": "Outcomes of relapsed or refractory acute myeloid leukemia after menin inhibition failure.",
-        "summary": "Acute myeloid leukemia patients who fail menin inhibitor treatment have poor outcomes, though some respond to venetoclax-based therapy or switching menin inhibitors.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41351513/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-10"
       }
     ],
     "trials": [
+      {
+        "id": "recRzNO97MMeQWxp7",
+        "title": "Overcoming claudin family homology: discovery of ARC101, a highly potent CLDN6-specific T-cell engager with a novel CD3 binder for ovarian adenocarcinoma.",
+        "summary": "ARC101, a new immunotherapy drug, targets ovarian cancer cells by precisely activating immune T cells against a cancer protein while avoiding healthy tissues.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41804857/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-11"
+      },
       {
         "id": "rech3z0AnOfspDtVY",
         "title": "Hybrid microneedle patch for administration of measles and rubella vaccine with an on-patient medical record.",
@@ -835,20 +849,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-10"
-      },
-      {
-        "id": "reci1T9hbeIc7l6QQ",
-        "title": "Rational Design of Potent and Orally Efficacious PI3Kα/δ Degrader for PIK3CA Mutant Breast Cancer without Hyperglycemic Liability.",
-        "summary": "Researchers developed a new drug (D5) that effectively destroys cancer-causing proteins in PIK3CA mutant breast cancer while avoiding blood sugar side effects.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41796700/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-10"
       }
     ]
   },
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10015,
+    "archive_count": 10016,
     "archive_supplements": 1178,
     "archive_off_label": 408,
-    "archive_biomarkers": 5921,
+    "archive_biomarkers": 5922,
     "archive_trials": 2211
   }
 }
