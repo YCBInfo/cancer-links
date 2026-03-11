@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-11T06:08:06.515Z",
+  "last_updated": "2026-03-11T06:08:17.554Z",
   "categories": {
     "supplements": [
       {
@@ -187,6 +187,20 @@
         "added_date": "2026-03-11"
       },
       {
+        "id": "recAMg64ZZcg9uJoP",
+        "title": "β-catenin mutation reprograms ketone body metabolism to drive hepatocellular carcinoma metastasis and resistance to ketogenic therapy via transcriptional activation of OXCT1.",
+        "summary": "A β-catenin mutation in liver cancer activates an enzyme that converts ketone bodies to glutamate, causing resistance to ketogenic diet therapy and increased spread.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41803092/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-11"
+      },
+      {
         "id": "recoHNZVKZjVKvdpv",
         "title": "Baicalein downregulates kinase-based and estrogen signaling pathways in breast cancer stem cells: an integrated bioinformatics and gene expression study.",
         "summary": "Baicalein, a plant compound, suppresses key genes and pathways that promote breast cancer stem cell survival and drug resistance.",
@@ -197,20 +211,6 @@
           "Breast"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-10"
-      },
-      {
-        "id": "recI9qFlXCrQmRQXc",
-        "title": "Broccoli-mediated biogenic gold/platinum nanohybrid for antimicrobial, antioxidant, antidiabetic, anticancer, and wound healing applications.",
-        "summary": "Broccoli-derived gold/platinum nanoparticles selectively kill liver cancer cells while sparing normal cells and accelerate wound healing.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41798226/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-10"
       }
@@ -860,8 +860,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10206,
-    "archive_supplements": 1189,
+    "archive_count": 10207,
+    "archive_supplements": 1190,
     "archive_off_label": 410,
     "archive_biomarkers": 6067,
     "archive_trials": 2243
