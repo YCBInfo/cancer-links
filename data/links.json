@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-11T04:29:18.218Z",
+  "last_updated": "2026-03-11T04:29:29.042Z",
   "categories": {
     "supplements": [
       {
@@ -41,6 +41,20 @@
           "Leukemia",
           "Lymphoma",
           "Bladder"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-11"
+      },
+      {
+        "id": "recuexFB4vKiz50NY",
+        "title": "Integrative analysis reveals luteolin's molecular targets and mechanisms in pancreatic cancer treatment.",
+        "summary": "Luteolin, a natural plant compound, shows promise in treating pancreatic cancer by targeting specific molecular pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41803987/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Pancreatic"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -197,20 +211,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-10"
-      },
-      {
-        "id": "recZs7BjUiCbxRcHT",
-        "title": "The multifaceted effects of rosmarinic acid on breast cancer, regulating autophagy and increasing apoptosis.",
-        "summary": "Rosmarinic acid combined with Paclitaxel kills breast cancer cells better in lab tests by triggering cell death and blocking autophagy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41800930/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-10"
       }
@@ -860,10 +860,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10160,
+    "archive_count": 10161,
     "archive_supplements": 1181,
     "archive_off_label": 410,
     "archive_biomarkers": 6037,
-    "archive_trials": 2235
+    "archive_trials": 2236
   }
 }
