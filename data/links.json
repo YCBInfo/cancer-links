@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-11T04:32:08.953Z",
+  "last_updated": "2026-03-11T06:02:25.701Z",
   "categories": {
     "supplements": [
       {
@@ -71,6 +71,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-11"
+      },
+      {
+        "id": "recSUkNfcpNpDqJEj",
+        "title": "Bacteroides-associated NAD⁺ depletion correlates with exacerbated radiation-induced colorectal injury and impaired mucosal proliferative capacity.",
+        "summary": "Certain gut bacteria deplete NAD⁺ levels, worsening radiation damage to the colon; NAD⁺ supplementation reverses this injury in colorectal tissue.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41807298/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-11"
       },
@@ -191,20 +205,6 @@
         "title": "Integrated computational, pharmacological and molecular investigations of piperitone in mitigating Alzheimer disease pathology by targeting cholinesterases, β-secretase and neuroinflammation.",
         "summary": "Piperitone, a natural compound, showed promise for Alzheimer's disease by reducing brain inflammation, improving memory, and protecting neurons through multiple mechanisms.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41801601/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-10"
-      },
-      {
-        "id": "recUaGrpHUEbhLIxt",
-        "title": "Pogostone Suppresses Microglial NLRP3 Inflammasome Activation-Promoted Remyelination Through RXRγ Regulation of Mitophagy.",
-        "summary": "Pogostone promotes nerve sheath regrowth in multiple sclerosis by reducing harmful inflammation through a specific cellular cleanup pathway.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41801318/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -860,8 +860,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10176,
-    "archive_supplements": 1183,
+    "archive_count": 10177,
+    "archive_supplements": 1184,
     "archive_off_label": 410,
     "archive_biomarkers": 6049,
     "archive_trials": 2237
