@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-11T04:05:01.812Z",
+  "last_updated": "2026-03-11T04:05:12.805Z",
   "categories": {
     "supplements": [
       {
@@ -611,6 +611,20 @@
         "added_date": "2026-03-11"
       },
       {
+        "id": "receAnZqkLdQDHQ2H",
+        "title": "Functional impact of glycosylation of LRIG1 on EGFR proteostasis in cancer.",
+        "summary": "Removing glycosylation from LRIG1 protein strengthens its ability to bind and destroy EGFR in cancer cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41498460/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-11"
+      },
+      {
         "id": "recA2mS3R2SBiGb6H",
         "title": "Screening of peptide inhibitors targeting YAP-TEAD4 interaction: affinity evaluation and anti-AML cell activity.",
         "summary": "Researchers identified a peptide that blocks a protein interaction driving acute myeloid leukemia, successfully reducing cancer cell growth in laboratory tests.",
@@ -621,20 +635,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-10"
-      },
-      {
-        "id": "recoHNZVKZjVKvdpv",
-        "title": "Baicalein downregulates kinase-based and estrogen signaling pathways in breast cancer stem cells: an integrated bioinformatics and gene expression study.",
-        "summary": "Baicalein, a plant compound, suppresses key genes and pathways that promote breast cancer stem cell survival and drug resistance.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41800211/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-10"
       }
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10026,
+    "archive_count": 10027,
     "archive_supplements": 1178,
     "archive_off_label": 408,
-    "archive_biomarkers": 5931,
+    "archive_biomarkers": 5932,
     "archive_trials": 2212
   }
 }
