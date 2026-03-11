@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-11T04:04:51.916Z",
+  "last_updated": "2026-03-11T04:05:01.812Z",
   "categories": {
     "supplements": [
       {
@@ -597,6 +597,20 @@
         "added_date": "2026-03-11"
       },
       {
+        "id": "recaCTwYJwMBiCfd1",
+        "title": "Dysregulated iron metabolism associates with neutrophilic airway inflammation in COPD.",
+        "summary": "High neutrophil levels in COPD airways are linked to abnormal iron metabolism, possibly from increased vascular leakage.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41568397/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-11"
+      },
+      {
         "id": "recA2mS3R2SBiGb6H",
         "title": "Screening of peptide inhibitors targeting YAP-TEAD4 interaction: affinity evaluation and anti-AML cell activity.",
         "summary": "Researchers identified a peptide that blocks a protein interaction driving acute myeloid leukemia, successfully reducing cancer cell growth in laboratory tests.",
@@ -621,20 +635,6 @@
           "Breast"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-10"
-      },
-      {
-        "id": "recI9qFlXCrQmRQXc",
-        "title": "Broccoli-mediated biogenic gold/platinum nanohybrid for antimicrobial, antioxidant, antidiabetic, anticancer, and wound healing applications.",
-        "summary": "Broccoli-derived gold/platinum nanoparticles selectively kill liver cancer cells while sparing normal cells and accelerate wound healing.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41798226/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-10"
       }
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10025,
+    "archive_count": 10026,
     "archive_supplements": 1178,
     "archive_off_label": 408,
-    "archive_biomarkers": 5930,
+    "archive_biomarkers": 5931,
     "archive_trials": 2212
   }
 }
