@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-11T04:03:10.266Z",
+  "last_updated": "2026-03-11T04:03:22.172Z",
   "categories": {
     "supplements": [
       {
@@ -499,6 +499,20 @@
         "added_date": "2026-03-11"
       },
       {
+        "id": "recwlFv52W0nj3VoG",
+        "title": "Psoriasis-like disease prevents squamous skin tumor development by neutrophil-driven inflammation.",
+        "summary": "Psoriasis-like inflammation prevents squamous skin cancer through neutrophil-driven immune responses that trigger cell death and aging.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41802042/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-11"
+      },
+      {
         "id": "recA2mS3R2SBiGb6H",
         "title": "Screening of peptide inhibitors targeting YAP-TEAD4 interaction: affinity evaluation and anti-AML cell activity.",
         "summary": "Researchers identified a peptide that blocks a protein interaction driving acute myeloid leukemia, successfully reducing cancer cell growth in laboratory tests.",
@@ -621,20 +635,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-10"
-      },
-      {
-        "id": "recnsodbrc8OY6VyQ",
-        "title": "Bacteria-targeted dual-lock delivery for closed-loop immune modulation in colorectal cancer.",
-        "summary": "A targeted delivery system kills tumor bacteria and remodels barriers in colorectal cancer, enhancing immune cell infiltration and checkpoint immunotherapy effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41506376/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-10"
       }
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10017,
+    "archive_count": 10018,
     "archive_supplements": 1178,
     "archive_off_label": 408,
-    "archive_biomarkers": 5923,
+    "archive_biomarkers": 5924,
     "archive_trials": 2211
   }
 }
