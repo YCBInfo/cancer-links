@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-11T04:06:59.931Z",
+  "last_updated": "2026-03-11T04:07:15.625Z",
   "categories": {
     "supplements": [
       {
@@ -809,6 +809,34 @@
         "added_date": "2026-03-11"
       },
       {
+        "id": "recO4n4n8NfEOAvUN",
+        "title": "Interleukin-1 receptor type 1 in pancreatic cancer progression and metastasis: a review.",
+        "summary": "IL-1R1 signaling drives pancreatic cancer progression and metastasis, making it a promising therapeutic target when blocked with existing drugs.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41806197/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Pancreatic"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-11"
+      },
+      {
+        "id": "recaj77XubmHi5OSq",
+        "title": "APC-targeted DNA vaccines: the role of CCL19 in immune cell recruitment and early onset of the immune response.",
+        "summary": "A DNA vaccine targeting immune cells with CCL19 fusion protein shows promise for recruiting immune cells to fight cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41806188/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-11"
+      },
+      {
         "id": "rech3z0AnOfspDtVY",
         "title": "Hybrid microneedle patch for administration of measles and rubella vaccine with an on-patient medical record.",
         "summary": "Researchers created microneedle patches that deliver measles and rubella vaccines while invisibly storing medical records in skin using near-infrared particles.",
@@ -821,34 +849,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-10"
-      },
-      {
-        "id": "recHgCSryR5MBDAk2",
-        "title": "Microbiome and metabolite biomarkers of CAR T-cell therapy outcomes in relapsed/refractory diffuse large B-cell lymphoma.",
-        "summary": "Specific gut bacteria and metabolites may predict treatment success and side effects in CAR T-cell therapy for aggressive lymphoma.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41364878/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lymphoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-10"
-      },
-      {
-        "id": "recME52czTYVZkAGe",
-        "title": "Outcomes of relapsed or refractory acute myeloid leukemia after menin inhibition failure.",
-        "summary": "Acute myeloid leukemia patients who fail menin inhibitor treatment have poor outcomes, though some respond to venetoclax-based therapy or switching menin inhibitors.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41351513/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-10"
       }
     ]
   },
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10037,
+    "archive_count": 10038,
     "archive_supplements": 1178,
     "archive_off_label": 408,
-    "archive_biomarkers": 5939,
+    "archive_biomarkers": 5940,
     "archive_trials": 2215
   }
 }
