@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-11T04:04:21.393Z",
+  "last_updated": "2026-03-11T04:04:30.237Z",
   "categories": {
     "supplements": [
       {
@@ -569,6 +569,20 @@
         "added_date": "2026-03-11"
       },
       {
+        "id": "recZIOvBjVxd4Z3pc",
+        "title": "Current treatment strategies for first relapse of high-risk neuroblastoma.",
+        "summary": "High-risk neuroblastoma patients who relapse should receive tumor biopsies for molecular testing, then chemotherapy combined with immunotherapy or targeted drugs based on genetic mutations.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41643518/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-11"
+      },
+      {
         "id": "recA2mS3R2SBiGb6H",
         "title": "Screening of peptide inhibitors targeting YAP-TEAD4 interaction: affinity evaluation and anti-AML cell activity.",
         "summary": "Researchers identified a peptide that blocks a protein interaction driving acute myeloid leukemia, successfully reducing cancer cell growth in laboratory tests.",
@@ -621,20 +635,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-10"
-      },
-      {
-        "id": "rec8s3vpkcoDKyaXY",
-        "title": "Can micro-CT distinguish between solid lung tumors? A comparative evaluation including solid adenocarcinoma, non-keratinizing squamous cell carcinoma, and carcinoid tumor.",
-        "summary": "Micro-CT imaging shows promise for distinguishing between three types of solid lung tumors without requiring immunohistochemistry tests.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41802710/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-10"
       }
@@ -707,6 +707,20 @@
           "Colorectal"
         ],
         "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-11"
+      },
+      {
+        "id": "recZIOvBjVxd4Z3pc",
+        "title": "Current treatment strategies for first relapse of high-risk neuroblastoma.",
+        "summary": "High-risk neuroblastoma patients who relapse should receive tumor biopsies for molecular testing, then chemotherapy combined with immunotherapy or targeted drugs based on genetic mutations.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41643518/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-11"
       },
@@ -835,20 +849,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-10"
-      },
-      {
-        "id": "recBBN1tNbwAcwZ7l",
-        "title": "Prognostic impact of onset timing on response to methylprednisolone pulse therapy for idiopathic pneumonia syndrome after allogeneic hematopoietic cell transplantation.",
-        "summary": "Late-onset pneumonia after stem cell transplant shows poor response to steroid therapy, suggesting alternative treatments may be needed.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41800496/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-10"
       }
     ]
   },
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10022,
+    "archive_count": 10023,
     "archive_supplements": 1178,
     "archive_off_label": 408,
-    "archive_biomarkers": 5928,
+    "archive_biomarkers": 5929,
     "archive_trials": 2211
   }
 }
