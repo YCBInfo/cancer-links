@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-12T04:20:18.509Z",
+  "last_updated": "2026-03-12T04:20:29.937Z",
   "categories": {
     "supplements": [
       {
@@ -287,6 +287,20 @@
         "added_date": "2026-03-12"
       },
       {
+        "id": "recSID3wC9odWFblY",
+        "title": "A hierarchical theranostic nanoagent for multimodal imaging and targeted foam cell intervention in atherosclerosis.",
+        "summary": "Researchers developed a nanoparticle that images atherosclerotic plaques and delivers cholesterol-lowering drugs directly to foam cells, stabilizing dangerous arterial plaques.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41807467/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-12"
+      },
+      {
         "id": "recblW5olP7zeWxM8",
         "title": "Semaglutide alleviates ovarian ferroptosis in polycystic ovary syndrome and is associated with reduced GPX4 promoter hypermethylation.",
         "summary": "Semaglutide improves polycystic ovary syndrome by reversing ovarian cell damage through reducing harmful DNA methylation patterns.",
@@ -403,20 +417,6 @@
         "title": "Fenofibrate microemulsion eyedrops for treating nitrogen mustard induced corneal injury.",
         "summary": "Fenofibrate eyedrops effectively treat nitrogen mustard-induced corneal injury by restoring protective protein levels and reducing inflammation in rat models.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41580131/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-10"
-      },
-      {
-        "id": "recea4eNHcNLhfnTm",
-        "title": "Pomalidomide for hereditary hemorrhagic telangiectasia: after trial longitudinal assessment study (PATH-HHT ATLAS).",
-        "summary": "Pomalidomide significantly reduced severe nosebleeds in hereditary hemorrhagic telangiectasia patients over four years, though side effects required dose adjustments.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41512167/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10349,
+    "archive_count": 10350,
     "archive_supplements": 1204,
     "archive_off_label": 414,
-    "archive_biomarkers": 6150,
+    "archive_biomarkers": 6151,
     "archive_trials": 2284
   }
 }
