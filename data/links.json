@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-12T04:03:11.429Z",
+  "last_updated": "2026-03-12T04:03:22.635Z",
   "categories": {
     "supplements": [
       {
@@ -231,6 +231,20 @@
         "added_date": "2026-03-12"
       },
       {
+        "id": "recxTl16MWS6fqmBO",
+        "title": "Conserved use of tetraspanin CD9 as an entry receptor by rhabdoviruses spanning multiple genera.",
+        "summary": "Researchers identified CD9 protein as a shared entry receptor for multiple rhabdoviruses across species and found nitazoxanide as a potential broad-spectrum antiviral treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41811454/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-12"
+      },
+      {
         "id": "recblW5olP7zeWxM8",
         "title": "Semaglutide alleviates ovarian ferroptosis in polycystic ovary syndrome and is associated with reduced GPX4 promoter hypermethylation.",
         "summary": "Semaglutide improves polycystic ovary syndrome by reversing ovarian cell damage through reducing harmful DNA methylation patterns.",
@@ -413,20 +427,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-09"
-      },
-      {
-        "id": "recTrA2vVIx6tR5yq",
-        "title": "Dual-targeting strategies for cancer and diabetes: Converging pharmacological pathways and repurposed therapies.",
-        "summary": "Researchers propose treating cancer and type 2 diabetes simultaneously using shared drug targets like metformin to address their interconnected biological pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41795462/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-09"
       }
     ],
     "biomarkers": [
@@ -479,6 +479,20 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41808729/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-12"
+      },
+      {
+        "id": "recxTl16MWS6fqmBO",
+        "title": "Conserved use of tetraspanin CD9 as an entry receptor by rhabdoviruses spanning multiple genera.",
+        "summary": "Researchers identified CD9 protein as a shared entry receptor for multiple rhabdoviruses across species and found nitazoxanide as a potential broad-spectrum antiviral treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41811454/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
@@ -623,20 +637,6 @@
           "Colorectal"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-11"
-      },
-      {
-        "id": "recZIOvBjVxd4Z3pc",
-        "title": "Current treatment strategies for first relapse of high-risk neuroblastoma.",
-        "summary": "High-risk neuroblastoma patients who relapse should receive tumor biopsies for molecular testing, then chemotherapy combined with immunotherapy or targeted drugs based on genetic mutations.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41643518/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-11"
       }
@@ -860,10 +860,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10257,
+    "archive_count": 10258,
     "archive_supplements": 1194,
     "archive_off_label": 413,
-    "archive_biomarkers": 6080,
+    "archive_biomarkers": 6081,
     "archive_trials": 2273
   }
 }
