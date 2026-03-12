@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-12T04:10:44.658Z",
+  "last_updated": "2026-03-12T04:10:55.929Z",
   "categories": {
     "supplements": [
       {
@@ -69,6 +69,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-12"
+      },
+      {
+        "id": "recF65bKhifkPg0dg",
+        "title": "CC8, a heterodimeric disintegrin from Cerastes cerastes snake venom, triggers apoptosis and restrains the dissemination of human glioblastoma cells.",
+        "summary": "Snake venom protein CC8 kills glioblastoma cells and stops them from spreading, offering a potential new brain cancer treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41811660/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Brain"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-12"
       },
@@ -193,20 +207,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41804854/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-11"
-      },
-      {
-        "id": "recks3MHituXh2tX7",
-        "title": "Autophagy as a therapeutic linchpin in metabolic diseases and obesity-associated diabetes.",
-        "summary": "Restoring autophagy through exercise, diet, and drugs shows promise for treating obesity and type 2 diabetes by improving metabolic health.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41731726/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10298,
+    "archive_count": 10299,
     "archive_supplements": 1198,
     "archive_off_label": 414,
-    "archive_biomarkers": 6112,
+    "archive_biomarkers": 6113,
     "archive_trials": 2277
   }
 }
