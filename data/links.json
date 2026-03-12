@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-12T04:09:30.084Z",
+  "last_updated": "2026-03-12T04:09:41.396Z",
   "categories": {
     "supplements": [
       {
@@ -41,6 +41,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-12"
+      },
+      {
+        "id": "recGfrMKzY7dmbPDK",
+        "title": "Analysis and prediction of the burden of lung cancer attributable to diet low in fruits in China and the global from 1990 to 2021.",
+        "summary": "Low fruit intake significantly contributes to lung cancer burden in China and globally, with projections showing continued growth through 2046.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41811831/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-12"
       },
@@ -191,20 +205,6 @@
         "title": "Salvianolic acid B attenuates post-cardiac arrest cerebral ischemia-reperfusion injury via activation of the Nrf2 signaling pathway.",
         "summary": "Salvianolic acid B reduces brain damage after cardiac arrest by activating protective cellular pathways that fight oxidative stress.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41803990/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-11"
-      },
-      {
-        "id": "recwI3rnrDqtUSFqU",
-        "title": "Gomisin B promotes RSL3-induced ferroptosis in neuroblastoma by inhibiting the ESR1/USP7/SREBF1 axis.",
-        "summary": "Gomisin B kills neuroblastoma cells by blocking a protein pathway that normally prevents iron-related cell death.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41803566/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -858,8 +858,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10291,
-    "archive_supplements": 1196,
+    "archive_count": 10292,
+    "archive_supplements": 1197,
     "archive_off_label": 414,
     "archive_biomarkers": 6107,
     "archive_trials": 2277
