@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-12T04:05:37.763Z",
+  "last_updated": "2026-03-12T04:05:48.221Z",
   "categories": {
     "supplements": [
       {
@@ -727,6 +727,20 @@
         "added_date": "2026-03-12"
       },
       {
+        "id": "rec4f79KttrLnByiS",
+        "title": "Advances in lipid nanoparticles delivering genetic medicines for solid cancers.",
+        "summary": "Lipid nanoparticles successfully deliver genetic medicines to solid tumors by targeting cancer cells, supporting structures, and immune response.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41696513/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-12"
+      },
+      {
         "id": "recRzNO97MMeQWxp7",
         "title": "Overcoming claudin family homology: discovery of ARC101, a highly potent CLDN6-specific T-cell engager with a novel CD3 binder for ovarian adenocarcinoma.",
         "summary": "ARC101, a new immunotherapy drug, targets ovarian cancer cells by precisely activating immune T cells against a cancer protein while avoiding healthy tissues.",
@@ -837,20 +851,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-11"
-      },
-      {
-        "id": "recVAk0WmXhAvVOFo",
-        "title": "Treatment Patterns and Clinical Outcomes in Metastatic HR+/HER2- and Triple-Negative Breast Cancer in Canada: The HER2- TRENDS Study.",
-        "summary": "Canadian study reveals how doctors treat HER2-negative metastatic breast cancer and documents real-world patient outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41806276/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-11"
       }
     ]
   },
@@ -860,10 +860,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10269,
+    "archive_count": 10270,
     "archive_supplements": 1195,
     "archive_off_label": 413,
-    "archive_biomarkers": 6089,
+    "archive_biomarkers": 6090,
     "archive_trials": 2275
   }
 }
