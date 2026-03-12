@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-12T04:10:23.346Z",
+  "last_updated": "2026-03-12T04:10:34.391Z",
   "categories": {
     "supplements": [
       {
@@ -823,6 +823,20 @@
         "added_date": "2026-03-12"
       },
       {
+        "id": "recC7N1HCr3txif7G",
+        "title": "Targeting the Non-Homologous End-Joining Pathway Sensitizes MDM2-Amplified Liposarcoma to Doxorubicin by Enhancing p53-Mediated Senescence.",
+        "summary": "Blocking DNA repair in liposarcoma makes low-dose doxorubicin more effective by triggering p53-driven cell death.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41811692/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Kidney"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-12"
+      },
+      {
         "id": "recRzNO97MMeQWxp7",
         "title": "Overcoming claudin family homology: discovery of ARC101, a highly potent CLDN6-specific T-cell engager with a novel CD3 binder for ovarian adenocarcinoma.",
         "summary": "ARC101, a new immunotherapy drug, targets ovarian cancer cells by precisely activating immune T cells against a cancer protein while avoiding healthy tissues.",
@@ -835,20 +849,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-11"
-      },
-      {
-        "id": "rec9K3M473g4KgBv0",
-        "title": "FGTI-2734 prevents ERK-mediated resistance and enhances MRTX1133 efficacy in KRAS G12D pancreatic cancer.",
-        "summary": "A new drug combination overcomes resistance to KRAS pancreatic cancer treatment by blocking an escape pathway that cancer cells use.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41722442/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Pancreatic"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-11"
       }
     ]
   },
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10296,
+    "archive_count": 10297,
     "archive_supplements": 1198,
     "archive_off_label": 414,
-    "archive_biomarkers": 6110,
+    "archive_biomarkers": 6111,
     "archive_trials": 2277
   }
 }
