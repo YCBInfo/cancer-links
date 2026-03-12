@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-11T10:02:11.436Z",
+  "last_updated": "2026-03-12T04:02:58.970Z",
   "categories": {
     "supplements": [
       {
@@ -217,6 +217,20 @@
     ],
     "off_label": [
       {
+        "id": "rec6syVhSmT5Akkdd",
+        "title": "Low-dose nivolumab with neoadjuvant chemotherapy and oral metronomic therapy in borderline resectable oral cavity squamous cell carcinoma: a phase II trial.",
+        "summary": "Low-dose immunotherapy combined with chemotherapy and oral metronomic therapy improved surgical conversion rates in borderline resectable oral cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41810147/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-12"
+      },
+      {
         "id": "recblW5olP7zeWxM8",
         "title": "Semaglutide alleviates ovarian ferroptosis in polycystic ovary syndrome and is associated with reduced GPX4 promoter hypermethylation.",
         "summary": "Semaglutide improves polycystic ovary syndrome by reversing ovarian cell damage through reducing harmful DNA methylation patterns.",
@@ -413,23 +427,51 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-09"
-      },
-      {
-        "id": "rec4sch0vMwNliBVd",
-        "title": "Drugs and natural bioactive products in modulation of inflammatory pathways in cancer: preclinical and clinical evidence of inflammasomes, cytokine networks, and macrophage polarization.",
-        "summary": "Drugs and natural products that reduce inflammation by targeting immune cells and signaling pathways show promise in slowing cancer growth and improving treatment effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41795273/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-09"
       }
     ],
     "biomarkers": [
+      {
+        "id": "recmFlZrJv0eGvfQR",
+        "title": "Exploring the molecular mechanisms underlying the inflammation-cancer transformation in Hashimoto thyroiditis using single-cell transcriptomics.",
+        "summary": "Researchers identified how chronic thyroid inflammation transforms into cancer: immune cells called mast cells drive the transition through a specific signaling pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41808291/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Thyroid"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-12"
+      },
+      {
+        "id": "receZkQlUe8Lg88H5",
+        "title": "Prednisolone modulates CD8⁺ and regulatory T-cell activity to dampen response to immune checkpoint inhibitor therapy in melanoma.",
+        "summary": "Prednisolone steroid treatment dampens melanoma patients' immune response to checkpoint inhibitor therapy by suppressing cancer-fighting T-cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41807927/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Melanoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-12"
+      },
+      {
+        "id": "recRutCHt6dP9ky8f",
+        "title": "Fibroblast-activation protein inhibitors based positron emission tomography (PET) for assessing lung disease: A systematic review with meta-analysis.",
+        "summary": "A new PET imaging technique using fibroblast-activation protein inhibitors shows promise for diagnosing lung cancer and interstitial lung disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41810601/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-12"
+      },
       {
         "id": "recRzNO97MMeQWxp7",
         "title": "Overcoming claudin family homology: discovery of ARC101, a highly potent CLDN6-specific T-cell engager with a novel CD3 binder for ovarian adenocarcinoma.",
@@ -597,51 +639,37 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-11"
-      },
-      {
-        "id": "recaCTwYJwMBiCfd1",
-        "title": "Dysregulated iron metabolism associates with neutrophilic airway inflammation in COPD.",
-        "summary": "High neutrophil levels in COPD airways are linked to abnormal iron metabolism, possibly from increased vascular leakage.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41568397/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-11"
-      },
-      {
-        "id": "receAnZqkLdQDHQ2H",
-        "title": "Functional impact of glycosylation of LRIG1 on EGFR proteostasis in cancer.",
-        "summary": "Removing glycosylation from LRIG1 protein strengthens its ability to bind and destroy EGFR in cancer cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41498460/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-11"
-      },
-      {
-        "id": "recZ2MQB21LS4nDuH",
-        "title": "Targeted H2S Delivery System Attenuates Blood-Spinal Cord Barrier Disruption after Spinal Cord Injury by Reshaping the Ferritinophagy Pathway.",
-        "summary": "A targeted nanoparticle delivering hydrogen sulfide protects the blood-spinal cord barrier after spinal cord injury by reducing cell death.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41806349/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-11"
       }
     ],
     "trials": [
+      {
+        "id": "receZkQlUe8Lg88H5",
+        "title": "Prednisolone modulates CD8⁺ and regulatory T-cell activity to dampen response to immune checkpoint inhibitor therapy in melanoma.",
+        "summary": "Prednisolone steroid treatment dampens melanoma patients' immune response to checkpoint inhibitor therapy by suppressing cancer-fighting T-cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41807927/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Melanoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-12"
+      },
+      {
+        "id": "rec6syVhSmT5Akkdd",
+        "title": "Low-dose nivolumab with neoadjuvant chemotherapy and oral metronomic therapy in borderline resectable oral cavity squamous cell carcinoma: a phase II trial.",
+        "summary": "Low-dose immunotherapy combined with chemotherapy and oral metronomic therapy improved surgical conversion rates in borderline resectable oral cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41810147/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-12"
+      },
       {
         "id": "recRzNO97MMeQWxp7",
         "title": "Overcoming claudin family homology: discovery of ARC101, a highly potent CLDN6-specific T-cell engager with a novel CD3 binder for ovarian adenocarcinoma.",
@@ -823,34 +851,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-11"
-      },
-      {
-        "id": "recaj77XubmHi5OSq",
-        "title": "APC-targeted DNA vaccines: the role of CCL19 in immune cell recruitment and early onset of the immune response.",
-        "summary": "A DNA vaccine targeting immune cells with CCL19 fusion protein shows promise for recruiting immune cells to fight cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41806188/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-11"
-      },
-      {
-        "id": "rec11lkh2sCEs2egD",
-        "title": "Metabolic reprogramming in cancer: dysregulation of glucose, lipid, and amino acid pathways and therapeutic opportunities.",
-        "summary": "Cancer cells reprogram their metabolism to survive; targeting these metabolic pathways with new drugs offers promising treatment opportunities.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41806079/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-11"
       }
     ]
   },
@@ -860,10 +860,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10255,
+    "archive_count": 10256,
     "archive_supplements": 1194,
     "archive_off_label": 413,
-    "archive_biomarkers": 6078,
+    "archive_biomarkers": 6079,
     "archive_trials": 2273
   }
 }
