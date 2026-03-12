@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-12T04:08:48.004Z",
+  "last_updated": "2026-03-12T04:08:58.448Z",
   "categories": {
     "supplements": [
       {
@@ -28,6 +28,20 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-02-01",
+        "added_date": "2026-03-12"
+      },
+      {
+        "id": "recfjxW1HY7KDqXPr",
+        "title": "Amino acid supplementation enhances in vivo efficacy of lipid nanoparticle-mediated mRNA delivery in preclinical models.",
+        "summary": "Adding specific amino acids alongside lipid nanoparticles significantly boosts mRNA delivery and expression in cells and tissues.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41811986/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
         "added_date": "2026-03-12"
       },
       {
@@ -197,20 +211,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-11"
-      },
-      {
-        "id": "recCQ2uSHGndIgy7s",
-        "title": "Small RNA sequencing analysis identified miR159a as a novel candidate for activity in plant-derived nanovesicles from limon, hassaku, and sudachi.",
-        "summary": "Researchers identified miR159a as the most abundant microRNA in citrus-derived nanovesicles, suggesting potential anti-cancer activity in colon cancer cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41803186/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-11"
       }
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10287,
+    "archive_count": 10288,
     "archive_supplements": 1196,
     "archive_off_label": 413,
-    "archive_biomarkers": 6104,
+    "archive_biomarkers": 6105,
     "archive_trials": 2277
   }
 }
