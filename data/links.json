@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-12T04:08:26.364Z",
+  "last_updated": "2026-03-12T04:08:36.598Z",
   "categories": {
     "supplements": [
       {
@@ -809,6 +809,20 @@
         "added_date": "2026-03-12"
       },
       {
+        "id": "recwfI4RjNt7I1uce",
+        "title": "Dual-positive CTCs in patients with advanced breast cancer show metastatic potential and prognostic value.",
+        "summary": "Dual-positive circulating tumor cells in advanced breast cancer predict worse survival and metastatic potential, especially in triple-negative cases.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41811990/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-12"
+      },
+      {
         "id": "recRzNO97MMeQWxp7",
         "title": "Overcoming claudin family homology: discovery of ARC101, a highly potent CLDN6-specific T-cell engager with a novel CD3 binder for ovarian adenocarcinoma.",
         "summary": "ARC101, a new immunotherapy drug, targets ovarian cancer cells by precisely activating immune T cells against a cancer protein while avoiding healthy tissues.",
@@ -835,20 +849,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-11"
-      },
-      {
-        "id": "reca7K1DuuZYgUNdL",
-        "title": "Potential induction of protective anti-tumor immune response in cancer patients by oncolytic viruses containing the GGTA1 gene.",
-        "summary": "Modified oncolytic viruses with the GGTA1 gene boost immune responses against tumors by converting infected cancer cells into therapeutic vaccines.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41707512/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-11"
       }
     ]
   },
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10285,
+    "archive_count": 10286,
     "archive_supplements": 1196,
     "archive_off_label": 413,
     "archive_biomarkers": 6103,
-    "archive_trials": 2276
+    "archive_trials": 2277
   }
 }
