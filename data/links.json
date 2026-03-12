@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-12T04:06:40.604Z",
+  "last_updated": "2026-03-12T04:06:51.561Z",
   "categories": {
     "supplements": [
       {
@@ -741,6 +741,20 @@
         "added_date": "2026-03-12"
       },
       {
+        "id": "recDeXhVDFt6Y4K1z",
+        "title": "Spleen-targeted mRNA delivery via long-chain PEGylated lipids at low molar ratio enhances antitumor immunity against melanoma.",
+        "summary": "Engineering lipid nanoparticles with specific long-chain PEG lipids enables spleen-targeted mRNA delivery, enhancing immune responses and slowing melanoma growth.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41541271/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Melanoma"
+        ],
+        "quality_score": 13,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-03-12"
+      },
+      {
         "id": "recRzNO97MMeQWxp7",
         "title": "Overcoming claudin family homology: discovery of ARC101, a highly potent CLDN6-specific T-cell engager with a novel CD3 binder for ovarian adenocarcinoma.",
         "summary": "ARC101, a new immunotherapy drug, targets ovarian cancer cells by precisely activating immune T cells against a cancer protein while avoiding healthy tissues.",
@@ -837,20 +851,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-11"
-      },
-      {
-        "id": "recSLAChJVa818J5k",
-        "title": "Institutional variability in testing for actionable genetic alterations in patients with stage IIIB/C or IV non-small cell lung cancer: A real-world study from the German prospective, observational, multicenter CRISP registry (AIO-TRK-0315).",
-        "summary": "German hospitals vary significantly in genetic testing rates for advanced lung cancer, potentially affecting treatment options and patient outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41633313/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-11"
       }
     ]
   },
@@ -860,10 +860,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10275,
+    "archive_count": 10276,
     "archive_supplements": 1196,
     "archive_off_label": 413,
-    "archive_biomarkers": 6094,
+    "archive_biomarkers": 6095,
     "archive_trials": 2275
   }
 }
