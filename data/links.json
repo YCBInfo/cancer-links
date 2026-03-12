@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-12T04:06:51.561Z",
+  "last_updated": "2026-03-12T04:07:02.067Z",
   "categories": {
     "supplements": [
       {
@@ -755,6 +755,20 @@
         "added_date": "2026-03-12"
       },
       {
+        "id": "recHr1efiebhepxeG",
+        "title": "IRES-based RNAs expressing co-stimulatory molecules: Promising candidates for cancer immunotherapy.",
+        "summary": "Researchers developed RNA-based therapy expressing immune-boosting molecules that shrank melanoma tumors by strengthening T cell responses in mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41541266/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Melanoma"
+        ],
+        "quality_score": 13,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-03-12"
+      },
+      {
         "id": "recRzNO97MMeQWxp7",
         "title": "Overcoming claudin family homology: discovery of ARC101, a highly potent CLDN6-specific T-cell engager with a novel CD3 binder for ovarian adenocarcinoma.",
         "summary": "ARC101, a new immunotherapy drug, targets ovarian cancer cells by precisely activating immune T cells against a cancer protein while avoiding healthy tissues.",
@@ -837,20 +851,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-11"
-      },
-      {
-        "id": "recn9y1THvrxnqkgV",
-        "title": "Larotrectinib in patients with tropomyosin receptor kinase fusion solid tumors in Spain (SPAINTRK).",
-        "summary": "Larotrectinib effectively treats solid tumors with specific genetic mutations in Spanish patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41633314/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-11"
       }
     ]
   },
@@ -860,10 +860,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10276,
+    "archive_count": 10277,
     "archive_supplements": 1196,
     "archive_off_label": 413,
-    "archive_biomarkers": 6095,
+    "archive_biomarkers": 6096,
     "archive_trials": 2275
   }
 }
