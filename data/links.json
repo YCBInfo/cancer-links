@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-12T04:21:22.872Z",
+  "last_updated": "2026-03-12T04:21:33.314Z",
   "categories": {
     "supplements": [
       {
@@ -171,6 +171,20 @@
         "added_date": "2026-03-12"
       },
       {
+        "id": "recYKYUZcZ7EZuKBZ",
+        "title": "Chemoproteomic Identification of ALDOA as the Glycolytic Target of α-Cembratriene-4,6-diol in Lung Cancer Cells.",
+        "summary": "Tobacco compound α-cembratriene-4,6-diol kills lung cancer cells by blocking ALDOA, a key enzyme in glucose metabolism.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41766208/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-12"
+      },
+      {
         "id": "recWbGLJ42gdQuUZd",
         "title": "Icaritin Sensitizes Hepatocellular Carcinoma to PD-L1 Therapy by NQO1-Dependent Ferroptosis Induction.",
         "summary": "Icaritin makes liver cancer cells more vulnerable to immune therapy by triggering a cell death process and boosting natural killer immune cells.",
@@ -195,22 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-11"
-      },
-      {
-        "id": "recEkwFEZ7BebTmjo",
-        "title": "Network pharmacology-based therapeutic intervention of Mentha arvensis targeting cancer and doxorubicin-induced cardiotoxicity.",
-        "summary": "Mentha arvensis plant extract may protect the heart from doxorubicin chemotherapy damage while preserving its anti-cancer effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41803319/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia",
-          "Lymphoma",
-          "Bladder"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-11"
       }
@@ -858,10 +856,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10355,
+    "archive_count": 10356,
     "archive_supplements": 1204,
     "archive_off_label": 415,
-    "archive_biomarkers": 6155,
+    "archive_biomarkers": 6156,
     "archive_trials": 2284
   }
 }
