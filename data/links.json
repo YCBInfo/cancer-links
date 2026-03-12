@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-12T04:17:39.792Z",
+  "last_updated": "2026-03-12T04:17:49.601Z",
   "categories": {
     "supplements": [
       {
@@ -129,6 +129,20 @@
         "added_date": "2026-03-12"
       },
       {
+        "id": "recnY1yx25J2F8gff",
+        "title": "Doxorubicin-Induced Cardiotoxicity: Comprehensive Pathway Insights and Advanced Preclinical Therapeutics.",
+        "summary": "Researchers identified multiple mechanisms causing heart damage from doxorubicin cancer drug and found that probiotics and natural compounds may help prevent it.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41808568/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-12"
+      },
+      {
         "id": "recWbGLJ42gdQuUZd",
         "title": "Icaritin Sensitizes Hepatocellular Carcinoma to PD-L1 Therapy by NQO1-Dependent Ferroptosis Induction.",
         "summary": "Icaritin makes liver cancer cells more vulnerable to immune therapy by triggering a cell death process and boosting natural killer immune cells.",
@@ -199,20 +213,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-11"
-      },
-      {
-        "id": "recSUkNfcpNpDqJEj",
-        "title": "Bacteroides-associated NAD⁺ depletion correlates with exacerbated radiation-induced colorectal injury and impaired mucosal proliferative capacity.",
-        "summary": "Certain gut bacteria deplete NAD⁺ levels, worsening radiation damage to the colon; NAD⁺ supplementation reverses this injury in colorectal tissue.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41807298/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-11"
       }
     ],
     "off_label": [
@@ -269,6 +269,20 @@
           "Stomach"
         ],
         "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-12"
+      },
+      {
+        "id": "recnY1yx25J2F8gff",
+        "title": "Doxorubicin-Induced Cardiotoxicity: Comprehensive Pathway Insights and Advanced Preclinical Therapeutics.",
+        "summary": "Researchers identified multiple mechanisms causing heart damage from doxorubicin cancer drug and found that probiotics and natural compounds may help prevent it.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41808568/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-12"
       },
@@ -409,20 +423,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-10"
-      },
-      {
-        "id": "recxsjy12LrBLzveA",
-        "title": "Impact of statin use on cardiovascular and hematologic outcomes among patients with myeloproliferative neoplasms.",
-        "summary": "Statins reduce heart attack and stroke risk in myeloproliferative neoplasm patients, particularly those with essential thrombocythemia or polycythemia vera.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41499780/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-10"
       }
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10334,
+    "archive_count": 10335,
     "archive_supplements": 1202,
     "archive_off_label": 414,
     "archive_biomarkers": 6141,
-    "archive_trials": 2280
+    "archive_trials": 2281
   }
 }
