@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-12T04:03:54.497Z",
+  "last_updated": "2026-03-12T04:04:10.872Z",
   "categories": {
     "supplements": [
       {
@@ -543,6 +543,20 @@
         "added_date": "2026-03-12"
       },
       {
+        "id": "recFxORXT2pN1OPwX",
+        "title": "Chromosomal instability shapes the tumor microenvironment of esophageal adenocarcinoma via a cGAS-chemokine-myeloid axis.",
+        "summary": "Chromosomal instability in esophageal adenocarcinoma triggers immune-suppressing inflammation rather than anti-tumor immunity, suggesting a new treatment target.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41811963/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-12"
+      },
+      {
         "id": "recRzNO97MMeQWxp7",
         "title": "Overcoming claudin family homology: discovery of ARC101, a highly potent CLDN6-specific T-cell engager with a novel CD3 binder for ovarian adenocarcinoma.",
         "summary": "ARC101, a new immunotherapy drug, targets ovarian cancer cells by precisely activating immune T cells against a cancer protein while avoiding healthy tissues.",
@@ -623,20 +637,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-11"
-      },
-      {
-        "id": "recgFXrfAYxpHqW57",
-        "title": "Elevated phthalate exposure and metabolic susceptibility increased breast cancer risk: A 20-y follow-up study in Taiwan.",
-        "summary": "High exposure to DEHP phthalates increases breast cancer risk, especially combined with early menstruation onset, in this 20-year Taiwan study.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41802041/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-11"
       }
@@ -860,10 +860,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10260,
+    "archive_count": 10261,
     "archive_supplements": 1195,
     "archive_off_label": 413,
-    "archive_biomarkers": 6081,
+    "archive_biomarkers": 6082,
     "archive_trials": 2274
   }
 }
