@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-12T04:04:19.966Z",
+  "last_updated": "2026-03-12T04:04:31.436Z",
   "categories": {
     "supplements": [
       {
@@ -245,6 +245,20 @@
         "added_date": "2026-03-12"
       },
       {
+        "id": "rec5yyQxLDllboZoj",
+        "title": "Accelerated discovery of cell migration regulators using label-free deep learning-based automated tracking.",
+        "summary": "DeepBIT, a label-free AI tracking system, rapidly identified breast cancer cell migration regulators among FDA-approved drugs and genetic perturbations.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41811952/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-12"
+      },
+      {
         "id": "recblW5olP7zeWxM8",
         "title": "Semaglutide alleviates ovarian ferroptosis in polycystic ovary syndrome and is associated with reduced GPX4 promoter hypermethylation.",
         "summary": "Semaglutide improves polycystic ovary syndrome by reversing ovarian cell damage through reducing harmful DNA methylation patterns.",
@@ -413,20 +427,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-10"
-      },
-      {
-        "id": "recTsDNPArGAjvRii",
-        "title": "Metabolic, microbial, and pharmacological stimuli elicit distinct lipidomic and cytokine responses in human placenta.",
-        "summary": "Different stressors trigger distinct lipid and immune responses in placental tissue, with bacterial exposure causing inflammation linked to pregnancy complications.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41795823/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-09"
       }
     ],
     "biomarkers": [
@@ -571,6 +571,20 @@
         "added_date": "2026-03-12"
       },
       {
+        "id": "rec5yyQxLDllboZoj",
+        "title": "Accelerated discovery of cell migration regulators using label-free deep learning-based automated tracking.",
+        "summary": "DeepBIT, a label-free AI tracking system, rapidly identified breast cancer cell migration regulators among FDA-approved drugs and genetic perturbations.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41811952/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-12"
+      },
+      {
         "id": "recRzNO97MMeQWxp7",
         "title": "Overcoming claudin family homology: discovery of ARC101, a highly potent CLDN6-specific T-cell engager with a novel CD3 binder for ovarian adenocarcinoma.",
         "summary": "ARC101, a new immunotherapy drug, targets ovarian cancer cells by precisely activating immune T cells against a cancer protein while avoiding healthy tissues.",
@@ -617,20 +631,6 @@
         "title": "Assessment of the adequacy of the Fast Healthcare Interoperability Resources (FHIR) Genomics standard for the representation of somatic testing reports.",
         "summary": "Researchers evaluated whether FHIR Genomics standard adequately communicates cancer genetic testing results and treatment implications in medical reports.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41799366/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-11"
-      },
-      {
-        "id": "reclZiDpJbzxdI7kS",
-        "title": "The membrane-associated ubiquitin ligase MARCHF8 degrades MHC-I in HPV-positive head and neck cancer for immune evasion.",
-        "summary": "HPV-positive head and neck cancer uses a protein called MARCHF8 to hide from immune cells; blocking it restores immune detection and tumor control.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41802050/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -860,10 +860,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10262,
+    "archive_count": 10263,
     "archive_supplements": 1195,
     "archive_off_label": 413,
-    "archive_biomarkers": 6083,
+    "archive_biomarkers": 6084,
     "archive_trials": 2274
   }
 }
