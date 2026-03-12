@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-12T06:08:52.039Z",
+  "last_updated": "2026-03-12T06:09:01.887Z",
   "categories": {
     "supplements": [
       {
@@ -327,6 +327,20 @@
         "added_date": "2026-03-12"
       },
       {
+        "id": "rec5dl2QSUbih7Uph",
+        "title": "Longitudinal clinical and preclinical studies identify hetrombopag as a potent chelator for systemic iron overload.",
+        "summary": "Hetrombopag, an existing aplastic anemia drug, effectively removes excess iron from the blood and prevents iron-related organ damage.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41809835/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-12"
+      },
+      {
         "id": "recblW5olP7zeWxM8",
         "title": "Semaglutide alleviates ovarian ferroptosis in polycystic ovary syndrome and is associated with reduced GPX4 promoter hypermethylation.",
         "summary": "Semaglutide improves polycystic ovary syndrome by reversing ovarian cell damage through reducing harmful DNA methylation patterns.",
@@ -407,20 +421,6 @@
           "General"
         ],
         "quality_score": 10,
-        "pub_date": "2026-03-10",
-        "added_date": "2026-03-11"
-      },
-      {
-        "id": "rec9DhAQi5XVoNM6X",
-        "title": "M4OC-Prevent: Metformin for Oral Cancer Prevention",
-        "summary": "Metformin shows promise in preventing oral cancer development in patients with precancerous mouth lesions.",
-        "url": "https://clinicaltrials.gov/study/NCT02581137",
-        "source": "ClinicalTrials.gov",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 16,
         "pub_date": "2026-03-10",
         "added_date": "2026-03-11"
       }
@@ -856,8 +856,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10451,
-    "archive_supplements": 1221,
+    "archive_count": 10452,
+    "archive_supplements": 1222,
     "archive_off_label": 417,
     "archive_biomarkers": 6226,
     "archive_trials": 2290
