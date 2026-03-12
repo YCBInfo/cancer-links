@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-12T04:03:44.038Z",
+  "last_updated": "2026-03-12T04:03:54.497Z",
   "categories": {
     "supplements": [
       {
@@ -529,6 +529,20 @@
         "added_date": "2026-03-12"
       },
       {
+        "id": "rec4a94tFxD3VjMJh",
+        "title": "Integrative analysis of mRNA stability regulation uncovers a metastasis-suppressive program in breast cancer.",
+        "summary": "Researchers discovered that the RBMS3 protein stabilizes cancer-suppressing genes in breast cancer, and its loss promotes metastasis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41811965/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-12"
+      },
+      {
         "id": "recRzNO97MMeQWxp7",
         "title": "Overcoming claudin family homology: discovery of ARC101, a highly potent CLDN6-specific T-cell engager with a novel CD3 binder for ovarian adenocarcinoma.",
         "summary": "ARC101, a new immunotherapy drug, targets ovarian cancer cells by precisely activating immune T cells against a cancer protein while avoiding healthy tissues.",
@@ -621,20 +635,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-11"
-      },
-      {
-        "id": "rec9K3M473g4KgBv0",
-        "title": "FGTI-2734 prevents ERK-mediated resistance and enhances MRTX1133 efficacy in KRAS G12D pancreatic cancer.",
-        "summary": "A new drug combination overcomes resistance to KRAS pancreatic cancer treatment by blocking an escape pathway that cancer cells use.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41722442/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Pancreatic"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -860,8 +860,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10259,
-    "archive_supplements": 1194,
+    "archive_count": 10260,
+    "archive_supplements": 1195,
     "archive_off_label": 413,
     "archive_biomarkers": 6081,
     "archive_trials": 2274
