@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-03-12T04:02:58.970Z",
+  "last_updated": "2026-03-12T04:03:11.429Z",
   "categories": {
     "supplements": [
+      {
+        "id": "recu7JnLExgPMJ4Ac",
+        "title": "Molecular mechanism of anticancer activity of selected coastal marsh plants from Saudi Arabia.",
+        "summary": "Coastal marsh plant extracts, especially A. marina, kill multiple cancer cell types by triggering mitochondrial dysfunction and apoptosis through specific gene pathway changes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41808729/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-12"
+      },
       {
         "id": "recWbGLJ42gdQuUZd",
         "title": "Icaritin Sensitizes Hepatocellular Carcinoma to PD-L1 Therapy by NQO1-Dependent Ferroptosis Induction.",
@@ -197,20 +211,6 @@
           "Liver"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-11"
-      },
-      {
-        "id": "recGbZ8l8k76IMjKS",
-        "title": "Maternal Bacillus probiotic regulates offspring growth and immunity via spleen IGF-1/mTOR and FOXO1/IL-10 pathways.",
-        "summary": "Maternal Bacillus probiotic supplementation early in pregnancy enhances offspring growth and immune function through spleen pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41796118/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-11"
       }
@@ -473,6 +473,20 @@
         "added_date": "2026-03-12"
       },
       {
+        "id": "recu7JnLExgPMJ4Ac",
+        "title": "Molecular mechanism of anticancer activity of selected coastal marsh plants from Saudi Arabia.",
+        "summary": "Coastal marsh plant extracts, especially A. marina, kill multiple cancer cell types by triggering mitochondrial dysfunction and apoptosis through specific gene pathway changes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41808729/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-12"
+      },
+      {
         "id": "recRzNO97MMeQWxp7",
         "title": "Overcoming claudin family homology: discovery of ARC101, a highly potent CLDN6-specific T-cell engager with a novel CD3 binder for ovarian adenocarcinoma.",
         "summary": "ARC101, a new immunotherapy drug, targets ovarian cancer cells by precisely activating immune T cells against a cancer protein while avoiding healthy tissues.",
@@ -623,20 +637,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-11"
-      },
-      {
-        "id": "recSLAChJVa818J5k",
-        "title": "Institutional variability in testing for actionable genetic alterations in patients with stage IIIB/C or IV non-small cell lung cancer: A real-world study from the German prospective, observational, multicenter CRISP registry (AIO-TRK-0315).",
-        "summary": "German hospitals vary significantly in genetic testing rates for advanced lung cancer, potentially affecting treatment options and patient outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41633313/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-11"
       }
@@ -860,10 +860,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10256,
+    "archive_count": 10257,
     "archive_supplements": 1194,
     "archive_off_label": 413,
-    "archive_biomarkers": 6079,
+    "archive_biomarkers": 6080,
     "archive_trials": 2273
   }
 }
