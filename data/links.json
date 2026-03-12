@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-12T04:05:26.001Z",
+  "last_updated": "2026-03-12T04:05:37.763Z",
   "categories": {
     "supplements": [
       {
@@ -713,6 +713,20 @@
         "added_date": "2026-03-12"
       },
       {
+        "id": "recJLFxkVAlONRIxv",
+        "title": "Single-cell transcriptomics of multi-site cell therapy in osteoarthritis: Tissue-specific treatment correlations.",
+        "summary": "Single-cell analysis reveals knee osteoarthritis cell therapy outcomes depend on patient differences and tissue-specific immune responses, not genetic markers alone.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41717289/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-12"
+      },
+      {
         "id": "recRzNO97MMeQWxp7",
         "title": "Overcoming claudin family homology: discovery of ARC101, a highly potent CLDN6-specific T-cell engager with a novel CD3 binder for ovarian adenocarcinoma.",
         "summary": "ARC101, a new immunotherapy drug, targets ovarian cancer cells by precisely activating immune T cells against a cancer protein while avoiding healthy tissues.",
@@ -837,20 +851,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-11"
-      },
-      {
-        "id": "recOFns9ET8cb1n48",
-        "title": "Development of a Nomogram to Predict Therapeutic Resistance in Metastatic Melanoma Using Longitudinal ctDNA Kinetics.",
-        "summary": "Researchers created a tool using blood tumor DNA patterns to predict treatment resistance in metastatic melanoma earlier than imaging scans.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41806257/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Melanoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-11"
       }
     ]
   },
@@ -860,10 +860,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10268,
+    "archive_count": 10269,
     "archive_supplements": 1195,
     "archive_off_label": 413,
-    "archive_biomarkers": 6088,
+    "archive_biomarkers": 6089,
     "archive_trials": 2275
   }
 }
