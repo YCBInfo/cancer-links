@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-12T06:02:56.947Z",
+  "last_updated": "2026-03-12T06:03:07.765Z",
   "categories": {
     "supplements": [
       {
@@ -313,6 +313,20 @@
         "added_date": "2026-03-12"
       },
       {
+        "id": "recSUqGS7h17QFwcN",
+        "title": "DGAT1 Inhibition Induces Ferroptosis and Enhances Cancer Immunotherapy Efficacy.",
+        "summary": "Blocking DGAT1 protein triggers cancer cell death and boosts immune checkpoint therapy effectiveness by increasing immune cell infiltration.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41812065/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-12"
+      },
+      {
         "id": "recblW5olP7zeWxM8",
         "title": "Semaglutide alleviates ovarian ferroptosis in polycystic ovary syndrome and is associated with reduced GPX4 promoter hypermethylation.",
         "summary": "Semaglutide improves polycystic ovary syndrome by reversing ovarian cell damage through reducing harmful DNA methylation patterns.",
@@ -408,20 +422,6 @@
         ],
         "quality_score": 16,
         "pub_date": "2026-03-10",
-        "added_date": "2026-03-11"
-      },
-      {
-        "id": "rec796Zycx49hlXr4",
-        "title": "Evaluation of LG's anticancer acti̇vi̇ty on human gastric cancer cell line HGC-27 via molecular docking and gene expression analysis.",
-        "summary": "Linagliptin, a diabetes drug, kills gastric cancer cells by disrupting Hedgehog signaling and triggering cell death.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41806574/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Stomach"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
         "added_date": "2026-03-11"
       }
     ],
@@ -856,8 +856,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10421,
-    "archive_supplements": 1209,
+    "archive_count": 10422,
+    "archive_supplements": 1210,
     "archive_off_label": 416,
     "archive_biomarkers": 6210,
     "archive_trials": 2289
