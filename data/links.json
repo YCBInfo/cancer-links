@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-13T06:02:35.948Z",
+  "last_updated": "2026-03-13T06:02:45.649Z",
   "categories": {
     "supplements": [
       {
@@ -172,6 +172,20 @@
         "added_date": "2026-03-13"
       },
       {
+        "id": "recqdI16XBSpw5zkI",
+        "title": "Association of Life's Simple 7 with metabolic-associated steatotic liver disease and non-invasive fibrosis markers.",
+        "summary": "Life's Simple 7 cardiovascular health metrics are associated with liver disease markers, though shared metabolic factors likely explain much of this relationship.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41819603/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-13"
+      },
+      {
         "id": "recu7JnLExgPMJ4Ac",
         "title": "Molecular mechanism of anticancer activity of selected coastal marsh plants from Saudi Arabia.",
         "summary": "Coastal marsh plant extracts, especially A. marina, kill multiple cancer cell types by triggering mitochondrial dysfunction and apoptosis through specific gene pathway changes.",
@@ -197,20 +211,6 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-02-01",
-        "added_date": "2026-03-12"
-      },
-      {
-        "id": "recfjxW1HY7KDqXPr",
-        "title": "Amino acid supplementation enhances in vivo efficacy of lipid nanoparticle-mediated mRNA delivery in preclinical models.",
-        "summary": "Adding specific amino acids alongside lipid nanoparticles significantly boosts mRNA delivery and expression in cells and tissues.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41811986/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
         "added_date": "2026-03-12"
       }
     ],
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10648,
+    "archive_count": 10649,
     "archive_supplements": 1235,
     "archive_off_label": 420,
-    "archive_biomarkers": 6359,
+    "archive_biomarkers": 6360,
     "archive_trials": 2337
   }
 }
