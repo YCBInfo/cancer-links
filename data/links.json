@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-13T04:04:07.035Z",
+  "last_updated": "2026-03-13T04:04:24.480Z",
   "categories": {
     "supplements": [
       {
@@ -553,6 +553,20 @@
         "added_date": "2026-03-13"
       },
       {
+        "id": "rechxZjy5sNZCnsfp",
+        "title": "Switching of the c-Myc protein degradation pathway depending on the PP2A-B55α complex levels.",
+        "summary": "PP2A-B55α acts as a molecular switch controlling two different pathways that break down the cancer-promoting c-Myc protein.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41818150/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-13"
+      },
+      {
         "id": "recmFlZrJv0eGvfQR",
         "title": "Exploring the molecular mechanisms underlying the inflammation-cancer transformation in Hashimoto thyroiditis using single-cell transcriptomics.",
         "summary": "Researchers identified how chronic thyroid inflammation transforms into cancer: immune cells called mast cells drive the transition through a specific signaling pathway.",
@@ -621,20 +635,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-12"
-      },
-      {
-        "id": "recnIyt8bGyUn9qiS",
-        "title": "BRCA1-A and LIG4 complexes mediate ecDNA biogenesis and cancer drug resistance.",
-        "summary": "BRCA1-A and LIG4 proteins enable cancer cells to create circular DNA structures that help them resist chemotherapy and targeted drugs.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41811450/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-12"
       }
     ],
     "trials": [
@@ -671,6 +671,20 @@
         "title": "Prevalence and Relative Proportions of Multiple Sclerosis, Neuromyelitis Optica Spectrum Disorder, and Myelin Oligodendrocyte Glycoprotein Antibody-Associated Disease in the Republic of Korea.",
         "summary": "This study isn't about cancer—it examines the prevalence of three neurological diseases (MS, NMOSD, and MOGAD) in Korea.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41818658/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-13"
+      },
+      {
+        "id": "recLsEjmwL9fHUgsF",
+        "title": "International Consensus on the Evaluation and Management of Hypothalamic Hamartomas: Results From a Modified Delphi Survey.",
+        "summary": "Experts worldwide reached consensus on how to best evaluate and treat rare brain lesions called hypothalamic hamartomas that cause epilepsy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41818657/",
         "source": "PubMed",
         "category": "Clinical Trials",
         "cancer_types": [
@@ -833,20 +847,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-12"
-      },
-      {
-        "id": "recq9xnoJO2OEx0xl",
-        "title": "Safety and Efficacy of Esomeprazole-Containing Regimens for Helicobacter pylori Eradication: A Multicenter Retrospective Study.",
-        "summary": "Esomeprazole-based treatments effectively and safely eliminate H. pylori bacteria, reducing gastric cancer risk in both new and previously treated patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41811999/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Stomach"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-12"
       }
     ]
   },
@@ -856,10 +856,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10510,
+    "archive_count": 10511,
     "archive_supplements": 1224,
     "archive_off_label": 419,
-    "archive_biomarkers": 6250,
+    "archive_biomarkers": 6251,
     "archive_trials": 2320
   }
 }
