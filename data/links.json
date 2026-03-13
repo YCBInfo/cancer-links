@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-13T04:10:11.125Z",
+  "last_updated": "2026-03-13T04:10:22.743Z",
   "categories": {
     "supplements": [
       {
@@ -822,6 +822,20 @@
         "added_date": "2026-03-13"
       },
       {
+        "id": "recv1Jcwau6H2pIgZ",
+        "title": "Population Pharmacokinetic Modeling of Encorafenib in Healthy Participants and Patients with BRAF V600-Mutant Solid Tumors: A Semi-mechanistic Autoinduction Model.",
+        "summary": "Researchers developed a model to understand how the body processes encorafenib, a drug targeting BRAF-mutant cancers, across different tumor types.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41817901/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-13"
+      },
+      {
         "id": "receZkQlUe8Lg88H5",
         "title": "Prednisolone modulates CD8⁺ and regulatory T-cell activity to dampen response to immune checkpoint inhibitor therapy in melanoma.",
         "summary": "Prednisolone steroid treatment dampens melanoma patients' immune response to checkpoint inhibitor therapy by suppressing cancer-fighting T-cells.",
@@ -834,20 +848,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-12"
-      },
-      {
-        "id": "rec6syVhSmT5Akkdd",
-        "title": "Low-dose nivolumab with neoadjuvant chemotherapy and oral metronomic therapy in borderline resectable oral cavity squamous cell carcinoma: a phase II trial.",
-        "summary": "Low-dose immunotherapy combined with chemotherapy and oral metronomic therapy improved surgical conversion rates in borderline resectable oral cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41810147/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-12"
       }
     ]
   },
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10542,
+    "archive_count": 10543,
     "archive_supplements": 1226,
     "archive_off_label": 420,
-    "archive_biomarkers": 6274,
+    "archive_biomarkers": 6275,
     "archive_trials": 2325
   }
 }
