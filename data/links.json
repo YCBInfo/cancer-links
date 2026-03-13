@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-13T04:08:14.730Z",
+  "last_updated": "2026-03-13T04:08:25.655Z",
   "categories": {
     "supplements": [
       {
@@ -766,6 +766,20 @@
         "added_date": "2026-03-13"
       },
       {
+        "id": "recFmyXpYxGV1p1w2",
+        "title": "A CD138+ tumor-associated macrophage-Siglec-F+ neutrophil feedforward loop promotes immune evasion in pancreatic cancer.",
+        "summary": "Researchers identified immune cells in pancreatic cancer that help tumors escape immune attack, and blocking them with antibodies improved treatment effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41818263/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Pancreatic"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-13"
+      },
+      {
         "id": "receZkQlUe8Lg88H5",
         "title": "Prednisolone modulates CD8⁺ and regulatory T-cell activity to dampen response to immune checkpoint inhibitor therapy in melanoma.",
         "summary": "Prednisolone steroid treatment dampens melanoma patients' immune response to checkpoint inhibitor therapy by suppressing cancer-fighting T-cells.",
@@ -834,20 +848,6 @@
         "quality_score": 29,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-12"
-      },
-      {
-        "id": "recJLFxkVAlONRIxv",
-        "title": "Single-cell transcriptomics of multi-site cell therapy in osteoarthritis: Tissue-specific treatment correlations.",
-        "summary": "Single-cell analysis reveals knee osteoarthritis cell therapy outcomes depend on patient differences and tissue-specific immune responses, not genetic markers alone.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41717289/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-12"
       }
     ]
   },
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10531,
+    "archive_count": 10532,
     "archive_supplements": 1224,
     "archive_off_label": 419,
-    "archive_biomarkers": 6266,
+    "archive_biomarkers": 6267,
     "archive_trials": 2325
   }
 }
