@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-13T04:05:15.942Z",
+  "last_updated": "2026-03-13T04:05:33.993Z",
   "categories": {
     "supplements": [
       {
@@ -710,6 +710,20 @@
         "added_date": "2026-03-13"
       },
       {
+        "id": "recNWrwYdEFvVqRO2",
+        "title": "PD-1 inhibitor treatment outcomes for cutaneous squamous cell carcinoma in patients over 85: a comparative analysis.",
+        "summary": "PD-1 inhibitor drugs show promise for treating advanced skin cancer in patients over 85, though safety data remains limited.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41818698/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-13"
+      },
+      {
         "id": "receZkQlUe8Lg88H5",
         "title": "Prednisolone modulates CD8⁺ and regulatory T-cell activity to dampen response to immune checkpoint inhibitor therapy in melanoma.",
         "summary": "Prednisolone steroid treatment dampens melanoma patients' immune response to checkpoint inhibitor therapy by suppressing cancer-fighting T-cells.",
@@ -834,20 +848,6 @@
         "quality_score": 13,
         "pub_date": "2026-01-01",
         "added_date": "2026-03-12"
-      },
-      {
-        "id": "recEsZGF0Kz9cVcLr",
-        "title": "Fixed-Duration versus Continuous Treatment for Chronic Lymphocytic Leukemia.",
-        "summary": "Researchers compared two CLL treatment approaches: continuous therapy versus fixed-duration treatment with venetoclax combinations.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41358601/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-12"
       }
     ]
   },
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10515,
+    "archive_count": 10516,
     "archive_supplements": 1224,
     "archive_off_label": 419,
-    "archive_biomarkers": 6253,
+    "archive_biomarkers": 6254,
     "archive_trials": 2322
   }
 }
