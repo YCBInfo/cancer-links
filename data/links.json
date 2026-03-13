@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-13T04:04:51.559Z",
+  "last_updated": "2026-03-13T04:05:02.074Z",
   "categories": {
     "supplements": [
       {
@@ -581,6 +581,21 @@
         "added_date": "2026-03-13"
       },
       {
+        "id": "recOxVhk6f4FEYQu4",
+        "title": "Research Advances in the Application of Aptamers for Hematologic Malignancies.",
+        "summary": "Aptamers show promise for diagnosing and treating blood cancers like leukemia and lymphoma better than conventional antibodies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41762120/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia",
+          "Lymphoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-13"
+      },
+      {
         "id": "recmFlZrJv0eGvfQR",
         "title": "Exploring the molecular mechanisms underlying the inflammation-cancer transformation in Hashimoto thyroiditis using single-cell transcriptomics.",
         "summary": "Researchers identified how chronic thyroid inflammation transforms into cancer: immune cells called mast cells drive the transition through a specific signaling pathway.",
@@ -619,20 +634,6 @@
           "Lung"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-12"
-      },
-      {
-        "id": "recu7JnLExgPMJ4Ac",
-        "title": "Molecular mechanism of anticancer activity of selected coastal marsh plants from Saudi Arabia.",
-        "summary": "Coastal marsh plant extracts, especially A. marina, kill multiple cancer cell types by triggering mitochondrial dysfunction and apoptosis through specific gene pathway changes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41808729/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-12"
       }
@@ -856,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10513,
+    "archive_count": 10514,
     "archive_supplements": 1224,
     "archive_off_label": 419,
     "archive_biomarkers": 6252,
-    "archive_trials": 2321
+    "archive_trials": 2322
   }
 }
