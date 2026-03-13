@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-13T04:07:43.131Z",
+  "last_updated": "2026-03-13T04:07:53.787Z",
   "categories": {
     "supplements": [
       {
@@ -215,6 +215,20 @@
     ],
     "off_label": [
       {
+        "id": "reccnA65Dw7izj5da",
+        "title": "Combining lenalidomide with IL-2 family of cytokines enhances activating receptor and perforin/granzyme expression in NK cells.",
+        "summary": "Combining lenalidomide with IL-2 cytokines boosts natural killer cell activity, potentially improving cancer treatment while reducing side effects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41818310/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-13"
+      },
+      {
         "id": "rec6syVhSmT5Akkdd",
         "title": "Low-dose nivolumab with neoadjuvant chemotherapy and oral metronomic therapy in borderline resectable oral cavity squamous cell carcinoma: a phase II trial.",
         "summary": "Low-dose immunotherapy combined with chemotherapy and oral metronomic therapy improved surgical conversion rates in borderline resectable oral cancer.",
@@ -405,20 +419,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-11"
-      },
-      {
-        "id": "rec3w7Gj3IOBGOo14",
-        "title": "Evaluating Therapeutic Efficacy of SCL7A11 and GLUT1 Inhibition in Triple-Negative Breast Cancer via a GSH/ATP Dual-NIR-Responsive Fluorogenic Sensor.",
-        "summary": "Blocking two metabolic proteins simultaneously kills triple-negative breast cancer cells by creating energy imbalance and oxidative stress.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41730699/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10528,
+    "archive_count": 10529,
     "archive_supplements": 1224,
     "archive_off_label": 419,
-    "archive_biomarkers": 6263,
+    "archive_biomarkers": 6264,
     "archive_trials": 2325
   }
 }
