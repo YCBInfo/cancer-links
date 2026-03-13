@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-13T04:08:25.655Z",
+  "last_updated": "2026-03-13T04:08:36.394Z",
   "categories": {
     "supplements": [
       {
@@ -7,6 +7,20 @@
         "title": "Interactions between nutrition and the epigenome: how can it be harnessed for public health?",
         "summary": "Diet influences how genes are expressed through epigenetic changes, offering potential for public health strategies to prevent disease and aging.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41817235/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-13"
+      },
+      {
+        "id": "recAfg2GFXeDl0KKL",
+        "title": "Higher serum zinc micronutrient levels are associated with reduced susceptibility to Group B Streptococcus rectovaginal colonisation in pregnant women.",
+        "summary": "Higher zinc levels in pregnant women reduce Group B Streptococcus colonization, potentially lowering newborn infection risk.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41818229/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -195,20 +209,6 @@
           "Lung"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-12"
-      },
-      {
-        "id": "rec0XVXP4yndFoxN0",
-        "title": "Integrative medicine for pain among adolescent and young adult patients with cancer: a scoping review.",
-        "summary": "Integrative medicine approaches like acupuncture and mindfulness may help young cancer patients manage pain without relying solely on opioids.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41807881/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-12"
       }
@@ -857,9 +857,9 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10532,
+    "archive_count": 10533,
     "archive_supplements": 1224,
-    "archive_off_label": 419,
+    "archive_off_label": 420,
     "archive_biomarkers": 6267,
     "archive_trials": 2325
   }
