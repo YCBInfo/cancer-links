@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-13T04:07:21.097Z",
+  "last_updated": "2026-03-13T04:07:32.463Z",
   "categories": {
     "supplements": [
       {
@@ -752,6 +752,20 @@
         "added_date": "2026-03-13"
       },
       {
+        "id": "recrWVtDnAnAv6P11",
+        "title": "Cancer interception with KRAS inhibitors in preclinical models of pancreatic ductal adenocarcinoma.",
+        "summary": "KRAS inhibitors shrink precancerous pancreatic lesions and significantly extend survival in pancreatic cancer mouse models.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41818359/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-13"
+      },
+      {
         "id": "receZkQlUe8Lg88H5",
         "title": "Prednisolone modulates CD8⁺ and regulatory T-cell activity to dampen response to immune checkpoint inhibitor therapy in melanoma.",
         "summary": "Prednisolone steroid treatment dampens melanoma patients' immune response to checkpoint inhibitor therapy by suppressing cancer-fighting T-cells.",
@@ -834,20 +848,6 @@
         "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-03-12"
-      },
-      {
-        "id": "rec4f79KttrLnByiS",
-        "title": "Advances in lipid nanoparticles delivering genetic medicines for solid cancers.",
-        "summary": "Lipid nanoparticles successfully deliver genetic medicines to solid tumors by targeting cancer cells, supporting structures, and immune response.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41696513/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-12"
       }
     ]
   },
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10526,
+    "archive_count": 10527,
     "archive_supplements": 1224,
     "archive_off_label": 419,
-    "archive_biomarkers": 6261,
+    "archive_biomarkers": 6262,
     "archive_trials": 2325
   }
 }
