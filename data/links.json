@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-13T04:06:13.828Z",
+  "last_updated": "2026-03-13T04:06:24.176Z",
   "categories": {
     "supplements": [
       {
@@ -738,6 +738,20 @@
         "added_date": "2026-03-13"
       },
       {
+        "id": "rec2uL7YMqJ2PhF3V",
+        "title": "Cryoablation Activates the cGAS-STING-CXCL10 Axis in Macrophages to Enhance Anti-Tumor Immunity in NSCLC.",
+        "summary": "Freezing lung tumors activates immune cells to release a protein that recruits cancer-fighting T cells, improving treatment outcomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41818612/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-13"
+      },
+      {
         "id": "receZkQlUe8Lg88H5",
         "title": "Prednisolone modulates CD8⁺ and regulatory T-cell activity to dampen response to immune checkpoint inhibitor therapy in melanoma.",
         "summary": "Prednisolone steroid treatment dampens melanoma patients' immune response to checkpoint inhibitor therapy by suppressing cancer-fighting T-cells.",
@@ -834,20 +848,6 @@
         "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-03-12"
-      },
-      {
-        "id": "recDeXhVDFt6Y4K1z",
-        "title": "Spleen-targeted mRNA delivery via long-chain PEGylated lipids at low molar ratio enhances antitumor immunity against melanoma.",
-        "summary": "Engineering lipid nanoparticles with specific long-chain PEG lipids enables spleen-targeted mRNA delivery, enhancing immune responses and slowing melanoma growth.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41541271/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Melanoma"
-        ],
-        "quality_score": 13,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-03-12"
       }
     ]
   },
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10519,
+    "archive_count": 10520,
     "archive_supplements": 1224,
     "archive_off_label": 419,
     "archive_biomarkers": 6256,
-    "archive_trials": 2323
+    "archive_trials": 2324
   }
 }
