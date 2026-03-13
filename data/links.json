@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-13T04:03:36.489Z",
+  "last_updated": "2026-03-13T04:03:46.451Z",
   "categories": {
     "supplements": [
       {
@@ -539,6 +539,20 @@
         "added_date": "2026-03-13"
       },
       {
+        "id": "rec7s9xihDrXChqlr",
+        "title": "Isolated dysphagia masking myasthenia gravis diagnosis.",
+        "summary": "Difficulty swallowing alone delayed myasthenia gravis diagnosis for 15 months until a chest scan revealed an underlying thymoma tumor.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41812675/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-13"
+      },
+      {
         "id": "recmFlZrJv0eGvfQR",
         "title": "Exploring the molecular mechanisms underlying the inflammation-cancer transformation in Hashimoto thyroiditis using single-cell transcriptomics.",
         "summary": "Researchers identified how chronic thyroid inflammation transforms into cancer: immune cells called mast cells drive the transition through a specific signaling pathway.",
@@ -619,20 +633,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-12"
-      },
-      {
-        "id": "recw6bT7l3ySHti4T",
-        "title": "Viral mimicry may help explain immunogenic cell death.",
-        "summary": "A gold compound kills colorectal cancer cells by mimicking viral infection, triggering strong immune responses against tumors.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41811449/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-12"
       }
@@ -856,10 +856,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10507,
+    "archive_count": 10508,
     "archive_supplements": 1224,
     "archive_off_label": 419,
-    "archive_biomarkers": 6247,
+    "archive_biomarkers": 6248,
     "archive_trials": 2320
   }
 }
