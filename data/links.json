@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-13T04:15:09.596Z",
+  "last_updated": "2026-03-13T04:15:20.596Z",
   "categories": {
     "supplements": [
       {
@@ -63,6 +63,20 @@
         "title": "Characterization and anticancer bioactivity of the fungal immunomodulatory protein FIP-Gre from Ganoderma resinaceum.",
         "summary": "A protein from medicinal mushrooms called FIP-Gre shows promise as a potential anticancer agent through immune system activation.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41817769/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-13"
+      },
+      {
+        "id": "recnULKa1ZvBuny8t",
+        "title": "Diet Modulates Cardiac Metabolic Stress During Anthracycline Treatment.",
+        "summary": "A healthy vegan diet may protect heart health better than omnivorous diets in cancer patients receiving anthracycline chemotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41817306/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -191,20 +205,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41810752/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-12"
-      },
-      {
-        "id": "recnY1yx25J2F8gff",
-        "title": "Doxorubicin-Induced Cardiotoxicity: Comprehensive Pathway Insights and Advanced Preclinical Therapeutics.",
-        "summary": "Researchers identified multiple mechanisms causing heart damage from doxorubicin cancer drug and found that probiotics and natural compounds may help prevent it.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41808568/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10570,
+    "archive_count": 10571,
     "archive_supplements": 1228,
     "archive_off_label": 420,
     "archive_biomarkers": 6297,
-    "archive_trials": 2328
+    "archive_trials": 2329
   }
 }
