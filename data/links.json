@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-13T04:11:15.888Z",
+  "last_updated": "2026-03-13T04:11:26.297Z",
   "categories": {
     "supplements": [
       {
@@ -55,6 +55,20 @@
           "Melanoma"
         ],
         "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-13"
+      },
+      {
+        "id": "recRhsJ8uUcM13sjr",
+        "title": "Characterization and anticancer bioactivity of the fungal immunomodulatory protein FIP-Gre from Ganoderma resinaceum.",
+        "summary": "A protein from medicinal mushrooms called FIP-Gre shows promise as a potential anticancer agent through immune system activation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41817769/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-13"
       },
@@ -191,20 +205,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41808568/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-12"
-      },
-      {
-        "id": "recFR7bCKTJE5uRxO",
-        "title": "Tetrahydropalmatine alleviates cancer induced bone pain by inhibiting TRPV1-SP-mediated macrophage recruitment and promoting M2 polarization.",
-        "summary": "Tetrahydropalmatine reduces cancer-induced bone pain by blocking immune cell recruitment and switching immune cells to protective types.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41808202/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "General"
         ],
@@ -857,8 +857,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10548,
-    "archive_supplements": 1226,
+    "archive_count": 10549,
+    "archive_supplements": 1227,
     "archive_off_label": 420,
     "archive_biomarkers": 6279,
     "archive_trials": 2326
