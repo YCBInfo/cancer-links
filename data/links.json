@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-13T04:05:02.074Z",
+  "last_updated": "2026-03-13T04:05:15.942Z",
   "categories": {
     "supplements": [
       {
@@ -596,6 +596,20 @@
         "added_date": "2026-03-13"
       },
       {
+        "id": "recQOKtXkFd9g6ner",
+        "title": "CT Radiomics-Based Machine Learning Model for Predicting Capsular and Neural Invasion in Thyroid Carcinoma: Diagnostic Accuracy Study.",
+        "summary": "Machine learning analyzed CT scans to predict aggressive thyroid cancer features, improving preoperative diagnosis without invasive testing.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41818775/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Thyroid"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-13"
+      },
+      {
         "id": "recmFlZrJv0eGvfQR",
         "title": "Exploring the molecular mechanisms underlying the inflammation-cancer transformation in Hashimoto thyroiditis using single-cell transcriptomics.",
         "summary": "Researchers identified how chronic thyroid inflammation transforms into cancer: immune cells called mast cells drive the transition through a specific signaling pathway.",
@@ -618,20 +632,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Melanoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-12"
-      },
-      {
-        "id": "recRutCHt6dP9ky8f",
-        "title": "Fibroblast-activation protein inhibitors based positron emission tomography (PET) for assessing lung disease: A systematic review with meta-analysis.",
-        "summary": "A new PET imaging technique using fibroblast-activation protein inhibitors shows promise for diagnosing lung cancer and interstitial lung disease.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41810601/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -692,6 +692,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-13"
+      },
+      {
+        "id": "recnSmJmtXxxyTOfu",
+        "title": "Real-world comparison of enzalutamide and apalutamide in metastatic hormone-sensitive prostate cancer: a multi-institutional propensity score-matched analysis.",
+        "summary": "Two prostate cancer drugs, enzalutamide and apalutamide, showed similar effectiveness when combined with standard treatment for advanced prostate cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41818713/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-13"
       },
@@ -834,20 +848,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-12"
-      },
-      {
-        "id": "recZio6tbdvzXBHuO",
-        "title": "Engineering T Cells with a Tumor-Reactive Chimeric T Cell Receptor Reduces Exhaustion and Promotes Persistence to Elicit Enhanced Antitumor Responses.",
-        "summary": "Engineered T cells with added MyD88 signaling show improved anti-tumor activity and persistence, delaying melanoma growth in laboratory studies.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41812067/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Melanoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-12"
       }
     ]
   },
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10514,
+    "archive_count": 10515,
     "archive_supplements": 1224,
     "archive_off_label": 419,
-    "archive_biomarkers": 6252,
+    "archive_biomarkers": 6253,
     "archive_trials": 2322
   }
 }
