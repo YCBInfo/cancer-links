@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-13T06:05:50.462Z",
+  "last_updated": "2026-03-13T06:06:02.777Z",
   "categories": {
     "supplements": [
       {
@@ -258,6 +258,20 @@
         "added_date": "2026-03-13"
       },
       {
+        "id": "recC2RQenn7ajkDGS",
+        "title": "Glucocorticoids mediate fasting efficacy in breast cancer.",
+        "summary": "Fasting helps hormone-positive breast cancer patients by activating a protein called the glucocorticoid receptor, which could be targeted with drugs instead of requiring strict diets.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41820091/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-13"
+      },
+      {
         "id": "rec6syVhSmT5Akkdd",
         "title": "Low-dose nivolumab with neoadjuvant chemotherapy and oral metronomic therapy in borderline resectable oral cavity squamous cell carcinoma: a phase II trial.",
         "summary": "Low-dose immunotherapy combined with chemotherapy and oral metronomic therapy improved surgical conversion rates in borderline resectable oral cancer.",
@@ -408,20 +422,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-11"
-      },
-      {
-        "id": "recaVKcQ8FFFQvvvM",
-        "title": "Inhibition of NAMPT targets DNA damage response to sensitize alkylating chemotherapy in TP53 mutant mantle cell lymphoma.",
-        "summary": "Blocking NAMPT in TP53-mutant mantle cell lymphoma makes cancer cells vulnerable to chemotherapy by disrupting DNA damage response.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41428986/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lymphoma"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-11"
       }
@@ -858,9 +858,9 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10666,
+    "archive_count": 10667,
     "archive_supplements": 1236,
-    "archive_off_label": 420,
+    "archive_off_label": 421,
     "archive_biomarkers": 6372,
     "archive_trials": 2341
   }
