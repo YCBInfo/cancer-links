@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-13T04:16:55.576Z",
+  "last_updated": "2026-03-13T04:17:05.948Z",
   "categories": {
     "supplements": [
       {
@@ -83,6 +83,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-13"
+      },
+      {
+        "id": "rectxwnaqlVFvFlWX",
+        "title": "Metabologenomic Hallmark-Based Discovery of Bacterial Thioamides as a New Lead against Drug-Resistant Pancreatic Cancer.",
+        "summary": "Researchers discovered bacterial compounds called thioamides that effectively kill drug-resistant pancreatic cancer cells by blocking a key growth pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41816998/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Pancreatic"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-13"
       },
@@ -189,20 +203,6 @@
         "title": "Nodakenin attenuates cerebral ischemia-reperfusion injury by modulating the PI3K/AKT/NF-κB signaling pathway.",
         "summary": "Nodakenin protects the brain from ischemia-reperfusion injury by blocking inflammation and oxidative stress pathways.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41811028/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-12"
-      },
-      {
-        "id": "rec7BRgDBlPN35E8N",
-        "title": "Cardioprotective effect of spirulina on cafeteria diet-induced cardiac injury in silico and in vivo study.",
-        "summary": "Spirulina protects heart tissue from damage caused by unhealthy diet through antioxidant and anti-inflammatory effects in rats.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41810752/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10580,
+    "archive_count": 10581,
     "archive_supplements": 1229,
     "archive_off_label": 420,
-    "archive_biomarkers": 6304,
+    "archive_biomarkers": 6305,
     "archive_trials": 2330
   }
 }
