@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-13T04:25:49.322Z",
+  "last_updated": "2026-03-13T04:25:59.664Z",
   "categories": {
     "supplements": [
       {
@@ -144,6 +144,20 @@
         "added_date": "2026-03-13"
       },
       {
+        "id": "rec1Nokenw2WDPaVA",
+        "title": "Probiotic Lactiplantibacillus plantarum WB4404 and WB4503 from Kimchi Induce Apoptosis in Human Colorectal Cancer Cells In Vitro.",
+        "summary": "Two kimchi probiotics killed colorectal cancer cells in lab tests by triggering apoptosis through natural cell death pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41814629/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-13"
+      },
+      {
         "id": "recu7JnLExgPMJ4Ac",
         "title": "Molecular mechanism of anticancer activity of selected coastal marsh plants from Saudi Arabia.",
         "summary": "Coastal marsh plant extracts, especially A. marina, kill multiple cancer cell types by triggering mitochondrial dysfunction and apoptosis through specific gene pathway changes.",
@@ -196,20 +210,6 @@
           "Lung"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-12"
-      },
-      {
-        "id": "recQtZr01vtAp1twY",
-        "title": "Protective Effects of Opuntiol on Lipopolysaccharide-Induced Acute Kidney Injury in Mice.",
-        "summary": "Opuntiol, a natural flavonoid, protects mouse kidneys from injury by reducing inflammation, oxidative stress, and cell death.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41811703/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-12"
       }
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10628,
+    "archive_count": 10629,
     "archive_supplements": 1233,
     "archive_off_label": 420,
-    "archive_biomarkers": 6342,
+    "archive_biomarkers": 6343,
     "archive_trials": 2336
   }
 }
