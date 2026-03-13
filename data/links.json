@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-13T04:08:46.901Z",
+  "last_updated": "2026-03-13T04:08:57.862Z",
   "categories": {
     "supplements": [
       {
@@ -780,6 +780,20 @@
         "added_date": "2026-03-13"
       },
       {
+        "id": "recAKLH6IQlfveG57",
+        "title": "Dosimetric benefits of 1.5 T MR-guided radiotherapy in partial breast treatment.",
+        "summary": "MR-guided radiotherapy for partial breast cancer improves daily treatment accuracy by reducing target definition uncertainty compared to CT-based planning.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41818187/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-13"
+      },
+      {
         "id": "receZkQlUe8Lg88H5",
         "title": "Prednisolone modulates CD8⁺ and regulatory T-cell activity to dampen response to immune checkpoint inhibitor therapy in melanoma.",
         "summary": "Prednisolone steroid treatment dampens melanoma patients' immune response to checkpoint inhibitor therapy by suppressing cancer-fighting T-cells.",
@@ -834,20 +848,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-12"
-      },
-      {
-        "id": "recx6NGaPEzWrOCYg",
-        "title": "Insights into inherited genetic variations and genetic ancestry of patients with high-risk melanoma.",
-        "summary": "Most melanoma patients in this study had European ancestry, highlighting the need for more diverse genetic research to improve treatment predictions.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41812038/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Melanoma"
-        ],
-        "quality_score": 29,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-12"
       }
     ]
   },
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10534,
+    "archive_count": 10535,
     "archive_supplements": 1224,
     "archive_off_label": 420,
-    "archive_biomarkers": 6268,
+    "archive_biomarkers": 6269,
     "archive_trials": 2325
   }
 }
