@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-13T04:09:28.976Z",
+  "last_updated": "2026-03-13T04:09:40.850Z",
   "categories": {
     "supplements": [
       {
@@ -794,6 +794,20 @@
         "added_date": "2026-03-13"
       },
       {
+        "id": "reckKEAtHTby5MOyn",
+        "title": "Axillary Nodal Positivity in Early-Stage Invasive Lobular Carcinoma: Implications for Sentinel Lymph Node Biopsy Omission.",
+        "summary": "Early-stage invasive lobular breast cancer shows higher rates of lymph node involvement, raising concerns about skipping sentinel lymph node biopsy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41817936/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-13"
+      },
+      {
         "id": "receZkQlUe8Lg88H5",
         "title": "Prednisolone modulates CD8⁺ and regulatory T-cell activity to dampen response to immune checkpoint inhibitor therapy in melanoma.",
         "summary": "Prednisolone steroid treatment dampens melanoma patients' immune response to checkpoint inhibitor therapy by suppressing cancer-fighting T-cells.",
@@ -834,20 +848,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-12"
-      },
-      {
-        "id": "recr82bNbt9IU5HOh",
-        "title": "Biodegradable targeted polymeric mRNA nanoparticles enable in vivo CD19 CAR T cell generation and lead to B cell depletion.",
-        "summary": "Researchers delivered CAR-T cell instructions directly into the body using targeted nanoparticles, successfully generating therapeutic cells without ex vivo manufacturing for B cell cancers.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41811961/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-12"
       }
     ]
   },
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10538,
+    "archive_count": 10539,
     "archive_supplements": 1226,
     "archive_off_label": 420,
-    "archive_biomarkers": 6270,
+    "archive_biomarkers": 6271,
     "archive_trials": 2325
   }
 }
