@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-13T04:03:56.392Z",
+  "last_updated": "2026-03-13T04:04:07.035Z",
   "categories": {
     "supplements": [
       {
@@ -667,6 +667,20 @@
         "added_date": "2026-03-13"
       },
       {
+        "id": "reccBCYpkCGzb2F6K",
+        "title": "Prevalence and Relative Proportions of Multiple Sclerosis, Neuromyelitis Optica Spectrum Disorder, and Myelin Oligodendrocyte Glycoprotein Antibody-Associated Disease in the Republic of Korea.",
+        "summary": "This study isn't about cancer—it examines the prevalence of three neurological diseases (MS, NMOSD, and MOGAD) in Korea.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41818658/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-13"
+      },
+      {
         "id": "receZkQlUe8Lg88H5",
         "title": "Prednisolone modulates CD8⁺ and regulatory T-cell activity to dampen response to immune checkpoint inhibitor therapy in melanoma.",
         "summary": "Prednisolone steroid treatment dampens melanoma patients' immune response to checkpoint inhibitor therapy by suppressing cancer-fighting T-cells.",
@@ -833,20 +847,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-12"
-      },
-      {
-        "id": "recwfI4RjNt7I1uce",
-        "title": "Dual-positive CTCs in patients with advanced breast cancer show metastatic potential and prognostic value.",
-        "summary": "Dual-positive circulating tumor cells in advanced breast cancer predict worse survival and metastatic potential, especially in triple-negative cases.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41811990/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-12"
       }
     ]
   },
@@ -856,10 +856,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10509,
+    "archive_count": 10510,
     "archive_supplements": 1224,
     "archive_off_label": 419,
-    "archive_biomarkers": 6249,
+    "archive_biomarkers": 6250,
     "archive_trials": 2320
   }
 }
