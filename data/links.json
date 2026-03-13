@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-13T04:09:50.290Z",
+  "last_updated": "2026-03-13T04:10:02.238Z",
   "categories": {
     "supplements": [
       {
@@ -808,6 +808,20 @@
         "added_date": "2026-03-13"
       },
       {
+        "id": "recmeZGhkgkBsOjzl",
+        "title": "In Vivo T-Cell Engineering: Revolution in Delivery Strategies and Clinical Translation.",
+        "summary": "In vivo T-cell engineering generates cancer-fighting immune cells directly in patients, offering faster and cheaper treatment than traditional methods.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41817927/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-13"
+      },
+      {
         "id": "receZkQlUe8Lg88H5",
         "title": "Prednisolone modulates CD8⁺ and regulatory T-cell activity to dampen response to immune checkpoint inhibitor therapy in melanoma.",
         "summary": "Prednisolone steroid treatment dampens melanoma patients' immune response to checkpoint inhibitor therapy by suppressing cancer-fighting T-cells.",
@@ -834,20 +848,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-12"
-      },
-      {
-        "id": "recw6bT7l3ySHti4T",
-        "title": "Viral mimicry may help explain immunogenic cell death.",
-        "summary": "A gold compound kills colorectal cancer cells by mimicking viral infection, triggering strong immune responses against tumors.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41811449/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-12"
       }
     ]
   },
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10540,
+    "archive_count": 10541,
     "archive_supplements": 1226,
     "archive_off_label": 420,
-    "archive_biomarkers": 6272,
+    "archive_biomarkers": 6273,
     "archive_trials": 2325
   }
 }
