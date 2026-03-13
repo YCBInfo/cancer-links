@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-13T04:08:36.394Z",
+  "last_updated": "2026-03-13T04:08:46.901Z",
   "categories": {
     "supplements": [
       {
@@ -27,6 +27,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-13"
+      },
+      {
+        "id": "reckte92ytmrvUaRN",
+        "title": "Multi-omics and network pharmacology identify IGFBP1 as an m6A-Epigenetic target of pueraria in NSCLC therapy.",
+        "summary": "Researchers identified IGFBP1 as a therapeutic target in lung cancer, finding that Pueraria compounds can bind to it and potentially block cancer progression.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41818206/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-13"
       },
@@ -193,20 +207,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-12"
-      },
-      {
-        "id": "recYKYUZcZ7EZuKBZ",
-        "title": "Chemoproteomic Identification of ALDOA as the Glycolytic Target of α-Cembratriene-4,6-diol in Lung Cancer Cells.",
-        "summary": "Tobacco compound α-cembratriene-4,6-diol kills lung cancer cells by blocking ALDOA, a key enzyme in glucose metabolism.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41766208/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10533,
+    "archive_count": 10534,
     "archive_supplements": 1224,
     "archive_off_label": 420,
-    "archive_biomarkers": 6267,
+    "archive_biomarkers": 6268,
     "archive_trials": 2325
   }
 }
