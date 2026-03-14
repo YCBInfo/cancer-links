@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T04:03:12.761Z",
+  "last_updated": "2026-03-14T04:03:26.049Z",
   "categories": {
     "supplements": [
       {
@@ -513,6 +513,20 @@
         "added_date": "2026-03-14"
       },
       {
+        "id": "recgpCy1lThhyJZkT",
+        "title": "Silencing of SIVA‑1 promotes cisplatin resistance in gastric cancer via the Bcl‑2/BAX‑mediated mitochondria‑dependent apoptosis pathway.",
+        "summary": "Silencing SIVA-1 increases cisplatin resistance in gastric cancer by blocking cell death pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41823560/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-14"
+      },
+      {
         "id": "reccG1ClQKizPVril",
         "title": "Polarization of tumor-infiltrating macrophages predicts complete response to neoadjuvant treatment in patients with rectal cancer.",
         "summary": "Rectal cancer patients with more inflammatory and fewer anti-inflammatory tumor macrophages before treatment show complete response to neoadjuvant therapy.",
@@ -615,20 +629,6 @@
         "title": "Tetraspanin CD82 shapes EGFR signaling outcomes through nanoscale receptor organization.",
         "summary": "CD82 protein reorganizes EGFR on cell surfaces, altering how it signals and potentially offering new treatment targets.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41817402/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-13"
-      },
-      {
-        "id": "rec7s9xihDrXChqlr",
-        "title": "Isolated dysphagia masking myasthenia gravis diagnosis.",
-        "summary": "Difficulty swallowing alone delayed myasthenia gravis diagnosis for 15 months until a chest scan revealed an underlying thymoma tumor.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41812675/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10738,
+    "archive_count": 10739,
     "archive_supplements": 1248,
     "archive_off_label": 422,
-    "archive_biomarkers": 6400,
+    "archive_biomarkers": 6401,
     "archive_trials": 2371
   }
 }
