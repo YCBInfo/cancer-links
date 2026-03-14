@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T04:04:36.148Z",
+  "last_updated": "2026-03-14T04:04:46.662Z",
   "categories": {
     "supplements": [
       {
@@ -611,6 +611,22 @@
         "added_date": "2026-03-14"
       },
       {
+        "id": "recU2vmSTKGfH6vvi",
+        "title": "Diverse roles of SERPINE1 in regulating cellular proliferation and invasion.",
+        "summary": "SERPINE1 protein has opposite effects across cancers: reducing it slows breast cancer and glioma growth but increases melanoma growth through different cellular mechanisms.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41823537/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast",
+          "Melanoma",
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-14"
+      },
+      {
         "id": "reccG1ClQKizPVril",
         "title": "Polarization of tumor-infiltrating macrophages predicts complete response to neoadjuvant treatment in patients with rectal cancer.",
         "summary": "Rectal cancer patients with more inflammatory and fewer anti-inflammatory tumor macrophages before treatment show complete response to neoadjuvant therapy.",
@@ -621,20 +637,6 @@
           "Colorectal"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-13"
-      },
-      {
-        "id": "recxDxInDnuWbLhYw",
-        "title": "Interactions between nutrition and the epigenome: how can it be harnessed for public health?",
-        "summary": "Diet influences how genes are expressed through epigenetic changes, offering potential for public health strategies to prevent disease and aging.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41817235/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-13"
       }
@@ -858,10 +860,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10745,
+    "archive_count": 10746,
     "archive_supplements": 1249,
     "archive_off_label": 423,
-    "archive_biomarkers": 6405,
+    "archive_biomarkers": 6406,
     "archive_trials": 2371
   }
 }
