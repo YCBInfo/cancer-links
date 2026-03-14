@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T04:07:33.709Z",
+  "last_updated": "2026-03-14T04:07:44.621Z",
   "categories": {
     "supplements": [
       {
@@ -729,6 +729,20 @@
         "added_date": "2026-03-14"
       },
       {
+        "id": "recK66f7dlne4Dmph",
+        "title": "The effect of opium consumption on prostate cancer among Iranian patients: A retrospective analytical study.",
+        "summary": "Opium users had lower prostate cancer detection rates and PSA levels than non-users, suggesting opium may affect cancer detection.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41824892/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-14"
+      },
+      {
         "id": "reccG1ClQKizPVril",
         "title": "Polarization of tumor-infiltrating macrophages predicts complete response to neoadjuvant treatment in patients with rectal cancer.",
         "summary": "Rectal cancer patients with more inflammatory and fewer anti-inflammatory tumor macrophages before treatment show complete response to neoadjuvant therapy.",
@@ -839,20 +853,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-13"
-      },
-      {
-        "id": "recrWVtDnAnAv6P11",
-        "title": "Cancer interception with KRAS inhibitors in preclinical models of pancreatic ductal adenocarcinoma.",
-        "summary": "KRAS inhibitors shrink precancerous pancreatic lesions and significantly extend survival in pancreatic cancer mouse models.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41818359/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-13"
       }
     ]
   },
@@ -862,10 +862,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10761,
+    "archive_count": 10762,
     "archive_supplements": 1250,
     "archive_off_label": 423,
     "archive_biomarkers": 6420,
-    "archive_trials": 2371
+    "archive_trials": 2372
   }
 }
