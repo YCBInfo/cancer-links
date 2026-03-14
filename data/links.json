@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T04:22:45.664Z",
+  "last_updated": "2026-03-14T04:22:57.133Z",
   "categories": {
     "supplements": [
       {
@@ -243,6 +243,20 @@
         "added_date": "2026-03-14"
       },
       {
+        "id": "recwgU1vbiuhhNOgg",
+        "title": "Dose-Dependent Impact of Metformin on Osteoblast-Specific Biomarkers in Cultured Rat Primary Osteoblasts.",
+        "summary": "Low-dose metformin (up to 1 mM) promotes bone cell growth and function while high doses become toxic to these cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41823098/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-14"
+      },
+      {
         "id": "reccnA65Dw7izj5da",
         "title": "Combining lenalidomide with IL-2 family of cytokines enhances activating receptor and perforin/granzyme expression in NK cells.",
         "summary": "Combining lenalidomide with IL-2 cytokines boosts natural killer cell activity, potentially improving cancer treatment while reducing side effects.",
@@ -401,20 +415,6 @@
         "title": "Single-cell RNA Sequencing Discovered Subtypes Associated with Angiogenesis and Propranolol Treatment in Infantile Hemangioma.",
         "summary": "Researchers identified two infantile hemangioma cell types targeted by propranolol, revealing how the drug suppresses blood vessel growth.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41808430/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-12"
-      },
-      {
-        "id": "recSUqGS7h17QFwcN",
-        "title": "DGAT1 Inhibition Induces Ferroptosis and Enhances Cancer Immunotherapy Efficacy.",
-        "summary": "Blocking DGAT1 protein triggers cancer cell death and boosts immune checkpoint therapy effectiveness by increasing immune cell infiltration.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41812065/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -862,10 +862,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10847,
+    "archive_count": 10848,
     "archive_supplements": 1255,
     "archive_off_label": 424,
     "archive_biomarkers": 6489,
-    "archive_trials": 2382
+    "archive_trials": 2383
   }
 }
