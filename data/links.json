@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T09:04:56.513Z",
+  "last_updated": "2026-03-14T09:05:09.769Z",
   "categories": {
     "supplements": [
       {
@@ -342,6 +342,20 @@
         "added_date": "2026-03-14"
       },
       {
+        "id": "recwkFHOzpeGn5zQq",
+        "title": "The role of KPNA3 in multiple myeloma: implications for targeting nuclear import.",
+        "summary": "Targeting KPNA3 protein in multiple myeloma cells reduces tumor growth and increases drug sensitivity, suggesting a new treatment approach.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41813919/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-14"
+      },
+      {
         "id": "reccnA65Dw7izj5da",
         "title": "Combining lenalidomide with IL-2 family of cytokines enhances activating receptor and perforin/granzyme expression in NK cells.",
         "summary": "Combining lenalidomide with IL-2 cytokines boosts natural killer cell activity, potentially improving cancer treatment while reducing side effects.",
@@ -410,20 +424,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-13"
-      },
-      {
-        "id": "rec6syVhSmT5Akkdd",
-        "title": "Low-dose nivolumab with neoadjuvant chemotherapy and oral metronomic therapy in borderline resectable oral cavity squamous cell carcinoma: a phase II trial.",
-        "summary": "Low-dose immunotherapy combined with chemotherapy and oral metronomic therapy improved surgical conversion rates in borderline resectable oral cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41810147/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-12"
       }
     ],
     "biomarkers": [
@@ -863,10 +863,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11009,
+    "archive_count": 11010,
     "archive_supplements": 1276,
     "archive_off_label": 429,
     "archive_biomarkers": 6577,
-    "archive_trials": 2430
+    "archive_trials": 2431
   }
 }
