@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T04:13:12.245Z",
+  "last_updated": "2026-03-14T04:13:22.538Z",
   "categories": {
     "supplements": [
       {
@@ -230,6 +230,20 @@
         "added_date": "2026-03-14"
       },
       {
+        "id": "reckqii9pcAfAdbQF",
+        "title": "Effect of anticancer activity of aripiprazole main metabolite OPC-14857 on malignant glioblastoma.",
+        "summary": "Aripiprazole's metabolite OPC-14857 shows potent anticancer effects against glioblastoma, potentially outperforming current standard treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41824398/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-14"
+      },
+      {
         "id": "reccnA65Dw7izj5da",
         "title": "Combining lenalidomide with IL-2 family of cytokines enhances activating receptor and perforin/granzyme expression in NK cells.",
         "summary": "Combining lenalidomide with IL-2 cytokines boosts natural killer cell activity, potentially improving cancer treatment while reducing side effects.",
@@ -402,20 +416,6 @@
         "title": "DGAT1 Inhibition Induces Ferroptosis and Enhances Cancer Immunotherapy Efficacy.",
         "summary": "Blocking DGAT1 protein triggers cancer cell death and boosts immune checkpoint therapy effectiveness by increasing immune cell infiltration.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41812065/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-12"
-      },
-      {
-        "id": "rec5dl2QSUbih7Uph",
-        "title": "Longitudinal clinical and preclinical studies identify hetrombopag as a potent chelator for systemic iron overload.",
-        "summary": "Hetrombopag, an existing aplastic anemia drug, effectively removes excess iron from the blood and prevents iron-related organ damage.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41809835/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -863,10 +863,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10793,
+    "archive_count": 10794,
     "archive_supplements": 1252,
     "archive_off_label": 423,
-    "archive_biomarkers": 6449,
+    "archive_biomarkers": 6450,
     "archive_trials": 2372
   }
 }
