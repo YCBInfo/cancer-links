@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T04:03:45.034Z",
+  "last_updated": "2026-03-14T04:04:04.994Z",
   "categories": {
     "supplements": [
       {
@@ -555,6 +555,34 @@
         "added_date": "2026-03-14"
       },
       {
+        "id": "recGrn5hFQ1sKKzk3",
+        "title": "Glucose‑driven TRIB3 enhances the tumorigenic potential of colon cancer via the PI3K/AKT pathway.",
+        "summary": "High glucose levels increase a protein called TRIB3 in colon cancer, promoting tumor growth and spread through a specific cellular pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41823543/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-14"
+      },
+      {
+        "id": "recwCOVNfjey9NjRS",
+        "title": "Depleting HIF‑1α attenuates the progression of osteosarcoma, but tumorigenicity is sustained through HIF‑independent pathways.",
+        "summary": "Removing HIF-1α slows osteosarcoma growth, but tumors survive through alternative pathways that vary between cells, requiring combination treatments.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41823542/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-14"
+      },
+      {
         "id": "reccG1ClQKizPVril",
         "title": "Polarization of tumor-infiltrating macrophages predicts complete response to neoadjuvant treatment in patients with rectal cancer.",
         "summary": "Rectal cancer patients with more inflammatory and fewer anti-inflammatory tumor macrophages before treatment show complete response to neoadjuvant therapy.",
@@ -601,34 +629,6 @@
         "title": "Exploring the mechanism of polymorphonuclear neutrophils against sepsis based on immune model.",
         "summary": "Researchers studied how immune cells called neutrophils contribute to sepsis damage, aiming to improve understanding of this life-threatening infection response.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41814716/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-13"
-      },
-      {
-        "id": "rec555YGd9yFcCQV7",
-        "title": "PPRC1 is a prognostic biomarker and key regulator of mitochondrial oxidative phosphorylation in multiple myeloma.",
-        "summary": "PPRC1 protein predicts outcomes and controls energy production in multiple myeloma, offering potential new treatment targets.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41814677/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-13"
-      },
-      {
-        "id": "recHaecF3oyGTIt2m",
-        "title": "Multimodal MRI radiomics for predicting HIFU ablation efficacy in uterine fibroids: a machine learning study.",
-        "summary": "Machine learning analysis of MRI scans predicts which uterine fibroids will respond well to ultrasound ablation treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41813595/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -858,9 +858,9 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10741,
+    "archive_count": 10742,
     "archive_supplements": 1248,
-    "archive_off_label": 422,
+    "archive_off_label": 423,
     "archive_biomarkers": 6403,
     "archive_trials": 2371
   }
