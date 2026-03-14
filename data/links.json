@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T09:05:09.769Z",
+  "last_updated": "2026-03-14T09:05:20.943Z",
   "categories": {
     "supplements": [
       {
@@ -356,6 +356,20 @@
         "added_date": "2026-03-14"
       },
       {
+        "id": "recsRHzAqOtpFybgB",
+        "title": "Declined RTN3 stabilizes DHCR7 to induce cholesterol-dependent tumor progression and MEK inhibitors insensitivity in thyroid cancer.",
+        "summary": "Low RTN3 protein in thyroid cancer increases cholesterol levels, promoting tumor growth and resistance to MEK inhibitor drugs.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41813657/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Thyroid"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-14"
+      },
+      {
         "id": "reccnA65Dw7izj5da",
         "title": "Combining lenalidomide with IL-2 family of cytokines enhances activating receptor and perforin/granzyme expression in NK cells.",
         "summary": "Combining lenalidomide with IL-2 cytokines boosts natural killer cell activity, potentially improving cancer treatment while reducing side effects.",
@@ -408,20 +422,6 @@
           "Breast"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-13"
-      },
-      {
-        "id": "recO8aVkgcK8KBRXf",
-        "title": "Pluripotent stem-cell-based screening uncovers sildenafil as a mitochondrial disease therapy.",
-        "summary": "Researchers discovered that sildenafil, an existing drug, can treat Leigh syndrome, a severe mitochondrial disease, by restoring brain cell function.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41819105/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-13"
       }
@@ -863,10 +863,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11010,
+    "archive_count": 11011,
     "archive_supplements": 1276,
     "archive_off_label": 429,
-    "archive_biomarkers": 6577,
+    "archive_biomarkers": 6578,
     "archive_trials": 2431
   }
 }
