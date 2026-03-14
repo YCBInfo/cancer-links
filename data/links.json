@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T04:08:35.664Z",
+  "last_updated": "2026-03-14T04:08:46.823Z",
   "categories": {
     "supplements": [
       {
@@ -21,6 +21,20 @@
         "title": "Chaihu-Shugan-San ameliorates chronic atrophic gastritis by inhibiting nuclear factor-kappa B-mediated inflammation and apoptosis.",
         "summary": "A traditional Chinese medicine formula reduces stomach inflammation and cell death in chronic gastritis by blocking a key inflammatory pathway.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41809450/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-14"
+      },
+      {
+        "id": "recPFM6ywp6FQBixI",
+        "title": "AMBP gene activation promotes cholangiocarcinoma progression through the WNT/β-catenin signaling pathway: Regulatory effect of polysaccharides from Auricularia auricula-judae.",
+        "summary": "AMBP gene activation drives cholangiocarcinoma progression through the WNT pathway, while Huaier polysaccharide reverses this by inhibiting AMBP.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41824874/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -196,20 +210,6 @@
           "Prostate"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-13"
-      },
-      {
-        "id": "recqdI16XBSpw5zkI",
-        "title": "Association of Life's Simple 7 with metabolic-associated steatotic liver disease and non-invasive fibrosis markers.",
-        "summary": "Life's Simple 7 cardiovascular health metrics are associated with liver disease markers, though shared metabolic factors likely explain much of this relationship.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41819603/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-13"
       }
@@ -863,10 +863,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10767,
+    "archive_count": 10768,
     "archive_supplements": 1250,
     "archive_off_label": 423,
-    "archive_biomarkers": 6425,
+    "archive_biomarkers": 6426,
     "archive_trials": 2372
   }
 }
