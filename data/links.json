@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T09:02:20.721Z",
+  "last_updated": "2026-03-14T09:02:32.428Z",
   "categories": {
     "supplements": [
       {
@@ -286,6 +286,20 @@
         "added_date": "2026-03-14"
       },
       {
+        "id": "recCMqF0dGGCY1S0e",
+        "title": "Use of Oral Metformin Therapy for Therapy-Induced Hyperglycemia in Pediatric Patients With Acute Lymphoblastic Leukemia.",
+        "summary": "Metformin offers a safer, easier alternative to insulin for managing high blood sugar caused by leukemia treatment in children.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41823188/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-14"
+      },
+      {
         "id": "reccnA65Dw7izj5da",
         "title": "Combining lenalidomide with IL-2 family of cytokines enhances activating receptor and perforin/granzyme expression in NK cells.",
         "summary": "Combining lenalidomide with IL-2 cytokines boosts natural killer cell activity, potentially improving cancer treatment while reducing side effects.",
@@ -408,20 +422,6 @@
           "Stomach"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-12"
-      },
-      {
-        "id": "recnY1yx25J2F8gff",
-        "title": "Doxorubicin-Induced Cardiotoxicity: Comprehensive Pathway Insights and Advanced Preclinical Therapeutics.",
-        "summary": "Researchers identified multiple mechanisms causing heart damage from doxorubicin cancer drug and found that probiotics and natural compounds may help prevent it.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41808568/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-12"
       }
@@ -863,10 +863,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10995,
+    "archive_count": 10996,
     "archive_supplements": 1275,
     "archive_off_label": 427,
-    "archive_biomarkers": 6574,
+    "archive_biomarkers": 6575,
     "archive_trials": 2422
   }
 }
