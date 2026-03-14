@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T04:04:25.407Z",
+  "last_updated": "2026-03-14T04:04:36.148Z",
   "categories": {
     "supplements": [
       {
@@ -597,6 +597,20 @@
         "added_date": "2026-03-14"
       },
       {
+        "id": "recL0PRR3DSseCJfb",
+        "title": "HELLS inhibits autophagy‑dependent ferroptosis in nasopharyngeal carcinoma by modulating the Nrf2/HO‑1/GPX4 pathway.",
+        "summary": "Blocking HELLS protein in nasopharyngeal cancer cells triggers cell death by enabling a ferroptosis process, offering a potential treatment approach.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41823538/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-14"
+      },
+      {
         "id": "reccG1ClQKizPVril",
         "title": "Polarization of tumor-infiltrating macrophages predicts complete response to neoadjuvant treatment in patients with rectal cancer.",
         "summary": "Rectal cancer patients with more inflammatory and fewer anti-inflammatory tumor macrophages before treatment show complete response to neoadjuvant therapy.",
@@ -621,20 +635,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-13"
-      },
-      {
-        "id": "recfyqOqWkFs5c3FE",
-        "title": "Evaluating the Feasibility of Breast-Conserving Surgery in Breast Cancer Patients with Suspicious Calcifications After Neoadjuvant Chemotherapy: A Retrospective Cohort Study.",
-        "summary": "Breast cancer patients with suspicious calcifications may still be eligible for breast-conserving surgery after chemotherapy, depending on imaging changes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41814780/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-13"
       }
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10744,
+    "archive_count": 10745,
     "archive_supplements": 1249,
     "archive_off_label": 423,
-    "archive_biomarkers": 6404,
+    "archive_biomarkers": 6405,
     "archive_trials": 2371
   }
 }
