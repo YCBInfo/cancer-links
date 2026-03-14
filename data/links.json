@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T04:06:00.817Z",
+  "last_updated": "2026-03-14T04:06:11.529Z",
   "categories": {
     "supplements": [
       {
@@ -673,6 +673,20 @@
         "added_date": "2026-03-14"
       },
       {
+        "id": "recKpBbdmKKyDhjN1",
+        "title": "Identification of a 9-gene autophagy-related signature for predicting prognosis and immune exhaustion features in breast cancer.",
+        "summary": "Researchers identified nine genes linked to autophagy that predict breast cancer survival and treatment response to specific chemotherapy drugs.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41821654/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-14"
+      },
+      {
         "id": "reccG1ClQKizPVril",
         "title": "Polarization of tumor-infiltrating macrophages predicts complete response to neoadjuvant treatment in patients with rectal cancer.",
         "summary": "Rectal cancer patients with more inflammatory and fewer anti-inflammatory tumor macrophages before treatment show complete response to neoadjuvant therapy.",
@@ -839,20 +853,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-13"
-      },
-      {
-        "id": "recmeZGhkgkBsOjzl",
-        "title": "In Vivo T-Cell Engineering: Revolution in Delivery Strategies and Clinical Translation.",
-        "summary": "In vivo T-cell engineering generates cancer-fighting immune cells directly in patients, offering faster and cheaper treatment than traditional methods.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41817927/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-13"
       }
     ]
   },
@@ -862,10 +862,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10753,
+    "archive_count": 10754,
     "archive_supplements": 1249,
     "archive_off_label": 423,
-    "archive_biomarkers": 6413,
+    "archive_biomarkers": 6414,
     "archive_trials": 2371
   }
 }
