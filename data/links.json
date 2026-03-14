@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T04:02:59.934Z",
+  "last_updated": "2026-03-14T04:03:12.761Z",
   "categories": {
     "supplements": [
       {
@@ -216,6 +216,20 @@
     ],
     "off_label": [
       {
+        "id": "recO14AeePo3nP4xY",
+        "title": "A system biology-based identification of potential biomarker interlinking the effect of anti-diabetic drug, Metformin, on reduced occurrence of hepatocellular carcinoma.",
+        "summary": "Metformin reduces hepatocellular carcinoma risk by targeting protein kinase B, a key protein in cancer development pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41822053/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-14"
+      },
+      {
         "id": "reccnA65Dw7izj5da",
         "title": "Combining lenalidomide with IL-2 family of cytokines enhances activating receptor and perforin/granzyme expression in NK cells.",
         "summary": "Combining lenalidomide with IL-2 cytokines boosts natural killer cell activity, potentially improving cancer treatment while reducing side effects.",
@@ -410,20 +424,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-12"
-      },
-      {
-        "id": "recH6LwdOpwGr23om",
-        "title": "Bleeding Risk with Apixaban vs. Rivaroxaban in Acute Venous Thromboembolism.",
-        "summary": "Apixaban and rivaroxaban treat blood clots similarly, but researchers are still determining which causes fewer bleeding complications.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41812192/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-12"
       }
     ],
     "biomarkers": [
@@ -495,6 +495,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-14"
+      },
+      {
+        "id": "recO14AeePo3nP4xY",
+        "title": "A system biology-based identification of potential biomarker interlinking the effect of anti-diabetic drug, Metformin, on reduced occurrence of hepatocellular carcinoma.",
+        "summary": "Metformin reduces hepatocellular carcinoma risk by targeting protein kinase B, a key protein in cancer development pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41822053/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-14"
       },
@@ -615,20 +629,6 @@
         "title": "Isolated dysphagia masking myasthenia gravis diagnosis.",
         "summary": "Difficulty swallowing alone delayed myasthenia gravis diagnosis for 15 months until a chest scan revealed an underlying thymoma tumor.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41812675/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-13"
-      },
-      {
-        "id": "rechxZjy5sNZCnsfp",
-        "title": "Switching of the c-Myc protein degradation pathway depending on the PP2A-B55α complex levels.",
-        "summary": "PP2A-B55α acts as a molecular switch controlling two different pathways that break down the cancer-promoting c-Myc protein.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41818150/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10737,
+    "archive_count": 10738,
     "archive_supplements": 1248,
     "archive_off_label": 422,
-    "archive_biomarkers": 6399,
+    "archive_biomarkers": 6400,
     "archive_trials": 2371
   }
 }
