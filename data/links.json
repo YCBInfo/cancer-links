@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T04:29:15.508Z",
+  "last_updated": "2026-03-14T04:29:26.077Z",
   "categories": {
     "supplements": [
       {
@@ -143,6 +143,20 @@
         "added_date": "2026-03-14"
       },
       {
+        "id": "rec5tMzw0gSYZ0HBQ",
+        "title": "Alkaloids from Evodia rutaecarpa inhibit the occurrence and development of gallbladder cancer in vivo and in vitro.",
+        "summary": "Compounds from Evodia rutaecarpa plant inhibit gallbladder cancer growth and spread in laboratory and animal studies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41820390/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Bladder"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-14"
+      },
+      {
         "id": "recxDxInDnuWbLhYw",
         "title": "Interactions between nutrition and the epigenome: how can it be harnessed for public health?",
         "summary": "Diet influences how genes are expressed through epigenetic changes, offering potential for public health strategies to prevent disease and aging.",
@@ -195,20 +209,6 @@
           "Melanoma"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-13"
-      },
-      {
-        "id": "recRhsJ8uUcM13sjr",
-        "title": "Characterization and anticancer bioactivity of the fungal immunomodulatory protein FIP-Gre from Ganoderma resinaceum.",
-        "summary": "A protein from medicinal mushrooms called FIP-Gre shows promise as a potential anticancer agent through immune system activation.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41817769/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-13"
       }
@@ -862,10 +862,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10883,
+    "archive_count": 10884,
     "archive_supplements": 1258,
     "archive_off_label": 426,
-    "archive_biomarkers": 6514,
+    "archive_biomarkers": 6515,
     "archive_trials": 2388
   }
 }
