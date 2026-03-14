@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T04:15:11.639Z",
+  "last_updated": "2026-03-14T04:15:22.170Z",
   "categories": {
     "supplements": [
       {
@@ -81,6 +81,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-14"
+      },
+      {
+        "id": "recefhD5x7YYWqqRi",
+        "title": "Role of Oncoviruses in Cancer Progression and Emerging Phytochemical-Based Therapies from Medicinal Plants.",
+        "summary": "Medicinal plant compounds show promise as multi-targeted therapies against cancer-causing viruses like HPV and hepatitis by blocking viral oncogenic pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41824191/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -189,20 +203,6 @@
         "title": "Wogonin-derived chemotype enables discovery of novel GLS1 inhibitors with potent antitumor activity.",
         "summary": "Researchers developed LX-191, a new drug that blocks glutaminase-1 to stop cancer cells from using glutamine, potentially overcoming limitations of existing treatments.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41816795/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-13"
-      },
-      {
-        "id": "recdnI8s2CeH13G2P",
-        "title": "Terminalia chebula Extract Alleviates Lipopolysaccharide-Induced Acute Lung Injury by Modulating the Interleukin-17-Dependent Mitogen-Activated Protein Kinase/Nuclear Factor-Kappa B Signaling Pathways.",
-        "summary": "Terminalia chebula extract reduces lung injury by suppressing inflammation through the IL-17 signaling pathway in mice.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41814950/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -862,10 +862,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10804,
+    "archive_count": 10805,
     "archive_supplements": 1253,
     "archive_off_label": 424,
     "archive_biomarkers": 6456,
-    "archive_trials": 2374
+    "archive_trials": 2375
   }
 }
