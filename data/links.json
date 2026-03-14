@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T04:07:00.017Z",
+  "last_updated": "2026-03-14T04:07:10.939Z",
   "categories": {
     "supplements": [
       {
@@ -701,6 +701,20 @@
         "added_date": "2026-03-14"
       },
       {
+        "id": "recndfgGLo3OgdSNI",
+        "title": "Epidemiology of ischemic lesions after diffuse low-grade glioma resection: a Scandinavian multicenter study.",
+        "summary": "Brain surgery for low-grade gliomas risks causing stroke-like injuries that may worsen patient neurological outcomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41825065/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-14"
+      },
+      {
         "id": "reccG1ClQKizPVril",
         "title": "Polarization of tumor-infiltrating macrophages predicts complete response to neoadjuvant treatment in patients with rectal cancer.",
         "summary": "Rectal cancer patients with more inflammatory and fewer anti-inflammatory tumor macrophages before treatment show complete response to neoadjuvant therapy.",
@@ -839,20 +853,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-13"
-      },
-      {
-        "id": "recAKLH6IQlfveG57",
-        "title": "Dosimetric benefits of 1.5 T MR-guided radiotherapy in partial breast treatment.",
-        "summary": "MR-guided radiotherapy for partial breast cancer improves daily treatment accuracy by reducing target definition uncertainty compared to CT-based planning.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41818187/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-13"
       }
     ]
   },
@@ -862,10 +862,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10758,
+    "archive_count": 10759,
     "archive_supplements": 1249,
     "archive_off_label": 423,
-    "archive_biomarkers": 6418,
+    "archive_biomarkers": 6419,
     "archive_trials": 2371
   }
 }
