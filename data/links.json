@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T04:08:04.665Z",
+  "last_updated": "2026-03-14T04:08:15.619Z",
   "categories": {
     "supplements": [
       {
@@ -743,6 +743,21 @@
         "added_date": "2026-03-14"
       },
       {
+        "id": "recLiaTZLV8CqMVtN",
+        "title": "T-cell lymphoblastic lymphoma of the breast: A retrospective observational study and literature review.",
+        "summary": "Breast T-cell lymphoblastic lymphoma is extremely rare; accurate diagnosis through immunohistochemistry and imaging guides chemotherapy treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41824879/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast",
+          "Lymphoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-14"
+      },
+      {
         "id": "reccG1ClQKizPVril",
         "title": "Polarization of tumor-infiltrating macrophages predicts complete response to neoadjuvant treatment in patients with rectal cancer.",
         "summary": "Rectal cancer patients with more inflammatory and fewer anti-inflammatory tumor macrophages before treatment show complete response to neoadjuvant therapy.",
@@ -839,20 +854,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-13"
-      },
-      {
-        "id": "rec2uL7YMqJ2PhF3V",
-        "title": "Cryoablation Activates the cGAS-STING-CXCL10 Axis in Macrophages to Enhance Anti-Tumor Immunity in NSCLC.",
-        "summary": "Freezing lung tumors activates immune cells to release a protein that recruits cancer-fighting T cells, improving treatment outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41818612/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-13"
       }
     ]
   },
@@ -862,10 +863,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10764,
+    "archive_count": 10765,
     "archive_supplements": 1250,
     "archive_off_label": 423,
-    "archive_biomarkers": 6422,
+    "archive_biomarkers": 6423,
     "archive_trials": 2372
   }
 }
