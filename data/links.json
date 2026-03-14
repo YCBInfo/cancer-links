@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T04:10:54.619Z",
+  "last_updated": "2026-03-14T04:11:04.940Z",
   "categories": {
     "supplements": [
       {
@@ -828,6 +828,20 @@
         "added_date": "2026-03-14"
       },
       {
+        "id": "recxS4iioutvOdPIf",
+        "title": "Subtype-specific dependencies and therapeutic opportunities in small cell lung cancer.",
+        "summary": "Small cell lung cancer has distinct molecular subtypes with unique vulnerabilities that epigenetic therapies could exploit for better treatment outcomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41824576/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-14"
+      },
+      {
         "id": "reccG1ClQKizPVril",
         "title": "Polarization of tumor-infiltrating macrophages predicts complete response to neoadjuvant treatment in patients with rectal cancer.",
         "summary": "Rectal cancer patients with more inflammatory and fewer anti-inflammatory tumor macrophages before treatment show complete response to neoadjuvant therapy.",
@@ -836,20 +850,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-13"
-      },
-      {
-        "id": "recfyqOqWkFs5c3FE",
-        "title": "Evaluating the Feasibility of Breast-Conserving Surgery in Breast Cancer Patients with Suspicious Calcifications After Neoadjuvant Chemotherapy: A Retrospective Cohort Study.",
-        "summary": "Breast cancer patients with suspicious calcifications may still be eligible for breast-conserving surgery after chemotherapy, depending on imaging changes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41814780/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -863,10 +863,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10780,
+    "archive_count": 10781,
     "archive_supplements": 1251,
     "archive_off_label": 423,
-    "archive_biomarkers": 6437,
+    "archive_biomarkers": 6438,
     "archive_trials": 2372
   }
 }
