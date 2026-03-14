@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T09:03:14.391Z",
+  "last_updated": "2026-03-14T09:03:25.693Z",
   "categories": {
     "supplements": [
       {
@@ -314,6 +314,20 @@
         "added_date": "2026-03-14"
       },
       {
+        "id": "reccQFtvG28L7VWbO",
+        "title": "Effects of anthracyclines on arteriosclerosis and the protective effect of dexrazoxane in breast cancer patients.",
+        "summary": "Dexrazoxane protects breast cancer patients from heart and artery damage caused by anthracycline chemotherapy drugs.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41821291/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-14"
+      },
+      {
         "id": "reccnA65Dw7izj5da",
         "title": "Combining lenalidomide with IL-2 family of cytokines enhances activating receptor and perforin/granzyme expression in NK cells.",
         "summary": "Combining lenalidomide with IL-2 cytokines boosts natural killer cell activity, potentially improving cancer treatment while reducing side effects.",
@@ -408,20 +422,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-12"
-      },
-      {
-        "id": "rec5yyQxLDllboZoj",
-        "title": "Accelerated discovery of cell migration regulators using label-free deep learning-based automated tracking.",
-        "summary": "DeepBIT, a label-free AI tracking system, rapidly identified breast cancer cell migration regulators among FDA-approved drugs and genetic perturbations.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41811952/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-12"
       }
@@ -863,10 +863,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11000,
+    "archive_count": 11001,
     "archive_supplements": 1276,
     "archive_off_label": 428,
     "archive_biomarkers": 6576,
-    "archive_trials": 2423
+    "archive_trials": 2424
   }
 }
