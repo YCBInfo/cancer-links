@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T04:10:22.272Z",
+  "last_updated": "2026-03-14T04:10:33.137Z",
   "categories": {
     "supplements": [
       {
@@ -35,6 +35,20 @@
         "title": "AMBP gene activation promotes cholangiocarcinoma progression through the WNT/β-catenin signaling pathway: Regulatory effect of polysaccharides from Auricularia auricula-judae.",
         "summary": "AMBP gene activation drives cholangiocarcinoma progression through the WNT pathway, while Huaier polysaccharide reverses this by inhibiting AMBP.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41824874/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-14"
+      },
+      {
+        "id": "recH2ozIjNRzm5sve",
+        "title": "Chemical Space Navigation of Nitidine Leads to the Discovery of a Novel PD-L1 Degradation Agent by Targeting CSN5 for Enhanced Antitumor Immunity.",
+        "summary": "Researchers discovered a new compound (e24) that degrades PD-L1 on cancer cells by targeting CSN5, enhancing immune responses against tumors in mouse models.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41824767/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -194,20 +208,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-13"
-      },
-      {
-        "id": "recPxOXBNNqhINAqE",
-        "title": "Therapeutic translation of traditional Chinese medicine Huangqi derived exosome like nanoparticles: targeting prostate cancer through ferroptosis activation, immune reprogramming, and microbiome modulation.",
-        "summary": "Huangqi-derived nanoparticles kill prostate cancer cells by triggering ferroptosis, boosting immune response, and modifying gut bacteria.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41814394/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Prostate"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -863,10 +863,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10777,
+    "archive_count": 10778,
     "archive_supplements": 1251,
     "archive_off_label": 423,
-    "archive_biomarkers": 6434,
+    "archive_biomarkers": 6435,
     "archive_trials": 2372
   }
 }
