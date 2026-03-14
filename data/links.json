@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-03-14T04:03:33.980Z",
+  "last_updated": "2026-03-14T04:03:45.034Z",
   "categories": {
     "supplements": [
+      {
+        "id": "rec5Oq0WRdQXBoaeS",
+        "title": "4‑Acetylantrocamol LT3 suppresses colorectal cancer growth and metastasis via PI3K/AKT and MAPK pathway modulation.",
+        "summary": "A fungal compound called LT3 effectively stops colorectal cancer growth and spread by blocking key cancer-promoting pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41823551/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-14"
+      },
       {
         "id": "recxDxInDnuWbLhYw",
         "title": "Interactions between nutrition and the epigenome: how can it be harnessed for public health?",
@@ -192,20 +206,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41817030/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-13"
-      },
-      {
-        "id": "rec2GWybksfBW7g89",
-        "title": "Role of autophagy in tumorigenesis and drug resistance: molecular mechanisms and therapeutic targets.",
-        "summary": "Autophagy both suppresses early cancer formation but paradoxically enables tumor growth and drug resistance in advanced stages, suggesting it as a therapeutic target.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41814065/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
@@ -541,6 +541,20 @@
         "added_date": "2026-03-14"
       },
       {
+        "id": "recHo990pc9J2HNXG",
+        "title": "Enolase 1: A paradigm of metabolic enzyme moonlighting in tumorigenesis (Review).",
+        "summary": "Enolase 1 protein drives multiple cancer types through various functions beyond metabolism, offering promising new therapeutic targets for treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41823547/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-14"
+      },
+      {
         "id": "reccG1ClQKizPVril",
         "title": "Polarization of tumor-infiltrating macrophages predicts complete response to neoadjuvant treatment in patients with rectal cancer.",
         "summary": "Rectal cancer patients with more inflammatory and fewer anti-inflammatory tumor macrophages before treatment show complete response to neoadjuvant therapy.",
@@ -621,20 +635,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-13"
-      },
-      {
-        "id": "rec4JYuKADkLo6Ztr",
-        "title": "Incomplete thermal ablation accelerates local and systemic tumor progression in an immunocompetent prostate cancer model.",
-        "summary": "Incomplete heat treatment of prostate cancer paradoxically speeds up tumor growth in mice with functioning immune systems.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41813588/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Prostate"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-13"
       }
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10740,
+    "archive_count": 10741,
     "archive_supplements": 1248,
     "archive_off_label": 422,
-    "archive_biomarkers": 6402,
+    "archive_biomarkers": 6403,
     "archive_trials": 2371
   }
 }
