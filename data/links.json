@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T04:27:43.737Z",
+  "last_updated": "2026-03-14T04:27:56.466Z",
   "categories": {
     "supplements": [
       {
@@ -257,6 +257,20 @@
         "added_date": "2026-03-14"
       },
       {
+        "id": "recuUv6pZG1xLWPFI",
+        "title": "Valsartan Mitigates LPS-Induced Neuroinflammation and Cognitive Deficits via Modulation of RAS-ECS Crosstalk in Mice.",
+        "summary": "Valsartan, a blood pressure medication, reduces brain inflammation and improves memory in mice with Alzheimer's-like disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41820755/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-14"
+      },
+      {
         "id": "reccnA65Dw7izj5da",
         "title": "Combining lenalidomide with IL-2 family of cytokines enhances activating receptor and perforin/granzyme expression in NK cells.",
         "summary": "Combining lenalidomide with IL-2 cytokines boosts natural killer cell activity, potentially improving cancer treatment while reducing side effects.",
@@ -401,20 +415,6 @@
         "title": "A hierarchical theranostic nanoagent for multimodal imaging and targeted foam cell intervention in atherosclerosis.",
         "summary": "Researchers developed a nanoparticle that images atherosclerotic plaques and delivers cholesterol-lowering drugs directly to foam cells, stabilizing dangerous arterial plaques.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41807467/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-12"
-      },
-      {
-        "id": "reczEhZm8FWZm7VFw",
-        "title": "Single-cell RNA Sequencing Discovered Subtypes Associated with Angiogenesis and Propranolol Treatment in Infantile Hemangioma.",
-        "summary": "Researchers identified two infantile hemangioma cell types targeted by propranolol, revealing how the drug suppresses blood vessel growth.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41808430/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -862,10 +862,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10875,
+    "archive_count": 10876,
     "archive_supplements": 1257,
     "archive_off_label": 425,
-    "archive_biomarkers": 6509,
+    "archive_biomarkers": 6510,
     "archive_trials": 2387
   }
 }
