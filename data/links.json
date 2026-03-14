@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T04:06:22.952Z",
+  "last_updated": "2026-03-14T04:06:35.787Z",
   "categories": {
     "supplements": [
       {
@@ -13,6 +13,20 @@
           "Colorectal"
         ],
         "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-14"
+      },
+      {
+        "id": "recpRJoiP6DjweFNV",
+        "title": "Chaihu-Shugan-San ameliorates chronic atrophic gastritis by inhibiting nuclear factor-kappa B-mediated inflammation and apoptosis.",
+        "summary": "A traditional Chinese medicine formula reduces stomach inflammation and cell death in chronic gastritis by blocking a key inflammatory pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41809450/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-14"
       },
@@ -192,20 +206,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41819603/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-13"
-      },
-      {
-        "id": "recRiUl1lz0WBiqei",
-        "title": "Effect of vitamin C supplementation on periodontal inflammation and oxidative stress in cigarette-smoke-exposed rats with periodontitis.",
-        "summary": "Vitamin C supplementation reduced oxidative stress and inflammation in cigarette-smoke-exposed rats with periodontitis.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41817030/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "General"
         ],
@@ -862,10 +862,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10755,
+    "archive_count": 10756,
     "archive_supplements": 1249,
     "archive_off_label": 423,
-    "archive_biomarkers": 6415,
+    "archive_biomarkers": 6416,
     "archive_trials": 2371
   }
 }
