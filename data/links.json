@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T09:03:04.099Z",
+  "last_updated": "2026-03-14T09:03:14.391Z",
   "categories": {
     "supplements": [
       {
@@ -300,6 +300,20 @@
         "added_date": "2026-03-14"
       },
       {
+        "id": "recX7rgwfieeAEWyO",
+        "title": "Effects of Antibiotics and Anti-Inflammatory Drugs on Enamel Development: A Systematic Review with Quantitative Synthesis.",
+        "summary": "Antibiotics and anti-inflammatory drugs taken during early childhood may harm tooth enamel development.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41825436/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 19,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-14"
+      },
+      {
         "id": "reccnA65Dw7izj5da",
         "title": "Combining lenalidomide with IL-2 family of cytokines enhances activating receptor and perforin/granzyme expression in NK cells.",
         "summary": "Combining lenalidomide with IL-2 cytokines boosts natural killer cell activity, potentially improving cancer treatment while reducing side effects.",
@@ -406,20 +420,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-12"
-      },
-      {
-        "id": "recq9xnoJO2OEx0xl",
-        "title": "Safety and Efficacy of Esomeprazole-Containing Regimens for Helicobacter pylori Eradication: A Multicenter Retrospective Study.",
-        "summary": "Esomeprazole-based treatments effectively and safely eliminate H. pylori bacteria, reducing gastric cancer risk in both new and previously treated patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41811999/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Stomach"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -863,9 +863,9 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10999,
+    "archive_count": 11000,
     "archive_supplements": 1276,
-    "archive_off_label": 427,
+    "archive_off_label": 428,
     "archive_biomarkers": 6576,
     "archive_trials": 2423
   }
