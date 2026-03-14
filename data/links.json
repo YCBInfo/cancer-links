@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T04:05:50.580Z",
+  "last_updated": "2026-03-14T04:06:00.817Z",
   "categories": {
     "supplements": [
       {
@@ -657,6 +657,22 @@
         "added_date": "2026-03-14"
       },
       {
+        "id": "rec3CQFxJHGTQIdzL",
+        "title": "IDH enzyme inhibition in cancer therapy: mechanisms, mutational insights, and effects of IDH inhibitors in glioma, acute myeloid leukemia and chondrosarcoma.",
+        "summary": "IDH inhibitors reduce tumor size and improve survival in glioma, AML, and chondrosarcoma, though resistance mechanisms can develop.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41821663/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast",
+          "Leukemia",
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-14"
+      },
+      {
         "id": "reccG1ClQKizPVril",
         "title": "Polarization of tumor-infiltrating macrophages predicts complete response to neoadjuvant treatment in patients with rectal cancer.",
         "summary": "Rectal cancer patients with more inflammatory and fewer anti-inflammatory tumor macrophages before treatment show complete response to neoadjuvant therapy.",
@@ -837,20 +853,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-13"
-      },
-      {
-        "id": "recv1Jcwau6H2pIgZ",
-        "title": "Population Pharmacokinetic Modeling of Encorafenib in Healthy Participants and Patients with BRAF V600-Mutant Solid Tumors: A Semi-mechanistic Autoinduction Model.",
-        "summary": "Researchers developed a model to understand how the body processes encorafenib, a drug targeting BRAF-mutant cancers, across different tumor types.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41817901/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-13"
       }
     ]
   },
@@ -860,10 +862,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10752,
+    "archive_count": 10753,
     "archive_supplements": 1249,
     "archive_off_label": 423,
-    "archive_biomarkers": 6412,
+    "archive_biomarkers": 6413,
     "archive_trials": 2371
   }
 }
