@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T09:05:52.956Z",
+  "last_updated": "2026-03-14T09:06:03.443Z",
   "categories": {
     "supplements": [
       {
@@ -370,6 +370,20 @@
         "added_date": "2026-03-14"
       },
       {
+        "id": "recDWUbpbtMJpJ4aT",
+        "title": "NSAIDs-loaded nanocarriers as emerging anticancer therapeutics: Harnessing inflammation-targeted drug delivery to combat tumor progression.",
+        "summary": "Nanoparticle delivery of anti-inflammatory drugs shows promise for targeting cancer-promoting inflammation while reducing side effects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41819383/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-14"
+      },
+      {
         "id": "reccnA65Dw7izj5da",
         "title": "Combining lenalidomide with IL-2 family of cytokines enhances activating receptor and perforin/granzyme expression in NK cells.",
         "summary": "Combining lenalidomide with IL-2 cytokines boosts natural killer cell activity, potentially improving cancer treatment while reducing side effects.",
@@ -408,20 +422,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-13"
-      },
-      {
-        "id": "recC2RQenn7ajkDGS",
-        "title": "Glucocorticoids mediate fasting efficacy in breast cancer.",
-        "summary": "Fasting helps hormone-positive breast cancer patients by activating a protein called the glucocorticoid receptor, which could be targeted with drugs instead of requiring strict diets.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41820091/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-13"
       }
@@ -863,10 +863,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11014,
+    "archive_count": 11015,
     "archive_supplements": 1276,
     "archive_off_label": 430,
-    "archive_biomarkers": 6579,
+    "archive_biomarkers": 6580,
     "archive_trials": 2432
   }
 }
