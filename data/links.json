@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T09:04:22.815Z",
+  "last_updated": "2026-03-14T09:04:32.730Z",
   "categories": {
     "supplements": [
       {
@@ -328,6 +328,20 @@
         "added_date": "2026-03-14"
       },
       {
+        "id": "recqFDHnMSlznZKm0",
+        "title": "Targeting metabolism to combat anticancer and antibacterial drug resistance.",
+        "summary": "Cancer and bacteria resist drugs by reprogramming their metabolism; targeting these metabolic changes could restore treatment effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41820153/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-14"
+      },
+      {
         "id": "reccnA65Dw7izj5da",
         "title": "Combining lenalidomide with IL-2 family of cytokines enhances activating receptor and perforin/granzyme expression in NK cells.",
         "summary": "Combining lenalidomide with IL-2 cytokines boosts natural killer cell activity, potentially improving cancer treatment while reducing side effects.",
@@ -404,20 +418,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41810147/",
         "source": "PubMed",
         "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-12"
-      },
-      {
-        "id": "recxTl16MWS6fqmBO",
-        "title": "Conserved use of tetraspanin CD9 as an entry receptor by rhabdoviruses spanning multiple genera.",
-        "summary": "Researchers identified CD9 protein as a shared entry receptor for multiple rhabdoviruses across species and found nitazoxanide as a potential broad-spectrum antiviral treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41811454/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
@@ -863,10 +863,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11006,
+    "archive_count": 11007,
     "archive_supplements": 1276,
     "archive_off_label": 429,
     "archive_biomarkers": 6576,
-    "archive_trials": 2428
+    "archive_trials": 2429
   }
 }
