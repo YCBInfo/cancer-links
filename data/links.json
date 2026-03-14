@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T04:05:39.582Z",
+  "last_updated": "2026-03-14T04:05:50.580Z",
   "categories": {
     "supplements": [
       {
@@ -643,6 +643,20 @@
     ],
     "trials": [
       {
+        "id": "recvYhm7NQcXWAVFe",
+        "title": "The dual roles of natural killer cells in liver immunity and tolerance: Implications for health and disease.",
+        "summary": "NK cells regulate liver immunity and tumor control; restoring their function through CAR-NK therapy may treat hepatocellular carcinoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41824635/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-14"
+      },
+      {
         "id": "reccG1ClQKizPVril",
         "title": "Polarization of tumor-infiltrating macrophages predicts complete response to neoadjuvant treatment in patients with rectal cancer.",
         "summary": "Rectal cancer patients with more inflammatory and fewer anti-inflammatory tumor macrophages before treatment show complete response to neoadjuvant therapy.",
@@ -837,20 +851,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-13"
-      },
-      {
-        "id": "recNct3fKSNCsPceO",
-        "title": "EMeRALDS: Electronic Medical Record Driven Automated Lung Nodule Detection and Classification in Thoracic CT Images.",
-        "summary": "A new AI system accurately detects and classifies lung nodules in CT scans, potentially enabling earlier lung cancer diagnosis and improved patient outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41817877/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-13"
       }
     ]
   },
@@ -860,10 +860,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10751,
+    "archive_count": 10752,
     "archive_supplements": 1249,
     "archive_off_label": 423,
-    "archive_biomarkers": 6411,
+    "archive_biomarkers": 6412,
     "archive_trials": 2371
   }
 }
