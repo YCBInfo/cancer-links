@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T07:04:24.646Z",
+  "last_updated": "2026-03-14T07:04:35.611Z",
   "categories": {
     "supplements": [
       {
@@ -272,6 +272,20 @@
         "added_date": "2026-03-14"
       },
       {
+        "id": "rec9SNauYgn0HNUtq",
+        "title": "Treating Heart Dysfunction Related to Cancer Therapy With Sacubitril/Valsartan (Treat HF)",
+        "summary": "A study testing whether a heart medication can safely treat early heart damage in young cancer survivors from chemotherapy.",
+        "url": "https://clinicaltrials.gov/study/NCT05194111",
+        "source": "ClinicalTrials.gov",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 10,
+        "pub_date": "2026-03-13",
+        "added_date": "2026-03-14"
+      },
+      {
         "id": "reccnA65Dw7izj5da",
         "title": "Combining lenalidomide with IL-2 family of cytokines enhances activating receptor and perforin/granzyme expression in NK cells.",
         "summary": "Combining lenalidomide with IL-2 cytokines boosts natural killer cell activity, potentially improving cancer treatment while reducing side effects.",
@@ -404,20 +418,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41808568/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-12"
-      },
-      {
-        "id": "recSID3wC9odWFblY",
-        "title": "A hierarchical theranostic nanoagent for multimodal imaging and targeted foam cell intervention in atherosclerosis.",
-        "summary": "Researchers developed a nanoparticle that images atherosclerotic plaques and delivers cholesterol-lowering drugs directly to foam cells, stabilizing dangerous arterial plaques.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41807467/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
         "cancer_types": [
           "General"
         ],
@@ -863,10 +863,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10970,
+    "archive_count": 10971,
     "archive_supplements": 1275,
     "archive_off_label": 426,
     "archive_biomarkers": 6569,
-    "archive_trials": 2403
+    "archive_trials": 2404
   }
 }
