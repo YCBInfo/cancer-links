@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T09:06:16.186Z",
+  "last_updated": "2026-03-14T09:06:27.979Z",
   "categories": {
     "supplements": [
       {
@@ -384,6 +384,20 @@
         "added_date": "2026-03-14"
       },
       {
+        "id": "reci7MqyXFWFZmRT2",
+        "title": "Oncology drug repurposing as a blueprint for Alzheimer's therapy.",
+        "summary": "Cancer drugs tested in combinations may reverse Alzheimer's disease pathology across multiple brain cell types, offering a faster development pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41816361/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-14"
+      },
+      {
         "id": "reccnA65Dw7izj5da",
         "title": "Combining lenalidomide with IL-2 family of cytokines enhances activating receptor and perforin/granzyme expression in NK cells.",
         "summary": "Combining lenalidomide with IL-2 cytokines boosts natural killer cell activity, potentially improving cancer treatment while reducing side effects.",
@@ -408,20 +422,6 @@
           "Leukemia"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-13"
-      },
-      {
-        "id": "rec2GWybksfBW7g89",
-        "title": "Role of autophagy in tumorigenesis and drug resistance: molecular mechanisms and therapeutic targets.",
-        "summary": "Autophagy both suppresses early cancer formation but paradoxically enables tumor growth and drug resistance in advanced stages, suggesting it as a therapeutic target.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41814065/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-13"
       }
@@ -863,10 +863,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11016,
+    "archive_count": 11017,
     "archive_supplements": 1276,
     "archive_off_label": 430,
     "archive_biomarkers": 6580,
-    "archive_trials": 2433
+    "archive_trials": 2434
   }
 }
