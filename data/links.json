@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T04:23:06.879Z",
+  "last_updated": "2026-03-14T04:23:17.856Z",
   "categories": {
     "supplements": [
       {
@@ -115,6 +115,20 @@
         "added_date": "2026-03-14"
       },
       {
+        "id": "recB8uLEDHl3XdZvW",
+        "title": "Cytotoxic secondary metabolites from endophytic fungus Xylaria sp.: isolation and in vitro/in silico evaluation.",
+        "summary": "Two fungal compounds showed promise against breast cancer cells, with one demonstrating stronger cytotoxic effects in laboratory tests.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41823089/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-14"
+      },
+      {
         "id": "recxDxInDnuWbLhYw",
         "title": "Interactions between nutrition and the epigenome: how can it be harnessed for public health?",
         "summary": "Diet influences how genes are expressed through epigenetic changes, offering potential for public health strategies to prevent disease and aging.",
@@ -195,20 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-13"
-      },
-      {
-        "id": "rectxwnaqlVFvFlWX",
-        "title": "Metabologenomic Hallmark-Based Discovery of Bacterial Thioamides as a New Lead against Drug-Resistant Pancreatic Cancer.",
-        "summary": "Researchers discovered bacterial compounds called thioamides that effectively kill drug-resistant pancreatic cancer cells by blocking a key growth pathway.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41816998/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Pancreatic"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-13"
       }
@@ -862,10 +862,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 10849,
+    "archive_count": 10850,
     "archive_supplements": 1255,
     "archive_off_label": 424,
-    "archive_biomarkers": 6489,
+    "archive_biomarkers": 6490,
     "archive_trials": 2384
   }
 }
