@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T09:06:27.979Z",
+  "last_updated": "2026-03-14T09:06:38.973Z",
   "categories": {
     "supplements": [
       {
@@ -398,6 +398,20 @@
         "added_date": "2026-03-14"
       },
       {
+        "id": "recxIYfSN4rKtPAPB",
+        "title": "The angiotensin II receptor blocker candesartan mitigates cisplatin-induced myocardial injury via suppression of TLR-4/NF-κB/IRF-3/AP-1 signaling and restoration of antioxidant defenses.",
+        "summary": "Candesartan protects against cisplatin chemotherapy's heart damage by reducing oxidative stress and inflammation in animal studies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41819042/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-14"
+      },
+      {
         "id": "reccnA65Dw7izj5da",
         "title": "Combining lenalidomide with IL-2 family of cytokines enhances activating receptor and perforin/granzyme expression in NK cells.",
         "summary": "Combining lenalidomide with IL-2 cytokines boosts natural killer cell activity, potentially improving cancer treatment while reducing side effects.",
@@ -408,20 +422,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-13"
-      },
-      {
-        "id": "recbpBleY6KhcCKXc",
-        "title": "Lipid Droplet-Targeted Biomimetic Liposomes Potentiate Chemo-Ferroptosis Therapy in Leukemia.",
-        "summary": "Researchers developed a targeted treatment combining chemotherapy and ferroptosis that overcomes drug resistance in leukemia by disrupting protective lipid structures in cancer cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41814941/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-13"
       }
@@ -863,10 +863,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11017,
+    "archive_count": 11018,
     "archive_supplements": 1276,
     "archive_off_label": 430,
     "archive_biomarkers": 6580,
-    "archive_trials": 2434
+    "archive_trials": 2435
   }
 }
