@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-15T04:04:39.025Z",
+  "last_updated": "2026-03-15T04:04:49.766Z",
   "categories": {
     "supplements": [
       {
@@ -526,6 +526,20 @@
         "added_date": "2026-03-15"
       },
       {
+        "id": "recjanIjgBT6OXOiw",
+        "title": "Modeling-prediction-based-HPLC-MS/MS with stable isotope labeling: A strategy for static-dynamic profiling of sphingolipid alterations in hepatocellular carcinoma.",
+        "summary": "Researchers identified how glucose and palmitic acid differently alter sphingolipids in hepatocellular carcinoma using advanced tracking methods.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41655530/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-15"
+      },
+      {
         "id": "recLOtVPKWKhjbcBM",
         "title": "Contrasting functions of CD73 and adenosine in CD8+ T-cell exhaustion during antitumor immunity.",
         "summary": "CD73 promotes exhaustion of tumor-fighting CD8+ T cells, while adenosine signaling helps maintain their self-renewing precursor state.",
@@ -623,20 +637,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-14"
-      },
-      {
-        "id": "rec5Oq0WRdQXBoaeS",
-        "title": "4‑Acetylantrocamol LT3 suppresses colorectal cancer growth and metastasis via PI3K/AKT and MAPK pathway modulation.",
-        "summary": "A fungal compound called LT3 effectively stops colorectal cancer growth and spread by blocking key cancer-promoting pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41823551/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-14"
       }
     ],
     "trials": [
@@ -721,6 +721,21 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-15"
+      },
+      {
+        "id": "recpS7rb71jT7UXYB",
+        "title": "Targeting hepatocellular carcinoma with MAGE-A3-specific TCR-engineered T cells: A therapeutic approach.",
+        "summary": "Researchers developed engineered T cells targeting MAGE-A3 protein to treat hepatocellular carcinoma more effectively.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41655433/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Melanoma",
+          "Liver"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-03-15"
       },
@@ -838,20 +853,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-14"
-      },
-      {
-        "id": "reciAxb0QZkZjuTHX",
-        "title": "Bilateral blindness from optic chiasm metastasis as the initial presentation of stage 4 neuroblastoma: A case report.",
-        "summary": "A child with advanced neuroblastoma presented with sudden blindness from cancer spreading to the optic nerve, an extremely rare occurrence.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41824866/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-14"
       }
     ]
   },
@@ -861,10 +862,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11030,
+    "archive_count": 11031,
     "archive_supplements": 1276,
     "archive_off_label": 433,
-    "archive_biomarkers": 6585,
+    "archive_biomarkers": 6586,
     "archive_trials": 2439
   }
 }
