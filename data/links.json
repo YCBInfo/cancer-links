@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-15T04:06:05.663Z",
+  "last_updated": "2026-03-15T04:06:17.005Z",
   "categories": {
     "supplements": [
       {
@@ -626,18 +626,18 @@
         "added_date": "2026-03-15"
       },
       {
-        "id": "recLOtVPKWKhjbcBM",
-        "title": "Contrasting functions of CD73 and adenosine in CD8+ T-cell exhaustion during antitumor immunity.",
-        "summary": "CD73 promotes exhaustion of tumor-fighting CD8+ T cells, while adenosine signaling helps maintain their self-renewing precursor state.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41823682/",
+        "id": "recz4bBXIbpkpEhSb",
+        "title": "Targeting DDX5 using FL118 suppresses mTOR signaling and tumorigenicity in JAK2V617F-driven myeloproliferative neoplasms.",
+        "summary": "FL118 drug suppresses myeloproliferative neoplasm tumors by targeting DDX5 protein and blocking cancer cell growth pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41621382/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
-          "General"
+          "Leukemia"
         ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-14"
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-15"
       }
     ],
     "trials": [
@@ -783,6 +783,20 @@
         "added_date": "2026-03-15"
       },
       {
+        "id": "recz4bBXIbpkpEhSb",
+        "title": "Targeting DDX5 using FL118 suppresses mTOR signaling and tumorigenicity in JAK2V617F-driven myeloproliferative neoplasms.",
+        "summary": "FL118 drug suppresses myeloproliferative neoplasm tumors by targeting DDX5 protein and blocking cancer cell growth pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41621382/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-15"
+      },
+      {
         "id": "recvYhm7NQcXWAVFe",
         "title": "The dual roles of natural killer cells in liver immunity and tolerance: Implications for health and disease.",
         "summary": "NK cells regulate liver immunity and tumor control; restoring their function through CAR-NK therapy may treat hepatocellular carcinoma.",
@@ -839,20 +853,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-14"
-      },
-      {
-        "id": "recndfgGLo3OgdSNI",
-        "title": "Epidemiology of ischemic lesions after diffuse low-grade glioma resection: a Scandinavian multicenter study.",
-        "summary": "Brain surgery for low-grade gliomas risks causing stroke-like injuries that may worsen patient neurological outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41825065/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-14"
       }
     ]
   },
@@ -862,10 +862,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11038,
+    "archive_count": 11039,
     "archive_supplements": 1276,
     "archive_off_label": 433,
-    "archive_biomarkers": 6592,
+    "archive_biomarkers": 6593,
     "archive_trials": 2440
   }
 }
