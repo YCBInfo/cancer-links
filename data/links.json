@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-15T04:05:11.017Z",
+  "last_updated": "2026-03-15T04:05:22.269Z",
   "categories": {
     "supplements": [
       {
@@ -569,6 +569,21 @@
         "added_date": "2026-03-15"
       },
       {
+        "id": "rec08XrjH39SBYGiL",
+        "title": "Polysialylated CD56 drives immune evasion in clear cell renal cell carcinoma via engagement of the Siglec-7 checkpoint on CD8+ T cells.",
+        "summary": "Polysialylated CD56 on kidney cancer cells suppresses immune cells via Siglec-7, and blocking this interaction restores anti-tumor immunity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41643265/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal",
+          "Kidney"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-15"
+      },
+      {
         "id": "recLOtVPKWKhjbcBM",
         "title": "Contrasting functions of CD73 and adenosine in CD8+ T-cell exhaustion during antitumor immunity.",
         "summary": "CD73 promotes exhaustion of tumor-fighting CD8+ T cells, while adenosine signaling helps maintain their self-renewing precursor state.",
@@ -622,20 +637,6 @@
           "Kidney"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-14"
-      },
-      {
-        "id": "rec5geWWFHCD1Zfjl",
-        "title": "Genetic and clinical determinants of tacrolimus accumulation in early liver transplantation: evidence for a combined genotype-antibiotic effect.",
-        "summary": "Researchers identified how genetic factors and antibiotics together influence tacrolimus levels in liver transplant patients, improving drug dosing safety.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41821195/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-14"
       }
@@ -862,10 +863,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11033,
+    "archive_count": 11034,
     "archive_supplements": 1276,
     "archive_off_label": 433,
-    "archive_biomarkers": 6587,
+    "archive_biomarkers": 6588,
     "archive_trials": 2440
   }
 }
