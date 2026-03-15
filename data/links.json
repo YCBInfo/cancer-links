@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-15T04:08:59.866Z",
+  "last_updated": "2026-03-15T04:09:11.252Z",
   "categories": {
     "supplements": [
       {
@@ -216,6 +216,20 @@
     ],
     "off_label": [
       {
+        "id": "recDPiPgmFvPHjCcr",
+        "title": "The mitochondrial gambit: Re-evaluating Antimycin A as a multi-pronged anti-cancer agent.",
+        "summary": "Antimycin A, a mitochondrial inhibitor, kills cancer cells through multiple mechanisms including energy depletion, protein destruction, and stem cell targeting.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41576908/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Lymphoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-15"
+      },
+      {
         "id": "recO14AeePo3nP4xY",
         "title": "A system biology-based identification of potential biomarker interlinking the effect of anti-diabetic drug, Metformin, on reduced occurrence of hepatocellular carcinoma.",
         "summary": "Metformin reduces hepatocellular carcinoma risk by targeting protein kinase B, a key protein in cancer development pathways.",
@@ -410,20 +424,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-14"
-      },
-      {
-        "id": "reccnA65Dw7izj5da",
-        "title": "Combining lenalidomide with IL-2 family of cytokines enhances activating receptor and perforin/granzyme expression in NK cells.",
-        "summary": "Combining lenalidomide with IL-2 cytokines boosts natural killer cell activity, potentially improving cancer treatment while reducing side effects.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41818310/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-13"
       }
     ],
     "biomarkers": [
@@ -861,10 +861,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11053,
+    "archive_count": 11054,
     "archive_supplements": 1277,
     "archive_off_label": 433,
-    "archive_biomarkers": 6606,
+    "archive_biomarkers": 6607,
     "archive_trials": 2440
   }
 }
