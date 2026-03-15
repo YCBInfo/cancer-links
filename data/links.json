@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-15T09:02:48.294Z",
+  "last_updated": "2026-03-15T09:03:34.361Z",
   "categories": {
     "supplements": [
       {
@@ -315,6 +315,34 @@
         "added_date": "2026-03-15"
       },
       {
+        "id": "recz4MRpc3JREuJ16",
+        "title": "Nitroxoline Enhances Radiosensitivity in Non-Small Cell Lung Cancer by Suppressing STAT3-AKT-MTOR Survival Signaling.",
+        "summary": "Nitroxoline, an existing antimicrobial drug, enhances radiation therapy effectiveness in lung cancer by blocking survival pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41828719/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-15"
+      },
+      {
+        "id": "rec118A8btJ5dMjOj",
+        "title": "Molecular Lung Imaging Following Exposure to Radiation Predicts Long-Term Survival in Rats.",
+        "summary": "Lung imaging after radiation exposure can predict which rats survive long-term and whether treatment with lisinopril works.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41828702/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-15"
+      },
+      {
         "id": "recO14AeePo3nP4xY",
         "title": "A system biology-based identification of potential biomarker interlinking the effect of anti-diabetic drug, Metformin, on reduced occurrence of hepatocellular carcinoma.",
         "summary": "Metformin reduces hepatocellular carcinoma risk by targeting protein kinase B, a key protein in cancer development pathways.",
@@ -393,34 +421,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-14"
-      },
-      {
-        "id": "recX7rgwfieeAEWyO",
-        "title": "Effects of Antibiotics and Anti-Inflammatory Drugs on Enamel Development: A Systematic Review with Quantitative Synthesis.",
-        "summary": "Antibiotics and anti-inflammatory drugs taken during early childhood may harm tooth enamel development.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41825436/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 19,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-14"
-      },
-      {
-        "id": "reccQFtvG28L7VWbO",
-        "title": "Effects of anthracyclines on arteriosclerosis and the protective effect of dexrazoxane in breast cancer patients.",
-        "summary": "Dexrazoxane protects breast cancer patients from heart and artery damage caused by anthracycline chemotherapy drugs.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41821291/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -862,10 +862,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11181,
+    "archive_count": 11182,
     "archive_supplements": 1298,
     "archive_off_label": 436,
-    "archive_biomarkers": 6695,
+    "archive_biomarkers": 6696,
     "archive_trials": 2455
   }
 }
