@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-15T04:22:24.596Z",
+  "last_updated": "2026-03-15T04:22:34.383Z",
   "categories": {
     "supplements": [
       {
@@ -115,6 +115,20 @@
         "added_date": "2026-03-15"
       },
       {
+        "id": "recYZXj3gVZQaS5l1",
+        "title": "Homoharringtonine inhibits growth and migration in non-small cell lung cancer via PDIA4-mediated modulation of autophagy and EMT.",
+        "summary": "Homoharringtonine inhibits non-small cell lung cancer growth and spread by blocking a protein called PDIA4 and triggering autophagy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41826608/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-15"
+      },
+      {
         "id": "rec5Oq0WRdQXBoaeS",
         "title": "4‑Acetylantrocamol LT3 suppresses colorectal cancer growth and metastasis via PI3K/AKT and MAPK pathway modulation.",
         "summary": "A fungal compound called LT3 effectively stops colorectal cancer growth and spread by blocking key cancer-promoting pathways.",
@@ -193,20 +207,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Stomach"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-14"
-      },
-      {
-        "id": "recefhD5x7YYWqqRi",
-        "title": "Role of Oncoviruses in Cancer Progression and Emerging Phytochemical-Based Therapies from Medicinal Plants.",
-        "summary": "Medicinal plant compounds show promise as multi-targeted therapies against cancer-causing viruses like HPV and hepatitis by blocking viral oncogenic pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41824191/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -862,10 +862,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11127,
+    "archive_count": 11128,
     "archive_supplements": 1283,
     "archive_off_label": 434,
-    "archive_biomarkers": 6663,
+    "archive_biomarkers": 6664,
     "archive_trials": 2450
   }
 }
