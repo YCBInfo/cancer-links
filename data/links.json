@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-15T04:14:07.627Z",
+  "last_updated": "2026-03-15T04:14:18.286Z",
   "categories": {
     "supplements": [
       {
@@ -229,6 +229,20 @@
         "added_date": "2026-03-15"
       },
       {
+        "id": "recQ7GtwRnIc2TyjQ",
+        "title": "Delivering precision oncology in metastatic breast cancer: Clinical impact of comprehensive genomic profiling-The CATCH experience.",
+        "summary": "Genomic testing identified actionable mutations in metastatic breast cancer, enabling personalized treatments that extended progression-free survival in one-third of patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41170836/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 13,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-03-15"
+      },
+      {
         "id": "recO14AeePo3nP4xY",
         "title": "A system biology-based identification of potential biomarker interlinking the effect of anti-diabetic drug, Metformin, on reduced occurrence of hepatocellular carcinoma.",
         "summary": "Metformin reduces hepatocellular carcinoma risk by targeting protein kinase B, a key protein in cancer development pathways.",
@@ -401,20 +415,6 @@
         "title": "Oncology drug repurposing as a blueprint for Alzheimer's therapy.",
         "summary": "Cancer drugs tested in combinations may reverse Alzheimer's disease pathology across multiple brain cell types, offering a faster development pathway.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41816361/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-14"
-      },
-      {
-        "id": "recxIYfSN4rKtPAPB",
-        "title": "The angiotensin II receptor blocker candesartan mitigates cisplatin-induced myocardial injury via suppression of TLR-4/NF-κB/IRF-3/AP-1 signaling and restoration of antioxidant defenses.",
-        "summary": "Candesartan protects against cisplatin chemotherapy's heart damage by reducing oxidative stress and inflammation in animal studies.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41819042/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -860,10 +860,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11081,
+    "archive_count": 11082,
     "archive_supplements": 1279,
     "archive_off_label": 434,
-    "archive_biomarkers": 6630,
+    "archive_biomarkers": 6631,
     "archive_trials": 2441
   }
 }
