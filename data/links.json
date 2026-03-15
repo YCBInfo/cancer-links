@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-15T04:04:49.766Z",
+  "last_updated": "2026-03-15T04:05:01.253Z",
   "categories": {
     "supplements": [
       {
@@ -540,6 +540,21 @@
         "added_date": "2026-03-15"
       },
       {
+        "id": "recpS7rb71jT7UXYB",
+        "title": "Targeting hepatocellular carcinoma with MAGE-A3-specific TCR-engineered T cells: A therapeutic approach.",
+        "summary": "Researchers developed engineered T cells targeting MAGE-A3 protein to treat hepatocellular carcinoma more effectively.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41655433/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Melanoma",
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-15"
+      },
+      {
         "id": "recLOtVPKWKhjbcBM",
         "title": "Contrasting functions of CD73 and adenosine in CD8+ T-cell exhaustion during antitumor immunity.",
         "summary": "CD73 promotes exhaustion of tumor-fighting CD8+ T cells, while adenosine signaling helps maintain their self-renewing precursor state.",
@@ -619,20 +634,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-14"
-      },
-      {
-        "id": "recgpCy1lThhyJZkT",
-        "title": "Silencing of SIVA‑1 promotes cisplatin resistance in gastric cancer via the Bcl‑2/BAX‑mediated mitochondria‑dependent apoptosis pathway.",
-        "summary": "Silencing SIVA-1 increases cisplatin resistance in gastric cancer by blocking cell death pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41823560/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Stomach"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -862,10 +863,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11031,
+    "archive_count": 11032,
     "archive_supplements": 1276,
     "archive_off_label": 433,
     "archive_biomarkers": 6586,
-    "archive_trials": 2439
+    "archive_trials": 2440
   }
 }
