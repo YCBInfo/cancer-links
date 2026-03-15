@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-15T04:07:44.814Z",
+  "last_updated": "2026-03-15T04:07:54.985Z",
   "categories": {
     "supplements": [
       {
@@ -797,6 +797,20 @@
         "added_date": "2026-03-15"
       },
       {
+        "id": "recoMHWq5bSPq7VTd",
+        "title": "Exosome-mediated radioprotection: multimodal mechanisms and therapeutic innovations.",
+        "summary": "Exosomes show promise as safer treatments to protect healthy cells from radiation damage during cancer therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41587513/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-15"
+      },
+      {
         "id": "recvYhm7NQcXWAVFe",
         "title": "The dual roles of natural killer cells in liver immunity and tolerance: Implications for health and disease.",
         "summary": "NK cells regulate liver immunity and tumor control; restoring their function through CAR-NK therapy may treat hepatocellular carcinoma.",
@@ -839,20 +853,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-14"
-      },
-      {
-        "id": "recW9WZlGI5YNYfXw",
-        "title": "Surgical Outcomes of Prepectoral Two-Stage Breast Reconstruction in Patients Treated with Pembrolizumab or CDK4/6 Inhibitors.",
-        "summary": "Breast cancer patients on pembrolizumab or CDK4/6 inhibitors can safely undergo two-stage breast reconstruction with comparable surgical outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41825078/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-14"
       }
     ]
   },
@@ -862,10 +862,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11046,
+    "archive_count": 11047,
     "archive_supplements": 1277,
     "archive_off_label": 433,
-    "archive_biomarkers": 6599,
+    "archive_biomarkers": 6600,
     "archive_trials": 2440
   }
 }
