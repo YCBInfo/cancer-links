@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-15T06:03:16.444Z",
+  "last_updated": "2026-03-15T06:03:27.612Z",
   "categories": {
     "supplements": [
       {
@@ -185,6 +185,20 @@
         "added_date": "2026-03-15"
       },
       {
+        "id": "rec1vOvewXrmxH1h3",
+        "title": "Enhanced antidepressant effects of fluoxetine combined with quercetin: studies in vitro and in vivo.",
+        "summary": "Combining fluoxetine with quercetin, a natural compound, boosts antidepressant effects in laboratory and animal studies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41519368/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-15"
+      },
+      {
         "id": "rec5Oq0WRdQXBoaeS",
         "title": "4‑Acetylantrocamol LT3 suppresses colorectal cancer growth and metastasis via PI3K/AKT and MAPK pathway modulation.",
         "summary": "A fungal compound called LT3 effectively stops colorectal cancer growth and spread by blocking key cancer-promoting pathways.",
@@ -195,20 +209,6 @@
           "Colorectal"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-14"
-      },
-      {
-        "id": "recpRJoiP6DjweFNV",
-        "title": "Chaihu-Shugan-San ameliorates chronic atrophic gastritis by inhibiting nuclear factor-kappa B-mediated inflammation and apoptosis.",
-        "summary": "A traditional Chinese medicine formula reduces stomach inflammation and cell death in chronic gastritis by blocking a key inflammatory pathway.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41809450/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-14"
       }
@@ -279,6 +279,20 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41826369/",
         "source": "PubMed",
         "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-15"
+      },
+      {
+        "id": "rec1vOvewXrmxH1h3",
+        "title": "Enhanced antidepressant effects of fluoxetine combined with quercetin: studies in vitro and in vivo.",
+        "summary": "Combining fluoxetine with quercetin, a natural compound, boosts antidepressant effects in laboratory and animal studies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41519368/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "General"
         ],
@@ -405,20 +419,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41820153/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-14"
-      },
-      {
-        "id": "recwkFHOzpeGn5zQq",
-        "title": "The role of KPNA3 in multiple myeloma: implications for targeting nuclear import.",
-        "summary": "Targeting KPNA3 protein in multiple myeloma cells reduces tumor growth and increases drug sensitivity, suggesting a new treatment approach.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41813919/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
         "cancer_types": [
           "General"
         ],
@@ -862,10 +862,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11159,
+    "archive_count": 11160,
     "archive_supplements": 1287,
     "archive_off_label": 435,
-    "archive_biomarkers": 6686,
+    "archive_biomarkers": 6687,
     "archive_trials": 2454
   }
 }
