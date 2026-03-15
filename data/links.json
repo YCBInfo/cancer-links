@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-15T04:05:01.253Z",
+  "last_updated": "2026-03-15T04:05:11.017Z",
   "categories": {
     "supplements": [
       {
@@ -555,6 +555,20 @@
         "added_date": "2026-03-15"
       },
       {
+        "id": "recEPAR2OjmEP0S8h",
+        "title": "PARP inhibitor combined with platinum activates the cGAS-STING pathway to enhance anti-PD-L1 immunotherapy in lung adenocarcinoma.",
+        "summary": "Combining PARP inhibitor with platinum chemotherapy boosts lung cancer response to immunotherapy by activating immune-stimulating pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41650888/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-15"
+      },
+      {
         "id": "recLOtVPKWKhjbcBM",
         "title": "Contrasting functions of CD73 and adenosine in CD8+ T-cell exhaustion during antitumor immunity.",
         "summary": "CD73 promotes exhaustion of tumor-fighting CD8+ T cells, while adenosine signaling helps maintain their self-renewing precursor state.",
@@ -622,20 +636,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-14"
-      },
-      {
-        "id": "recO14AeePo3nP4xY",
-        "title": "A system biology-based identification of potential biomarker interlinking the effect of anti-diabetic drug, Metformin, on reduced occurrence of hepatocellular carcinoma.",
-        "summary": "Metformin reduces hepatocellular carcinoma risk by targeting protein kinase B, a key protein in cancer development pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41822053/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Liver"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-14"
       }
@@ -741,6 +741,20 @@
         "added_date": "2026-03-15"
       },
       {
+        "id": "recEPAR2OjmEP0S8h",
+        "title": "PARP inhibitor combined with platinum activates the cGAS-STING pathway to enhance anti-PD-L1 immunotherapy in lung adenocarcinoma.",
+        "summary": "Combining PARP inhibitor with platinum chemotherapy boosts lung cancer response to immunotherapy by activating immune-stimulating pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41650888/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-15"
+      },
+      {
         "id": "recvYhm7NQcXWAVFe",
         "title": "The dual roles of natural killer cells in liver immunity and tolerance: Implications for health and disease.",
         "summary": "NK cells regulate liver immunity and tumor control; restoring their function through CAR-NK therapy may treat hepatocellular carcinoma.",
@@ -839,21 +853,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-14"
-      },
-      {
-        "id": "recLiaTZLV8CqMVtN",
-        "title": "T-cell lymphoblastic lymphoma of the breast: A retrospective observational study and literature review.",
-        "summary": "Breast T-cell lymphoblastic lymphoma is extremely rare; accurate diagnosis through immunohistochemistry and imaging guides chemotherapy treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41824879/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast",
-          "Lymphoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-14"
       }
     ]
   },
@@ -863,10 +862,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11032,
+    "archive_count": 11033,
     "archive_supplements": 1276,
     "archive_off_label": 433,
-    "archive_biomarkers": 6586,
+    "archive_biomarkers": 6587,
     "archive_trials": 2440
   }
 }
