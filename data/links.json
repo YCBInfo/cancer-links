@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-15T04:24:20.148Z",
+  "last_updated": "2026-03-15T04:24:30.326Z",
   "categories": {
     "supplements": [
       {
@@ -273,6 +273,20 @@
         "added_date": "2026-03-15"
       },
       {
+        "id": "rect7y6W0doDAenz5",
+        "title": "Deciphering the groove-binding mode of dolutegravir with salmon sperm DNA through spectroscopic and molecular modelling approaches.",
+        "summary": "Dolutegravir, an HIV drug, binds to DNA grooves and may be repositioned as a potential cancer treatment through targeted drug development strategies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41826369/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-15"
+      },
+      {
         "id": "recO14AeePo3nP4xY",
         "title": "A system biology-based identification of potential biomarker interlinking the effect of anti-diabetic drug, Metformin, on reduced occurrence of hepatocellular carcinoma.",
         "summary": "Metformin reduces hepatocellular carcinoma risk by targeting protein kinase B, a key protein in cancer development pathways.",
@@ -409,20 +423,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-14"
-      },
-      {
-        "id": "recsRHzAqOtpFybgB",
-        "title": "Declined RTN3 stabilizes DHCR7 to induce cholesterol-dependent tumor progression and MEK inhibitors insensitivity in thyroid cancer.",
-        "summary": "Low RTN3 protein in thyroid cancer increases cholesterol levels, promoting tumor growth and resistance to MEK inhibitor drugs.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41813657/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Thyroid"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-14"
       }
@@ -862,10 +862,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11138,
+    "archive_count": 11139,
     "archive_supplements": 1285,
     "archive_off_label": 434,
-    "archive_biomarkers": 6672,
+    "archive_biomarkers": 6673,
     "archive_trials": 2450
   }
 }
