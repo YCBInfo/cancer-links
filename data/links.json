@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T10:02:13.719Z",
+  "last_updated": "2026-03-15T04:03:18.594Z",
   "categories": {
     "supplements": [
       {
@@ -428,6 +428,34 @@
     ],
     "biomarkers": [
       {
+        "id": "rec3VlgFADjFIURS9",
+        "title": "The correlation between cardiac T2*MRI and B-Type natriuretic peptides in patients with transfusion-dependent anemias and systemic iron overload: a systematic review and meta-analysis.",
+        "summary": "Cardiac MRI and blood markers both effectively detect heart damage from iron buildup in patients requiring frequent blood transfusions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41830418/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-15"
+      },
+      {
+        "id": "recNpt8Ospj4kHp6X",
+        "title": "The prevalence and predictors of previous prostate cancer screening among men attending primary healthcare centers in Riyadh, Saudi Arabia.",
+        "summary": "Researchers identified factors predicting whether Saudi men had received prostate cancer screening at primary healthcare centers.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41830420/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-15"
+      },
+      {
         "id": "recLOtVPKWKhjbcBM",
         "title": "Contrasting functions of CD73 and adenosine in CD8+ T-cell exhaustion during antitumor immunity.",
         "summary": "CD73 promotes exhaustion of tumor-fighting CD8+ T cells, while adenosine signaling helps maintain their self-renewing precursor state.",
@@ -609,39 +637,37 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-14"
-      },
+      }
+    ],
+    "trials": [
       {
-        "id": "recU2vmSTKGfH6vvi",
-        "title": "Diverse roles of SERPINE1 in regulating cellular proliferation and invasion.",
-        "summary": "SERPINE1 protein has opposite effects across cancers: reducing it slows breast cancer and glioma growth but increases melanoma growth through different cellular mechanisms.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41823537/",
+        "id": "recNpt8Ospj4kHp6X",
+        "title": "The prevalence and predictors of previous prostate cancer screening among men attending primary healthcare centers in Riyadh, Saudi Arabia.",
+        "summary": "Researchers identified factors predicting whether Saudi men had received prostate cancer screening at primary healthcare centers.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41830420/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
-          "Breast",
-          "Melanoma",
-          "Brain"
+          "Prostate"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
-        "added_date": "2026-03-14"
+        "added_date": "2026-03-15"
       },
       {
-        "id": "recT7jhNRFUMPyxPs",
-        "title": "Ferritin in ferroptosis: Implications for neurodegenerative diseases (Review).",
-        "summary": "Ferritin regulates iron levels in the brain; its dysfunction may contribute to neurodegenerative diseases like Alzheimer's and Parkinson's.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41823531/",
+        "id": "reclz0A6m4GNxAU8A",
+        "title": "Patient-reported outcomes in NRG Oncology RTOG 1010: Phase 3 trial evaluating the addition of trastuzumab to trimodality treatment of HER2 overexpressing esophageal adenocarcinoma.",
+        "summary": "Adding trastuzumab to standard treatment improved quality of life in HER2-positive esophageal cancer patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41808581/",
         "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
+        "category": "Clinical Trials",
         "cancer_types": [
           "General"
         ],
         "quality_score": 12,
         "pub_date": "2026-03-01",
-        "added_date": "2026-03-14"
-      }
-    ],
-    "trials": [
+        "added_date": "2026-03-15"
+      },
       {
         "id": "recvYhm7NQcXWAVFe",
         "title": "The dual roles of natural killer cells in liver immunity and tolerance: Implications for health and disease.",
@@ -826,34 +852,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-14"
-      },
-      {
-        "id": "recxS4iioutvOdPIf",
-        "title": "Subtype-specific dependencies and therapeutic opportunities in small cell lung cancer.",
-        "summary": "Small cell lung cancer has distinct molecular subtypes with unique vulnerabilities that epigenetic therapies could exploit for better treatment outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41824576/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-14"
-      },
-      {
-        "id": "reciwLrk93Agr92rT",
-        "title": "IL-7/IL-15/IL-21 cytokine-fusion scaffold generates highly functional CAR T cells enriched in long-lived T memory stem cells.",
-        "summary": "A new protein scaffold creates longer-lasting CAR T cells enriched in memory cells, improving treatment of HIV and leukemia.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41824575/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-14"
       }
     ]
   },
@@ -863,10 +861,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11024,
+    "archive_count": 11025,
     "archive_supplements": 1276,
     "archive_off_label": 433,
-    "archive_biomarkers": 6581,
+    "archive_biomarkers": 6582,
     "archive_trials": 2437
   }
 }
