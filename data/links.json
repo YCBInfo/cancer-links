@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-15T04:08:40.475Z",
+  "last_updated": "2026-03-15T04:08:49.923Z",
   "categories": {
     "supplements": [
       {
@@ -826,6 +826,20 @@
         "added_date": "2026-03-15"
       },
       {
+        "id": "recWvwIK4S9uxXc6H",
+        "title": "An optimized HPLC-MS/MS assay for uracil and dihydrouracil in plasma: Improving dihydropyrimidine dehydrogenase phenotyping for individualized fluoropyrimidine treatment.",
+        "summary": "Researchers developed a blood test to measure enzyme activity that predicts how patients will tolerate fluoropyrimidine cancer drugs, enabling personalized chemotherapy dosing.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41581289/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-15"
+      },
+      {
         "id": "recvYhm7NQcXWAVFe",
         "title": "The dual roles of natural killer cells in liver immunity and tolerance: Implications for health and disease.",
         "summary": "NK cells regulate liver immunity and tumor control; restoring their function through CAR-NK therapy may treat hepatocellular carcinoma.",
@@ -834,22 +848,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-14"
-      },
-      {
-        "id": "rec3CQFxJHGTQIdzL",
-        "title": "IDH enzyme inhibition in cancer therapy: mechanisms, mutational insights, and effects of IDH inhibitors in glioma, acute myeloid leukemia and chondrosarcoma.",
-        "summary": "IDH inhibitors reduce tumor size and improve survival in glioma, AML, and chondrosarcoma, though resistance mechanisms can develop.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41821663/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast",
-          "Leukemia",
-          "Brain"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -863,10 +861,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11051,
+    "archive_count": 11052,
     "archive_supplements": 1277,
     "archive_off_label": 433,
-    "archive_biomarkers": 6604,
+    "archive_biomarkers": 6605,
     "archive_trials": 2440
   }
 }
