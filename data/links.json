@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-15T04:17:13.646Z",
+  "last_updated": "2026-03-15T04:17:25.375Z",
   "categories": {
     "supplements": [
       {
@@ -258,6 +258,21 @@
         "added_date": "2026-03-15"
       },
       {
+        "id": "recMIBX4TpUSuOj2B",
+        "title": "DPP9 inhibition boosts antitumor immunity by disrupting BRISC-mediated PD-L1 expression in clear cell renal cell carcinoma.",
+        "summary": "Blocking DPP9 reduces PD-L1 expression in kidney cancer, enhancing immune checkpoint therapy effectiveness and T cell tumor-killing ability.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41826729/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal",
+          "Kidney"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-15"
+      },
+      {
         "id": "recO14AeePo3nP4xY",
         "title": "A system biology-based identification of potential biomarker interlinking the effect of anti-diabetic drug, Metformin, on reduced occurrence of hepatocellular carcinoma.",
         "summary": "Metformin reduces hepatocellular carcinoma risk by targeting protein kinase B, a key protein in cancer development pathways.",
@@ -408,20 +423,6 @@
           "Thyroid"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-14"
-      },
-      {
-        "id": "recDWUbpbtMJpJ4aT",
-        "title": "NSAIDs-loaded nanocarriers as emerging anticancer therapeutics: Harnessing inflammation-targeted drug delivery to combat tumor progression.",
-        "summary": "Nanoparticle delivery of anti-inflammatory drugs shows promise for targeting cancer-promoting inflammation while reducing side effects.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41819383/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-14"
       }
@@ -861,10 +862,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11098,
+    "archive_count": 11099,
     "archive_supplements": 1281,
     "archive_off_label": 434,
-    "archive_biomarkers": 6641,
+    "archive_biomarkers": 6642,
     "archive_trials": 2445
   }
 }
