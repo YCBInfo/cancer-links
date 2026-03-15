@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-15T06:08:16.901Z",
+  "last_updated": "2026-03-15T09:02:32.872Z",
   "categories": {
     "supplements": [
       {
@@ -301,6 +301,20 @@
         "added_date": "2026-03-15"
       },
       {
+        "id": "rec6uQMuzhqeUEdiJ",
+        "title": "Risks of thrombosis and hemorrhage in concurrent use of anticoagulants and potential interacting prostate cancer agents.",
+        "summary": "Prostate cancer drugs may dangerously interact with blood thinners, increasing risks of clots or bleeding.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41797435/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-15"
+      },
+      {
         "id": "recO14AeePo3nP4xY",
         "title": "A system biology-based identification of potential biomarker interlinking the effect of anti-diabetic drug, Metformin, on reduced occurrence of hepatocellular carcinoma.",
         "summary": "Metformin reduces hepatocellular carcinoma risk by targeting protein kinase B, a key protein in cancer development pathways.",
@@ -409,20 +423,6 @@
           "Breast"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-14"
-      },
-      {
-        "id": "recqFDHnMSlznZKm0",
-        "title": "Targeting metabolism to combat anticancer and antibacterial drug resistance.",
-        "summary": "Cancer and bacteria resist drugs by reprogramming their metabolism; targeting these metabolic changes could restore treatment effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41820153/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-14"
       }
@@ -862,9 +862,9 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11179,
+    "archive_count": 11180,
     "archive_supplements": 1298,
-    "archive_off_label": 435,
+    "archive_off_label": 436,
     "archive_biomarkers": 6695,
     "archive_trials": 2454
   }
