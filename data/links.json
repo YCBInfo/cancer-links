@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-15T04:08:17.442Z",
+  "last_updated": "2026-03-15T04:08:27.043Z",
   "categories": {
     "supplements": [
       {
@@ -811,6 +811,21 @@
         "added_date": "2026-03-15"
       },
       {
+        "id": "recZNl2XtM2Syq8Pa",
+        "title": "Circulating biomarkers in leukemia.",
+        "summary": "Blood tests analyzing circulating tumor DNA in leukemia can detect treatment response and predict relapse better than bone marrow biopsies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41581641/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia",
+          "Lymphoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-15"
+      },
+      {
         "id": "recvYhm7NQcXWAVFe",
         "title": "The dual roles of natural killer cells in liver immunity and tolerance: Implications for health and disease.",
         "summary": "NK cells regulate liver immunity and tumor control; restoring their function through CAR-NK therapy may treat hepatocellular carcinoma.",
@@ -839,20 +854,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-14"
-      },
-      {
-        "id": "recKpBbdmKKyDhjN1",
-        "title": "Identification of a 9-gene autophagy-related signature for predicting prognosis and immune exhaustion features in breast cancer.",
-        "summary": "Researchers identified nine genes linked to autophagy that predict breast cancer survival and treatment response to specific chemotherapy drugs.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41821654/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-14"
       }
     ]
   },
@@ -862,10 +863,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11049,
+    "archive_count": 11050,
     "archive_supplements": 1277,
     "archive_off_label": 433,
-    "archive_biomarkers": 6602,
+    "archive_biomarkers": 6603,
     "archive_trials": 2440
   }
 }
