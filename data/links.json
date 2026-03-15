@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-15T04:16:30.492Z",
+  "last_updated": "2026-03-15T04:16:40.603Z",
   "categories": {
     "supplements": [
       {
@@ -243,6 +243,21 @@
         "added_date": "2026-03-15"
       },
       {
+        "id": "recJXiNrQyIFuAMz0",
+        "title": "An oncogenic, truncated FGFR1 variant cooperates with SPFQ/NONO to regulate gene transcription in FGFR1-driven leukaemia.",
+        "summary": "A truncated FGFR1 protein drives leukemia by partnering with SFPQ and NONO proteins to control genes, offering a new treatment target.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41830421/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia",
+          "Lymphoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-15"
+      },
+      {
         "id": "recO14AeePo3nP4xY",
         "title": "A system biology-based identification of potential biomarker interlinking the effect of anti-diabetic drug, Metformin, on reduced occurrence of hepatocellular carcinoma.",
         "summary": "Metformin reduces hepatocellular carcinoma risk by targeting protein kinase B, a key protein in cancer development pathways.",
@@ -401,20 +416,6 @@
         "title": "NSAIDs-loaded nanocarriers as emerging anticancer therapeutics: Harnessing inflammation-targeted drug delivery to combat tumor progression.",
         "summary": "Nanoparticle delivery of anti-inflammatory drugs shows promise for targeting cancer-promoting inflammation while reducing side effects.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41819383/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-14"
-      },
-      {
-        "id": "reci7MqyXFWFZmRT2",
-        "title": "Oncology drug repurposing as a blueprint for Alzheimer's therapy.",
-        "summary": "Cancer drugs tested in combinations may reverse Alzheimer's disease pathology across multiple brain cell types, offering a faster development pathway.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41816361/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -860,10 +861,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11094,
+    "archive_count": 11095,
     "archive_supplements": 1281,
     "archive_off_label": 434,
-    "archive_biomarkers": 6638,
+    "archive_biomarkers": 6639,
     "archive_trials": 2444
   }
 }
