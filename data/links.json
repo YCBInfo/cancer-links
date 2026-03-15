@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-15T04:03:18.594Z",
+  "last_updated": "2026-03-15T04:03:31.282Z",
   "categories": {
     "supplements": [
       {
@@ -456,6 +456,20 @@
         "added_date": "2026-03-15"
       },
       {
+        "id": "rechMPnnJNhNYwp8T",
+        "title": "Targeted therapy for DNA damage response and homologous recombination repair defects: The Olaparib Combinations trial.",
+        "summary": "A trial tests whether PARP inhibitor drugs, alone or combined with other therapies, effectively treat cancers with specific DNA repair gene mutations.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41808580/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-15"
+      },
+      {
         "id": "recLOtVPKWKhjbcBM",
         "title": "Contrasting functions of CD73 and adenosine in CD8+ T-cell exhaustion during antitumor immunity.",
         "summary": "CD73 promotes exhaustion of tumor-fighting CD8+ T cells, while adenosine signaling helps maintain their self-renewing precursor state.",
@@ -623,20 +637,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-14"
-      },
-      {
-        "id": "recL0PRR3DSseCJfb",
-        "title": "HELLS inhibits autophagy‑dependent ferroptosis in nasopharyngeal carcinoma by modulating the Nrf2/HO‑1/GPX4 pathway.",
-        "summary": "Blocking HELLS protein in nasopharyngeal cancer cells triggers cell death by enabling a ferroptosis process, offering a potential treatment approach.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41823538/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-14"
       }
     ],
     "trials": [
@@ -661,6 +661,20 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41808581/",
         "source": "PubMed",
         "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-15"
+      },
+      {
+        "id": "rechMPnnJNhNYwp8T",
+        "title": "Targeted therapy for DNA damage response and homologous recombination repair defects: The Olaparib Combinations trial.",
+        "summary": "A trial tests whether PARP inhibitor drugs, alone or combined with other therapies, effectively treat cancers with specific DNA repair gene mutations.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41808580/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
@@ -838,20 +852,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-14"
-      },
-      {
-        "id": "recUU9Hh1XNYP1IKV",
-        "title": "Hypofractionated Radiotherapy Induces ISG15+MHC-I+ Neutrophils to Augment Anti-Tumor Immunity and Prime Immune Checkpoint Blockade Responses in Rectal Cancer.",
-        "summary": "Hypofractionated radiotherapy in rectal cancer activates special immune cells that boost anti-tumor immunity and improve immunotherapy effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41824789/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-14"
       }
     ]
   },
@@ -861,10 +861,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11025,
+    "archive_count": 11026,
     "archive_supplements": 1276,
     "archive_off_label": 433,
-    "archive_biomarkers": 6582,
+    "archive_biomarkers": 6583,
     "archive_trials": 2437
   }
 }
