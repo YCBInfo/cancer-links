@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-15T04:04:28.260Z",
+  "last_updated": "2026-03-15T04:04:39.025Z",
   "categories": {
     "supplements": [
       {
@@ -512,6 +512,20 @@
         "added_date": "2026-03-15"
       },
       {
+        "id": "reciR7HIHfkQR8q4A",
+        "title": "A peptide-functionalized quantum Dots/MOF nanosheets fluorescence biosensor for glutathione sensing and cellular imaging.",
+        "summary": "Researchers developed a sensor to detect glutathione, a molecule elevated in tumors that promotes cancer growth and drug resistance.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41663218/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-15"
+      },
+      {
         "id": "recLOtVPKWKhjbcBM",
         "title": "Contrasting functions of CD73 and adenosine in CD8+ T-cell exhaustion during antitumor immunity.",
         "summary": "CD73 promotes exhaustion of tumor-fighting CD8+ T cells, while adenosine signaling helps maintain their self-renewing precursor state.",
@@ -621,20 +635,6 @@
           "Colorectal"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-14"
-      },
-      {
-        "id": "recHo990pc9J2HNXG",
-        "title": "Enolase 1: A paradigm of metabolic enzyme moonlighting in tumorigenesis (Review).",
-        "summary": "Enolase 1 protein drives multiple cancer types through various functions beyond metabolism, offering promising new therapeutic targets for treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41823547/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-14"
       }
@@ -861,10 +861,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11029,
+    "archive_count": 11030,
     "archive_supplements": 1276,
     "archive_off_label": 433,
-    "archive_biomarkers": 6584,
+    "archive_biomarkers": 6585,
     "archive_trials": 2439
   }
 }
