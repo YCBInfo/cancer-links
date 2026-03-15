@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-15T04:04:17.693Z",
+  "last_updated": "2026-03-15T04:04:28.260Z",
   "categories": {
     "supplements": [
       {
@@ -498,6 +498,20 @@
         "added_date": "2026-03-15"
       },
       {
+        "id": "rec05qc5biZE4xkfO",
+        "title": "Rapid microfluidic sample preparation for mass spectrometric analysis of wild-type and mutant BRAF protein.",
+        "summary": "Researchers developed a faster microfluidic method to detect BRAF cancer mutations in colorectal cancer samples using mass spectrometry.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41663222/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-15"
+      },
+      {
         "id": "recLOtVPKWKhjbcBM",
         "title": "Contrasting functions of CD73 and adenosine in CD8+ T-cell exhaustion during antitumor immunity.",
         "summary": "CD73 promotes exhaustion of tumor-fighting CD8+ T cells, while adenosine signaling helps maintain their self-renewing precursor state.",
@@ -621,20 +635,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-14"
-      },
-      {
-        "id": "recGrn5hFQ1sKKzk3",
-        "title": "Glucose‑driven TRIB3 enhances the tumorigenic potential of colon cancer via the PI3K/AKT pathway.",
-        "summary": "High glucose levels increase a protein called TRIB3 in colon cancer, promoting tumor growth and spread through a specific cellular pathway.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41823543/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-14"
       }
@@ -861,10 +861,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11028,
+    "archive_count": 11029,
     "archive_supplements": 1276,
     "archive_off_label": 433,
     "archive_biomarkers": 6584,
-    "archive_trials": 2438
+    "archive_trials": 2439
   }
 }
