@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-17T06:03:10.389Z",
+  "last_updated": "2026-03-17T06:03:21.304Z",
   "categories": {
     "supplements": [
       {
@@ -39,6 +39,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-17"
+      },
+      {
+        "id": "reccAkIhLOzJNS8za",
+        "title": "Multi-omics analysis identifies CCNB1 as a cell cycle factor driving glioblastoma progression and its inhibition by resveratrol.",
+        "summary": "Researchers found that CCNB1 protein drives glioblastoma growth and that resveratrol can suppress it, offering a potential new treatment approach.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41838760/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Brain"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -196,20 +210,6 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-03-01",
-        "added_date": "2026-03-15"
-      },
-      {
-        "id": "rec2mwj0IoLXZAApm",
-        "title": "Role of reactive oxygen species in polycystic ovary syndrome: signalling pathways, mechanisms, and traditional Chinese medicine treatment strategies.",
-        "summary": "Excessive cellular oxidative stress drives polycystic ovary syndrome symptoms, treatable through traditional Chinese medicine approaches.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41579800/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
         "added_date": "2026-03-15"
       }
     ],
@@ -513,6 +513,20 @@
         "added_date": "2026-03-17"
       },
       {
+        "id": "reccAkIhLOzJNS8za",
+        "title": "Multi-omics analysis identifies CCNB1 as a cell cycle factor driving glioblastoma progression and its inhibition by resveratrol.",
+        "summary": "Researchers found that CCNB1 protein drives glioblastoma growth and that resveratrol can suppress it, offering a potential new treatment approach.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41838760/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-17"
+      },
+      {
         "id": "rec3VlgFADjFIURS9",
         "title": "The correlation between cardiac T2*MRI and B-Type natriuretic peptides in patients with transfusion-dependent anemias and systemic iron overload: a systematic review and meta-analysis.",
         "summary": "Cardiac MRI and blood markers both effectively detect heart damage from iron buildup in patients requiring frequent blood transfusions.",
@@ -618,21 +632,6 @@
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
-          "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-15"
-      },
-      {
-        "id": "recpS7rb71jT7UXYB",
-        "title": "Targeting hepatocellular carcinoma with MAGE-A3-specific TCR-engineered T cells: A therapeutic approach.",
-        "summary": "Researchers developed engineered T cells targeting MAGE-A3 protein to treat hepatocellular carcinoma more effectively.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41655433/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Melanoma",
           "Liver"
         ],
         "quality_score": 15,
@@ -860,8 +859,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11192,
-    "archive_supplements": 1299,
+    "archive_count": 11193,
+    "archive_supplements": 1300,
     "archive_off_label": 438,
     "archive_biomarkers": 6700,
     "archive_trials": 2458
