@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-17T06:02:59.002Z",
+  "last_updated": "2026-03-17T06:03:10.389Z",
   "categories": {
     "supplements": [
       {
@@ -27,6 +27,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-17"
+      },
+      {
+        "id": "recRv9ErtZ1Z9DYQO",
+        "title": "Codelivery of Doxorubicin and Carvacrol via a β-Cyclodextrin-Hyaluronic Acid Nanogel System for Targeted and Stimuli-Responsive Anticancer Therapy.",
+        "summary": "Researchers developed nanogels delivering two drugs together to triple-negative breast cancer cells, improving treatment effectiveness and reducing toxicity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41838892/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-17"
       },
@@ -195,20 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-15"
-      },
-      {
-        "id": "rec6jvCCRXV025tnf",
-        "title": "Research progress of curcumin and its derivatives as anti-inflammatory agents: From molecular mechanism to clinical application.",
-        "summary": "Curcumin shows anti-inflammatory and anti-tumor promise, but improved delivery methods are needed to enhance its effectiveness in clinical use.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41558061/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 19,
         "pub_date": "2026-02-01",
         "added_date": "2026-03-15"
       }
@@ -499,6 +499,20 @@
         "added_date": "2026-03-17"
       },
       {
+        "id": "recRv9ErtZ1Z9DYQO",
+        "title": "Codelivery of Doxorubicin and Carvacrol via a β-Cyclodextrin-Hyaluronic Acid Nanogel System for Targeted and Stimuli-Responsive Anticancer Therapy.",
+        "summary": "Researchers developed nanogels delivering two drugs together to triple-negative breast cancer cells, improving treatment effectiveness and reducing toxicity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41838892/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-17"
+      },
+      {
         "id": "rec3VlgFADjFIURS9",
         "title": "The correlation between cardiac T2*MRI and B-Type natriuretic peptides in patients with transfusion-dependent anemias and systemic iron overload: a systematic review and meta-analysis.",
         "summary": "Cardiac MRI and blood markers both effectively detect heart damage from iron buildup in patients requiring frequent blood transfusions.",
@@ -620,20 +634,6 @@
         "cancer_types": [
           "Melanoma",
           "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-15"
-      },
-      {
-        "id": "recEPAR2OjmEP0S8h",
-        "title": "PARP inhibitor combined with platinum activates the cGAS-STING pathway to enhance anti-PD-L1 immunotherapy in lung adenocarcinoma.",
-        "summary": "Combining PARP inhibitor with platinum chemotherapy boosts lung cancer response to immunotherapy by activating immune-stimulating pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41650888/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -860,10 +860,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11191,
+    "archive_count": 11192,
     "archive_supplements": 1299,
     "archive_off_label": 438,
     "archive_biomarkers": 6700,
-    "archive_trials": 2457
+    "archive_trials": 2458
   }
 }
