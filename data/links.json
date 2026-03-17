@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-17T06:06:31.916Z",
+  "last_updated": "2026-03-17T06:06:44.117Z",
   "categories": {
     "supplements": [
       {
@@ -229,6 +229,20 @@
         "added_date": "2026-03-17"
       },
       {
+        "id": "recXTZIVJeFfaPENA",
+        "title": "A GCLC Inhibitor Enhances the Antitumor Efficacy of Glutathione Metabolic Pathway Inhibition in SMARCB1-Deficient Rhabdoid Tumors.",
+        "summary": "GCLC inhibitors effectively kill SMARCB1-deficient rhabdoid tumors by depleting protective glutathione, and work better combined with other metabolic drugs.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41833522/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-17"
+      },
+      {
         "id": "recDPiPgmFvPHjCcr",
         "title": "The mitochondrial gambit: Re-evaluating Antimycin A as a multi-pronged anti-cancer agent.",
         "summary": "Antimycin A, a mitochondrial inhibitor, kills cancer cells through multiple mechanisms including energy depletion, protein destruction, and stem cell targeting.",
@@ -410,20 +424,6 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-03-01",
-        "added_date": "2026-03-14"
-      },
-      {
-        "id": "rec9SNauYgn0HNUtq",
-        "title": "Treating Heart Dysfunction Related to Cancer Therapy With Sacubitril/Valsartan (Treat HF)",
-        "summary": "A study testing whether a heart medication can safely treat early heart damage in young cancer survivors from chemotherapy.",
-        "url": "https://clinicaltrials.gov/study/NCT05194111",
-        "source": "ClinicalTrials.gov",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
-        "pub_date": "2026-03-13",
         "added_date": "2026-03-14"
       }
     ],
@@ -859,10 +859,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11210,
+    "archive_count": 11211,
     "archive_supplements": 1308,
     "archive_off_label": 438,
-    "archive_biomarkers": 6706,
+    "archive_biomarkers": 6707,
     "archive_trials": 2461
   }
 }
