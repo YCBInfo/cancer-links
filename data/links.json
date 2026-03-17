@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-17T06:05:07.366Z",
+  "last_updated": "2026-03-17T06:05:18.662Z",
   "categories": {
     "supplements": [
       {
@@ -740,6 +740,20 @@
         "added_date": "2026-03-17"
       },
       {
+        "id": "recQPbEDVBJpbY9EL",
+        "title": "Diagnostic Value of 68Ga-FAPI PET/CT Versus 18F-FDG PET/CT in Laryngeal Cancer Staging.",
+        "summary": "A new PET scan using gallium-68 shows promise for better detecting and staging laryngeal cancer compared to standard fluorodeoxyglucose scans.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41837817/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-17"
+      },
+      {
         "id": "recNpt8Ospj4kHp6X",
         "title": "The prevalence and predictors of previous prostate cancer screening among men attending primary healthcare centers in Riyadh, Saudi Arabia.",
         "summary": "Researchers identified factors predicting whether Saudi men had received prostate cancer screening at primary healthcare centers.",
@@ -837,20 +851,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-03-15"
-      },
-      {
-        "id": "recEPAR2OjmEP0S8h",
-        "title": "PARP inhibitor combined with platinum activates the cGAS-STING pathway to enhance anti-PD-L1 immunotherapy in lung adenocarcinoma.",
-        "summary": "Combining PARP inhibitor with platinum chemotherapy boosts lung cancer response to immunotherapy by activating immune-stimulating pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41650888/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-15"
       }
     ]
   },
@@ -860,10 +860,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11202,
+    "archive_count": 11203,
     "archive_supplements": 1306,
     "archive_off_label": 438,
-    "archive_biomarkers": 6702,
+    "archive_biomarkers": 6703,
     "archive_trials": 2459
   }
 }
