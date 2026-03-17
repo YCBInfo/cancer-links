@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-03-17T06:02:22.647Z",
+  "last_updated": "2026-03-17T06:02:37.090Z",
   "categories": {
     "supplements": [
+      {
+        "id": "rec0DndHNZCPICf8s",
+        "title": "Epigallocatechin-3-Gallate Suppresses Glioma by Targeting Integrin αvβ3/FAK/ERK Signaling Axis and Matrix Metalloproteinases.",
+        "summary": "Green tea compound EGCG suppresses glioma growth by blocking signaling pathways and works better combined with standard chemotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41839532/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-17"
+      },
       {
         "id": "rech1oIhohRkY8wMW",
         "title": "Total glucosides of paeony ameliorate post-stroke depression-like behaviors by modulating inflammasome activation via inhibition of endoplasmic reticulum stress.",
@@ -196,20 +210,6 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-03-01",
-        "added_date": "2026-03-15"
-      },
-      {
-        "id": "recZ9v1rImoL0AVN9",
-        "title": "AFM1 binding by Lactobacillus acidophilus, Lactobacillus rhamnosus and Enterococcus faecalis in human breast milk under different incubation conditions.",
-        "summary": "Live probiotic bacteria, especially Enterococcus faecalis, effectively bind aflatoxin M1 carcinogen in breast milk under specific incubation conditions.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41519206/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
-        "pub_date": "2026-01-01",
         "added_date": "2026-03-15"
       }
     ],
@@ -471,6 +471,20 @@
         "added_date": "2026-03-17"
       },
       {
+        "id": "rec0DndHNZCPICf8s",
+        "title": "Epigallocatechin-3-Gallate Suppresses Glioma by Targeting Integrin αvβ3/FAK/ERK Signaling Axis and Matrix Metalloproteinases.",
+        "summary": "Green tea compound EGCG suppresses glioma growth by blocking signaling pathways and works better combined with standard chemotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41839532/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-17"
+      },
+      {
         "id": "rec3VlgFADjFIURS9",
         "title": "The correlation between cardiac T2*MRI and B-Type natriuretic peptides in patients with transfusion-dependent anemias and systemic iron overload: a systematic review and meta-analysis.",
         "summary": "Cardiac MRI and blood markers both effectively detect heart damage from iron buildup in patients requiring frequent blood transfusions.",
@@ -625,20 +639,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-03-15"
-      },
-      {
-        "id": "rece1Oepr03SKWk0g",
-        "title": "Trimethyl Lock-2Cl (TML-2Cl): A self-cyclizing adapter for molecular release in antibody-drug conjugates.",
-        "summary": "Researchers developed a new adapter (TML-2Cl) for antibody-drug conjugates that improves drug release and effectively inhibits Her2-positive gastric cancer tumor growth in mice.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41638011/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-15"
       }
     ],
     "trials": [
@@ -681,6 +681,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-17"
+      },
+      {
+        "id": "rechnpRU2SFjwy9bs",
+        "title": "High-grade follicular B-cell lymphoma-associated C3 rapidly progressive glomerulonephritis: a rare association.",
+        "summary": "Follicular B-cell lymphoma rarely causes kidney inflammation, but targeted cancer treatment successfully restored kidney function and achieved remission.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41839518/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Lymphoma"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-17"
       },
@@ -838,20 +852,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-03-15"
-      },
-      {
-        "id": "recoMHWq5bSPq7VTd",
-        "title": "Exosome-mediated radioprotection: multimodal mechanisms and therapeutic innovations.",
-        "summary": "Exosomes show promise as safer treatments to protect healthy cells from radiation damage during cancer therapy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41587513/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-15"
       }
     ]
   },
@@ -861,10 +861,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11188,
+    "archive_count": 11189,
     "archive_supplements": 1299,
     "archive_off_label": 437,
     "archive_biomarkers": 6699,
-    "archive_trials": 2456
+    "archive_trials": 2457
   }
 }
