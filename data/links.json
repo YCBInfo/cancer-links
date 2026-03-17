@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-17T06:08:44.355Z",
+  "last_updated": "2026-03-17T06:08:54.588Z",
   "categories": {
     "supplements": [
       {
@@ -243,6 +243,20 @@
         "added_date": "2026-03-17"
       },
       {
+        "id": "recQiJtVL9fskuRFa",
+        "title": "LCN2 aggravates sepsis-induced ALI by inhibiting MUC1 to activate ER-stress-autophagy induced ferroptosis via lactate/MCT1/AMPK/mTOR axis.",
+        "summary": "LCN2 protein worsens sepsis-induced lung injury through a specific cellular pathway; sorafenib drug shows promise as treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41838195/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-17"
+      },
+      {
         "id": "recDPiPgmFvPHjCcr",
         "title": "The mitochondrial gambit: Re-evaluating Antimycin A as a multi-pronged anti-cancer agent.",
         "summary": "Antimycin A, a mitochondrial inhibitor, kills cancer cells through multiple mechanisms including energy depletion, protein destruction, and stem cell targeting.",
@@ -403,20 +417,6 @@
         "title": "Dose-Dependent Impact of Metformin on Osteoblast-Specific Biomarkers in Cultured Rat Primary Osteoblasts.",
         "summary": "Low-dose metformin (up to 1 mM) promotes bone cell growth and function while high doses become toxic to these cells.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41823098/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-14"
-      },
-      {
-        "id": "recuUv6pZG1xLWPFI",
-        "title": "Valsartan Mitigates LPS-Induced Neuroinflammation and Cognitive Deficits via Modulation of RAS-ECS Crosstalk in Mice.",
-        "summary": "Valsartan, a blood pressure medication, reduces brain inflammation and improves memory in mice with Alzheimer's-like disease.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41820755/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -859,10 +859,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11222,
+    "archive_count": 11223,
     "archive_supplements": 1312,
     "archive_off_label": 438,
-    "archive_biomarkers": 6713,
+    "archive_biomarkers": 6714,
     "archive_trials": 2462
   }
 }
