@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-17T09:05:07.077Z",
+  "last_updated": "2026-03-17T09:05:31.204Z",
   "categories": {
     "supplements": [
       {
@@ -355,6 +355,20 @@
         "added_date": "2026-03-17"
       },
       {
+        "id": "rec90hGvNiyjRKcmg",
+        "title": "Pharmacokinetic Insights and Therapeutic Potential of Calcium Channel Blockers in Cardiovascular and Non-Cardiovascular Disorders.",
+        "summary": "Calcium channel blockers show promise in cancer treatment, particularly T-type variants, with nanocarriers improving their effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41832712/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-17"
+      },
+      {
         "id": "recDPiPgmFvPHjCcr",
         "title": "The mitochondrial gambit: Re-evaluating Antimycin A as a multi-pronged anti-cancer agent.",
         "summary": "Antimycin A, a mitochondrial inhibitor, kills cancer cells through multiple mechanisms including energy depletion, protein destruction, and stem cell targeting.",
@@ -409,20 +423,6 @@
           "Kidney"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-15"
-      },
-      {
-        "id": "rect7y6W0doDAenz5",
-        "title": "Deciphering the groove-binding mode of dolutegravir with salmon sperm DNA through spectroscopic and molecular modelling approaches.",
-        "summary": "Dolutegravir, an HIV drug, binds to DNA grooves and may be repositioned as a potential cancer treatment through targeted drug development strategies.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41826369/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-15"
       }
@@ -859,8 +859,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11320,
-    "archive_supplements": 1329,
+    "archive_count": 11321,
+    "archive_supplements": 1330,
     "archive_off_label": 444,
     "archive_biomarkers": 6757,
     "archive_trials": 2493
