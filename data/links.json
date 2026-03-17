@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-17T06:13:41.604Z",
+  "last_updated": "2026-03-17T06:13:50.246Z",
   "categories": {
     "supplements": [
       {
@@ -271,6 +271,20 @@
         "added_date": "2026-03-17"
       },
       {
+        "id": "recUUQGb7f0J7l2GJ",
+        "title": "Glycohypoxia: a hypothesis linking chronic hyperglycemia to functional hypoxia and diabetic complications in type 2 diabetes.",
+        "summary": "High blood sugar in type 2 diabetes reduces oxygen delivery to cells, causing complications; targeting this oxygen deficit offers new treatment approaches.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41830794/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-17"
+      },
+      {
         "id": "recDPiPgmFvPHjCcr",
         "title": "The mitochondrial gambit: Re-evaluating Antimycin A as a multi-pronged anti-cancer agent.",
         "summary": "Antimycin A, a mitochondrial inhibitor, kills cancer cells through multiple mechanisms including energy depletion, protein destruction, and stem cell targeting.",
@@ -407,20 +421,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-14"
-      },
-      {
-        "id": "reckqii9pcAfAdbQF",
-        "title": "Effect of anticancer activity of aripiprazole main metabolite OPC-14857 on malignant glioblastoma.",
-        "summary": "Aripiprazole's metabolite OPC-14857 shows potent anticancer effects against glioblastoma, potentially outperforming current standard treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41824398/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Brain"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -859,10 +859,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11246,
+    "archive_count": 11247,
     "archive_supplements": 1317,
     "archive_off_label": 438,
-    "archive_biomarkers": 6728,
+    "archive_biomarkers": 6729,
     "archive_trials": 2466
   }
 }
