@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-17T09:05:58.184Z",
+  "last_updated": "2026-03-17T09:06:08.986Z",
   "categories": {
     "supplements": [
       {
@@ -369,6 +369,20 @@
         "added_date": "2026-03-17"
       },
       {
+        "id": "recpRAGhFBLKNxctX",
+        "title": "Subtype-Specific Causal Effects of Antidiabetic Drug Targets on Ovarian Cancer: Mendelian Randomization and Colocalization Evidence.",
+        "summary": "Antidiabetic drugs may offer new treatment options for different types of ovarian cancer, according to genetic analysis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41835849/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Ovarian"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-17"
+      },
+      {
         "id": "recDPiPgmFvPHjCcr",
         "title": "The mitochondrial gambit: Re-evaluating Antimycin A as a multi-pronged anti-cancer agent.",
         "summary": "Antimycin A, a mitochondrial inhibitor, kills cancer cells through multiple mechanisms including energy depletion, protein destruction, and stem cell targeting.",
@@ -406,21 +420,6 @@
         "cancer_types": [
           "Leukemia",
           "Lymphoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-15"
-      },
-      {
-        "id": "recMIBX4TpUSuOj2B",
-        "title": "DPP9 inhibition boosts antitumor immunity by disrupting BRISC-mediated PD-L1 expression in clear cell renal cell carcinoma.",
-        "summary": "Blocking DPP9 reduces PD-L1 expression in kidney cancer, enhancing immune checkpoint therapy effectiveness and T cell tumor-killing ability.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41826729/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal",
-          "Kidney"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -859,9 +858,9 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11323,
+    "archive_count": 11324,
     "archive_supplements": 1330,
-    "archive_off_label": 444,
+    "archive_off_label": 445,
     "archive_biomarkers": 6759,
     "archive_trials": 2493
   }
