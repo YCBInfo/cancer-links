@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-17T09:02:51.057Z",
+  "last_updated": "2026-03-17T09:03:11.258Z",
   "categories": {
     "supplements": [
       {
@@ -313,6 +313,20 @@
         "added_date": "2026-03-17"
       },
       {
+        "id": "rec0fMmisdvTNkHts",
+        "title": "INSIG1/2 succination mediated by the moonlighting function of ADSL promotes lipogenesis and liver tumorigenesis.",
+        "summary": "Glucose activates a protein pathway in liver cancer that boosts fat production and tumor growth; an HIV drug blocks this pathway and improves treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41833955/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-17"
+      },
+      {
         "id": "recDPiPgmFvPHjCcr",
         "title": "The mitochondrial gambit: Re-evaluating Antimycin A as a multi-pronged anti-cancer agent.",
         "summary": "Antimycin A, a mitochondrial inhibitor, kills cancer cells through multiple mechanisms including energy depletion, protein destruction, and stem cell targeting.",
@@ -407,20 +421,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Prostate"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-15"
-      },
-      {
-        "id": "recz4MRpc3JREuJ16",
-        "title": "Nitroxoline Enhances Radiosensitivity in Non-Small Cell Lung Cancer by Suppressing STAT3-AKT-MTOR Survival Signaling.",
-        "summary": "Nitroxoline, an existing antimicrobial drug, enhances radiation therapy effectiveness in lung cancer by blocking survival pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41828719/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -859,10 +859,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11309,
+    "archive_count": 11310,
     "archive_supplements": 1329,
     "archive_off_label": 441,
-    "archive_biomarkers": 6755,
+    "archive_biomarkers": 6756,
     "archive_trials": 2487
   }
 }
