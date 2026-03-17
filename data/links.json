@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-15T10:02:02.019Z",
+  "last_updated": "2026-03-17T06:02:22.647Z",
   "categories": {
     "supplements": [
       {
@@ -215,6 +215,20 @@
     ],
     "off_label": [
       {
+        "id": "recWsNs2XvGeYgxkP",
+        "title": "Metformin Blunts Vascular Insulin Sensitivity After Exercise Training in Adults at Risk for Metabolic Syndrome.",
+        "summary": "Metformin may reduce the vascular health benefits normally gained from exercise training in people at metabolic risk.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41160096/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-17"
+      },
+      {
         "id": "recDPiPgmFvPHjCcr",
         "title": "The mitochondrial gambit: Re-evaluating Antimycin A as a multi-pronged anti-cancer agent.",
         "summary": "Antimycin A, a mitochondrial inhibitor, kills cancer cells through multiple mechanisms including energy depletion, protein destruction, and stem cell targeting.",
@@ -411,23 +425,51 @@
         "quality_score": 10,
         "pub_date": "2026-03-13",
         "added_date": "2026-03-14"
-      },
-      {
-        "id": "recCMqF0dGGCY1S0e",
-        "title": "Use of Oral Metformin Therapy for Therapy-Induced Hyperglycemia in Pediatric Patients With Acute Lymphoblastic Leukemia.",
-        "summary": "Metformin offers a safer, easier alternative to insulin for managing high blood sugar caused by leukemia treatment in children.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41823188/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-14"
       }
     ],
     "biomarkers": [
+      {
+        "id": "recKEnrmYT6TLFkUJ",
+        "title": "LDH isozymes as targets for cancer therapy.",
+        "summary": "Researchers propose targeting lactate dehydrogenase isozymes, especially LDH-C, as a selective metabolic strategy to combat cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41837490/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-17"
+      },
+      {
+        "id": "recuwjeCmCoTeajX6",
+        "title": "Anal Human Papillomavirus Infection Progression to Disease Among Men Who Have Sex With Men.",
+        "summary": "Study tracks how anal HPV infection develops into anal cancer and precancerous lesions in HIV-negative men who have sex with men.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41162330/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 20,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-17"
+      },
+      {
+        "id": "recWsNs2XvGeYgxkP",
+        "title": "Metformin Blunts Vascular Insulin Sensitivity After Exercise Training in Adults at Risk for Metabolic Syndrome.",
+        "summary": "Metformin may reduce the vascular health benefits normally gained from exercise training in people at metabolic risk.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41160096/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-17"
+      },
       {
         "id": "rec3VlgFADjFIURS9",
         "title": "The correlation between cardiac T2*MRI and B-Type natriuretic peptides in patients with transfusion-dependent anemias and systemic iron overload: a systematic review and meta-analysis.",
@@ -597,51 +639,51 @@
         "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-03-15"
-      },
+      }
+    ],
+    "trials": [
       {
-        "id": "rec3BcwaqjXlQDlly",
-        "title": "Discovery of potent bifunctional small molecules targeting DNA-PK and HDAC6 with desirable pharmacokinetic properties for acute myeloid leukemia treatment.",
-        "summary": "A new dual-targeting drug called DH-1 inhibits two proteins and effectively suppresses acute myeloid leukemia cell growth in laboratory and animal studies.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41633119/",
+        "id": "recDWiwbi3tjXSrs9",
+        "title": "Then and Now: What We Have Learned From the WHI.",
+        "summary": "Women's Health Initiative studies show menopausal hormone therapy carries both risks and benefits for postmenopausal women.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41379766/",
         "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
+        "category": "Clinical Trials",
         "cancer_types": [
-          "Leukemia"
+          "General"
         ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-15"
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-17"
       },
       {
-        "id": "reco6tdYdEMY77ECX",
-        "title": "Halogen-methyl hybridization unlocks orally bioavailable STING agonist for tumor immunotherapy.",
-        "summary": "Researchers developed an oral STING agonist drug (X41) that effectively shrinks tumors in mice, offering a new immunotherapy approach for solid cancers.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41633117/",
+        "id": "recuwjeCmCoTeajX6",
+        "title": "Anal Human Papillomavirus Infection Progression to Disease Among Men Who Have Sex With Men.",
+        "summary": "Study tracks how anal HPV infection develops into anal cancer and precancerous lesions in HIV-negative men who have sex with men.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41162330/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-15"
+        "quality_score": 20,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-17"
       },
       {
-        "id": "recz4bBXIbpkpEhSb",
-        "title": "Targeting DDX5 using FL118 suppresses mTOR signaling and tumorigenicity in JAK2V617F-driven myeloproliferative neoplasms.",
-        "summary": "FL118 drug suppresses myeloproliferative neoplasm tumors by targeting DDX5 protein and blocking cancer cell growth pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41621382/",
+        "id": "recqAgCOuXeZkZCP1",
+        "title": "EUS-Guided Radiofrequency Ablation as a Minimally Invasive Treatment for Insulinomas-A Single-Center Experience.",
+        "summary": "Doctors successfully used a minimally invasive ultrasound-guided heat treatment to destroy insulinomas, rare pancreatic tumors causing dangerous low blood sugar.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41120112/",
         "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
+        "category": "Clinical Trials",
         "cancer_types": [
-          "Leukemia"
+          "General"
         ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-15"
-      }
-    ],
-    "trials": [
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-17"
+      },
       {
         "id": "recNpt8Ospj4kHp6X",
         "title": "The prevalence and predictors of previous prostate cancer screening among men attending primary healthcare centers in Riyadh, Saudi Arabia.",
@@ -810,49 +852,6 @@
         "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-03-15"
-      },
-      {
-        "id": "recZNl2XtM2Syq8Pa",
-        "title": "Circulating biomarkers in leukemia.",
-        "summary": "Blood tests analyzing circulating tumor DNA in leukemia can detect treatment response and predict relapse better than bone marrow biopsies.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41581641/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia",
-          "Lymphoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-15"
-      },
-      {
-        "id": "recWvwIK4S9uxXc6H",
-        "title": "An optimized HPLC-MS/MS assay for uracil and dihydrouracil in plasma: Improving dihydropyrimidine dehydrogenase phenotyping for individualized fluoropyrimidine treatment.",
-        "summary": "Researchers developed a blood test to measure enzyme activity that predicts how patients will tolerate fluoropyrimidine cancer drugs, enabling personalized chemotherapy dosing.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41581289/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-15"
-      },
-      {
-        "id": "recT1nzhsKvKYvS8K",
-        "title": "Exosome biosensors for detection of Lung cancer.",
-        "summary": "Researchers developed exosome-based biosensors to detect lung cancer earlier through blood and saliva tests, offering a non-invasive alternative to biopsies.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41565091/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-15"
       }
     ]
   },
@@ -862,10 +861,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11187,
+    "archive_count": 11188,
     "archive_supplements": 1299,
     "archive_off_label": 437,
-    "archive_biomarkers": 6698,
+    "archive_biomarkers": 6699,
     "archive_trials": 2456
   }
 }
