@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-17T06:03:21.304Z",
+  "last_updated": "2026-03-17T06:03:32.752Z",
   "categories": {
     "supplements": [
       {
@@ -53,6 +53,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-17"
+      },
+      {
+        "id": "recll8cod8OwnQxGs",
+        "title": "Swertiamarin fails to induce cytotoxicity in colon cancer cell lines: Evidence against a direct anticancer effect.",
+        "summary": "Swertiamarin, a plant compound, did not kill colon cancer cells in laboratory testing, suggesting it lacks direct anticancer effects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41838704/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -195,20 +209,6 @@
           "Pancreatic"
         ],
         "quality_score": 21,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-15"
-      },
-      {
-        "id": "recUMRhfcPNgJKvzM",
-        "title": "Imperatorin Mitigates Rosacea-Like Inflammation by Modulating the Crosstalk Between JNK1 and STAT1.",
-        "summary": "Imperatorin, a natural compound, reduces rosacea-like skin inflammation by blocking harmful protein interactions that trigger inflammation.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41773812/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-15"
       }
@@ -527,6 +527,20 @@
         "added_date": "2026-03-17"
       },
       {
+        "id": "recll8cod8OwnQxGs",
+        "title": "Swertiamarin fails to induce cytotoxicity in colon cancer cell lines: Evidence against a direct anticancer effect.",
+        "summary": "Swertiamarin, a plant compound, did not kill colon cancer cells in laboratory testing, suggesting it lacks direct anticancer effects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41838704/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-17"
+      },
+      {
         "id": "rec3VlgFADjFIURS9",
         "title": "The correlation between cardiac T2*MRI and B-Type natriuretic peptides in patients with transfusion-dependent anemias and systemic iron overload: a systematic review and meta-analysis.",
         "summary": "Cardiac MRI and blood markers both effectively detect heart damage from iron buildup in patients requiring frequent blood transfusions.",
@@ -621,20 +635,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-15"
-      },
-      {
-        "id": "recjanIjgBT6OXOiw",
-        "title": "Modeling-prediction-based-HPLC-MS/MS with stable isotope labeling: A strategy for static-dynamic profiling of sphingolipid alterations in hepatocellular carcinoma.",
-        "summary": "Researchers identified how glucose and palmitic acid differently alter sphingolipids in hepatocellular carcinoma using advanced tracking methods.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41655530/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Liver"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-03-15"
       }
@@ -859,10 +859,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11193,
+    "archive_count": 11194,
     "archive_supplements": 1300,
     "archive_off_label": 438,
     "archive_biomarkers": 6700,
-    "archive_trials": 2458
+    "archive_trials": 2459
   }
 }
