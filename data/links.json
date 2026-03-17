@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-17T06:04:03.026Z",
+  "last_updated": "2026-03-17T06:04:13.915Z",
   "categories": {
     "supplements": [
       {
@@ -83,6 +83,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-17"
+      },
+      {
+        "id": "recvthflY0IRtlFAg",
+        "title": "A novel matrine derivative exerts antitumor effects against hepatocellular carcinoma by inducing oxidative stress and DNA damage.",
+        "summary": "A new matrine-based compound effectively kills hepatocellular carcinoma cells by causing DNA damage and oxidative stress.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41838302/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-17"
       },
@@ -195,20 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-15"
-      },
-      {
-        "id": "recYZXj3gVZQaS5l1",
-        "title": "Homoharringtonine inhibits growth and migration in non-small cell lung cancer via PDIA4-mediated modulation of autophagy and EMT.",
-        "summary": "Homoharringtonine inhibits non-small cell lung cancer growth and spread by blocking a protein called PDIA4 and triggering autophagy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41826608/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-15"
       }
@@ -584,6 +584,20 @@
         "added_date": "2026-03-17"
       },
       {
+        "id": "recvthflY0IRtlFAg",
+        "title": "A novel matrine derivative exerts antitumor effects against hepatocellular carcinoma by inducing oxidative stress and DNA damage.",
+        "summary": "A new matrine-based compound effectively kills hepatocellular carcinoma cells by causing DNA damage and oxidative stress.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41838302/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-17"
+      },
+      {
         "id": "rec3VlgFADjFIURS9",
         "title": "The correlation between cardiac T2*MRI and B-Type natriuretic peptides in patients with transfusion-dependent anemias and systemic iron overload: a systematic review and meta-analysis.",
         "summary": "Cardiac MRI and blood markers both effectively detect heart damage from iron buildup in patients requiring frequent blood transfusions.",
@@ -616,20 +630,6 @@
         "title": "Targeted therapy for DNA damage response and homologous recombination repair defects: The Olaparib Combinations trial.",
         "summary": "A trial tests whether PARP inhibitor drugs, alone or combined with other therapies, effectively treat cancers with specific DNA repair gene mutations.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41808580/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-15"
-      },
-      {
-        "id": "recBQ4W1ZGvLHfkSZ",
-        "title": "The impact of the patient macroenvironment on molecular subgroups in endometrial cancer.",
-        "summary": "Obesity and age significantly influence endometrial cancer molecular subtypes and survival outcomes beyond genetic factors alone.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41790114/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -860,8 +860,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11196,
-    "archive_supplements": 1302,
+    "archive_count": 11197,
+    "archive_supplements": 1303,
     "archive_off_label": 438,
     "archive_biomarkers": 6700,
     "archive_trials": 2459
