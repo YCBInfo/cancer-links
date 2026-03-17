@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-17T09:03:11.258Z",
+  "last_updated": "2026-03-17T09:03:23.507Z",
   "categories": {
     "supplements": [
       {
@@ -327,6 +327,20 @@
         "added_date": "2026-03-17"
       },
       {
+        "id": "recPnBgti89khtYg8",
+        "title": "A Feasibility Study of the Repurposing of Prazosin to Improve Treatment Outcomes in Men Receiving Radiotherapy for Prostate Cancer (MiniRaP-00).",
+        "summary": "Researchers tested whether an existing blood pressure drug called prazosin could improve outcomes in men receiving radiation therapy for prostate cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41833070/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-17"
+      },
+      {
         "id": "recDPiPgmFvPHjCcr",
         "title": "The mitochondrial gambit: Re-evaluating Antimycin A as a multi-pronged anti-cancer agent.",
         "summary": "Antimycin A, a mitochondrial inhibitor, kills cancer cells through multiple mechanisms including energy depletion, protein destruction, and stem cell targeting.",
@@ -409,20 +423,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-15"
-      },
-      {
-        "id": "rec6uQMuzhqeUEdiJ",
-        "title": "Risks of thrombosis and hemorrhage in concurrent use of anticoagulants and potential interacting prostate cancer agents.",
-        "summary": "Prostate cancer drugs may dangerously interact with blood thinners, increasing risks of clots or bleeding.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41797435/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Prostate"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-15"
       }
@@ -859,10 +859,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11310,
+    "archive_count": 11311,
     "archive_supplements": 1329,
     "archive_off_label": 441,
     "archive_biomarkers": 6756,
-    "archive_trials": 2487
+    "archive_trials": 2488
   }
 }
