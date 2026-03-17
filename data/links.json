@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-17T06:09:15.586Z",
+  "last_updated": "2026-03-17T06:09:26.383Z",
   "categories": {
     "supplements": [
       {
@@ -824,6 +824,20 @@
         "added_date": "2026-03-17"
       },
       {
+        "id": "recElszXZ67TesaNI",
+        "title": "A NIR-Ⅱ-Immunostimulatory nanoplatform rewires immunometabolism to unleash STING-driven antitumor immunity.",
+        "summary": "A new nanoplatform combines deep-tissue imaging with heat therapy and immune activation to treat resistant melanoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41834053/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Melanoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-17"
+      },
+      {
         "id": "recNpt8Ospj4kHp6X",
         "title": "The prevalence and predictors of previous prostate cancer screening among men attending primary healthcare centers in Riyadh, Saudi Arabia.",
         "summary": "Researchers identified factors predicting whether Saudi men had received prostate cancer screening at primary healthcare centers.",
@@ -836,20 +850,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-15"
-      },
-      {
-        "id": "reclz0A6m4GNxAU8A",
-        "title": "Patient-reported outcomes in NRG Oncology RTOG 1010: Phase 3 trial evaluating the addition of trastuzumab to trimodality treatment of HER2 overexpressing esophageal adenocarcinoma.",
-        "summary": "Adding trastuzumab to standard treatment improved quality of life in HER2-positive esophageal cancer patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41808581/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-15"
       }
     ]
   },
@@ -859,10 +859,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11225,
+    "archive_count": 11226,
     "archive_supplements": 1313,
     "archive_off_label": 438,
-    "archive_biomarkers": 6715,
+    "archive_biomarkers": 6716,
     "archive_trials": 2462
   }
 }
