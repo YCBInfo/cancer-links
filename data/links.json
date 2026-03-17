@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-17T06:14:09.006Z",
+  "last_updated": "2026-03-17T06:14:19.780Z",
   "categories": {
     "supplements": [
       {
@@ -285,6 +285,20 @@
         "added_date": "2026-03-17"
       },
       {
+        "id": "recbPBjP3GqSU4sNw",
+        "title": "Chemoprevention of hepatocellular carcinoma by next-generation antipsychotic aripiprazole.",
+        "summary": "Aripiprazole, an antipsychotic drug, prevents hepatocellular carcinoma development by reducing liver inflammation and fibrosis in preclinical models.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41838879/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-17"
+      },
+      {
         "id": "recDPiPgmFvPHjCcr",
         "title": "The mitochondrial gambit: Re-evaluating Antimycin A as a multi-pronged anti-cancer agent.",
         "summary": "Antimycin A, a mitochondrial inhibitor, kills cancer cells through multiple mechanisms including energy depletion, protein destruction, and stem cell targeting.",
@@ -411,20 +425,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-15"
-      },
-      {
-        "id": "recO14AeePo3nP4xY",
-        "title": "A system biology-based identification of potential biomarker interlinking the effect of anti-diabetic drug, Metformin, on reduced occurrence of hepatocellular carcinoma.",
-        "summary": "Metformin reduces hepatocellular carcinoma risk by targeting protein kinase B, a key protein in cancer development pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41822053/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-14"
       }
     ],
     "biomarkers": [
@@ -859,9 +859,9 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11249,
+    "archive_count": 11250,
     "archive_supplements": 1319,
-    "archive_off_label": 438,
+    "archive_off_label": 439,
     "archive_biomarkers": 6729,
     "archive_trials": 2466
   }
