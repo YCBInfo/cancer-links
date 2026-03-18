@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-18T04:25:10.143Z",
+  "last_updated": "2026-03-18T04:25:20.957Z",
   "categories": {
     "supplements": [
       {
@@ -157,6 +157,20 @@
         "added_date": "2026-03-18"
       },
       {
+        "id": "recsRtGmpgsCkh9GW",
+        "title": "SIRT3 deacetylates STEAP4 to modulate cuproptosis sensitivity via mitochondrial metabolic reprogramming in HBV-related HCC.",
+        "summary": "HBV-related liver cancer evades copper-induced cell death through a protein pathway; restoring this pathway with drugs resensitizes tumors to copper treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41840161/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-18"
+      },
+      {
         "id": "rec0DndHNZCPICf8s",
         "title": "Epigallocatechin-3-Gallate Suppresses Glioma by Targeting Integrin αvβ3/FAK/ERK Signaling Axis and Matrix Metalloproteinases.",
         "summary": "Green tea compound EGCG suppresses glioma growth by blocking signaling pathways and works better combined with standard chemotherapy.",
@@ -193,20 +207,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-17"
-      },
-      {
-        "id": "reccAkIhLOzJNS8za",
-        "title": "Multi-omics analysis identifies CCNB1 as a cell cycle factor driving glioblastoma progression and its inhibition by resveratrol.",
-        "summary": "Researchers found that CCNB1 protein drives glioblastoma growth and that resveratrol can suppress it, offering a potential new treatment approach.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41838760/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Brain"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -856,10 +856,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11459,
+    "archive_count": 11460,
     "archive_supplements": 1341,
     "archive_off_label": 448,
-    "archive_biomarkers": 6855,
+    "archive_biomarkers": 6856,
     "archive_trials": 2518
   }
 }
