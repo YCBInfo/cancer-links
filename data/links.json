@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-18T04:22:11.610Z",
+  "last_updated": "2026-03-18T04:22:18.658Z",
   "categories": {
     "supplements": [
       {
@@ -129,6 +129,20 @@
         "added_date": "2026-03-18"
       },
       {
+        "id": "recEJ0IjZ2sx5PchM",
+        "title": "Cardiometabolic vulnerability in cardio-oncology: mechanistic links, clinical implications, and emerging preventive strategies.",
+        "summary": "Cancer patients with existing heart disease risk factors face higher cardiovascular damage from cancer treatments; new preventive strategies help reduce this risk.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41841682/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-18"
+      },
+      {
         "id": "rec0DndHNZCPICf8s",
         "title": "Epigallocatechin-3-Gallate Suppresses Glioma by Targeting Integrin αvβ3/FAK/ERK Signaling Axis and Matrix Metalloproteinases.",
         "summary": "Green tea compound EGCG suppresses glioma growth by blocking signaling pathways and works better combined with standard chemotherapy.",
@@ -197,20 +211,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-17"
-      },
-      {
-        "id": "recIt5XU4YnVXmyfS",
-        "title": "Limonin induces ferroptosis in cervical squamous cell carcinoma by activating the expression of soluble epoxide hydrolase 2 protein.",
-        "summary": "Limonin, a natural compound, stops cervical cancer growth by triggering a cell death process through a protein called EPHX2.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41838669/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-17"
       }
     ],
     "off_label": [
@@ -221,6 +221,20 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41835945/",
         "source": "PubMed",
         "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-18"
+      },
+      {
+        "id": "recEJ0IjZ2sx5PchM",
+        "title": "Cardiometabolic vulnerability in cardio-oncology: mechanistic links, clinical implications, and emerging preventive strategies.",
+        "summary": "Cancer patients with existing heart disease risk factors face higher cardiovascular damage from cancer treatments; new preventive strategies help reduce this risk.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41841682/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
@@ -409,20 +423,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-17"
-      },
-      {
-        "id": "recDPiPgmFvPHjCcr",
-        "title": "The mitochondrial gambit: Re-evaluating Antimycin A as a multi-pronged anti-cancer agent.",
-        "summary": "Antimycin A, a mitochondrial inhibitor, kills cancer cells through multiple mechanisms including energy depletion, protein destruction, and stem cell targeting.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41576908/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Lymphoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-15"
       }
     ],
     "biomarkers": [
@@ -856,10 +856,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11442,
+    "archive_count": 11443,
     "archive_supplements": 1340,
     "archive_off_label": 448,
-    "archive_biomarkers": 6846,
+    "archive_biomarkers": 6847,
     "archive_trials": 2511
   }
 }
