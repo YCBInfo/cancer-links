@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-18T04:02:44.061Z",
+  "last_updated": "2026-03-18T04:03:02.385Z",
   "categories": {
     "supplements": [
       {
@@ -525,6 +525,34 @@
         "added_date": "2026-03-18"
       },
       {
+        "id": "recexGIfo49tpNCZJ",
+        "title": "Phosphorylation and DNA damage resolution coordinate SOX2-mediated reprogramming in vivo.",
+        "summary": "SOX2 protein phosphorylation and DNA repair pathways are essential for reprogramming brain glial cells into neurons in adults.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41843683/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-18"
+      },
+      {
+        "id": "recj0Xuo9djt4RAPx",
+        "title": "Synthetic SIGLEC9-based chimeric switch receptor augments the efficacy of CAR macrophages against glioblastoma.",
+        "summary": "Researchers engineered immune cells called macrophages to fight glioblastoma by reprogramming them to resist tumor suppression and maintain cancer-killing ability.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41843671/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-18"
+      },
+      {
         "id": "recKEnrmYT6TLFkUJ",
         "title": "LDH isozymes as targets for cancer therapy.",
         "summary": "Researchers propose targeting lactate dehydrogenase isozymes, especially LDH-C, as a selective metabolic strategy to combat cancer.",
@@ -607,34 +635,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-17"
-      },
-      {
-        "id": "reccAkIhLOzJNS8za",
-        "title": "Multi-omics analysis identifies CCNB1 as a cell cycle factor driving glioblastoma progression and its inhibition by resveratrol.",
-        "summary": "Researchers found that CCNB1 protein drives glioblastoma growth and that resveratrol can suppress it, offering a potential new treatment approach.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41838760/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-17"
-      },
-      {
-        "id": "recll8cod8OwnQxGs",
-        "title": "Swertiamarin fails to induce cytotoxicity in colon cancer cell lines: Evidence against a direct anticancer effect.",
-        "summary": "Swertiamarin, a plant compound, did not kill colon cancer cells in laboratory testing, suggesting it lacks direct anticancer effects.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41838704/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-17"
       }
     ],
     "trials": [
@@ -647,6 +647,20 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Lymphoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-18"
+      },
+      {
+        "id": "recj0Xuo9djt4RAPx",
+        "title": "Synthetic SIGLEC9-based chimeric switch receptor augments the efficacy of CAR macrophages against glioblastoma.",
+        "summary": "Researchers engineered immune cells called macrophages to fight glioblastoma by reprogramming them to resist tumor suppression and maintain cancer-killing ability.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41843671/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Brain"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -833,20 +847,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-17"
-      },
-      {
-        "id": "recElszXZ67TesaNI",
-        "title": "A NIR-Ⅱ-Immunostimulatory nanoplatform rewires immunometabolism to unleash STING-driven antitumor immunity.",
-        "summary": "A new nanoplatform combines deep-tissue imaging with heat therapy and immune activation to treat resistant melanoma.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41834053/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Melanoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-17"
       }
     ]
   },
@@ -856,10 +856,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11335,
+    "archive_count": 11336,
     "archive_supplements": 1332,
     "archive_off_label": 448,
-    "archive_biomarkers": 6762,
+    "archive_biomarkers": 6763,
     "archive_trials": 2496
   }
 }
