@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-18T04:03:57.576Z",
+  "last_updated": "2026-03-18T04:04:07.712Z",
   "categories": {
     "supplements": [
       {
@@ -595,6 +595,20 @@
         "added_date": "2026-03-18"
       },
       {
+        "id": "recgh0CSAwTYoRFc0",
+        "title": "Economic Evaluation of GARDE: A Digital Health Platform for Population-Level Hereditary Cancer Risk Assessment.",
+        "summary": "GARDE is a digital tool that helps identify undiagnosed hereditary cancer cases and could reduce healthcare costs for institutions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41843856/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-18"
+      },
+      {
         "id": "recKEnrmYT6TLFkUJ",
         "title": "LDH isozymes as targets for cancer therapy.",
         "summary": "Researchers propose targeting lactate dehydrogenase isozymes, especially LDH-C, as a selective metabolic strategy to combat cancer.",
@@ -619,20 +633,6 @@
           "General"
         ],
         "quality_score": 20,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-17"
-      },
-      {
-        "id": "recWsNs2XvGeYgxkP",
-        "title": "Metformin Blunts Vascular Insulin Sensitivity After Exercise Training in Adults at Risk for Metabolic Syndrome.",
-        "summary": "Metformin may reduce the vascular health benefits normally gained from exercise training in people at metabolic risk.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41160096/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-17"
       }
@@ -705,6 +705,20 @@
           "Colorectal"
         ],
         "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-18"
+      },
+      {
+        "id": "recgh0CSAwTYoRFc0",
+        "title": "Economic Evaluation of GARDE: A Digital Health Platform for Population-Level Hereditary Cancer Risk Assessment.",
+        "summary": "GARDE is a digital tool that helps identify undiagnosed hereditary cancer cases and could reduce healthcare costs for institutions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41843856/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-18"
       },
@@ -833,20 +847,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-17"
-      },
-      {
-        "id": "rec0JO7hK989y0TxD",
-        "title": "Second-Generation and Off-the-Shelf CAR Platforms: Emerging Cardiovascular Implications of Next-Generation Cellular Immunotherapies.",
-        "summary": "CAR-based cancer therapies effectively treat blood cancers but trigger inflammatory responses causing heart problems like low blood pressure and arrhythmias.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41837781/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-17"
       }
     ]
   },
@@ -856,10 +856,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11341,
+    "archive_count": 11342,
     "archive_supplements": 1332,
     "archive_off_label": 448,
-    "archive_biomarkers": 6768,
+    "archive_biomarkers": 6769,
     "archive_trials": 2496
   }
 }
