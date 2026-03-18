@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-18T04:12:09.515Z",
+  "last_updated": "2026-03-18T04:12:19.820Z",
   "categories": {
     "supplements": [
       {
@@ -41,6 +41,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-18"
+      },
+      {
+        "id": "recDYZCyZI5ASDIDE",
+        "title": "19-Hydroxybufalin Inhibits Gastric Cancer Cell Proliferation by Modulating Metabolic Reprogramming.",
+        "summary": "A natural compound called 19-hydroxybufalin stops gastric cancer cells from growing by changing how they use energy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41842934/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Stomach"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-18"
       },
@@ -195,20 +209,6 @@
           "Breast"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-17"
-      },
-      {
-        "id": "recjNVrT3SEWWEIVW",
-        "title": "Omega-3 fatty acids and human health: why strong claims remain on fragile consensus.",
-        "summary": "Omega-3 supplements remain popular despite weak evidence for health benefits and concerns about product quality and effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41834313/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-17"
       }
@@ -856,10 +856,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11387,
+    "archive_count": 11388,
     "archive_supplements": 1334,
     "archive_off_label": 448,
-    "archive_biomarkers": 6802,
+    "archive_biomarkers": 6803,
     "archive_trials": 2506
   }
 }
