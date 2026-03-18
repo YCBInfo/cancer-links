@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-03-17T11:52:49.699Z",
+  "last_updated": "2026-03-18T04:02:12.871Z",
   "categories": {
     "supplements": [
+      {
+        "id": "recWlLPlM2cXBoNf9",
+        "title": "Novel anti-rheumatic potential of Eucalrobusone C: inhibition of rheumatoid arthritis fibroblast-like synoviocytes and metabolic reprogramming.",
+        "summary": "Eucalrobusone C, a natural compound from eucalyptus, reduces rheumatoid arthritis cell growth and inflammation through metabolic pathway changes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41842697/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-18"
+      },
       {
         "id": "rec0DndHNZCPICf8s",
         "title": "Epigallocatechin-3-Gallate Suppresses Glioma by Targeting Integrin αvβ3/FAK/ERK Signaling Axis and Matrix Metalloproteinases.",
@@ -197,23 +211,23 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-17"
-      },
+      }
+    ],
+    "off_label": [
       {
-        "id": "reczcDmw4t1mu5VcC",
-        "title": "Vitamin B6 (Pyridoxal 5' Phosphate) antagonises carotid body P2X3 receptors in hypertension.",
-        "summary": "Vitamin B6 blocks a specific receptor in the carotid body, potentially offering a new treatment approach for high blood pressure.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41094718/",
+        "id": "rec1r1fELYAkmKQ95",
+        "title": "SGLT2 inhibitors and AMPK crosstalk in diabetes mellitus: mechanistic insights and therapeutic applications.",
+        "summary": "SGLT2 inhibitors treat diabetes by activating AMPK, a protein that protects heart, kidney, and liver function through multiple cellular mechanisms.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41835945/",
         "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
+        "category": "Off-Label Medications",
         "cancer_types": [
           "General"
         ],
         "quality_score": 12,
         "pub_date": "2026-03-01",
-        "added_date": "2026-03-17"
-      }
-    ],
-    "off_label": [
+        "added_date": "2026-03-18"
+      },
       {
         "id": "recWsNs2XvGeYgxkP",
         "title": "Metformin Blunts Vascular Insulin Sensitivity After Exercise Training in Adults at Risk for Metabolic Syndrome.",
@@ -409,23 +423,65 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-03-15"
-      },
-      {
-        "id": "recQ7GtwRnIc2TyjQ",
-        "title": "Delivering precision oncology in metastatic breast cancer: Clinical impact of comprehensive genomic profiling-The CATCH experience.",
-        "summary": "Genomic testing identified actionable mutations in metastatic breast cancer, enabling personalized treatments that extended progression-free survival in one-third of patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41170836/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 13,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-03-15"
       }
     ],
     "biomarkers": [
+      {
+        "id": "rec1DMxsA4bZVDiSc",
+        "title": "Platelets induce VISTA expression and modulate the ovarian tumor microenvironment.",
+        "summary": "Platelets increase VISTA expression in ovarian cancer, suppressing immune responses and worsening outcomes—a potential new treatment target.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41841642/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Ovarian"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-18"
+      },
+      {
+        "id": "recWlLPlM2cXBoNf9",
+        "title": "Novel anti-rheumatic potential of Eucalrobusone C: inhibition of rheumatoid arthritis fibroblast-like synoviocytes and metabolic reprogramming.",
+        "summary": "Eucalrobusone C, a natural compound from eucalyptus, reduces rheumatoid arthritis cell growth and inflammation through metabolic pathway changes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41842697/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-18"
+      },
+      {
+        "id": "rec1r1fELYAkmKQ95",
+        "title": "SGLT2 inhibitors and AMPK crosstalk in diabetes mellitus: mechanistic insights and therapeutic applications.",
+        "summary": "SGLT2 inhibitors treat diabetes by activating AMPK, a protein that protects heart, kidney, and liver function through multiple cellular mechanisms.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41835945/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-18"
+      },
+      {
+        "id": "recYfn0SOiE2z3ihK",
+        "title": "Clinical Manifestations of Primary CNS T-Cell Lymphoma: A Retrospective Study of Histopathologic, Molecular, and Neuroimaging Features.",
+        "summary": "Researchers identified key diagnostic features of rare brain T-cell lymphoma to help doctors recognize and treat the disease faster.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41843861/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lymphoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-18"
+      },
       {
         "id": "recKEnrmYT6TLFkUJ",
         "title": "LDH isozymes as targets for cancer therapy.",
@@ -580,65 +636,23 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-17"
-      },
-      {
-        "id": "recvthflY0IRtlFAg",
-        "title": "A novel matrine derivative exerts antitumor effects against hepatocellular carcinoma by inducing oxidative stress and DNA damage.",
-        "summary": "A new matrine-based compound effectively kills hepatocellular carcinoma cells by causing DNA damage and oxidative stress.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41838302/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-17"
-      },
-      {
-        "id": "recXUwzIRWbJCTKnx",
-        "title": "An integrated microfluidic system for automatic and self-validated analysis of cervical extracellular vesicle markers PD-L1 and ERBB3.",
-        "summary": "Researchers developed a microfluidic chip that rapidly detects cervical cancer markers in blood samples, enabling faster, more reliable diagnosis of gynecological cancers.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41838284/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-17"
-      },
-      {
-        "id": "recAy0VydUqPJAqhE",
-        "title": "GPR40 Attenuates Glioma TMZ-Resistance Through Ferroptosis Inhibition.",
-        "summary": "GPR40 protein reduces glioblastoma sensitivity to chemotherapy by blocking ferroptosis, offering a new target to overcome drug resistance.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41838210/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-17"
-      },
-      {
-        "id": "recwAftLGU3sYhOKv",
-        "title": "Weight Regain Reverses Caloric Restriction-Induced Benefits on the Insulin-IGF-1 Nutrient-Sensing Pathway: Post Hoc Analysis From the CALERIE-2 Randomized Controlled Trial.",
-        "summary": "Regaining weight after calorie restriction reverses metabolic health improvements, including benefits to insulin and growth factor pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41838032/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-17"
       }
     ],
     "trials": [
+      {
+        "id": "recYfn0SOiE2z3ihK",
+        "title": "Clinical Manifestations of Primary CNS T-Cell Lymphoma: A Retrospective Study of Histopathologic, Molecular, and Neuroimaging Features.",
+        "summary": "Researchers identified key diagnostic features of rare brain T-cell lymphoma to help doctors recognize and treat the disease faster.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41843861/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lymphoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-18"
+      },
       {
         "id": "recDWiwbi3tjXSrs9",
         "title": "Then and Now: What We Have Learned From the WHI.",
@@ -834,20 +848,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-17"
-      },
-      {
-        "id": "recq2cfJRwRbc2tuM",
-        "title": "Neuroprotective Effects of the Combination of Green Tea, Saffron, Docosahexaenoic Acid, and α-Lipoic Acid in an In Vitro Model of Parkinson's Disease.",
-        "summary": "A combination of green tea, saffron, DHA, and α-lipoic acid protects dopamine-producing brain cells from Parkinson's-related damage in laboratory tests.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41832920/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-17"
       }
     ]
   },
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11332,
+    "archive_count": 11333,
     "archive_supplements": 1331,
     "archive_off_label": 447,
-    "archive_biomarkers": 6761,
+    "archive_biomarkers": 6762,
     "archive_trials": 2496
   }
 }
