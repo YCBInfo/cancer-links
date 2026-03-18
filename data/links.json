@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-18T08:02:29.831Z",
+  "last_updated": "2026-03-18T09:01:52.399Z",
   "categories": {
     "supplements": [
       {
@@ -291,6 +291,34 @@
         "added_date": "2026-03-18"
       },
       {
+        "id": "recWIMHFKauLeA7HT",
+        "title": "Hydroxychloroquine alleviates cyclophosphamide-induced premature ovarian failure by attenuating granulosa cell senescence and modulating the mtDNA-cGAS pathway.",
+        "summary": "Hydroxychloroquine protects ovaries from chemotherapy damage by reducing cell aging and inflammation in cancer patients receiving cyclophosphamide.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41839900/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-18"
+      },
+      {
+        "id": "recpOb5Oh5D499s9n",
+        "title": "Cancer Therapy-Related Cardiac Dysfunction in Breast Cancer Patients Receiving Combination Therapy of Candesartan and Carvedilol for Primary Prevention: A Prospective Longitudinal Study.",
+        "summary": "Combination heart medications prevent cardiac damage in breast cancer patients receiving cancer treatments.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41844142/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-18"
+      },
+      {
         "id": "recWsNs2XvGeYgxkP",
         "title": "Metformin Blunts Vascular Insulin Sensitivity After Exercise Training in Adults at Risk for Metabolic Syndrome.",
         "summary": "Metformin may reduce the vascular health benefits normally gained from exercise training in people at metabolic risk.",
@@ -399,34 +427,6 @@
           "Liver"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-17"
-      },
-      {
-        "id": "recPnBgti89khtYg8",
-        "title": "A Feasibility Study of the Repurposing of Prazosin to Improve Treatment Outcomes in Men Receiving Radiotherapy for Prostate Cancer (MiniRaP-00).",
-        "summary": "Researchers tested whether an existing blood pressure drug called prazosin could improve outcomes in men receiving radiation therapy for prostate cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41833070/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Prostate"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-17"
-      },
-      {
-        "id": "recFA5Bsw0ew08ege",
-        "title": "Repositioning of Nonsedating Antihistamine Ebastine for Anti-lung Adenocarcinoma Based on EGFR/ERBB2 Dual-targeting Strategy.",
-        "summary": "Ebastine, an existing antihistamine drug, effectively kills lung adenocarcinoma cells by targeting two proteins and boosting immune response.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41833879/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-17"
       }
@@ -862,10 +862,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11536,
+    "archive_count": 11537,
     "archive_supplements": 1343,
     "archive_off_label": 449,
-    "archive_biomarkers": 6896,
+    "archive_biomarkers": 6897,
     "archive_trials": 2551
   }
 }
