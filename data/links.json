@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-18T04:04:40.143Z",
+  "last_updated": "2026-03-18T04:04:51.158Z",
   "categories": {
     "supplements": [
       {
@@ -751,6 +751,20 @@
         "added_date": "2026-03-18"
       },
       {
+        "id": "receZAAaYLiq58Zop",
+        "title": "Capturing and tracking clonal T cell response to cancer neoantigens.",
+        "summary": "Researchers developed a method to track immune T cells targeting melanoma tumors, revealing that CTLA4 immunotherapy boosts tumor-fighting T cell expansion.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41843768/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Melanoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-18"
+      },
+      {
         "id": "recDWiwbi3tjXSrs9",
         "title": "Then and Now: What We Have Learned From the WHI.",
         "summary": "Women's Health Initiative studies show menopausal hormone therapy carries both risks and benefits for postmenopausal women.",
@@ -833,20 +847,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-17"
-      },
-      {
-        "id": "recwAftLGU3sYhOKv",
-        "title": "Weight Regain Reverses Caloric Restriction-Induced Benefits on the Insulin-IGF-1 Nutrient-Sensing Pathway: Post Hoc Analysis From the CALERIE-2 Randomized Controlled Trial.",
-        "summary": "Regaining weight after calorie restriction reverses metabolic health improvements, including benefits to insulin and growth factor pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41838032/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-17"
       }
     ]
   },
@@ -856,10 +856,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11345,
+    "archive_count": 11346,
     "archive_supplements": 1333,
     "archive_off_label": 448,
-    "archive_biomarkers": 6770,
+    "archive_biomarkers": 6771,
     "archive_trials": 2497
   }
 }
