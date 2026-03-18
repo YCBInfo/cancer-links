@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-18T04:15:51.970Z",
+  "last_updated": "2026-03-18T04:16:02.383Z",
   "categories": {
     "supplements": [
       {
@@ -83,6 +83,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-18"
+      },
+      {
+        "id": "rec9QfnkAhJXIAh3u",
+        "title": "Anti-Breast Cancer Effects of Carbon Quantum Dots: In Vivo Angiogenesis and Arginase Co-Inhibition.",
+        "summary": "Carbon quantum dots inhibit arginase in breast cancer cells, boosting immune response and achieving 68% tumor remission without typical drug side effects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41841461/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-18"
       },
@@ -189,20 +203,6 @@
         "title": "The effect of ginseng extract on fatigue in cancer survivors: a randomized double-blind clinical trial.",
         "summary": "Ginseng extract reduced fatigue in gastrointestinal cancer survivors in a randomized clinical trial.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41838185/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-17"
-      },
-      {
-        "id": "recwAftLGU3sYhOKv",
-        "title": "Weight Regain Reverses Caloric Restriction-Induced Benefits on the Insulin-IGF-1 Nutrient-Sensing Pathway: Post Hoc Analysis From the CALERIE-2 Randomized Controlled Trial.",
-        "summary": "Regaining weight after calorie restriction reverses metabolic health improvements, including benefits to insulin and growth factor pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41838032/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -856,10 +856,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11408,
+    "archive_count": 11409,
     "archive_supplements": 1336,
     "archive_off_label": 448,
-    "archive_biomarkers": 6818,
+    "archive_biomarkers": 6819,
     "archive_trials": 2509
   }
 }
