@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-18T04:29:35.350Z",
+  "last_updated": "2026-03-18T06:02:26.056Z",
   "categories": {
     "supplements": [
       {
@@ -171,6 +171,20 @@
         "added_date": "2026-03-18"
       },
       {
+        "id": "rec3laH4I0CCWgvms",
+        "title": "Glucosamine as a regulator of O-GlcNAc signaling: linking metabolism to disease pathogenesis.",
+        "summary": "Glucosamine supplements may influence cancer through metabolic pathways that modify proteins, linking joint health supplements to disease processes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41842977/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-18"
+      },
+      {
         "id": "rec0DndHNZCPICf8s",
         "title": "Epigallocatechin-3-Gallate Suppresses Glioma by Targeting Integrin αvβ3/FAK/ERK Signaling Axis and Matrix Metalloproteinases.",
         "summary": "Green tea compound EGCG suppresses glioma growth by blocking signaling pathways and works better combined with standard chemotherapy.",
@@ -195,20 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-17"
-      },
-      {
-        "id": "recRv9ErtZ1Z9DYQO",
-        "title": "Codelivery of Doxorubicin and Carvacrol via a β-Cyclodextrin-Hyaluronic Acid Nanogel System for Targeted and Stimuli-Responsive Anticancer Therapy.",
-        "summary": "Researchers developed nanogels delivering two drugs together to triple-negative breast cancer cells, improving treatment effectiveness and reducing toxicity.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41838892/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-17"
       }
@@ -856,10 +856,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11484,
+    "archive_count": 11485,
     "archive_supplements": 1341,
     "archive_off_label": 448,
     "archive_biomarkers": 6876,
-    "archive_trials": 2522
+    "archive_trials": 2523
   }
 }
