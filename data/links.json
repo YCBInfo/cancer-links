@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-18T04:03:47.316Z",
+  "last_updated": "2026-03-18T04:03:57.576Z",
   "categories": {
     "supplements": [
       {
@@ -581,6 +581,20 @@
         "added_date": "2026-03-18"
       },
       {
+        "id": "rec7hJLJxor78c1y0",
+        "title": "Rectal Cancer Radiotherapy Response Prediction: Retrospective Study of Development of a Deep Learning-Based Radiomics Model.",
+        "summary": "Researchers developed an artificial intelligence model using MRI scans to predict which rectal cancer patients will respond well to radiotherapy before treatment begins.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41843889/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-18"
+      },
+      {
         "id": "recKEnrmYT6TLFkUJ",
         "title": "LDH isozymes as targets for cancer therapy.",
         "summary": "Researchers propose targeting lactate dehydrogenase isozymes, especially LDH-C, as a selective metabolic strategy to combat cancer.",
@@ -619,20 +633,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-17"
-      },
-      {
-        "id": "rec0DndHNZCPICf8s",
-        "title": "Epigallocatechin-3-Gallate Suppresses Glioma by Targeting Integrin αvβ3/FAK/ERK Signaling Axis and Matrix Metalloproteinases.",
-        "summary": "Green tea compound EGCG suppresses glioma growth by blocking signaling pathways and works better combined with standard chemotherapy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41839532/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Brain"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-17"
       }
@@ -691,6 +691,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-18"
+      },
+      {
+        "id": "rec7hJLJxor78c1y0",
+        "title": "Rectal Cancer Radiotherapy Response Prediction: Retrospective Study of Development of a Deep Learning-Based Radiomics Model.",
+        "summary": "Researchers developed an artificial intelligence model using MRI scans to predict which rectal cancer patients will respond well to radiotherapy before treatment begins.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41843889/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-18"
       },
@@ -833,20 +847,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-17"
-      },
-      {
-        "id": "recGLWx1e83UYJPPW",
-        "title": "Endoscopic Management of Appendiceal Stump Lesions via Transcolonic Access: A Safe and Feasible Minimally Invasive Strategy.",
-        "summary": "Doctors successfully removed appendiceal stump lesions using minimally invasive endoscopy through the colon, offering faster recovery than traditional surgery.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41834657/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-17"
       }
     ]
   },
@@ -856,10 +856,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11340,
+    "archive_count": 11341,
     "archive_supplements": 1332,
     "archive_off_label": 448,
-    "archive_biomarkers": 6767,
+    "archive_biomarkers": 6768,
     "archive_trials": 2496
   }
 }
