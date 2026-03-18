@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-18T04:13:43.378Z",
+  "last_updated": "2026-03-18T04:13:53.639Z",
   "categories": {
     "supplements": [
       {
@@ -55,6 +55,20 @@
           "Stomach"
         ],
         "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-18"
+      },
+      {
+        "id": "reca1s8w1wOiWfpnO",
+        "title": "Thymoquinone regulates osteosarcoma cell proliferation through the P53 signaling pathway: A network pharmacology and molecular docking based health technology study.",
+        "summary": "Thymoquinone reduces osteosarcoma cell growth by triggering cell death through the P53 signaling pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41842619/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-18"
       },
@@ -193,20 +207,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Melanoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-17"
-      },
-      {
-        "id": "recEZQ9SQKgf6wQZJ",
-        "title": "PAK5-Mediated Suppression of β-Hydroxybutyrate Production Promotes Breast Cancer Metastasis and Can Be Overcome with Ketogenic Diet.",
-        "summary": "A ketogenic diet boosts a protective molecule in breast cancer patients, blocking a protein pathway that drives metastasis.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41834498/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -856,10 +856,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11396,
+    "archive_count": 11397,
     "archive_supplements": 1335,
     "archive_off_label": 448,
     "archive_biomarkers": 6810,
-    "archive_trials": 2506
+    "archive_trials": 2507
   }
 }
