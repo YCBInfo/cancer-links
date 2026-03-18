@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-18T07:04:20.831Z",
+  "last_updated": "2026-03-18T07:04:32.365Z",
   "categories": {
     "supplements": [
       {
@@ -275,6 +275,22 @@
         "added_date": "2026-03-18"
       },
       {
+        "id": "recicnhOKmn5E4WcO",
+        "title": "A Phase I Trial of MK-2206 and Hydroxychloroquine in Solid Tumors, Melanoma, Renal and Prostate Cancer to Examine the Role of Autophagy in Tumorigenesis",
+        "summary": "A trial testing whether combining two drugs—MK-2206 and hydroxychloroquine—kills advanced melanoma, prostate, and kidney cancer cells better than either drug alone.",
+        "url": "https://clinicaltrials.gov/study/NCT01480154",
+        "source": "ClinicalTrials.gov",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Prostate",
+          "Melanoma",
+          "Kidney"
+        ],
+        "quality_score": 13,
+        "pub_date": "2026-03-17",
+        "added_date": "2026-03-18"
+      },
+      {
         "id": "recWsNs2XvGeYgxkP",
         "title": "Metformin Blunts Vascular Insulin Sensitivity After Exercise Training in Adults at Risk for Metabolic Syndrome.",
         "summary": "Metformin may reduce the vascular health benefits normally gained from exercise training in people at metabolic risk.",
@@ -405,20 +421,6 @@
         "title": "Repositioning of Nonsedating Antihistamine Ebastine for Anti-lung Adenocarcinoma Based on EGFR/ERBB2 Dual-targeting Strategy.",
         "summary": "Ebastine, an existing antihistamine drug, effectively kills lung adenocarcinoma cells by targeting two proteins and boosting immune response.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41833879/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-17"
-      },
-      {
-        "id": "rec90hGvNiyjRKcmg",
-        "title": "Pharmacokinetic Insights and Therapeutic Potential of Calcium Channel Blockers in Cardiovascular and Non-Cardiovascular Disorders.",
-        "summary": "Calcium channel blockers show promise in cancer treatment, particularly T-type variants, with nanocarriers improving their effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41832712/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -860,10 +862,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11520,
+    "archive_count": 11521,
     "archive_supplements": 1343,
     "archive_off_label": 449,
     "archive_biomarkers": 6892,
-    "archive_trials": 2539
+    "archive_trials": 2540
   }
 }
