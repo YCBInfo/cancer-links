@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-18T04:22:51.231Z",
+  "last_updated": "2026-03-18T04:23:02.196Z",
   "categories": {
     "supplements": [
       {
@@ -143,6 +143,20 @@
         "added_date": "2026-03-18"
       },
       {
+        "id": "recqLVqokgBPTHSEx",
+        "title": "Bifidobacterium breve inhibits colorectal cancer via extracellular vesicles containing formate acetyltransferase.",
+        "summary": "A probiotic bacterium's extracellular vesicles inhibit colorectal cancer growth through a protein called formate acetyltransferase.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41840625/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-18"
+      },
+      {
         "id": "rec0DndHNZCPICf8s",
         "title": "Epigallocatechin-3-Gallate Suppresses Glioma by Targeting Integrin αvβ3/FAK/ERK Signaling Axis and Matrix Metalloproteinases.",
         "summary": "Green tea compound EGCG suppresses glioma growth by blocking signaling pathways and works better combined with standard chemotherapy.",
@@ -193,20 +207,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-17"
-      },
-      {
-        "id": "recll8cod8OwnQxGs",
-        "title": "Swertiamarin fails to induce cytotoxicity in colon cancer cell lines: Evidence against a direct anticancer effect.",
-        "summary": "Swertiamarin, a plant compound, did not kill colon cancer cells in laboratory testing, suggesting it lacks direct anticancer effects.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41838704/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -856,10 +856,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11446,
+    "archive_count": 11447,
     "archive_supplements": 1340,
     "archive_off_label": 448,
-    "archive_biomarkers": 6848,
+    "archive_biomarkers": 6849,
     "archive_trials": 2513
   }
 }
