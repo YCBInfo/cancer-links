@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-18T04:03:26.430Z",
+  "last_updated": "2026-03-18T04:03:38.433Z",
   "categories": {
     "supplements": [
       {
@@ -7,6 +7,20 @@
         "title": "Novel anti-rheumatic potential of Eucalrobusone C: inhibition of rheumatoid arthritis fibroblast-like synoviocytes and metabolic reprogramming.",
         "summary": "Eucalrobusone C, a natural compound from eucalyptus, reduces rheumatoid arthritis cell growth and inflammation through metabolic pathway changes.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41842697/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-18"
+      },
+      {
+        "id": "recsJStHEjdkxlP77",
+        "title": "Protective effects of zingerone on the retina in diabetic rats.",
+        "summary": "Zingerone, a compound from ginger, protected retinal tissue from damage in diabetic rats.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41767331/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -195,20 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-17"
-      },
-      {
-        "id": "recMifClEcNYkrx6E",
-        "title": "Dihydroartemisinin targets GPX4 to induce autophagy-dependent ferroptosis and reduce radioresistance in triple-negative breast cancer.",
-        "summary": "Dihydroartemisinin overcomes triple-negative breast cancer radioresistance by triggering ferroptosis through autophagy-dependent GPX4 degradation.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41520847/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-17"
       }
@@ -856,10 +856,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11338,
+    "archive_count": 11339,
     "archive_supplements": 1332,
     "archive_off_label": 448,
-    "archive_biomarkers": 6765,
+    "archive_biomarkers": 6766,
     "archive_trials": 2496
   }
 }
