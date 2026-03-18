@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-18T04:02:24.447Z",
+  "last_updated": "2026-03-18T04:02:44.061Z",
   "categories": {
     "supplements": [
       {
@@ -497,6 +497,34 @@
         "added_date": "2026-03-18"
       },
       {
+        "id": "recCOheAWTpsdyMf7",
+        "title": "METTL3/IGF2BP2 mediates m6A methylation modification of SNRPA1 to promote tumor property of non-small cell lung cancer cells.",
+        "summary": "Two proteins (METTL3 and IGF2BP2) chemically modify SNRPA1 to promote lung cancer cell growth, suggesting a new treatment target.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41841152/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-18"
+      },
+      {
+        "id": "recdKkMEhuwfnLhU1",
+        "title": "Microglial fructose metabolism is essential for glioblastoma growth.",
+        "summary": "Blocking fructose metabolism in brain immune cells slows glioblastoma growth by enhancing the body's anti-tumor immune response.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41843684/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-18"
+      },
+      {
         "id": "recKEnrmYT6TLFkUJ",
         "title": "LDH isozymes as targets for cancer therapy.",
         "summary": "Researchers propose targeting lactate dehydrogenase isozymes, especially LDH-C, as a selective metabolic strategy to combat cancer.",
@@ -603,34 +631,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-17"
-      },
-      {
-        "id": "recIt5XU4YnVXmyfS",
-        "title": "Limonin induces ferroptosis in cervical squamous cell carcinoma by activating the expression of soluble epoxide hydrolase 2 protein.",
-        "summary": "Limonin, a natural compound, stops cervical cancer growth by triggering a cell death process through a protein called EPHX2.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41838669/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-17"
-      },
-      {
-        "id": "rec5f5KQHRGKO2Lwu",
-        "title": "Adrenocortical Carcinoma as a Manifestation of Birt-Hogg Dubé Syndrome.",
-        "summary": "Adrenocortical carcinoma occurs in up to 2% of genetically tested patients with Birt-Hogg Dubé syndrome, suggesting routine genetic screening is warranted.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41838460/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Kidney"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -856,9 +856,9 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11334,
+    "archive_count": 11335,
     "archive_supplements": 1332,
-    "archive_off_label": 447,
+    "archive_off_label": 448,
     "archive_biomarkers": 6762,
     "archive_trials": 2496
   }
