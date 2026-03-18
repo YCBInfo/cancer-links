@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-18T04:03:38.433Z",
+  "last_updated": "2026-03-18T04:03:47.316Z",
   "categories": {
     "supplements": [
       {
@@ -567,6 +567,20 @@
         "added_date": "2026-03-18"
       },
       {
+        "id": "recwa7uRpNiBF8Nf2",
+        "title": "TUSCAN: Tumor segmentation and classification analysis in spatial transcriptomics.",
+        "summary": "TUSCAN uses spatial gene and imaging data to accurately identify tumor regions by detecting copy number variations, improving cancer detection in tissue samples.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41843898/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-18"
+      },
+      {
         "id": "recKEnrmYT6TLFkUJ",
         "title": "LDH isozymes as targets for cancer therapy.",
         "summary": "Researchers propose targeting lactate dehydrogenase isozymes, especially LDH-C, as a selective metabolic strategy to combat cancer.",
@@ -617,20 +631,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-17"
-      },
-      {
-        "id": "rechnpRU2SFjwy9bs",
-        "title": "High-grade follicular B-cell lymphoma-associated C3 rapidly progressive glomerulonephritis: a rare association.",
-        "summary": "Follicular B-cell lymphoma rarely causes kidney inflammation, but targeted cancer treatment successfully restored kidney function and achieved remission.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41839518/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Lymphoma"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -856,10 +856,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11339,
+    "archive_count": 11340,
     "archive_supplements": 1332,
     "archive_off_label": 448,
-    "archive_biomarkers": 6766,
+    "archive_biomarkers": 6767,
     "archive_trials": 2496
   }
 }
