@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-18T06:06:26.900Z",
+  "last_updated": "2026-03-18T07:01:36.518Z",
   "categories": {
     "supplements": [
       {
@@ -261,6 +261,20 @@
         "added_date": "2026-03-18"
       },
       {
+        "id": "recWD45iikITNKQKB",
+        "title": "Pilot Study of Meclofenamate in Subjects With Recurrent or Progressive Brain Metastasis From Solid Tumor Primary",
+        "summary": "Researchers test meclofenamate, a pain medication, to stop brain cancer spread in patients with recurring tumors.",
+        "url": "https://clinicaltrials.gov/study/NCT02429570",
+        "source": "ClinicalTrials.gov",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 10,
+        "pub_date": "2026-03-17",
+        "added_date": "2026-03-18"
+      },
+      {
         "id": "recWsNs2XvGeYgxkP",
         "title": "Metformin Blunts Vascular Insulin Sensitivity After Exercise Training in Adults at Risk for Metabolic Syndrome.",
         "summary": "Metformin may reduce the vascular health benefits normally gained from exercise training in people at metabolic risk.",
@@ -411,20 +425,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-17"
-      },
-      {
-        "id": "recpRAGhFBLKNxctX",
-        "title": "Subtype-Specific Causal Effects of Antidiabetic Drug Targets on Ovarian Cancer: Mendelian Randomization and Colocalization Evidence.",
-        "summary": "Antidiabetic drugs may offer new treatment options for different types of ovarian cancer, according to genetic analysis.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41835849/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Ovarian"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-17"
       }
@@ -860,9 +860,9 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11504,
+    "archive_count": 11505,
     "archive_supplements": 1343,
-    "archive_off_label": 448,
+    "archive_off_label": 449,
     "archive_biomarkers": 6888,
     "archive_trials": 2528
   }
