@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-19T06:02:08.921Z",
+  "last_updated": "2026-03-19T06:02:20.688Z",
   "categories": {
     "supplements": [
       {
@@ -28,6 +28,20 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
+        "added_date": "2026-03-19"
+      },
+      {
+        "id": "recP4JgsvvyQDpuUW",
+        "title": "Identification and Validation of an Inhibitor of the Protein Kinases PIM and DYRK.",
+        "summary": "Researchers identified a compound from fermented wheat germ that inhibits PIM and DYRK protein kinases, showing promise against pancreatic cancer cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41849779/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Pancreatic"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
         "added_date": "2026-03-19"
       },
       {
@@ -195,20 +209,6 @@
           "Liver"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-18"
-      },
-      {
-        "id": "rec3laH4I0CCWgvms",
-        "title": "Glucosamine as a regulator of O-GlcNAc signaling: linking metabolism to disease pathogenesis.",
-        "summary": "Glucosamine supplements may influence cancer through metabolic pathways that modify proteins, linking joint health supplements to disease processes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41842977/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-18"
       }
@@ -485,6 +485,34 @@
         "added_date": "2026-03-19"
       },
       {
+        "id": "recn4ILaeP3KsMnQR",
+        "title": "Target choice and exon skipping regulate CRISPR-directed gene editing of NRF2 in head/neck and esophageal cancer cells.",
+        "summary": "CRISPR gene editing targeting NRF2 restores chemosensitivity in head/neck and esophageal cancer by disabling specific protein domains while avoiding counterproductive exon skipping.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41624405/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-19"
+      },
+      {
+        "id": "recP4JgsvvyQDpuUW",
+        "title": "Identification and Validation of an Inhibitor of the Protein Kinases PIM and DYRK.",
+        "summary": "Researchers identified a compound from fermented wheat germ that inhibits PIM and DYRK protein kinases, showing promise against pancreatic cancer cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41849779/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Pancreatic"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-19"
+      },
+      {
         "id": "rec1DMxsA4bZVDiSc",
         "title": "Platelets induce VISTA expression and modulate the ovarian tumor microenvironment.",
         "summary": "Platelets increase VISTA expression in ovarian cancer, suppressing immune responses and worsening outcomes—a potential new treatment target.",
@@ -607,34 +635,6 @@
           "Brain"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-18"
-      },
-      {
-        "id": "recID3gkzO1S8lBSR",
-        "title": "Lethal toxin-equipped effector cells for the potential treatment of cancer.",
-        "summary": "Researchers engineered immune cells resistant to bacterial toxins, enabling them to safely deliver these toxins directly to cancer cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41838915/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-18"
-      },
-      {
-        "id": "recwa7uRpNiBF8Nf2",
-        "title": "TUSCAN: Tumor segmentation and classification analysis in spatial transcriptomics.",
-        "summary": "TUSCAN uses spatial gene and imaging data to accurately identify tumor regions by detecting copy number variations, improving cancer detection in tissue samples.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41843898/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-18"
       }
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11545,
+    "archive_count": 11546,
     "archive_supplements": 1343,
     "archive_off_label": 451,
-    "archive_biomarkers": 6900,
+    "archive_biomarkers": 6901,
     "archive_trials": 2554
   }
 }
