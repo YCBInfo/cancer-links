@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-19T06:05:15.407Z",
+  "last_updated": "2026-03-19T06:05:26.337Z",
   "categories": {
     "supplements": [
       {
@@ -171,6 +171,20 @@
         "added_date": "2026-03-19"
       },
       {
+        "id": "recAQFPZ0UqmA6ORG",
+        "title": "Friends and foes: impact of bacteria on genome stability.",
+        "summary": "Harmful bacteria damage DNA and increase cancer risk, while beneficial bacteria protect genome stability through protective metabolites and immune modulation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41848406/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-19"
+      },
+      {
         "id": "recWlLPlM2cXBoNf9",
         "title": "Novel anti-rheumatic potential of Eucalrobusone C: inhibition of rheumatoid arthritis fibroblast-like synoviocytes and metabolic reprogramming.",
         "summary": "Eucalrobusone C, a natural compound from eucalyptus, reduces rheumatoid arthritis cell growth and inflammation through metabolic pathway changes.",
@@ -189,20 +203,6 @@
         "title": "Protective effects of zingerone on the retina in diabetic rats.",
         "summary": "Zingerone, a compound from ginger, protected retinal tissue from damage in diabetic rats.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41767331/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-18"
-      },
-      {
-        "id": "recncetu8zzHS8lNO",
-        "title": "Flavonoid components, antibacterial and anti‑inflammatory activities of extracts from different organs of Sapindus mukorossi Gaertn.",
-        "summary": "Sapindus mukorossi plant extracts show strong antibacterial and anti-inflammatory properties, with potential medical applications.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41843766/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -858,8 +858,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11562,
-    "archive_supplements": 1351,
+    "archive_count": 11563,
+    "archive_supplements": 1352,
     "archive_off_label": 451,
     "archive_biomarkers": 6907,
     "archive_trials": 2556
