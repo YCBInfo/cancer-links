@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-19T08:02:51.026Z",
+  "last_updated": "2026-03-19T09:01:54.996Z",
   "categories": {
     "supplements": [
       {
@@ -243,6 +243,20 @@
         "added_date": "2026-03-19"
       },
       {
+        "id": "reczoO3bFQ8P0hhQR",
+        "title": "Repurposing the SSRI paroxetine increases lymphocyte mobilization and improves the efficacy of measles virus-based immunovirotherapy.",
+        "summary": "Adding antidepressant paroxetine to measles virus immunotherapy boosts immune cell mobilization and improves survival in glioblastoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41542034/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Brain"
+        ],
+        "quality_score": 13,
+        "pub_date": "2026-01-01",
+        "added_date": "2026-03-19"
+      },
+      {
         "id": "rec1r1fELYAkmKQ95",
         "title": "SGLT2 inhibitors and AMPK crosstalk in diabetes mellitus: mechanistic insights and therapeutic applications.",
         "summary": "SGLT2 inhibitors treat diabetes by activating AMPK, a protein that protects heart, kidney, and liver function through multiple cellular mechanisms.",
@@ -409,20 +423,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-17"
-      },
-      {
-        "id": "recbPBjP3GqSU4sNw",
-        "title": "Chemoprevention of hepatocellular carcinoma by next-generation antipsychotic aripiprazole.",
-        "summary": "Aripiprazole, an antipsychotic drug, prevents hepatocellular carcinoma development by reducing liver inflammation and fibrosis in preclinical models.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41838879/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Liver"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-17"
       }
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11631,
+    "archive_count": 11632,
     "archive_supplements": 1360,
     "archive_off_label": 451,
-    "archive_biomarkers": 6944,
+    "archive_biomarkers": 6945,
     "archive_trials": 2579
   }
 }
