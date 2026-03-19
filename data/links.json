@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-19T06:02:20.688Z",
+  "last_updated": "2026-03-19T06:02:32.715Z",
   "categories": {
     "supplements": [
       {
@@ -39,6 +39,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Pancreatic"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-19"
+      },
+      {
+        "id": "rec2i85QrBaaIRaBd",
+        "title": "RagC senses β-hydroxybutyrate abundancy to suppress mTORC1 and tumor growth.",
+        "summary": "A ketogenic diet compound called β-hydroxybutyrate suppresses colorectal cancer growth by blocking mTORC1 through a protein called RagC.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41849426/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -193,20 +207,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-18"
-      },
-      {
-        "id": "recsRtGmpgsCkh9GW",
-        "title": "SIRT3 deacetylates STEAP4 to modulate cuproptosis sensitivity via mitochondrial metabolic reprogramming in HBV-related HCC.",
-        "summary": "HBV-related liver cancer evades copper-induced cell death through a protein pathway; restoring this pathway with drugs resensitizes tumors to copper treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41840161/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Liver"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -513,6 +513,20 @@
         "added_date": "2026-03-19"
       },
       {
+        "id": "rec2i85QrBaaIRaBd",
+        "title": "RagC senses β-hydroxybutyrate abundancy to suppress mTORC1 and tumor growth.",
+        "summary": "A ketogenic diet compound called β-hydroxybutyrate suppresses colorectal cancer growth by blocking mTORC1 through a protein called RagC.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41849426/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-19"
+      },
+      {
         "id": "rec1DMxsA4bZVDiSc",
         "title": "Platelets induce VISTA expression and modulate the ovarian tumor microenvironment.",
         "summary": "Platelets increase VISTA expression in ovarian cancer, suppressing immune responses and worsening outcomes—a potential new treatment target.",
@@ -621,20 +635,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-18"
-      },
-      {
-        "id": "recj0Xuo9djt4RAPx",
-        "title": "Synthetic SIGLEC9-based chimeric switch receptor augments the efficacy of CAR macrophages against glioblastoma.",
-        "summary": "Researchers engineered immune cells called macrophages to fight glioblastoma by reprogramming them to resist tumor suppression and maintain cancer-killing ability.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41843671/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Brain"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-18"
       }
@@ -858,8 +858,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11546,
-    "archive_supplements": 1343,
+    "archive_count": 11547,
+    "archive_supplements": 1344,
     "archive_off_label": 451,
     "archive_biomarkers": 6901,
     "archive_trials": 2554
