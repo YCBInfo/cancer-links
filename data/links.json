@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-19T09:05:19.216Z",
+  "last_updated": "2026-03-19T09:05:40.465Z",
   "categories": {
     "supplements": [
       {
@@ -313,6 +313,20 @@
         "added_date": "2026-03-19"
       },
       {
+        "id": "rec4oJPJAdkVJKXXB",
+        "title": "Discovery of Niclosamide Analogs with Potent Mitochondrial Uncoupling Activity and Reduced Mitochondrial Inhibition-Associated Toxicity.",
+        "summary": "Researchers modified niclosamide to create safer cancer-fighting drugs that uncouple mitochondria more effectively while reducing toxic side effects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41847649/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-19"
+      },
+      {
         "id": "rec1r1fELYAkmKQ95",
         "title": "SGLT2 inhibitors and AMPK crosstalk in diabetes mellitus: mechanistic insights and therapeutic applications.",
         "summary": "SGLT2 inhibitors treat diabetes by activating AMPK, a protein that protects heart, kidney, and liver function through multiple cellular mechanisms.",
@@ -411,20 +425,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-18"
-      },
-      {
-        "id": "recWsNs2XvGeYgxkP",
-        "title": "Metformin Blunts Vascular Insulin Sensitivity After Exercise Training in Adults at Risk for Metabolic Syndrome.",
-        "summary": "Metformin may reduce the vascular health benefits normally gained from exercise training in people at metabolic risk.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41160096/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-17"
       }
     ],
     "biomarkers": [
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11649,
+    "archive_count": 11650,
     "archive_supplements": 1360,
     "archive_off_label": 456,
-    "archive_biomarkers": 6954,
+    "archive_biomarkers": 6955,
     "archive_trials": 2582
   }
 }
