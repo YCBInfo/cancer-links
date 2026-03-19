@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-19T09:01:54.996Z",
+  "last_updated": "2026-03-19T09:02:07.569Z",
   "categories": {
     "supplements": [
       {
@@ -257,6 +257,20 @@
         "added_date": "2026-03-19"
       },
       {
+        "id": "rec9IVh34SqhULjY6",
+        "title": "Statin use and risk of contralateral breast cancer: an updated cohort study with landmark analysis.",
+        "summary": "Statin use after breast cancer diagnosis does not reduce the risk of developing cancer in the other breast.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41849088/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-19"
+      },
+      {
         "id": "rec1r1fELYAkmKQ95",
         "title": "SGLT2 inhibitors and AMPK crosstalk in diabetes mellitus: mechanistic insights and therapeutic applications.",
         "summary": "SGLT2 inhibitors treat diabetes by activating AMPK, a protein that protects heart, kidney, and liver function through multiple cellular mechanisms.",
@@ -405,20 +419,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41831044/",
         "source": "PubMed",
         "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-17"
-      },
-      {
-        "id": "recUUQGb7f0J7l2GJ",
-        "title": "Glycohypoxia: a hypothesis linking chronic hyperglycemia to functional hypoxia and diabetic complications in type 2 diabetes.",
-        "summary": "High blood sugar in type 2 diabetes reduces oxygen delivery to cells, causing complications; targeting this oxygen deficit offers new treatment approaches.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41830794/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11632,
+    "archive_count": 11633,
     "archive_supplements": 1360,
     "archive_off_label": 451,
-    "archive_biomarkers": 6945,
+    "archive_biomarkers": 6946,
     "archive_trials": 2579
   }
 }
