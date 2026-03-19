@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-19T06:05:57.264Z",
+  "last_updated": "2026-03-19T06:06:08.374Z",
   "categories": {
     "supplements": [
       {
@@ -781,6 +781,20 @@
         "added_date": "2026-03-19"
       },
       {
+        "id": "recAIrR2BuEAz1luU",
+        "title": "Predicting pediatric inflammatory bowel disease remission utilizing a clinical decision support tool.",
+        "summary": "A decision support tool can help predict which children with inflammatory bowel disease will respond to newer biologic treatments.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41847968/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-19"
+      },
+      {
         "id": "recYfn0SOiE2z3ihK",
         "title": "Clinical Manifestations of Primary CNS T-Cell Lymphoma: A Retrospective Study of Histopathologic, Molecular, and Neuroimaging Features.",
         "summary": "Researchers identified key diagnostic features of rare brain T-cell lymphoma to help doctors recognize and treat the disease faster.",
@@ -835,20 +849,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-18"
-      },
-      {
-        "id": "rec7hJLJxor78c1y0",
-        "title": "Rectal Cancer Radiotherapy Response Prediction: Retrospective Study of Development of a Deep Learning-Based Radiomics Model.",
-        "summary": "Researchers developed an artificial intelligence model using MRI scans to predict which rectal cancer patients will respond well to radiotherapy before treatment begins.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41843889/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-18"
       }
     ]
   },
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11566,
+    "archive_count": 11567,
     "archive_supplements": 1355,
     "archive_off_label": 451,
     "archive_biomarkers": 6907,
-    "archive_trials": 2556
+    "archive_trials": 2557
   }
 }
