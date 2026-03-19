@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-19T06:04:19.797Z",
+  "last_updated": "2026-03-19T06:04:33.415Z",
   "categories": {
     "supplements": [
       {
@@ -115,6 +115,20 @@
         "added_date": "2026-03-19"
       },
       {
+        "id": "recSwBJuQoDcA6M82",
+        "title": "Genetic determinants of lycopene concentration in subcutaneous adipose tissue: insights into interindividual variability in adult males.",
+        "summary": "Genetic variants in 11 genes explain about half the differences in how much lycopene men store in fat tissue, potentially affecting prostate and breast cancer risk.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41848742/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-19"
+      },
+      {
         "id": "recWlLPlM2cXBoNf9",
         "title": "Novel anti-rheumatic potential of Eucalrobusone C: inhibition of rheumatoid arthritis fibroblast-like synoviocytes and metabolic reprogramming.",
         "summary": "Eucalrobusone C, a natural compound from eucalyptus, reduces rheumatoid arthritis cell growth and inflammation through metabolic pathway changes.",
@@ -195,20 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-18"
-      },
-      {
-        "id": "rec9QfnkAhJXIAh3u",
-        "title": "Anti-Breast Cancer Effects of Carbon Quantum Dots: In Vivo Angiogenesis and Arginase Co-Inhibition.",
-        "summary": "Carbon quantum dots inhibit arginase in breast cancer cells, boosting immune response and achieving 68% tumor remission without typical drug side effects.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41841461/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-18"
       }
@@ -597,6 +597,20 @@
         "added_date": "2026-03-19"
       },
       {
+        "id": "recSwBJuQoDcA6M82",
+        "title": "Genetic determinants of lycopene concentration in subcutaneous adipose tissue: insights into interindividual variability in adult males.",
+        "summary": "Genetic variants in 11 genes explain about half the differences in how much lycopene men store in fat tissue, potentially affecting prostate and breast cancer risk.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41848742/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-19"
+      },
+      {
         "id": "rec1DMxsA4bZVDiSc",
         "title": "Platelets induce VISTA expression and modulate the ovarian tumor microenvironment.",
         "summary": "Platelets increase VISTA expression in ovarian cancer, suppressing immune responses and worsening outcomes—a potential new treatment target.",
@@ -617,20 +631,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41842697/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-18"
-      },
-      {
-        "id": "rec1r1fELYAkmKQ95",
-        "title": "SGLT2 inhibitors and AMPK crosstalk in diabetes mellitus: mechanistic insights and therapeutic applications.",
-        "summary": "SGLT2 inhibitors treat diabetes by activating AMPK, a protein that protects heart, kidney, and liver function through multiple cellular mechanisms.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41835945/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
         "cancer_types": [
           "General"
         ],
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11557,
+    "archive_count": 11558,
     "archive_supplements": 1350,
     "archive_off_label": 451,
     "archive_biomarkers": 6904,
-    "archive_trials": 2555
+    "archive_trials": 2556
   }
 }
