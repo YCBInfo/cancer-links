@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-19T06:02:54.688Z",
+  "last_updated": "2026-03-19T06:03:06.791Z",
   "categories": {
     "supplements": [
       {
@@ -69,6 +69,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-19"
+      },
+      {
+        "id": "rechmMAbbfYKIZhbR",
+        "title": "Cocoa flavanol supplementation and prevention of cardiovascular disease: a novel analysis of the COSMOS randomized trial using 'win ratio'.",
+        "summary": "Cocoa flavanol supplements slightly reduced cardiovascular disease risk in healthy older adults when accounting for event severity, though the benefit was modest.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41849087/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 21,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-19"
       },
@@ -191,20 +205,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41840296/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-18"
-      },
-      {
-        "id": "recEJ0IjZ2sx5PchM",
-        "title": "Cardiometabolic vulnerability in cardio-oncology: mechanistic links, clinical implications, and emerging preventive strategies.",
-        "summary": "Cancer patients with existing heart disease risk factors face higher cardiovascular damage from cancer treatments; new preventive strategies help reduce this risk.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41841682/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
@@ -683,6 +683,20 @@
         "added_date": "2026-03-19"
       },
       {
+        "id": "rechmMAbbfYKIZhbR",
+        "title": "Cocoa flavanol supplementation and prevention of cardiovascular disease: a novel analysis of the COSMOS randomized trial using 'win ratio'.",
+        "summary": "Cocoa flavanol supplements slightly reduced cardiovascular disease risk in healthy older adults when accounting for event severity, though the benefit was modest.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41849087/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 21,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-19"
+      },
+      {
         "id": "recYfn0SOiE2z3ihK",
         "title": "Clinical Manifestations of Primary CNS T-Cell Lymphoma: A Retrospective Study of Histopathologic, Molecular, and Neuroimaging Features.",
         "summary": "Researchers identified key diagnostic features of rare brain T-cell lymphoma to help doctors recognize and treat the disease faster.",
@@ -835,20 +849,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-18"
-      },
-      {
-        "id": "recgqLDlefohRy2FT",
-        "title": "Circulating gut microbial metabolites and risk of coronary heart disease: A prospective multi-stage metabolomics study.",
-        "summary": "Gut bacteria metabolites in the blood may influence coronary heart disease risk, according to this metabolomics study.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41843497/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-18"
       }
     ]
   },
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11549,
+    "archive_count": 11550,
     "archive_supplements": 1345,
     "archive_off_label": 451,
-    "archive_biomarkers": 6902,
+    "archive_biomarkers": 6903,
     "archive_trials": 2554
   }
 }
