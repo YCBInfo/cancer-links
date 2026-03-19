@@ -1,7 +1,35 @@
 {
-  "last_updated": "2026-03-18T11:50:07.246Z",
+  "last_updated": "2026-03-19T06:02:08.921Z",
   "categories": {
     "supplements": [
+      {
+        "id": "rec5fEM1PmWJsaHCb",
+        "title": "Drug Interactions in People on Cannabidiol: Is There Cause for Concern?",
+        "summary": "Researchers investigated whether cannabidiol oil causes dangerous drug interactions in cancer patients taking multiple medications.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39539239/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-19"
+      },
+      {
+        "id": "recoRIoVSmq7KORvG",
+        "title": "Nanoemulsion in cancer therapy: Enhancing the therapeutic efficacy of capecitabine and 5-fluorouracil in colorectal cancer with thymoquinone nanoemulsion.",
+        "summary": "Thymoquinone nanoemulsion boosts colorectal cancer cell death when combined with chemotherapy drugs, potentially allowing lower drug doses.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41643554/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-19"
+      },
       {
         "id": "recWlLPlM2cXBoNf9",
         "title": "Novel anti-rheumatic potential of Eucalrobusone C: inhibition of rheumatoid arthritis fibroblast-like synoviocytes and metabolic reprogramming.",
@@ -183,38 +211,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-18"
-      },
-      {
-        "id": "recqLPdnIW8B41cDm",
-        "title": "Anti-cancer mechanism of traditional Chinese medicine natural products targeting ferroptosis.",
-        "summary": "Traditional Chinese medicine natural products kill cancer cells by triggering ferroptosis, an iron-dependent cell death mechanism.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41840422/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast",
-          "Lung",
-          "Colorectal",
-          "Liver",
-          "Stomach"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-18"
-      },
-      {
-        "id": "rec0DndHNZCPICf8s",
-        "title": "Epigallocatechin-3-Gallate Suppresses Glioma by Targeting Integrin αvβ3/FAK/ERK Signaling Axis and Matrix Metalloproteinases.",
-        "summary": "Green tea compound EGCG suppresses glioma growth by blocking signaling pathways and works better combined with standard chemotherapy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41839532/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-17"
       }
     ],
     "off_label": [
@@ -433,6 +429,62 @@
     ],
     "biomarkers": [
       {
+        "id": "recYfUoGTXtTiHXYE",
+        "title": "Effect of direct mailing self-sampling kits on participation in the Dutch hrHPV-based cervical screening programme: a population-based study.",
+        "summary": "Mailing self-sampling kits to women increased participation in Dutch cervical cancer screening programs.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41847601/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-19"
+      },
+      {
+        "id": "receixA8KBx3GvTFl",
+        "title": "Hypoxia-inducible protein 2 mediates metabolic adaptation of Ly6ChighLy6Glow monocytes after stroke.",
+        "summary": "A protein called HIG2 helps immune cells reduce inflammation in the brain after stroke, suggesting a new treatment approach.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41848599/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-19"
+      },
+      {
+        "id": "recoRIoVSmq7KORvG",
+        "title": "Nanoemulsion in cancer therapy: Enhancing the therapeutic efficacy of capecitabine and 5-fluorouracil in colorectal cancer with thymoquinone nanoemulsion.",
+        "summary": "Thymoquinone nanoemulsion boosts colorectal cancer cell death when combined with chemotherapy drugs, potentially allowing lower drug doses.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41643554/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-19"
+      },
+      {
+        "id": "recTNXvOWKCTuoHPB",
+        "title": "Deep learning predicts and in vitro experiments validates the synergistic anti-liver cancer effect of vincristine and lenvatinib: Mechanism involving apoptosis induction via the TNF-α/Caspase-8 pathway.",
+        "summary": "Combining vincristine and lenvatinib synergistically kills liver cancer cells by triggering apoptosis through ROS-mediated TNF-α/Caspase-8 pathway activation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41637988/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-19"
+      },
+      {
         "id": "rec1DMxsA4bZVDiSc",
         "title": "Platelets induce VISTA expression and modulate the ovarian tumor microenvironment.",
         "summary": "Platelets increase VISTA expression in ovarian cancer, suppressing immune responses and worsening outcomes—a potential new treatment target.",
@@ -585,26 +637,14 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-18"
-      },
+      }
+    ],
+    "trials": [
       {
-        "id": "rec7hJLJxor78c1y0",
-        "title": "Rectal Cancer Radiotherapy Response Prediction: Retrospective Study of Development of a Deep Learning-Based Radiomics Model.",
-        "summary": "Researchers developed an artificial intelligence model using MRI scans to predict which rectal cancer patients will respond well to radiotherapy before treatment begins.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41843889/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-18"
-      },
-      {
-        "id": "recgh0CSAwTYoRFc0",
-        "title": "Economic Evaluation of GARDE: A Digital Health Platform for Population-Level Hereditary Cancer Risk Assessment.",
-        "summary": "GARDE is a digital tool that helps identify undiagnosed hereditary cancer cases and could reduce healthcare costs for institutions.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41843856/",
+        "id": "recYfUoGTXtTiHXYE",
+        "title": "Effect of direct mailing self-sampling kits on participation in the Dutch hrHPV-based cervical screening programme: a population-based study.",
+        "summary": "Mailing self-sampling kits to women increased participation in Dutch cervical cancer screening programs.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41847601/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -612,38 +652,36 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-03-01",
-        "added_date": "2026-03-18"
+        "added_date": "2026-03-19"
       },
       {
-        "id": "recMb1D26uIaoQsnT",
-        "title": "Molecular and Pharmacogenetic Marker Evaluation in Relation to the Toxicity and Clinical Response of Acute Lymphoblastic Leukemia Treatment in Indian Children (MPGx-INDALL): Protocol for a Prospective Observational Cohort Study.",
-        "summary": "Study evaluates genetic markers to predict treatment response and side effects in Indian children with acute lymphoblastic leukemia.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41843828/",
+        "id": "rec5fEM1PmWJsaHCb",
+        "title": "Drug Interactions in People on Cannabidiol: Is There Cause for Concern?",
+        "summary": "Researchers investigated whether cannabidiol oil causes dangerous drug interactions in cancer patients taking multiple medications.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39539239/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-19"
+      },
+      {
+        "id": "recTNXvOWKCTuoHPB",
+        "title": "Deep learning predicts and in vitro experiments validates the synergistic anti-liver cancer effect of vincristine and lenvatinib: Mechanism involving apoptosis induction via the TNF-α/Caspase-8 pathway.",
+        "summary": "Combining vincristine and lenvatinib synergistically kills liver cancer cells by triggering apoptosis through ROS-mediated TNF-α/Caspase-8 pathway activation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41637988/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
-          "Leukemia"
+          "Liver"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-18"
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-19"
       },
-      {
-        "id": "recCtjDusO4psa5uu",
-        "title": "Venetoclax Retreatment in Chronic Lymphocytic Leukemia is biologically rational and clinically effective.",
-        "summary": "Venetoclax retreatment effectively controls chronic lymphocytic leukemia, with response rates of 72-100% and progression-free survival of 23-58 months.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41843779/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-18"
-      }
-    ],
-    "trials": [
       {
         "id": "recYfn0SOiE2z3ihK",
         "title": "Clinical Manifestations of Primary CNS T-Cell Lymphoma: A Retrospective Study of Histopathologic, Molecular, and Neuroimaging Features.",
@@ -811,48 +849,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-18"
-      },
-      {
-        "id": "recSKaq2XPqvhZNmv",
-        "title": "Lamotrigine-induced Stevens-Johnson syndrome: a systematic review of case reports and case series.",
-        "summary": "Lamotrigine, used for epilepsy and bipolar disorder, can rarely cause Stevens-Johnson syndrome, a severe skin reaction requiring careful monitoring.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41843406/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-18"
-      },
-      {
-        "id": "rec1V9KzHwDvAWsTT",
-        "title": "Patient-derived outcome assessment of knowledge, communication, and management in those diagnosed with BAP1-tumor predisposition syndrome.",
-        "summary": "Most BAP1-TPDS patients demonstrated good knowledge of their cancer syndrome, communicated their diagnosis to family, and followed recommended surveillance guidelines.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41843333/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-18"
-      },
-      {
-        "id": "recs6zZ46NIJYU921",
-        "title": "Recommendations for the development of an integrated lung cancer care process: an expert consensus report.",
-        "summary": "Experts recommend better coordination across lung cancer diagnosis and treatment to improve care quality and equal access for all patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41843268/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-18"
       }
     ]
   },
@@ -862,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11544,
+    "archive_count": 11545,
     "archive_supplements": 1343,
     "archive_off_label": 451,
-    "archive_biomarkers": 6899,
+    "archive_biomarkers": 6900,
     "archive_trials": 2554
   }
 }
