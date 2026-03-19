@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-19T09:04:14.474Z",
+  "last_updated": "2026-03-19T09:04:22.984Z",
   "categories": {
     "supplements": [
       {
@@ -299,6 +299,20 @@
         "added_date": "2026-03-19"
       },
       {
+        "id": "reciwK7qEyQ1xV0Bq",
+        "title": "Ticagrelor reverses multidrug resistance in breast cancer by inhibiting PI3K/AKT/mTOR pathway and suppressing ABCB1 expression and function.",
+        "summary": "Ticagrelor, an antiplatelet drug, reverses drug-resistant breast cancer by blocking a key protein that pumps chemotherapy drugs out of tumor cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41846011/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-19"
+      },
+      {
         "id": "rec1r1fELYAkmKQ95",
         "title": "SGLT2 inhibitors and AMPK crosstalk in diabetes mellitus: mechanistic insights and therapeutic applications.",
         "summary": "SGLT2 inhibitors treat diabetes by activating AMPK, a protein that protects heart, kidney, and liver function through multiple cellular mechanisms.",
@@ -405,20 +419,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41160096/",
         "source": "PubMed",
         "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-17"
-      },
-      {
-        "id": "recXTZIVJeFfaPENA",
-        "title": "A GCLC Inhibitor Enhances the Antitumor Efficacy of Glutathione Metabolic Pathway Inhibition in SMARCB1-Deficient Rhabdoid Tumors.",
-        "summary": "GCLC inhibitors effectively kill SMARCB1-deficient rhabdoid tumors by depleting protective glutathione, and work better combined with other metabolic drugs.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41833522/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11644,
+    "archive_count": 11645,
     "archive_supplements": 1360,
     "archive_off_label": 454,
-    "archive_biomarkers": 6952,
+    "archive_biomarkers": 6953,
     "archive_trials": 2581
   }
 }
