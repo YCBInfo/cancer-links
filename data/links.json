@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-19T06:08:49.762Z",
+  "last_updated": "2026-03-19T06:09:00.366Z",
   "categories": {
     "supplements": [
       {
@@ -823,6 +823,20 @@
         "added_date": "2026-03-19"
       },
       {
+        "id": "rec7fxjl4YQb9jXwA",
+        "title": "Hyponatremia in cancer patients receiving immune checkpoint inhibitors: the ARON-MOUSEION-014 meta-analysis.",
+        "summary": "Immune checkpoint inhibitors cause low sodium levels in about 5% of cancer patients, requiring routine blood monitoring.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41844878/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 29,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-19"
+      },
+      {
         "id": "recYfn0SOiE2z3ihK",
         "title": "Clinical Manifestations of Primary CNS T-Cell Lymphoma: A Retrospective Study of Histopathologic, Molecular, and Neuroimaging Features.",
         "summary": "Researchers identified key diagnostic features of rare brain T-cell lymphoma to help doctors recognize and treat the disease faster.",
@@ -831,20 +845,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Lymphoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-18"
-      },
-      {
-        "id": "recj0Xuo9djt4RAPx",
-        "title": "Synthetic SIGLEC9-based chimeric switch receptor augments the efficacy of CAR macrophages against glioblastoma.",
-        "summary": "Researchers engineered immune cells called macrophages to fight glioblastoma by reprogramming them to resist tumor suppression and maintain cancer-killing ability.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41843671/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Brain"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11582,
+    "archive_count": 11583,
     "archive_supplements": 1356,
     "archive_off_label": 451,
     "archive_biomarkers": 6920,
-    "archive_trials": 2558
+    "archive_trials": 2559
   }
 }
