@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-19T06:02:42.597Z",
+  "last_updated": "2026-03-19T06:02:54.688Z",
   "categories": {
     "supplements": [
       {
@@ -527,6 +527,20 @@
         "added_date": "2026-03-19"
       },
       {
+        "id": "recRmvb6ujRS9kHab",
+        "title": "In Situ Self-Reinforcing Fully Active Nanodrugs: Excitation/Oxygen-Free Redox Disruption Therapy through Metabolite-Driven Reactive Oxygen Species Cascades.",
+        "summary": "Researchers created a nanodrug that generates multiple types of cancer-fighting reactive oxygen species without requiring external stimulation or oxygen.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41849240/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-19"
+      },
+      {
         "id": "rec1DMxsA4bZVDiSc",
         "title": "Platelets induce VISTA expression and modulate the ovarian tumor microenvironment.",
         "summary": "Platelets increase VISTA expression in ovarian cancer, suppressing immune responses and worsening outcomes—a potential new treatment target.",
@@ -621,20 +635,6 @@
           "Brain"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-18"
-      },
-      {
-        "id": "recexGIfo49tpNCZJ",
-        "title": "Phosphorylation and DNA damage resolution coordinate SOX2-mediated reprogramming in vivo.",
-        "summary": "SOX2 protein phosphorylation and DNA repair pathways are essential for reprogramming brain glial cells into neurons in adults.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41843683/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-18"
       }
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11548,
+    "archive_count": 11549,
     "archive_supplements": 1345,
     "archive_off_label": 451,
-    "archive_biomarkers": 6901,
+    "archive_biomarkers": 6902,
     "archive_trials": 2554
   }
 }
