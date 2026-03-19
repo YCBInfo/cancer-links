@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-19T06:03:36.469Z",
+  "last_updated": "2026-03-19T06:03:49.574Z",
   "categories": {
     "supplements": [
       {
@@ -541,6 +541,20 @@
         "added_date": "2026-03-19"
       },
       {
+        "id": "reccl28KbyM2ttpcW",
+        "title": "Dual inhibition of cell cycle progression and apoptotic resistance in breast cancer by novel benzimidazole-based therapeutics.",
+        "summary": "Novel benzimidazole compound 8a stops breast cancer cell division and triggers cell death through dual pathway inhibition.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41848855/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-19"
+      },
+      {
         "id": "rec1DMxsA4bZVDiSc",
         "title": "Platelets induce VISTA expression and modulate the ovarian tumor microenvironment.",
         "summary": "Platelets increase VISTA expression in ovarian cancer, suppressing immune responses and worsening outcomes—a potential new treatment target.",
@@ -619,20 +633,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-18"
-      },
-      {
-        "id": "recdKkMEhuwfnLhU1",
-        "title": "Microglial fructose metabolism is essential for glioblastoma growth.",
-        "summary": "Blocking fructose metabolism in brain immune cells slows glioblastoma growth by enhancing the body's anti-tumor immune response.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41843684/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Brain"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11553,
+    "archive_count": 11554,
     "archive_supplements": 1348,
     "archive_off_label": 451,
-    "archive_biomarkers": 6903,
+    "archive_biomarkers": 6904,
     "archive_trials": 2554
   }
 }
