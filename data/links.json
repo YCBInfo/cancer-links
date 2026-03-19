@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-19T07:01:53.817Z",
+  "last_updated": "2026-03-19T07:02:01.435Z",
   "categories": {
     "supplements": [
       {
@@ -229,6 +229,20 @@
         "added_date": "2026-03-19"
       },
       {
+        "id": "reczpAyeEi06oemXV",
+        "title": "A Phase I Trial of Riluzole and Sorafenib in Patients With Advanced Solid Tumors and Melanoma",
+        "summary": "A Phase I trial combines riluzole and sorafenib to find safe doses and effectiveness against advanced solid tumors and melanoma.",
+        "url": "https://clinicaltrials.gov/study/NCT01303341",
+        "source": "ClinicalTrials.gov",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Melanoma"
+        ],
+        "quality_score": 13,
+        "pub_date": "2026-03-18",
+        "added_date": "2026-03-19"
+      },
+      {
         "id": "rec1r1fELYAkmKQ95",
         "title": "SGLT2 inhibitors and AMPK crosstalk in diabetes mellitus: mechanistic insights and therapeutic applications.",
         "summary": "SGLT2 inhibitors treat diabetes by activating AMPK, a protein that protects heart, kidney, and liver function through multiple cellular mechanisms.",
@@ -409,20 +423,6 @@
           "Liver"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-17"
-      },
-      {
-        "id": "recQZwTyoatGqHdZe",
-        "title": "Drug repurposing in oncology: Bridging computational discovery to clinical application.",
-        "summary": "Drug repurposing uses existing medications to fight cancer faster and cheaper than developing new drugs from scratch.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41839763/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-17"
       }
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11606,
+    "archive_count": 11607,
     "archive_supplements": 1360,
     "archive_off_label": 451,
     "archive_biomarkers": 6937,
-    "archive_trials": 2561
+    "archive_trials": 2562
   }
 }
