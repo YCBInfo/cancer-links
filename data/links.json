@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20T04:06:38.083Z",
+  "last_updated": "2026-03-20T04:06:48.629Z",
   "categories": {
     "supplements": [
       {
@@ -51,6 +51,20 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41855263/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-20"
+      },
+      {
+        "id": "recVradhDQWslxVRr",
+        "title": "Probiotics-enhanced kynurenic acid mitigates cisplatin-induced nephrotoxicity in mice.",
+        "summary": "Probiotics boost kidney-protective compound kynurenic acid, reducing kidney damage from cisplatin chemotherapy in mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41809050/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "General"
         ],
@@ -189,20 +203,6 @@
         "title": "Protostane triterpenes from the rhizome of Alisma plantago-aquatica.",
         "summary": "Researchers isolated five compounds from a plant rhizome and tested them for anti-cancer, liver-protective, and anti-inflammatory effects.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41848548/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-19"
-      },
-      {
-        "id": "rec4uvrPJEjBT0Ede",
-        "title": "Genome-Guided Discovery of Antimalarial 4-Amino-2,4-Pentadienoate-Containing Cyclolipodepsipeptides.",
-        "summary": "Researchers discovered 12 new compounds with potent antimalarial activity, offering promising drug candidates against malaria parasites.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41848512/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11676,
+    "archive_count": 11677,
     "archive_supplements": 1364,
     "archive_off_label": 457,
-    "archive_biomarkers": 6976,
+    "archive_biomarkers": 6977,
     "archive_trials": 2582
   }
 }
