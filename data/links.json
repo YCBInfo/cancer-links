@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20T04:19:18.494Z",
+  "last_updated": "2026-03-20T04:19:28.059Z",
   "categories": {
     "supplements": [
       {
@@ -273,6 +273,20 @@
         "added_date": "2026-03-20"
       },
       {
+        "id": "recr67AFQ6DhUyNDk",
+        "title": "Beneficial Effects of Sodium-Glucose Cotransporter 2 Inhibitors in Cisplatin Nephrotoxicity: A Mechanistic Review.",
+        "summary": "SGLT2 inhibitors may protect kidneys from cisplatin chemotherapy damage without reducing cancer-fighting effectiveness, according to preclinical research.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41854743/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-20"
+      },
+      {
         "id": "recf0idPdJ6NW7mGD",
         "title": "Hypoxia-induced cisplatin resistance in cancer: a comprehensive exploration of molecular mechanisms and novel therapeutic strategies.",
         "summary": "Low oxygen in tumors helps cancer resist cisplatin chemotherapy, but new oxygen-delivery systems and targeted drugs show promise in reversing this resistance.",
@@ -409,20 +423,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-18"
-      },
-      {
-        "id": "recTLcQUCtyVY0uCM",
-        "title": "AURKA-mediated destabilization of SAPS3 drives ferroptosis evasion via 7-dehydrocholesterol biosynthesis in colorectal cancer.",
-        "summary": "AURKA protein drives colorectal cancer resistance to ferroptosis by altering cholesterol metabolism, making AURKA inhibition a potential treatment strategy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41839844/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-18"
       }
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11747,
+    "archive_count": 11748,
     "archive_supplements": 1370,
     "archive_off_label": 458,
-    "archive_biomarkers": 7031,
+    "archive_biomarkers": 7032,
     "archive_trials": 2591
   }
 }
