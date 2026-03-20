@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20T04:17:40.800Z",
+  "last_updated": "2026-03-20T04:17:52.034Z",
   "categories": {
     "supplements": [
       {
@@ -115,6 +115,20 @@
         "added_date": "2026-03-20"
       },
       {
+        "id": "recuwAifsmj5BakjE",
+        "title": "Integrated in silico and in vitro evaluation of cocoa pod husk as potential anticancer agents against hepatocellular carcinoma.",
+        "summary": "Cocoa pod husk compounds show promise against liver cancer cells in laboratory tests and computer modeling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41854919/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-20"
+      },
+      {
         "id": "rec5fEM1PmWJsaHCb",
         "title": "Drug Interactions in People on Cannabidiol: Is There Cause for Concern?",
         "summary": "Researchers investigated whether cannabidiol oil causes dangerous drug interactions in cancer patients taking multiple medications.",
@@ -195,20 +209,6 @@
           "General"
         ],
         "quality_score": 21,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-19"
-      },
-      {
-        "id": "reczp9e9uKOftFWh1",
-        "title": "Diet, physical activity, all-cause and cause-specific mortality: repeated measures considerations.",
-        "summary": "Better diet and regular exercise together reduce deaths from all causes, heart disease, and diet-related cancers by up to 41%.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41849084/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-19"
       }
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11738,
+    "archive_count": 11739,
     "archive_supplements": 1367,
     "archive_off_label": 458,
     "archive_biomarkers": 7026,
-    "archive_trials": 2590
+    "archive_trials": 2591
   }
 }
