@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20T09:02:26.199Z",
+  "last_updated": "2026-03-20T09:02:39.472Z",
   "categories": {
     "supplements": [
       {
@@ -385,6 +385,20 @@
         "added_date": "2026-03-20"
       },
       {
+        "id": "recYaWerCxlHylBXx",
+        "title": "Metformin enhances response to chemotherapy combined with immunotherapy in a triple negative breast cancer in vivo model.",
+        "summary": "Metformin enhances triple-negative breast cancer response to chemotherapy and immunotherapy without increasing toxicity in mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41855718/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-20"
+      },
+      {
         "id": "recf0idPdJ6NW7mGD",
         "title": "Hypoxia-induced cisplatin resistance in cancer: a comprehensive exploration of molecular mechanisms and novel therapeutic strategies.",
         "summary": "Low oxygen in tumors helps cancer resist cisplatin chemotherapy, but new oxygen-delivery systems and targeted drugs show promise in reversing this resistance.",
@@ -410,20 +424,6 @@
         ],
         "quality_score": 13,
         "pub_date": "2026-03-18",
-        "added_date": "2026-03-19"
-      },
-      {
-        "id": "reczoO3bFQ8P0hhQR",
-        "title": "Repurposing the SSRI paroxetine increases lymphocyte mobilization and improves the efficacy of measles virus-based immunovirotherapy.",
-        "summary": "Adding antidepressant paroxetine to measles virus immunotherapy boosts immune cell mobilization and improves survival in glioblastoma.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41542034/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Brain"
-        ],
-        "quality_score": 13,
-        "pub_date": "2026-01-01",
         "added_date": "2026-03-19"
       }
     ],
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11949,
+    "archive_count": 11950,
     "archive_supplements": 1392,
     "archive_off_label": 462,
     "archive_biomarkers": 7162,
-    "archive_trials": 2636
+    "archive_trials": 2637
   }
 }
