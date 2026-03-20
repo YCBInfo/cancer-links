@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20T06:10:10.038Z",
+  "last_updated": "2026-03-20T06:10:21.565Z",
   "categories": {
     "supplements": [
       {
@@ -329,6 +329,20 @@
         "added_date": "2026-03-20"
       },
       {
+        "id": "recQvXpOTtSjuTZB3",
+        "title": "Inhibition of MAPK p38α overcomes the cancer immunosurveillance defect caused by FPR1 loss-of-function mutation.",
+        "summary": "Blocking MAPK p38α restores immune cell function and prevents accelerated colorectal cancer in mice with FPR1 defects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41850246/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-20"
+      },
+      {
         "id": "recf0idPdJ6NW7mGD",
         "title": "Hypoxia-induced cisplatin resistance in cancer: a comprehensive exploration of molecular mechanisms and novel therapeutic strategies.",
         "summary": "Low oxygen in tumors helps cancer resist cisplatin chemotherapy, but new oxygen-delivery systems and targeted drugs show promise in reversing this resistance.",
@@ -407,20 +421,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Stomach"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-19"
-      },
-      {
-        "id": "reciwK7qEyQ1xV0Bq",
-        "title": "Ticagrelor reverses multidrug resistance in breast cancer by inhibiting PI3K/AKT/mTOR pathway and suppressing ABCB1 expression and function.",
-        "summary": "Ticagrelor, an antiplatelet drug, reverses drug-resistant breast cancer by blocking a key protein that pumps chemotherapy drugs out of tumor cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41846011/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11889,
+    "archive_count": 11890,
     "archive_supplements": 1385,
     "archive_off_label": 461,
-    "archive_biomarkers": 7133,
+    "archive_biomarkers": 7134,
     "archive_trials": 2613
   }
 }
