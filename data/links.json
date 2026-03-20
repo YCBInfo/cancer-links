@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20T04:12:21.797Z",
+  "last_updated": "2026-03-20T04:12:30.489Z",
   "categories": {
     "supplements": [
       {
@@ -258,6 +258,21 @@
         "added_date": "2026-03-20"
       },
       {
+        "id": "recwRMnrmzhgpLTuz",
+        "title": "CCT3-mediated regulation of XPO1/RB1 axis stability promotes cellular senescence and tumor progression in clear cell renal carcinoma.",
+        "summary": "CCT3 protein drives kidney cancer growth by stabilizing XPO1, which exports tumor suppressors, blocking cellular senescence and enabling progression.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41732260/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal",
+          "Kidney"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-20"
+      },
+      {
         "id": "recf0idPdJ6NW7mGD",
         "title": "Hypoxia-induced cisplatin resistance in cancer: a comprehensive exploration of molecular mechanisms and novel therapeutic strategies.",
         "summary": "Low oxygen in tumors helps cancer resist cisplatin chemotherapy, but new oxygen-delivery systems and targeted drugs show promise in reversing this resistance.",
@@ -409,20 +424,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
-        "added_date": "2026-03-18"
-      },
-      {
-        "id": "recWD45iikITNKQKB",
-        "title": "Pilot Study of Meclofenamate in Subjects With Recurrent or Progressive Brain Metastasis From Solid Tumor Primary",
-        "summary": "Researchers test meclofenamate, a pain medication, to stop brain cancer spread in patients with recurring tumors.",
-        "url": "https://clinicaltrials.gov/study/NCT02429570",
-        "source": "ClinicalTrials.gov",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
-        "pub_date": "2026-03-17",
         "added_date": "2026-03-18"
       }
     ],
@@ -857,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11708,
+    "archive_count": 11709,
     "archive_supplements": 1366,
     "archive_off_label": 458,
-    "archive_biomarkers": 7002,
+    "archive_biomarkers": 7003,
     "archive_trials": 2585
   }
 }
