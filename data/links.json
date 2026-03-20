@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20T04:07:40.935Z",
+  "last_updated": "2026-03-20T04:07:51.969Z",
   "categories": {
     "supplements": [
       {
@@ -215,6 +215,20 @@
     ],
     "off_label": [
       {
+        "id": "rec0WSBMYO4pYtBNk",
+        "title": "Immunometabolism in lung cancer - The link between metabolism and immune response.",
+        "summary": "Lung cancer tumors reprogram their metabolism to suppress immune responses, offering new therapeutic targets to restore anti-tumor immunity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41797927/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-20"
+      },
+      {
         "id": "recf0idPdJ6NW7mGD",
         "title": "Hypoxia-induced cisplatin resistance in cancer: a comprehensive exploration of molecular mechanisms and novel therapeutic strategies.",
         "summary": "Low oxygen in tumors helps cancer resist cisplatin chemotherapy, but new oxygen-delivery systems and targeted drugs show promise in reversing this resistance.",
@@ -409,20 +423,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-18"
-      },
-      {
-        "id": "recpOb5Oh5D499s9n",
-        "title": "Cancer Therapy-Related Cardiac Dysfunction in Breast Cancer Patients Receiving Combination Therapy of Candesartan and Carvedilol for Primary Prevention: A Prospective Longitudinal Study.",
-        "summary": "Combination heart medications prevent cardiac damage in breast cancer patients receiving cancer treatments.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41844142/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-18"
       }
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11682,
+    "archive_count": 11683,
     "archive_supplements": 1365,
     "archive_off_label": 457,
-    "archive_biomarkers": 6981,
+    "archive_biomarkers": 6982,
     "archive_trials": 2582
   }
 }
