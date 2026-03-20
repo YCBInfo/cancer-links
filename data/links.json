@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20T04:13:34.111Z",
+  "last_updated": "2026-03-20T04:13:47.903Z",
   "categories": {
     "supplements": [
       {
@@ -77,6 +77,20 @@
         "title": "Anticancer selenopeptides from food sources: synthesis strategies and multitarget mechanisms.",
         "summary": "Selenopeptides from food sources show promise against cancer by combining selenium's protective properties with peptides to trigger cancer cell death through multiple mechanisms.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41767278/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-20"
+      },
+      {
+        "id": "recZ6NshoLr2EIsEh",
+        "title": "Prenylhydroquinone-derived metabolites from cultures of basidiomycete Panus similis.",
+        "summary": "Researchers isolated new fungal compounds from mushroom cultures; panepoxydone showed activity against breast and lung cancer cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41855554/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -195,20 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-19"
-      },
-      {
-        "id": "recSwBJuQoDcA6M82",
-        "title": "Genetic determinants of lycopene concentration in subcutaneous adipose tissue: insights into interindividual variability in adult males.",
-        "summary": "Genetic variants in 11 genes explain about half the differences in how much lycopene men store in fat tissue, potentially affecting prostate and breast cancer risk.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41848742/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-19"
       }
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11715,
+    "archive_count": 11716,
     "archive_supplements": 1366,
     "archive_off_label": 458,
     "archive_biomarkers": 7009,
-    "archive_trials": 2585
+    "archive_trials": 2586
   }
 }
