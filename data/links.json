@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20T07:01:49.283Z",
+  "last_updated": "2026-03-20T07:02:00.943Z",
   "categories": {
     "supplements": [
       {
@@ -343,6 +343,20 @@
         "added_date": "2026-03-20"
       },
       {
+        "id": "recA4dQ4YLldZGjaZ",
+        "title": "A Phase II Randomized Open-Label Trial of Levetiracetam for Prevention of Seizures in Patients With Brain Metastases in Primary Motor Cortex",
+        "summary": "A trial tests whether the drug levetiracetam prevents seizures in patients with brain cancer metastases in the motor cortex.",
+        "url": "https://clinicaltrials.gov/study/NCT07130786",
+        "source": "ClinicalTrials.gov",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 10,
+        "pub_date": "2026-03-19",
+        "added_date": "2026-03-20"
+      },
+      {
         "id": "recf0idPdJ6NW7mGD",
         "title": "Hypoxia-induced cisplatin resistance in cancer: a comprehensive exploration of molecular mechanisms and novel therapeutic strategies.",
         "summary": "Low oxygen in tumors helps cancer resist cisplatin chemotherapy, but new oxygen-delivery systems and targeted drugs show promise in reversing this resistance.",
@@ -409,20 +423,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-19"
-      },
-      {
-        "id": "recmlKH4RllEpYXwP",
-        "title": "Targeting tumor-associated sympathetic nerves orchestrates tertiary lymphoid structures to enhance PD-1/PD-L1 blockade efficacy.",
-        "summary": "Blocking sympathetic nerve signals in gastric cancer enhances immune checkpoint therapy by boosting anti-tumor T-cell responses.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41850182/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Stomach"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-19"
       }
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11908,
+    "archive_count": 11909,
     "archive_supplements": 1392,
     "archive_off_label": 461,
     "archive_biomarkers": 7145,
-    "archive_trials": 2613
+    "archive_trials": 2614
   }
 }
