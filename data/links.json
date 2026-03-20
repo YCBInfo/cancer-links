@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20T09:02:02.992Z",
+  "last_updated": "2026-03-20T09:02:26.199Z",
   "categories": {
     "supplements": [
       {
@@ -371,6 +371,20 @@
         "added_date": "2026-03-20"
       },
       {
+        "id": "rectnAAfzVKdTBYct",
+        "title": "Impact of Aspirin on Recurrence Prevention After Curative Resection for Stage I-III Colorectal Cancer: A Multi-Institutional Retrospective Study.",
+        "summary": "Aspirin may help prevent colorectal cancer recurrence after surgery in stage I-III patients, though more research is needed.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41852133/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-20"
+      },
+      {
         "id": "recf0idPdJ6NW7mGD",
         "title": "Hypoxia-induced cisplatin resistance in cancer: a comprehensive exploration of molecular mechanisms and novel therapeutic strategies.",
         "summary": "Low oxygen in tumors helps cancer resist cisplatin chemotherapy, but new oxygen-delivery systems and targeted drugs show promise in reversing this resistance.",
@@ -410,20 +424,6 @@
         ],
         "quality_score": 13,
         "pub_date": "2026-01-01",
-        "added_date": "2026-03-19"
-      },
-      {
-        "id": "rec9IVh34SqhULjY6",
-        "title": "Statin use and risk of contralateral breast cancer: an updated cohort study with landmark analysis.",
-        "summary": "Statin use after breast cancer diagnosis does not reduce the risk of developing cancer in the other breast.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41849088/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
         "added_date": "2026-03-19"
       }
     ],
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11948,
+    "archive_count": 11949,
     "archive_supplements": 1392,
     "archive_off_label": 462,
-    "archive_biomarkers": 7161,
+    "archive_biomarkers": 7162,
     "archive_trials": 2636
   }
 }
