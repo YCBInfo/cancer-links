@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20T06:08:07.721Z",
+  "last_updated": "2026-03-20T06:08:17.545Z",
   "categories": {
     "supplements": [
       {
@@ -315,6 +315,20 @@
         "added_date": "2026-03-20"
       },
       {
+        "id": "recsD3EN4ALsABd6t",
+        "title": "Teriflunomide modulates the PD-1/PD-L1 axis and enhances antitumor immunity in colorectal cancer.",
+        "summary": "Teriflunomide, an existing multiple sclerosis drug, reduces colorectal cancer growth by blocking immune checkpoint signals and boosting immune cell activity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41851072/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-20"
+      },
+      {
         "id": "recf0idPdJ6NW7mGD",
         "title": "Hypoxia-induced cisplatin resistance in cancer: a comprehensive exploration of molecular mechanisms and novel therapeutic strategies.",
         "summary": "Low oxygen in tumors helps cancer resist cisplatin chemotherapy, but new oxygen-delivery systems and targeted drugs show promise in reversing this resistance.",
@@ -409,20 +423,6 @@
           "Breast"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-19"
-      },
-      {
-        "id": "rec4oJPJAdkVJKXXB",
-        "title": "Discovery of Niclosamide Analogs with Potent Mitochondrial Uncoupling Activity and Reduced Mitochondrial Inhibition-Associated Toxicity.",
-        "summary": "Researchers modified niclosamide to create safer cancer-fighting drugs that uncouple mitochondria more effectively while reducing toxic side effects.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41847649/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-19"
       }
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11879,
+    "archive_count": 11880,
     "archive_supplements": 1384,
     "archive_off_label": 460,
-    "archive_biomarkers": 7126,
+    "archive_biomarkers": 7127,
     "archive_trials": 2612
   }
 }
