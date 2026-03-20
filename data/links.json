@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20T04:10:04.357Z",
+  "last_updated": "2026-03-20T04:10:10.863Z",
   "categories": {
     "supplements": [
       {
@@ -795,6 +795,20 @@
         "added_date": "2026-03-20"
       },
       {
+        "id": "reco1PCOVEKVKzSan",
+        "title": "Placing purines in precision medicine: Targeting a metabolic reliance in KRAS-mutant tumors.",
+        "summary": "Combining a MEK inhibitor with a purine analog overcomes drug resistance and improves survival in KRAS-mutant cancers.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41767257/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-20"
+      },
+      {
         "id": "recYfUoGTXtTiHXYE",
         "title": "Effect of direct mailing self-sampling kits on participation in the Dutch hrHPV-based cervical screening programme: a population-based study.",
         "summary": "Mailing self-sampling kits to women increased participation in Dutch cervical cancer screening programs.",
@@ -835,20 +849,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-03-19"
-      },
-      {
-        "id": "rechmMAbbfYKIZhbR",
-        "title": "Cocoa flavanol supplementation and prevention of cardiovascular disease: a novel analysis of the COSMOS randomized trial using 'win ratio'.",
-        "summary": "Cocoa flavanol supplements slightly reduced cardiovascular disease risk in healthy older adults when accounting for event severity, though the benefit was modest.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41849087/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 21,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-19"
       }
     ]
   },
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11695,
+    "archive_count": 11696,
     "archive_supplements": 1365,
     "archive_off_label": 457,
     "archive_biomarkers": 6993,
-    "archive_trials": 2583
+    "archive_trials": 2584
   }
 }
