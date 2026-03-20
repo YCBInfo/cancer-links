@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20T07:02:33.120Z",
+  "last_updated": "2026-03-20T07:02:44.576Z",
   "categories": {
     "supplements": [
       {
@@ -357,6 +357,20 @@
         "added_date": "2026-03-20"
       },
       {
+        "id": "recz0Fj9mIw4kQLgd",
+        "title": "A Phase I/II Trial of Leflunomide in Women With Previously Treated Metastatic Triple Negative Cancers",
+        "summary": "A clinical trial tested leflunomide, a daily oral drug, to treat previously treated triple-negative breast cancer in women.",
+        "url": "https://clinicaltrials.gov/study/NCT03709446",
+        "source": "ClinicalTrials.gov",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 19,
+        "pub_date": "2026-03-19",
+        "added_date": "2026-03-20"
+      },
+      {
         "id": "recf0idPdJ6NW7mGD",
         "title": "Hypoxia-induced cisplatin resistance in cancer: a comprehensive exploration of molecular mechanisms and novel therapeutic strategies.",
         "summary": "Low oxygen in tumors helps cancer resist cisplatin chemotherapy, but new oxygen-delivery systems and targeted drugs show promise in reversing this resistance.",
@@ -409,20 +423,6 @@
           "Breast"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-19"
-      },
-      {
-        "id": "recgyrushHv2fLWEO",
-        "title": "DHE - past, present, and future: a narrative review.",
-        "summary": "Researchers developed new needle-free DHE formulations for migraine relief, with nasal and inhalation options recently approved by the FDA.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41848189/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-19"
       }
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11912,
+    "archive_count": 11913,
     "archive_supplements": 1392,
     "archive_off_label": 461,
     "archive_biomarkers": 7147,
-    "archive_trials": 2615
+    "archive_trials": 2616
   }
 }
