@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20T04:02:37.306Z",
+  "last_updated": "2026-03-20T04:02:48.483Z",
   "categories": {
     "supplements": [
       {
@@ -13,6 +13,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-20"
+      },
+      {
+        "id": "recxJLs5xQHs8M02S",
+        "title": "Tumor-suppressing efficacy of essential oil of Boswellia serrata gum resin and its synergistic effect on doxorubicin-induced growth inhibition of breast cancer cells.",
+        "summary": "Boswellia serrata essential oil kills breast cancer cells and boosts doxorubicin effectiveness, suggesting potential as complementary cancer therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41853213/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-20"
       },
@@ -195,20 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-19"
-      },
-      {
-        "id": "recVBcABpEwMkp03F",
-        "title": "Therapeutic Use of Melatonin for Gastrointestinal Motility and Hypersomnolence in a Patient With Pineal Cyst Pathology.",
-        "summary": "High-dose melatonin improved sleep, bowel regularity, and mood in a patient with a benign pineal gland cyst.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41845927/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-19"
       }
@@ -527,6 +527,20 @@
         "added_date": "2026-03-20"
       },
       {
+        "id": "recxJLs5xQHs8M02S",
+        "title": "Tumor-suppressing efficacy of essential oil of Boswellia serrata gum resin and its synergistic effect on doxorubicin-induced growth inhibition of breast cancer cells.",
+        "summary": "Boswellia serrata essential oil kills breast cancer cells and boosts doxorubicin effectiveness, suggesting potential as complementary cancer therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41853213/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-20"
+      },
+      {
         "id": "recYfUoGTXtTiHXYE",
         "title": "Effect of direct mailing self-sampling kits on participation in the Dutch hrHPV-based cervical screening programme: a population-based study.",
         "summary": "Mailing self-sampling kits to women increased participation in Dutch cervical cancer screening programs.",
@@ -621,20 +635,6 @@
           "Colorectal"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-19"
-      },
-      {
-        "id": "recRmvb6ujRS9kHab",
-        "title": "In Situ Self-Reinforcing Fully Active Nanodrugs: Excitation/Oxygen-Free Redox Disruption Therapy through Metabolite-Driven Reactive Oxygen Species Cascades.",
-        "summary": "Researchers created a nanodrug that generates multiple types of cancer-fighting reactive oxygen species without requiring external stimulation or oxygen.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41849240/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-19"
       }
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11656,
+    "archive_count": 11657,
     "archive_supplements": 1362,
     "archive_off_label": 457,
-    "archive_biomarkers": 6958,
+    "archive_biomarkers": 6959,
     "archive_trials": 2582
   }
 }
