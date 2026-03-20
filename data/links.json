@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20T04:04:59.503Z",
+  "last_updated": "2026-03-20T04:05:12.816Z",
   "categories": {
     "supplements": [
       {
@@ -697,6 +697,20 @@
         "added_date": "2026-03-20"
       },
       {
+        "id": "rec3kGqtsNGOPB8Dj",
+        "title": "CMV seropositivity associates with poor clinical outcome in triple negative breast cancer.",
+        "summary": "CMV infection is associated with worse survival outcomes in triple-negative breast cancer patients and alters immune cell distribution.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41852722/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-20"
+      },
+      {
         "id": "recYfUoGTXtTiHXYE",
         "title": "Effect of direct mailing self-sampling kits on participation in the Dutch hrHPV-based cervical screening programme: a population-based study.",
         "summary": "Mailing self-sampling kits to women increased participation in Dutch cervical cancer screening programs.",
@@ -835,20 +849,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-19"
-      },
-      {
-        "id": "recAIrR2BuEAz1luU",
-        "title": "Predicting pediatric inflammatory bowel disease remission utilizing a clinical decision support tool.",
-        "summary": "A decision support tool can help predict which children with inflammatory bowel disease will respond to newer biologic treatments.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41847968/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-19"
       }
     ]
   },
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11667,
+    "archive_count": 11668,
     "archive_supplements": 1364,
     "archive_off_label": 457,
-    "archive_biomarkers": 6967,
+    "archive_biomarkers": 6968,
     "archive_trials": 2582
   }
 }
