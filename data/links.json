@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20T04:30:22.402Z",
+  "last_updated": "2026-03-20T04:30:33.314Z",
   "categories": {
     "supplements": [
       {
@@ -301,6 +301,20 @@
         "added_date": "2026-03-20"
       },
       {
+        "id": "recQb5AzL6o86wDQh",
+        "title": "Trabectedin decreases myeloid resistance to improve the efficacy of anti-PD1 immunotherapy and delay glioma malignant progression.",
+        "summary": "Trabectedin reduces immune-suppressing cells in brain tumors, enhancing immunotherapy effectiveness and extending survival in gliomas.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41766924/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-20"
+      },
+      {
         "id": "recf0idPdJ6NW7mGD",
         "title": "Hypoxia-induced cisplatin resistance in cancer: a comprehensive exploration of molecular mechanisms and novel therapeutic strategies.",
         "summary": "Low oxygen in tumors helps cancer resist cisplatin chemotherapy, but new oxygen-delivery systems and targeted drugs show promise in reversing this resistance.",
@@ -411,20 +425,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-19"
-      },
-      {
-        "id": "rec1r1fELYAkmKQ95",
-        "title": "SGLT2 inhibitors and AMPK crosstalk in diabetes mellitus: mechanistic insights and therapeutic applications.",
-        "summary": "SGLT2 inhibitors treat diabetes by activating AMPK, a protein that protects heart, kidney, and liver function through multiple cellular mechanisms.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41835945/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-18"
       }
     ],
     "biomarkers": [
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11807,
+    "archive_count": 11808,
     "archive_supplements": 1374,
     "archive_off_label": 459,
-    "archive_biomarkers": 7073,
+    "archive_biomarkers": 7074,
     "archive_trials": 2604
   }
 }
