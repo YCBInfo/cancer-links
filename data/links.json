@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20T04:12:09.635Z",
+  "last_updated": "2026-03-20T04:12:21.797Z",
   "categories": {
     "supplements": [
       {
@@ -244,6 +244,20 @@
         "added_date": "2026-03-20"
       },
       {
+        "id": "recpnsOE5juCEGMbH",
+        "title": "Machine learning-driven identification of shared and disease-specific mitochondria-related genes in COPD, NSCLC, and NSCLC with COPD.",
+        "summary": "Researchers identified mitochondrial gene signatures in blood that accurately diagnose NSCLC and COPD separately and when they coexist, revealing potential drug targets.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41732265/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-20"
+      },
+      {
         "id": "recf0idPdJ6NW7mGD",
         "title": "Hypoxia-induced cisplatin resistance in cancer: a comprehensive exploration of molecular mechanisms and novel therapeutic strategies.",
         "summary": "Low oxygen in tumors helps cancer resist cisplatin chemotherapy, but new oxygen-delivery systems and targeted drugs show promise in reversing this resistance.",
@@ -408,22 +422,6 @@
           "General"
         ],
         "quality_score": 10,
-        "pub_date": "2026-03-17",
-        "added_date": "2026-03-18"
-      },
-      {
-        "id": "recicnhOKmn5E4WcO",
-        "title": "A Phase I Trial of MK-2206 and Hydroxychloroquine in Solid Tumors, Melanoma, Renal and Prostate Cancer to Examine the Role of Autophagy in Tumorigenesis",
-        "summary": "A trial testing whether combining two drugs—MK-2206 and hydroxychloroquine—kills advanced melanoma, prostate, and kidney cancer cells better than either drug alone.",
-        "url": "https://clinicaltrials.gov/study/NCT01480154",
-        "source": "ClinicalTrials.gov",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Prostate",
-          "Melanoma",
-          "Kidney"
-        ],
-        "quality_score": 13,
         "pub_date": "2026-03-17",
         "added_date": "2026-03-18"
       }
@@ -859,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11707,
+    "archive_count": 11708,
     "archive_supplements": 1366,
     "archive_off_label": 458,
-    "archive_biomarkers": 7001,
+    "archive_biomarkers": 7002,
     "archive_trials": 2585
   }
 }
