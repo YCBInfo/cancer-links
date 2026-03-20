@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20T04:10:32.074Z",
+  "last_updated": "2026-03-20T04:10:43.965Z",
   "categories": {
     "supplements": [
       {
@@ -229,6 +229,21 @@
         "added_date": "2026-03-20"
       },
       {
+        "id": "recfkwVVhLCs2LWIw",
+        "title": "Metformin in gastrointestinal cancers and inflammatory bowel disease: Unraveling its mechanisms and therapeutic applications.",
+        "summary": "Metformin shows promise in treating gastrointestinal cancers like colorectal, esophageal, and gastric cancers through the AMPK/mTOR pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41736859/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Colorectal",
+          "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-20"
+      },
+      {
         "id": "recf0idPdJ6NW7mGD",
         "title": "Hypoxia-induced cisplatin resistance in cancer: a comprehensive exploration of molecular mechanisms and novel therapeutic strategies.",
         "summary": "Low oxygen in tumors helps cancer resist cisplatin chemotherapy, but new oxygen-delivery systems and targeted drugs show promise in reversing this resistance.",
@@ -410,20 +425,6 @@
         ],
         "quality_score": 13,
         "pub_date": "2026-03-17",
-        "added_date": "2026-03-18"
-      },
-      {
-        "id": "recWIMHFKauLeA7HT",
-        "title": "Hydroxychloroquine alleviates cyclophosphamide-induced premature ovarian failure by attenuating granulosa cell senescence and modulating the mtDNA-cGAS pathway.",
-        "summary": "Hydroxychloroquine protects ovaries from chemotherapy damage by reducing cell aging and inflammation in cancer patients receiving cyclophosphamide.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41839900/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
         "added_date": "2026-03-18"
       }
     ],
@@ -858,10 +859,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11698,
+    "archive_count": 11699,
     "archive_supplements": 1366,
     "archive_off_label": 457,
-    "archive_biomarkers": 6994,
+    "archive_biomarkers": 6995,
     "archive_trials": 2584
   }
 }
