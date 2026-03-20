@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20T04:02:48.483Z",
+  "last_updated": "2026-03-20T04:03:00.045Z",
   "categories": {
     "supplements": [
       {
@@ -25,6 +25,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-20"
+      },
+      {
+        "id": "rec4wM78LC4Uv4fVu",
+        "title": "Theranekron modulates extracellular matrix and apoptotic signaling pathways in colorectal cancer cells.",
+        "summary": "Theranekron extract kills colorectal cancer cells by activating apoptosis and restoring healthy extracellular matrix balance through multiple signaling pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41852375/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -195,20 +209,6 @@
           "Breast"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-19"
-      },
-      {
-        "id": "recAQFPZ0UqmA6ORG",
-        "title": "Friends and foes: impact of bacteria on genome stability.",
-        "summary": "Harmful bacteria damage DNA and increase cancer risk, while beneficial bacteria protect genome stability through protective metabolites and immune modulation.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41848406/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-19"
       }
@@ -541,6 +541,20 @@
         "added_date": "2026-03-20"
       },
       {
+        "id": "rec4wM78LC4Uv4fVu",
+        "title": "Theranekron modulates extracellular matrix and apoptotic signaling pathways in colorectal cancer cells.",
+        "summary": "Theranekron extract kills colorectal cancer cells by activating apoptosis and restoring healthy extracellular matrix balance through multiple signaling pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41852375/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-20"
+      },
+      {
         "id": "recYfUoGTXtTiHXYE",
         "title": "Effect of direct mailing self-sampling kits on participation in the Dutch hrHPV-based cervical screening programme: a population-based study.",
         "summary": "Mailing self-sampling kits to women increased participation in Dutch cervical cancer screening programs.",
@@ -619,20 +633,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Pancreatic"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-19"
-      },
-      {
-        "id": "rec2i85QrBaaIRaBd",
-        "title": "RagC senses β-hydroxybutyrate abundancy to suppress mTORC1 and tumor growth.",
-        "summary": "A ketogenic diet compound called β-hydroxybutyrate suppresses colorectal cancer growth by blocking mTORC1 through a protein called RagC.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41849426/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11657,
+    "archive_count": 11658,
     "archive_supplements": 1362,
     "archive_off_label": 457,
-    "archive_biomarkers": 6959,
+    "archive_biomarkers": 6960,
     "archive_trials": 2582
   }
 }
