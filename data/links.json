@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20T09:03:32.785Z",
+  "last_updated": "2026-03-20T09:04:04.582Z",
   "categories": {
     "supplements": [
       {
@@ -399,32 +399,32 @@
         "added_date": "2026-03-20"
       },
       {
-        "id": "recf0idPdJ6NW7mGD",
-        "title": "Hypoxia-induced cisplatin resistance in cancer: a comprehensive exploration of molecular mechanisms and novel therapeutic strategies.",
-        "summary": "Low oxygen in tumors helps cancer resist cisplatin chemotherapy, but new oxygen-delivery systems and targeted drugs show promise in reversing this resistance.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41847764/",
+        "id": "reconWTQlDruY7i83",
+        "title": "A real-world analysis of the impact of azole antifungal prophylaxis on outcomes in patients with newly diagnosed acute myeloid leukemia treated with venetoclax-based therapy.",
+        "summary": "Antifungal medication did not improve survival in acute myeloid leukemia patients treated with venetoclax, unlike in intensive chemotherapy patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41855751/",
         "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-20"
+      },
+      {
+        "id": "recrhx0uGoMmuwawg",
+        "title": "Identification of Acoramidis as a Repurposed Inhibitor of the DNA Sanitization Enzyme MutT Homologue 1.",
+        "summary": "Researchers repurposed acoramidis, an approved drug, to inhibit MTH1, an enzyme cancer cells depend on, offering a new anticancer approach.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41852632/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
         "cancer_types": [
           "General"
         ],
         "quality_score": 12,
         "pub_date": "2026-03-01",
-        "added_date": "2026-03-19"
-      },
-      {
-        "id": "reczpAyeEi06oemXV",
-        "title": "A Phase I Trial of Riluzole and Sorafenib in Patients With Advanced Solid Tumors and Melanoma",
-        "summary": "A Phase I trial combines riluzole and sorafenib to find safe doses and effectiveness against advanced solid tumors and melanoma.",
-        "url": "https://clinicaltrials.gov/study/NCT01303341",
-        "source": "ClinicalTrials.gov",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Melanoma"
-        ],
-        "quality_score": 13,
-        "pub_date": "2026-03-18",
-        "added_date": "2026-03-19"
+        "added_date": "2026-03-20"
       }
     ],
     "biomarkers": [
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11955,
+    "archive_count": 11956,
     "archive_supplements": 1392,
     "archive_off_label": 464,
     "archive_biomarkers": 7163,
-    "archive_trials": 2639
+    "archive_trials": 2640
   }
 }
