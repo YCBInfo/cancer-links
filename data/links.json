@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20T04:24:07.507Z",
+  "last_updated": "2026-03-20T04:24:17.565Z",
   "categories": {
     "supplements": [
       {
@@ -157,6 +157,20 @@
         "added_date": "2026-03-20"
       },
       {
+        "id": "reczBPbLpb8htLzAC",
+        "title": "Melatonin as an Epigenetic Modulator to Regulate Angiogenesis in Dalton's Lymphoma.",
+        "summary": "Melatonin reduces blood vessel growth in Dalton's lymphoma tumors through epigenetic changes, showing promise as a cancer treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41852328/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lymphoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-20"
+      },
+      {
         "id": "rec5fEM1PmWJsaHCb",
         "title": "Drug Interactions in People on Cannabidiol: Is There Cause for Concern?",
         "summary": "Researchers investigated whether cannabidiol oil causes dangerous drug interactions in cancer patients taking multiple medications.",
@@ -193,20 +207,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Pancreatic"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-19"
-      },
-      {
-        "id": "rec2i85QrBaaIRaBd",
-        "title": "RagC senses β-hydroxybutyrate abundancy to suppress mTORC1 and tumor growth.",
-        "summary": "A ketogenic diet compound called β-hydroxybutyrate suppresses colorectal cancer growth by blocking mTORC1 through a protein called RagC.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41849426/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11773,
+    "archive_count": 11774,
     "archive_supplements": 1370,
     "archive_off_label": 459,
-    "archive_biomarkers": 7051,
+    "archive_biomarkers": 7052,
     "archive_trials": 2596
   }
 }
