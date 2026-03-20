@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20T04:04:48.982Z",
+  "last_updated": "2026-03-20T04:04:59.503Z",
   "categories": {
     "supplements": [
       {
@@ -683,6 +683,20 @@
         "added_date": "2026-03-20"
       },
       {
+        "id": "recDLxCEco5ZsCVUE",
+        "title": "Multi-omics analysis reveals features improving outcomes and immunotherapy resistance in MSS colorectal cancer.",
+        "summary": "Researchers identified a machine learning signature predicting prognosis and immunotherapy response in colorectal cancer, highlighting CADM1's role in tumor progression.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41852723/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-20"
+      },
+      {
         "id": "recYfUoGTXtTiHXYE",
         "title": "Effect of direct mailing self-sampling kits on participation in the Dutch hrHPV-based cervical screening programme: a population-based study.",
         "summary": "Mailing self-sampling kits to women increased participation in Dutch cervical cancer screening programs.",
@@ -835,20 +849,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-19"
-      },
-      {
-        "id": "recdGj8N89LrR2N9A",
-        "title": "Combinatorial immunotherapy drives exhaustion in tumor antigen-specific CD8+ T cells within the mouse renal tumor microenvironment.",
-        "summary": "Researchers developed a mouse kidney cancer model showing that combination immunotherapy increases exhausted tumor-fighting CD8+ T cells in responding tumors.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41847866/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Kidney"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-19"
       }
     ]
   },
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11666,
+    "archive_count": 11667,
     "archive_supplements": 1364,
     "archive_off_label": 457,
-    "archive_biomarkers": 6966,
+    "archive_biomarkers": 6967,
     "archive_trials": 2582
   }
 }
