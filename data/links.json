@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20T04:07:51.969Z",
+  "last_updated": "2026-03-20T04:08:02.506Z",
   "categories": {
     "supplements": [
       {
@@ -725,6 +725,20 @@
         "added_date": "2026-03-20"
       },
       {
+        "id": "recL0bZTWBQ29WXGG",
+        "title": "Functional characterization of BAP1 mutations in genome edited cholangiocarcinoma organoids: Role in cell death and drug responses.",
+        "summary": "BAP1 mutations in bile duct cancer reduce cell death but increase sensitivity to sorafenib, suggesting a biomarker for personalized treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41797921/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-20"
+      },
+      {
         "id": "recYfUoGTXtTiHXYE",
         "title": "Effect of direct mailing self-sampling kits on participation in the Dutch hrHPV-based cervical screening programme: a population-based study.",
         "summary": "Mailing self-sampling kits to women increased participation in Dutch cervical cancer screening programs.",
@@ -835,20 +849,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-19"
-      },
-      {
-        "id": "recS0wEdWo9x4MorU",
-        "title": "AI-Derived Electronic Tumor Marker For Cancer Antigen 19-9 Nonproducers With Pancreatic Ductal Adenocarcinoma.",
-        "summary": "Researchers developed an AI tool to help monitor pancreatic cancer patients whose tumors don't produce the standard CA19-9 marker.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41848749/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-19"
       }
     ]
   },
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11683,
+    "archive_count": 11684,
     "archive_supplements": 1365,
     "archive_off_label": 457,
-    "archive_biomarkers": 6982,
+    "archive_biomarkers": 6983,
     "archive_trials": 2582
   }
 }
