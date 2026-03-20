@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20T04:21:36.148Z",
+  "last_updated": "2026-03-20T04:21:58.829Z",
   "categories": {
     "supplements": [
       {
@@ -287,6 +287,20 @@
         "added_date": "2026-03-20"
       },
       {
+        "id": "recy906bpPbDv9mYG",
+        "title": "RAGE Inhibition Reduces Surgery-Induced Cerebral Edema After Glioma Resection.",
+        "summary": "Blocking a protein called RAGE reduces brain swelling after glioma surgery in mice, offering a potential alternative to steroids.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41854274/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-20"
+      },
+      {
         "id": "recf0idPdJ6NW7mGD",
         "title": "Hypoxia-induced cisplatin resistance in cancer: a comprehensive exploration of molecular mechanisms and novel therapeutic strategies.",
         "summary": "Low oxygen in tumors helps cancer resist cisplatin chemotherapy, but new oxygen-delivery systems and targeted drugs show promise in reversing this resistance.",
@@ -405,20 +419,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41835945/",
         "source": "PubMed",
         "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-18"
-      },
-      {
-        "id": "recEJ0IjZ2sx5PchM",
-        "title": "Cardiometabolic vulnerability in cardio-oncology: mechanistic links, clinical implications, and emerging preventive strategies.",
-        "summary": "Cancer patients with existing heart disease risk factors face higher cardiovascular damage from cancer treatments; new preventive strategies help reduce this risk.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41841682/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11760,
+    "archive_count": 11761,
     "archive_supplements": 1370,
     "archive_off_label": 459,
-    "archive_biomarkers": 7040,
+    "archive_biomarkers": 7041,
     "archive_trials": 2594
   }
 }
