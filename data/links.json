@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20T04:03:15.580Z",
+  "last_updated": "2026-03-20T04:03:26.161Z",
   "categories": {
     "supplements": [
       {
@@ -555,6 +555,20 @@
         "added_date": "2026-03-20"
       },
       {
+        "id": "recgp0WA10vEC2Hpz",
+        "title": "Tim-3-targeted vaccines overcome tumor immunosuppression and reduce cDC1 dependence to elicit potent anti-tumor immunity.",
+        "summary": "Tim-3-targeted vaccines activate immune cells to fight tumors effectively, even without specialized dendritic cells normally required for cancer immunity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41855265/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-20"
+      },
+      {
         "id": "recYfUoGTXtTiHXYE",
         "title": "Effect of direct mailing self-sampling kits on participation in the Dutch hrHPV-based cervical screening programme: a population-based study.",
         "summary": "Mailing self-sampling kits to women increased participation in Dutch cervical cancer screening programs.",
@@ -623,20 +637,6 @@
         "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-03-19"
-      },
-      {
-        "id": "recP4JgsvvyQDpuUW",
-        "title": "Identification and Validation of an Inhibitor of the Protein Kinases PIM and DYRK.",
-        "summary": "Researchers identified a compound from fermented wheat germ that inhibits PIM and DYRK protein kinases, showing promise against pancreatic cancer cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41849779/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Pancreatic"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-19"
       }
     ],
     "trials": [
@@ -651,6 +651,20 @@
           "Liver"
         ],
         "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-20"
+      },
+      {
+        "id": "recgp0WA10vEC2Hpz",
+        "title": "Tim-3-targeted vaccines overcome tumor immunosuppression and reduce cDC1 dependence to elicit potent anti-tumor immunity.",
+        "summary": "Tim-3-targeted vaccines activate immune cells to fight tumors effectively, even without specialized dendritic cells normally required for cancer immunity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41855265/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-20"
       },
@@ -835,20 +849,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-19"
-      },
-      {
-        "id": "rec7fxjl4YQb9jXwA",
-        "title": "Hyponatremia in cancer patients receiving immune checkpoint inhibitors: the ARON-MOUSEION-014 meta-analysis.",
-        "summary": "Immune checkpoint inhibitors cause low sodium levels in about 5% of cancer patients, requiring routine blood monitoring.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41844878/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 29,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-19"
       }
     ]
   },
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11659,
+    "archive_count": 11660,
     "archive_supplements": 1362,
     "archive_off_label": 457,
-    "archive_biomarkers": 6961,
+    "archive_biomarkers": 6962,
     "archive_trials": 2582
   }
 }
