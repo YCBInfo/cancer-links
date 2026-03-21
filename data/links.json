@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T04:26:03.353Z",
+  "last_updated": "2026-03-21T04:26:13.126Z",
   "categories": {
     "supplements": [
       {
@@ -327,6 +327,20 @@
         "added_date": "2026-03-21"
       },
       {
+        "id": "recLyj2F1vXFi7615",
+        "title": "SGLT2 inhibitors mitigate cardiorenal toxicity and improve survival in type 2 diabetes mellitus patients undergoing antineoplastic therapy: A multicenter retrospective cohort study.",
+        "summary": "SGLT2 inhibitors reduced heart disease by 86% and death by 85% in diabetic cancer patients receiving chemotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41856758/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-21"
+      },
+      {
         "id": "rec0WSBMYO4pYtBNk",
         "title": "Immunometabolism in lung cancer - The link between metabolism and immune response.",
         "summary": "Lung cancer tumors reprogram their metabolism to suppress immune responses, offering new therapeutic targets to restore anti-tumor immunity.",
@@ -405,20 +419,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41854274/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-20"
-      },
-      {
-        "id": "recQb5AzL6o86wDQh",
-        "title": "Trabectedin decreases myeloid resistance to improve the efficacy of anti-PD1 immunotherapy and delay glioma malignant progression.",
-        "summary": "Trabectedin reduces immune-suppressing cells in brain tumors, enhancing immunotherapy effectiveness and extending survival in gliomas.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41766924/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
         "cancer_types": [
           "Brain"
         ],
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12090,
+    "archive_count": 12091,
     "archive_supplements": 1403,
     "archive_off_label": 470,
     "archive_biomarkers": 7267,
-    "archive_trials": 2653
+    "archive_trials": 2654
   }
 }
