@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T04:16:50.373Z",
+  "last_updated": "2026-03-21T04:17:00.620Z",
   "categories": {
     "supplements": [
       {
@@ -143,6 +143,20 @@
         "added_date": "2026-03-21"
       },
       {
+        "id": "recicxW4dhsq9TLdi",
+        "title": "Engineered E. coli Nissle 1917 Depletes Branched-Chain Amino Acids to Suppress Colorectal Tumorigenesis.",
+        "summary": "Engineered bacteria that deplete branched-chain amino acids in the gut significantly suppress colorectal cancer growth in mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41712535/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-21"
+      },
+      {
         "id": "rec5954h5mcbeqTee",
         "title": "Deguelin inhibits perineural invasion in esophageal squamous cell carcinoma via targeting BDNF/TrkB axis.",
         "summary": "A natural compound called deguelin blocks nerve invasion in esophageal cancer by targeting a specific growth pathway.",
@@ -191,20 +205,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41855263/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-20"
-      },
-      {
-        "id": "recVradhDQWslxVRr",
-        "title": "Probiotics-enhanced kynurenic acid mitigates cisplatin-induced nephrotoxicity in mice.",
-        "summary": "Probiotics boost kidney-protective compound kynurenic acid, reducing kidney damage from cisplatin chemotherapy in mice.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41809050/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "General"
         ],
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12041,
+    "archive_count": 12042,
     "archive_supplements": 1401,
     "archive_off_label": 470,
-    "archive_biomarkers": 7223,
+    "archive_biomarkers": 7224,
     "archive_trials": 2650
   }
 }
