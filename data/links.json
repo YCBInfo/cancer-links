@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T04:06:27.180Z",
+  "last_updated": "2026-03-21T04:06:38.005Z",
   "categories": {
     "supplements": [
       {
@@ -781,6 +781,20 @@
         "added_date": "2026-03-21"
       },
       {
+        "id": "recIJ5l6fA6bEIuFC",
+        "title": "Co-expression of IL15 promotes effector differentiation and sustained proliferative capacity in ALPPL2-specific human CAR T cells.",
+        "summary": "IL15 co-expression enhances CAR T cell survival, proliferation, and tumor-killing capacity against ALPPL2-positive cancers.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41860794/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-21"
+      },
+      {
         "id": "recPDlhYR2XzJLLnQ",
         "title": "Immunogenicity of neoantigens from hepatocellular carcinoma patients treated with a combined radioimmunotherapy.",
         "summary": "Hepatocellular carcinoma patients who didn't respond to immunotherapy still harbored immunogenic tumor mutations suitable for personalized neoantigen vaccines.",
@@ -835,20 +849,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-20"
-      },
-      {
-        "id": "rec3kGqtsNGOPB8Dj",
-        "title": "CMV seropositivity associates with poor clinical outcome in triple negative breast cancer.",
-        "summary": "CMV infection is associated with worse survival outcomes in triple-negative breast cancer patients and alters immune cell distribution.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41852722/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-20"
       }
     ]
   },
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11983,
+    "archive_count": 11984,
     "archive_supplements": 1396,
     "archive_off_label": 466,
-    "archive_biomarkers": 7180,
+    "archive_biomarkers": 7181,
     "archive_trials": 2644
   }
 }
