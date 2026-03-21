@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T09:02:02.545Z",
+  "last_updated": "2026-03-21T09:02:13.385Z",
   "categories": {
     "supplements": [
       {
@@ -369,6 +369,34 @@
         "added_date": "2026-03-21"
       },
       {
+        "id": "recA0ziCr5ATJquZL",
+        "title": "Rituximab limits glucocorticoid use in IgG4-related disease: Real-world evidence from a large European cohort.",
+        "summary": "Rituximab helps patients with IgG4-related disease reduce their dependence on glucocorticoid medications, based on real-world European patient data.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41862339/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-21"
+      },
+      {
+        "id": "reciroYpu7qfYvJ5E",
+        "title": "Enzalutamide Plus Metformin Versus Enzalutamide Alone in Metastatic Castration-resistant Prostate Cancer: A Randomized Phase 2 Trial (SAKK 08/14).",
+        "summary": "Adding metformin to enzalutamide improves outcomes in men with metastatic castration-resistant prostate cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41862335/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-21"
+      },
+      {
         "id": "rec0WSBMYO4pYtBNk",
         "title": "Immunometabolism in lung cancer - The link between metabolism and immune response.",
         "summary": "Lung cancer tumors reprogram their metabolism to suppress immune responses, offering new therapeutic targets to restore anti-tumor immunity.",
@@ -392,35 +420,6 @@
         "cancer_types": [
           "Colorectal",
           "Stomach"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-20"
-      },
-      {
-        "id": "recpnsOE5juCEGMbH",
-        "title": "Machine learning-driven identification of shared and disease-specific mitochondria-related genes in COPD, NSCLC, and NSCLC with COPD.",
-        "summary": "Researchers identified mitochondrial gene signatures in blood that accurately diagnose NSCLC and COPD separately and when they coexist, revealing potential drug targets.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41732265/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-20"
-      },
-      {
-        "id": "recwRMnrmzhgpLTuz",
-        "title": "CCT3-mediated regulation of XPO1/RB1 axis stability promotes cellular senescence and tumor progression in clear cell renal carcinoma.",
-        "summary": "CCT3 protein drives kidney cancer growth by stabilizing XPO1, which exports tumor suppressors, blocking cellular senescence and enabling progression.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41732260/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal",
-          "Kidney"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -858,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12172,
+    "archive_count": 12173,
     "archive_supplements": 1416,
     "archive_off_label": 472,
-    "archive_biomarkers": 7308,
+    "archive_biomarkers": 7309,
     "archive_trials": 2679
   }
 }
