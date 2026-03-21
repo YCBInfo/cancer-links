@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T04:21:55.134Z",
+  "last_updated": "2026-03-21T04:22:11.339Z",
   "categories": {
     "supplements": [
       {
@@ -157,6 +157,20 @@
         "added_date": "2026-03-21"
       },
       {
+        "id": "recZw23J2nVhCbYSp",
+        "title": "Gracillin overcomes osimertinib resistance in NSCLC via dual inhibition of EGFR and Mcl-1.",
+        "summary": "Gracillin, a natural product, overcomes osimertinib resistance in lung cancer by targeting EGFR and destroying cancer-protecting Mcl-1 protein.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41857145/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-21"
+      },
+      {
         "id": "rec5954h5mcbeqTee",
         "title": "Deguelin inhibits perineural invasion in esophageal squamous cell carcinoma via targeting BDNF/TrkB axis.",
         "summary": "A natural compound called deguelin blocks nerve invasion in esophageal cancer by targeting a specific growth pathway.",
@@ -195,20 +209,6 @@
           "Colorectal"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-20"
-      },
-      {
-        "id": "recR5RxkH9PZQflz4",
-        "title": "Gut microbe-derived N-acyl serinol lipids shape host postprandial metabolic homeostasis.",
-        "summary": "Gut bacteria produce lipids that regulate how the body processes food and manages metabolism after meals.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41855263/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-20"
       }
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12067,
+    "archive_count": 12068,
     "archive_supplements": 1402,
     "archive_off_label": 470,
-    "archive_biomarkers": 7245,
+    "archive_biomarkers": 7246,
     "archive_trials": 2653
   }
 }
