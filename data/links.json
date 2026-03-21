@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T04:03:24.381Z",
+  "last_updated": "2026-03-21T04:03:35.573Z",
   "categories": {
     "supplements": [
       {
@@ -555,6 +555,20 @@
         "added_date": "2026-03-21"
       },
       {
+        "id": "recNmRI7fQTnA4VSl",
+        "title": "Beneficial subgroups for PD-1 inhibitor plus chemotherapy in first-line treatment of advanced esophageal squamous cell carcinoma: A systematic review and meta-analysis.",
+        "summary": "PD-1 inhibitors combined with chemotherapy improve survival in advanced esophageal squamous cell carcinoma, particularly in high PD-1-expressing tumors.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41861173/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-21"
+      },
+      {
         "id": "recPDlhYR2XzJLLnQ",
         "title": "Immunogenicity of neoantigens from hepatocellular carcinoma patients treated with a combined radioimmunotherapy.",
         "summary": "Hepatocellular carcinoma patients who didn't respond to immunotherapy still harbored immunogenic tumor mutations suitable for personalized neoantigen vaccines.",
@@ -623,20 +637,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-20"
-      },
-      {
-        "id": "recXc1n1hwCsVXxN3",
-        "title": "Histone methyltransferase DOT1L differentially affects the development of dendritic cell subsets.",
-        "summary": "DOT1L epigenetic regulator controls dendritic cell development differently across immune cell subtypes, suppressing antigen presentation pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41850725/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-20"
       }
     ],
     "trials": [
@@ -675,6 +675,20 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41861185/",
         "source": "PubMed",
         "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-21"
+      },
+      {
+        "id": "recNmRI7fQTnA4VSl",
+        "title": "Beneficial subgroups for PD-1 inhibitor plus chemotherapy in first-line treatment of advanced esophageal squamous cell carcinoma: A systematic review and meta-analysis.",
+        "summary": "PD-1 inhibitors combined with chemotherapy improve survival in advanced esophageal squamous cell carcinoma, particularly in high PD-1-expressing tumors.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41861173/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
@@ -835,20 +849,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-20"
-      },
-      {
-        "id": "reco1PCOVEKVKzSan",
-        "title": "Placing purines in precision medicine: Targeting a metabolic reliance in KRAS-mutant tumors.",
-        "summary": "Combining a MEK inhibitor with a purine analog overcomes drug resistance and improves survival in KRAS-mutant cancers.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41767257/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-20"
       }
     ]
   },
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11966,
+    "archive_count": 11967,
     "archive_supplements": 1395,
     "archive_off_label": 466,
-    "archive_biomarkers": 7166,
+    "archive_biomarkers": 7167,
     "archive_trials": 2642
   }
 }
