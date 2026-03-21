@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T04:08:13.551Z",
+  "last_updated": "2026-03-21T04:08:24.543Z",
   "categories": {
     "supplements": [
       {
@@ -79,6 +79,20 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41860710/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-21"
+      },
+      {
+        "id": "reckbQ3m990x16KOK",
+        "title": "Exploring the role of metabolic disorders and gut microbiome in immune checkpoint regulation in cancer: PI3K/AKT/mTOR focus.",
+        "summary": "Metabolic disorders and unhealthy gut bacteria weaken immune defenses against cancer by suppressing anti-tumor immunity through inflammatory pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41860665/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
@@ -195,20 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-20"
-      },
-      {
-        "id": "recuwAifsmj5BakjE",
-        "title": "Integrated in silico and in vitro evaluation of cocoa pod husk as potential anticancer agents against hepatocellular carcinoma.",
-        "summary": "Cocoa pod husk compounds show promise against liver cancer cells in laboratory tests and computer modeling.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41854919/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Liver"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-20"
       }
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11993,
+    "archive_count": 11994,
     "archive_supplements": 1398,
     "archive_off_label": 466,
-    "archive_biomarkers": 7187,
+    "archive_biomarkers": 7188,
     "archive_trials": 2645
   }
 }
