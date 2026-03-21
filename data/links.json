@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T04:10:56.431Z",
+  "last_updated": "2026-03-21T04:11:09.478Z",
   "categories": {
     "supplements": [
       {
@@ -257,6 +257,20 @@
         "added_date": "2026-03-21"
       },
       {
+        "id": "recc0gc6xQoPfY9tx",
+        "title": "Endoscopic application of tranexamic acid and sucralfate in upper gastrointestinal bleeding: A randomized controlled trial.",
+        "summary": "Applying tranexamic acid and sucralfate directly to bleeding sites during endoscopy reduces rebleeding in difficult upper gastrointestinal cases.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41860133/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-21"
+      },
+      {
         "id": "rec0WSBMYO4pYtBNk",
         "title": "Immunometabolism in lung cancer - The link between metabolism and immune response.",
         "summary": "Lung cancer tumors reprogram their metabolism to suppress immune responses, offering new therapeutic targets to restore anti-tumor immunity.",
@@ -410,20 +424,6 @@
         ],
         "quality_score": 19,
         "pub_date": "2026-03-19",
-        "added_date": "2026-03-20"
-      },
-      {
-        "id": "rectnAAfzVKdTBYct",
-        "title": "Impact of Aspirin on Recurrence Prevention After Curative Resection for Stage I-III Colorectal Cancer: A Multi-Institutional Retrospective Study.",
-        "summary": "Aspirin may help prevent colorectal cancer recurrence after surgery in stage I-III patients, though more research is needed.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41852133/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
         "added_date": "2026-03-20"
       }
     ],
@@ -858,9 +858,9 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12008,
+    "archive_count": 12009,
     "archive_supplements": 1400,
-    "archive_off_label": 467,
+    "archive_off_label": 468,
     "archive_biomarkers": 7197,
     "archive_trials": 2647
   }
