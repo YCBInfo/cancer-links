@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T04:14:31.185Z",
+  "last_updated": "2026-03-21T04:14:41.451Z",
   "categories": {
     "supplements": [
       {
@@ -271,6 +271,20 @@
         "added_date": "2026-03-21"
       },
       {
+        "id": "recsr6xTGnK2L3k2x",
+        "title": "Ultrasound-Responsive Dual-Prodrug Nanoassembly for 'Fenestrae-Restoration Strategy' in Liver Fibrosis Therapy.",
+        "summary": "Researchers developed ultrasound-activated nanoparticles that restore liver blood vessel openings, allowing anti-fibrosis drugs to reach and stop liver scarring progression.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41858173/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-21"
+      },
+      {
         "id": "rec0WSBMYO4pYtBNk",
         "title": "Immunometabolism in lung cancer - The link between metabolism and immune response.",
         "summary": "Lung cancer tumors reprogram their metabolism to suppress immune responses, offering new therapeutic targets to restore anti-tumor immunity.",
@@ -409,20 +423,6 @@
           "General"
         ],
         "quality_score": 10,
-        "pub_date": "2026-03-19",
-        "added_date": "2026-03-20"
-      },
-      {
-        "id": "recz0Fj9mIw4kQLgd",
-        "title": "A Phase I/II Trial of Leflunomide in Women With Previously Treated Metastatic Triple Negative Cancers",
-        "summary": "A clinical trial tested leflunomide, a daily oral drug, to treat previously treated triple-negative breast cancer in women.",
-        "url": "https://clinicaltrials.gov/study/NCT03709446",
-        "source": "ClinicalTrials.gov",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 19,
         "pub_date": "2026-03-19",
         "added_date": "2026-03-20"
       }
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12028,
+    "archive_count": 12029,
     "archive_supplements": 1400,
     "archive_off_label": 469,
-    "archive_biomarkers": 7212,
+    "archive_biomarkers": 7213,
     "archive_trials": 2650
   }
 }
