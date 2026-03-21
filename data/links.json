@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T04:06:59.577Z",
+  "last_updated": "2026-03-21T04:07:10.660Z",
   "categories": {
     "supplements": [
       {
@@ -69,6 +69,20 @@
           "Lung"
         ],
         "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-21"
+      },
+      {
+        "id": "recKuiAA91VMp1hT3",
+        "title": "Enhanced antitumor activity of atorvastatin and luteolin, with or without doxorubicin, in a solid Ehrlich carcinoma mouse model: modulation of ABC transporters, telomerase, and cancer stem cells.",
+        "summary": "Atorvastatin and luteolin combination therapy effectively reduced solid Ehrlich carcinoma tumors by targeting chemoresistance mechanisms.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41860710/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-21"
       },
@@ -197,23 +211,23 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-20"
-      },
-      {
-        "id": "recWMXjiYcSdZsKg9",
-        "title": "Exploration of network-based, machine learning, MD simulations, and MM/GBSA approaches revealed luteolin from Gynura procumbens as key inhibitor of MMP9 in NSCLC.",
-        "summary": "Luteolin from Gynura procumbens plant shows promise as a multi-targeted inhibitor against lung cancer growth pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41854859/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-20"
       }
     ],
     "off_label": [
+      {
+        "id": "recKuiAA91VMp1hT3",
+        "title": "Enhanced antitumor activity of atorvastatin and luteolin, with or without doxorubicin, in a solid Ehrlich carcinoma mouse model: modulation of ABC transporters, telomerase, and cancer stem cells.",
+        "summary": "Atorvastatin and luteolin combination therapy effectively reduced solid Ehrlich carcinoma tumors by targeting chemoresistance mechanisms.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41860710/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-21"
+      },
       {
         "id": "rec0WSBMYO4pYtBNk",
         "title": "Immunometabolism in lung cancer - The link between metabolism and immune response.",
@@ -409,20 +423,6 @@
           "Leukemia"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-20"
-      },
-      {
-        "id": "recrhx0uGoMmuwawg",
-        "title": "Identification of Acoramidis as a Repurposed Inhibitor of the DNA Sanitization Enzyme MutT Homologue 1.",
-        "summary": "Researchers repurposed acoramidis, an approved drug, to inhibit MTH1, an enzyme cancer cells depend on, offering a new anticancer approach.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41852632/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-20"
       }
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11986,
+    "archive_count": 11987,
     "archive_supplements": 1396,
     "archive_off_label": 466,
     "archive_biomarkers": 7183,
-    "archive_trials": 2644
+    "archive_trials": 2645
   }
 }
