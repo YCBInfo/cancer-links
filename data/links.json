@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T04:14:20.238Z",
+  "last_updated": "2026-03-21T04:14:31.185Z",
   "categories": {
     "supplements": [
       {
@@ -129,6 +129,20 @@
         "added_date": "2026-03-21"
       },
       {
+        "id": "recEohVQNDdlMzVfI",
+        "title": "Pedunculoside Inhibits Hepatocellular Carcinoma Progression by Activating the MAPK Signaling Pathway Through Targeting and Suppressing CDK4.",
+        "summary": "Pedunculoside, a natural compound, slows liver cancer by blocking CDK4 protein, stopping cancer cell growth and triggering cell death.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41858177/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-21"
+      },
+      {
         "id": "rec5954h5mcbeqTee",
         "title": "Deguelin inhibits perineural invasion in esophageal squamous cell carcinoma via targeting BDNF/TrkB axis.",
         "summary": "A natural compound called deguelin blocks nerve invasion in esophageal cancer by targeting a specific growth pathway.",
@@ -189,20 +203,6 @@
         "title": "Probiotics-enhanced kynurenic acid mitigates cisplatin-induced nephrotoxicity in mice.",
         "summary": "Probiotics boost kidney-protective compound kynurenic acid, reducing kidney damage from cisplatin chemotherapy in mice.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41809050/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-20"
-      },
-      {
-        "id": "recbybX20mEwNWNxi",
-        "title": "Anticancer selenopeptides from food sources: synthesis strategies and multitarget mechanisms.",
-        "summary": "Selenopeptides from food sources show promise against cancer by combining selenium's protective properties with peptides to trigger cancer cell death through multiple mechanisms.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41767278/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12027,
+    "archive_count": 12028,
     "archive_supplements": 1400,
     "archive_off_label": 469,
-    "archive_biomarkers": 7211,
+    "archive_biomarkers": 7212,
     "archive_trials": 2650
   }
 }
