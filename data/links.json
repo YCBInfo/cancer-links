@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T09:03:12.636Z",
+  "last_updated": "2026-03-21T09:03:23.804Z",
   "categories": {
     "supplements": [
       {
@@ -397,6 +397,20 @@
         "added_date": "2026-03-21"
       },
       {
+        "id": "recVzFhViMXu0qAVw",
+        "title": "Downregulation of TDP43 by atovaquone inhibits oxidative phosphorylation and enhances sensitivity of triple-negative breast cancer to EGFR-TKIs.",
+        "summary": "Drug atovaquone inhibits a protein called TDP43, reducing energy production in triple-negative breast cancer cells and improving their response to EGFR inhibitors.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41862009/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-21"
+      },
+      {
         "id": "rec0WSBMYO4pYtBNk",
         "title": "Immunometabolism in lung cancer - The link between metabolism and immune response.",
         "summary": "Lung cancer tumors reprogram their metabolism to suppress immune responses, offering new therapeutic targets to restore anti-tumor immunity.",
@@ -408,21 +422,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
-        "added_date": "2026-03-20"
-      },
-      {
-        "id": "recfkwVVhLCs2LWIw",
-        "title": "Metformin in gastrointestinal cancers and inflammatory bowel disease: Unraveling its mechanisms and therapeutic applications.",
-        "summary": "Metformin shows promise in treating gastrointestinal cancers like colorectal, esophageal, and gastric cancers through the AMPK/mTOR pathway.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41736859/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Colorectal",
-          "Stomach"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
         "added_date": "2026-03-20"
       }
     ],
@@ -857,10 +856,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12178,
+    "archive_count": 12179,
     "archive_supplements": 1416,
     "archive_off_label": 474,
-    "archive_biomarkers": 7310,
+    "archive_biomarkers": 7311,
     "archive_trials": 2681
   }
 }
