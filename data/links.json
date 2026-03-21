@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T04:10:02.649Z",
+  "last_updated": "2026-03-21T04:10:13.563Z",
   "categories": {
     "supplements": [
       {
@@ -243,6 +243,20 @@
         "added_date": "2026-03-21"
       },
       {
+        "id": "recYD3vSxm0bxlbKz",
+        "title": "Alterations in the testicular lipidome after tumor irradiation and their potential modulation by long-term losartan treatment.",
+        "summary": "Losartan treatment may help protect testicular function and fertility in cancer patients receiving radiation therapy by reducing radiation-induced lipid damage.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41860337/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-21"
+      },
+      {
         "id": "rec0WSBMYO4pYtBNk",
         "title": "Immunometabolism in lung cancer - The link between metabolism and immune response.",
         "summary": "Lung cancer tumors reprogram their metabolism to suppress immune responses, offering new therapeutic targets to restore anti-tumor immunity.",
@@ -407,20 +421,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-20"
-      },
-      {
-        "id": "recYaWerCxlHylBXx",
-        "title": "Metformin enhances response to chemotherapy combined with immunotherapy in a triple negative breast cancer in vivo model.",
-        "summary": "Metformin enhances triple-negative breast cancer response to chemotherapy and immunotherapy without increasing toxicity in mice.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41855718/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12003,
+    "archive_count": 12004,
     "archive_supplements": 1400,
     "archive_off_label": 466,
-    "archive_biomarkers": 7193,
+    "archive_biomarkers": 7194,
     "archive_trials": 2647
   }
 }
