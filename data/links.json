@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T04:06:38.005Z",
+  "last_updated": "2026-03-21T04:06:47.951Z",
   "categories": {
     "supplements": [
       {
@@ -795,6 +795,20 @@
         "added_date": "2026-03-21"
       },
       {
+        "id": "recaScSb7gdixdGDS",
+        "title": "Chemoradiation Reprograms Tumor Cells and the Immune Microenvironment in Cervical Cancer.",
+        "summary": "Combining MDM2 inhibitor with chemoradiation improves treatment response in cervical cancer by reshaping immune cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41860764/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-21"
+      },
+      {
         "id": "recPDlhYR2XzJLLnQ",
         "title": "Immunogenicity of neoantigens from hepatocellular carcinoma patients treated with a combined radioimmunotherapy.",
         "summary": "Hepatocellular carcinoma patients who didn't respond to immunotherapy still harbored immunogenic tumor mutations suitable for personalized neoantigen vaccines.",
@@ -835,20 +849,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-20"
-      },
-      {
-        "id": "recDLxCEco5ZsCVUE",
-        "title": "Multi-omics analysis reveals features improving outcomes and immunotherapy resistance in MSS colorectal cancer.",
-        "summary": "Researchers identified a machine learning signature predicting prognosis and immunotherapy response in colorectal cancer, highlighting CADM1's role in tumor progression.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41852723/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-20"
       }
     ]
   },
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11984,
+    "archive_count": 11985,
     "archive_supplements": 1396,
     "archive_off_label": 466,
-    "archive_biomarkers": 7181,
+    "archive_biomarkers": 7182,
     "archive_trials": 2644
   }
 }
