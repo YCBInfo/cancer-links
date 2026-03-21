@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T04:08:45.382Z",
+  "last_updated": "2026-03-21T04:08:56.332Z",
   "categories": {
     "supplements": [
       {
@@ -115,6 +115,20 @@
         "added_date": "2026-03-21"
       },
       {
+        "id": "recmFhziEkTDwu53K",
+        "title": "Effectiveness of exercise interventions in patients with colorectal cancer during adjuvant chemotherapy: a systematic review and meta-analysis.",
+        "summary": "Exercise during chemotherapy helps colorectal cancer patients maintain physical function and quality of life better than standard care alone.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41860634/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 32,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-21"
+      },
+      {
         "id": "rec5954h5mcbeqTee",
         "title": "Deguelin inhibits perineural invasion in esophageal squamous cell carcinoma via targeting BDNF/TrkB axis.",
         "summary": "A natural compound called deguelin blocks nerve invasion in esophageal cancer by targeting a specific growth pathway.",
@@ -189,20 +203,6 @@
         "title": "Anticancer selenopeptides from food sources: synthesis strategies and multitarget mechanisms.",
         "summary": "Selenopeptides from food sources show promise against cancer by combining selenium's protective properties with peptides to trigger cancer cell death through multiple mechanisms.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41767278/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-20"
-      },
-      {
-        "id": "recZ6NshoLr2EIsEh",
-        "title": "Prenylhydroquinone-derived metabolites from cultures of basidiomycete Panus similis.",
-        "summary": "Researchers isolated new fungal compounds from mushroom cultures; panepoxydone showed activity against breast and lung cancer cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41855554/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11996,
+    "archive_count": 11997,
     "archive_supplements": 1398,
     "archive_off_label": 466,
     "archive_biomarkers": 7189,
-    "archive_trials": 2646
+    "archive_trials": 2647
   }
 }
