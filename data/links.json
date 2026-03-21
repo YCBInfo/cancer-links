@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T04:22:11.339Z",
+  "last_updated": "2026-03-21T04:22:18.155Z",
   "categories": {
     "supplements": [
       {
@@ -285,6 +285,20 @@
         "added_date": "2026-03-21"
       },
       {
+        "id": "recveMHXehOdwl35L",
+        "title": "Targeting WIP1 reprograms immunosuppressive tumor microenvironment to potentiate immunotherapy response in colorectal cancer.",
+        "summary": "Blocking WIP1 protein in colorectal cancer reactivates immune cells and improves immunotherapy effectiveness when combined with STING activation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41857138/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-21"
+      },
+      {
         "id": "rec0WSBMYO4pYtBNk",
         "title": "Immunometabolism in lung cancer - The link between metabolism and immune response.",
         "summary": "Lung cancer tumors reprogram their metabolism to suppress immune responses, offering new therapeutic targets to restore anti-tumor immunity.",
@@ -410,20 +424,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
-        "added_date": "2026-03-20"
-      },
-      {
-        "id": "recA4dQ4YLldZGjaZ",
-        "title": "A Phase II Randomized Open-Label Trial of Levetiracetam for Prevention of Seizures in Patients With Brain Metastases in Primary Motor Cortex",
-        "summary": "A trial tests whether the drug levetiracetam prevents seizures in patients with brain cancer metastases in the motor cortex.",
-        "url": "https://clinicaltrials.gov/study/NCT07130786",
-        "source": "ClinicalTrials.gov",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
-        "pub_date": "2026-03-19",
         "added_date": "2026-03-20"
       }
     ],
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12068,
+    "archive_count": 12069,
     "archive_supplements": 1402,
     "archive_off_label": 470,
-    "archive_biomarkers": 7246,
+    "archive_biomarkers": 7247,
     "archive_trials": 2653
   }
 }
