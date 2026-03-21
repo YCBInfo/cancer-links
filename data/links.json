@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T04:06:47.951Z",
+  "last_updated": "2026-03-21T04:06:59.577Z",
   "categories": {
     "supplements": [
       {
@@ -55,6 +55,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-21"
+      },
+      {
+        "id": "recJzTaKKjvWg2vMs",
+        "title": "Integrative network pharmacology and in vitro validation reveal the mechanisms by which Apigenin reverses MET-TKI resistance in non-small cell lung cancer.",
+        "summary": "Apigenin helps overcome drug resistance in lung cancer by reversing resistance to MET-targeted therapies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41860742/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-21"
       },
@@ -195,20 +209,6 @@
           "Lung"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-20"
-      },
-      {
-        "id": "recnqMa9FyhZqYgnQ",
-        "title": "Ultrasound-Responsive Folate-Chlorogenic Acid Nanocarrier Targeting Mixed Lineage Kinase 1 for Enhanced Wilms Tumor Therapy.",
-        "summary": "Researchers developed ultrasound-activated nanoparticles carrying chlorogenic acid to better target and treat Wilms tumor in children.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41852338/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-20"
       }
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11985,
+    "archive_count": 11986,
     "archive_supplements": 1396,
     "archive_off_label": 466,
-    "archive_biomarkers": 7182,
+    "archive_biomarkers": 7183,
     "archive_trials": 2644
   }
 }
