@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T04:02:15.305Z",
+  "last_updated": "2026-03-21T04:02:25.372Z",
   "categories": {
     "supplements": [
       {
@@ -641,6 +641,20 @@
     ],
     "trials": [
       {
+        "id": "recaXPmlSxfH4V6sS",
+        "title": "CALYPSO: Final Results of Savolitinib and Durvalumab Combination in Metastatic Papillary Renal Cancer.",
+        "summary": "A drug combination of savolitinib and durvalumab showed promising results in treating metastatic papillary kidney cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41861260/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Kidney"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-21"
+      },
+      {
         "id": "recPDlhYR2XzJLLnQ",
         "title": "Immunogenicity of neoantigens from hepatocellular carcinoma patients treated with a combined radioimmunotherapy.",
         "summary": "Hepatocellular carcinoma patients who didn't respond to immunotherapy still harbored immunogenic tumor mutations suitable for personalized neoantigen vaccines.",
@@ -835,20 +849,6 @@
         "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-03-20"
-      },
-      {
-        "id": "recl7wt6e2hA2mLUl",
-        "title": "Axitinib and Long-Acting Octreotide in Advanced Extrapancreatic Neuroendocrine Tumors: A Randomized, Double-Blind, Placebo-Controlled, Phase III Clinical Trial (AXINET, GETNE 1107).",
-        "summary": "Axitinib combined with octreotide improved outcomes in advanced extrapancreatic neuroendocrine tumors compared to placebo in clinical trials.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41719493/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-20"
       }
     ]
   },
@@ -858,8 +858,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11962,
-    "archive_supplements": 1393,
+    "archive_count": 11963,
+    "archive_supplements": 1394,
     "archive_off_label": 466,
     "archive_biomarkers": 7165,
     "archive_trials": 2641
