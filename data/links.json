@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T04:04:38.956Z",
+  "last_updated": "2026-03-21T04:04:51.450Z",
   "categories": {
     "supplements": [
       {
@@ -725,6 +725,20 @@
         "added_date": "2026-03-21"
       },
       {
+        "id": "rec6NC90FJWZ8aetC",
+        "title": "TLR9-activating cholesterol azetidine derivative-assisted therapeutic vaccines for cancer immunotherapy.",
+        "summary": "A new nanovaccine using cholesterol compounds activates immune cells to fight melanoma and HPV tumors, especially when combined with immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41861020/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Melanoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-21"
+      },
+      {
         "id": "recPDlhYR2XzJLLnQ",
         "title": "Immunogenicity of neoantigens from hepatocellular carcinoma patients treated with a combined radioimmunotherapy.",
         "summary": "Hepatocellular carcinoma patients who didn't respond to immunotherapy still harbored immunogenic tumor mutations suitable for personalized neoantigen vaccines.",
@@ -835,20 +849,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-20"
-      },
-      {
-        "id": "recxKpQVrse43WoAS",
-        "title": "Cost-effectiveness of first-line encorafenib plus cetuximab with mFOLFOX6 in BRAF V600E-mutant metastatic colorectal cancer.",
-        "summary": "Encorafenib plus cetuximab improves survival in BRAF-mutant colorectal cancer but costs too much to be considered cost-effective treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41797900/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 23,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-20"
       }
     ]
   },
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11973,
+    "archive_count": 11974,
     "archive_supplements": 1396,
     "archive_off_label": 466,
-    "archive_biomarkers": 7171,
+    "archive_biomarkers": 7172,
     "archive_trials": 2643
   }
 }
