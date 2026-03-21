@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T04:03:55.873Z",
+  "last_updated": "2026-03-21T04:04:06.015Z",
   "categories": {
     "supplements": [
       {
@@ -597,6 +597,20 @@
         "added_date": "2026-03-21"
       },
       {
+        "id": "recBjXx36DJ3gYuj5",
+        "title": "ETV4 Promotes Colorectal Cancer Progression by Reprogramming Asparagine Metabolism to Remodel the Stromal Microenvironment.",
+        "summary": "ETV4 protein drives colorectal cancer spread by altering asparagine metabolism, which activates immune cells that fuel tumor growth and metastasis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41861091/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-21"
+      },
+      {
         "id": "recPDlhYR2XzJLLnQ",
         "title": "Immunogenicity of neoantigens from hepatocellular carcinoma patients treated with a combined radioimmunotherapy.",
         "summary": "Hepatocellular carcinoma patients who didn't respond to immunotherapy still harbored immunogenic tumor mutations suitable for personalized neoantigen vaccines.",
@@ -621,20 +635,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-20"
-      },
-      {
-        "id": "reciaIm3mnFNKEIlh",
-        "title": "LncRNA Dlx4os drives malignant transformation and phenotype switching in melanoma.",
-        "summary": "A melanoma gene called Dlx4os drives aggressive cell behavior; blocking it reduces invasion and slows tumor growth in mice.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41855479/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Melanoma"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-20"
       }
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11969,
+    "archive_count": 11970,
     "archive_supplements": 1396,
     "archive_off_label": 466,
     "archive_biomarkers": 7168,
-    "archive_trials": 2642
+    "archive_trials": 2643
   }
 }
