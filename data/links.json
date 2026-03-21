@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T04:09:39.533Z",
+  "last_updated": "2026-03-21T04:09:50.226Z",
   "categories": {
     "supplements": [
       {
@@ -229,6 +229,20 @@
         "added_date": "2026-03-21"
       },
       {
+        "id": "rec0edfU7ENVEXsYG",
+        "title": "Second-generation prokineticin PKR1 receptor agonists: Advancing cardioprotection against chemotherapy-induced toxicity.",
+        "summary": "A new drug called IS39 protects the heart from damage caused by doxorubicin chemotherapy in cancer treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41860378/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-21"
+      },
+      {
         "id": "rec0WSBMYO4pYtBNk",
         "title": "Immunometabolism in lung cancer - The link between metabolism and immune response.",
         "summary": "Lung cancer tumors reprogram their metabolism to suppress immune responses, offering new therapeutic targets to restore anti-tumor immunity.",
@@ -407,20 +421,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-20"
-      },
-      {
-        "id": "reconWTQlDruY7i83",
-        "title": "A real-world analysis of the impact of azole antifungal prophylaxis on outcomes in patients with newly diagnosed acute myeloid leukemia treated with venetoclax-based therapy.",
-        "summary": "Antifungal medication did not improve survival in acute myeloid leukemia patients treated with venetoclax, unlike in intensive chemotherapy patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41855751/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -858,8 +858,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12001,
-    "archive_supplements": 1399,
+    "archive_count": 12002,
+    "archive_supplements": 1400,
     "archive_off_label": 466,
     "archive_biomarkers": 7192,
     "archive_trials": 2647
