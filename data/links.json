@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T04:06:05.570Z",
+  "last_updated": "2026-03-21T04:06:16.013Z",
   "categories": {
     "supplements": [
       {
@@ -753,6 +753,20 @@
         "added_date": "2026-03-21"
       },
       {
+        "id": "recS7ZPFZNhoCtILm",
+        "title": "Patterns of opioid dose escalation in patients with chronic kidney disease initiated on opioids for the treatment of non-cancer pain.",
+        "summary": "Patients with kidney disease who start opioids for pain often need increasing doses, raising safety concerns in this vulnerable group.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41860838/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-21"
+      },
+      {
         "id": "recPDlhYR2XzJLLnQ",
         "title": "Immunogenicity of neoantigens from hepatocellular carcinoma patients treated with a combined radioimmunotherapy.",
         "summary": "Hepatocellular carcinoma patients who didn't respond to immunotherapy still harbored immunogenic tumor mutations suitable for personalized neoantigen vaccines.",
@@ -835,20 +849,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-20"
-      },
-      {
-        "id": "recL0bZTWBQ29WXGG",
-        "title": "Functional characterization of BAP1 mutations in genome edited cholangiocarcinoma organoids: Role in cell death and drug responses.",
-        "summary": "BAP1 mutations in bile duct cancer reduce cell death but increase sensitivity to sorafenib, suggesting a biomarker for personalized treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41797921/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-20"
       }
     ]
   },
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11981,
+    "archive_count": 11982,
     "archive_supplements": 1396,
     "archive_off_label": 466,
-    "archive_biomarkers": 7178,
+    "archive_biomarkers": 7179,
     "archive_trials": 2644
   }
 }
