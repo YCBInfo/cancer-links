@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T04:03:35.573Z",
+  "last_updated": "2026-03-21T04:03:45.042Z",
   "categories": {
     "supplements": [
       {
@@ -569,6 +569,20 @@
         "added_date": "2026-03-21"
       },
       {
+        "id": "rec6wV2IPQqa9ebCQ",
+        "title": "Frequency of hyperlactatemia in craniotomy and its association with anesthesia: A prospective observational study.",
+        "summary": "High lactate levels occurred in 60% of brain tumor surgery patients, correlating with tumor aggressiveness rather than anesthesia type.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41861163/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-21"
+      },
+      {
         "id": "recPDlhYR2XzJLLnQ",
         "title": "Immunogenicity of neoantigens from hepatocellular carcinoma patients treated with a combined radioimmunotherapy.",
         "summary": "Hepatocellular carcinoma patients who didn't respond to immunotherapy still harbored immunogenic tumor mutations suitable for personalized neoantigen vaccines.",
@@ -615,20 +629,6 @@
         "title": "The role of mesencephalic astrocyte-derived neurotrophic factor in digestive diseases.",
         "summary": "MANF protein shows promise as a potential treatment target and diagnostic marker for liver, intestinal, and pancreatic diseases.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41849648/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-20"
-      },
-      {
-        "id": "recjEW0f1nsKjUTqR",
-        "title": "Metabolic characteristic changes in local tissues after high-intensity focused ultrasound treatment for uterine fibroids.",
-        "summary": "High-intensity focused ultrasound alters the chemical makeup of uterine fibroid tissue, potentially explaining how the treatment works.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41846319/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11967,
+    "archive_count": 11968,
     "archive_supplements": 1395,
     "archive_off_label": 466,
-    "archive_biomarkers": 7167,
+    "archive_biomarkers": 7168,
     "archive_trials": 2642
   }
 }
