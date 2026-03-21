@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T04:07:10.660Z",
+  "last_updated": "2026-03-21T04:07:19.724Z",
   "categories": {
     "supplements": [
       {
@@ -809,6 +809,20 @@
         "added_date": "2026-03-21"
       },
       {
+        "id": "rec2uMoioO6Wv1bKy",
+        "title": "MRI-based AI framework for predicting lymph node metastasis and prognosis in rectal cancer after neoadjuvant chemoradiotherapy: a multicenter study.",
+        "summary": "AI analysis of MRI scans predicts lymph node spread in rectal cancer patients after chemotherapy and radiation treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41860709/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-21"
+      },
+      {
         "id": "recPDlhYR2XzJLLnQ",
         "title": "Immunogenicity of neoantigens from hepatocellular carcinoma patients treated with a combined radioimmunotherapy.",
         "summary": "Hepatocellular carcinoma patients who didn't respond to immunotherapy still harbored immunogenic tumor mutations suitable for personalized neoantigen vaccines.",
@@ -835,20 +849,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-20"
-      },
-      {
-        "id": "recxeAdofC2G9WkvB",
-        "title": "Regulation of the immune CD155-CD226-TIGIT axis by cyclin D-CDK4/6.",
-        "summary": "CDK4/6 inhibitors boost breast cancer immune response by increasing CD155 and reducing TIGIT, suggesting combining them with anti-TIGIT antibodies enhances treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41849398/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-20"
       }
     ]
   },
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11987,
+    "archive_count": 11988,
     "archive_supplements": 1396,
     "archive_off_label": 466,
-    "archive_biomarkers": 7183,
+    "archive_biomarkers": 7184,
     "archive_trials": 2645
   }
 }
