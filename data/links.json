@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T04:05:00.834Z",
+  "last_updated": "2026-03-21T04:05:11.691Z",
   "categories": {
     "supplements": [
       {
@@ -739,6 +739,20 @@
         "added_date": "2026-03-21"
       },
       {
+        "id": "recoLJ6sIK8R68oR0",
+        "title": "Transcriptional readthrough precedes alternative splicing programs triggered in CML cells by imatinib.",
+        "summary": "Imatinib drug treatment triggers early transcriptional readthrough in CML cells, leading to abnormal gene fusion transcripts before standard gene expression changes occur.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41860998/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-21"
+      },
+      {
         "id": "recPDlhYR2XzJLLnQ",
         "title": "Immunogenicity of neoantigens from hepatocellular carcinoma patients treated with a combined radioimmunotherapy.",
         "summary": "Hepatocellular carcinoma patients who didn't respond to immunotherapy still harbored immunogenic tumor mutations suitable for personalized neoantigen vaccines.",
@@ -835,20 +849,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-20"
-      },
-      {
-        "id": "recnTDVY8BLgcpbyw",
-        "title": "Targeting peptidyl-arginine deiminase 4 suppresses SARS-CoV-2 replication and modulates the inflammatory response.",
-        "summary": "Blocking PAD4 enzyme reduces SARS-CoV-2 replication and inflammation, offering a potential COVID-19 treatment strategy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41797904/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-20"
       }
     ]
   },
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11975,
+    "archive_count": 11976,
     "archive_supplements": 1396,
     "archive_off_label": 466,
     "archive_biomarkers": 7173,
-    "archive_trials": 2643
+    "archive_trials": 2644
   }
 }
