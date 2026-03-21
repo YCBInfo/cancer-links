@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T04:07:19.724Z",
+  "last_updated": "2026-03-21T04:07:30.920Z",
   "categories": {
     "supplements": [
       {
@@ -823,6 +823,20 @@
         "added_date": "2026-03-21"
       },
       {
+        "id": "recibkseusz39ERwI",
+        "title": "Site-specific limitations of ctDNA in PDAC surveillance: imaging detects pulmonary and local recurrence missed by liquid biopsy.",
+        "summary": "Imaging detected lung and local pancreatic cancer recurrence that blood tests missed in pancreatic cancer patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41860708/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-21"
+      },
+      {
         "id": "recPDlhYR2XzJLLnQ",
         "title": "Immunogenicity of neoantigens from hepatocellular carcinoma patients treated with a combined radioimmunotherapy.",
         "summary": "Hepatocellular carcinoma patients who didn't respond to immunotherapy still harbored immunogenic tumor mutations suitable for personalized neoantigen vaccines.",
@@ -835,20 +849,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-20"
-      },
-      {
-        "id": "recgp0WA10vEC2Hpz",
-        "title": "Tim-3-targeted vaccines overcome tumor immunosuppression and reduce cDC1 dependence to elicit potent anti-tumor immunity.",
-        "summary": "Tim-3-targeted vaccines activate immune cells to fight tumors effectively, even without specialized dendritic cells normally required for cancer immunity.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41855265/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-20"
       }
     ]
   },
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11988,
+    "archive_count": 11989,
     "archive_supplements": 1396,
     "archive_off_label": 466,
-    "archive_biomarkers": 7184,
+    "archive_biomarkers": 7185,
     "archive_trials": 2645
   }
 }
