@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T04:27:17.025Z",
+  "last_updated": "2026-03-21T06:02:08.099Z",
   "categories": {
     "supplements": [
       {
@@ -171,6 +171,34 @@
         "added_date": "2026-03-21"
       },
       {
+        "id": "rectSttwI9HmfUoGq",
+        "title": "Andrographis exerts antitumor effects and enhances 5‑FU efficacy via the alteration of ferroptosis‑related genes in esophageal squamous cell carcinoma.",
+        "summary": "Andrographis, a plant compound, kills esophageal cancer cells and boosts 5-FU chemotherapy effectiveness by triggering cell death pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41860050/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-21"
+      },
+      {
+        "id": "recGugnTIB3df3j8x",
+        "title": "Precision modulation of the gut microbiota-immune axis by natural products: a structure-activity relationship perspective in cancer immunotherapy.",
+        "summary": "Natural products can overcome gut bacteria imbalances that block cancer immunotherapy by restructuring beneficial microbes and boosting immune response.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41860786/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-21"
+      },
+      {
         "id": "rec5954h5mcbeqTee",
         "title": "Deguelin inhibits perineural invasion in esophageal squamous cell carcinoma via targeting BDNF/TrkB axis.",
         "summary": "A natural compound called deguelin blocks nerve invasion in esophageal cancer by targeting a specific growth pathway.",
@@ -181,34 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-20"
-      },
-      {
-        "id": "recxJLs5xQHs8M02S",
-        "title": "Tumor-suppressing efficacy of essential oil of Boswellia serrata gum resin and its synergistic effect on doxorubicin-induced growth inhibition of breast cancer cells.",
-        "summary": "Boswellia serrata essential oil kills breast cancer cells and boosts doxorubicin effectiveness, suggesting potential as complementary cancer therapy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41853213/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-20"
-      },
-      {
-        "id": "rec4wM78LC4Uv4fVu",
-        "title": "Theranekron modulates extracellular matrix and apoptotic signaling pathways in colorectal cancer cells.",
-        "summary": "Theranekron extract kills colorectal cancer cells by activating apoptosis and restoring healthy extracellular matrix balance through multiple signaling pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41852375/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-20"
       }
@@ -341,6 +341,20 @@
         "added_date": "2026-03-21"
       },
       {
+        "id": "recKy7ZTjAw2x4QYt",
+        "title": "Ferroptosis Induction by Fenbendazole Combined With Photothermal Therapy Triggers Dual-Immunotherapy Against Bladder Cancer.",
+        "summary": "Combining a drug with heat therapy triggers immune-boosting cell death in bladder cancer tumors.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41861111/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Bladder"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-21"
+      },
+      {
         "id": "rec0WSBMYO4pYtBNk",
         "title": "Immunometabolism in lung cancer - The link between metabolism and immune response.",
         "summary": "Lung cancer tumors reprogram their metabolism to suppress immune responses, offering new therapeutic targets to restore anti-tumor immunity.",
@@ -409,20 +423,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-20"
-      },
-      {
-        "id": "recy906bpPbDv9mYG",
-        "title": "RAGE Inhibition Reduces Surgery-Induced Cerebral Edema After Glioma Resection.",
-        "summary": "Blocking a protein called RAGE reduces brain swelling after glioma surgery in mice, offering a potential alternative to steroids.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41854274/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Brain"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-20"
       }
@@ -858,8 +858,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12097,
-    "archive_supplements": 1403,
+    "archive_count": 12098,
+    "archive_supplements": 1404,
     "archive_off_label": 471,
     "archive_biomarkers": 7272,
     "archive_trials": 2654
