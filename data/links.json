@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T04:04:06.015Z",
+  "last_updated": "2026-03-21T04:04:16.975Z",
   "categories": {
     "supplements": [
       {
@@ -611,6 +611,20 @@
         "added_date": "2026-03-21"
       },
       {
+        "id": "rec4Dqx0kxOEwjrYK",
+        "title": "Association between antibiotic exposure and the risk of checkpoint inhibitor pneumonitis in lung cancer patients.",
+        "summary": "Antibiotic use may increase the risk of serious lung inflammation in lung cancer patients receiving immunotherapy drugs.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41861081/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-21"
+      },
+      {
         "id": "recPDlhYR2XzJLLnQ",
         "title": "Immunogenicity of neoantigens from hepatocellular carcinoma patients treated with a combined radioimmunotherapy.",
         "summary": "Hepatocellular carcinoma patients who didn't respond to immunotherapy still harbored immunogenic tumor mutations suitable for personalized neoantigen vaccines.",
@@ -621,20 +635,6 @@
           "Liver"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-20"
-      },
-      {
-        "id": "rec5954h5mcbeqTee",
-        "title": "Deguelin inhibits perineural invasion in esophageal squamous cell carcinoma via targeting BDNF/TrkB axis.",
-        "summary": "A natural compound called deguelin blocks nerve invasion in esophageal cancer by targeting a specific growth pathway.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41851958/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-20"
       }
@@ -705,6 +705,20 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-21"
+      },
+      {
+        "id": "rec4Dqx0kxOEwjrYK",
+        "title": "Association between antibiotic exposure and the risk of checkpoint inhibitor pneumonitis in lung cancer patients.",
+        "summary": "Antibiotic use may increase the risk of serious lung inflammation in lung cancer patients receiving immunotherapy drugs.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41861081/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -835,20 +849,6 @@
         "quality_score": 23,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-20"
-      },
-      {
-        "id": "recQeMFAudBn6oic5",
-        "title": "MSMO1 promotes chemotherapy resistance through modulation of T-MAS metabolism via PERK/elF2α/ATF4/CHOP pathway.",
-        "summary": "MSMO1 protein promotes breast cancer chemotherapy resistance by altering cholesterol metabolism, identifiable through a blood test for personalized treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41782822/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-20"
       }
     ]
   },
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11970,
+    "archive_count": 11971,
     "archive_supplements": 1396,
     "archive_off_label": 466,
-    "archive_biomarkers": 7168,
+    "archive_biomarkers": 7169,
     "archive_trials": 2643
   }
 }
