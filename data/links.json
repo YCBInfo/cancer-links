@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T04:02:42.565Z",
+  "last_updated": "2026-03-21T04:02:52.551Z",
   "categories": {
     "supplements": [
       {
@@ -513,6 +513,20 @@
         "added_date": "2026-03-21"
       },
       {
+        "id": "recXsZVJB7blrvxgJ",
+        "title": "Renal cell carcinoma presenting with orbital metastasis as the initial symptom: A case report.",
+        "summary": "A rare case showed that renal cell carcinoma can first appear as an eye tumor before other symptoms develop.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41861213/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Kidney"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-21"
+      },
+      {
         "id": "recPDlhYR2XzJLLnQ",
         "title": "Immunogenicity of neoantigens from hepatocellular carcinoma patients treated with a combined radioimmunotherapy.",
         "summary": "Hepatocellular carcinoma patients who didn't respond to immunotherapy still harbored immunogenic tumor mutations suitable for personalized neoantigen vaccines.",
@@ -619,20 +633,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-20"
-      },
-      {
-        "id": "rec4wM78LC4Uv4fVu",
-        "title": "Theranekron modulates extracellular matrix and apoptotic signaling pathways in colorectal cancer cells.",
-        "summary": "Theranekron extract kills colorectal cancer cells by activating apoptosis and restoring healthy extracellular matrix balance through multiple signaling pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41852375/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11964,
+    "archive_count": 11965,
     "archive_supplements": 1395,
     "archive_off_label": 466,
-    "archive_biomarkers": 7165,
+    "archive_biomarkers": 7166,
     "archive_trials": 2641
   }
 }
