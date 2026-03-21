@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T04:22:59.815Z",
+  "last_updated": "2026-03-21T04:23:10.633Z",
   "categories": {
     "supplements": [
       {
@@ -299,6 +299,20 @@
         "added_date": "2026-03-21"
       },
       {
+        "id": "recTCdsWuK7931fSi",
+        "title": "Overcoming vascular niche-mediated TKI resistance in acute myeloid leukemia through miR-126 inhibition.",
+        "summary": "Blocking miR-126 in leukemia cells combined with tyrosine kinase inhibitors overcomes drug resistance and prevents AML relapse.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41857060/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-21"
+      },
+      {
         "id": "rec0WSBMYO4pYtBNk",
         "title": "Immunometabolism in lung cancer - The link between metabolism and immune response.",
         "summary": "Lung cancer tumors reprogram their metabolism to suppress immune responses, offering new therapeutic targets to restore anti-tumor immunity.",
@@ -405,20 +419,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41851072/",
         "source": "PubMed",
         "category": "Off-Label Medications",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-20"
-      },
-      {
-        "id": "recQvXpOTtSjuTZB3",
-        "title": "Inhibition of MAPK p38α overcomes the cancer immunosurveillance defect caused by FPR1 loss-of-function mutation.",
-        "summary": "Blocking MAPK p38α restores immune cell function and prevents accelerated colorectal cancer in mice with FPR1 defects.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41850246/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Colorectal"
         ],
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12073,
+    "archive_count": 12074,
     "archive_supplements": 1403,
     "archive_off_label": 470,
-    "archive_biomarkers": 7250,
+    "archive_biomarkers": 7251,
     "archive_trials": 2653
   }
 }
