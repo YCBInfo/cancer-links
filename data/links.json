@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T04:06:16.013Z",
+  "last_updated": "2026-03-21T04:06:27.180Z",
   "categories": {
     "supplements": [
       {
@@ -767,6 +767,20 @@
         "added_date": "2026-03-21"
       },
       {
+        "id": "recG9DmUOgKPO3j4l",
+        "title": "A nationwide survey on the prevalence of asbestos-related lung cancer in Japan.",
+        "summary": "A Japanese survey found that 2% of primary lung cancers are asbestos-related, affecting mostly men with advanced disease who may qualify for compensation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41860806/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-21"
+      },
+      {
         "id": "recPDlhYR2XzJLLnQ",
         "title": "Immunogenicity of neoantigens from hepatocellular carcinoma patients treated with a combined radioimmunotherapy.",
         "summary": "Hepatocellular carcinoma patients who didn't respond to immunotherapy still harbored immunogenic tumor mutations suitable for personalized neoantigen vaccines.",
@@ -835,20 +849,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-20"
-      },
-      {
-        "id": "recsZ92UxEv0GUopN",
-        "title": "Cisplatin-incorporating gelatin-coated gadolinium oxide nanoparticles for cancer theranostics.",
-        "summary": "Nanoparticles combining cisplatin and gadolinium oxide enable both cancer imaging and drug delivery with controlled release in tumors.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41797933/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-20"
       }
     ]
   },
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 11982,
+    "archive_count": 11983,
     "archive_supplements": 1396,
     "archive_off_label": 466,
-    "archive_biomarkers": 7179,
+    "archive_biomarkers": 7180,
     "archive_trials": 2644
   }
 }
