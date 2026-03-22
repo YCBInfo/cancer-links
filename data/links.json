@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-22T04:06:46.495Z",
+  "last_updated": "2026-03-22T04:07:07.440Z",
   "categories": {
     "supplements": [
       {
@@ -793,6 +793,20 @@
         "added_date": "2026-03-22"
       },
       {
+        "id": "recG1VV16j0umFVsi",
+        "title": "Fatty acid oxidation drives acetyl-CoA-dependent H3K9ac reprogramming to promote adaptive resistance to BRAFV600E inhibition in thyroid cancer.",
+        "summary": "Thyroid cancer cells resist BRAF inhibitor drugs by burning more fatty acids, which cancer researchers can block to improve treatment effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41862440/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Thyroid"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-22"
+      },
+      {
         "id": "recaXPmlSxfH4V6sS",
         "title": "CALYPSO: Final Results of Savolitinib and Durvalumab Combination in Metastatic Papillary Renal Cancer.",
         "summary": "A drug combination of savolitinib and durvalumab showed promising results in treating metastatic papillary kidney cancer.",
@@ -833,20 +847,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-21"
-      },
-      {
-        "id": "recNmRI7fQTnA4VSl",
-        "title": "Beneficial subgroups for PD-1 inhibitor plus chemotherapy in first-line treatment of advanced esophageal squamous cell carcinoma: A systematic review and meta-analysis.",
-        "summary": "PD-1 inhibitors combined with chemotherapy improve survival in advanced esophageal squamous cell carcinoma, particularly in high PD-1-expressing tumors.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41861173/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-21"
       }
     ]
   },
@@ -856,10 +856,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12211,
+    "archive_count": 12212,
     "archive_supplements": 1416,
     "archive_off_label": 475,
     "archive_biomarkers": 7332,
-    "archive_trials": 2691
+    "archive_trials": 2692
   }
 }
