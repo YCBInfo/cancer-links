@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-22T04:02:59.415Z",
+  "last_updated": "2026-03-22T04:03:10.358Z",
   "categories": {
     "supplements": [
       {
@@ -539,6 +539,20 @@
         "added_date": "2026-03-22"
       },
       {
+        "id": "recc07FPGXooe7YrQ",
+        "title": "Coronavirus disease 2019 infection reduces EGFR-TKI efficacy in non-small cell lung carcinoma: Real-world evidence from a multicenter propensity-matched cohort.",
+        "summary": "COVID-19 infection significantly reduces the effectiveness of EGFR-targeted drugs in advanced lung cancer patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41863042/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-22"
+      },
+      {
         "id": "rec2eLkZZoVo9tqQh",
         "title": "Rabdosin B suppresses proliferation of nonsmall cell lung cancer by regulating the SRC/PI3K/AKT signaling pathway.",
         "summary": "Rabdosin B, a compound from a Chinese herb, stops lung cancer cell growth by blocking a specific cellular signaling pathway.",
@@ -621,20 +635,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-21"
-      },
-      {
-        "id": "recXsZVJB7blrvxgJ",
-        "title": "Renal cell carcinoma presenting with orbital metastasis as the initial symptom: A case report.",
-        "summary": "A rare case showed that renal cell carcinoma can first appear as an eye tumor before other symptoms develop.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41861213/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Kidney"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-21"
       }
     ],
     "trials": [
@@ -689,6 +689,20 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-22"
+      },
+      {
+        "id": "recc07FPGXooe7YrQ",
+        "title": "Coronavirus disease 2019 infection reduces EGFR-TKI efficacy in non-small cell lung carcinoma: Real-world evidence from a multicenter propensity-matched cohort.",
+        "summary": "COVID-19 infection significantly reduces the effectiveness of EGFR-targeted drugs in advanced lung cancer patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41863042/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -833,20 +847,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-21"
-      },
-      {
-        "id": "recIJ5l6fA6bEIuFC",
-        "title": "Co-expression of IL15 promotes effector differentiation and sustained proliferative capacity in ALPPL2-specific human CAR T cells.",
-        "summary": "IL15 co-expression enhances CAR T cell survival, proliferation, and tumor-killing capacity against ALPPL2-positive cancers.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41860794/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-21"
       }
     ]
   },
@@ -856,10 +856,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12190,
+    "archive_count": 12191,
     "archive_supplements": 1416,
     "archive_off_label": 475,
-    "archive_biomarkers": 7316,
+    "archive_biomarkers": 7317,
     "archive_trials": 2686
   }
 }
