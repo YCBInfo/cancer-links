@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-22T04:03:32.732Z",
+  "last_updated": "2026-03-22T04:03:45.611Z",
   "categories": {
     "supplements": [
       {
@@ -581,6 +581,20 @@
         "added_date": "2026-03-22"
       },
       {
+        "id": "recgI6Adez4BAIOtx",
+        "title": "Deciphering lung adenocarcinoma heterogeneity: a multi-omics approach reveals nuclear division fibroblasts as prognosticators and therapeutic targets.",
+        "summary": "Researchers identified a specific type of lung fibroblast linked to lung cancer survival and potential new treatment targets.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41862916/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-22"
+      },
+      {
         "id": "rec2eLkZZoVo9tqQh",
         "title": "Rabdosin B suppresses proliferation of nonsmall cell lung cancer by regulating the SRC/PI3K/AKT signaling pathway.",
         "summary": "Rabdosin B, a compound from a Chinese herb, stops lung cancer cell growth by blocking a specific cellular signaling pathway.",
@@ -617,20 +631,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-21"
-      },
-      {
-        "id": "recYGWbaKLkHkAlHQ",
-        "title": "Crosstalk between KRAS and miRNAs in pancreatic cancer: Opportunities for its diagnosis, prognosis and therapeutic intervention (Review).",
-        "summary": "Pancreatic cancer research shows miRNAs could improve diagnosis and treatment by targeting the frequently mutated KRAS gene that drives tumor growth.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41860028/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Pancreatic"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -856,10 +856,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12193,
+    "archive_count": 12194,
     "archive_supplements": 1416,
     "archive_off_label": 475,
-    "archive_biomarkers": 7319,
+    "archive_biomarkers": 7320,
     "archive_trials": 2686
   }
 }
