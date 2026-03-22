@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-22T04:03:54.673Z",
+  "last_updated": "2026-03-22T04:04:05.510Z",
   "categories": {
     "supplements": [
       {
@@ -723,6 +723,20 @@
         "added_date": "2026-03-22"
       },
       {
+        "id": "recUvZU661RlAOIEd",
+        "title": "Health-related quality of life in breast cancer measured with EQ-5D-5L.",
+        "summary": "Researchers measured breast cancer patients' quality of life using EQ-5D-5L to assess health utility values for cost-effectiveness analyses.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41862778/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-22"
+      },
+      {
         "id": "recaXPmlSxfH4V6sS",
         "title": "CALYPSO: Final Results of Savolitinib and Durvalumab Combination in Metastatic Papillary Renal Cancer.",
         "summary": "A drug combination of savolitinib and durvalumab showed promising results in treating metastatic papillary kidney cancer.",
@@ -833,20 +847,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-21"
-      },
-      {
-        "id": "recS7ZPFZNhoCtILm",
-        "title": "Patterns of opioid dose escalation in patients with chronic kidney disease initiated on opioids for the treatment of non-cancer pain.",
-        "summary": "Patients with kidney disease who start opioids for pain often need increasing doses, raising safety concerns in this vulnerable group.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41860838/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-21"
       }
     ]
   },
@@ -856,10 +856,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12195,
+    "archive_count": 12196,
     "archive_supplements": 1416,
     "archive_off_label": 475,
     "archive_biomarkers": 7321,
-    "archive_trials": 2686
+    "archive_trials": 2687
   }
 }
