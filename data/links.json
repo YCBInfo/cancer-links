@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-22T04:02:49.765Z",
+  "last_updated": "2026-03-22T04:02:59.415Z",
   "categories": {
     "supplements": [
       {
@@ -525,6 +525,20 @@
         "added_date": "2026-03-22"
       },
       {
+        "id": "recAI6iG10vui3fSX",
+        "title": "CD8+ T Cell Infiltration Elicits Molecular Subtype-Biased Clinical Outcomes in Gastric Cancer Patients.",
+        "summary": "CD8+ T cell infiltration predicts better survival in some gastric cancer subtypes, but low infiltration indicates chemotherapy benefit in others.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41863069/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-22"
+      },
+      {
         "id": "rec2eLkZZoVo9tqQh",
         "title": "Rabdosin B suppresses proliferation of nonsmall cell lung cancer by regulating the SRC/PI3K/AKT signaling pathway.",
         "summary": "Rabdosin B, a compound from a Chinese herb, stops lung cancer cell growth by blocking a specific cellular signaling pathway.",
@@ -621,20 +635,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-21"
-      },
-      {
-        "id": "recHOFujwBeP1tks7",
-        "title": "PD-1/PD-L1 inhibitors in recurrent or metastatic nasopharyngeal carcinoma: A systematic review and meta-analysis.",
-        "summary": "Blocking PD-1/PD-L1 immune checkpoint inhibitors improves treatment outcomes for recurrent or metastatic nasopharyngeal cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41861185/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-21"
       }
     ],
     "trials": [
@@ -671,6 +671,20 @@
         "title": "Retlirafusp Alfa: First Approval.",
         "summary": "New drug retlirafusp alfa approved for advanced gastric cancer when combined with chemotherapy in patients with specific immune markers.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41862758/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-22"
+      },
+      {
+        "id": "recAI6iG10vui3fSX",
+        "title": "CD8+ T Cell Infiltration Elicits Molecular Subtype-Biased Clinical Outcomes in Gastric Cancer Patients.",
+        "summary": "CD8+ T cell infiltration predicts better survival in some gastric cancer subtypes, but low infiltration indicates chemotherapy benefit in others.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41863069/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -833,20 +847,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-21"
-      },
-      {
-        "id": "recaScSb7gdixdGDS",
-        "title": "Chemoradiation Reprograms Tumor Cells and the Immune Microenvironment in Cervical Cancer.",
-        "summary": "Combining MDM2 inhibitor with chemoradiation improves treatment response in cervical cancer by reshaping immune cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41860764/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-21"
       }
     ]
   },
@@ -856,10 +856,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12189,
+    "archive_count": 12190,
     "archive_supplements": 1416,
     "archive_off_label": 475,
-    "archive_biomarkers": 7315,
+    "archive_biomarkers": 7316,
     "archive_trials": 2686
   }
 }
