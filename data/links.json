@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-22T04:02:33.506Z",
+  "last_updated": "2026-03-22T04:02:49.765Z",
   "categories": {
     "supplements": [
       {
@@ -497,6 +497,34 @@
         "added_date": "2026-03-22"
       },
       {
+        "id": "recSM33nKOcQtHH9Y",
+        "title": "Clinical characteristics of autoimmune GFAP astrocytopathy with concomitant Epstein-Barr virus positivity: a case series of 12 patients and literature review.",
+        "summary": "Researchers identified a rare brain disorder where autoimmune inflammation and Epstein-Barr virus infection occur together, expanding understanding of this condition.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41862703/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-22"
+      },
+      {
+        "id": "rec3ISoHZjRbD2yd1",
+        "title": "Oncogenic GPRIN1 sustains proliferation and mitochondrial homeostasis via dual‑layer CDK1-PI3K/Akt signalling in gallbladder cancer.",
+        "summary": "GPRIN1 drives gallbladder cancer growth by controlling cell cycle and mitochondrial health through a dual regulatory pathway, offering a potential treatment target.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41862463/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Bladder"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-22"
+      },
+      {
         "id": "rec2eLkZZoVo9tqQh",
         "title": "Rabdosin B suppresses proliferation of nonsmall cell lung cancer by regulating the SRC/PI3K/AKT signaling pathway.",
         "summary": "Rabdosin B, a compound from a Chinese herb, stops lung cancer cell growth by blocking a specific cellular signaling pathway.",
@@ -601,34 +629,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41861185/",
         "source": "PubMed",
         "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-21"
-      },
-      {
-        "id": "recK5soHibaBD30DQ",
-        "title": "Genetic evidence for a causal protective effect of GLP-1 receptor agonists on paralytic ileus but not on other gastrointestinal events.",
-        "summary": "GLP-1 receptor agonists genetically reduce paralytic ileus risk but show no causal link to other gastrointestinal disorders.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41861181/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-21"
-      },
-      {
-        "id": "recNmRI7fQTnA4VSl",
-        "title": "Beneficial subgroups for PD-1 inhibitor plus chemotherapy in first-line treatment of advanced esophageal squamous cell carcinoma: A systematic review and meta-analysis.",
-        "summary": "PD-1 inhibitors combined with chemotherapy improve survival in advanced esophageal squamous cell carcinoma, particularly in high PD-1-expressing tumors.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41861173/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
@@ -856,10 +856,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12188,
+    "archive_count": 12189,
     "archive_supplements": 1416,
     "archive_off_label": 475,
     "archive_biomarkers": 7315,
-    "archive_trials": 2685
+    "archive_trials": 2686
   }
 }
