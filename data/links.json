@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-22T04:04:48.394Z",
+  "last_updated": "2026-03-22T04:04:58.890Z",
   "categories": {
     "supplements": [
       {
@@ -751,6 +751,20 @@
         "added_date": "2026-03-22"
       },
       {
+        "id": "recaEPnwBwCNTkTWg",
+        "title": "Real-world clinical utility of tumor whole-genome sequencing in solid cancers.",
+        "summary": "Whole-genome sequencing identified actionable treatment biomarkers in 73% of solid cancer patients, with biomarker-guided therapy extending survival by 96 days.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41862707/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-22"
+      },
+      {
         "id": "recaXPmlSxfH4V6sS",
         "title": "CALYPSO: Final Results of Savolitinib and Durvalumab Combination in Metastatic Papillary Renal Cancer.",
         "summary": "A drug combination of savolitinib and durvalumab showed promising results in treating metastatic papillary kidney cancer.",
@@ -833,20 +847,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-21"
-      },
-      {
-        "id": "rec6NC90FJWZ8aetC",
-        "title": "TLR9-activating cholesterol azetidine derivative-assisted therapeutic vaccines for cancer immunotherapy.",
-        "summary": "A new nanovaccine using cholesterol compounds activates immune cells to fight melanoma and HPV tumors, especially when combined with immunotherapy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41861020/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Melanoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-21"
       }
     ]
   },
@@ -856,10 +856,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12200,
+    "archive_count": 12201,
     "archive_supplements": 1416,
     "archive_off_label": 475,
     "archive_biomarkers": 7324,
-    "archive_trials": 2688
+    "archive_trials": 2689
   }
 }
