@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-22T06:04:18.685Z",
+  "last_updated": "2026-03-22T08:02:03.808Z",
   "categories": {
     "supplements": [
       {
@@ -229,6 +229,20 @@
         "added_date": "2026-03-22"
       },
       {
+        "id": "recMOWF0XIZkbJp4I",
+        "title": "Clomiphene citrate in the management of anovulation: a review of mechanisms, outcomes, and clinical challenges.",
+        "summary": "Clomiphene citrate effectively treats anovulation by stimulating ovulation, though treatment success varies based on individual factors and has notable limitations.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41863134/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-22"
+      },
+      {
         "id": "recKuiAA91VMp1hT3",
         "title": "Enhanced antitumor activity of atorvastatin and luteolin, with or without doxorubicin, in a solid Ehrlich carcinoma mouse model: modulation of ABC transporters, telomerase, and cancer stem cells.",
         "summary": "Atorvastatin and luteolin combination therapy effectively reduced solid Ehrlich carcinoma tumors by targeting chemoresistance mechanisms.",
@@ -405,20 +419,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Prostate"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-21"
-      },
-      {
-        "id": "recVzFhViMXu0qAVw",
-        "title": "Downregulation of TDP43 by atovaquone inhibits oxidative phosphorylation and enhances sensitivity of triple-negative breast cancer to EGFR-TKIs.",
-        "summary": "Drug atovaquone inhibits a protein called TDP43, reducing energy production in triple-negative breast cancer cells and improving their response to EGFR inhibitors.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41862009/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -856,9 +856,9 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12248,
+    "archive_count": 12249,
     "archive_supplements": 1419,
-    "archive_off_label": 475,
+    "archive_off_label": 476,
     "archive_biomarkers": 7360,
     "archive_trials": 2697
   }
