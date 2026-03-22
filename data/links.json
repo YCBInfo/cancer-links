@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-22T04:13:24.329Z",
+  "last_updated": "2026-03-22T06:02:12.749Z",
   "categories": {
     "supplements": [
       {
@@ -11,6 +11,34 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-22"
+      },
+      {
+        "id": "rec86pj1uCBo6uUvA",
+        "title": "N-acetylcysteine nano-spray versus conventional treatment in the management of radiotherapy-induced oral mucositis in oral cancer patients: a randomized clinical trial.",
+        "summary": "N-acetylcysteine nano-spray reduced radiation-induced mouth sores better than standard treatment in oral cancer patients undergoing radiotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41862922/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-22"
+      },
+      {
+        "id": "rec5pHdnwvcFZt7Ky",
+        "title": "Combination of Tripterygium glycosides and Lactobacillus paracasei sensitises epithelial ovarian cancer to cisplatin via downregulating Keap1-Nrf2-GPX4 signalling pathway.",
+        "summary": "A plant extract combined with beneficial bacteria makes ovarian cancer more responsive to cisplatin chemotherapy treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41862794/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Ovarian"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -181,34 +209,6 @@
           "Lung"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-21"
-      },
-      {
-        "id": "rectSttwI9HmfUoGq",
-        "title": "Andrographis exerts antitumor effects and enhances 5‑FU efficacy via the alteration of ferroptosis‑related genes in esophageal squamous cell carcinoma.",
-        "summary": "Andrographis, a plant compound, kills esophageal cancer cells and boosts 5-FU chemotherapy effectiveness by triggering cell death pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41860050/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-21"
-      },
-      {
-        "id": "recGugnTIB3df3j8x",
-        "title": "Precision modulation of the gut microbiota-immune axis by natural products: a structure-activity relationship perspective in cancer immunotherapy.",
-        "summary": "Natural products can overcome gut bacteria imbalances that block cancer immunotherapy by restructuring beneficial microbes and boosting immune response.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41860786/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-21"
       }
@@ -856,8 +856,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12240,
-    "archive_supplements": 1417,
+    "archive_count": 12241,
+    "archive_supplements": 1418,
     "archive_off_label": 475,
     "archive_biomarkers": 7356,
     "archive_trials": 2695
