@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-22T04:03:10.358Z",
+  "last_updated": "2026-03-22T04:03:21.419Z",
   "categories": {
     "supplements": [
       {
@@ -553,6 +553,20 @@
         "added_date": "2026-03-22"
       },
       {
+        "id": "recUZNXf44FGTvuWL",
+        "title": "Novel genomic risk stratification model for primary high-grade malignant peripheral nerve sheath tumor (MPNST).",
+        "summary": "Researchers developed a genomic risk model for nerve sheath tumors that predicts survival better than traditional clinical factors alone.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41863012/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-22"
+      },
+      {
         "id": "rec2eLkZZoVo9tqQh",
         "title": "Rabdosin B suppresses proliferation of nonsmall cell lung cancer by regulating the SRC/PI3K/AKT signaling pathway.",
         "summary": "Rabdosin B, a compound from a Chinese herb, stops lung cancer cell growth by blocking a specific cellular signaling pathway.",
@@ -617,20 +631,6 @@
         "category": "Clinical Trials",
         "cancer_types": [
           "Kidney"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-21"
-      },
-      {
-        "id": "rec3VKnHlNk26c5Dx",
-        "title": "Preoperative gastric cancer immune prognostic score (GCIPS) as a novel biomarker for predicting survival in gastric cancer patients after radical resection: A retrospective cohort study.",
-        "summary": "A blood-based immune score predicts survival outcomes in gastric cancer patients after surgery, enabling better risk stratification.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41861233/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Stomach"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -856,10 +856,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12191,
+    "archive_count": 12192,
     "archive_supplements": 1416,
     "archive_off_label": 475,
-    "archive_biomarkers": 7317,
+    "archive_biomarkers": 7318,
     "archive_trials": 2686
   }
 }
