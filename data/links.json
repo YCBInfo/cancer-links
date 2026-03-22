@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-03-22T04:08:34.279Z",
+  "last_updated": "2026-03-22T04:09:48.306Z",
   "categories": {
     "supplements": [
+      {
+        "id": "recWvYSWFSxKG9Y9j",
+        "title": "BCL-2 Mediated Apoptotic Pathway as Promising Target for Bio- Synthesized Silver Nanoparticles: A Review Article.",
+        "summary": "Bio-synthesized silver nanoparticles trigger cancer cell death by activating the BCL-2 apoptotic pathway across multiple cancer types.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41863166/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-22"
+      },
       {
         "id": "rec2eLkZZoVo9tqQh",
         "title": "Rabdosin B suppresses proliferation of nonsmall cell lung cancer by regulating the SRC/PI3K/AKT signaling pathway.",
@@ -197,23 +211,23 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-21"
-      },
+      }
+    ],
+    "off_label": [
       {
-        "id": "recZLqzYFNJrL96xc",
-        "title": "Anticancer properties of Artemisia species: mechanisms and experimental evidence.",
-        "summary": "Artemisia plant compounds show promise against multiple cancer types by triggering cell death and stopping cell growth in studies.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41860671/",
+        "id": "recK9y8oDl3uGIxEJ",
+        "title": "From Biomarker to Drug Target: Integrating ceRNA Networks and Pharmacogenomics to Reposition C5orf34 in Uterine Corpus Endometrial Cancer Therapy.",
+        "summary": "Researchers identified C5orf34 as a potential new drug target for uterine cancer that could improve patient outcomes and treatment options.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41863161/",
         "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
+        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
         "quality_score": 12,
         "pub_date": "2026-03-01",
-        "added_date": "2026-03-21"
-      }
-    ],
-    "off_label": [
+        "added_date": "2026-03-22"
+      },
       {
         "id": "recKuiAA91VMp1hT3",
         "title": "Enhanced antitumor activity of atorvastatin and luteolin, with or without doxorubicin, in a solid Ehrlich carcinoma mouse model: modulation of ABC transporters, telomerase, and cancer stem cells.",
@@ -409,20 +423,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-21"
-      },
-      {
-        "id": "rec0WSBMYO4pYtBNk",
-        "title": "Immunometabolism in lung cancer - The link between metabolism and immune response.",
-        "summary": "Lung cancer tumors reprogram their metabolism to suppress immune responses, offering new therapeutic targets to restore anti-tumor immunity.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41797927/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-20"
       }
     ],
     "biomarkers": [
@@ -835,18 +835,18 @@
         "added_date": "2026-03-22"
       },
       {
-        "id": "recaXPmlSxfH4V6sS",
-        "title": "CALYPSO: Final Results of Savolitinib and Durvalumab Combination in Metastatic Papillary Renal Cancer.",
-        "summary": "A drug combination of savolitinib and durvalumab showed promising results in treating metastatic papillary kidney cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41861260/",
+        "id": "recV0ueN260AoAji8",
+        "title": "Outcomes of the first national oral cancer screening programme in Taiwan, 2004-2022: a population-based study.",
+        "summary": "Taiwan's national oral cancer screening program reduced late-stage cases and deaths among screened populations from 2004-2022.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40592562/",
         "source": "PubMed",
-        "category": "Clinical Trials",
+        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
-          "Kidney"
+          "General"
         ],
-        "quality_score": 15,
+        "quality_score": 12,
         "pub_date": "2026-03-01",
-        "added_date": "2026-03-21"
+        "added_date": "2026-03-22"
       }
     ]
   },
@@ -856,10 +856,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12220,
+    "archive_count": 12221,
     "archive_supplements": 1416,
     "archive_off_label": 475,
-    "archive_biomarkers": 7338,
+    "archive_biomarkers": 7339,
     "archive_trials": 2694
   }
 }
