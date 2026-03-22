@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-22T04:04:58.890Z",
+  "last_updated": "2026-03-22T04:05:09.646Z",
   "categories": {
     "supplements": [
       {
@@ -765,6 +765,20 @@
         "added_date": "2026-03-22"
       },
       {
+        "id": "recA7cHS8sDx4DsQB",
+        "title": "Neoadjuvant immunochemoradiotherapy with nivolumab, paclitaxel, and cisplatin followed by esophagectomy for locally advanced esophageal squamous cell carcinoma.",
+        "summary": "A combination of immunotherapy, chemotherapy, and radiation before surgery shows promise for treating advanced esophageal cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41862680/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-22"
+      },
+      {
         "id": "recaXPmlSxfH4V6sS",
         "title": "CALYPSO: Final Results of Savolitinib and Durvalumab Combination in Metastatic Papillary Renal Cancer.",
         "summary": "A drug combination of savolitinib and durvalumab showed promising results in treating metastatic papillary kidney cancer.",
@@ -833,20 +847,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-21"
-      },
-      {
-        "id": "rec4Dqx0kxOEwjrYK",
-        "title": "Association between antibiotic exposure and the risk of checkpoint inhibitor pneumonitis in lung cancer patients.",
-        "summary": "Antibiotic use may increase the risk of serious lung inflammation in lung cancer patients receiving immunotherapy drugs.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41861081/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-21"
       }
     ]
   },
@@ -856,10 +856,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12201,
+    "archive_count": 12202,
     "archive_supplements": 1416,
     "archive_off_label": 475,
     "archive_biomarkers": 7324,
-    "archive_trials": 2689
+    "archive_trials": 2690
   }
 }
