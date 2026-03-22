@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-22T04:07:17.712Z",
+  "last_updated": "2026-03-22T04:07:30.814Z",
   "categories": {
     "supplements": [
       {
@@ -821,6 +821,20 @@
         "added_date": "2026-03-22"
       },
       {
+        "id": "recNbxb0sq7OgLYjN",
+        "title": "Fixed-Duration Subcutaneous Mosunetuzumab in Relapsed/Refractory Follicular Lymphoma: Pivotal Phase 2 Primary Analysis.",
+        "summary": "Subcutaneous mosunetuzumab injection works as well as IV infusion for relapsed follicular lymphoma, with faster administration and fewer side effects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41862428/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Lymphoma"
+        ],
+        "quality_score": 21,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-22"
+      },
+      {
         "id": "recaXPmlSxfH4V6sS",
         "title": "CALYPSO: Final Results of Savolitinib and Durvalumab Combination in Metastatic Papillary Renal Cancer.",
         "summary": "A drug combination of savolitinib and durvalumab showed promising results in treating metastatic papillary kidney cancer.",
@@ -829,20 +843,6 @@
         "category": "Clinical Trials",
         "cancer_types": [
           "Kidney"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-21"
-      },
-      {
-        "id": "rec3VKnHlNk26c5Dx",
-        "title": "Preoperative gastric cancer immune prognostic score (GCIPS) as a novel biomarker for predicting survival in gastric cancer patients after radical resection: A retrospective cohort study.",
-        "summary": "A blood-based immune score predicts survival outcomes in gastric cancer patients after surgery, enabling better risk stratification.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41861233/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Stomach"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -856,10 +856,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12213,
+    "archive_count": 12214,
     "archive_supplements": 1416,
     "archive_off_label": 475,
-    "archive_biomarkers": 7333,
+    "archive_biomarkers": 7334,
     "archive_trials": 2692
   }
 }
