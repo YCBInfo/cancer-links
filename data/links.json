@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-23T04:04:31.828Z",
+  "last_updated": "2026-03-23T04:04:41.646Z",
   "categories": {
     "supplements": [
       {
@@ -709,6 +709,20 @@
         "added_date": "2026-03-23"
       },
       {
+        "id": "reclrUkFnCs55ZQuq",
+        "title": "Pretreatment volume-based 18F-FDG PET/CT parameters as prognostic indicators in malignant peritoneal mesothelioma patients.",
+        "summary": "A PET scan measurement taken before treatment predicts survival outcomes in patients with peritoneal mesothelioma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41863665/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-23"
+      },
+      {
         "id": "recCF3z7Twd9km4gA",
         "title": "Endobronchial Ultrasound-guided Transbronchial Needle Aspiration Detection of PET-CT Negative Contralateral Hilar Lymph Node Metastasis in the Staging of Non-small cell Lung Cancer.",
         "summary": "A minimally invasive ultrasound procedure successfully detected lung cancer spread to lymph nodes that standard imaging missed.",
@@ -833,20 +847,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-22"
-      },
-      {
-        "id": "recA7cHS8sDx4DsQB",
-        "title": "Neoadjuvant immunochemoradiotherapy with nivolumab, paclitaxel, and cisplatin followed by esophagectomy for locally advanced esophageal squamous cell carcinoma.",
-        "summary": "A combination of immunotherapy, chemotherapy, and radiation before surgery shows promise for treating advanced esophageal cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41862680/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-22"
       }
     ]
   },
@@ -856,10 +856,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12264,
+    "archive_count": 12265,
     "archive_supplements": 1419,
     "archive_off_label": 476,
-    "archive_biomarkers": 7373,
+    "archive_biomarkers": 7374,
     "archive_trials": 2699
   }
 }
