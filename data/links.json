@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-23T06:06:59.205Z",
+  "last_updated": "2026-03-23T06:07:08.189Z",
   "categories": {
     "supplements": [
       {
@@ -129,6 +129,20 @@
         "added_date": "2026-03-23"
       },
       {
+        "id": "recpAnNM1FW1jl9Ei",
+        "title": "Copper deprivation reprograms antioxidant defense to suppress ferroptosis via SLC7A11.",
+        "summary": "Copper deprivation protects cells from ferroptosis by activating a pathway that strengthens antioxidant defenses, potentially enabling cancer resistance.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41864191/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-23"
+      },
+      {
         "id": "recWvYSWFSxKG9Y9j",
         "title": "BCL-2 Mediated Apoptotic Pathway as Promising Target for Bio- Synthesized Silver Nanoparticles: A Review Article.",
         "summary": "Bio-synthesized silver nanoparticles trigger cancer cell death by activating the BCL-2 apoptotic pathway across multiple cancer types.",
@@ -193,20 +207,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-21"
-      },
-      {
-        "id": "recO3gfG2NYJbs62Z",
-        "title": "Mechanistic insights into the roles of astragalosides and Astragalus polysaccharides in gynecological and breast cancers (Review).",
-        "summary": "Astragalus compounds show promise as adjuvant therapy for breast, ovarian, and cervical cancers by suppressing tumor growth and enhancing immune response.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41860034/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -856,10 +856,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12327,
+    "archive_count": 12328,
     "archive_supplements": 1426,
     "archive_off_label": 476,
-    "archive_biomarkers": 7420,
+    "archive_biomarkers": 7421,
     "archive_trials": 2708
   }
 }
