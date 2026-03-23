@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-23T04:08:37.942Z",
+  "last_updated": "2026-03-23T04:08:47.910Z",
   "categories": {
     "supplements": [
       {
@@ -779,6 +779,20 @@
         "added_date": "2026-03-23"
       },
       {
+        "id": "rec7ktfIMOJaDhm6h",
+        "title": "Advancing adoptive cellular immunotherapy via Notch-based ex vivo T cell development platforms.",
+        "summary": "Notch signaling platforms enable lab production of therapeutic T cells from stem cells, allowing off-the-shelf cancer immunotherapy treatments.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41864171/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-23"
+      },
+      {
         "id": "recCF3z7Twd9km4gA",
         "title": "Endobronchial Ultrasound-guided Transbronchial Needle Aspiration Detection of PET-CT Negative Contralateral Hilar Lymph Node Metastasis in the Staging of Non-small cell Lung Cancer.",
         "summary": "A minimally invasive ultrasound procedure successfully detected lung cancer spread to lymph nodes that standard imaging missed.",
@@ -833,20 +847,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-22"
-      },
-      {
-        "id": "recc07FPGXooe7YrQ",
-        "title": "Coronavirus disease 2019 infection reduces EGFR-TKI efficacy in non-small cell lung carcinoma: Real-world evidence from a multicenter propensity-matched cohort.",
-        "summary": "COVID-19 infection significantly reduces the effectiveness of EGFR-targeted drugs in advanced lung cancer patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41863042/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-22"
       }
     ]
   },
@@ -856,10 +856,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12287,
+    "archive_count": 12288,
     "archive_supplements": 1421,
     "archive_off_label": 476,
-    "archive_biomarkers": 7392,
+    "archive_biomarkers": 7393,
     "archive_trials": 2701
   }
 }
