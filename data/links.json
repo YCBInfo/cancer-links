@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-23T06:04:57.978Z",
+  "last_updated": "2026-03-23T06:05:08.862Z",
   "categories": {
     "supplements": [
       {
@@ -81,6 +81,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-23"
+      },
+      {
+        "id": "recHo2sPWgKICmGAs",
+        "title": "A decoction-inspired genetic algorithm and PPO reinforcement learning for intelligent molecular discovery: Anti-colorectal cancer candidates from the tiao-pi AnChang formula.",
+        "summary": "Researchers used artificial intelligence to identify anti-cancer compounds from a traditional Chinese herbal formula effective against colorectal cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41864092/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -195,20 +209,6 @@
           "Lung"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-21"
-      },
-      {
-        "id": "recKuiAA91VMp1hT3",
-        "title": "Enhanced antitumor activity of atorvastatin and luteolin, with or without doxorubicin, in a solid Ehrlich carcinoma mouse model: modulation of ABC transporters, telomerase, and cancer stem cells.",
-        "summary": "Atorvastatin and luteolin combination therapy effectively reduced solid Ehrlich carcinoma tumors by targeting chemoresistance mechanisms.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41860710/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-21"
       }
@@ -856,10 +856,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12318,
+    "archive_count": 12319,
     "archive_supplements": 1425,
     "archive_off_label": 476,
-    "archive_biomarkers": 7413,
+    "archive_biomarkers": 7414,
     "archive_trials": 2707
   }
 }
