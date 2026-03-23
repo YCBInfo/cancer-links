@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-23T04:12:28.803Z",
+  "last_updated": "2026-03-23T06:02:15.366Z",
   "categories": {
     "supplements": [
       {
@@ -27,6 +27,48 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-23"
+      },
+      {
+        "id": "recGfIfJCeZSyQrdf",
+        "title": "Effects of Avocado (Persea americana) Fruit and Byproducts on Molecular Pathways Related to Oxi-inflammation: A Systematic Review of Randomized Clinical Trials.",
+        "summary": "Avocado and its byproducts may reduce inflammation and oxidative stress, potentially helping prevent chronic diseases like diabetes and heart disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41865277/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-23"
+      },
+      {
+        "id": "recEmvJOvGbHBm4Ip",
+        "title": "Quercetin and nanoquercetin mitigate high fat diet-induced obesity via lipid modulation, genomic DNA integrity restoration, adipokine regulation, and hepato-pancreatic tissue preservation.",
+        "summary": "Quercetin and nanoquercetin reduce obesity and restore metabolic health by improving lipid profiles, protecting DNA, and preserving liver and pancreas tissue.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41865024/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-23"
+      },
+      {
+        "id": "recXxGyE41rjaFKKL",
+        "title": "PRAS40 activates the IRE1α-XBP-1-mediated unfolded protein response to exacerbate colorectal cancer by enhancing ST6Gal1-dependent α-2, 6 sialylation of GRP78.",
+        "summary": "PRAS40 protein drives colorectal cancer growth by activating a stress response pathway; blocking ST6Gal1 may slow tumors.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41865639/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-23"
       },
@@ -167,48 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-21"
-      },
-      {
-        "id": "recYLvutqi3f1fwu6",
-        "title": "Trigonelline suppresses the tumor progression via STAT2 signalling pathway in non-Small cell lung carcinoma.",
-        "summary": "Trigonelline, a natural compound, kills lung cancer cells by blocking growth and triggering cell death through the STAT2 pathway.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41860653/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-21"
-      },
-      {
-        "id": "recmFhziEkTDwu53K",
-        "title": "Effectiveness of exercise interventions in patients with colorectal cancer during adjuvant chemotherapy: a systematic review and meta-analysis.",
-        "summary": "Exercise during chemotherapy helps colorectal cancer patients maintain physical function and quality of life better than standard care alone.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41860634/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 32,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-21"
-      },
-      {
-        "id": "recEohVQNDdlMzVfI",
-        "title": "Pedunculoside Inhibits Hepatocellular Carcinoma Progression by Activating the MAPK Signaling Pathway Through Targeting and Suppressing CDK4.",
-        "summary": "Pedunculoside, a natural compound, slows liver cancer by blocking CDK4 protein, stopping cancer cell growth and triggering cell death.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41858177/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Liver"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-21"
       }
@@ -856,10 +856,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12302,
+    "archive_count": 12303,
     "archive_supplements": 1421,
     "archive_off_label": 476,
     "archive_biomarkers": 7405,
-    "archive_trials": 2703
+    "archive_trials": 2704
   }
 }
