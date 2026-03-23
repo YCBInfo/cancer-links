@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-23T06:06:29.267Z",
+  "last_updated": "2026-03-23T06:06:47.614Z",
   "categories": {
     "supplements": [
       {
@@ -101,6 +101,34 @@
         "added_date": "2026-03-23"
       },
       {
+        "id": "recMrjRisBq57klUb",
+        "title": "Red ginseng polysaccharide targets the PI3K/AKT/mTOR pathway to induce mitochondrial apoptosis in bladder cancer.",
+        "summary": "Red ginseng polysaccharide kills bladder cancer cells by triggering a specific cellular pathway that causes mitochondrial cell death.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41864385/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Bladder"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-23"
+      },
+      {
+        "id": "recfChzVSnncuzWeC",
+        "title": "Morphologically adaptive microconical hydrogels of gelatin/polyvinyl alcohol with curcumin for diabetic wound repair.",
+        "summary": "Researchers developed an adaptive gel dressing with curcumin that conforms to wound surfaces, significantly speeding diabetic wound healing through multiple biological mechanisms.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41864381/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-23"
+      },
+      {
         "id": "recWvYSWFSxKG9Y9j",
         "title": "BCL-2 Mediated Apoptotic Pathway as Promising Target for Bio- Synthesized Silver Nanoparticles: A Review Article.",
         "summary": "Bio-synthesized silver nanoparticles trigger cancer cell death by activating the BCL-2 apoptotic pathway across multiple cancer types.",
@@ -179,34 +207,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-21"
-      },
-      {
-        "id": "recDVx3eaGQJQTGU2",
-        "title": "Lifelong vitamin B12 monitoring after gastrectomy: A case report of subacute combined degeneration with 8-year latency in an alcoholic.",
-        "summary": "Doctors should monitor vitamin B12 levels for life after stomach removal surgery, especially in patients who drink alcohol heavily.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41861204/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-21"
-      },
-      {
-        "id": "recJzTaKKjvWg2vMs",
-        "title": "Integrative network pharmacology and in vitro validation reveal the mechanisms by which Apigenin reverses MET-TKI resistance in non-small cell lung cancer.",
-        "summary": "Apigenin helps overcome drug resistance in lung cancer by reversing resistance to MET-targeted therapies.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41860742/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -856,10 +856,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12325,
+    "archive_count": 12326,
     "archive_supplements": 1426,
     "archive_off_label": 476,
-    "archive_biomarkers": 7418,
+    "archive_biomarkers": 7419,
     "archive_trials": 2708
   }
 }
