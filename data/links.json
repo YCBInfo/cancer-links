@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-23T06:07:51.038Z",
+  "last_updated": "2026-03-23T06:08:01.482Z",
   "categories": {
     "supplements": [
       {
@@ -143,6 +143,20 @@
         "added_date": "2026-03-23"
       },
       {
+        "id": "recBgeA3rKijFbqyN",
+        "title": "The double-edged sword of pyroptosis targeting in cancer therapy.",
+        "summary": "Pyroptosis shows promise in killing cancer cells and boosting immunity, but risks include toxicity and cancer cells' ability to evade this cell death mechanism.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41865598/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-23"
+      },
+      {
         "id": "recWvYSWFSxKG9Y9j",
         "title": "BCL-2 Mediated Apoptotic Pathway as Promising Target for Bio- Synthesized Silver Nanoparticles: A Review Article.",
         "summary": "Bio-synthesized silver nanoparticles trigger cancer cell death by activating the BCL-2 apoptotic pathway across multiple cancer types.",
@@ -193,20 +207,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-21"
-      },
-      {
-        "id": "recQ0qQT9ITZgkDQ7",
-        "title": "Low, plasma level‑informed native curcumin concentrations fail to induce cell death in human lung and colorectal cancer cells.",
-        "summary": "Curcumin from turmeric at realistic blood levels fails to kill lung and colorectal cancer cells in laboratory tests.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41858052/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -856,10 +856,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12332,
+    "archive_count": 12333,
     "archive_supplements": 1428,
     "archive_off_label": 476,
-    "archive_biomarkers": 7423,
+    "archive_biomarkers": 7424,
     "archive_trials": 2708
   }
 }
