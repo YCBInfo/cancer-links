@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-23T04:03:26.947Z",
+  "last_updated": "2026-03-23T04:03:37.899Z",
   "categories": {
     "supplements": [
       {
@@ -581,6 +581,20 @@
         "added_date": "2026-03-23"
       },
       {
+        "id": "rec0XAG2yMKNWH8oc",
+        "title": "State-of-the-art and future developments in dosimetry for sstr- and PSMA-targeting radioligand therapies.",
+        "summary": "Personalized dosimetry could optimize radioligand therapy for prostate cancer and neuroendocrine tumors, but clinical adoption faces standardization and logistical barriers.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41864828/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-23"
+      },
+      {
         "id": "recCF3z7Twd9km4gA",
         "title": "Endobronchial Ultrasound-guided Transbronchial Needle Aspiration Detection of PET-CT Negative Contralateral Hilar Lymph Node Metastasis in the Staging of Non-small cell Lung Cancer.",
         "summary": "A minimally invasive ultrasound procedure successfully detected lung cancer spread to lymph nodes that standard imaging missed.",
@@ -621,20 +635,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-22"
-      },
-      {
-        "id": "rec3oPWDt1xiR5PTK",
-        "title": "The Wnt receptor Frizzled3 (FZD3) drives aggressive phenotypes in small cell lung cancer.",
-        "summary": "A protein called Frizzled3 drives aggressive growth in small cell lung cancer, suggesting a potential new treatment target.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41862898/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-22"
       }
     ],
     "trials": [
@@ -661,6 +661,20 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Ovarian"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-23"
+      },
+      {
+        "id": "rec0XAG2yMKNWH8oc",
+        "title": "State-of-the-art and future developments in dosimetry for sstr- and PSMA-targeting radioligand therapies.",
+        "summary": "Personalized dosimetry could optimize radioligand therapy for prostate cancer and neuroendocrine tumors, but clinical adoption faces standardization and logistical barriers.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41864828/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Prostate"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -833,20 +847,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-22"
-      },
-      {
-        "id": "recq5bY0ADRo9Hpc1",
-        "title": "Efficacy of stem cell boost (SCB) for chimeric antigen receptor-T cell therapy (CAR-T)-related hematologic toxicity in patients with relapsed/refractory multiple myeloma (RRMM)-real world experience from the US multiple myeloma immunotherapy consortium.",
-        "summary": "Stem cell boost rapidly restores blood cell counts in multiple myeloma patients experiencing severe side effects from CAR-T cell therapy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41862439/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-22"
       }
     ]
   },
@@ -856,10 +856,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12258,
+    "archive_count": 12259,
     "archive_supplements": 1419,
     "archive_off_label": 476,
-    "archive_biomarkers": 7367,
+    "archive_biomarkers": 7368,
     "archive_trials": 2699
   }
 }
