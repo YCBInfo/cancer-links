@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-23T04:04:10.535Z",
+  "last_updated": "2026-03-23T04:04:20.300Z",
   "categories": {
     "supplements": [
       {
@@ -695,6 +695,20 @@
         "added_date": "2026-03-23"
       },
       {
+        "id": "reckkC2gQYSOyaVgC",
+        "title": "Limited reliability of H3K27M detection using a commercially available blood-based comprehensive genomic profiling test in patients with diffuse midline gliomas: analysis of the nationwide C-CAT database in Japan.",
+        "summary": "A blood test for diffuse midline glioma's H3K27M mutation shows limited reliability in detecting this key cancer marker.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41863693/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-23"
+      },
+      {
         "id": "recCF3z7Twd9km4gA",
         "title": "Endobronchial Ultrasound-guided Transbronchial Needle Aspiration Detection of PET-CT Negative Contralateral Hilar Lymph Node Metastasis in the Staging of Non-small cell Lung Cancer.",
         "summary": "A minimally invasive ultrasound procedure successfully detected lung cancer spread to lymph nodes that standard imaging missed.",
@@ -833,20 +847,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-22"
-      },
-      {
-        "id": "recRRuFFpDZ8txH85",
-        "title": "Dalpiciclib plus chidamide in HR + /HER2-advanced breast cancer after CDK4/6 inhibitor failure: a phase Ib trial.",
-        "summary": "Dalpiciclib plus chidamide shows manageable safety and preliminary antitumor activity in hormone receptor-positive breast cancer resistant to prior CDK4/6 inhibitors.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41862468/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-22"
       }
     ]
   },
@@ -856,10 +856,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12262,
+    "archive_count": 12263,
     "archive_supplements": 1419,
     "archive_off_label": 476,
-    "archive_biomarkers": 7371,
+    "archive_biomarkers": 7372,
     "archive_trials": 2699
   }
 }
