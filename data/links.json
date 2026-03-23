@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-23T04:06:28.462Z",
+  "last_updated": "2026-03-23T04:06:40.609Z",
   "categories": {
     "supplements": [
       {
@@ -215,6 +215,20 @@
     ],
     "off_label": [
       {
+        "id": "recgX5z58SBnYbRYe",
+        "title": "The 1p/19q co-deletion induces targetable and imageable vulnerabilities in glucose metabolism in oligodendrogliomas.",
+        "summary": "A genetic change in oligodendrogliomas creates a weakness in how cancer cells use glucose, offering new treatment and detection opportunities.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41863390/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-23"
+      },
+      {
         "id": "recK9y8oDl3uGIxEJ",
         "title": "From Biomarker to Drug Target: Integrating ceRNA Networks and Pharmacogenomics to Reposition C5orf34 in Uterine Corpus Endometrial Cancer Therapy.",
         "summary": "Researchers identified C5orf34 as a potential new drug target for uterine cancer that could improve patient outcomes and treatment options.",
@@ -407,20 +421,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-21"
-      },
-      {
-        "id": "reciroYpu7qfYvJ5E",
-        "title": "Enzalutamide Plus Metformin Versus Enzalutamide Alone in Metastatic Castration-resistant Prostate Cancer: A Randomized Phase 2 Trial (SAKK 08/14).",
-        "summary": "Adding metformin to enzalutamide improves outcomes in men with metastatic castration-resistant prostate cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41862335/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Prostate"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-21"
       }
@@ -856,10 +856,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12275,
+    "archive_count": 12276,
     "archive_supplements": 1421,
     "archive_off_label": 476,
-    "archive_biomarkers": 7382,
+    "archive_biomarkers": 7383,
     "archive_trials": 2699
   }
 }
