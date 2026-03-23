@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-23T04:05:56.880Z",
+  "last_updated": "2026-03-23T04:06:06.688Z",
   "categories": {
     "supplements": [
       {
@@ -737,6 +737,20 @@
         "added_date": "2026-03-23"
       },
       {
+        "id": "rec1w8ahKK3uz54y6",
+        "title": "ACR Appropriateness Criteria® Staging and Follow-Up of Adrenal Cancer.",
+        "summary": "MRI, CT, and PET scans are recommended to detect and monitor adrenal gland cancers and assess for spread or recurrence.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41863523/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Kidney"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-23"
+      },
+      {
         "id": "recCF3z7Twd9km4gA",
         "title": "Endobronchial Ultrasound-guided Transbronchial Needle Aspiration Detection of PET-CT Negative Contralateral Hilar Lymph Node Metastasis in the Staging of Non-small cell Lung Cancer.",
         "summary": "A minimally invasive ultrasound procedure successfully detected lung cancer spread to lymph nodes that standard imaging missed.",
@@ -833,20 +847,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-22"
-      },
-      {
-        "id": "recBRYHCHV09jjLJs",
-        "title": "Real-World Outcomes of Sequential Afatinib and Osimertinib Versus Afatinib and Chemotherapy in EGFR-Mutant NSCLC: Taiwan Multicenter GIANT Study.",
-        "summary": "Sequential use of two targeted drugs works as well as combining a targeted drug with chemotherapy for EGFR-mutant lung cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41862776/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-22"
       }
     ]
   },
@@ -856,10 +856,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12272,
+    "archive_count": 12273,
     "archive_supplements": 1420,
     "archive_off_label": 476,
-    "archive_biomarkers": 7380,
+    "archive_biomarkers": 7381,
     "archive_trials": 2699
   }
 }
