@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-23T04:05:45.844Z",
+  "last_updated": "2026-03-23T04:05:56.880Z",
   "categories": {
     "supplements": [
       {
@@ -723,6 +723,20 @@
         "added_date": "2026-03-23"
       },
       {
+        "id": "recRxQO308rgI3FDK",
+        "title": "ACR Appropriateness Criteria® Penetrating Trauma-Abdomen and Pelvis: Update 2026.",
+        "summary": "CT imaging with contrast is the recommended approach for evaluating suspected penetrating urinary tract injuries to guide treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41863524/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-23"
+      },
+      {
         "id": "recCF3z7Twd9km4gA",
         "title": "Endobronchial Ultrasound-guided Transbronchial Needle Aspiration Detection of PET-CT Negative Contralateral Hilar Lymph Node Metastasis in the Staging of Non-small cell Lung Cancer.",
         "summary": "A minimally invasive ultrasound procedure successfully detected lung cancer spread to lymph nodes that standard imaging missed.",
@@ -833,20 +847,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-22"
-      },
-      {
-        "id": "recaEPnwBwCNTkTWg",
-        "title": "Real-world clinical utility of tumor whole-genome sequencing in solid cancers.",
-        "summary": "Whole-genome sequencing identified actionable treatment biomarkers in 73% of solid cancer patients, with biomarker-guided therapy extending survival by 96 days.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41862707/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-22"
       }
     ]
   },
@@ -856,10 +856,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12271,
+    "archive_count": 12272,
     "archive_supplements": 1420,
     "archive_off_label": 476,
-    "archive_biomarkers": 7379,
+    "archive_biomarkers": 7380,
     "archive_trials": 2699
   }
 }
