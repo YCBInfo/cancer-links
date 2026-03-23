@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-03-23T04:03:48.369Z",
+  "last_updated": "2026-03-23T04:03:59.167Z",
   "categories": {
     "supplements": [
+      {
+        "id": "recYXHuJUthWpgJDM",
+        "title": "Targeting the gut microbiota as treatment for obesity and cancer cachexia.",
+        "summary": "Modifying gut bacteria could treat both obesity and cancer cachexia by restoring normal metabolism and reducing inflammation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41863784/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-23"
+      },
       {
         "id": "recWvYSWFSxKG9Y9j",
         "title": "BCL-2 Mediated Apoptotic Pathway as Promising Target for Bio- Synthesized Silver Nanoparticles: A Review Article.",
@@ -193,20 +207,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-21"
-      },
-      {
-        "id": "recZw23J2nVhCbYSp",
-        "title": "Gracillin overcomes osimertinib resistance in NSCLC via dual inhibition of EGFR and Mcl-1.",
-        "summary": "Gracillin, a natural product, overcomes osimertinib resistance in lung cancer by targeting EGFR and destroying cancer-protecting Mcl-1 protein.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41857145/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -609,6 +609,20 @@
         "added_date": "2026-03-23"
       },
       {
+        "id": "recYXHuJUthWpgJDM",
+        "title": "Targeting the gut microbiota as treatment for obesity and cancer cachexia.",
+        "summary": "Modifying gut bacteria could treat both obesity and cancer cachexia by restoring normal metabolism and reducing inflammation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41863784/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-23"
+      },
+      {
         "id": "recCF3z7Twd9km4gA",
         "title": "Endobronchial Ultrasound-guided Transbronchial Needle Aspiration Detection of PET-CT Negative Contralateral Hilar Lymph Node Metastasis in the Staging of Non-small cell Lung Cancer.",
         "summary": "A minimally invasive ultrasound procedure successfully detected lung cancer spread to lymph nodes that standard imaging missed.",
@@ -617,20 +631,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-22"
-      },
-      {
-        "id": "recuUHAQXhdM9lLqM",
-        "title": "CCAAT-enhancer binding protein delta functions as a tumor suppressor gene in acute myeloid leukemia.",
-        "summary": "CEBPD protein acts as a tumor suppressor in acute myeloid leukemia, with its loss promoting cancer growth through increased signaling.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41844049/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -856,10 +856,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12260,
+    "archive_count": 12261,
     "archive_supplements": 1419,
     "archive_off_label": 476,
-    "archive_biomarkers": 7369,
+    "archive_biomarkers": 7370,
     "archive_trials": 2699
   }
 }
