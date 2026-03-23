@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-23T04:03:06.148Z",
+  "last_updated": "2026-03-23T04:03:15.746Z",
   "categories": {
     "supplements": [
       {
@@ -553,6 +553,20 @@
         "added_date": "2026-03-23"
       },
       {
+        "id": "recO0zW3WMnf1v1uV",
+        "title": "Lactylation stabilizes PD-L1 to promote tumor immune evasion and cell growth.",
+        "summary": "Lactate stabilizes PD-L1 protein in tumors, helping cancer evade immune attack and suggesting lactate reduction could improve immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41864972/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-23"
+      },
+      {
         "id": "recCF3z7Twd9km4gA",
         "title": "Endobronchial Ultrasound-guided Transbronchial Needle Aspiration Detection of PET-CT Negative Contralateral Hilar Lymph Node Metastasis in the Staging of Non-small cell Lung Cancer.",
         "summary": "A minimally invasive ultrasound procedure successfully detected lung cancer spread to lymph nodes that standard imaging missed.",
@@ -619,20 +633,6 @@
           "Stomach"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-22"
-      },
-      {
-        "id": "recSM33nKOcQtHH9Y",
-        "title": "Clinical characteristics of autoimmune GFAP astrocytopathy with concomitant Epstein-Barr virus positivity: a case series of 12 patients and literature review.",
-        "summary": "Researchers identified a rare brain disorder where autoimmune inflammation and Epstein-Barr virus infection occur together, expanding understanding of this condition.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41862703/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-22"
       }
@@ -856,10 +856,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12256,
+    "archive_count": 12257,
     "archive_supplements": 1419,
     "archive_off_label": 476,
-    "archive_biomarkers": 7365,
+    "archive_biomarkers": 7366,
     "archive_trials": 2699
   }
 }
