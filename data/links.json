@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-23T06:08:01.482Z",
+  "last_updated": "2026-03-23T06:08:12.053Z",
   "categories": {
     "supplements": [
       {
@@ -157,6 +157,20 @@
         "added_date": "2026-03-23"
       },
       {
+        "id": "rectUNMZfQh6GqG9M",
+        "title": "Dimethyl bisphenolate inhibits ovarian cancer growth by regulating the PI3K/AKT/mTOR signaling pathway.",
+        "summary": "Dimethyl bisphenolate, a new compound, slows ovarian cancer growth by disrupting a key cell signaling pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41864114/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Ovarian"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-23"
+      },
+      {
         "id": "recWvYSWFSxKG9Y9j",
         "title": "BCL-2 Mediated Apoptotic Pathway as Promising Target for Bio- Synthesized Silver Nanoparticles: A Review Article.",
         "summary": "Bio-synthesized silver nanoparticles trigger cancer cell death by activating the BCL-2 apoptotic pathway across multiple cancer types.",
@@ -197,20 +211,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-22"
-      },
-      {
-        "id": "rec2eLkZZoVo9tqQh",
-        "title": "Rabdosin B suppresses proliferation of nonsmall cell lung cancer by regulating the SRC/PI3K/AKT signaling pathway.",
-        "summary": "Rabdosin B, a compound from a Chinese herb, stops lung cancer cell growth by blocking a specific cellular signaling pathway.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41858068/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-21"
       }
     ],
     "off_label": [
@@ -856,10 +856,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12333,
+    "archive_count": 12334,
     "archive_supplements": 1428,
     "archive_off_label": 476,
-    "archive_biomarkers": 7424,
+    "archive_biomarkers": 7425,
     "archive_trials": 2708
   }
 }
