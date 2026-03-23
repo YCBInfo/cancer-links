@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-23T04:03:37.899Z",
+  "last_updated": "2026-03-23T04:03:48.369Z",
   "categories": {
     "supplements": [
       {
@@ -595,6 +595,20 @@
         "added_date": "2026-03-23"
       },
       {
+        "id": "rec0SaWtOdzWkejFW",
+        "title": "Suppression of Indoleamine 2,3-Dioxygenase Enhances Immune Responses to the Therapeutic Vaccine for Chronic Hepatitis B.",
+        "summary": "Blocking an immune-suppressing enzyme enhances the body's immune response to a hepatitis B cancer vaccine.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41863789/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-23"
+      },
+      {
         "id": "recCF3z7Twd9km4gA",
         "title": "Endobronchial Ultrasound-guided Transbronchial Needle Aspiration Detection of PET-CT Negative Contralateral Hilar Lymph Node Metastasis in the Staging of Non-small cell Lung Cancer.",
         "summary": "A minimally invasive ultrasound procedure successfully detected lung cancer spread to lymph nodes that standard imaging missed.",
@@ -617,20 +631,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-22"
-      },
-      {
-        "id": "recHdr5e5MnzWQZBI",
-        "title": "Liver Histiocytosis Masquerading as Hepatic Dysfunction: Rare Case Story.",
-        "summary": "Rare Langerhans cell histiocytosis caused liver dysfunction in an adult patient; hepatoprotective treatment improved liver function and symptoms.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41863104/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -675,6 +675,20 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-23"
+      },
+      {
+        "id": "rec0SaWtOdzWkejFW",
+        "title": "Suppression of Indoleamine 2,3-Dioxygenase Enhances Immune Responses to the Therapeutic Vaccine for Chronic Hepatitis B.",
+        "summary": "Blocking an immune-suppressing enzyme enhances the body's immune response to a hepatitis B cancer vaccine.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41863789/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Liver"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -833,20 +847,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-22"
-      },
-      {
-        "id": "recG1VV16j0umFVsi",
-        "title": "Fatty acid oxidation drives acetyl-CoA-dependent H3K9ac reprogramming to promote adaptive resistance to BRAFV600E inhibition in thyroid cancer.",
-        "summary": "Thyroid cancer cells resist BRAF inhibitor drugs by burning more fatty acids, which cancer researchers can block to improve treatment effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41862440/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Thyroid"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-22"
       }
     ]
   },
@@ -856,10 +856,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12259,
+    "archive_count": 12260,
     "archive_supplements": 1419,
     "archive_off_label": 476,
-    "archive_biomarkers": 7368,
+    "archive_biomarkers": 7369,
     "archive_trials": 2699
   }
 }
