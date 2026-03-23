@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-23T04:02:42.707Z",
+  "last_updated": "2026-03-23T04:02:54.281Z",
   "categories": {
     "supplements": [
       {
@@ -525,6 +525,20 @@
         "added_date": "2026-03-23"
       },
       {
+        "id": "rec5Yi3aBfIGiwXxu",
+        "title": "Cancer-associated SF3B1 mutation suppresses DNA repair by disrupting the organization of nuclear actin network.",
+        "summary": "SF3B1 cancer mutations impair DNA repair by disrupting the nuclear actin network through a circRNA-MYH9 pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41864997/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-23"
+      },
+      {
         "id": "recCF3z7Twd9km4gA",
         "title": "Endobronchial Ultrasound-guided Transbronchial Needle Aspiration Detection of PET-CT Negative Contralateral Hilar Lymph Node Metastasis in the Staging of Non-small cell Lung Cancer.",
         "summary": "A minimally invasive ultrasound procedure successfully detected lung cancer spread to lymph nodes that standard imaging missed.",
@@ -617,20 +631,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Bladder"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-22"
-      },
-      {
-        "id": "recAI6iG10vui3fSX",
-        "title": "CD8+ T Cell Infiltration Elicits Molecular Subtype-Biased Clinical Outcomes in Gastric Cancer Patients.",
-        "summary": "CD8+ T cell infiltration predicts better survival in some gastric cancer subtypes, but low infiltration indicates chemotherapy benefit in others.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41863069/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Stomach"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -856,10 +856,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12254,
+    "archive_count": 12255,
     "archive_supplements": 1419,
     "archive_off_label": 476,
-    "archive_biomarkers": 7363,
+    "archive_biomarkers": 7364,
     "archive_trials": 2699
   }
 }
