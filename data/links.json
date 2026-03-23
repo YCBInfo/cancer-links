@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-23T06:09:14.601Z",
+  "last_updated": "2026-03-23T08:02:02.905Z",
   "categories": {
     "supplements": [
       {
@@ -229,6 +229,20 @@
         "added_date": "2026-03-23"
       },
       {
+        "id": "rec3hKn1goTKS5FrJ",
+        "title": "Propranolol enhances the oncolytic effect of newcastle disease virus on canine mammary tumor cell by modulating the IFN-I-mediated JAK-STAT signaling pathway.",
+        "summary": "Propranolol enhances a cancer-killing virus's effectiveness against canine breast tumors by suppressing immune signals that normally block viral replication.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41866332/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-23"
+      },
+      {
         "id": "recK9y8oDl3uGIxEJ",
         "title": "From Biomarker to Drug Target: Integrating ceRNA Networks and Pharmacogenomics to Reposition C5orf34 in Uterine Corpus Endometrial Cancer Therapy.",
         "summary": "Researchers identified C5orf34 as a potential new drug target for uterine cancer that could improve patient outcomes and treatment options.",
@@ -407,20 +421,6 @@
           "Brain"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-21"
-      },
-      {
-        "id": "recA0ziCr5ATJquZL",
-        "title": "Rituximab limits glucocorticoid use in IgG4-related disease: Real-world evidence from a large European cohort.",
-        "summary": "Rituximab helps patients with IgG4-related disease reduce their dependence on glucocorticoid medications, based on real-world European patient data.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41862339/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-21"
       }
@@ -856,9 +856,9 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12337,
+    "archive_count": 12338,
     "archive_supplements": 1430,
-    "archive_off_label": 476,
+    "archive_off_label": 477,
     "archive_biomarkers": 7426,
     "archive_trials": 2708
   }
