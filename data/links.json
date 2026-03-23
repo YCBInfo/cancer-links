@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-23T04:02:54.281Z",
+  "last_updated": "2026-03-23T04:03:06.148Z",
   "categories": {
     "supplements": [
       {
@@ -539,6 +539,20 @@
         "added_date": "2026-03-23"
       },
       {
+        "id": "recZkHDi5D81mzCR5",
+        "title": "Disrupting the ASH2L-DPY30 PPI in cancer: structure, function, and therapeutic opportunities in H3K4 methylation.",
+        "summary": "Disrupting a protein interaction in cancer cells silences tumor genes and stops growth in MLL and MYC-driven cancers.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41864982/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-23"
+      },
+      {
         "id": "recCF3z7Twd9km4gA",
         "title": "Endobronchial Ultrasound-guided Transbronchial Needle Aspiration Detection of PET-CT Negative Contralateral Hilar Lymph Node Metastasis in the Staging of Non-small cell Lung Cancer.",
         "summary": "A minimally invasive ultrasound procedure successfully detected lung cancer spread to lymph nodes that standard imaging missed.",
@@ -619,20 +633,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-22"
-      },
-      {
-        "id": "rec3ISoHZjRbD2yd1",
-        "title": "Oncogenic GPRIN1 sustains proliferation and mitochondrial homeostasis via dual‑layer CDK1-PI3K/Akt signalling in gallbladder cancer.",
-        "summary": "GPRIN1 drives gallbladder cancer growth by controlling cell cycle and mitochondrial health through a dual regulatory pathway, offering a potential treatment target.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41862463/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Bladder"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-22"
       }
@@ -856,10 +856,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12255,
+    "archive_count": 12256,
     "archive_supplements": 1419,
     "archive_off_label": 476,
-    "archive_biomarkers": 7364,
+    "archive_biomarkers": 7365,
     "archive_trials": 2699
   }
 }
