@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-23T04:02:32.041Z",
+  "last_updated": "2026-03-23T04:02:42.707Z",
   "categories": {
     "supplements": [
       {
@@ -511,6 +511,20 @@
         "added_date": "2026-03-23"
       },
       {
+        "id": "rec6LYsROaaWP0aSb",
+        "title": "A retrospective analysis of risk-reducing salpingo-oophorectomy performed in women diagnosed with hereditary breast and ovarian cancer at our institution.",
+        "summary": "Removing ovaries and fallopian tubes significantly reduces cancer risk in women with hereditary breast and ovarian cancer syndrome.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41865003/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Ovarian"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-23"
+      },
+      {
         "id": "recCF3z7Twd9km4gA",
         "title": "Endobronchial Ultrasound-guided Transbronchial Needle Aspiration Detection of PET-CT Negative Contralateral Hilar Lymph Node Metastasis in the Staging of Non-small cell Lung Cancer.",
         "summary": "A minimally invasive ultrasound procedure successfully detected lung cancer spread to lymph nodes that standard imaging missed.",
@@ -621,20 +635,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-22"
-      },
-      {
-        "id": "recc07FPGXooe7YrQ",
-        "title": "Coronavirus disease 2019 infection reduces EGFR-TKI efficacy in non-small cell lung carcinoma: Real-world evidence from a multicenter propensity-matched cohort.",
-        "summary": "COVID-19 infection significantly reduces the effectiveness of EGFR-targeted drugs in advanced lung cancer patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41863042/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-22"
       }
     ],
     "trials": [
@@ -649,6 +649,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-23"
+      },
+      {
+        "id": "rec6LYsROaaWP0aSb",
+        "title": "A retrospective analysis of risk-reducing salpingo-oophorectomy performed in women diagnosed with hereditary breast and ovarian cancer at our institution.",
+        "summary": "Removing ovaries and fallopian tubes significantly reduces cancer risk in women with hereditary breast and ovarian cancer syndrome.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41865003/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Ovarian"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-23"
       },
@@ -833,20 +847,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-22"
-      },
-      {
-        "id": "recNbxb0sq7OgLYjN",
-        "title": "Fixed-Duration Subcutaneous Mosunetuzumab in Relapsed/Refractory Follicular Lymphoma: Pivotal Phase 2 Primary Analysis.",
-        "summary": "Subcutaneous mosunetuzumab injection works as well as IV infusion for relapsed follicular lymphoma, with faster administration and fewer side effects.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41862428/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Lymphoma"
-        ],
-        "quality_score": 21,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-22"
       }
     ]
   },
@@ -856,10 +856,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12253,
+    "archive_count": 12254,
     "archive_supplements": 1419,
     "archive_off_label": 476,
-    "archive_biomarkers": 7362,
+    "archive_biomarkers": 7363,
     "archive_trials": 2699
   }
 }
