@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-23T04:08:47.910Z",
+  "last_updated": "2026-03-23T04:08:58.890Z",
   "categories": {
     "supplements": [
       {
@@ -793,6 +793,20 @@
         "added_date": "2026-03-23"
       },
       {
+        "id": "recIq0XPDkL5DnD4V",
+        "title": "Cardiotoxicity of trametinib monotherapy in adults with neurofibromatosis type 1: Results from the TRAIN study.",
+        "summary": "Trametinib monotherapy for neurofibromatosis type 1 can cause heart damage in up to 7% of patients, requiring cardiac monitoring.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41864169/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-23"
+      },
+      {
         "id": "recCF3z7Twd9km4gA",
         "title": "Endobronchial Ultrasound-guided Transbronchial Needle Aspiration Detection of PET-CT Negative Contralateral Hilar Lymph Node Metastasis in the Staging of Non-small cell Lung Cancer.",
         "summary": "A minimally invasive ultrasound procedure successfully detected lung cancer spread to lymph nodes that standard imaging missed.",
@@ -833,20 +847,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-22"
-      },
-      {
-        "id": "recAI6iG10vui3fSX",
-        "title": "CD8+ T Cell Infiltration Elicits Molecular Subtype-Biased Clinical Outcomes in Gastric Cancer Patients.",
-        "summary": "CD8+ T cell infiltration predicts better survival in some gastric cancer subtypes, but low infiltration indicates chemotherapy benefit in others.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41863069/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Stomach"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-22"
       }
     ]
   },
@@ -856,10 +856,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12288,
+    "archive_count": 12289,
     "archive_supplements": 1421,
     "archive_off_label": 476,
-    "archive_biomarkers": 7393,
+    "archive_biomarkers": 7394,
     "archive_trials": 2701
   }
 }
