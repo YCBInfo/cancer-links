@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-23T04:03:15.746Z",
+  "last_updated": "2026-03-23T04:03:26.947Z",
   "categories": {
     "supplements": [
       {
@@ -567,6 +567,20 @@
         "added_date": "2026-03-23"
       },
       {
+        "id": "rec25zmdx6F9K139I",
+        "title": "In vivo metabolic tagging and targeting of circulating red blood cells.",
+        "summary": "Scientists engineered red blood cells with chemical tags in living mice to deliver drugs and imaging agents with extended circulation times.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41864939/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-23"
+      },
+      {
         "id": "recCF3z7Twd9km4gA",
         "title": "Endobronchial Ultrasound-guided Transbronchial Needle Aspiration Detection of PET-CT Negative Contralateral Hilar Lymph Node Metastasis in the Staging of Non-small cell Lung Cancer.",
         "summary": "A minimally invasive ultrasound procedure successfully detected lung cancer spread to lymph nodes that standard imaging missed.",
@@ -617,20 +631,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-22"
-      },
-      {
-        "id": "recc9bi0WJEg7Ng8n",
-        "title": "Retlirafusp Alfa: First Approval.",
-        "summary": "New drug retlirafusp alfa approved for advanced gastric cancer when combined with chemotherapy in patients with specific immune markers.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41862758/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Stomach"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -856,10 +856,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12257,
+    "archive_count": 12258,
     "archive_supplements": 1419,
     "archive_off_label": 476,
-    "archive_biomarkers": 7366,
+    "archive_biomarkers": 7367,
     "archive_trials": 2699
   }
 }
