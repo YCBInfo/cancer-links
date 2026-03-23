@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-23T04:08:58.890Z",
+  "last_updated": "2026-03-23T04:09:12.706Z",
   "categories": {
     "supplements": [
       {
@@ -807,6 +807,20 @@
         "added_date": "2026-03-23"
       },
       {
+        "id": "recrzSRqbBNd9IvS5",
+        "title": "Overall survival from the open-label phase II trial of palbociclib in patients with advanced well-differentiated/dedifferentiated liposarcoma.",
+        "summary": "Palbociclib, a targeted drug, shows promise for extending survival in patients with advanced liposarcoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41864163/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 18,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-23"
+      },
+      {
         "id": "recCF3z7Twd9km4gA",
         "title": "Endobronchial Ultrasound-guided Transbronchial Needle Aspiration Detection of PET-CT Negative Contralateral Hilar Lymph Node Metastasis in the Staging of Non-small cell Lung Cancer.",
         "summary": "A minimally invasive ultrasound procedure successfully detected lung cancer spread to lymph nodes that standard imaging missed.",
@@ -833,20 +847,6 @@
         "quality_score": 12,
         "pub_date": "2026-02-01",
         "added_date": "2026-03-22"
-      },
-      {
-        "id": "recc9bi0WJEg7Ng8n",
-        "title": "Retlirafusp Alfa: First Approval.",
-        "summary": "New drug retlirafusp alfa approved for advanced gastric cancer when combined with chemotherapy in patients with specific immune markers.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41862758/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Stomach"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-22"
       }
     ]
   },
@@ -856,10 +856,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12289,
+    "archive_count": 12290,
     "archive_supplements": 1421,
     "archive_off_label": 476,
-    "archive_biomarkers": 7394,
+    "archive_biomarkers": 7395,
     "archive_trials": 2701
   }
 }
