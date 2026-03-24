@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-24T04:14:48.561Z",
+  "last_updated": "2026-03-24T04:15:00.266Z",
   "categories": {
     "supplements": [
       {
@@ -21,6 +21,20 @@
         "title": "Discovery of potent thymidine phosphorylase inhibitors from Euphorbia pulcherrima Willd. ex Klotzsch with experimental validation and computational analysis.",
         "summary": "Researchers discovered two flavonoids from poinsettia plants that inhibit thymidine phosphorylase, an enzyme promoting cancer growth, with one showing strong anticancer potential.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41870709/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-24"
+      },
+      {
+        "id": "recLkhJrRnVNcTS8Z",
+        "title": "Administration of melatonin in small intestine damage induced by flattening filter and flattening filter free radiotherapy in rat: a histopathological and biochemical study.",
+        "summary": "Melatonin protected rat intestines from radiation damage during X-ray therapy, with similar effects against both standard and advanced radiation techniques.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41870069/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -193,20 +207,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Ovarian"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-23"
-      },
-      {
-        "id": "recwywgPHGZc4W4xF",
-        "title": "Simultaneous quantification of active ingredients after the combination of Shenqi Fuzheng injection and docetaxel in vitro and in rabbits.",
-        "summary": "Researchers found that combining traditional Chinese medicine with docetaxel chemotherapy alters active ingredient concentrations and pharmacokinetics in breast cancer treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41864104/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -859,10 +859,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12410,
+    "archive_count": 12411,
     "archive_supplements": 1432,
     "archive_off_label": 477,
-    "archive_biomarkers": 7486,
+    "archive_biomarkers": 7487,
     "archive_trials": 2718
   }
 }
