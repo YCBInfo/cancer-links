@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-24T04:19:14.472Z",
+  "last_updated": "2026-03-24T04:19:25.014Z",
   "categories": {
     "supplements": [
       {
@@ -67,6 +67,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-24"
+      },
+      {
+        "id": "rec9MfLJdLSD1EFNf",
+        "title": "(-)-Guaiol Inhibits Lung Cancer via PPARG-Dependent Fatty Acid Oxidation.",
+        "summary": "A natural compound called (-)-guaiol slows lung cancer growth by blocking a protein that controls fatty acid burning in cancer cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41866994/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -191,20 +205,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41864381/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-23"
-      },
-      {
-        "id": "recpAnNM1FW1jl9Ei",
-        "title": "Copper deprivation reprograms antioxidant defense to suppress ferroptosis via SLC7A11.",
-        "summary": "Copper deprivation protects cells from ferroptosis by activating a pathway that strengthens antioxidant defenses, potentially enabling cancer resistance.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41864191/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
@@ -859,10 +859,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12435,
+    "archive_count": 12436,
     "archive_supplements": 1435,
     "archive_off_label": 477,
-    "archive_biomarkers": 7507,
+    "archive_biomarkers": 7508,
     "archive_trials": 2719
   }
 }
