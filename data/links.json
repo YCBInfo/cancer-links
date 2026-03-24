@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-24T04:02:15.693Z",
+  "last_updated": "2026-03-24T04:02:26.814Z",
   "categories": {
     "supplements": [
       {
@@ -511,6 +511,20 @@
         "added_date": "2026-03-24"
       },
       {
+        "id": "rectNj2keQns6FBww",
+        "title": "Application and mechanistic research of novel therapeutic strategies in cisplatin-resistant small cell lung cancer.",
+        "summary": "Researchers reviewed new treatment strategies to overcome cisplatin resistance in small cell lung cancer, including immunotherapy and targeted drugs.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41869709/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-24"
+      },
+      {
         "id": "recimpfM54OfEd9hr",
         "title": "Stable or not? unraveling the reliability of radiomic features in 4d-computed tomography in early-stage non-small cell lung cancer.",
         "summary": "Researchers developed a method to identify reliable imaging features in 4D-CT scans for lung cancer treatment planning and radiotherapy prediction.",
@@ -621,20 +635,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-23"
-      },
-      {
-        "id": "recZkHDi5D81mzCR5",
-        "title": "Disrupting the ASH2L-DPY30 PPI in cancer: structure, function, and therapeutic opportunities in H3K4 methylation.",
-        "summary": "Disrupting a protein interaction in cancer cells silences tumor genes and stops growth in MLL and MYC-driven cancers.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41864982/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-23"
       }
     ],
     "trials": [
@@ -649,6 +649,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-24"
+      },
+      {
+        "id": "rectNj2keQns6FBww",
+        "title": "Application and mechanistic research of novel therapeutic strategies in cisplatin-resistant small cell lung cancer.",
+        "summary": "Researchers reviewed new treatment strategies to overcome cisplatin resistance in small cell lung cancer, including immunotherapy and targeted drugs.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41869709/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-24"
       },
@@ -833,20 +847,6 @@
         "quality_score": 18,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-23"
-      },
-      {
-        "id": "recfXloqxO0yeZSBu",
-        "title": "Contribution of molecular profiling in primary cervical intramedullary melanoma: case report and literature review.",
-        "summary": "Molecular profiling helped confirm a rare spinal cord melanoma diagnosis and guide treatment in a challenging case.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41863996/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Melanoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-23"
       }
     ]
   },
@@ -856,10 +856,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12341,
+    "archive_count": 12342,
     "archive_supplements": 1430,
     "archive_off_label": 477,
-    "archive_biomarkers": 7428,
+    "archive_biomarkers": 7429,
     "archive_trials": 2709
   }
 }
