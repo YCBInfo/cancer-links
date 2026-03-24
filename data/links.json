@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-24T04:09:38.006Z",
+  "last_updated": "2026-03-24T04:09:49.556Z",
   "categories": {
     "supplements": [
       {
@@ -7,6 +7,20 @@
         "title": "Network pharmacology analysis of integration of dietary plant-derived natural flavonoids and gut microbiota for the treatment of Polycystic Ovary syndrome (PCOS).",
         "summary": "Plant flavonoids like luteolin and quercetin may treat PCOS by working with gut bacteria to regulate insulin and growth signaling pathways.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41870379/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-24"
+      },
+      {
+        "id": "recHWSIUXZ80txtFE",
+        "title": "Discovery of potent thymidine phosphorylase inhibitors from Euphorbia pulcherrima Willd. ex Klotzsch with experimental validation and computational analysis.",
+        "summary": "Researchers discovered two flavonoids from poinsettia plants that inhibit thymidine phosphorylase, an enzyme promoting cancer growth, with one showing strong anticancer potential.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41870709/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -197,20 +211,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-23"
-      },
-      {
-        "id": "recWvYSWFSxKG9Y9j",
-        "title": "BCL-2 Mediated Apoptotic Pathway as Promising Target for Bio- Synthesized Silver Nanoparticles: A Review Article.",
-        "summary": "Bio-synthesized silver nanoparticles trigger cancer cell death by activating the BCL-2 apoptotic pathway across multiple cancer types.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41863166/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-22"
       }
     ],
     "off_label": [
@@ -859,10 +859,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12381,
+    "archive_count": 12382,
     "archive_supplements": 1431,
     "archive_off_label": 477,
-    "archive_biomarkers": 7465,
+    "archive_biomarkers": 7466,
     "archive_trials": 2711
   }
 }
