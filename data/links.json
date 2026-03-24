@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-24T09:03:25.819Z",
+  "last_updated": "2026-03-24T09:03:36.192Z",
   "categories": {
     "supplements": [
       {
@@ -288,6 +288,20 @@
         "added_date": "2026-03-24"
       },
       {
+        "id": "reczp7muFMWxhxcKh",
+        "title": "Impact of beta-blockers on prognostic outcomes in solid cancers: a systematic review and meta-analysis.",
+        "summary": "Beta-blockers, commonly used for heart conditions, may improve survival rates in patients with solid cancers.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41863389/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 29,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-24"
+      },
+      {
         "id": "recgX5z58SBnYbRYe",
         "title": "The 1p/19q co-deletion induces targetable and imageable vulnerabilities in glucose metabolism in oligodendrogliomas.",
         "summary": "A genetic change in oligodendrogliomas creates a weakness in how cancer cells use glucose, offering new treatment and detection opportunities.",
@@ -408,20 +422,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-21"
-      },
-      {
-        "id": "recveMHXehOdwl35L",
-        "title": "Targeting WIP1 reprograms immunosuppressive tumor microenvironment to potentiate immunotherapy response in colorectal cancer.",
-        "summary": "Blocking WIP1 protein in colorectal cancer reactivates immune cells and improves immunotherapy effectiveness when combined with STING activation.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41857138/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -861,10 +861,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12555,
+    "archive_count": 12556,
     "archive_supplements": 1453,
     "archive_off_label": 479,
-    "archive_biomarkers": 7573,
+    "archive_biomarkers": 7574,
     "archive_trials": 2753
   }
 }
