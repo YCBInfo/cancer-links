@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-24T04:05:27.372Z",
+  "last_updated": "2026-03-24T04:05:45.730Z",
   "categories": {
     "supplements": [
       {
@@ -780,6 +780,20 @@
         "added_date": "2026-03-24"
       },
       {
+        "id": "recAixVeIgXoyk8VY",
+        "title": "Clinical and Reader Associated Correlates of Clinically Significant MRI-Invisible Prostate Cancer based on Negative MRI.",
+        "summary": "Researchers identified why MRI scans sometimes miss significant prostate cancer, helping doctors improve detection and avoid treatment delays.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41871319/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-24"
+      },
+      {
         "id": "rec8JrDJvfRZhiuJR",
         "title": "Engineering the next generation of cellular therapies for solid tumors: multi-specific armored CARs and TME reprogramming strategies.",
         "summary": "Researchers are engineering enhanced CAR T-cell therapies with multiple targets and immune-boosting payloads to overcome solid tumor resistance and improve treatment effectiveness.",
@@ -834,20 +848,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-23"
-      },
-      {
-        "id": "reckkC2gQYSOyaVgC",
-        "title": "Limited reliability of H3K27M detection using a commercially available blood-based comprehensive genomic profiling test in patients with diffuse midline gliomas: analysis of the nationwide C-CAT database in Japan.",
-        "summary": "A blood test for diffuse midline glioma's H3K27M mutation shows limited reliability in detecting this key cancer marker.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41863693/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-23"
       }
     ]
   },
@@ -857,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12358,
+    "archive_count": 12359,
     "archive_supplements": 1431,
     "archive_off_label": 477,
-    "archive_biomarkers": 7444,
+    "archive_biomarkers": 7445,
     "archive_trials": 2709
   }
 }
