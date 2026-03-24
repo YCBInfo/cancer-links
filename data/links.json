@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-24T04:02:37.008Z",
+  "last_updated": "2026-03-24T04:02:49.566Z",
   "categories": {
     "supplements": [
       {
@@ -539,6 +539,20 @@
         "added_date": "2026-03-24"
       },
       {
+        "id": "recN8fhQH1yB4Bp9T",
+        "title": "Synergistic effect of combined hyperthermia and radiotherapy mediated by AQP5 reduction in pancreatic cancer.",
+        "summary": "Combined heat and radiation therapy effectively treats pancreatic cancer by reducing a water channel protein called AQP5.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41867109/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Pancreatic"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-24"
+      },
+      {
         "id": "recimpfM54OfEd9hr",
         "title": "Stable or not? unraveling the reliability of radiomic features in 4d-computed tomography in early-stage non-small cell lung cancer.",
         "summary": "Researchers developed a method to identify reliable imaging features in 4D-CT scans for lung cancer treatment planning and radiotherapy prediction.",
@@ -617,20 +631,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-23"
-      },
-      {
-        "id": "rec6LYsROaaWP0aSb",
-        "title": "A retrospective analysis of risk-reducing salpingo-oophorectomy performed in women diagnosed with hereditary breast and ovarian cancer at our institution.",
-        "summary": "Removing ovaries and fallopian tubes significantly reduces cancer risk in women with hereditary breast and ovarian cancer syndrome.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41865003/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Ovarian"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -856,8 +856,8 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12343,
-    "archive_supplements": 1430,
+    "archive_count": 12344,
+    "archive_supplements": 1431,
     "archive_off_label": 477,
     "archive_biomarkers": 7430,
     "archive_trials": 2709
