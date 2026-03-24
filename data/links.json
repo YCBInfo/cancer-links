@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-24T04:03:54.579Z",
+  "last_updated": "2026-03-24T04:04:11.652Z",
   "categories": {
     "supplements": [
       {
@@ -623,18 +623,19 @@
         "added_date": "2026-03-24"
       },
       {
-        "id": "recimpfM54OfEd9hr",
-        "title": "Stable or not? unraveling the reliability of radiomic features in 4d-computed tomography in early-stage non-small cell lung cancer.",
-        "summary": "Researchers developed a method to identify reliable imaging features in 4D-CT scans for lung cancer treatment planning and radiotherapy prediction.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41865337/",
+        "id": "recbfh5Zt83SRk6Oe",
+        "title": "Synthetic lethality between RB-loss and E2F3 inhibition in small cell cancers targeted by pyrimidine synthesis blockade.",
+        "summary": "Blocking E2F3 protein or pyrimidine synthesis kills small cell cancers with RB loss, offering a potential new treatment approach.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41860961/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
-          "Lung"
+          "Lung",
+          "Prostate"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
-        "added_date": "2026-03-23"
+        "added_date": "2026-03-24"
       }
     ],
     "trials": [
@@ -705,6 +706,20 @@
           "Breast"
         ],
         "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-24"
+      },
+      {
+        "id": "recmlNdREgBzZjgok",
+        "title": "[Clinical characteristics of 20 lung adenocarcinoma patients misdiagnosed as interstitial pneumonia].",
+        "summary": "Lung adenocarcinoma is frequently misdiagnosed as interstitial pneumonia, leading to delayed treatment and poor patient outcomes in this rare form.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41856615/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-24"
       },
@@ -833,20 +848,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-23"
-      },
-      {
-        "id": "recKRxYzyTIBXjnV2",
-        "title": "Tissue Penetration of Gemcitabine and Gemcitabine Phosphate Metabolites Following Gemcitabine Intravesical System Administration Versus Standard Intravesical Instillation in a Preclinical Minipig Model.",
-        "summary": "A novel gemcitabine-releasing system maintains bladder cancer drug levels four times longer than standard instillation in preclinical testing.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41864781/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Bladder"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-23"
       }
     ]
   },
@@ -856,10 +857,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12350,
+    "archive_count": 12351,
     "archive_supplements": 1431,
     "archive_off_label": 477,
-    "archive_biomarkers": 7436,
+    "archive_biomarkers": 7437,
     "archive_trials": 2709
   }
 }
