@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-24T04:02:26.814Z",
+  "last_updated": "2026-03-24T04:02:37.008Z",
   "categories": {
     "supplements": [
       {
@@ -525,6 +525,20 @@
         "added_date": "2026-03-24"
       },
       {
+        "id": "recFP2QCqCr1IpJsv",
+        "title": "Imaging-derived risk score predicts pain recurrence in osteoid osteoma patients undergoing radiofrequency ablation.",
+        "summary": "Researchers developed an imaging score to predict which osteoid osteoma patients will experience pain after radiofrequency ablation treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41867110/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-24"
+      },
+      {
         "id": "recimpfM54OfEd9hr",
         "title": "Stable or not? unraveling the reliability of radiomic features in 4d-computed tomography in early-stage non-small cell lung cancer.",
         "summary": "Researchers developed a method to identify reliable imaging features in 4D-CT scans for lung cancer treatment planning and radiotherapy prediction.",
@@ -621,20 +635,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-23"
-      },
-      {
-        "id": "rec5Yi3aBfIGiwXxu",
-        "title": "Cancer-associated SF3B1 mutation suppresses DNA repair by disrupting the organization of nuclear actin network.",
-        "summary": "SF3B1 cancer mutations impair DNA repair by disrupting the nuclear actin network through a circRNA-MYH9 pathway.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41864997/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-23"
       }
     ],
     "trials": [
@@ -663,6 +663,20 @@
           "Lung"
         ],
         "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-24"
+      },
+      {
+        "id": "recFP2QCqCr1IpJsv",
+        "title": "Imaging-derived risk score predicts pain recurrence in osteoid osteoma patients undergoing radiofrequency ablation.",
+        "summary": "Researchers developed an imaging score to predict which osteoid osteoma patients will experience pain after radiofrequency ablation treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41867110/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-24"
       },
@@ -833,20 +847,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-23"
-      },
-      {
-        "id": "recrzSRqbBNd9IvS5",
-        "title": "Overall survival from the open-label phase II trial of palbociclib in patients with advanced well-differentiated/dedifferentiated liposarcoma.",
-        "summary": "Palbociclib, a targeted drug, shows promise for extending survival in patients with advanced liposarcoma.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41864163/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 18,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-23"
       }
     ]
   },
@@ -856,10 +856,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12342,
+    "archive_count": 12343,
     "archive_supplements": 1430,
     "archive_off_label": 477,
-    "archive_biomarkers": 7429,
+    "archive_biomarkers": 7430,
     "archive_trials": 2709
   }
 }
