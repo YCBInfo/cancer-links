@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-24T04:20:38.689Z",
+  "last_updated": "2026-03-24T04:20:50.005Z",
   "categories": {
     "supplements": [
       {
@@ -230,6 +230,20 @@
         "added_date": "2026-03-24"
       },
       {
+        "id": "recwEOI1Ap3hkFeEu",
+        "title": "HNF4α-HKDC1 axis orchestrates a metabolic rewiring to promote migration and metastasis in advanced gastric cancer.",
+        "summary": "Researchers identified that blocking the HNF4α-HKDC1 pathway in gastric cancer reduces cancer spread and metastasis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41866549/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-24"
+      },
+      {
         "id": "recgX5z58SBnYbRYe",
         "title": "The 1p/19q co-deletion induces targetable and imageable vulnerabilities in glucose metabolism in oligodendrogliomas.",
         "summary": "A genetic change in oligodendrogliomas creates a weakness in how cancer cells use glucose, offering new treatment and detection opportunities.",
@@ -408,20 +422,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-21"
-      },
-      {
-        "id": "recKy7ZTjAw2x4QYt",
-        "title": "Ferroptosis Induction by Fenbendazole Combined With Photothermal Therapy Triggers Dual-Immunotherapy Against Bladder Cancer.",
-        "summary": "Combining a drug with heat therapy triggers immune-boosting cell death in bladder cancer tumors.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41861111/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Bladder"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-21"
       }
@@ -859,10 +859,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12443,
+    "archive_count": 12444,
     "archive_supplements": 1437,
     "archive_off_label": 477,
-    "archive_biomarkers": 7513,
+    "archive_biomarkers": 7514,
     "archive_trials": 2719
   }
 }
