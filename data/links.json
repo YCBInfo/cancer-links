@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-24T04:16:35.298Z",
+  "last_updated": "2026-03-24T04:16:46.064Z",
   "categories": {
     "supplements": [
       {
@@ -41,6 +41,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-24"
+      },
+      {
+        "id": "recAHruG3uX16XIOs",
+        "title": "Maternal exercise during lactation remodels obesity-associated mammary metabolism and milk fatty acids, enhancing offspring lipid oxidation.",
+        "summary": "Maternal exercise during lactation changes breast milk composition in obese mice, improving offspring's ability to burn fat and reducing obesity risk.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41869837/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-24"
       },
@@ -195,20 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-23"
-      },
-      {
-        "id": "rectUNMZfQh6GqG9M",
-        "title": "Dimethyl bisphenolate inhibits ovarian cancer growth by regulating the PI3K/AKT/mTOR signaling pathway.",
-        "summary": "Dimethyl bisphenolate, a new compound, slows ovarian cancer growth by disrupting a key cell signaling pathway.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41864114/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Ovarian"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-23"
       }
@@ -859,10 +859,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12420,
+    "archive_count": 12421,
     "archive_supplements": 1433,
     "archive_off_label": 477,
-    "archive_biomarkers": 7494,
+    "archive_biomarkers": 7495,
     "archive_trials": 2719
   }
 }
