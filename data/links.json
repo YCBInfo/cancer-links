@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-24T04:07:09.578Z",
+  "last_updated": "2026-03-24T04:07:23.489Z",
   "categories": {
     "supplements": [
       {
@@ -809,6 +809,34 @@
         "added_date": "2026-03-24"
       },
       {
+        "id": "rec2FBB8JAkSpR4DK",
+        "title": "Global trends and forecasts of cervical cancer and a real-world safety assessment of human papillomavirus vaccines in women: A systematic analysis of the Global Burden of Disease study 2021 and the Vaccine Adverse Event Reporting System database.",
+        "summary": "HPV vaccines are safe and effective for preventing cervical cancer, particularly benefiting women in low- and middle-income countries.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41871050/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-24"
+      },
+      {
+        "id": "rec4WKXCYeuelVoqz",
+        "title": "From Breakthroughs to Blueprints: Evolving Evidence and Future Directions in Relapsed and Refractory Large B-Cell Lymphoma.",
+        "summary": "New drugs like antibody-drug conjugates and bispecific antibodies outperform chemotherapy for relapsed large B-cell lymphoma, but better trial designs are needed.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41871044/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lymphoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-24"
+      },
+      {
         "id": "rec8JrDJvfRZhiuJR",
         "title": "Engineering the next generation of cellular therapies for solid tumors: multi-specific armored CARs and TME reprogramming strategies.",
         "summary": "Researchers are engineering enhanced CAR T-cell therapies with multiple targets and immune-boosting payloads to overcome solid tumor resistance and improve treatment effectiveness.",
@@ -821,34 +849,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-23"
-      },
-      {
-        "id": "rec6LYsROaaWP0aSb",
-        "title": "A retrospective analysis of risk-reducing salpingo-oophorectomy performed in women diagnosed with hereditary breast and ovarian cancer at our institution.",
-        "summary": "Removing ovaries and fallopian tubes significantly reduces cancer risk in women with hereditary breast and ovarian cancer syndrome.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41865003/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Ovarian"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-23"
-      },
-      {
-        "id": "rec0XAG2yMKNWH8oc",
-        "title": "State-of-the-art and future developments in dosimetry for sstr- and PSMA-targeting radioligand therapies.",
-        "summary": "Personalized dosimetry could optimize radioligand therapy for prostate cancer and neuroendocrine tumors, but clinical adoption faces standardization and logistical barriers.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41864828/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Prostate"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-23"
       }
     ]
   },
@@ -858,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12367,
+    "archive_count": 12368,
     "archive_supplements": 1431,
     "archive_off_label": 477,
-    "archive_biomarkers": 7451,
+    "archive_biomarkers": 7452,
     "archive_trials": 2711
   }
 }
