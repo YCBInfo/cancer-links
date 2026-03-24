@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-24T04:03:12.718Z",
+  "last_updated": "2026-03-24T04:03:23.222Z",
   "categories": {
     "supplements": [
       {
@@ -581,6 +581,20 @@
         "added_date": "2026-03-24"
       },
       {
+        "id": "recjXhAwGv4qqsDcs",
+        "title": "CD47 stabilizes ROBO2 to regulate glioblastoma progression by preventing ITCH-mediated ubiquitination.",
+        "summary": "CD47 protein promotes glioblastoma growth by stabilizing ROBO2, suggesting blocking this pathway could treat the cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41871254/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-24"
+      },
+      {
         "id": "recimpfM54OfEd9hr",
         "title": "Stable or not? unraveling the reliability of radiomic features in 4d-computed tomography in early-stage non-small cell lung cancer.",
         "summary": "Researchers developed a method to identify reliable imaging features in 4D-CT scans for lung cancer treatment planning and radiotherapy prediction.",
@@ -613,20 +627,6 @@
         "title": "Engineering the next generation of cellular therapies for solid tumors: multi-specific armored CARs and TME reprogramming strategies.",
         "summary": "Researchers are engineering enhanced CAR T-cell therapies with multiple targets and immune-boosting payloads to overcome solid tumor resistance and improve treatment effectiveness.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41865195/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-23"
-      },
-      {
-        "id": "receYCSiKL4qyhN55",
-        "title": "From Passive Sampling to Precision Intervention: A Standardized Radiomics-Driven Workflow for Molecularly Adequate Lung Biopsy.",
-        "summary": "Researchers developed a method using CT scans and imaging analysis to predict which lung biopsies will successfully obtain adequate tissue for molecular testing.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41865181/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -856,10 +856,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12346,
+    "archive_count": 12347,
     "archive_supplements": 1431,
     "archive_off_label": 477,
-    "archive_biomarkers": 7432,
+    "archive_biomarkers": 7433,
     "archive_trials": 2709
   }
 }
