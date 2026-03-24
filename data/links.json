@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-24T04:06:27.369Z",
+  "last_updated": "2026-03-24T04:06:38.429Z",
   "categories": {
     "supplements": [
       {
@@ -215,6 +215,21 @@
     ],
     "off_label": [
       {
+        "id": "recjAqNb3LKWTWmuO",
+        "title": "Single-cell profiling of HDAC inhibitor-induced EBV lytic heterogeneity defines abortive and refractory states in B lymphoblasts.",
+        "summary": "HDAC inhibitors trigger EBV reactivation in lymphomas, but only some cells succeed; NF-κB and CD137 signaling block full viral activation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41871169/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lymphoma",
+          "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-24"
+      },
+      {
         "id": "recgX5z58SBnYbRYe",
         "title": "The 1p/19q co-deletion induces targetable and imageable vulnerabilities in glucose metabolism in oligodendrogliomas.",
         "summary": "A genetic change in oligodendrogliomas creates a weakness in how cancer cells use glucose, offering new treatment and detection opportunities.",
@@ -405,20 +420,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Bladder"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-21"
-      },
-      {
-        "id": "recFlejcP8c1UKotn",
-        "title": "EZH2 inhibition in resistant glioblastoma stem cells counteracts oxidative stress protection and triggers ferroptosis.",
-        "summary": "EZH2 inhibition triggers ferroptosis in drug-resistant glioblastoma stem cells, overcoming their oxidative stress protection and inducing cell death.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41861524/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Brain"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -857,10 +858,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12363,
+    "archive_count": 12364,
     "archive_supplements": 1431,
     "archive_off_label": 477,
-    "archive_biomarkers": 7447,
+    "archive_biomarkers": 7448,
     "archive_trials": 2711
   }
 }
