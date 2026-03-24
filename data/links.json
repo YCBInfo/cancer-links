@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-24T04:23:42.928Z",
+  "last_updated": "2026-03-24T04:23:53.795Z",
   "categories": {
     "supplements": [
       {
@@ -115,6 +115,20 @@
         "added_date": "2026-03-24"
       },
       {
+        "id": "recwEB1AMXT2UUaLj",
+        "title": "Ginsenoside Suppresses Triple-Negative Breast Cancer Growth and Synergizes With Programmed Cell Death Protein 1 (PD-1) Immunotherapy Through Gut Microbiota and Metabolic Regulation.",
+        "summary": "Ginsenoside Rg3 combined with PD-1 immunotherapy effectively suppresses triple-negative breast cancer growth by enhancing immune response and altering gut bacteria.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41866854/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-24"
+      },
+      {
         "id": "recYXHuJUthWpgJDM",
         "title": "Targeting the gut microbiota as treatment for obesity and cancer cachexia.",
         "summary": "Modifying gut bacteria could treat both obesity and cancer cachexia by restoring normal metabolism and reducing inflammation.",
@@ -193,20 +207,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-23"
-      },
-      {
-        "id": "recHo2sPWgKICmGAs",
-        "title": "A decoction-inspired genetic algorithm and PPO reinforcement learning for intelligent molecular discovery: Anti-colorectal cancer candidates from the tiao-pi AnChang formula.",
-        "summary": "Researchers used artificial intelligence to identify anti-cancer compounds from a traditional Chinese herbal formula effective against colorectal cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41864092/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -859,10 +859,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12460,
+    "archive_count": 12461,
     "archive_supplements": 1438,
     "archive_off_label": 477,
-    "archive_biomarkers": 7527,
+    "archive_biomarkers": 7528,
     "archive_trials": 2721
   }
 }
