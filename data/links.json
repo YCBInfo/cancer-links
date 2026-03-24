@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-24T09:04:24.814Z",
+  "last_updated": "2026-03-24T09:04:35.719Z",
   "categories": {
     "supplements": [
       {
@@ -316,6 +316,20 @@
         "added_date": "2026-03-24"
       },
       {
+        "id": "recFMmgPxK23ccCEZ",
+        "title": "Association of nonselective β blockers with the development of hepatocellular carcinoma in liver cirrhosis: a meta-analysis.",
+        "summary": "Nonselective beta blockers may help prevent hepatocellular carcinoma in patients with liver cirrhosis by reducing inflammation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41864541/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-24"
+      },
+      {
         "id": "recgX5z58SBnYbRYe",
         "title": "The 1p/19q co-deletion induces targetable and imageable vulnerabilities in glucose metabolism in oligodendrogliomas.",
         "summary": "A genetic change in oligodendrogliomas creates a weakness in how cancer cells use glucose, offering new treatment and detection opportunities.",
@@ -404,20 +418,6 @@
         "title": "Alterations in the testicular lipidome after tumor irradiation and their potential modulation by long-term losartan treatment.",
         "summary": "Losartan treatment may help protect testicular function and fertility in cancer patients receiving radiation therapy by reducing radiation-induced lipid damage.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41860337/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-21"
-      },
-      {
-        "id": "recc0gc6xQoPfY9tx",
-        "title": "Endoscopic application of tranexamic acid and sucralfate in upper gastrointestinal bleeding: A randomized controlled trial.",
-        "summary": "Applying tranexamic acid and sucralfate directly to bleeding sites during endoscopy reduces rebleeding in difficult upper gastrointestinal cases.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41860133/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -861,9 +861,9 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12561,
+    "archive_count": 12562,
     "archive_supplements": 1454,
-    "archive_off_label": 480,
+    "archive_off_label": 481,
     "archive_biomarkers": 7576,
     "archive_trials": 2754
   }
