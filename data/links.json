@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-24T09:02:55.048Z",
+  "last_updated": "2026-03-24T09:03:13.749Z",
   "categories": {
     "supplements": [
       {
@@ -274,6 +274,20 @@
         "added_date": "2026-03-24"
       },
       {
+        "id": "recVGW61hgamWLwBC",
+        "title": "Old Molecules, New Hope: A Scoping Review and Bibliometric Analysis of Drug Repurposing for Lung Cancer.",
+        "summary": "Researchers found that repurposing existing approved drugs like niclosamide and metformin shows promise for treating lung cancer more quickly and affordably.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41871709/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-24"
+      },
+      {
         "id": "recgX5z58SBnYbRYe",
         "title": "The 1p/19q co-deletion induces targetable and imageable vulnerabilities in glucose metabolism in oligodendrogliomas.",
         "summary": "A genetic change in oligodendrogliomas creates a weakness in how cancer cells use glucose, offering new treatment and detection opportunities.",
@@ -408,20 +422,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-21"
-      },
-      {
-        "id": "recTCdsWuK7931fSi",
-        "title": "Overcoming vascular niche-mediated TKI resistance in acute myeloid leukemia through miR-126 inhibition.",
-        "summary": "Blocking miR-126 in leukemia cells combined with tyrosine kinase inhibitors overcomes drug resistance and prevents AML relapse.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41857060/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -861,10 +861,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12553,
+    "archive_count": 12554,
     "archive_supplements": 1453,
     "archive_off_label": 479,
     "archive_biomarkers": 7573,
-    "archive_trials": 2751
+    "archive_trials": 2752
   }
 }
