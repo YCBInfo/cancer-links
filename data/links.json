@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-24T04:21:54.344Z",
+  "last_updated": "2026-03-24T04:22:04.662Z",
   "categories": {
     "supplements": [
       {
@@ -91,6 +91,20 @@
         "title": "Comparative Immunomodulatory Profiles of Bifidobacterium animalis subsp. lactis HOM2120 and Bifidobacterium longum subsp. longum HOM1190: Insights from Genomics, In Vitro, and In Vivo Studies.",
         "summary": "Two probiotic bacterial strains activate different immune responses: one enhances cellular immunity while the other boosts antibody production.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41866907/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-24"
+      },
+      {
+        "id": "reczPwYWmCIxUbBH0",
+        "title": "Lacticaseibacillus rhamnosus DACN152 effectively ameliorated letrozole-induced polycystic ovary syndrome: sex hormone homeostasis, microbiota and metabolite profiles.",
+        "summary": "A specific probiotic strain improved polycystic ovary syndrome symptoms in mice by restoring hormone levels and altering gut bacteria composition.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41744283/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -193,20 +207,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-23"
-      },
-      {
-        "id": "recMrjRisBq57klUb",
-        "title": "Red ginseng polysaccharide targets the PI3K/AKT/mTOR pathway to induce mitochondrial apoptosis in bladder cancer.",
-        "summary": "Red ginseng polysaccharide kills bladder cancer cells by triggering a specific cellular pathway that causes mitochondrial cell death.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41864385/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Bladder"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -859,10 +859,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12450,
+    "archive_count": 12451,
     "archive_supplements": 1437,
     "archive_off_label": 477,
     "archive_biomarkers": 7519,
-    "archive_trials": 2720
+    "archive_trials": 2721
   }
 }
