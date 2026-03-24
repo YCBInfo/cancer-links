@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-24T08:02:26.825Z",
+  "last_updated": "2026-03-24T09:01:47.370Z",
   "categories": {
     "supplements": [
       {
@@ -260,6 +260,20 @@
         "added_date": "2026-03-24"
       },
       {
+        "id": "rec2hGY9bXgtlnQQJ",
+        "title": "Broad-acting antivirals: the pursuit of pan-viral therapeutics in the era of pandemics.",
+        "summary": "Researchers are developing broad-acting antiviral drugs to protect against multiple viruses and future pandemics, using both direct viral attacks and host-cell targeting methods.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41870078/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-24"
+      },
+      {
         "id": "recgX5z58SBnYbRYe",
         "title": "The 1p/19q co-deletion induces targetable and imageable vulnerabilities in glucose metabolism in oligodendrogliomas.",
         "summary": "A genetic change in oligodendrogliomas creates a weakness in how cancer cells use glucose, offering new treatment and detection opportunities.",
@@ -410,20 +424,6 @@
           "Leukemia"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-21"
-      },
-      {
-        "id": "recO2Yro3E8zv5O1u",
-        "title": "Histone lactylation-driven feedback loop modulates pyrimidine metabolism to promote oral carcinogenesis.",
-        "summary": "Blocking lactate-driven histone modifications in oral cancer cells reduces tumor growth by disrupting a metabolic feedback loop.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41857010/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-21"
       }
@@ -861,10 +861,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12546,
+    "archive_count": 12547,
     "archive_supplements": 1452,
     "archive_off_label": 478,
     "archive_biomarkers": 7570,
-    "archive_trials": 2749
+    "archive_trials": 2750
   }
 }
