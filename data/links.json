@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-24T04:03:00.919Z",
+  "last_updated": "2026-03-24T04:03:12.718Z",
   "categories": {
     "supplements": [
       {
@@ -567,6 +567,20 @@
         "added_date": "2026-03-24"
       },
       {
+        "id": "rec9iPDqN611FiSxu",
+        "title": "Cytomegalovirus Drives the Development of Cytotoxic CD4+ T Cells in Patients With Multiple Sclerosis.",
+        "summary": "Cytomegalovirus infection triggers the development of killer CD4+ immune cells in multiple sclerosis patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41871309/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-24"
+      },
+      {
         "id": "recimpfM54OfEd9hr",
         "title": "Stable or not? unraveling the reliability of radiomic features in 4d-computed tomography in early-stage non-small cell lung cancer.",
         "summary": "Researchers developed a method to identify reliable imaging features in 4D-CT scans for lung cancer treatment planning and radiotherapy prediction.",
@@ -619,20 +633,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-23"
-      },
-      {
-        "id": "recp2rBbv11HgPgWz",
-        "title": "Investigating the mechanistic link between pesticide DDT and breast cancer through network toxicology, molecular docking, and molecular dynamics simulation.",
-        "summary": "Researchers identified twelve molecular targets showing how the pesticide DDT may contribute to breast cancer through hormone and growth signaling pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41865090/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-23"
       }
@@ -856,10 +856,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12345,
+    "archive_count": 12346,
     "archive_supplements": 1431,
     "archive_off_label": 477,
-    "archive_biomarkers": 7431,
+    "archive_biomarkers": 7432,
     "archive_trials": 2709
   }
 }
