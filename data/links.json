@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-24T04:02:49.566Z",
+  "last_updated": "2026-03-24T04:03:00.919Z",
   "categories": {
     "supplements": [
       {
@@ -553,6 +553,20 @@
         "added_date": "2026-03-24"
       },
       {
+        "id": "recE5aXOXtF4VPwnu",
+        "title": "Development of a novel immune infiltration-based gene signature to predict prognosis and immunotherapy response of a novel anti-PD-L1/TGF-β bifunctional fusion protein in recurrent cervical cancer.",
+        "summary": "A gene signature predicts which recurrent cervical cancer patients will respond to a new dual immunotherapy drug targeting PD-L1 and TGF-β.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41866914/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-24"
+      },
+      {
         "id": "recimpfM54OfEd9hr",
         "title": "Stable or not? unraveling the reliability of radiomic features in 4d-computed tomography in early-stage non-small cell lung cancer.",
         "summary": "Researchers developed a method to identify reliable imaging features in 4D-CT scans for lung cancer treatment planning and radiotherapy prediction.",
@@ -621,20 +635,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-23"
-      },
-      {
-        "id": "reccLK4K2K8SyM1cP",
-        "title": "Analysis of the NLRP3 inflammasome components expression in triple-negative breast cancer patients with and without BRCA1 mutations.",
-        "summary": "Low NLRP3 protein expression predicts worse survival in triple-negative breast cancer patients, suggesting inflammasome components as potential prognostic biomarkers.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41865075/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-23"
       }
     ],
     "trials": [
@@ -677,6 +677,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-24"
+      },
+      {
+        "id": "recE5aXOXtF4VPwnu",
+        "title": "Development of a novel immune infiltration-based gene signature to predict prognosis and immunotherapy response of a novel anti-PD-L1/TGF-β bifunctional fusion protein in recurrent cervical cancer.",
+        "summary": "A gene signature predicts which recurrent cervical cancer patients will respond to a new dual immunotherapy drug targeting PD-L1 and TGF-β.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41866914/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-24"
       },
@@ -833,20 +847,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-23"
-      },
-      {
-        "id": "recIq0XPDkL5DnD4V",
-        "title": "Cardiotoxicity of trametinib monotherapy in adults with neurofibromatosis type 1: Results from the TRAIN study.",
-        "summary": "Trametinib monotherapy for neurofibromatosis type 1 can cause heart damage in up to 7% of patients, requiring cardiac monitoring.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41864169/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-23"
       }
     ]
   },
@@ -856,10 +856,10 @@
     "biomarkers": 15,
     "trials": 15,
     "total": 60,
-    "archive_count": 12344,
+    "archive_count": 12345,
     "archive_supplements": 1431,
     "archive_off_label": 477,
-    "archive_biomarkers": 7430,
+    "archive_biomarkers": 7431,
     "archive_trials": 2709
   }
 }
