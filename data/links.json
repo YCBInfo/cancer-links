@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-29T16:48:49.943Z",
+  "last_updated": "2026-03-29T19:22:15.853Z",
   "categories": {
     "supplements": [
       {
@@ -115,6 +115,20 @@
         "added_date": "2026-03-29"
       },
       {
+        "id": "rec4e52Wo8iOssT9O",
+        "title": "Physical activity intensities and depression in colorectal cancer: interoceptive accuracy as a mediator and mindfulness as a moderator.",
+        "summary": "Exercise intensity may reduce depression in colorectal cancer survivors through improved body awareness, especially for those practicing mindfulness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41665746/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-29"
+      },
+      {
         "id": "recD1Dch5sPgOz7ld",
         "title": "Network pharmacology analysis of integration of dietary plant-derived natural flavonoids and gut microbiota for the treatment of Polycystic Ovary syndrome (PCOS).",
         "summary": "Plant flavonoids like luteolin and quercetin may treat PCOS by working with gut bacteria to regulate insulin and growth signaling pathways.",
@@ -195,20 +209,6 @@
           "Lung"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-24"
-      },
-      {
-        "id": "recHPFTnaCfgRNiOe",
-        "title": "Comparative Immunomodulatory Profiles of Bifidobacterium animalis subsp. lactis HOM2120 and Bifidobacterium longum subsp. longum HOM1190: Insights from Genomics, In Vitro, and In Vivo Studies.",
-        "summary": "Two probiotic bacterial strains activate different immune responses: one enhances cellular immunity while the other boosts antibody production.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41866907/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-24"
       }
@@ -610,24 +610,24 @@
         "added_date": "2026-03-29"
       },
       {
+        "id": "recE1nmCIjBWnqvZb",
+        "title": "Efficacy and Safety of Acupuncture-Related Interventions for Fatigue Quality of Life and Cancer-Related Indicators in Cancer Patients: A Systematic Review and Network Meta-Analysis.",
+        "summary": "Acupuncture-related treatments may reduce fatigue and improve quality of life in cancer survivors, with electroacupuncture showing the most promise.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41678412/",
+        "source": "PubMed",
+        "category": "Mind-Body & Spirituality",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 29,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-29"
+      },
+      {
         "id": "recxAHMzuiA8itdzO",
         "title": "Immune cell clustering identifies a CD163⁺/CSF1R⁺ macrophage and neutrophil-enriched phenotype with distinct biological signatures and poor prognosis in angiosarcoma.",
         "summary": "High levels of CSF1R-expressing macrophages in angiosarcoma identify aggressive tumors and poor survival outcomes.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41870007/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-24"
-      },
-      {
-        "id": "recukCoXcprlzoJzy",
-        "title": "The MYBL2-GTSE1 axis promotes laryngeal squamous cell carcinoma progression by regulating PI3K/AKT-dependent glycolytic reprogramming.",
-        "summary": "Researchers found that blocking the MYBL2-GTSE1 pathway may slow laryngeal cancer growth by reducing cancer cells' ability to use sugar for energy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41866755/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -1070,11 +1070,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 12658,
+    "archive_count": 12659,
     "archive_supplements": 1460,
     "archive_off_label": 483,
     "archive_biomarkers": 7585,
     "archive_trials": 2778,
-    "archive_mind_body": 60
+    "archive_mind_body": 61
   }
 }
