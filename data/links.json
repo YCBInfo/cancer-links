@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-29T16:35:08.231Z",
+  "last_updated": "2026-03-29T16:35:16.745Z",
   "categories": {
     "supplements": [
       {
@@ -780,6 +780,20 @@
         "added_date": "2026-03-29"
       },
       {
+        "id": "recQm7S66EFU01Yet",
+        "title": "Early palliative care for patients with oral cancer in Sri Lanka: A non-randomized controlled trial.",
+        "summary": "Early palliative care with structured home visits significantly reduced psychological distress and improved quality of life for oral cancer patients in Sri Lanka.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41801962/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 21,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-29"
+      },
+      {
         "id": "recLVa0VIqknqQNRr",
         "title": "Extracellular payload release from non-internalizing antibody-drug conjugates: mechanisms and linker technologies.",
         "summary": "Researchers developed non-internalizing antibody-drug conjugates that release cancer-killing drugs outside cells, overcoming resistance and improving treatment effectiveness.",
@@ -830,20 +844,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-24"
-      },
-      {
-        "id": "recp4ZI0BMchV5VS1",
-        "title": "Identifying a cancer therapeutic target: Cell-SELEX identifies a membrane protein for aptamer-mediated growth suppression.",
-        "summary": "Researchers identified a DNA aptamer that stops breast cancer growth by targeting a protein involved in cell metabolism and triggering senescence.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41871245/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -1070,11 +1070,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 12582,
+    "archive_count": 12583,
     "archive_supplements": 1456,
     "archive_off_label": 483,
     "archive_biomarkers": 7581,
-    "archive_trials": 2761,
+    "archive_trials": 2762,
     "archive_mind_body": 9
   }
 }
