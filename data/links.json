@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-29T16:44:19.841Z",
+  "last_updated": "2026-03-29T16:44:30.093Z",
   "categories": {
     "supplements": [
       {
@@ -512,6 +512,20 @@
         "added_date": "2026-03-29"
       },
       {
+        "id": "recHFXNdQNPPhvXJJ",
+        "title": "Chronic pain after mastectomy: current knowledge and knowledge gaps.",
+        "summary": "Post-mastectomy pain affects 28-52% of breast cancer patients; preventive treatments and therapies show promise but need larger studies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41733557/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-29"
+      },
+      {
         "id": "recxAHMzuiA8itdzO",
         "title": "Immune cell clustering identifies a CD163⁺/CSF1R⁺ macrophage and neutrophil-enriched phenotype with distinct biological signatures and poor prognosis in angiosarcoma.",
         "summary": "High levels of CSF1R-expressing macrophages in angiosarcoma identify aggressive tumors and poor survival outcomes.",
@@ -620,20 +634,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-24"
-      },
-      {
-        "id": "recN8fhQH1yB4Bp9T",
-        "title": "Synergistic effect of combined hyperthermia and radiotherapy mediated by AQP5 reduction in pancreatic cancer.",
-        "summary": "Combined heat and radiation therapy effectively treats pancreatic cancer by reducing a water channel protein called AQP5.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41867109/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Pancreatic"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-24"
       }
@@ -1070,11 +1070,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 12633,
+    "archive_count": 12634,
     "archive_supplements": 1460,
     "archive_off_label": 483,
     "archive_biomarkers": 7582,
-    "archive_trials": 2773,
+    "archive_trials": 2774,
     "archive_mind_body": 43
   }
 }
