@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-29T16:32:35.750Z",
+  "last_updated": "2026-03-29T16:32:45.555Z",
   "categories": {
     "supplements": [
       {
@@ -682,6 +682,20 @@
         "added_date": "2026-03-29"
       },
       {
+        "id": "reclX5s02jiGUmVBU",
+        "title": "Mindfulness-Oriented Recovery Enhancement for Cancer Pain Relief: Pilot Randomized Controlled Trial.",
+        "summary": "A mindfulness-based program called MORE effectively reduces chronic pain in cancer survivors when combined with standard treatments.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41490669/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-29"
+      },
+      {
         "id": "recLVa0VIqknqQNRr",
         "title": "Extracellular payload release from non-internalizing antibody-drug conjugates: mechanisms and linker technologies.",
         "summary": "Researchers developed non-internalizing antibody-drug conjugates that release cancer-killing drugs outside cells, overcoming resistance and improving treatment effectiveness.",
@@ -834,20 +848,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-24"
-      },
-      {
-        "id": "recyNXz0dpFqJkIH6",
-        "title": "Perioperative Management of Upper Tract Urothelial Carcinoma: Current Evidence and Future Directions.",
-        "summary": "Upper tract urothelial carcinoma remains challenging to treat due to aggressive progression, kidney damage risk, and lack of disease-specific treatment evidence.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41871219/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Bladder"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-24"
       }
     ],
     "mind_body": [
@@ -934,6 +934,20 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-29"
+      },
+      {
+        "id": "reclX5s02jiGUmVBU",
+        "title": "Mindfulness-Oriented Recovery Enhancement for Cancer Pain Relief: Pilot Randomized Controlled Trial.",
+        "summary": "A mindfulness-based program called MORE effectively reduces chronic pain in cancer survivors when combined with standard treatments.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41490669/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-29"
       }
     ]
   },
@@ -942,13 +956,13 @@
     "off_label": 15,
     "biomarkers": 15,
     "trials": 15,
-    "mind_body": 6,
-    "total": 66,
-    "archive_count": 12568,
+    "mind_body": 7,
+    "total": 67,
+    "archive_count": 12569,
     "archive_supplements": 1454,
     "archive_off_label": 483,
     "archive_biomarkers": 7580,
     "archive_trials": 2758,
-    "archive_mind_body": 1
+    "archive_mind_body": 2
   }
 }
