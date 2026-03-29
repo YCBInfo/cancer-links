@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-29T16:36:41.326Z",
+  "last_updated": "2026-03-29T16:36:53.914Z",
   "categories": {
     "supplements": [
       {
@@ -21,6 +21,20 @@
         "title": "Fungal-derived supplements in integrative oncology.",
         "summary": "Fungal supplements show promise in supporting cancer patients' immune function and well-being, warranting greater integration into cancer care.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41534686/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-29"
+      },
+      {
+        "id": "rec8fUEBAOjNIECz3",
+        "title": "Complementary and Alternative Medicine in Oncology: A Concise Review of Utilization, Evidence, and Integration Challenges.",
+        "summary": "Cancer patients widely use complementary medicine, but doctors and patients rarely discuss it, risking harmful drug interactions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41792942/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -189,20 +203,6 @@
         "title": "Geranium oil, a plant-derived essential oil, exhibits neuroprotective properties as a dietary intervention in a model of Parkinson's disease.",
         "summary": "Geranium oil from rose plants shows promise in protecting brain cells in Parkinson's disease models.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41872052/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-24"
-      },
-      {
-        "id": "rec3Lp0ZDfUwAUucW",
-        "title": "Anthropometric factors, physical activity, and the risk of soft tissue sarcoma: a case-control study.",
-        "summary": "Study examines how body size and physical activity levels affect soft tissue sarcoma risk, addressing a gap in understanding this rare cancer's causes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41867002/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -1070,11 +1070,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 12591,
+    "archive_count": 12592,
     "archive_supplements": 1456,
     "archive_off_label": 483,
     "archive_biomarkers": 7582,
     "archive_trials": 2764,
-    "archive_mind_body": 14
+    "archive_mind_body": 15
   }
 }
