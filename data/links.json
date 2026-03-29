@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-29T21:20:18.120Z",
+  "last_updated": "2026-03-29T21:20:30.424Z",
   "categories": {
     "supplements": [
       {
@@ -229,6 +229,20 @@
         "added_date": "2026-03-29"
       },
       {
+        "id": "rechitnxuYQg8W3zN",
+        "title": "[Cancer-related neuropsychiatric disorders].",
+        "summary": "Cancer impairs cognitive function through brain inflammation and aging, treatable with exercise, therapy, and mindfulness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41172028/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 10,
+        "pub_date": "2025-10-01",
+        "added_date": "2026-03-29"
+      },
+      {
         "id": "recjAqNb3LKWTWmuO",
         "title": "Single-cell profiling of HDAC inhibitor-induced EBV lytic heterogeneity defines abortive and refractory states in B lymphoblasts.",
         "summary": "HDAC inhibitors trigger EBV reactivation in lymphomas, but only some cells succeed; NF-κB and CD137 signaling block full viral activation.",
@@ -404,20 +418,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41860710/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-21"
-      },
-      {
-        "id": "rec0edfU7ENVEXsYG",
-        "title": "Second-generation prokineticin PKR1 receptor agonists: Advancing cardioprotection against chemotherapy-induced toxicity.",
-        "summary": "A new drug called IS39 protects the heart from damage caused by doxorubicin chemotherapy in cancer treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41860378/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
         "cancer_types": [
           "General"
         ],
@@ -1070,11 +1070,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 13014,
+    "archive_count": 13015,
     "archive_supplements": 1513,
     "archive_off_label": 483,
     "archive_biomarkers": 7602,
     "archive_trials": 2863,
-    "archive_mind_body": 261
+    "archive_mind_body": 262
   }
 }
