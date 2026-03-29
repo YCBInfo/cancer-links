@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-29T16:33:18.443Z",
+  "last_updated": "2026-03-29T16:33:29.775Z",
   "categories": {
     "supplements": [
       {
@@ -710,6 +710,20 @@
         "added_date": "2026-03-29"
       },
       {
+        "id": "rec24MymzrI3aCNRJ",
+        "title": "Effect of Acupuncture and Massage on Pain in Adolescent and Young Adult Patients with Advanced Cancer: Subgroup Analysis of a Randomized Clinical Trial.",
+        "summary": "Acupuncture and massage reduced pain in adolescent and young adult patients with advanced cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40803676/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-29"
+      },
+      {
         "id": "recLVa0VIqknqQNRr",
         "title": "Extracellular payload release from non-internalizing antibody-drug conjugates: mechanisms and linker technologies.",
         "summary": "Researchers developed non-internalizing antibody-drug conjugates that release cancer-killing drugs outside cells, overcoming resistance and improving treatment effectiveness.",
@@ -830,20 +844,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Lymphoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-24"
-      },
-      {
-        "id": "recrhybkUnnW6Zmg9",
-        "title": "American Society of Hematology 2025 guidelines for treating newly diagnosed acute myeloid leukemia in older adults.",
-        "summary": "New guidelines help doctors choose the best AML treatment for older patients by considering their health, preferences, and risk factors.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41321225/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -990,6 +990,20 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-29"
+      },
+      {
+        "id": "rec24MymzrI3aCNRJ",
+        "title": "Effect of Acupuncture and Massage on Pain in Adolescent and Young Adult Patients with Advanced Cancer: Subgroup Analysis of a Randomized Clinical Trial.",
+        "summary": "Acupuncture and massage reduced pain in adolescent and young adult patients with advanced cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40803676/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-29"
       }
     ]
   },
@@ -998,10 +1012,10 @@
     "off_label": 15,
     "biomarkers": 15,
     "trials": 15,
-    "mind_body": 10,
-    "total": 70,
-    "archive_count": 12572,
-    "archive_supplements": 1455,
+    "mind_body": 11,
+    "total": 71,
+    "archive_count": 12573,
+    "archive_supplements": 1456,
     "archive_off_label": 483,
     "archive_biomarkers": 7580,
     "archive_trials": 2758,
