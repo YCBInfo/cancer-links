@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-29T16:46:10.336Z",
+  "last_updated": "2026-03-29T16:46:21.281Z",
   "categories": {
     "supplements": [
       {
@@ -568,6 +568,20 @@
         "added_date": "2026-03-29"
       },
       {
+        "id": "rec9LVotBHrZgLOWT",
+        "title": "Prayer, politics, and policy related to age-adjusted cancer, heart disease, infant mortality, and COVID-19 death Rates, U.S. states 2018-2021.",
+        "summary": "States with higher daily prayer rates showed elevated cancer and heart disease death rates, potentially linked to reduced preventive health behaviors.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41706689/",
+        "source": "PubMed",
+        "category": "Mind-Body & Spirituality",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-29"
+      },
+      {
         "id": "recxAHMzuiA8itdzO",
         "title": "Immune cell clustering identifies a CD163⁺/CSF1R⁺ macrophage and neutrophil-enriched phenotype with distinct biological signatures and poor prognosis in angiosarcoma.",
         "summary": "High levels of CSF1R-expressing macrophages in angiosarcoma identify aggressive tumors and poor survival outcomes.",
@@ -616,20 +630,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41870379/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-24"
-      },
-      {
-        "id": "recDAGHpNGcCSQksS",
-        "title": "Pilot study on cannabis-induced alterations in platelet function: implications for transfusion medicine.",
-        "summary": "Cannabis exposure altered platelet function in lab tests, potentially affecting transfusion safety, though clinical impact requires further study.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41870043/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
@@ -1070,11 +1070,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 12643,
+    "archive_count": 12644,
     "archive_supplements": 1460,
     "archive_off_label": 483,
     "archive_biomarkers": 7583,
     "archive_trials": 2775,
-    "archive_mind_body": 50
+    "archive_mind_body": 51
   }
 }
