@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-29T16:45:28.358Z",
+  "last_updated": "2026-03-29T16:45:34.477Z",
   "categories": {
     "supplements": [
       {
@@ -101,6 +101,20 @@
         "added_date": "2026-03-29"
       },
       {
+        "id": "recmbFJeyhImCUl9D",
+        "title": "Integrated psychosocial, sleep, and immunonutritional intervention improves psychological adaptation, sleep disturbance, and inflammatory activation in rectal cancer: a randomized controlled trial.",
+        "summary": "A combined psychological, sleep, and nutritional program helped rectal cancer patients recover better psychologically and reduce inflammation compared to standard care.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41714581/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-29"
+      },
+      {
         "id": "recD1Dch5sPgOz7ld",
         "title": "Network pharmacology analysis of integration of dietary plant-derived natural flavonoids and gut microbiota for the treatment of Polycystic Ovary syndrome (PCOS).",
         "summary": "Plant flavonoids like luteolin and quercetin may treat PCOS by working with gut bacteria to regulate insulin and growth signaling pathways.",
@@ -189,20 +203,6 @@
         "title": "Comparative Immunomodulatory Profiles of Bifidobacterium animalis subsp. lactis HOM2120 and Bifidobacterium longum subsp. longum HOM1190: Insights from Genomics, In Vitro, and In Vivo Studies.",
         "summary": "Two probiotic bacterial strains activate different immune responses: one enhances cellular immunity while the other boosts antibody production.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41866907/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-24"
-      },
-      {
-        "id": "reczPwYWmCIxUbBH0",
-        "title": "Lacticaseibacillus rhamnosus DACN152 effectively ameliorated letrozole-induced polycystic ovary syndrome: sex hormone homeostasis, microbiota and metabolite profiles.",
-        "summary": "A specific probiotic strain improved polycystic ovary syndrome symptoms in mice by restoring hormone levels and altering gut bacteria composition.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41744283/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -1070,11 +1070,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 12639,
+    "archive_count": 12640,
     "archive_supplements": 1460,
     "archive_off_label": 483,
     "archive_biomarkers": 7583,
     "archive_trials": 2774,
-    "archive_mind_body": 47
+    "archive_mind_body": 48
   }
 }
