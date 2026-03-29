@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-29T20:15:14.694Z",
+  "last_updated": "2026-03-29T20:15:25.486Z",
   "categories": {
     "supplements": [
       {
@@ -215,6 +215,20 @@
     ],
     "off_label": [
       {
+        "id": "recpiRVOU8S9drmUM",
+        "title": "Research progress on chronic stress stimulation and gastric cancer metastasis.",
+        "summary": "Chronic psychological stress promotes gastric cancer spread through stress hormones that activate cancer cells and suppress immune defenses.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41288846/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Stomach"
+        ],
+        "quality_score": 13,
+        "pub_date": "2025-11-01",
+        "added_date": "2026-03-29"
+      },
+      {
         "id": "recjAqNb3LKWTWmuO",
         "title": "Single-cell profiling of HDAC inhibitor-induced EBV lytic heterogeneity defines abortive and refractory states in B lymphoblasts.",
         "summary": "HDAC inhibitors trigger EBV reactivation in lymphomas, but only some cells succeed; NF-κB and CD137 signaling block full viral activation.",
@@ -402,20 +416,6 @@
         "title": "Second-generation prokineticin PKR1 receptor agonists: Advancing cardioprotection against chemotherapy-induced toxicity.",
         "summary": "A new drug called IS39 protects the heart from damage caused by doxorubicin chemotherapy in cancer treatment.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41860378/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-21"
-      },
-      {
-        "id": "recYD3vSxm0bxlbKz",
-        "title": "Alterations in the testicular lipidome after tumor irradiation and their potential modulation by long-term losartan treatment.",
-        "summary": "Losartan treatment may help protect testicular function and fertility in cancer patients receiving radiation therapy by reducing radiation-induced lipid damage.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41860337/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -1070,11 +1070,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 12911,
+    "archive_count": 12912,
     "archive_supplements": 1499,
     "archive_off_label": 483,
     "archive_biomarkers": 7598,
     "archive_trials": 2843,
-    "archive_mind_body": 196
+    "archive_mind_body": 197
   }
 }
