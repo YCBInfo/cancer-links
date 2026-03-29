@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-29T16:37:47.214Z",
+  "last_updated": "2026-03-29T16:37:58.365Z",
   "categories": {
     "supplements": [
       {
@@ -56,6 +56,20 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-03-01",
+        "added_date": "2026-03-29"
+      },
+      {
+        "id": "rec7cxWVpeo8sXdzT",
+        "title": "Exercise interventions for health-related quality of life, fatigue, depression, and anxiety in colorectal cancer survivors: a systematic review and network meta-analysis.",
+        "summary": "Exercise improves quality of life, fatigue, depression, and anxiety in colorectal cancer survivors.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41490613/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 32,
+        "pub_date": "2026-02-01",
         "added_date": "2026-03-29"
       },
       {
@@ -195,20 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-24"
-      },
-      {
-        "id": "recO376YqAi6LPHXA",
-        "title": "Study on the effect of Ursolic acid on liver cancer cells using z-vad-fmk and ROS inhibitors.",
-        "summary": "Ursolic acid kills liver cancer cells by triggering apoptosis, a natural cell death process.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41868709/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Liver"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-24"
       }
@@ -1070,11 +1070,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 12597,
+    "archive_count": 12598,
     "archive_supplements": 1457,
     "archive_off_label": 483,
     "archive_biomarkers": 7582,
     "archive_trials": 2765,
-    "archive_mind_body": 18
+    "archive_mind_body": 19
   }
 }
