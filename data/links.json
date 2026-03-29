@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-03-24T11:51:13.944Z",
+  "last_updated": "2026-03-29T16:32:24.528Z",
   "categories": {
     "supplements": [
+      {
+        "id": "recdLdJ1CiMyN9bWi",
+        "title": "Exercise, nutrition, and psychological support for kidney cancer: a scoping review.",
+        "summary": "Exercise, nutrition, and psychological support interventions show promise for improving kidney cancer patient outcomes, though evidence gaps remain.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41549535/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Kidney"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-29"
+      },
       {
         "id": "recD1Dch5sPgOz7ld",
         "title": "Network pharmacology analysis of integration of dietary plant-derived natural flavonoids and gut microbiota for the treatment of Polycystic Ovary syndrome (PCOS).",
@@ -195,22 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-24"
-      },
-      {
-        "id": "recjlVrog6WKCeIHJ",
-        "title": "Cynaropicrin: A promising Sesquiterpene lactone with multifaceted therapeutic potential for various diseases.",
-        "summary": "Cynaropicrin, a plant compound, kills lung, breast, and skin cancer cells by triggering cell death and boosts chemotherapy effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41871790/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast",
-          "Lung",
-          "Melanoma"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-24"
       }
@@ -430,6 +428,20 @@
     ],
     "biomarkers": [
       {
+        "id": "rec7YE9KQt2ay45QQ",
+        "title": "pH- and nitroreductase-responsive SERS acupuncture needles enabling ratiometric detection in both solution and tissue environments.",
+        "summary": "Researchers developed special acupuncture needles that detect tumor markers directly in tissue without damage, using light-based sensing technology.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41605081/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-29"
+      },
+      {
         "id": "recxAHMzuiA8itdzO",
         "title": "Immune cell clustering identifies a CD163⁺/CSF1R⁺ macrophage and neutrophil-enriched phenotype with distinct biological signatures and poor prognosis in angiosarcoma.",
         "summary": "High levels of CSF1R-expressing macrophages in angiosarcoma identify aggressive tumors and poor survival outcomes.",
@@ -624,24 +636,51 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-24"
-      },
-      {
-        "id": "recbfh5Zt83SRk6Oe",
-        "title": "Synthetic lethality between RB-loss and E2F3 inhibition in small cell cancers targeted by pyrimidine synthesis blockade.",
-        "summary": "Blocking E2F3 protein or pyrimidine synthesis kills small cell cancers with RB loss, offering a potential new treatment approach.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41860961/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung",
-          "Prostate"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-24"
       }
     ],
     "trials": [
+      {
+        "id": "rec5SVyEVPUsiZXD2",
+        "title": "Influence of acupuncture and moxibustion on postoperative gastrointestinal dysfunction among patients with gastrointestinal cancer: A network meta-analysis.",
+        "summary": "Acupuncture and moxibustion may help gastrointestinal cancer patients recover digestive function faster after surgery with fewer side effects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41707884/",
+        "source": "PubMed",
+        "category": "Mind-Body & Spirituality",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-29"
+      },
+      {
+        "id": "recIQI55pDE9iThm5",
+        "title": "Effectiveness of mindfulness-based interventions on quality of life in women breast cancer survivors: a systematic review and meta-analysis.",
+        "summary": "Mindfulness-based programs significantly improve quality of life and reduce psychological distress in breast cancer survivors.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41570361/",
+        "source": "PubMed",
+        "category": "Mind-Body & Spirituality",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-29"
+      },
+      {
+        "id": "recdLdJ1CiMyN9bWi",
+        "title": "Exercise, nutrition, and psychological support for kidney cancer: a scoping review.",
+        "summary": "Exercise, nutrition, and psychological support interventions show promise for improving kidney cancer patient outcomes, though evidence gaps remain.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41549535/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Kidney"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-29"
+      },
       {
         "id": "recLVa0VIqknqQNRr",
         "title": "Extracellular payload release from non-internalizing antibody-drug conjugates: mechanisms and linker technologies.",
@@ -809,64 +848,93 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-24"
-      },
+      }
+    ],
+    "mind_body": [
       {
-        "id": "rec2FBB8JAkSpR4DK",
-        "title": "Global trends and forecasts of cervical cancer and a real-world safety assessment of human papillomavirus vaccines in women: A systematic analysis of the Global Burden of Disease study 2021 and the Vaccine Adverse Event Reporting System database.",
-        "summary": "HPV vaccines are safe and effective for preventing cervical cancer, particularly benefiting women in low- and middle-income countries.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41871050/",
+        "id": "rec0bC58SHbMFRlb3",
+        "title": "The role of acupuncture in managing hyperhidrosis and vasomotor sweating: Evidence, mechanisms, and gaps.",
+        "summary": "Acupuncture shows promise as a non-drug treatment for excessive sweating and hot flushes, though more research is needed to confirm its effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41765151/",
         "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
+        "category": "Mind-Body & Spirituality",
         "cancer_types": [
           "General"
         ],
         "quality_score": 12,
         "pub_date": "2026-03-01",
-        "added_date": "2026-03-24"
+        "added_date": "2026-03-29"
       },
       {
-        "id": "rec4WKXCYeuelVoqz",
-        "title": "From Breakthroughs to Blueprints: Evolving Evidence and Future Directions in Relapsed and Refractory Large B-Cell Lymphoma.",
-        "summary": "New drugs like antibody-drug conjugates and bispecific antibodies outperform chemotherapy for relapsed large B-cell lymphoma, but better trial designs are needed.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41871044/",
+        "id": "rec5SVyEVPUsiZXD2",
+        "title": "Influence of acupuncture and moxibustion on postoperative gastrointestinal dysfunction among patients with gastrointestinal cancer: A network meta-analysis.",
+        "summary": "Acupuncture and moxibustion may help gastrointestinal cancer patients recover digestive function faster after surgery with fewer side effects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41707884/",
         "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
+        "category": "Mind-Body & Spirituality",
         "cancer_types": [
-          "Lymphoma"
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-29"
+      },
+      {
+        "id": "recS9Mg24drLUj4pp",
+        "title": "The Spiritual Experiences of Indonesian Women With Advanced Breast Cancer: A Phenomenological Study.",
+        "summary": "Indonesian women with advanced breast cancer use spiritual practices like prayer and religious devotion as essential coping resources for emotional resilience and peace.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41614440/",
+        "source": "PubMed",
+        "category": "Mind-Body & Spirituality",
+        "cancer_types": [
+          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
-        "added_date": "2026-03-24"
+        "added_date": "2026-03-29"
       },
       {
-        "id": "recWnjS07AjYnuNje",
-        "title": "Recent progress in T-cell malignancies including adult T-cell leukemia-lymphoma.",
-        "summary": "T-cell lymphomas now have better treatments through molecular profiling, targeted therapies, and transplantation strategies.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41870834/",
+        "id": "recIQI55pDE9iThm5",
+        "title": "Effectiveness of mindfulness-based interventions on quality of life in women breast cancer survivors: a systematic review and meta-analysis.",
+        "summary": "Mindfulness-based programs significantly improve quality of life and reduce psychological distress in breast cancer survivors.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41570361/",
         "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
+        "category": "Mind-Body & Spirituality",
         "cancer_types": [
-          "Leukemia",
-          "Lymphoma"
+          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
-        "added_date": "2026-03-24"
+        "added_date": "2026-03-29"
+      },
+      {
+        "id": "recdLdJ1CiMyN9bWi",
+        "title": "Exercise, nutrition, and psychological support for kidney cancer: a scoping review.",
+        "summary": "Exercise, nutrition, and psychological support interventions show promise for improving kidney cancer patient outcomes, though evidence gaps remain.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41549535/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Kidney"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-29"
       }
-    ],
-    "mind_body": []
+    ]
   },
   "counts": {
     "supplements": 15,
     "off_label": 15,
     "biomarkers": 15,
     "trials": 15,
-    "mind_body": 0,
-    "total": 60,
-    "archive_count": 12571,
+    "mind_body": 5,
+    "total": 65,
+    "archive_count": 12567,
     "archive_supplements": 1454,
     "archive_off_label": 483,
-    "archive_biomarkers": 7579,
-    "archive_trials": 2758
+    "archive_biomarkers": 7580,
+    "archive_trials": 2758,
+    "archive_mind_body": 0
   }
 }
