@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-29T16:32:24.528Z",
+  "last_updated": "2026-03-29T16:32:35.750Z",
   "categories": {
     "supplements": [
       {
@@ -13,6 +13,20 @@
           "Kidney"
         ],
         "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-29"
+      },
+      {
+        "id": "recxaPOuJHYnK53xS",
+        "title": "Fungal-derived supplements in integrative oncology.",
+        "summary": "Fungal supplements show promise in supporting cancer patients' immune function and well-being, warranting greater integration into cancer care.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41534686/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-29"
       },
@@ -189,20 +203,6 @@
         "title": "Anthropometric factors, physical activity, and the risk of soft tissue sarcoma: a case-control study.",
         "summary": "Study examines how body size and physical activity levels affect soft tissue sarcoma risk, addressing a gap in understanding this rare cancer's causes.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41867002/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-24"
-      },
-      {
-        "id": "recLHrlvCdpm2MIQF",
-        "title": "Recent structural modification in halogenated flavonoids: a review.",
-        "summary": "Halogenated flavonoids show enhanced anti-tumor and anti-inflammatory properties, offering promise for developing new cancer-fighting drugs.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41866806/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -920,6 +920,20 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-29"
+      },
+      {
+        "id": "recxaPOuJHYnK53xS",
+        "title": "Fungal-derived supplements in integrative oncology.",
+        "summary": "Fungal supplements show promise in supporting cancer patients' immune function and well-being, warranting greater integration into cancer care.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41534686/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-29"
       }
     ]
   },
@@ -928,13 +942,13 @@
     "off_label": 15,
     "biomarkers": 15,
     "trials": 15,
-    "mind_body": 5,
-    "total": 65,
-    "archive_count": 12567,
+    "mind_body": 6,
+    "total": 66,
+    "archive_count": 12568,
     "archive_supplements": 1454,
     "archive_off_label": 483,
     "archive_biomarkers": 7580,
     "archive_trials": 2758,
-    "archive_mind_body": 0
+    "archive_mind_body": 1
   }
 }
