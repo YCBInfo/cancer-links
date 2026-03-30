@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-30T07:02:37.707Z",
+  "last_updated": "2026-03-30T07:02:49.925Z",
   "categories": {
     "supplements": [
       {
@@ -859,6 +859,20 @@
     ],
     "mind_body": [
       {
+        "id": "recv8l7cAG9BqCnvK",
+        "title": "A Randomized Controlled Trial Examining the Effect of a Web-Based Filial Therapy Program on Parental Role Perception Among Parents of Children With Cancer",
+        "summary": "A web-based filial therapy program helped parents of children with cancer better perceive their parenting role through structured play training.",
+        "url": "https://clinicaltrials.gov/study/NCT07495553",
+        "source": "ClinicalTrials.gov",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 19,
+        "pub_date": "2026-03-27",
+        "added_date": "2026-03-30"
+      },
+      {
         "id": "rec0bC58SHbMFRlb3",
         "title": "The role of acupuncture in managing hyperhidrosis and vasomotor sweating: Evidence, mechanisms, and gaps.",
         "summary": "Acupuncture shows promise as a non-drug treatment for excessive sweating and hot flushes, though more research is needed to confirm its effectiveness.",
@@ -1053,20 +1067,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-29"
-      },
-      {
-        "id": "recWqBirIs67jZY4d",
-        "title": "Mindfulness, Psychological Resilience, and Social Function Deficits in Young and Middle-Aged Lymphoma Patients: A Latent Profile and Mediation Analysis.",
-        "summary": "Mindfulness helps lymphoma patients maintain better social functioning by building psychological resilience.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41878700/",
-        "source": "PubMed",
-        "category": "Mind-Body & Spirituality",
-        "cancer_types": [
-          "Lymphoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-29"
       }
     ]
   },
@@ -1077,10 +1077,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 13238,
+    "archive_count": 13239,
     "archive_supplements": 1533,
     "archive_off_label": 485,
-    "archive_biomarkers": 7780,
+    "archive_biomarkers": 7781,
     "archive_trials": 2877,
     "archive_mind_body": 271
   }
