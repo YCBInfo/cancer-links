@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-30T04:35:12.956Z",
+  "last_updated": "2026-03-30T04:35:23.853Z",
   "categories": {
     "supplements": [
       {
@@ -276,6 +276,20 @@
         "added_date": "2026-03-30"
       },
       {
+        "id": "rec7V8y3B3ojGwC1J",
+        "title": "Pharmacologic targeting of the dopamine D2 receptor impacts the efficacy of immune checkpoint blockade in melanoma.",
+        "summary": "Blocking dopamine D2 receptors with FDA-approved drugs may enhance immune checkpoint inhibitor effectiveness in treating melanoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41895714/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Melanoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-30"
+      },
+      {
         "id": "recpiRVOU8S9drmUM",
         "title": "Research progress on chronic stress stimulation and gastric cancer metastasis.",
         "summary": "Chronic psychological stress promotes gastric cancer spread through stress hormones that activate cancer cells and suppress immune defenses.",
@@ -415,20 +429,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-24"
-      },
-      {
-        "id": "recgX5z58SBnYbRYe",
-        "title": "The 1p/19q co-deletion induces targetable and imageable vulnerabilities in glucose metabolism in oligodendrogliomas.",
-        "summary": "A genetic change in oligodendrogliomas creates a weakness in how cancer cells use glucose, offering new treatment and detection opportunities.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41863390/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-23"
       }
     ],
     "biomarkers": [
@@ -1077,10 +1077,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 13207,
+    "archive_count": 13208,
     "archive_supplements": 1532,
     "archive_off_label": 483,
-    "archive_biomarkers": 7757,
+    "archive_biomarkers": 7758,
     "archive_trials": 2872,
     "archive_mind_body": 271
   }
