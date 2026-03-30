@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-30T04:05:10.652Z",
+  "last_updated": "2026-03-30T04:05:22.859Z",
   "categories": {
     "supplements": [
       {
@@ -684,6 +684,20 @@
         "added_date": "2026-03-30"
       },
       {
+        "id": "recjeeD8Ff64AGjGK",
+        "title": "Efficacy and cost-effectiveness of lung cancer screening in France with low-dose computed tomography.",
+        "summary": "Low-dose CT lung cancer screening effectively saves lives in France and costs €7,629 per quality-adjusted life year gained.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40392283/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-30"
+      },
+      {
         "id": "rec5SVyEVPUsiZXD2",
         "title": "Influence of acupuncture and moxibustion on postoperative gastrointestinal dysfunction among patients with gastrointestinal cancer: A network meta-analysis.",
         "summary": "Acupuncture and moxibustion may help gastrointestinal cancer patients recover digestive function faster after surgery with fewer side effects.",
@@ -834,20 +848,6 @@
           "General"
         ],
         "quality_score": 21,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-29"
-      },
-      {
-        "id": "recJmtSovkQnzfYcb",
-        "title": "Mediating Effects of Mindfulness Compassion-based Peer Counseling Program for Breast Cancer Survivors: From Mindfulness, Compassion to Others to Depression Reduction.",
-        "summary": "A mindfulness and compassion program helped breast cancer survivors reduce depression through increased self-compassion and concern for others.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41815388/",
-        "source": "PubMed",
-        "category": "Mind-Body & Spirituality",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-29"
       }
@@ -1072,10 +1072,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 13041,
+    "archive_count": 13042,
     "archive_supplements": 1515,
     "archive_off_label": 483,
-    "archive_biomarkers": 7616,
+    "archive_biomarkers": 7617,
     "archive_trials": 2864,
     "archive_mind_body": 271
   }
