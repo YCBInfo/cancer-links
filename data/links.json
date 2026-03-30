@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-30T18:27:12.063Z",
+  "last_updated": "2026-03-30T18:27:22.353Z",
   "categories": {
     "supplements": [
       {
@@ -361,6 +361,20 @@
         "added_date": "2026-03-30"
       },
       {
+        "id": "rec1MFjJ6eTC26ORI",
+        "title": "Cerebroprotective potential of ceftriaxone against cadmium chloride-induced cerebral inflammatory changes and oxidative insult.",
+        "summary": "Ceftriaxone protects mouse brains from cadmium toxicity by reducing inflammation and oxidative damage while improving cognitive function.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41888414/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-30"
+      },
+      {
         "id": "recpiRVOU8S9drmUM",
         "title": "Research progress on chronic stress stimulation and gastric cancer metastasis.",
         "summary": "Chronic psychological stress promotes gastric cancer spread through stress hormones that activate cancer cells and suppress immune defenses.",
@@ -412,20 +426,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Stomach"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-24"
-      },
-      {
-        "id": "recKiTTt8kRzGTBhP",
-        "title": "Association of statin use with pathological complete response in postmenopausal patients with hormone receptor-positive breast cancer.",
-        "summary": "Statins may improve chemotherapy response in postmenopausal women with hormone receptor-positive breast cancer, though findings are preliminary and require confirmation.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41866606/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -1078,10 +1078,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 13421,
+    "archive_count": 13422,
     "archive_supplements": 1566,
     "archive_off_label": 488,
-    "archive_biomarkers": 7830,
+    "archive_biomarkers": 7831,
     "archive_trials": 2923,
     "archive_mind_body": 322
   }
