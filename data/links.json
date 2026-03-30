@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-30T04:09:25.821Z",
+  "last_updated": "2026-03-30T04:09:36.631Z",
   "categories": {
     "supplements": [
       {
@@ -65,6 +65,20 @@
         "title": "Metabolomics, network pharmacology, and molecular docking guided discrimination of constituents in four varieties of luohan guo (Siraitia grosvenorii): an assessment of core active ingredients and their potential antioxidant mechanisms.",
         "summary": "Study identifies key antioxidant compounds in different luohan guo varieties and explains how they protect cells from damage.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41531244/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-30"
+      },
+      {
+        "id": "recTShJnAKuPmya3K",
+        "title": "Impact of pectin addition on acrylamide formation in bakery products: mitigation strategies.",
+        "summary": "Adding pectin to bakery products like doughnuts and muffins reduces acrylamide, a potential carcinogen found in baked goods.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41482654/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -197,20 +211,6 @@
           "Colorectal"
         ],
         "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-29"
-      },
-      {
-        "id": "recjxZVkIhThjzK9r",
-        "title": "From Focusing on Pain to Focusing on What Can Change: Results from a Feasibility and Qualitative Study on an Integrated Pain Education and Yoga Program for Women with Pain Following Breast Cancer Treatment.",
-        "summary": "A combined yoga and pain education program significantly reduced pain and improved quality of life in breast cancer survivors with persistent pain.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41690684/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 24,
         "pub_date": "2026-02-01",
         "added_date": "2026-03-29"
       }
@@ -1074,10 +1074,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 13065,
+    "archive_count": 13066,
     "archive_supplements": 1517,
     "archive_off_label": 483,
-    "archive_biomarkers": 7637,
+    "archive_biomarkers": 7638,
     "archive_trials": 2865,
     "archive_mind_body": 271
   }
