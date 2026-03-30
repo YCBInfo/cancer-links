@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-30T04:06:37.686Z",
+  "last_updated": "2026-03-30T04:06:48.008Z",
   "categories": {
     "supplements": [
       {
@@ -712,6 +712,20 @@
         "added_date": "2026-03-30"
       },
       {
+        "id": "recBlk8C1vx3jSOB3",
+        "title": "Treating microsatellite unstable metastatic parathyroid carcinoma with anti-PD1 therapy.",
+        "summary": "Pembrolizumab immunotherapy successfully treated metastatic parathyroid carcinoma with microsatellite instability, normalizing hormone levels and shrinking tumors.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41878704/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Thyroid"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-30"
+      },
+      {
         "id": "rec5SVyEVPUsiZXD2",
         "title": "Influence of acupuncture and moxibustion on postoperative gastrointestinal dysfunction among patients with gastrointestinal cancer: A network meta-analysis.",
         "summary": "Acupuncture and moxibustion may help gastrointestinal cancer patients recover digestive function faster after surgery with fewer side effects.",
@@ -834,20 +848,6 @@
           "Breast"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-29"
-      },
-      {
-        "id": "recgxMmu84P8b1YKZ",
-        "title": "[Acupotomy combined with acupuncture for acute peripheral facial paralysis with mastoid region pain: a randomized controlled trial].",
-        "summary": "Acupotomy combined with acupuncture improves symptoms in patients with acute facial paralysis and mastoid pain.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41839590/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-29"
       }
@@ -1072,10 +1072,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 13049,
+    "archive_count": 13050,
     "archive_supplements": 1517,
     "archive_off_label": 483,
-    "archive_biomarkers": 7622,
+    "archive_biomarkers": 7623,
     "archive_trials": 2864,
     "archive_mind_body": 271
   }
