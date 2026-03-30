@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-30T04:09:36.631Z",
+  "last_updated": "2026-03-30T04:09:48.284Z",
   "categories": {
     "supplements": [
       {
@@ -79,6 +79,20 @@
         "title": "Impact of pectin addition on acrylamide formation in bakery products: mitigation strategies.",
         "summary": "Adding pectin to bakery products like doughnuts and muffins reduces acrylamide, a potential carcinogen found in baked goods.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41482654/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-30"
+      },
+      {
+        "id": "recHgXKcUTMbRo0Ea",
+        "title": "Safety-relevant contaminants and nutritional quality of hazelnut skin and pumpkin seed proteins.",
+        "summary": "Hazelnut skin and pumpkin seed proteins offer safe, nutritious alternatives to soy and pea proteins for food production.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41427514/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -193,20 +207,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41714581/",
         "source": "PubMed",
         "category": "Clinical Trials",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-29"
-      },
-      {
-        "id": "rec4e52Wo8iOssT9O",
-        "title": "Physical activity intensities and depression in colorectal cancer: interoceptive accuracy as a mediator and mindfulness as a moderator.",
-        "summary": "Exercise intensity may reduce depression in colorectal cancer survivors through improved body awareness, especially for those practicing mindfulness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41665746/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Colorectal"
         ],
@@ -1074,10 +1074,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 13066,
+    "archive_count": 13067,
     "archive_supplements": 1517,
     "archive_off_label": 483,
-    "archive_biomarkers": 7638,
+    "archive_biomarkers": 7639,
     "archive_trials": 2865,
     "archive_mind_body": 271
   }
