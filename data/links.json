@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-30T04:07:20.270Z",
+  "last_updated": "2026-03-30T04:07:30.238Z",
   "categories": {
     "supplements": [
       {
@@ -740,6 +740,20 @@
         "added_date": "2026-03-30"
       },
       {
+        "id": "recnwR2qp7oHekv8v",
+        "title": "Prediagnostic primary care consultations and imaging in emergency-diagnosed versus referred patients with lung cancer: a population-based linked data study.",
+        "summary": "Lung cancer patients diagnosed through emergency care have worse outcomes than those referred through primary care.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41344813/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-30"
+      },
+      {
         "id": "rec5SVyEVPUsiZXD2",
         "title": "Influence of acupuncture and moxibustion on postoperative gastrointestinal dysfunction among patients with gastrointestinal cancer: A network meta-analysis.",
         "summary": "Acupuncture and moxibustion may help gastrointestinal cancer patients recover digestive function faster after surgery with fewer side effects.",
@@ -834,20 +848,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-29"
-      },
-      {
-        "id": "recWqBirIs67jZY4d",
-        "title": "Mindfulness, Psychological Resilience, and Social Function Deficits in Young and Middle-Aged Lymphoma Patients: A Latent Profile and Mediation Analysis.",
-        "summary": "Mindfulness helps lymphoma patients maintain better social functioning by building psychological resilience.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41878700/",
-        "source": "PubMed",
-        "category": "Mind-Body & Spirituality",
-        "cancer_types": [
-          "Lymphoma"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-29"
       }
@@ -1072,10 +1072,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 13053,
+    "archive_count": 13054,
     "archive_supplements": 1517,
     "archive_off_label": 483,
-    "archive_biomarkers": 7626,
+    "archive_biomarkers": 7627,
     "archive_trials": 2864,
     "archive_mind_body": 271
   }
