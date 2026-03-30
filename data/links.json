@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-30T18:32:24.977Z",
+  "last_updated": "2026-03-30T18:32:35.796Z",
   "categories": {
     "supplements": [
       {
@@ -375,6 +375,20 @@
         "added_date": "2026-03-30"
       },
       {
+        "id": "recyr4L2z9e9svK1c",
+        "title": "A novel combination therapy for ER+ breast cancer suppresses drug resistance via an evolutionary double-bind.",
+        "summary": "Researchers found that combining chemotherapy with disulfiram in ER+ breast cancer forces resistant cells into an evolutionary trap, restoring drug sensitivity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41888569/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-30"
+      },
+      {
         "id": "recpiRVOU8S9drmUM",
         "title": "Research progress on chronic stress stimulation and gastric cancer metastasis.",
         "summary": "Chronic psychological stress promotes gastric cancer spread through stress hormones that activate cancer cells and suppress immune defenses.",
@@ -411,20 +425,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Lymphoma",
-          "Stomach"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-24"
-      },
-      {
-        "id": "recwEOI1Ap3hkFeEu",
-        "title": "HNF4α-HKDC1 axis orchestrates a metabolic rewiring to promote migration and metastasis in advanced gastric cancer.",
-        "summary": "Researchers identified that blocking the HNF4α-HKDC1 pathway in gastric cancer reduces cancer spread and metastasis.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41866549/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
           "Stomach"
         ],
         "quality_score": 15,
@@ -1078,10 +1078,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 13450,
+    "archive_count": 13451,
     "archive_supplements": 1574,
     "archive_off_label": 489,
-    "archive_biomarkers": 7845,
+    "archive_biomarkers": 7846,
     "archive_trials": 2928,
     "archive_mind_body": 322
   }
