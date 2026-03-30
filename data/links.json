@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-30T04:04:40.536Z",
+  "last_updated": "2026-03-30T04:04:50.519Z",
   "categories": {
     "supplements": [
       {
@@ -668,6 +668,20 @@
         "added_date": "2026-03-30"
       },
       {
+        "id": "recKB5w2PQff2MOKe",
+        "title": "MS4322 is a selective protein arginine methyltransferase 5 degrader with antitumor effects in cervical cancer cells.",
+        "summary": "MS4322 drug effectively kills cervical cancer cells by blocking a protein called PRMT5 that fuels tumor growth.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41891959/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-30"
+      },
+      {
         "id": "rec5SVyEVPUsiZXD2",
         "title": "Influence of acupuncture and moxibustion on postoperative gastrointestinal dysfunction among patients with gastrointestinal cancer: A network meta-analysis.",
         "summary": "Acupuncture and moxibustion may help gastrointestinal cancer patients recover digestive function faster after surgery with fewer side effects.",
@@ -832,20 +846,6 @@
           "Breast"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-29"
-      },
-      {
-        "id": "recvsFwIBQOXlFuqr",
-        "title": "Efficacy of Mindfulness-Based Interventions for Reducing Cancer-Related Fatigue: A Systematic Review and Meta-Analysis.",
-        "summary": "Mindfulness-based interventions show promise for reducing cancer-related fatigue, though research evidence remains mixed and inconsistent.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41873031/",
-        "source": "PubMed",
-        "category": "Mind-Body & Spirituality",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-29"
       }
@@ -1070,10 +1070,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 13038,
+    "archive_count": 13039,
     "archive_supplements": 1515,
     "archive_off_label": 483,
-    "archive_biomarkers": 7613,
+    "archive_biomarkers": 7614,
     "archive_trials": 2864,
     "archive_mind_body": 271
   }
