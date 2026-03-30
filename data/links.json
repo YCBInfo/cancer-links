@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-30T04:03:30.899Z",
+  "last_updated": "2026-03-30T04:03:41.291Z",
   "categories": {
     "supplements": [
       {
@@ -568,6 +568,20 @@
         "added_date": "2026-03-30"
       },
       {
+        "id": "rec4J61ORrQwfHfRS",
+        "title": "Targeting Mettl8-Tcf1 axis promotes CD8+ TPEX differentiation and antitumor immunity.",
+        "summary": "Blocking Mettl8 in lung cancer enhances immune cells' anti-tumor function and improves immunotherapy effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41891923/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-30"
+      },
+      {
         "id": "rec7YE9KQt2ay45QQ",
         "title": "pH- and nitroreductase-responsive SERS acupuncture needles enabling ratiometric detection in both solution and tissue environments.",
         "summary": "Researchers developed special acupuncture needles that detect tumor markers directly in tissue without damage, using light-based sensing technology.",
@@ -622,20 +636,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-29"
-      },
-      {
-        "id": "recRDcDF1gIaXa72l",
-        "title": "[Effect of ZHU Lian's acupuncture stimulation method on neurological function in rats with ischemic stroke based on the miR-34a-5p/YWHAG pathway].",
-        "summary": "ZHU Lian's acupuncture method improved neurological function in stroke rats by activating a specific cellular pathway.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41839598/",
-        "source": "PubMed",
-        "category": "Mind-Body & Spirituality",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-29"
       }
     ],
     "trials": [
@@ -648,6 +648,20 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-30"
+      },
+      {
+        "id": "rec4J61ORrQwfHfRS",
+        "title": "Targeting Mettl8-Tcf1 axis promotes CD8+ TPEX differentiation and antitumor immunity.",
+        "summary": "Blocking Mettl8 in lung cancer enhances immune cells' anti-tumor function and improves immunotherapy effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41891923/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -826,20 +840,6 @@
         "title": "Efficacy of Mindfulness-Based Interventions for Reducing Cancer-Related Fatigue: A Systematic Review and Meta-Analysis.",
         "summary": "Mindfulness-based interventions show promise for reducing cancer-related fatigue, though research evidence remains mixed and inconsistent.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41873031/",
-        "source": "PubMed",
-        "category": "Mind-Body & Spirituality",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-29"
-      },
-      {
-        "id": "recmpQi1wm4nS25D4",
-        "title": "Creative Arts Therapy for Anxiety, Depression, and Quality of Life in Cancer Patients: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
-        "summary": "Creative arts therapy significantly improves anxiety, depression, and quality of life in cancer patients, according to a comprehensive analysis of clinical trials.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41852192/",
         "source": "PubMed",
         "category": "Mind-Body & Spirituality",
         "cancer_types": [
@@ -1070,10 +1070,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 13032,
+    "archive_count": 13033,
     "archive_supplements": 1514,
     "archive_off_label": 483,
-    "archive_biomarkers": 7608,
+    "archive_biomarkers": 7609,
     "archive_trials": 2864,
     "archive_mind_body": 271
   }
