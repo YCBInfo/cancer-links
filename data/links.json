@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-30T04:04:28.324Z",
+  "last_updated": "2026-03-30T04:04:40.536Z",
   "categories": {
     "supplements": [
       {
@@ -11,6 +11,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-30"
+      },
+      {
+        "id": "recHyABHud9n3nPaG",
+        "title": "Polyphyllin II regulates ROS levels and promotes ferroptosis in bladder cancer cells.",
+        "summary": "Polyphyllin II kills bladder cancer cells by triggering ferroptosis through increased reactive oxygen species and reduced antioxidant protein activity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41891962/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Bladder"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -196,20 +210,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
-        "added_date": "2026-03-29"
-      },
-      {
-        "id": "recqNILEiycjLUWxT",
-        "title": "Systematic Umbrella Review and Meta-Meta-Analysis: Effectiveness of Physical Activity in Improving Depression and Anxiety in Children and Adolescents.",
-        "summary": "Physical activity effectively reduces depression and anxiety symptoms in children and adolescents, offering a promising therapeutic intervention.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/40239946/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 20,
-        "pub_date": "2026-01-01",
         "added_date": "2026-03-29"
       }
     ],
@@ -1070,10 +1070,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 13037,
+    "archive_count": 13038,
     "archive_supplements": 1515,
     "archive_off_label": 483,
-    "archive_biomarkers": 7612,
+    "archive_biomarkers": 7613,
     "archive_trials": 2864,
     "archive_mind_body": 271
   }
