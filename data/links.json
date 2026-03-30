@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-30T04:21:53.409Z",
+  "last_updated": "2026-03-30T04:22:03.346Z",
   "categories": {
     "supplements": [
       {
@@ -247,6 +247,21 @@
         "added_date": "2026-03-30"
       },
       {
+        "id": "recEcMbE3XVsyP9dG",
+        "title": "Dinaciclib reduces MCL-1 levels and triggers apoptosis in adult T-cell leukemia/lymphoma.",
+        "summary": "Dinaciclib kills adult T-cell leukemia/lymphoma cells by lowering MCL-1 protein levels and triggering programmed cell death.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41765274/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia",
+          "Lymphoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-30"
+      },
+      {
         "id": "recpiRVOU8S9drmUM",
         "title": "Research progress on chronic stress stimulation and gastric cancer metastasis.",
         "summary": "Chronic psychological stress promotes gastric cancer spread through stress hormones that activate cancer cells and suppress immune defenses.",
@@ -414,20 +429,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-23"
-      },
-      {
-        "id": "recK9y8oDl3uGIxEJ",
-        "title": "From Biomarker to Drug Target: Integrating ceRNA Networks and Pharmacogenomics to Reposition C5orf34 in Uterine Corpus Endometrial Cancer Therapy.",
-        "summary": "Researchers identified C5orf34 as a potential new drug target for uterine cancer that could improve patient outcomes and treatment options.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41863161/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-22"
       }
     ],
     "biomarkers": [
@@ -1076,10 +1077,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 13134,
+    "archive_count": 13135,
     "archive_supplements": 1528,
     "archive_off_label": 483,
-    "archive_biomarkers": 7692,
+    "archive_biomarkers": 7693,
     "archive_trials": 2868,
     "archive_mind_body": 271
   }
