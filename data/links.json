@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-30T04:07:50.840Z",
+  "last_updated": "2026-03-30T04:08:01.194Z",
   "categories": {
     "supplements": [
       {
@@ -217,6 +217,20 @@
     ],
     "off_label": [
       {
+        "id": "recdX2SmHQrzcisaQ",
+        "title": "Small-molecule CBLB inhibitor abolishes EGFR ubiquitination, reduces receptor endocytosis, and diminishes cell motility signaling.",
+        "summary": "A new drug blocks EGFR ubiquitination and reduces cancer cell movement in oral squamous cell carcinoma by preventing receptor internalization.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41894323/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lymphoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-30"
+      },
+      {
         "id": "recpiRVOU8S9drmUM",
         "title": "Research progress on chronic stress stimulation and gastric cancer metastasis.",
         "summary": "Chronic psychological stress promotes gastric cancer spread through stress hormones that activate cancer cells and suppress immune defenses.",
@@ -412,20 +426,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-22"
-      },
-      {
-        "id": "recKuiAA91VMp1hT3",
-        "title": "Enhanced antitumor activity of atorvastatin and luteolin, with or without doxorubicin, in a solid Ehrlich carcinoma mouse model: modulation of ABC transporters, telomerase, and cancer stem cells.",
-        "summary": "Atorvastatin and luteolin combination therapy effectively reduced solid Ehrlich carcinoma tumors by targeting chemoresistance mechanisms.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41860710/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-21"
       }
     ],
     "biomarkers": [
@@ -1074,10 +1074,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 13056,
+    "archive_count": 13057,
     "archive_supplements": 1517,
     "archive_off_label": 483,
-    "archive_biomarkers": 7629,
+    "archive_biomarkers": 7630,
     "archive_trials": 2864,
     "archive_mind_body": 271
   }
