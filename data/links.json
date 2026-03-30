@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-30T04:29:42.906Z",
+  "last_updated": "2026-03-30T04:29:53.529Z",
   "categories": {
     "supplements": [
       {
@@ -262,6 +262,20 @@
         "added_date": "2026-03-30"
       },
       {
+        "id": "rec17KSPkWi7BEGpg",
+        "title": "Lactate-mediated NK cell dysfunction as a prognostic marker and therapeutic target in breast cancer.",
+        "summary": "High lactate in breast tumors suppresses natural killer cells; blocking lactate restores immune cell function and tumor killing in breast cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41896548/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-30"
+      },
+      {
         "id": "recpiRVOU8S9drmUM",
         "title": "Research progress on chronic stress stimulation and gastric cancer metastasis.",
         "summary": "Chronic psychological stress promotes gastric cancer spread through stress hormones that activate cancer cells and suppress immune defenses.",
@@ -411,20 +425,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-23"
-      },
-      {
-        "id": "rec3hKn1goTKS5FrJ",
-        "title": "Propranolol enhances the oncolytic effect of newcastle disease virus on canine mammary tumor cell by modulating the IFN-I-mediated JAK-STAT signaling pathway.",
-        "summary": "Propranolol enhances a cancer-killing virus's effectiveness against canine breast tumors by suppressing immune signals that normally block viral replication.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41866332/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -1077,10 +1077,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 13177,
+    "archive_count": 13178,
     "archive_supplements": 1530,
     "archive_off_label": 483,
-    "archive_biomarkers": 7729,
+    "archive_biomarkers": 7730,
     "archive_trials": 2872,
     "archive_mind_body": 271
   }
