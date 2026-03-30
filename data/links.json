@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-30T04:07:30.238Z",
+  "last_updated": "2026-03-30T04:07:40.070Z",
   "categories": {
     "supplements": [
       {
@@ -754,6 +754,22 @@
         "added_date": "2026-03-30"
       },
       {
+        "id": "recjluU0bZa9Pzx9d",
+        "title": "GP perspectives on genomics in primary care: a qualitative study on using polygenic risk scores to evaluate cancer risk.",
+        "summary": "Doctors could use genetic risk scores to personalize cancer screening for melanoma, colorectal, breast, and prostate cancers in primary care.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40774796/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal",
+          "Prostate",
+          "Melanoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-30"
+      },
+      {
         "id": "rec5SVyEVPUsiZXD2",
         "title": "Influence of acupuncture and moxibustion on postoperative gastrointestinal dysfunction among patients with gastrointestinal cancer: A network meta-analysis.",
         "summary": "Acupuncture and moxibustion may help gastrointestinal cancer patients recover digestive function faster after surgery with fewer side effects.",
@@ -828,20 +844,6 @@
         "title": "Effect of Acupuncture and Massage on Pain in Adolescent and Young Adult Patients with Advanced Cancer: Subgroup Analysis of a Randomized Clinical Trial.",
         "summary": "Acupuncture and massage reduced pain in adolescent and young adult patients with advanced cancer.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/40803676/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-29"
-      },
-      {
-        "id": "reczwIsvOF3eS6RfL",
-        "title": "Group medical visits in cancer survivorship care: a scoping review.",
-        "summary": "Group medical visits help cancer survivors address unmet physical, emotional, and informational needs through combined care, education, and peer support.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/39557760/",
         "source": "PubMed",
         "category": "Clinical Trials",
         "cancer_types": [
@@ -1072,10 +1074,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 13054,
+    "archive_count": 13055,
     "archive_supplements": 1517,
     "archive_off_label": 483,
-    "archive_biomarkers": 7627,
+    "archive_biomarkers": 7628,
     "archive_trials": 2864,
     "archive_mind_body": 271
   }
