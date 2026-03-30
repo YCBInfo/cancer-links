@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-30T04:09:05.777Z",
+  "last_updated": "2026-03-30T04:09:16.019Z",
   "categories": {
     "supplements": [
       {
@@ -41,6 +41,20 @@
           "Lung",
           "Colorectal",
           "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-30"
+      },
+      {
+        "id": "recM97f1q4YaFfhAH",
+        "title": "Modulation of NF-κB and oxidative stress pathways in ethanol-induced gastric injury by a multi-component herbal formula: An in vivo study.",
+        "summary": "A herbal formula reduced stomach damage from chronic alcohol use by lowering inflammation and oxidative stress in animal studies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41904987/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Stomach"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -198,20 +212,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
-        "added_date": "2026-03-29"
-      },
-      {
-        "id": "rechRMIESRtTG3GwC",
-        "title": "Atlas-Based Mapping of Traditional Chinese Medicine Effects on Tumor Microcirculation Regulation.",
-        "summary": "Traditional Chinese Medicine may help regulate tumor blood flow, potentially reducing hypoxia and improving treatment resistance.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41640033/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
         "added_date": "2026-03-29"
       }
     ],
@@ -1074,10 +1074,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 13063,
+    "archive_count": 13064,
     "archive_supplements": 1517,
     "archive_off_label": 483,
-    "archive_biomarkers": 7635,
+    "archive_biomarkers": 7636,
     "archive_trials": 2865,
     "archive_mind_body": 271
   }
