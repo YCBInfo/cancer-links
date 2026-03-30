@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-30T04:13:21.437Z",
+  "last_updated": "2026-03-30T04:13:32.986Z",
   "categories": {
     "supplements": [
       {
@@ -826,6 +826,20 @@
         "added_date": "2026-03-30"
       },
       {
+        "id": "recBhp1UXzDXEAO9X",
+        "title": "Precision in Pharmacoeconomics: A Comparative Cost-Utility Analysis of Osimertinib in EGFR-Mutant NSCLC Using Traditional and Pharmacometric Models.",
+        "summary": "Pharmacometric modeling of osimertinib in EGFR-mutant lung cancer provides more accurate cost-effectiveness estimates than traditional methods.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41904352/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-30"
+      },
+      {
         "id": "rec5SVyEVPUsiZXD2",
         "title": "Influence of acupuncture and moxibustion on postoperative gastrointestinal dysfunction among patients with gastrointestinal cancer: A network meta-analysis.",
         "summary": "Acupuncture and moxibustion may help gastrointestinal cancer patients recover digestive function faster after surgery with fewer side effects.",
@@ -836,20 +850,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-29"
-      },
-      {
-        "id": "recIQI55pDE9iThm5",
-        "title": "Effectiveness of mindfulness-based interventions on quality of life in women breast cancer survivors: a systematic review and meta-analysis.",
-        "summary": "Mindfulness-based programs significantly improve quality of life and reduce psychological distress in breast cancer survivors.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41570361/",
-        "source": "PubMed",
-        "category": "Mind-Body & Spirituality",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-29"
       }
@@ -1074,8 +1074,8 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 13086,
-    "archive_supplements": 1524,
+    "archive_count": 13087,
+    "archive_supplements": 1525,
     "archive_off_label": 483,
     "archive_biomarkers": 7651,
     "archive_trials": 2865,
