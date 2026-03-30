@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-30T04:39:38.197Z",
+  "last_updated": "2026-03-30T07:01:43.534Z",
   "categories": {
     "supplements": [
       {
@@ -290,6 +290,20 @@
         "added_date": "2026-03-30"
       },
       {
+        "id": "recRdtXxkcr4aFOF5",
+        "title": "Multifactorial Intervention of Primary Prevention in High Risk Subjects: a Randomized Trial",
+        "summary": "A combination of smoking cessation, low-dose aspirin, diet changes, and CT screening may reduce cancer risk in heavy smokers.",
+        "url": "https://clinicaltrials.gov/study/NCT03654105",
+        "source": "ClinicalTrials.gov",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 10,
+        "pub_date": "2026-03-27",
+        "added_date": "2026-03-30"
+      },
+      {
         "id": "recpiRVOU8S9drmUM",
         "title": "Research progress on chronic stress stimulation and gastric cancer metastasis.",
         "summary": "Chronic psychological stress promotes gastric cancer spread through stress hormones that activate cancer cells and suppress immune defenses.",
@@ -411,20 +425,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-24"
-      },
-      {
-        "id": "recFMmgPxK23ccCEZ",
-        "title": "Association of nonselective β blockers with the development of hepatocellular carcinoma in liver cirrhosis: a meta-analysis.",
-        "summary": "Nonselective beta blockers may help prevent hepatocellular carcinoma in patients with liver cirrhosis by reducing inflammation.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41864541/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Liver"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -1077,11 +1077,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 13232,
+    "archive_count": 13233,
     "archive_supplements": 1533,
     "archive_off_label": 484,
     "archive_biomarkers": 7778,
-    "archive_trials": 2874,
+    "archive_trials": 2875,
     "archive_mind_body": 271
   }
 }
