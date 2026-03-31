@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-31T04:06:45.412Z",
+  "last_updated": "2026-03-31T04:06:55.967Z",
   "categories": {
     "supplements": [
       {
@@ -755,6 +755,20 @@
         "added_date": "2026-03-31"
       },
       {
+        "id": "recca6bPqGJZqNx0n",
+        "title": "IL-6 drives chemoimmunotherapy resistance in NSCLC by reprogramming myeloid cells and impairing cytotoxic lymphocyte function.",
+        "summary": "High IL-6 levels predict chemoimmunotherapy resistance in lung cancer by suppressing immune cells that fight tumors.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41554474/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-31"
+      },
+      {
         "id": "recm1E7uOQRJbKfbK",
         "title": "Age-related patterns in prostate cancer: epidemiology, pathology, treatment, and survival.",
         "summary": "Researchers systematically compared prostate cancer incidence, pathology, treatment, and survival outcomes across different age groups.",
@@ -833,20 +847,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Thyroid"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-30"
-      },
-      {
-        "id": "recwwmllb8fv9zMZG",
-        "title": "BRAF Mutation Drives Early Multifocal Intrahepatic Recurrence after Curative Resection of Liver-Limited Colorectal Metastases.",
-        "summary": "BRAF mutations in colorectal cancer patients predict early, widespread cancer return in the liver after surgery.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41532624/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -1073,10 +1073,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 13701,
+    "archive_count": 13702,
     "archive_supplements": 1609,
     "archive_off_label": 510,
-    "archive_biomarkers": 7943,
+    "archive_biomarkers": 7944,
     "archive_trials": 2967,
     "archive_mind_body": 380
   }
