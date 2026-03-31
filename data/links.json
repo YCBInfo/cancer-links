@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-31T04:22:54.558Z",
+  "last_updated": "2026-03-31T04:23:06.363Z",
   "categories": {
     "supplements": [
       {
@@ -129,6 +129,20 @@
         "added_date": "2026-03-31"
       },
       {
+        "id": "recOc2UE2PcRjqd5x",
+        "title": "Cardioprotection in oncology: Mechanisms, risks and therapeutic strategies.",
+        "summary": "Cancer drugs and radiation damage the heart through different mechanisms; exercise and lifestyle changes show promise, but better preventive treatments are urgently needed.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41906425/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-31"
+      },
+      {
         "id": "recASqBxNVIJIGXQQ",
         "title": "Ginkgolic acid targets HSPA8 to trigger ferroptosis in hepatocellular carcinoma via chaperone-mediated autophagy-dependent GPX4 degradation.",
         "summary": "Ginkgolic acid from Ginkgo biloba kills liver cancer cells by triggering a specific type of cell death called ferroptosis.",
@@ -191,20 +205,6 @@
         "title": "Metabolomics, network pharmacology, and molecular docking guided discrimination of constituents in four varieties of luohan guo (Siraitia grosvenorii): an assessment of core active ingredients and their potential antioxidant mechanisms.",
         "summary": "Study identifies key antioxidant compounds in different luohan guo varieties and explains how they protect cells from damage.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41531244/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-30"
-      },
-      {
-        "id": "recTShJnAKuPmya3K",
-        "title": "Impact of pectin addition on acrylamide formation in bakery products: mitigation strategies.",
-        "summary": "Adding pectin to bakery products like doughnuts and muffins reduces acrylamide, a potential carcinogen found in baked goods.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41482654/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -1073,10 +1073,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 13789,
+    "archive_count": 13790,
     "archive_supplements": 1610,
     "archive_off_label": 510,
-    "archive_biomarkers": 8019,
+    "archive_biomarkers": 8020,
     "archive_trials": 2978,
     "archive_mind_body": 380
   }
