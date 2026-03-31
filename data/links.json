@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-31T04:04:25.165Z",
+  "last_updated": "2026-03-31T04:04:36.302Z",
   "categories": {
     "supplements": [
       {
@@ -35,6 +35,20 @@
         "title": "Effects of Cannabidiol on TAFAZZIN-Deficient B-Lymphoblastoid Cells.",
         "summary": "Cannabidiol restored growth and corrected cardiolipin defects in Barth Syndrome patient cells, improving mitochondrial function.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41823370/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-31"
+      },
+      {
+        "id": "recQLlhPZRqFqUs4c",
+        "title": "Parthenolide Attenuates Skeletal Muscle Atrophy Through Regulation of Protein Homeostasis and Inhibition of Inflammation.",
+        "summary": "Parthenolide, a compound from feverfew, reduces skeletal muscle atrophy by suppressing inflammation and restoring muscle protein levels in mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41801191/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -197,20 +211,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-30"
-      },
-      {
-        "id": "rech6HWn88PDBHdDD",
-        "title": "HSP90 inhibition potentiates oxidant-based antimelanoma action of novel thioquercetin derivatives by compromising AhR/CYP1A1 pathway.",
-        "summary": "New quercetin derivatives combined with HSP90 inhibitors kill melanoma cells by increasing oxidative stress and blocking detoxification pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41903067/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Melanoma"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-30"
       }
@@ -627,18 +627,18 @@
         "added_date": "2026-03-31"
       },
       {
-        "id": "recvGofgzZ7oN0tWf",
-        "title": "Identification and characterization of a lipopolysaccharide binding, anti-inflammatory protein from Parabacteroides distasonis.",
-        "summary": "Researchers identified a gut bacteria protein that binds harmful bacterial toxins and reduces inflammatory responses, suggesting potential therapeutic benefits.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41904604/",
+        "id": "recQLlhPZRqFqUs4c",
+        "title": "Parthenolide Attenuates Skeletal Muscle Atrophy Through Regulation of Protein Homeostasis and Inhibition of Inflammation.",
+        "summary": "Parthenolide, a compound from feverfew, reduces skeletal muscle atrophy by suppressing inflammation and restoring muscle protein levels in mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41801191/",
         "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
+        "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "General"
         ],
         "quality_score": 12,
         "pub_date": "2026-03-01",
-        "added_date": "2026-03-30"
+        "added_date": "2026-03-31"
       }
     ],
     "trials": [
@@ -1075,10 +1075,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 13688,
+    "archive_count": 13689,
     "archive_supplements": 1605,
     "archive_off_label": 510,
-    "archive_biomarkers": 7934,
+    "archive_biomarkers": 7935,
     "archive_trials": 2967,
     "archive_mind_body": 380
   }
