@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-31T04:05:30.029Z",
+  "last_updated": "2026-03-31T04:05:39.812Z",
   "categories": {
     "supplements": [
       {
@@ -713,6 +713,20 @@
         "added_date": "2026-03-31"
       },
       {
+        "id": "recNHUGE34m2jgjJ1",
+        "title": "Copper ionophores drive divergent responses to immune checkpoint inhibition across colorectal tumor models.",
+        "summary": "Copper-binding drugs show promise with immunotherapy in colorectal cancer, but their effectiveness depends on tumor type and drug chemistry.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41580015/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-31"
+      },
+      {
         "id": "recm1E7uOQRJbKfbK",
         "title": "Age-related patterns in prostate cancer: epidemiology, pathology, treatment, and survival.",
         "summary": "Researchers systematically compared prostate cancer incidence, pathology, treatment, and survival outcomes across different age groups.",
@@ -837,20 +851,6 @@
           "Melanoma"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-30"
-      },
-      {
-        "id": "rec1oHmdqWUDOFQoM",
-        "title": "Tyrosine phosphoproteome profiling identifies cell-intrinsic signals limiting the efficacy of tyrosine kinase inhibitor therapies.",
-        "summary": "Combining SFK/ABL inhibitors with standard kinase inhibitors overcomes resistance by blocking compensatory signaling that limits cancer treatment effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41880579/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-30"
       }
@@ -1075,8 +1075,8 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 13694,
-    "archive_supplements": 1606,
+    "archive_count": 13695,
+    "archive_supplements": 1607,
     "archive_off_label": 510,
     "archive_biomarkers": 7939,
     "archive_trials": 2967,
