@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-03-31T04:03:00.211Z",
+  "last_updated": "2026-03-31T04:03:11.161Z",
   "categories": {
     "supplements": [
+      {
+        "id": "recBNjf5LzfXjf4xE",
+        "title": "Effect of Diosmetin on Gut Microbiota and Serum Metabolites in Acute Pancreatitis Mice: A Metagenomic and Metabolomic Study.",
+        "summary": "Diosmetin reduces pancreatic damage in acute pancreatitis mice by restoring healthy gut bacteria and their metabolites.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41854683/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-31"
+      },
       {
         "id": "recASqBxNVIJIGXQQ",
         "title": "Ginkgolic acid targets HSPA8 to trigger ferroptosis in hepatocellular carcinoma via chaperone-mediated autophagy-dependent GPX4 degradation.",
@@ -199,20 +213,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-30"
-      },
-      {
-        "id": "recGSy2ngOrFPd6z6",
-        "title": "Ginsenoside compound K targets DUSP5 to inhibit the malignant progression of glioblastoma via the ERK pathway.",
-        "summary": "Ginsenoside compound K slows glioblastoma growth by activating a protein that reduces cancer cell proliferation and extends survival in mice.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41759882/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Brain"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-30"
       }
@@ -517,6 +517,20 @@
         "added_date": "2026-03-31"
       },
       {
+        "id": "recBNjf5LzfXjf4xE",
+        "title": "Effect of Diosmetin on Gut Microbiota and Serum Metabolites in Acute Pancreatitis Mice: A Metagenomic and Metabolomic Study.",
+        "summary": "Diosmetin reduces pancreatic damage in acute pancreatitis mice by restoring healthy gut bacteria and their metabolites.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41854683/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-31"
+      },
+      {
         "id": "recvGofgzZ7oN0tWf",
         "title": "Identification and characterization of a lipopolysaccharide binding, anti-inflammatory protein from Parabacteroides distasonis.",
         "summary": "Researchers identified a gut bacteria protein that binds harmful bacterial toxins and reduces inflammatory responses, suggesting potential therapeutic benefits.",
@@ -623,20 +637,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-30"
-      },
-      {
-        "id": "recqeV6DTLwhgLoNt",
-        "title": "Diffuse pediatric-type high grade glioma, RTK1 subtype, subclass C with SYN2::PPARG fusion in an older adult.",
-        "summary": "A rare pediatric-type brain tumor with a novel SYN2::PPARG fusion was identified in an older adult, highlighting molecular testing's importance for accurate diagnosis.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41877551/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Brain"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -1077,10 +1077,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 13682,
+    "archive_count": 13683,
     "archive_supplements": 1604,
     "archive_off_label": 510,
-    "archive_biomarkers": 7929,
+    "archive_biomarkers": 7930,
     "archive_trials": 2967,
     "archive_mind_body": 380
   }
