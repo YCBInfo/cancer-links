@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-31T04:07:16.979Z",
+  "last_updated": "2026-03-31T04:07:27.437Z",
   "categories": {
     "supplements": [
       {
@@ -769,6 +769,20 @@
         "added_date": "2026-03-31"
       },
       {
+        "id": "rec1w17CNhTqUHb3X",
+        "title": "Enhanced prediction of breast cancer patient response to chemotherapy by integrating deconvolved expression patterns of immune, stromal and tumor cells.",
+        "summary": "A new analysis method predicts breast cancer chemotherapy response by examining immune and stromal cell expression patterns alongside tumor cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41176212/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-31"
+      },
+      {
         "id": "recm1E7uOQRJbKfbK",
         "title": "Age-related patterns in prostate cancer: epidemiology, pathology, treatment, and survival.",
         "summary": "Researchers systematically compared prostate cancer incidence, pathology, treatment, and survival outcomes across different age groups.",
@@ -835,20 +849,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-30"
-      },
-      {
-        "id": "recBlk8C1vx3jSOB3",
-        "title": "Treating microsatellite unstable metastatic parathyroid carcinoma with anti-PD1 therapy.",
-        "summary": "Pembrolizumab immunotherapy successfully treated metastatic parathyroid carcinoma with microsatellite instability, normalizing hormone levels and shrinking tumors.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41878704/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Thyroid"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-30"
       }
@@ -1073,10 +1073,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 13704,
+    "archive_count": 13705,
     "archive_supplements": 1609,
     "archive_off_label": 510,
-    "archive_biomarkers": 7946,
+    "archive_biomarkers": 7947,
     "archive_trials": 2967,
     "archive_mind_body": 380
   }
