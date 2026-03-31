@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-31T07:07:19.694Z",
+  "last_updated": "2026-03-31T08:02:28.186Z",
   "categories": {
     "supplements": [
       {
@@ -243,6 +243,20 @@
         "added_date": "2026-03-31"
       },
       {
+        "id": "recnLLBTin0AcvWrx",
+        "title": "Redefining surgical oncology: active immune microenvironment modulation beyond tumor resection.",
+        "summary": "Surgery triggers immune changes that increase cancer recurrence risk, but perioperative interventions like immunotherapy and specific drugs can preserve anti-tumor immunity and improve outcomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41880678/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-31"
+      },
+      {
         "id": "recdX2SmHQrzcisaQ",
         "title": "Small-molecule CBLB inhibitor abolishes EGFR ubiquitination, reduces receptor endocytosis, and diminishes cell motility signaling.",
         "summary": "A new drug blocks EGFR ubiquitination and reduces cancer cell movement in oral squamous cell carcinoma by preventing receptor internalization.",
@@ -405,20 +419,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41888569/",
         "source": "PubMed",
         "category": "Off-Label Medications",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-30"
-      },
-      {
-        "id": "recOSDUHbDMLaJCCD",
-        "title": "AdipoR1-AMPK axis suppresses breast cancer across molecular subtypes via multimodal cell death pathways, including ferroptosis and apoptosis.",
-        "summary": "Activating the AdipoR1 protein kills breast cancer cells through multiple mechanisms, including ferroptosis and apoptosis, across all molecular subtypes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41888104/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Breast"
         ],
@@ -1071,10 +1071,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 13867,
+    "archive_count": 13868,
     "archive_supplements": 1619,
     "archive_off_label": 512,
-    "archive_biomarkers": 8055,
+    "archive_biomarkers": 8056,
     "archive_trials": 3004,
     "archive_mind_body": 385
   }
