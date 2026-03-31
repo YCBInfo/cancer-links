@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-31T04:09:34.977Z",
+  "last_updated": "2026-03-31T04:09:45.696Z",
   "categories": {
     "supplements": [
       {
@@ -825,6 +825,20 @@
         "added_date": "2026-03-31"
       },
       {
+        "id": "rec2Y9HQ3f79vzskn",
+        "title": "Impact of Intraprostatic Simultaneous Integrated Boost on Long-Term Outcomes in Unfavorable Intermediate-Risk Prostate Cancer Treated With Dose-Escalated Radiotherapy and Short-Term Androgen Deprivation Therapy.",
+        "summary": "Boosting radiation dose to the prostate tumor itself improved outcomes for intermediate-risk prostate cancer patients receiving standard treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41911486/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-31"
+      },
+      {
         "id": "recm1E7uOQRJbKfbK",
         "title": "Age-related patterns in prostate cancer: epidemiology, pathology, treatment, and survival.",
         "summary": "Researchers systematically compared prostate cancer incidence, pathology, treatment, and survival outcomes across different age groups.",
@@ -833,20 +847,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Prostate"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-30"
-      },
-      {
-        "id": "rec4J61ORrQwfHfRS",
-        "title": "Targeting Mettl8-Tcf1 axis promotes CD8+ TPEX differentiation and antitumor immunity.",
-        "summary": "Blocking Mettl8 in lung cancer enhances immune cells' anti-tumor function and improves immunotherapy effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41891923/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -1073,10 +1073,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 13717,
+    "archive_count": 13718,
     "archive_supplements": 1609,
     "archive_off_label": 510,
-    "archive_biomarkers": 7959,
+    "archive_biomarkers": 7960,
     "archive_trials": 2967,
     "archive_mind_body": 380
   }
