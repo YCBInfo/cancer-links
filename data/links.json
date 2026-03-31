@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-31T04:06:22.391Z",
+  "last_updated": "2026-03-31T04:06:33.805Z",
   "categories": {
     "supplements": [
       {
@@ -83,6 +83,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-31"
+      },
+      {
+        "id": "reczMy0KzX1XcShaB",
+        "title": "TMEM11 promotes cisplatin resistance by inhibiting BNIP3-mediated mitophagy in bladder cancer.",
+        "summary": "TMEM11 protein promotes cisplatin resistance in bladder cancer by blocking cell death, and blocking TMEM11 with Curcumin restores drug sensitivity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41570932/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Bladder"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-03-31"
       },
@@ -197,20 +211,6 @@
           "Melanoma"
         ],
         "quality_score": 24,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-30"
-      },
-      {
-        "id": "recelNVZzol75DIRX",
-        "title": "Comparative liquid chromatography-electrospray ionization-tandem mass spectrometry profiling and bioactivity evaluation of Ebenus macrophylla Jaub. & Spach leaf, stalk and root extracts: an in vitro and in silico approach.",
-        "summary": "Turkish plant extracts showed antioxidant and antiproliferative properties in laboratory tests, with potential cancer-fighting applications.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41351334/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-30"
       }
@@ -1073,10 +1073,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 13699,
+    "archive_count": 13700,
     "archive_supplements": 1609,
     "archive_off_label": 510,
-    "archive_biomarkers": 7941,
+    "archive_biomarkers": 7942,
     "archive_trials": 2967,
     "archive_mind_body": 380
   }
