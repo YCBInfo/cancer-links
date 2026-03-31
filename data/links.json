@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-31T08:02:52.538Z",
+  "last_updated": "2026-03-31T09:02:18.099Z",
   "categories": {
     "supplements": [
       {
@@ -257,6 +257,20 @@
         "added_date": "2026-03-31"
       },
       {
+        "id": "recCJPmpyN0loHzZp",
+        "title": "Structure-based drug repurposing reveals ponatinib and lapatinib as stable inhibitors of Aurora kinase B: Mechanistic insights from high-resolution molecular dynamics and free-energy analyses.",
+        "summary": "Ponatinib and lapatinib, existing FDA-approved drugs, show promise as new Aurora kinase B inhibitors to treat cancer by preventing uncontrolled cell growth.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41905170/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-31"
+      },
+      {
         "id": "recdX2SmHQrzcisaQ",
         "title": "Small-molecule CBLB inhibitor abolishes EGFR ubiquitination, reduces receptor endocytosis, and diminishes cell motility signaling.",
         "summary": "A new drug blocks EGFR ubiquitination and reduces cancer cell movement in oral squamous cell carcinoma by preventing receptor internalization.",
@@ -409,20 +423,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-30"
-      },
-      {
-        "id": "recyr4L2z9e9svK1c",
-        "title": "A novel combination therapy for ER+ breast cancer suppresses drug resistance via an evolutionary double-bind.",
-        "summary": "Researchers found that combining chemotherapy with disulfiram in ER+ breast cancer forces resistant cells into an evolutionary trap, restoring drug sensitivity.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41888569/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-30"
       }
@@ -1071,10 +1071,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 13870,
+    "archive_count": 13871,
     "archive_supplements": 1619,
     "archive_off_label": 512,
-    "archive_biomarkers": 8058,
+    "archive_biomarkers": 8059,
     "archive_trials": 3004,
     "archive_mind_body": 385
   }
