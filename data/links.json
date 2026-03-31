@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-31T04:06:33.805Z",
+  "last_updated": "2026-03-31T04:06:45.412Z",
   "categories": {
     "supplements": [
       {
@@ -741,6 +741,20 @@
         "added_date": "2026-03-31"
       },
       {
+        "id": "recZv5hHAStuxR1FC",
+        "title": "The vulnerabilities of chemotherapy resistant pancreatic cancer revealed by organoids of pre- and post-neoadjuvant therapy.",
+        "summary": "Pancreatic cancer organoids reveal that chemotherapy activates KRAS signaling, making resistant tumors vulnerable to KRAS inhibitors.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41565051/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Pancreatic"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-03-31"
+      },
+      {
         "id": "recm1E7uOQRJbKfbK",
         "title": "Age-related patterns in prostate cancer: epidemiology, pathology, treatment, and survival.",
         "summary": "Researchers systematically compared prostate cancer incidence, pathology, treatment, and survival outcomes across different age groups.",
@@ -833,20 +847,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-30"
-      },
-      {
-        "id": "recnwR2qp7oHekv8v",
-        "title": "Prediagnostic primary care consultations and imaging in emergency-diagnosed versus referred patients with lung cancer: a population-based linked data study.",
-        "summary": "Lung cancer patients diagnosed through emergency care have worse outcomes than those referred through primary care.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41344813/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -1073,10 +1073,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 13700,
+    "archive_count": 13701,
     "archive_supplements": 1609,
     "archive_off_label": 510,
-    "archive_biomarkers": 7942,
+    "archive_biomarkers": 7943,
     "archive_trials": 2967,
     "archive_mind_body": 380
   }
