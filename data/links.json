@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-31T04:09:03.622Z",
+  "last_updated": "2026-03-31T04:09:13.949Z",
   "categories": {
     "supplements": [
       {
@@ -811,6 +811,20 @@
         "added_date": "2026-03-31"
       },
       {
+        "id": "recavHGN1E9ysg0O1",
+        "title": "Development of Machine Learning Models for Predicting Prostate Cancer in Biopsy Candidates Using Prostate-Specific Antigen, Magnetic Resonance Imaging, and Hematologic Parameters.",
+        "summary": "Researchers developed machine learning models combining PSA levels, MRI scans, and blood tests to better predict prostate cancer in biopsy candidates.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41911495/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-31"
+      },
+      {
         "id": "recm1E7uOQRJbKfbK",
         "title": "Age-related patterns in prostate cancer: epidemiology, pathology, treatment, and survival.",
         "summary": "Researchers systematically compared prostate cancer incidence, pathology, treatment, and survival outcomes across different age groups.",
@@ -835,20 +849,6 @@
           "Lung"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-30"
-      },
-      {
-        "id": "recKB5w2PQff2MOKe",
-        "title": "MS4322 is a selective protein arginine methyltransferase 5 degrader with antitumor effects in cervical cancer cells.",
-        "summary": "MS4322 drug effectively kills cervical cancer cells by blocking a protein called PRMT5 that fuels tumor growth.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41891959/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-30"
       }
@@ -1073,10 +1073,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 13714,
+    "archive_count": 13715,
     "archive_supplements": 1609,
     "archive_off_label": 510,
-    "archive_biomarkers": 7956,
+    "archive_biomarkers": 7957,
     "archive_trials": 2967,
     "archive_mind_body": 380
   }
