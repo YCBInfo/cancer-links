@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-31T04:03:11.161Z",
+  "last_updated": "2026-03-31T04:03:23.668Z",
   "categories": {
     "supplements": [
       {
@@ -531,6 +531,20 @@
         "added_date": "2026-03-31"
       },
       {
+        "id": "recGJEkdaeHPhA0LL",
+        "title": "Lactate Metabolism-Immune Regulation-Related Gene Signature in Lower-Grade Gliomas: Prognostic Model Development and Immune Characterization.",
+        "summary": "A three-gene signature predicts survival in low-grade gliomas and identifies patients who may benefit from specific cancer drugs.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41849028/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-31"
+      },
+      {
         "id": "recvGofgzZ7oN0tWf",
         "title": "Identification and characterization of a lipopolysaccharide binding, anti-inflammatory protein from Parabacteroides distasonis.",
         "summary": "Researchers identified a gut bacteria protein that binds harmful bacterial toxins and reduces inflammatory responses, suggesting potential therapeutic benefits.",
@@ -627,20 +641,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-30"
-      },
-      {
-        "id": "recASqBxNVIJIGXQQ",
-        "title": "Ginkgolic acid targets HSPA8 to trigger ferroptosis in hepatocellular carcinoma via chaperone-mediated autophagy-dependent GPX4 degradation.",
-        "summary": "Ginkgolic acid from Ginkgo biloba kills liver cancer cells by triggering a specific type of cell death called ferroptosis.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41877645/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-30"
       }
     ],
     "trials": [
@@ -669,6 +669,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-31"
+      },
+      {
+        "id": "recGJEkdaeHPhA0LL",
+        "title": "Lactate Metabolism-Immune Regulation-Related Gene Signature in Lower-Grade Gliomas: Prognostic Model Development and Immune Characterization.",
+        "summary": "A three-gene signature predicts survival in low-grade gliomas and identifies patients who may benefit from specific cancer drugs.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41849028/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Brain"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-31"
       },
@@ -833,20 +847,6 @@
         "title": "Incidence and management of pyrexia syndrome in patients treated with dabrafenib and trametinib: a retrospective study.",
         "summary": "Fever is a common side effect in patients taking dabrafenib and trametinib for BRAF-mutated cancers and requires careful management.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41904738/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-30"
-      },
-      {
-        "id": "rec6mi5bYRXyTFx2X",
-        "title": "Preclinical efficacy of combination therapy with allogeneic induced pluripotent stem cell-derived invariant natural killer T and α-galactosylceramide-pulsed antigen-presenting cells.",
-        "summary": "Lab-made immune cells combined with immune-boosting molecules effectively shrink tumors by activating anti-cancer T cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41904478/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -1077,10 +1077,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 13683,
+    "archive_count": 13684,
     "archive_supplements": 1604,
     "archive_off_label": 510,
-    "archive_biomarkers": 7930,
+    "archive_biomarkers": 7931,
     "archive_trials": 2967,
     "archive_mind_body": 380
   }
