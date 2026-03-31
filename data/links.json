@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-31T04:22:21.432Z",
+  "last_updated": "2026-03-31T04:22:32.436Z",
   "categories": {
     "supplements": [
       {
@@ -217,6 +217,20 @@
     ],
     "off_label": [
       {
+        "id": "recBLWBqHonFjKPpv",
+        "title": "Bafetinib enhances anti-tumor immunity by activating the NLRP3 inflammasome in macrophage.",
+        "summary": "Bafetinib activates immune cells in tumors by triggering a protein called NLRP3, enhancing cancer treatment when combined with immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41906654/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 18,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-31"
+      },
+      {
         "id": "recdX2SmHQrzcisaQ",
         "title": "Small-molecule CBLB inhibitor abolishes EGFR ubiquitination, reduces receptor endocytosis, and diminishes cell motility signaling.",
         "summary": "A new drug blocks EGFR ubiquitination and reduces cancer cell movement in oral squamous cell carcinoma by preventing receptor internalization.",
@@ -412,20 +426,6 @@
         ],
         "quality_score": 13,
         "pub_date": "2025-08-01",
-        "added_date": "2026-03-30"
-      },
-      {
-        "id": "recncu0tNTpz8qZtb",
-        "title": "Repurposing mesalamine via peptide-functionalized zeolitic imidazolate framework-8 (ZIF-8) nanoparticles for selective breast cancer targeting.",
-        "summary": "Researchers developed targeted nanoparticles delivering mesalamine to breast cancer cells, achieving superior tumor selectivity and cytotoxicity compared to free drug.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41906966/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
         "added_date": "2026-03-30"
       }
     ],
@@ -1073,10 +1073,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 13786,
+    "archive_count": 13787,
     "archive_supplements": 1610,
     "archive_off_label": 510,
-    "archive_biomarkers": 8016,
+    "archive_biomarkers": 8017,
     "archive_trials": 2978,
     "archive_mind_body": 380
   }
