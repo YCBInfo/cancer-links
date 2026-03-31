@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-31T04:03:54.173Z",
+  "last_updated": "2026-03-31T04:04:14.093Z",
   "categories": {
     "supplements": [
       {
@@ -585,6 +585,34 @@
         "added_date": "2026-03-31"
       },
       {
+        "id": "recCaNrooYSr3COJJ",
+        "title": "CSDE1 Drives Glycolysis and the Progression of Prostate Cancer Through RAC1-Dependent RAS/MAPK Activation.",
+        "summary": "CSDE1 protein drives prostate cancer growth by activating a signaling pathway that increases cancer cell energy production and spread.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41808419/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-31"
+      },
+      {
+        "id": "recRw8mQiXYZlYQ9g",
+        "title": "FNDC1 Competitively Binds Gβ2 to Suppress the β-Catenin-Destruction Complex and Promote Gastric Cancer Malignancy.",
+        "summary": "FNDC1 protein drives gastric cancer growth by disrupting a key signaling pathway that normally suppresses tumor development.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41808415/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-03-31"
+      },
+      {
         "id": "recvGofgzZ7oN0tWf",
         "title": "Identification and characterization of a lipopolysaccharide binding, anti-inflammatory protein from Parabacteroides distasonis.",
         "summary": "Researchers identified a gut bacteria protein that binds harmful bacterial toxins and reduces inflammatory responses, suggesting potential therapeutic benefits.",
@@ -607,34 +635,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Prostate"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-30"
-      },
-      {
-        "id": "recUSUhJGUw8FEHeU",
-        "title": "Molecular mechanisms and therapeutic strategies: DNA methylation in pancreatic cancer.",
-        "summary": "DNA methylation changes drive pancreatic cancer development and could improve diagnosis and treatment options.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41879036/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Pancreatic"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-30"
-      },
-      {
-        "id": "rec56y4hKLBunQrsx",
-        "title": "Epigenetic silencing L3MBTL4 sensitizes esophageal cancer to DNA-PKcs inhibitor.",
-        "summary": "Silencing L3MBTL4 protein makes esophageal cancer cells vulnerable to DNA-repair inhibitor drugs.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41876459/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Brain"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -1075,8 +1075,8 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 13686,
-    "archive_supplements": 1604,
+    "archive_count": 13687,
+    "archive_supplements": 1605,
     "archive_off_label": 510,
     "archive_biomarkers": 7933,
     "archive_trials": 2967,
