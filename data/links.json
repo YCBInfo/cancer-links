@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01T04:15:19.954Z",
+  "last_updated": "2026-04-01T04:15:31.061Z",
   "categories": {
     "supplements": [
       {
@@ -115,6 +115,20 @@
         "added_date": "2026-04-01"
       },
       {
+        "id": "recX5alTFSiH8oHAP",
+        "title": "Methoxy and Ketone Substitutions of Resveratrol Enhance Its Anticancer Activity by Increasing MEK and ERK Binding Affinity in Colorectal Cancer Cells.",
+        "summary": "Modified resveratrol (SM-23) with methoxy and ketone changes shows stronger anticancer effects against colorectal cancer cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41895748/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-01"
+      },
+      {
         "id": "recBNjf5LzfXjf4xE",
         "title": "Effect of Diosmetin on Gut Microbiota and Serum Metabolites in Acute Pancreatitis Mice: A Metagenomic and Metabolomic Study.",
         "summary": "Diosmetin reduces pancreatic damage in acute pancreatitis mice by restoring healthy gut bacteria and their metabolites.",
@@ -195,20 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-31"
-      },
-      {
-        "id": "reczMy0KzX1XcShaB",
-        "title": "TMEM11 promotes cisplatin resistance by inhibiting BNIP3-mediated mitophagy in bladder cancer.",
-        "summary": "TMEM11 protein promotes cisplatin resistance in bladder cancer by blocking cell death, and blocking TMEM11 with Curcumin restores drug sensitivity.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41570932/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Bladder"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-02-01",
         "added_date": "2026-03-31"
       }
@@ -1071,10 +1071,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 13943,
+    "archive_count": 13944,
     "archive_supplements": 1625,
     "archive_off_label": 514,
-    "archive_biomarkers": 8114,
+    "archive_biomarkers": 8115,
     "archive_trials": 3013,
     "archive_mind_body": 385
   }
