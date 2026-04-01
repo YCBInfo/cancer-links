@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01T09:02:53.327Z",
+  "last_updated": "2026-04-01T09:03:17.847Z",
   "categories": {
     "supplements": [
       {
@@ -341,6 +341,20 @@
         "added_date": "2026-04-01"
       },
       {
+        "id": "recyTFRmLCeU3Z2p8",
+        "title": "The Effect of Losartan in Preventing Paclitaxel-Induced Peripheral Neuropathy in Breast Cancer: A Randomized, Controlled Study.",
+        "summary": "Losartan may help prevent nerve damage caused by paclitaxel chemotherapy in breast cancer patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41800821/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-01"
+      },
+      {
         "id": "recBLWBqHonFjKPpv",
         "title": "Bafetinib enhances anti-tumor immunity by activating the NLRP3 inflammasome in macrophage.",
         "summary": "Bafetinib activates immune cells in tumors by triggering a protein called NLRP3, enhancing cancer treatment when combined with immunotherapy.",
@@ -405,20 +419,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Lymphoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-30"
-      },
-      {
-        "id": "recRP3a2Wz5FRfLgM",
-        "title": "NEK8 kinase-mediated lactate increase impairs antitumor immunity decreasing radiotherapy sensitivity in colorectal cancer.",
-        "summary": "NEK8 kinase promotes colorectal cancer radioresistance by increasing lactate, which suppresses immune T cells; blocking NEK8 restores immunity and improves radiotherapy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41904143/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -1069,10 +1069,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14228,
+    "archive_count": 14230,
     "archive_supplements": 1668,
     "archive_off_label": 519,
-    "archive_biomarkers": 8293,
+    "archive_biomarkers": 8295,
     "archive_trials": 3065,
     "archive_mind_body": 391
   }
