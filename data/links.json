@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01T09:06:05.926Z",
+  "last_updated": "2026-04-01T09:06:18.233Z",
   "categories": {
     "supplements": [
       {
@@ -383,6 +383,20 @@
         "added_date": "2026-04-01"
       },
       {
+        "id": "rece8SK1ULFadB8gD",
+        "title": "Mechanisms in diabetes mellitus: Relationships to metabolism and/or neoplasia.",
+        "summary": "Diabetes increases cancer risk by promoting cell growth; metformin and pioglitazone may reduce this risk by targeting metabolic pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41702311/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-01"
+      },
+      {
         "id": "recBLWBqHonFjKPpv",
         "title": "Bafetinib enhances anti-tumor immunity by activating the NLRP3 inflammasome in macrophage.",
         "summary": "Bafetinib activates immune cells in tumors by triggering a protein called NLRP3, enhancing cancer treatment when combined with immunotherapy.",
@@ -403,20 +417,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41912655/",
         "source": "PubMed",
         "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-31"
-      },
-      {
-        "id": "recnLLBTin0AcvWrx",
-        "title": "Redefining surgical oncology: active immune microenvironment modulation beyond tumor resection.",
-        "summary": "Surgery triggers immune changes that increase cancer recurrence risk, but perioperative interventions like immunotherapy and specific drugs can preserve anti-tumor immunity and improve outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41880678/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
@@ -1069,10 +1069,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14245,
+    "archive_count": 14246,
     "archive_supplements": 1669,
     "archive_off_label": 522,
-    "archive_biomarkers": 8300,
+    "archive_biomarkers": 8301,
     "archive_trials": 3071,
     "archive_mind_body": 391
   }
