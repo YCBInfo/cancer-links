@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01T09:03:28.090Z",
+  "last_updated": "2026-04-01T09:03:51.157Z",
   "categories": {
     "supplements": [
       {
@@ -355,6 +355,20 @@
         "added_date": "2026-04-01"
       },
       {
+        "id": "recmoeRucKCQFQtZm",
+        "title": "Preventing First and Further Decompensation in Advanced Chronic Liver Disease.",
+        "summary": "Carvedilol and combined therapies effectively prevent liver decompensation in advanced chronic liver disease across disease stages.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41773498/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-01"
+      },
+      {
         "id": "recBLWBqHonFjKPpv",
         "title": "Bafetinib enhances anti-tumor immunity by activating the NLRP3 inflammasome in macrophage.",
         "summary": "Bafetinib activates immune cells in tumors by triggering a protein called NLRP3, enhancing cancer treatment when combined with immunotherapy.",
@@ -409,20 +423,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-31"
-      },
-      {
-        "id": "recdX2SmHQrzcisaQ",
-        "title": "Small-molecule CBLB inhibitor abolishes EGFR ubiquitination, reduces receptor endocytosis, and diminishes cell motility signaling.",
-        "summary": "A new drug blocks EGFR ubiquitination and reduces cancer cell movement in oral squamous cell carcinoma by preventing receptor internalization.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41894323/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lymphoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-30"
       }
     ],
     "biomarkers": [
@@ -1069,11 +1069,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14231,
+    "archive_count": 14233,
     "archive_supplements": 1668,
     "archive_off_label": 519,
     "archive_biomarkers": 8295,
-    "archive_trials": 3066,
+    "archive_trials": 3068,
     "archive_mind_body": 391
   }
 }
