@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01T04:13:12.567Z",
+  "last_updated": "2026-04-01T04:13:23.844Z",
   "categories": {
     "supplements": [
       {
@@ -81,6 +81,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-01"
+      },
+      {
+        "id": "recAlH1d9OtNFdj4K",
+        "title": "Allow Aloe to Do the Work: Aloe vera Constrains Growth of Bladder Cancer Cells and Modulates Expression of Key Costimulatory Molecules.",
+        "summary": "Aloe vera slows bladder cancer cell growth and enhances immune molecules that help the body fight cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41895774/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Bladder"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -193,20 +207,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Ovarian"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-31"
-      },
-      {
-        "id": "reclsiKXD84GQEbXv",
-        "title": "Optimization and chemical modification of exopolysaccharides from lactic acid bacteria: multi-functional health-promoting properties and structure-activity relationship.",
-        "summary": "Chemically modified bacterial compounds from fermented bamboo shoots inhibited lung cancer cell growth and migration in laboratory tests.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41910725/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -1071,10 +1071,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 13931,
+    "archive_count": 13932,
     "archive_supplements": 1623,
     "archive_off_label": 513,
-    "archive_biomarkers": 8106,
+    "archive_biomarkers": 8107,
     "archive_trials": 3012,
     "archive_mind_body": 385
   }
