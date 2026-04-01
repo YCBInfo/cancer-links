@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01T04:13:02.019Z",
+  "last_updated": "2026-04-01T04:13:12.567Z",
   "categories": {
     "supplements": [
       {
@@ -215,6 +215,20 @@
     ],
     "off_label": [
       {
+        "id": "recobXFoUdnQvrS2E",
+        "title": "Tenofovir Alafenamide Promotes Differentiation and Induces Apoptosis of AML Cells by Inhibiting Telomerase Reverse Transcriptase.",
+        "summary": "Tenofovir Alafenamide shows promise against acute myeloid leukemia by blocking telomerase and triggering cancer cell death and differentiation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41895776/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-01"
+      },
+      {
         "id": "recBLWBqHonFjKPpv",
         "title": "Bafetinib enhances anti-tumor immunity by activating the NLRP3 inflammasome in macrophage.",
         "summary": "Bafetinib activates immune cells in tumors by triggering a protein called NLRP3, enhancing cancer treatment when combined with immunotherapy.",
@@ -409,20 +423,6 @@
           "Stomach"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-30"
-      },
-      {
-        "id": "rec1MFjJ6eTC26ORI",
-        "title": "Cerebroprotective potential of ceftriaxone against cadmium chloride-induced cerebral inflammatory changes and oxidative insult.",
-        "summary": "Ceftriaxone protects mouse brains from cadmium toxicity by reducing inflammation and oxidative damage while improving cognitive function.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41888414/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-30"
       }
@@ -1071,10 +1071,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 13930,
+    "archive_count": 13931,
     "archive_supplements": 1623,
     "archive_off_label": 513,
-    "archive_biomarkers": 8105,
+    "archive_biomarkers": 8106,
     "archive_trials": 3012,
     "archive_mind_body": 385
   }
