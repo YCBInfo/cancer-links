@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-03-31T11:06:29.307Z",
+  "last_updated": "2026-04-01T04:02:56.488Z",
   "categories": {
     "supplements": [
+      {
+        "id": "recrV79V8TG11ppBH",
+        "title": "Spirocyclic β-lactone secondary metabolites modulate spliceosome function.",
+        "summary": "Researchers discovered that spirocyclic β-lactones, natural compounds from bacteria, kill cancer cells by targeting and disrupting the spliceosome, a cellular machine that processes genes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41915743/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-01"
+      },
       {
         "id": "recBNjf5LzfXjf4xE",
         "title": "Effect of Diosmetin on Gut Microbiota and Serum Metabolites in Acute Pancreatitis Mice: A Metagenomic and Metabolomic Study.",
@@ -189,20 +203,6 @@
         "title": "Astragalus membranaceus sprouts and their unique constituents regulate reactive oxygen species production, inflammation-related senescence-associated secretory phenotype components, and extracellular matrix in fibroblasts.",
         "summary": "Astragalus sprouts contain unique flavonoids that reduce aging signs in cells by activating antioxidant pathways and reducing inflammation.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41703852/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-31"
-      },
-      {
-        "id": "recDtUUtRuL1d6iaE",
-        "title": "Bioprospecting of the Amazonian mapati fruit (Pourouma cecropiifolia Martius): Antiproliferative and antimalarial potential of peel and seed hydroethanolic extracts.",
-        "summary": "Mapati fruit extracts from the Amazon show promise against lung cancer cells and malaria parasites while protecting DNA from damage.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41703810/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -429,6 +429,90 @@
     ],
     "biomarkers": [
       {
+        "id": "recp6v0DY7xYdeNpZ",
+        "title": "Integrating tumor and immune cell transcriptomics to predict immune checkpoint inhibitor primary resistance in metastatic melanoma.",
+        "summary": "Researchers identified an 82-gene signature that predicts which metastatic melanoma patients will resist immune checkpoint inhibitor therapy, enabling better treatment selection.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41913413/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Melanoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-01"
+      },
+      {
+        "id": "reciJYkzRoBrOj33d",
+        "title": "Costs and benefits of whole-exome, whole-transcriptome sequencing versus 50-gene panels for genomic profiling in solid tumors.",
+        "summary": "Comprehensive sequencing tests find more treatment-guiding mutations in solid tumors than limited 50-gene panels, but cost-effectiveness requires further analysis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41915379/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-01"
+      },
+      {
+        "id": "reckJSFuEQTgkPFqi",
+        "title": "Omission of clinical target volume in radiotherapy for unresectable stage III non-small cell lung cancer: a propensity score matching analysis.",
+        "summary": "Omitting clinical target volume during radiotherapy for advanced lung cancer showed comparable effectiveness with fewer side effects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41913550/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-01"
+      },
+      {
+        "id": "recnTNgjtQydg2slg",
+        "title": "Blimp-1 integrates alarmin signals in ILC2s and drives proinflammatory functions required for type 2 immunity.",
+        "summary": "The transcription factor Blimp-1 is essential for immune cells to produce inflammatory proteins that trigger allergic responses and fight parasitic worms.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41915169/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-01"
+      },
+      {
+        "id": "recBje6xu36bZK0cH",
+        "title": "WFDC21P is essential for G3BP1-mediated RIG-I activation and antitumor immunity in triple-negative breast cancer.",
+        "summary": "WFDC21P protein boosts immune system activation against triple-negative breast cancer by enhancing RIG-I pathway signaling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41915747/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-01"
+      },
+      {
+        "id": "recrV79V8TG11ppBH",
+        "title": "Spirocyclic β-lactone secondary metabolites modulate spliceosome function.",
+        "summary": "Researchers discovered that spirocyclic β-lactones, natural compounds from bacteria, kill cancer cells by targeting and disrupting the spliceosome, a cellular machine that processes genes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41915743/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-01"
+      },
+      {
         "id": "recKI6zajvGfBFeIt",
         "title": "2H-pyrazolo[3,4-d]pyrimidin-4-amine derivatives as novel selective fibroblast growth factor receptor 2 (FGFR2) inhibitors.",
         "summary": "Researchers discovered PLW559, a new selective drug that blocks FGFR2 protein and stops growth of FGFR2-dependent cancer cells.",
@@ -553,93 +637,37 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-31"
-      },
-      {
-        "id": "recw31xZkkhADPsQ4",
-        "title": "Effects of Cannabidiol on TAFAZZIN-Deficient B-Lymphoblastoid Cells.",
-        "summary": "Cannabidiol restored growth and corrected cardiolipin defects in Barth Syndrome patient cells, improving mitochondrial function.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41823370/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-31"
-      },
-      {
-        "id": "recpTO4JRaObeFm3Z",
-        "title": "CBP/β-Catenin Signaling in Hepatocytes Plays Pivotal Roles in MMP-7-Mediated Liver Fibrosis in a Metabolic Dysfunction-Associated Steatohepatitis Mouse Model.",
-        "summary": "Blocking MMP-7 protein reduces liver fibrosis in a metabolic dysfunction-associated fatty liver disease mouse model, offering a potential treatment target.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41817001/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-31"
-      },
-      {
-        "id": "recCaNrooYSr3COJJ",
-        "title": "CSDE1 Drives Glycolysis and the Progression of Prostate Cancer Through RAC1-Dependent RAS/MAPK Activation.",
-        "summary": "CSDE1 protein drives prostate cancer growth by activating a signaling pathway that increases cancer cell energy production and spread.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41808419/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Prostate"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-31"
-      },
-      {
-        "id": "recRw8mQiXYZlYQ9g",
-        "title": "FNDC1 Competitively Binds Gβ2 to Suppress the β-Catenin-Destruction Complex and Promote Gastric Cancer Malignancy.",
-        "summary": "FNDC1 protein drives gastric cancer growth by disrupting a key signaling pathway that normally suppresses tumor development.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41808415/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Stomach"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-31"
-      },
-      {
-        "id": "recaby5WtCNdw4UWT",
-        "title": "Glucokinase Inactivation Reduces Lysophosphatidylcholine Accumulation to Alleviate High-Fat Diet-Induced Hepatic Steatosis.",
-        "summary": "Reducing glucokinase activity decreases harmful lipid buildup in the liver, protecting against fatty liver disease.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41806286/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-31"
-      },
-      {
-        "id": "recQLlhPZRqFqUs4c",
-        "title": "Parthenolide Attenuates Skeletal Muscle Atrophy Through Regulation of Protein Homeostasis and Inhibition of Inflammation.",
-        "summary": "Parthenolide, a compound from feverfew, reduces skeletal muscle atrophy by suppressing inflammation and restoring muscle protein levels in mice.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41801191/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-31"
       }
     ],
     "trials": [
+      {
+        "id": "recp6v0DY7xYdeNpZ",
+        "title": "Integrating tumor and immune cell transcriptomics to predict immune checkpoint inhibitor primary resistance in metastatic melanoma.",
+        "summary": "Researchers identified an 82-gene signature that predicts which metastatic melanoma patients will resist immune checkpoint inhibitor therapy, enabling better treatment selection.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41913413/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Melanoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-01"
+      },
+      {
+        "id": "reckJSFuEQTgkPFqi",
+        "title": "Omission of clinical target volume in radiotherapy for unresectable stage III non-small cell lung cancer: a propensity score matching analysis.",
+        "summary": "Omitting clinical target volume during radiotherapy for advanced lung cancer showed comparable effectiveness with fewer side effects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41913550/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-01"
+      },
       {
         "id": "recnzQdn0RvPhvnqQ",
         "title": "Diagnostic performance and generalizability of a clinical-ultrasound radiomics model for predicting extrathyroidal extension in thyroid carcinoma: a retrospective study.",
@@ -817,34 +845,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Prostate"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-31"
-      },
-      {
-        "id": "rec2Y9HQ3f79vzskn",
-        "title": "Impact of Intraprostatic Simultaneous Integrated Boost on Long-Term Outcomes in Unfavorable Intermediate-Risk Prostate Cancer Treated With Dose-Escalated Radiotherapy and Short-Term Androgen Deprivation Therapy.",
-        "summary": "Boosting radiation dose to the prostate tumor itself improved outcomes for intermediate-risk prostate cancer patients receiving standard treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41911486/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Prostate"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-31"
-      },
-      {
-        "id": "recxcQ7pWOxSgBrlA",
-        "title": "Identifying gene expression signatures for risk stratification of postoperative adjuvant chemotherapy in colorectal cancer.",
-        "summary": "Researchers identified gene expression biomarkers to help predict which colorectal cancer patients need chemotherapy after surgery.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41911341/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -1071,10 +1071,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 13876,
+    "archive_count": 13877,
     "archive_supplements": 1619,
     "archive_off_label": 513,
-    "archive_biomarkers": 8061,
+    "archive_biomarkers": 8062,
     "archive_trials": 3006,
     "archive_mind_body": 385
   }
