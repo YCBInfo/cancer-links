@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01T04:22:19.016Z",
+  "last_updated": "2026-04-01T04:22:30.496Z",
   "categories": {
     "supplements": [
       {
@@ -229,6 +229,20 @@
         "added_date": "2026-04-01"
       },
       {
+        "id": "recRJuJwiig6H6QyZ",
+        "title": "Effect of metformin on pancreatic neuroendocrine tumors of multiple endocrine neoplasia type 1.",
+        "summary": "Metformin did not prevent or slow pancreatic neuroendocrine tumors in MEN1 syndrome patients or mouse models.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41883001/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-01"
+      },
+      {
         "id": "recBLWBqHonFjKPpv",
         "title": "Bafetinib enhances anti-tumor immunity by activating the NLRP3 inflammasome in macrophage.",
         "summary": "Bafetinib activates immune cells in tumors by triggering a protein called NLRP3, enhancing cancer treatment when combined with immunotherapy.",
@@ -408,21 +422,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-30"
-      },
-      {
-        "id": "rec04THUpzjfMBLR4",
-        "title": "The Unfinished Agenda in Helicobacter pylori Treatment: Resistance, Microbiome Effects, and Future Directions.",
-        "summary": "H. pylori antibiotic resistance and microbiome disruption threaten effective gastric cancer prevention, requiring new treatment approaches.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41905430/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lymphoma",
-          "Stomach"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-30"
       }
@@ -1071,10 +1070,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 13981,
+    "archive_count": 13982,
     "archive_supplements": 1630,
     "archive_off_label": 514,
-    "archive_biomarkers": 8144,
+    "archive_biomarkers": 8145,
     "archive_trials": 3016,
     "archive_mind_body": 385
   }
