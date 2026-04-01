@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01T04:03:59.804Z",
+  "last_updated": "2026-04-01T04:04:12.073Z",
   "categories": {
     "supplements": [
       {
@@ -583,6 +583,20 @@
         "added_date": "2026-04-01"
       },
       {
+        "id": "recdenBZCEvgJXLtk",
+        "title": "Causal Associations of Cerebrospinal Fluid and Circulating Metabolites With Malignant Brain Neoplasms: A Mendelian Randomization Analysis.",
+        "summary": "Researchers identified causal links between specific metabolites and brain tumor development, suggesting metabolic factors influence brain cancer risk.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41914438/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-01"
+      },
+      {
         "id": "recKI6zajvGfBFeIt",
         "title": "2H-pyrazolo[3,4-d]pyrimidin-4-amine derivatives as novel selective fibroblast growth factor receptor 2 (FGFR2) inhibitors.",
         "summary": "Researchers discovered PLW559, a new selective drug that blocks FGFR2 protein and stops growth of FGFR2-dependent cancer cells.",
@@ -615,20 +629,6 @@
         "title": "Patient acceptance of HPV self-sampling approach for cervical cancer screening: evidence from a pilot study in Kazakhstan.",
         "summary": "Women in Kazakhstan showed high acceptance of self-sampling HPV tests for cervical cancer screening in a pilot study.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41906369/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-31"
-      },
-      {
-        "id": "recxFEcpYgsCEHeJa",
-        "title": "G/C-ending and synonymous codon bias define functional translational programs that shape human tissue and cancer proteomes.",
-        "summary": "Codon choice in genes controls protein production, with A/T-biased codons driving cancer cell growth and G/C-biased codons promoting normal differentiation across cancer types.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41908083/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -1071,10 +1071,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 13882,
+    "archive_count": 13883,
     "archive_supplements": 1619,
     "archive_off_label": 513,
-    "archive_biomarkers": 8066,
+    "archive_biomarkers": 8067,
     "archive_trials": 3007,
     "archive_mind_body": 385
   }
