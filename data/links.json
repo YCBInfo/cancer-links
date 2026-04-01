@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01T07:01:51.728Z",
+  "last_updated": "2026-04-01T07:02:01.550Z",
   "categories": {
     "supplements": [
       {
@@ -299,6 +299,20 @@
         "added_date": "2026-04-01"
       },
       {
+        "id": "reczoMZgW9ZGZ26tg",
+        "title": "Neuroprotective Effect of Memantine and Rosuvastatin Against Oxaliplatin Induced Peripheral Neuropathy in Patients With Colorectal Cancer",
+        "summary": "Memantine and rosuvastatin may protect colorectal cancer patients from nerve damage caused by oxaliplatin chemotherapy.",
+        "url": "https://clinicaltrials.gov/study/NCT07504198",
+        "source": "ClinicalTrials.gov",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 13,
+        "pub_date": "2026-03-31",
+        "added_date": "2026-04-01"
+      },
+      {
         "id": "recBLWBqHonFjKPpv",
         "title": "Bafetinib enhances anti-tumor immunity by activating the NLRP3 inflammasome in macrophage.",
         "summary": "Bafetinib activates immune cells in tumors by triggering a protein called NLRP3, enhancing cancer treatment when combined with immunotherapy.",
@@ -406,20 +420,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-30"
-      },
-      {
-        "id": "rec7V8y3B3ojGwC1J",
-        "title": "Pharmacologic targeting of the dopamine D2 receptor impacts the efficacy of immune checkpoint blockade in melanoma.",
-        "summary": "Blocking dopamine D2 receptors with FDA-approved drugs may enhance immune checkpoint inhibitor effectiveness in treating melanoma.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41895714/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Melanoma"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -1070,10 +1070,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14194,
+    "archive_count": 14195,
     "archive_supplements": 1666,
     "archive_off_label": 517,
-    "archive_biomarkers": 8286,
+    "archive_biomarkers": 8287,
     "archive_trials": 3042,
     "archive_mind_body": 391
   }
