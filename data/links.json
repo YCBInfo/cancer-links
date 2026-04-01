@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01T09:06:39.819Z",
+  "last_updated": "2026-04-01T09:06:51.272Z",
   "categories": {
     "supplements": [
       {
@@ -397,6 +397,20 @@
         "added_date": "2026-04-01"
       },
       {
+        "id": "recXMs1dDMgRDcH4A",
+        "title": "Effect of promethazine and hydroxyzine, two inhibitors of Tumor Controlled Translational Protein (TCTP), on the growth of in vitro culture of Trypanosoma brucei gambiense and Trypanosoma congolense.",
+        "summary": "Two drugs that inhibit a parasite protein slow the growth of sleeping sickness parasites in laboratory tests, with promethazine proving more effective than hydroxyzine.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41679619/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-01"
+      },
+      {
         "id": "recBLWBqHonFjKPpv",
         "title": "Bafetinib enhances anti-tumor immunity by activating the NLRP3 inflammasome in macrophage.",
         "summary": "Bafetinib activates immune cells in tumors by triggering a protein called NLRP3, enhancing cancer treatment when combined with immunotherapy.",
@@ -407,20 +421,6 @@
           "General"
         ],
         "quality_score": 18,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-31"
-      },
-      {
-        "id": "recKdKLnOHRsd46aY",
-        "title": "Repurposing lurasidone to alleviate doxorubicin-induced cardiotoxicity and neurotoxicity via BDNF/TrkB/PI3K/Akt/CREB and miR-34a-5p/PGC-1α pathways.",
-        "summary": "Lurasidone protects the heart and brain from doxorubicin chemotherapy damage in rats by reducing toxicity and inflammation.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41912655/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-31"
       }
@@ -1069,10 +1069,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14248,
+    "archive_count": 14249,
     "archive_supplements": 1669,
     "archive_off_label": 522,
-    "archive_biomarkers": 8302,
+    "archive_biomarkers": 8303,
     "archive_trials": 3072,
     "archive_mind_body": 391
   }
