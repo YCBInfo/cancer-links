@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01T04:05:05.718Z",
+  "last_updated": "2026-04-01T04:05:14.947Z",
   "categories": {
     "supplements": [
       {
@@ -9,6 +9,20 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41915743/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-01"
+      },
+      {
+        "id": "rec2bT0B0mcA8B3pv",
+        "title": "Ginsenoside Rb1 Ameliorates Age-Related Cognitive Impairment Potentially by Modulating the NF-κB Signaling Pathway.",
+        "summary": "Ginsenoside Rb1 from ginseng improves age-related memory loss by reducing brain inflammation through a specific cellular pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41913595/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "General"
         ],
@@ -196,20 +210,6 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-03-01",
-        "added_date": "2026-03-31"
-      },
-      {
-        "id": "recAvdr4zrjocUZJi",
-        "title": "Astragalus membranaceus sprouts and their unique constituents regulate reactive oxygen species production, inflammation-related senescence-associated secretory phenotype components, and extracellular matrix in fibroblasts.",
-        "summary": "Astragalus sprouts contain unique flavonoids that reduce aging signs in cells by activating antioxidant pathways and reducing inflammation.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41703852/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-02-01",
         "added_date": "2026-03-31"
       }
     ],
@@ -1071,10 +1071,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 13887,
+    "archive_count": 13888,
     "archive_supplements": 1619,
     "archive_off_label": 513,
-    "archive_biomarkers": 8071,
+    "archive_biomarkers": 8072,
     "archive_trials": 3007,
     "archive_mind_body": 385
   }
