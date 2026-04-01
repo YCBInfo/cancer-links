@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01T09:04:29.462Z",
+  "last_updated": "2026-04-01T09:04:39.131Z",
   "categories": {
     "supplements": [
       {
@@ -369,6 +369,20 @@
         "added_date": "2026-04-01"
       },
       {
+        "id": "rec63E5hhhdIkcA9i",
+        "title": "Topical Imiquimod for Oral Cavity Leukoplakia and Dysplasia: A Scoping Review.",
+        "summary": "Imiquimod, an FDA-approved skin treatment, shows promise for treating precancerous mouth lesions when applied topically.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41758991/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-01"
+      },
+      {
         "id": "recBLWBqHonFjKPpv",
         "title": "Bafetinib enhances anti-tumor immunity by activating the NLRP3 inflammasome in macrophage.",
         "summary": "Bafetinib activates immune cells in tumors by triggering a protein called NLRP3, enhancing cancer treatment when combined with immunotherapy.",
@@ -403,20 +417,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41880678/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-31"
-      },
-      {
-        "id": "recCJPmpyN0loHzZp",
-        "title": "Structure-based drug repurposing reveals ponatinib and lapatinib as stable inhibitors of Aurora kinase B: Mechanistic insights from high-resolution molecular dynamics and free-energy analyses.",
-        "summary": "Ponatinib and lapatinib, existing FDA-approved drugs, show promise as new Aurora kinase B inhibitors to treat cancer by preventing uncontrolled cell growth.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41905170/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
         "cancer_types": [
           "General"
         ],
@@ -1069,9 +1069,9 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14236,
+    "archive_count": 14237,
     "archive_supplements": 1668,
-    "archive_off_label": 520,
+    "archive_off_label": 521,
     "archive_biomarkers": 8295,
     "archive_trials": 3070,
     "archive_mind_body": 391
