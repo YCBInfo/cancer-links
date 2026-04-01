@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01T04:04:32.590Z",
+  "last_updated": "2026-04-01T04:04:54.163Z",
   "categories": {
     "supplements": [
       {
@@ -625,18 +625,18 @@
         "added_date": "2026-04-01"
       },
       {
-        "id": "recKI6zajvGfBFeIt",
-        "title": "2H-pyrazolo[3,4-d]pyrimidin-4-amine derivatives as novel selective fibroblast growth factor receptor 2 (FGFR2) inhibitors.",
-        "summary": "Researchers discovered PLW559, a new selective drug that blocks FGFR2 protein and stops growth of FGFR2-dependent cancer cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41910341/",
+        "id": "recUzHTJvUohyErNr",
+        "title": "A Case of Immunotherapy Response to BRAFV600E-Mutant Lung Adenocarcinoma With Initial Resistance to Dabrafenib and Trametinib Combination Therapy.",
+        "summary": "A lung cancer patient resistant to standard BRAF-targeted drugs responded well to immunotherapy, suggesting a potential alternative treatment option.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41913938/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
-          "General"
+          "Lung"
         ],
-        "quality_score": 12,
+        "quality_score": 15,
         "pub_date": "2026-03-01",
-        "added_date": "2026-03-31"
+        "added_date": "2026-04-01"
       }
     ],
     "trials": [
@@ -719,6 +719,20 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-01"
+      },
+      {
+        "id": "recUzHTJvUohyErNr",
+        "title": "A Case of Immunotherapy Response to BRAFV600E-Mutant Lung Adenocarcinoma With Initial Resistance to Dabrafenib and Trametinib Combination Therapy.",
+        "summary": "A lung cancer patient resistant to standard BRAF-targeted drugs responded well to immunotherapy, suggesting a potential alternative treatment option.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41913938/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -831,20 +845,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Pancreatic"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-31"
-      },
-      {
-        "id": "recca6bPqGJZqNx0n",
-        "title": "IL-6 drives chemoimmunotherapy resistance in NSCLC by reprogramming myeloid cells and impairing cytotoxic lymphocyte function.",
-        "summary": "High IL-6 levels predict chemoimmunotherapy resistance in lung cancer by suppressing immune cells that fight tumors.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41554474/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -1071,10 +1071,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 13885,
+    "archive_count": 13886,
     "archive_supplements": 1619,
     "archive_off_label": 513,
-    "archive_biomarkers": 8069,
+    "archive_biomarkers": 8070,
     "archive_trials": 3007,
     "archive_mind_body": 385
   }
