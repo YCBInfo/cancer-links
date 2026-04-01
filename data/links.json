@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01T06:06:33.264Z",
+  "last_updated": "2026-04-01T06:06:46.592Z",
   "categories": {
     "supplements": [
       {
@@ -257,6 +257,20 @@
         "added_date": "2026-04-01"
       },
       {
+        "id": "recnD3hRuggH8HLeW",
+        "title": "Metformin triggers apoptosis via endoplasmic reticulum stress in HER2-positive breast cancer cell lines.",
+        "summary": "Metformin kills HER2-positive breast cancer cells by triggering stress responses that cause programmed cell death in a dose-dependent manner.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41822189/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-01"
+      },
+      {
         "id": "recBLWBqHonFjKPpv",
         "title": "Bafetinib enhances anti-tumor immunity by activating the NLRP3 inflammasome in macrophage.",
         "summary": "Bafetinib activates immune cells in tumors by triggering a protein called NLRP3, enhancing cancer treatment when combined with immunotherapy.",
@@ -402,20 +416,6 @@
         "title": "Burosumab treatment in an adult with FGF23-mediated hypophosphatemia due to cutaneous skeletal hypophosphatemia syndrome.",
         "summary": "Burosumab successfully treated an adult with rare cutaneous skeletal hypophosphatemia syndrome by targeting FGF23 protein instead of requiring multiple daily medications.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41907689/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-30"
-      },
-      {
-        "id": "recFTfVcrobayqY1K",
-        "title": "Malignant transformation in patients with monoclonal gammopathy of undetermined significance treated with teriparatide for osteoporosis: a bicenter retrospective study and analysis of the French national pharmacovigilance database.",
-        "summary": "Teriparatide appears safe for osteoporosis patients with precancerous blood cell changes, with minimal cancer progression observed.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41904726/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -1070,10 +1070,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14100,
+    "archive_count": 14101,
     "archive_supplements": 1636,
     "archive_off_label": 515,
-    "archive_biomarkers": 8233,
+    "archive_biomarkers": 8234,
     "archive_trials": 3035,
     "archive_mind_body": 389
   }
