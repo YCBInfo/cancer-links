@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01T04:03:32.712Z",
+  "last_updated": "2026-04-01T04:03:49.665Z",
   "categories": {
     "supplements": [
       {
@@ -555,6 +555,20 @@
         "added_date": "2026-04-01"
       },
       {
+        "id": "recUOqeEWXnLs2bG7",
+        "title": "Imaging-Detected Extranodal Extension in Head and Neck Cancer: Current Evidence, Standardized Grading, and Clinical Implications.",
+        "summary": "Imaging can detect cancer spread beyond lymph nodes in head and neck cancer, helping predict patient outcomes and guide treatment decisions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41914485/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-01"
+      },
+      {
         "id": "recKI6zajvGfBFeIt",
         "title": "2H-pyrazolo[3,4-d]pyrimidin-4-amine derivatives as novel selective fibroblast growth factor receptor 2 (FGFR2) inhibitors.",
         "summary": "Researchers discovered PLW559, a new selective drug that blocks FGFR2 protein and stops growth of FGFR2-dependent cancer cells.",
@@ -623,20 +637,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-31"
-      },
-      {
-        "id": "reclkZbLGa5ZoHraS",
-        "title": "CCNB2, NUSAP1, GTSE1, and TK1: potential dual biomarkers for pneumonia and lung adenocarcinoma.",
-        "summary": "Four genes (CCNB2, NUSAP1, GTSE1, TK1) drive both lung adenocarcinoma and pneumonia, offering potential diagnostic and treatment targets.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41908258/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-31"
       }
     ],
     "trials": [
@@ -679,6 +679,20 @@
           "Lung"
         ],
         "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-01"
+      },
+      {
+        "id": "recUOqeEWXnLs2bG7",
+        "title": "Imaging-Detected Extranodal Extension in Head and Neck Cancer: Current Evidence, Standardized Grading, and Clinical Implications.",
+        "summary": "Imaging can detect cancer spread beyond lymph nodes in head and neck cancer, helping predict patient outcomes and guide treatment decisions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41914485/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-04-01"
       },
@@ -827,20 +841,6 @@
         "title": "A Bilayer Feature Fusion Framework for Pan-Cancer Survival Prediction Based on Multihead Attention and Adaptive Differential Privacy: Model Development and Validation Study.",
         "summary": "Researchers developed a new method to predict cancer survival across multiple cancer types while protecting patient privacy.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41911549/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-31"
-      },
-      {
-        "id": "recsakvBSaONm8v5z",
-        "title": "Is Saturation Biopsy Still a Viable Alternative to Fusion Biopsy in the Era of Multiparametric MRI? A Comparative Analysis in Patients With Prior Negative Biopsy.",
-        "summary": "Saturation biopsy remains effective for detecting prostate cancer in men with previous negative biopsies, comparable to newer MRI-fusion techniques.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41911500/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -1071,10 +1071,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 13880,
+    "archive_count": 13881,
     "archive_supplements": 1619,
     "archive_off_label": 513,
-    "archive_biomarkers": 8064,
+    "archive_biomarkers": 8065,
     "archive_trials": 3007,
     "archive_mind_body": 385
   }
