@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01T04:04:21.370Z",
+  "last_updated": "2026-04-01T04:04:32.590Z",
   "categories": {
     "supplements": [
       {
@@ -611,6 +611,20 @@
         "added_date": "2026-04-01"
       },
       {
+        "id": "rec4PSXmbfr1WaY5s",
+        "title": "Correlation of Preoperative MRI Staging with Postoperative Histopathology in Rectal Cancer: A Cross-sectional Study.",
+        "summary": "MRI imaging accurately stages rectal cancer before surgery, correctly matching tumor extent in 87% of cases and helping guide treatment decisions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41914118/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-01"
+      },
+      {
         "id": "recKI6zajvGfBFeIt",
         "title": "2H-pyrazolo[3,4-d]pyrimidin-4-amine derivatives as novel selective fibroblast growth factor receptor 2 (FGFR2) inhibitors.",
         "summary": "Researchers discovered PLW559, a new selective drug that blocks FGFR2 protein and stops growth of FGFR2-dependent cancer cells.",
@@ -621,20 +635,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-31"
-      },
-      {
-        "id": "recnzQdn0RvPhvnqQ",
-        "title": "Diagnostic performance and generalizability of a clinical-ultrasound radiomics model for predicting extrathyroidal extension in thyroid carcinoma: a retrospective study.",
-        "summary": "Researchers developed an ultrasound-based model combining imaging patterns and clinical data to accurately predict thyroid cancer spread beyond the thyroid gland.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41906704/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Thyroid"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-31"
       }
@@ -705,6 +705,20 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-01"
+      },
+      {
+        "id": "rec4PSXmbfr1WaY5s",
+        "title": "Correlation of Preoperative MRI Staging with Postoperative Histopathology in Rectal Cancer: A Cross-sectional Study.",
+        "summary": "MRI imaging accurately stages rectal cancer before surgery, correctly matching tumor extent in 87% of cases and helping guide treatment decisions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41914118/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -831,20 +845,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-31"
-      },
-      {
-        "id": "rec1w17CNhTqUHb3X",
-        "title": "Enhanced prediction of breast cancer patient response to chemotherapy by integrating deconvolved expression patterns of immune, stromal and tumor cells.",
-        "summary": "A new analysis method predicts breast cancer chemotherapy response by examining immune and stromal cell expression patterns alongside tumor cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41176212/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -1071,10 +1071,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 13884,
+    "archive_count": 13885,
     "archive_supplements": 1619,
     "archive_off_label": 513,
-    "archive_biomarkers": 8068,
+    "archive_biomarkers": 8069,
     "archive_trials": 3007,
     "archive_mind_body": 385
   }
