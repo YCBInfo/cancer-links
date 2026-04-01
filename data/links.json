@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01T04:12:20.260Z",
+  "last_updated": "2026-04-01T04:12:30.194Z",
   "categories": {
     "supplements": [
       {
@@ -69,6 +69,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-01"
+      },
+      {
+        "id": "recjFYBVzCFOIxprD",
+        "title": "Myosteatosis mediates the link between specific dietary components and colorectal carcinogenesis: from PPLSS multi-center study.",
+        "summary": "Certain foods may increase colorectal cancer risk by causing fat buildup in muscles, according to a multi-center study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41895833/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-04-01"
       },
@@ -195,20 +209,6 @@
           "Lung"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-31"
-      },
-      {
-        "id": "recOc2UE2PcRjqd5x",
-        "title": "Cardioprotection in oncology: Mechanisms, risks and therapeutic strategies.",
-        "summary": "Cancer drugs and radiation damage the heart through different mechanisms; exercise and lifestyle changes show promise, but better preventive treatments are urgently needed.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41906425/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-31"
       }
@@ -1071,10 +1071,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 13926,
+    "archive_count": 13927,
     "archive_supplements": 1623,
     "archive_off_label": 513,
-    "archive_biomarkers": 8101,
+    "archive_biomarkers": 8102,
     "archive_trials": 3012,
     "archive_mind_body": 385
   }
