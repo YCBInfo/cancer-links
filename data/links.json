@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01T04:05:48.082Z",
+  "last_updated": "2026-04-01T04:05:56.782Z",
   "categories": {
     "supplements": [
       {
@@ -753,6 +753,20 @@
         "added_date": "2026-04-01"
       },
       {
+        "id": "recvUTtmQ1I4NXfiO",
+        "title": "MR-Guided Laser Interstitial Thermal Therapy for Recurrent Glioblastoma: A Case Report With Novel Insights Into Histopathological Changes and Immunological Responses.",
+        "summary": "Laser heat therapy for recurrent brain cancer (glioblastoma) boosts immune cells and reduces tumor growth in surrounding tissue.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41912359/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Brain"
+        ],
+        "quality_score": 18,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-01"
+      },
+      {
         "id": "recnzQdn0RvPhvnqQ",
         "title": "Diagnostic performance and generalizability of a clinical-ultrasound radiomics model for predicting extrathyroidal extension in thyroid carcinoma: a retrospective study.",
         "summary": "Researchers developed an ultrasound-based model combining imaging patterns and clinical data to accurately predict thyroid cancer spread beyond the thyroid gland.",
@@ -831,20 +845,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-03-31"
-      },
-      {
-        "id": "rec34xzKGfvi291tc",
-        "title": "FIG4 downregulation-arrested autophagy-lysosomal degradation of IL-18 drives lipid-associated macrophage polarization and immunotherapy resistance in triple-negative breast cancer.",
-        "summary": "FIG4 overexpression breaks immunotherapy resistance in triple-negative breast cancer by reducing immune-suppressive macrophages through IL-18 degradation.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41577074/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-02-01",
@@ -1071,10 +1071,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 13891,
+    "archive_count": 13892,
     "archive_supplements": 1619,
     "archive_off_label": 513,
-    "archive_biomarkers": 8075,
+    "archive_biomarkers": 8076,
     "archive_trials": 3007,
     "archive_mind_body": 385
   }
