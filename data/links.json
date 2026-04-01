@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01T04:07:22.973Z",
+  "last_updated": "2026-04-01T04:07:35.951Z",
   "categories": {
     "supplements": [
       {
@@ -823,6 +823,20 @@
         "added_date": "2026-04-01"
       },
       {
+        "id": "reciXaEQL13cHtxHT",
+        "title": "Artificial Intelligence Assisted 18F-FDG PET Radiomics in Classifying Histological Subtypes of Lung Cancer: Systematic Review and Meta-analysis.",
+        "summary": "AI-assisted PET imaging analysis can accurately identify lung cancer subtypes, with 81% sensitivity and 79% specificity, though external validation is needed.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41908706/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 32,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-01"
+      },
+      {
         "id": "recnzQdn0RvPhvnqQ",
         "title": "Diagnostic performance and generalizability of a clinical-ultrasound radiomics model for predicting extrathyroidal extension in thyroid carcinoma: a retrospective study.",
         "summary": "Researchers developed an ultrasound-based model combining imaging patterns and clinical data to accurately predict thyroid cancer spread beyond the thyroid gland.",
@@ -833,20 +847,6 @@
           "Thyroid"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-31"
-      },
-      {
-        "id": "recOyNIH5eCTYpJQF",
-        "title": "Patient acceptance of HPV self-sampling approach for cervical cancer screening: evidence from a pilot study in Kazakhstan.",
-        "summary": "Women in Kazakhstan showed high acceptance of self-sampling HPV tests for cervical cancer screening in a pilot study.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41906369/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-31"
       }
@@ -1071,10 +1071,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 13900,
+    "archive_count": 13901,
     "archive_supplements": 1621,
     "archive_off_label": 513,
-    "archive_biomarkers": 8080,
+    "archive_biomarkers": 8081,
     "archive_trials": 3009,
     "archive_mind_body": 385
   }
