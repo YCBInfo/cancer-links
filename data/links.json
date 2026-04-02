@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-02T04:08:29.924Z",
+  "last_updated": "2026-04-02T04:08:40.848Z",
   "categories": {
     "supplements": [
       {
@@ -27,6 +27,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-02"
+      },
+      {
+        "id": "recB24Trbcq6XaLEL",
+        "title": "Dihydroartemisinin Induces Ferroptosis in Ovarian Cancer via STAT3/GPX4 Signaling Pathway.",
+        "summary": "A drug called dihydroartemisinin kills ovarian cancer cells by triggering a specific type of cell death through a particular signaling pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41920257/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Ovarian"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-02"
       },
@@ -193,20 +207,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-01"
-      },
-      {
-        "id": "reclw1TdMaEz0Llyz",
-        "title": "Ononin Inhibits the Growth and Metastasis of Hepatocellular Carcinoma by Suppressing MMP-2 and MMP-9 via PI3K/AKT/mTOR Signaling.",
-        "summary": "Ononin, a plant compound, slows hepatocellular carcinoma growth and spread by blocking key cancer-promoting proteins.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41878835/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Liver"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -1070,10 +1070,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14377,
+    "archive_count": 14378,
     "archive_supplements": 1680,
     "archive_off_label": 539,
-    "archive_biomarkers": 8368,
+    "archive_biomarkers": 8369,
     "archive_trials": 3107,
     "archive_mind_body": 391
   }
