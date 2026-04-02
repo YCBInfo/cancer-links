@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-02T09:04:40.021Z",
+  "last_updated": "2026-04-02T09:05:00.563Z",
   "categories": {
     "supplements": [
       {
@@ -327,6 +327,20 @@
         "added_date": "2026-04-02"
       },
       {
+        "id": "rec83Ov1o1APlRTas",
+        "title": "Exploring the nexus: Clinical and physiological correlation between cardiovascular disease and colorectal cancer.",
+        "summary": "Colorectal cancer and heart disease share common causes like inflammation and poor diet, suggesting integrated prevention strategies could reduce both conditions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41235913/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-02"
+      },
+      {
         "id": "recobXFoUdnQvrS2E",
         "title": "Tenofovir Alafenamide Promotes Differentiation and Induces Apoptosis of AML Cells by Inhibiting Telomerase Reverse Transcriptase.",
         "summary": "Tenofovir Alafenamide shows promise against acute myeloid leukemia by blocking telomerase and triggering cancer cell death and differentiation.",
@@ -408,20 +422,6 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-03-01",
-        "added_date": "2026-04-01"
-      },
-      {
-        "id": "reczoMZgW9ZGZ26tg",
-        "title": "Neuroprotective Effect of Memantine and Rosuvastatin Against Oxaliplatin Induced Peripheral Neuropathy in Patients With Colorectal Cancer",
-        "summary": "Memantine and rosuvastatin may protect colorectal cancer patients from nerve damage caused by oxaliplatin chemotherapy.",
-        "url": "https://clinicaltrials.gov/study/NCT07504198",
-        "source": "ClinicalTrials.gov",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 13,
-        "pub_date": "2026-03-31",
         "added_date": "2026-04-01"
       }
     ],
@@ -1070,10 +1070,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14519,
+    "archive_count": 14520,
     "archive_supplements": 1702,
     "archive_off_label": 544,
-    "archive_biomarkers": 8438,
+    "archive_biomarkers": 8439,
     "archive_trials": 3149,
     "archive_mind_body": 394
   }
