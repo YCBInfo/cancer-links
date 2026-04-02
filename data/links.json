@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-02T04:15:15.775Z",
+  "last_updated": "2026-04-02T04:15:25.224Z",
   "categories": {
     "supplements": [
       {
@@ -83,6 +83,20 @@
           "Colorectal"
         ],
         "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-02"
+      },
+      {
+        "id": "recS89CHcCm6lJUGu",
+        "title": "Effect of Bendiocarb Administration on Oxidative Stress and Caspase-3/Caspase-9/Bax/Bcl-2/p53 Mediated Apoptosis: The Role of Chrysin.",
+        "summary": "Chrysin reduced oxidative stress and liver cell death caused by bendiocarb exposure in rats.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41918163/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-02"
       },
@@ -193,20 +207,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-01"
-      },
-      {
-        "id": "recX5alTFSiH8oHAP",
-        "title": "Methoxy and Ketone Substitutions of Resveratrol Enhance Its Anticancer Activity by Increasing MEK and ERK Binding Affinity in Colorectal Cancer Cells.",
-        "summary": "Modified resveratrol (SM-23) with methoxy and ketone changes shows stronger anticancer effects against colorectal cancer cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41895748/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -1070,10 +1070,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14415,
+    "archive_count": 14416,
     "archive_supplements": 1685,
     "archive_off_label": 541,
-    "archive_biomarkers": 8392,
+    "archive_biomarkers": 8393,
     "archive_trials": 3114,
     "archive_mind_body": 391
   }
