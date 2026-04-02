@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-02T09:04:11.555Z",
+  "last_updated": "2026-04-02T09:04:40.021Z",
   "categories": {
     "supplements": [
       {
@@ -313,6 +313,20 @@
         "added_date": "2026-04-02"
       },
       {
+        "id": "recbrwxtNw5w5czPt",
+        "title": "Aldehyde dehydrogenase 1 A1 regulates the transcription of PD-L1 and its targeting with disulfiram together with PD-L1 immunotherapy synergistically delays cyst growth in ADPKD.",
+        "summary": "Disulfiram combined with immunotherapy slows kidney cyst growth in polycystic kidney disease by targeting ALDH1A1.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41407012/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-02"
+      },
+      {
         "id": "recobXFoUdnQvrS2E",
         "title": "Tenofovir Alafenamide Promotes Differentiation and Induces Apoptosis of AML Cells by Inhibiting Telomerase Reverse Transcriptase.",
         "summary": "Tenofovir Alafenamide shows promise against acute myeloid leukemia by blocking telomerase and triggering cancer cell death and differentiation.",
@@ -408,20 +422,6 @@
         ],
         "quality_score": 13,
         "pub_date": "2026-03-31",
-        "added_date": "2026-04-01"
-      },
-      {
-        "id": "receTcnhHiDbBPcyP",
-        "title": "Phosphodiesterase 5 Inhibitor Sildenafil Inhibits HPV+ Cervical Cancer Cells and Cervical Cancer Stem Cells by Apoptotic Induction and Telomerase Activity Modulation.",
-        "summary": "Sildenafil, a common erectile dysfunction drug, kills HPV-positive cervical cancer cells and cancer stem cells by triggering cell death.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41895773/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
         "added_date": "2026-04-01"
       }
     ],
@@ -1070,11 +1070,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14518,
+    "archive_count": 14519,
     "archive_supplements": 1702,
     "archive_off_label": 544,
     "archive_biomarkers": 8438,
-    "archive_trials": 3148,
+    "archive_trials": 3149,
     "archive_mind_body": 394
   }
 }
