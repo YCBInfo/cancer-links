@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-02T04:03:07.216Z",
+  "last_updated": "2026-04-02T04:03:19.466Z",
   "categories": {
     "supplements": [
       {
@@ -497,6 +497,20 @@
         "added_date": "2026-04-02"
       },
       {
+        "id": "recwe3rXMOiYkaALa",
+        "title": "An effective tumor-inhibiting siRNA delivery platform.",
+        "summary": "HK peptide delivery system reduced triple-negative breast cancer tumors by up to 82% through targeted siRNA therapy in mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41691982/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-02"
+      },
+      {
         "id": "recp6v0DY7xYdeNpZ",
         "title": "Integrating tumor and immune cell transcriptomics to predict immune checkpoint inhibitor primary resistance in metastatic melanoma.",
         "summary": "Researchers identified an 82-gene signature that predicts which metastatic melanoma patients will resist immune checkpoint inhibitor therapy, enabling better treatment selection.",
@@ -621,20 +635,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-04-01"
-      },
-      {
-        "id": "recUOqeEWXnLs2bG7",
-        "title": "Imaging-Detected Extranodal Extension in Head and Neck Cancer: Current Evidence, Standardized Grading, and Clinical Implications.",
-        "summary": "Imaging can detect cancer spread beyond lymph nodes in head and neck cancer, helping predict patient outcomes and guide treatment decisions.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41914485/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-01"
       }
     ],
     "trials": [
@@ -705,6 +705,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-02"
+      },
+      {
+        "id": "recwe3rXMOiYkaALa",
+        "title": "An effective tumor-inhibiting siRNA delivery platform.",
+        "summary": "HK peptide delivery system reduced triple-negative breast cancer tumors by up to 82% through targeted siRNA therapy in mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41691982/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-04-02"
       },
@@ -831,20 +845,6 @@
           "Brain"
         ],
         "quality_score": 18,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-01"
-      },
-      {
-        "id": "recqZ3rp3nSDpHLH2",
-        "title": "Integrated optimization of needle paths and dwell time for individualized template-guided interstitial brachytherapy.",
-        "summary": "Researchers developed an automated system to optimize needle placement and timing in cervical cancer brachytherapy, reducing surgeon dependence and patient trauma.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41912351/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-04-01"
       }
@@ -1069,10 +1069,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14348,
+    "archive_count": 14349,
     "archive_supplements": 1680,
     "archive_off_label": 539,
-    "archive_biomarkers": 8341,
+    "archive_biomarkers": 8342,
     "archive_trials": 3105,
     "archive_mind_body": 391
   }
