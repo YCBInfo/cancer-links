@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-02T04:10:27.123Z",
+  "last_updated": "2026-04-02T04:10:37.893Z",
   "categories": {
     "supplements": [
       {
@@ -229,6 +229,20 @@
         "added_date": "2026-04-02"
       },
       {
+        "id": "recpgfN1oZ7uK4ofF",
+        "title": "Anticancer Efficacy of HPPH-PDT Synergies with BCG-Immunotherapy or COX-2 Inhibitor in Treating Bladder Cancer.",
+        "summary": "HPPH-PDT combined with COX-2 inhibitors or BCG immunotherapy significantly improves bladder cancer cure rates in mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41920055/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Bladder"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-02"
+      },
+      {
         "id": "recobXFoUdnQvrS2E",
         "title": "Tenofovir Alafenamide Promotes Differentiation and Induces Apoptosis of AML Cells by Inhibiting Telomerase Reverse Transcriptase.",
         "summary": "Tenofovir Alafenamide shows promise against acute myeloid leukemia by blocking telomerase and triggering cancer cell death and differentiation.",
@@ -401,20 +415,6 @@
         "title": "Mechanisms in diabetes mellitus: Relationships to metabolism and/or neoplasia.",
         "summary": "Diabetes increases cancer risk by promoting cell growth; metformin and pioglitazone may reduce this risk by targeting metabolic pathways.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41702311/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-01"
-      },
-      {
-        "id": "recXMs1dDMgRDcH4A",
-        "title": "Effect of promethazine and hydroxyzine, two inhibitors of Tumor Controlled Translational Protein (TCTP), on the growth of in vitro culture of Trypanosoma brucei gambiense and Trypanosoma congolense.",
-        "summary": "Two drugs that inhibit a parasite protein slow the growth of sleeping sickness parasites in laboratory tests, with promethazine proving more effective than hydroxyzine.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41679619/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -1070,11 +1070,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14388,
+    "archive_count": 14389,
     "archive_supplements": 1684,
     "archive_off_label": 540,
     "archive_biomarkers": 8374,
-    "archive_trials": 3107,
+    "archive_trials": 3108,
     "archive_mind_body": 391
   }
 }
