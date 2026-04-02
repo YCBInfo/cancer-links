@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01T11:06:33.855Z",
+  "last_updated": "2026-04-02T04:02:55.695Z",
   "categories": {
     "supplements": [
       {
@@ -427,6 +427,76 @@
     ],
     "biomarkers": [
       {
+        "id": "rec1tovwnvR86oAwk",
+        "title": "CA72-4 derived from synovial cells inhibits monosodium urate-induced macrophage M1 polarization by activating the TIGIT/SHP-1 axis through binding to Siglec-15.",
+        "summary": "CA72-4 protein from synovial cells reduces harmful inflammation in gout by activating a specific immune signaling pathway in macrophages.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41920724/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-02"
+      },
+      {
+        "id": "recrI8A2Z9bqs443d",
+        "title": "The 15-year bibliometric landscape of glioblastoma vaccines: Emergence of combinatorial immunotherapy.",
+        "summary": "Glioblastoma vaccine research has shifted toward combination immunotherapies that tackle tumor immunosuppression rather than single-agent approaches.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41919662/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-02"
+      },
+      {
+        "id": "rec4rqcnrE0txN7CY",
+        "title": "Upper tract urothelial carcinoma associated with Lynch syndrome.",
+        "summary": "Lynch syndrome significantly increases risk of upper tract urothelial cancer, requiring specific screening and management strategies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41920568/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Bladder"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-02"
+      },
+      {
+        "id": "recbbKuRsw0C7RqSU",
+        "title": "Mining cancer genomes for copy number alterations identifies glycosylation enzymes as oncogenic drivers.",
+        "summary": "Researchers identified B4GALT5, a glycosylation enzyme, as an oncogene that drives cancer growth through integrin-Src signaling and can be therapeutically targeted.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41920868/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-02"
+      },
+      {
+        "id": "recd0ux5vxdrc9PTR",
+        "title": "Tissue-specific inflammation induces cell state plasticity with oncogenic addiction in mucosal melanoma.",
+        "summary": "Blocking HER2/3 proteins in mucosal melanoma overcomes chemoresistance by reversing inflammation-driven cancer cell plasticity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41920996/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Melanoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-02"
+      },
+      {
         "id": "recp6v0DY7xYdeNpZ",
         "title": "Integrating tumor and immune cell transcriptomics to predict immune checkpoint inhibitor primary resistance in metastatic melanoma.",
         "summary": "Researchers identified an 82-gene signature that predicts which metastatic melanoma patients will resist immune checkpoint inhibitor therapy, enabling better treatment selection.",
@@ -565,79 +635,65 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-04-01"
-      },
+      }
+    ],
+    "trials": [
       {
-        "id": "recgGAba975nupAK6",
-        "title": "Population Pharmacokinetics of Serplulimab and Quantitative Assessment of Transitioning From Weight-Based to Flat-Dosing Strategy.",
-        "summary": "Serplulimab, an anti-PD-1 cancer drug, can safely switch from weight-based to fixed-dose dosing with comparable drug exposure.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41914482/",
+        "id": "recYsEoS8SS4UiyMD",
+        "title": "A population-based legacy study of myasthenia gravis in Iceland: insights from a small Arctic nation.",
+        "summary": "Icelandic study finds myasthenia gravis affects 9 per 100,000 people, with women typically affected earlier than men.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41919672/",
         "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
+        "category": "Clinical Trials",
         "cancer_types": [
-          "Lung"
+          "General"
         ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-01"
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-02"
       },
       {
-        "id": "recdenBZCEvgJXLtk",
-        "title": "Causal Associations of Cerebrospinal Fluid and Circulating Metabolites With Malignant Brain Neoplasms: A Mendelian Randomization Analysis.",
-        "summary": "Researchers identified causal links between specific metabolites and brain tumor development, suggesting metabolic factors influence brain cancer risk.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41914438/",
+        "id": "recrI8A2Z9bqs443d",
+        "title": "The 15-year bibliometric landscape of glioblastoma vaccines: Emergence of combinatorial immunotherapy.",
+        "summary": "Glioblastoma vaccine research has shifted toward combination immunotherapies that tackle tumor immunosuppression rather than single-agent approaches.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41919662/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Brain"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-01"
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-02"
       },
       {
-        "id": "recOsd2WsGxfAi79S",
-        "title": "Deep Learning for Automated Tumor Segmentation of Rectal Cancer on T2-Weighted Magnetic Resonance Images.",
-        "summary": "Researchers developed an artificial intelligence system to automatically identify and map rectal cancer tumors on MRI scans.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41914320/",
+        "id": "rec4rqcnrE0txN7CY",
+        "title": "Upper tract urothelial carcinoma associated with Lynch syndrome.",
+        "summary": "Lynch syndrome significantly increases risk of upper tract urothelial cancer, requiring specific screening and management strategies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41920568/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
-          "Colorectal"
+          "Bladder"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-01"
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-02"
       },
       {
-        "id": "rec4PSXmbfr1WaY5s",
-        "title": "Correlation of Preoperative MRI Staging with Postoperative Histopathology in Rectal Cancer: A Cross-sectional Study.",
-        "summary": "MRI imaging accurately stages rectal cancer before surgery, correctly matching tumor extent in 87% of cases and helping guide treatment decisions.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41914118/",
+        "id": "recd0ux5vxdrc9PTR",
+        "title": "Tissue-specific inflammation induces cell state plasticity with oncogenic addiction in mucosal melanoma.",
+        "summary": "Blocking HER2/3 proteins in mucosal melanoma overcomes chemoresistance by reversing inflammation-driven cancer cell plasticity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41920996/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
-          "Colorectal"
+          "Melanoma"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-01"
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-02"
       },
-      {
-        "id": "recUzHTJvUohyErNr",
-        "title": "A Case of Immunotherapy Response to BRAFV600E-Mutant Lung Adenocarcinoma With Initial Resistance to Dabrafenib and Trametinib Combination Therapy.",
-        "summary": "A lung cancer patient resistant to standard BRAF-targeted drugs responded well to immunotherapy, suggesting a potential alternative treatment option.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41913938/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-01"
-      }
-    ],
-    "trials": [
       {
         "id": "recp6v0DY7xYdeNpZ",
         "title": "Integrating tumor and immune cell transcriptomics to predict immune checkpoint inhibitor primary resistance in metastatic melanoma.",
@@ -789,62 +845,6 @@
           "Lung"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-01"
-      },
-      {
-        "id": "recC2QakjxWbSZpxZ",
-        "title": "Profillin-1 and Transgelin-2: Actin Binding Proteins Expression in Early and Advanced Stages of Triple-Negative Breast Cancer Receiving Neoadjuvant Chemotherapy.",
-        "summary": "Researchers studied how two proteins affecting cell structure change in aggressive breast cancer before and after chemotherapy treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41911947/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-01"
-      },
-      {
-        "id": "recRKSJWsaXP7xwOl",
-        "title": "Predictors of response to compression therapy in breast cancer-related lymphoedema: a systematic review and meta-analysis.",
-        "summary": "Researchers identified which patient and treatment factors predict successful compression therapy outcomes in breast cancer-related lymphoedema.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41908855/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-01"
-      },
-      {
-        "id": "reciXaEQL13cHtxHT",
-        "title": "Artificial Intelligence Assisted 18F-FDG PET Radiomics in Classifying Histological Subtypes of Lung Cancer: Systematic Review and Meta-analysis.",
-        "summary": "AI-assisted PET imaging analysis can accurately identify lung cancer subtypes, with 81% sensitivity and 79% specificity, though external validation is needed.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41908706/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 32,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-01"
-      },
-      {
-        "id": "recs6lus0SGYdiGkc",
-        "title": "Synergistic Antitumor Efficacy of Radiofrequency Ablation Combined With TROP2-CAR-T Cells in a Xenograft Mouse Model of Lung Adenocarcinoma.",
-        "summary": "Combining radiofrequency ablation with TROP2-targeted CAR-T cells effectively treats lung adenocarcinoma by destroying tumors and boosting immune response.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41905757/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-04-01"
       }
@@ -1069,10 +1069,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14346,
+    "archive_count": 14347,
     "archive_supplements": 1680,
     "archive_off_label": 539,
-    "archive_biomarkers": 8340,
+    "archive_biomarkers": 8341,
     "archive_trials": 3104,
     "archive_mind_body": 391
   }
