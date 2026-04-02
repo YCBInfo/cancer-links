@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-02T04:04:57.931Z",
+  "last_updated": "2026-04-02T04:05:07.438Z",
   "categories": {
     "supplements": [
       {
@@ -793,6 +793,20 @@
         "added_date": "2026-04-02"
       },
       {
+        "id": "rec3sSS8rb1UClXPd",
+        "title": "Feasibility of online adaptive SBRT boost with 1.5-T MR-Linac for cervical cancer patients unsuitable for brachytherapy: a planning study.",
+        "summary": "MR-guided adaptive radiotherapy improves tumor coverage and reduces organ damage in cervical cancer patients unable to receive standard brachytherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41920971/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-02"
+      },
+      {
         "id": "recp6v0DY7xYdeNpZ",
         "title": "Integrating tumor and immune cell transcriptomics to predict immune checkpoint inhibitor primary resistance in metastatic melanoma.",
         "summary": "Researchers identified an 82-gene signature that predicts which metastatic melanoma patients will resist immune checkpoint inhibitor therapy, enabling better treatment selection.",
@@ -831,20 +845,6 @@
           "Lung"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-01"
-      },
-      {
-        "id": "recUOqeEWXnLs2bG7",
-        "title": "Imaging-Detected Extranodal Extension in Head and Neck Cancer: Current Evidence, Standardized Grading, and Clinical Implications.",
-        "summary": "Imaging can detect cancer spread beyond lymph nodes in head and neck cancer, helping predict patient outcomes and guide treatment decisions.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41914485/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-04-01"
       }
@@ -1069,10 +1069,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14357,
+    "archive_count": 14358,
     "archive_supplements": 1680,
     "archive_off_label": 539,
-    "archive_biomarkers": 8349,
+    "archive_biomarkers": 8350,
     "archive_trials": 3106,
     "archive_mind_body": 391
   }
