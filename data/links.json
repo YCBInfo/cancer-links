@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-02T04:05:29.205Z",
+  "last_updated": "2026-04-02T04:05:40.689Z",
   "categories": {
     "supplements": [
       {
@@ -821,6 +821,21 @@
         "added_date": "2026-04-02"
       },
       {
+        "id": "rec7knApxoQicPFlR",
+        "title": "Uncovering BAP1 deubiquitination landscape enhances mechanism elucidation and therapeutic precision for BAP1-deficient pancancers.",
+        "summary": "Researchers identified that blocking LSD1 and PARP1 together effectively kills multiple BAP1-mutant cancers by disrupting DNA repair mechanisms.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41920966/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Melanoma",
+          "Kidney"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-02"
+      },
+      {
         "id": "recp6v0DY7xYdeNpZ",
         "title": "Integrating tumor and immune cell transcriptomics to predict immune checkpoint inhibitor primary resistance in metastatic melanoma.",
         "summary": "Researchers identified an 82-gene signature that predicts which metastatic melanoma patients will resist immune checkpoint inhibitor therapy, enabling better treatment selection.",
@@ -829,20 +844,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Melanoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-01"
-      },
-      {
-        "id": "reckJSFuEQTgkPFqi",
-        "title": "Omission of clinical target volume in radiotherapy for unresectable stage III non-small cell lung cancer: a propensity score matching analysis.",
-        "summary": "Omitting clinical target volume during radiotherapy for advanced lung cancer showed comparable effectiveness with fewer side effects.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41913550/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -1069,10 +1070,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14360,
+    "archive_count": 14361,
     "archive_supplements": 1680,
     "archive_off_label": 539,
-    "archive_biomarkers": 8352,
+    "archive_biomarkers": 8353,
     "archive_trials": 3106,
     "archive_mind_body": 391
   }
