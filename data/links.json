@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-02T04:04:02.552Z",
+  "last_updated": "2026-04-02T04:04:14.575Z",
   "categories": {
     "supplements": [
       {
@@ -567,6 +567,20 @@
         "added_date": "2026-04-02"
       },
       {
+        "id": "rec1nlif0oiXrsYbP",
+        "title": "Spatial and functional polarization of cancer-associated fibroblasts with CXCR4-mediated immune modulation in hepatocellular carcinoma.",
+        "summary": "Researchers identified how different types of cancer-supporting cells in liver tumors are spatially organized and influence immune responses through a specific pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41921137/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-02"
+      },
+      {
         "id": "recp6v0DY7xYdeNpZ",
         "title": "Integrating tumor and immune cell transcriptomics to predict immune checkpoint inhibitor primary resistance in metastatic melanoma.",
         "summary": "Researchers identified an 82-gene signature that predicts which metastatic melanoma patients will resist immune checkpoint inhibitor therapy, enabling better treatment selection.",
@@ -619,20 +633,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-01"
-      },
-      {
-        "id": "recBje6xu36bZK0cH",
-        "title": "WFDC21P is essential for G3BP1-mediated RIG-I activation and antitumor immunity in triple-negative breast cancer.",
-        "summary": "WFDC21P protein boosts immune system activation against triple-negative breast cancer by enhancing RIG-I pathway signaling.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41915747/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-04-01"
       }
@@ -1069,11 +1069,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14352,
+    "archive_count": 14353,
     "archive_supplements": 1680,
     "archive_off_label": 539,
     "archive_biomarkers": 8345,
-    "archive_trials": 3105,
+    "archive_trials": 3106,
     "archive_mind_body": 391
   }
 }
