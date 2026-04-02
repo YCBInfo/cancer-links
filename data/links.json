@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-04-02T04:08:08.492Z",
+  "last_updated": "2026-04-02T04:08:19.619Z",
   "categories": {
     "supplements": [
+      {
+        "id": "recOAgVFWkgAiYKWb",
+        "title": "Glycyrrhizic Acid Alleviates Osimertinib-Induced Cutaneous Toxicity by Inhibiting Keratinocyte Apoptosis and Inflammation.",
+        "summary": "Glycyrrhizic acid reduces skin damage from osimertinib, a lung cancer drug, by decreasing inflammation and cell death in mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41920265/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-02"
+      },
       {
         "id": "recrV79V8TG11ppBH",
         "title": "Spirocyclic β-lactone secondary metabolites modulate spliceosome function.",
@@ -189,20 +203,6 @@
         "title": "The Effects of Apilarnil and Imatinib on GR/GST/TrxR1 Enzyme Activities and Pentose Phosphate Pathway Enzymes in Rats.",
         "summary": "Apilarnil, a bee product, restored antioxidant enzyme activity suppressed by imatinib cancer drug in rats, potentially reducing toxicity.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41878827/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-01"
-      },
-      {
-        "id": "recLI8Xlzfzbmfpv2",
-        "title": "Geraniol Mitigates Cytarabine-Induced Hepatotoxicity in Mice via PI3K/AKT-Mediated NRF2 Activation.",
-        "summary": "Geraniol, a natural compound, protects mouse livers from damage caused by the chemotherapy drug cytarabine by reducing inflammation and oxidative stress.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41873216/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -1070,10 +1070,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14375,
+    "archive_count": 14376,
     "archive_supplements": 1680,
     "archive_off_label": 539,
-    "archive_biomarkers": 8366,
+    "archive_biomarkers": 8367,
     "archive_trials": 3107,
     "archive_mind_body": 391
   }
