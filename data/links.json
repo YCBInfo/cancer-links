@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-02T04:13:59.533Z",
+  "last_updated": "2026-04-02T04:14:10.831Z",
   "categories": {
     "supplements": [
       {
@@ -67,6 +67,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-02"
+      },
+      {
+        "id": "recU28jqPeRvrvydr",
+        "title": "Early-Onset Colorectal Cancer: New Risk Factors or More of the Same at Earlier Ages?",
+        "summary": "Colorectal cancer in people under 50 is increasing due to both new bacteria and rising obesity, poor diet, and inactivity in younger generations.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41918362/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -195,20 +209,6 @@
           "Colorectal"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-01"
-      },
-      {
-        "id": "recH9x7HrygFsjDK6",
-        "title": "Unveiling the Molecular Blueprint of Spinach Induced Anti-proliferation and Pro-apoptosis in Cervical Cancer.",
-        "summary": "Spinach extract kills cervical cancer cells by triggering cell death through specific molecular pathways, offering a potential natural treatment alternative.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41895747/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-04-01"
       }
@@ -1070,10 +1070,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14408,
+    "archive_count": 14409,
     "archive_supplements": 1684,
     "archive_off_label": 541,
-    "archive_biomarkers": 8388,
+    "archive_biomarkers": 8389,
     "archive_trials": 3112,
     "archive_mind_body": 391
   }
