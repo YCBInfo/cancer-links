@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-02T04:12:24.302Z",
+  "last_updated": "2026-04-02T04:12:33.663Z",
   "categories": {
     "supplements": [
       {
@@ -243,6 +243,20 @@
         "added_date": "2026-04-02"
       },
       {
+        "id": "rec5GEsmtIOjFhvHF",
+        "title": "Aspirin and other nonsteroidal anti-inflammatory drugs (NSAIDs) for preventing colorectal cancer and colorectal adenoma in the general population.",
+        "summary": "Aspirin and NSAIDs may help prevent colorectal cancer, but evidence remains unclear on whether benefits outweigh potential harms.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41919561/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 22,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-02"
+      },
+      {
         "id": "recobXFoUdnQvrS2E",
         "title": "Tenofovir Alafenamide Promotes Differentiation and Induces Apoptosis of AML Cells by Inhibiting Telomerase Reverse Transcriptase.",
         "summary": "Tenofovir Alafenamide shows promise against acute myeloid leukemia by blocking telomerase and triggering cancer cell death and differentiation.",
@@ -401,20 +415,6 @@
         "title": "Topical Imiquimod for Oral Cavity Leukoplakia and Dysplasia: A Scoping Review.",
         "summary": "Imiquimod, an FDA-approved skin treatment, shows promise for treating precancerous mouth lesions when applied topically.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41758991/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-01"
-      },
-      {
-        "id": "rece8SK1ULFadB8gD",
-        "title": "Mechanisms in diabetes mellitus: Relationships to metabolism and/or neoplasia.",
-        "summary": "Diabetes increases cancer risk by promoting cell growth; metformin and pioglitazone may reduce this risk by targeting metabolic pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41702311/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -1070,10 +1070,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14399,
+    "archive_count": 14400,
     "archive_supplements": 1684,
     "archive_off_label": 540,
-    "archive_biomarkers": 8381,
+    "archive_biomarkers": 8382,
     "archive_trials": 3111,
     "archive_mind_body": 391
   }
