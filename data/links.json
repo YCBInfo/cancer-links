@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-02T04:08:40.848Z",
+  "last_updated": "2026-04-02T04:08:51.328Z",
   "categories": {
     "supplements": [
       {
@@ -41,6 +41,20 @@
           "Ovarian"
         ],
         "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-02"
+      },
+      {
+        "id": "recYS3BlopGv9Xydm",
+        "title": "Mechanistic Topology of Notopterygium incisum Essential Oil against Rheumatoid Arthritis: Machine Learning-Guided CASP1 Screening and Nanoemulsion Evaluation.",
+        "summary": "Researchers identified compounds in Notopterygium incisum essential oil that reduce rheumatoid arthritis inflammation and created a nanoemulsion to improve drug delivery.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41920256/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-02"
       },
@@ -193,20 +207,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-01"
-      },
-      {
-        "id": "reczVNfyRc0AijBec",
-        "title": "Fungal Exosome-Like Nanoparticles from Huaier (Trametes robiniophila Murr.) Exhibit Antibreast Cancer Activity.",
-        "summary": "Nanoparticles derived from Huaier fungus show promise in fighting breast cancer cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41890307/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -1070,10 +1070,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14378,
+    "archive_count": 14379,
     "archive_supplements": 1680,
     "archive_off_label": 539,
-    "archive_biomarkers": 8369,
+    "archive_biomarkers": 8370,
     "archive_trials": 3107,
     "archive_mind_body": 391
   }
