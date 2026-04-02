@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-02T04:03:49.024Z",
+  "last_updated": "2026-04-02T04:04:02.552Z",
   "categories": {
     "supplements": [
       {
@@ -553,6 +553,20 @@
         "added_date": "2026-04-02"
       },
       {
+        "id": "recJRqURqQzDjFq06",
+        "title": "Discovery and Validation of Lung Cancer Biomarkers Based on Proteomic Analysis of Bronchoalveolar Lavage Fluid from the Self-Controlled Pulmonary Lobes.",
+        "summary": "Researchers identified two new lung cancer biomarkers in fluid from cancerous lung lobes, enabling better distinction of suspicious nodules from benign growths.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41921188/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-02"
+      },
+      {
         "id": "recp6v0DY7xYdeNpZ",
         "title": "Integrating tumor and immune cell transcriptomics to predict immune checkpoint inhibitor primary resistance in metastatic melanoma.",
         "summary": "Researchers identified an 82-gene signature that predicts which metastatic melanoma patients will resist immune checkpoint inhibitor therapy, enabling better treatment selection.",
@@ -619,20 +633,6 @@
           "Breast"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-01"
-      },
-      {
-        "id": "recrV79V8TG11ppBH",
-        "title": "Spirocyclic β-lactone secondary metabolites modulate spliceosome function.",
-        "summary": "Researchers discovered that spirocyclic β-lactones, natural compounds from bacteria, kill cancer cells by targeting and disrupting the spliceosome, a cellular machine that processes genes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41915743/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-04-01"
       }
@@ -1069,10 +1069,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14351,
+    "archive_count": 14352,
     "archive_supplements": 1680,
     "archive_off_label": 539,
-    "archive_biomarkers": 8344,
+    "archive_biomarkers": 8345,
     "archive_trials": 3105,
     "archive_mind_body": 391
   }
