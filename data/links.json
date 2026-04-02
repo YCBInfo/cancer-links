@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-02T04:13:37.784Z",
+  "last_updated": "2026-04-02T04:13:50.545Z",
   "categories": {
     "supplements": [
       {
@@ -55,6 +55,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-02"
+      },
+      {
+        "id": "recCuH9PZHjJQUwuv",
+        "title": "LC/MS-Based Phytochemical Profiling and Immunomodulatory Evaluation of Three Medicinal Plants With Anticancer and Antibacterial Activities.",
+        "summary": "Three medicinal plant extracts showed promise against breast cancer cells and antibiotic-resistant bacteria through antioxidant and immune-boosting compounds.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41918395/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-02"
       },
@@ -195,20 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-01"
-      },
-      {
-        "id": "recJKYfj2vuKtXkHQ",
-        "title": "The Study of the Antitumor Effects and Molecular Mechanisms of Byakangelicol on HepG2 Cells.",
-        "summary": "Byakangelicol kills liver cancer cells by accumulating reactive oxygen species, triggering apoptosis and halting cell growth.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41891544/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Liver"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-04-01"
       }
@@ -1070,10 +1070,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14406,
+    "archive_count": 14407,
     "archive_supplements": 1684,
     "archive_off_label": 541,
-    "archive_biomarkers": 8386,
+    "archive_biomarkers": 8387,
     "archive_trials": 3112,
     "archive_mind_body": 391
   }
