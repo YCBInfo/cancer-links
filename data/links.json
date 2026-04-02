@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-02T04:04:24.407Z",
+  "last_updated": "2026-04-02T04:04:40.844Z",
   "categories": {
     "supplements": [
       {
@@ -595,6 +595,34 @@
         "added_date": "2026-04-02"
       },
       {
+        "id": "rec7ysNjiWuQTiMOJ",
+        "title": "A Conversational Platform (Okaya) for Multimodal Digital Biomarkers of Fatigue, Cognition, and Mental Health: Feasibility Observational Study.",
+        "summary": "A conversational platform successfully collected digital biomarkers from voice, video, and text to monitor fatigue, cognition, and mental health.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41921090/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-02"
+      },
+      {
+        "id": "rec6GwKofIwuR51iS",
+        "title": "RET receptor tyrosine kinase architecture, assemblies and activation.",
+        "summary": "RET receptor's unique structure with cadherin-like domains flexibly binds ligands to activate cancer-driving signaling pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41921038/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-02"
+      },
+      {
         "id": "recp6v0DY7xYdeNpZ",
         "title": "Integrating tumor and immune cell transcriptomics to predict immune checkpoint inhibitor primary resistance in metastatic melanoma.",
         "summary": "Researchers identified an 82-gene signature that predicts which metastatic melanoma patients will resist immune checkpoint inhibitor therapy, enabling better treatment selection.",
@@ -603,34 +631,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Melanoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-01"
-      },
-      {
-        "id": "reciJYkzRoBrOj33d",
-        "title": "Costs and benefits of whole-exome, whole-transcriptome sequencing versus 50-gene panels for genomic profiling in solid tumors.",
-        "summary": "Comprehensive sequencing tests find more treatment-guiding mutations in solid tumors than limited 50-gene panels, but cost-effectiveness requires further analysis.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41915379/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-01"
-      },
-      {
-        "id": "reckJSFuEQTgkPFqi",
-        "title": "Omission of clinical target volume in radiotherapy for unresectable stage III non-small cell lung cancer: a propensity score matching analysis.",
-        "summary": "Omitting clinical target volume during radiotherapy for advanced lung cancer showed comparable effectiveness with fewer side effects.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41913550/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -779,6 +779,20 @@
         "added_date": "2026-04-02"
       },
       {
+        "id": "rec7ysNjiWuQTiMOJ",
+        "title": "A Conversational Platform (Okaya) for Multimodal Digital Biomarkers of Fatigue, Cognition, and Mental Health: Feasibility Observational Study.",
+        "summary": "A conversational platform successfully collected digital biomarkers from voice, video, and text to monitor fatigue, cognition, and mental health.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41921090/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-02"
+      },
+      {
         "id": "recp6v0DY7xYdeNpZ",
         "title": "Integrating tumor and immune cell transcriptomics to predict immune checkpoint inhibitor primary resistance in metastatic melanoma.",
         "summary": "Researchers identified an 82-gene signature that predicts which metastatic melanoma patients will resist immune checkpoint inhibitor therapy, enabling better treatment selection.",
@@ -831,20 +845,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-01"
-      },
-      {
-        "id": "recgGAba975nupAK6",
-        "title": "Population Pharmacokinetics of Serplulimab and Quantitative Assessment of Transitioning From Weight-Based to Flat-Dosing Strategy.",
-        "summary": "Serplulimab, an anti-PD-1 cancer drug, can safely switch from weight-based to fixed-dose dosing with comparable drug exposure.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41914482/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-04-01"
       }
@@ -1069,10 +1069,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14354,
+    "archive_count": 14355,
     "archive_supplements": 1680,
     "archive_off_label": 539,
-    "archive_biomarkers": 8346,
+    "archive_biomarkers": 8347,
     "archive_trials": 3106,
     "archive_mind_body": 391
   }
