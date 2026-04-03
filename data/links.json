@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03T04:09:03.271Z",
+  "last_updated": "2026-04-03T04:09:14.407Z",
   "categories": {
     "supplements": [
       {
@@ -53,6 +53,20 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-03"
+      },
+      {
+        "id": "recBVXZaDc4P5Ogde",
+        "title": "Repurposing rosmarinic acid as an anti-colorectal cancer agent through bolstering T cell anti-tumor immunity by enhancing activation of MEK1-mediated TCR signaling.",
+        "summary": "Rosmarinic acid, a natural compound, strengthens immune T cells against colorectal cancer by enhancing their signaling pathways and tumor-fighting ability.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41925912/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -195,20 +209,6 @@
           "Colorectal"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-02"
-      },
-      {
-        "id": "recaPrkxHM6iZnUX0",
-        "title": "Unlocking the potential of marine natural product fragments for rational anticancer drug design: a computational approach.",
-        "summary": "Researchers created a library of marine-derived molecular fragments to computationally design new cancer drugs targeting immune evasion proteins.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41922433/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-02"
       }
@@ -1069,10 +1069,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14565,
+    "archive_count": 14566,
     "archive_supplements": 1705,
     "archive_off_label": 546,
-    "archive_biomarkers": 8472,
+    "archive_biomarkers": 8473,
     "archive_trials": 3156,
     "archive_mind_body": 394
   }
