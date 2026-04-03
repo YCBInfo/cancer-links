@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03T04:26:15.535Z",
+  "last_updated": "2026-04-03T04:26:26.695Z",
   "categories": {
     "supplements": [
       {
@@ -271,6 +271,20 @@
         "added_date": "2026-04-03"
       },
       {
+        "id": "recYfyyCUafSUt1od",
+        "title": "Symptom management with osilodrostat in multiple endocrine neoplasia type 1 with a Cushing syndrome presentation.",
+        "summary": "Osilodrostat effectively managed Cushing syndrome symptoms in a MEN1 patient, reducing cortisol levels and enabling significant weight loss when surgery wasn't feasible.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41924515/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-03"
+      },
+      {
         "id": "recFbkuDzsGn3Y4q2",
         "title": "Rapid screening of potent and mechanistically insightful repurposable anticancer drugs targeting EGFR for non-small cell lung cancer: machine learning-aided and structure-guided approach.",
         "summary": "Researchers used machine learning to identify two existing drugs, idarubicin and larotrectinib, as potential treatments for EGFR-resistant lung cancer.",
@@ -409,20 +423,6 @@
         "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-02"
-      },
-      {
-        "id": "recobXFoUdnQvrS2E",
-        "title": "Tenofovir Alafenamide Promotes Differentiation and Induces Apoptosis of AML Cells by Inhibiting Telomerase Reverse Transcriptase.",
-        "summary": "Tenofovir Alafenamide shows promise against acute myeloid leukemia by blocking telomerase and triggering cancer cell death and differentiation.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41895776/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-01"
       }
     ],
     "biomarkers": [
@@ -1069,10 +1069,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14660,
+    "archive_count": 14661,
     "archive_supplements": 1708,
     "archive_off_label": 547,
-    "archive_biomarkers": 8553,
+    "archive_biomarkers": 8554,
     "archive_trials": 3166,
     "archive_mind_body": 394
   }
