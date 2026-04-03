@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03T04:18:53.569Z",
+  "last_updated": "2026-04-03T04:19:04.538Z",
   "categories": {
     "supplements": [
       {
@@ -243,6 +243,20 @@
         "added_date": "2026-04-03"
       },
       {
+        "id": "recSToyn5dfU6pRjQ",
+        "title": "MIG-6 Regulates HDAC1-Mediated Angiogenesis and Tumorigenesis in PTEN-Deficient Endometrioid Endometrial Cancer.",
+        "summary": "MIG-6 suppresses endometrial cancer growth by blocking HDAC1, offering a potential new treatment target for this common gynecologic cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41563767/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-03"
+      },
+      {
         "id": "recFbkuDzsGn3Y4q2",
         "title": "Rapid screening of potent and mechanistically insightful repurposable anticancer drugs targeting EGFR for non-small cell lung cancer: machine learning-aided and structure-guided approach.",
         "summary": "Researchers used machine learning to identify two existing drugs, idarubicin and larotrectinib, as potential treatments for EGFR-resistant lung cancer.",
@@ -403,20 +417,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41883001/",
         "source": "PubMed",
         "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-01"
-      },
-      {
-        "id": "rec6nfbIh99KFF1Pi",
-        "title": "The Effects of Apilarnil and Imatinib on GR/GST/TrxR1 Enzyme Activities and Pentose Phosphate Pathway Enzymes in Rats.",
-        "summary": "Apilarnil, a bee product, restored antioxidant enzyme activity suppressed by imatinib cancer drug in rats, potentially reducing toxicity.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41878827/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "General"
         ],
@@ -1069,10 +1069,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14620,
+    "archive_count": 14621,
     "archive_supplements": 1708,
     "archive_off_label": 547,
-    "archive_biomarkers": 8516,
+    "archive_biomarkers": 8517,
     "archive_trials": 3163,
     "archive_mind_body": 394
   }
