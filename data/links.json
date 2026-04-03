@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-04-03T04:03:47.819Z",
+  "last_updated": "2026-04-03T04:04:01.993Z",
   "categories": {
     "supplements": [
+      {
+        "id": "recVk82OqZxrybtCK",
+        "title": "The orexinergic system mediates the effects of ginsenoside Rg1 against cyclophosphamide-induced reproductive toxicity.",
+        "summary": "Ginsenoside Rg1 protects male mice from chemotherapy-induced infertility by activating a specific cellular receptor in the testes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41926738/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-03"
+      },
       {
         "id": "recOAgVFWkgAiYKWb",
         "title": "Glycyrrhizic Acid Alleviates Osimertinib-Induced Cutaneous Toxicity by Inhibiting Keratinocyte Apoptosis and Inflammation.",
@@ -195,20 +209,6 @@
           "Pancreatic"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-02"
-      },
-      {
-        "id": "recM6yDTBEJMNzIC4",
-        "title": "[Dihydroartemisinin inhibits the progression of oral squamous cell carcinoma].",
-        "summary": "Dihydroartemisinin slows the growth and spread of oral squamous cell carcinoma cells in laboratory studies.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41919542/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-02"
       }
@@ -581,6 +581,20 @@
         "added_date": "2026-04-03"
       },
       {
+        "id": "recVk82OqZxrybtCK",
+        "title": "The orexinergic system mediates the effects of ginsenoside Rg1 against cyclophosphamide-induced reproductive toxicity.",
+        "summary": "Ginsenoside Rg1 protects male mice from chemotherapy-induced infertility by activating a specific cellular receptor in the testes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41926738/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-03"
+      },
+      {
         "id": "rec1tovwnvR86oAwk",
         "title": "CA72-4 derived from synovial cells inhibits monosodium urate-induced macrophage M1 polarization by activating the TIGIT/SHP-1 axis through binding to Siglec-15.",
         "summary": "CA72-4 protein from synovial cells reduces harmful inflammation in gout by activating a specific immune signaling pathway in macrophages.",
@@ -619,20 +633,6 @@
           "Bladder"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-02"
-      },
-      {
-        "id": "recbbKuRsw0C7RqSU",
-        "title": "Mining cancer genomes for copy number alterations identifies glycosylation enzymes as oncogenic drivers.",
-        "summary": "Researchers identified B4GALT5, a glycosylation enzyme, as an oncogene that drives cancer growth through integrin-Src signaling and can be therapeutically targeted.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41920868/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-02"
       }
@@ -1069,10 +1069,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14536,
+    "archive_count": 14537,
     "archive_supplements": 1703,
     "archive_off_label": 545,
-    "archive_biomarkers": 8450,
+    "archive_biomarkers": 8451,
     "archive_trials": 3152,
     "archive_mind_body": 394
   }
