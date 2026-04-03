@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03T04:04:48.867Z",
+  "last_updated": "2026-04-03T04:04:59.033Z",
   "categories": {
     "supplements": [
       {
@@ -695,6 +695,20 @@
         "added_date": "2026-04-03"
       },
       {
+        "id": "rec1uQYlG892aQAUM",
+        "title": "Parameters predicting Recurrence after Focal Therapy for Prostate Cancer: Insights from a Multicenter Surveillance Database.",
+        "summary": "Researchers identified factors predicting recurrence in prostate cancer patients treated with focal therapy, a minimally invasive surgical approach.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41926560/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-03"
+      },
+      {
         "id": "recYsEoS8SS4UiyMD",
         "title": "A population-based legacy study of myasthenia gravis in Iceland: insights from a small Arctic nation.",
         "summary": "Icelandic study finds myasthenia gravis affects 9 per 100,000 people, with women typically affected earlier than men.",
@@ -825,20 +839,6 @@
         "title": "Optimization of Covalent 6-Cyanoquinazoline KRASG12C Inhibitors for the Treatment of Solid Tumors.",
         "summary": "Researchers developed a new oral drug targeting KRASG12C mutations in solid tumors, showing promise in lung cancer models.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41921095/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-02"
-      },
-      {
-        "id": "rec7ysNjiWuQTiMOJ",
-        "title": "A Conversational Platform (Okaya) for Multimodal Digital Biomarkers of Fatigue, Cognition, and Mental Health: Feasibility Observational Study.",
-        "summary": "A conversational platform successfully collected digital biomarkers from voice, video, and text to monitor fatigue, cognition, and mental health.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41921090/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -1069,11 +1069,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14541,
+    "archive_count": 14542,
     "archive_supplements": 1703,
     "archive_off_label": 545,
     "archive_biomarkers": 8454,
-    "archive_trials": 3153,
+    "archive_trials": 3154,
     "archive_mind_body": 394
   }
 }
