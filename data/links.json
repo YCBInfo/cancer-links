@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03T04:19:20.347Z",
+  "last_updated": "2026-04-03T04:19:33.453Z",
   "categories": {
     "supplements": [
       {
@@ -257,6 +257,20 @@
         "added_date": "2026-04-03"
       },
       {
+        "id": "recSV91wY0epu0Zcd",
+        "title": "Medium-Chain Fatty Acid Receptor GPR84 Modulates Cytotoxic CD8 T-cell Antitumor Immunity through Metabolic Reprogramming.",
+        "summary": "Blocking GPR84 receptor boosts CD8 immune cells' ability to fight tumors by increasing their energy and cytotoxic function.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41557755/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-03"
+      },
+      {
         "id": "recFbkuDzsGn3Y4q2",
         "title": "Rapid screening of potent and mechanistically insightful repurposable anticancer drugs targeting EGFR for non-small cell lung cancer: machine learning-aided and structure-guided approach.",
         "summary": "Researchers used machine learning to identify two existing drugs, idarubicin and larotrectinib, as potential treatments for EGFR-resistant lung cancer.",
@@ -407,20 +421,6 @@
           "Leukemia"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-01"
-      },
-      {
-        "id": "recRJuJwiig6H6QyZ",
-        "title": "Effect of metformin on pancreatic neuroendocrine tumors of multiple endocrine neoplasia type 1.",
-        "summary": "Metformin did not prevent or slow pancreatic neuroendocrine tumors in MEN1 syndrome patients or mouse models.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41883001/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-04-01"
       }
@@ -1069,10 +1069,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14622,
+    "archive_count": 14623,
     "archive_supplements": 1708,
     "archive_off_label": 547,
-    "archive_biomarkers": 8518,
+    "archive_biomarkers": 8519,
     "archive_trials": 3163,
     "archive_mind_body": 394
   }
