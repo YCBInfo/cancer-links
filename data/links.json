@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03T04:11:01.094Z",
+  "last_updated": "2026-04-03T04:11:11.920Z",
   "categories": {
     "supplements": [
       {
@@ -67,6 +67,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-03"
+      },
+      {
+        "id": "recGDIN3s4trbW7Dg",
+        "title": "S-equol promotes ferroptosis in triple negative breast cancer by coordinating NCOA4-mediated ferritinophagy and PPARγ-mediated lipid metabolism.",
+        "summary": "S-equol kills triple negative breast cancer cells by triggering ferroptosis through iron accumulation and lipid damage pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41925800/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -193,20 +207,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Bladder"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-02"
-      },
-      {
-        "id": "recXgm3lry0VK8GlO",
-        "title": "Urolithin A blocks colorectal cancer progression by AKT1 inhibition-driven immune activation.",
-        "summary": "Urolithin A, a natural compound, slows colorectal cancer growth by blocking AKT1 protein and activating immune cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41922440/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -1069,10 +1069,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14576,
+    "archive_count": 14577,
     "archive_supplements": 1707,
     "archive_off_label": 547,
-    "archive_biomarkers": 8477,
+    "archive_biomarkers": 8478,
     "archive_trials": 3159,
     "archive_mind_body": 394
   }
