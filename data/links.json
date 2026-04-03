@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03T07:03:40.348Z",
+  "last_updated": "2026-04-03T07:03:49.257Z",
   "categories": {
     "supplements": [
       {
@@ -327,6 +327,20 @@
         "added_date": "2026-04-03"
       },
       {
+        "id": "reczP0mW6JYqYCLj9",
+        "title": "Evaluating Intermittent Dosing of Aspirin for Colorectal Cancer Chemoprevention",
+        "summary": "A trial testing whether intermittent aspirin doses can prevent colorectal cancer in patients with adenoma.",
+        "url": "https://clinicaltrials.gov/study/NCT02965703",
+        "source": "ClinicalTrials.gov",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 19,
+        "pub_date": "2026-04-02",
+        "added_date": "2026-04-03"
+      },
+      {
         "id": "recFbkuDzsGn3Y4q2",
         "title": "Rapid screening of potent and mechanistically insightful repurposable anticancer drugs targeting EGFR for non-small cell lung cancer: machine learning-aided and structure-guided approach.",
         "summary": "Researchers used machine learning to identify two existing drugs, idarubicin and larotrectinib, as potential treatments for EGFR-resistant lung cancer.",
@@ -401,20 +415,6 @@
         "title": "Genome-Wide CRISPR Analysis Uncovers Metformin and NSAID Combination as a Chemopreventive Approach in Smoking-Associated Oral Cancer.",
         "summary": "Combining metformin and NSAIDs shows promise for preventing oral cancer in smokers by overcoming drug resistance.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41918363/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-02"
-      },
-      {
-        "id": "rech0deffMxLAuLTs",
-        "title": "Targeted nano delivery of p53 DNA and carvedilol for the treatment of dilated cardiomyopathy in a rat model.",
-        "summary": "Researchers used specialized nanoparticles to deliver heart-protective genes and drugs directly to damaged heart tissue in rats.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41738451/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -1069,11 +1069,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14708,
+    "archive_count": 14709,
     "archive_supplements": 1712,
     "archive_off_label": 550,
     "archive_biomarkers": 8585,
-    "archive_trials": 3174,
+    "archive_trials": 3175,
     "archive_mind_body": 395
   }
 }
