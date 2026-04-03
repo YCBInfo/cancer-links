@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03T04:08:11.146Z",
+  "last_updated": "2026-04-03T04:08:21.555Z",
   "categories": {
     "supplements": [
       {
@@ -27,6 +27,20 @@
           "Stomach"
         ],
         "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-03"
+      },
+      {
+        "id": "rec28Wn1nItAetQrJ",
+        "title": "Chitosan-mediated nano-bioprocessing of Acacia seyal seed extract for enhanced antineoplastic, anti-Helicobacter pylori and antioxidant performance.",
+        "summary": "Acacia seyal extract wrapped in chitosan nanoparticles effectively kills colorectal cancer cells and fights H. pylori bacteria.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41926007/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-03"
       },
@@ -189,20 +203,6 @@
         "title": "Frontiers in Gut Health: The Emerging Role of Berries in Microbiota Modulation and Gastrointestinal Diseases.",
         "summary": "Berries may reduce gastrointestinal cancer risk and improve gut health by modifying beneficial bacteria and reducing intestinal inflammation.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41921509/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-02"
-      },
-      {
-        "id": "recePw6XOKloBIpqk",
-        "title": "Effectiveness of green tea (Camellia sinensis) based mouth rinse on oral health status, pain and quality of life among advanced head and neck cancer patients in a tertiary care centre-a randomized controlled trial.",
-        "summary": "Green tea mouth rinse improved oral health, reduced pain, and enhanced quality of life in advanced head and neck cancer patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41920369/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -1069,10 +1069,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14560,
+    "archive_count": 14561,
     "archive_supplements": 1705,
     "archive_off_label": 546,
-    "archive_biomarkers": 8467,
+    "archive_biomarkers": 8468,
     "archive_trials": 3156,
     "archive_mind_body": 394
   }
