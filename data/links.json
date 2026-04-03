@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03T04:31:41.759Z",
+  "last_updated": "2026-04-03T04:31:54.355Z",
   "categories": {
     "supplements": [
       {
@@ -299,6 +299,20 @@
         "added_date": "2026-04-03"
       },
       {
+        "id": "recKRH1w34t0TLXaC",
+        "title": "LDHA-driven lactate metabolism promotes MDSC activation and immunosuppressive microenvironment in prostate cancer.",
+        "summary": "LDHA-driven lactate metabolism in prostate cancer activates immune-suppressing cells; blocking LDHA enhances immunotherapy effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41922574/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-03"
+      },
+      {
         "id": "recFbkuDzsGn3Y4q2",
         "title": "Rapid screening of potent and mechanistically insightful repurposable anticancer drugs targeting EGFR for non-small cell lung cancer: machine learning-aided and structure-guided approach.",
         "summary": "Researchers used machine learning to identify two existing drugs, idarubicin and larotrectinib, as potential treatments for EGFR-resistant lung cancer.",
@@ -408,20 +422,6 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-03-01",
-        "added_date": "2026-04-02"
-      },
-      {
-        "id": "rec83Ov1o1APlRTas",
-        "title": "Exploring the nexus: Clinical and physiological correlation between cardiovascular disease and colorectal cancer.",
-        "summary": "Colorectal cancer and heart disease share common causes like inflammation and poor diet, suggesting integrated prevention strategies could reduce both conditions.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41235913/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
         "added_date": "2026-04-02"
       }
     ],
@@ -1069,10 +1069,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14689,
+    "archive_count": 14690,
     "archive_supplements": 1711,
     "archive_off_label": 549,
-    "archive_biomarkers": 8576,
+    "archive_biomarkers": 8577,
     "archive_trials": 3167,
     "archive_mind_body": 394
   }
