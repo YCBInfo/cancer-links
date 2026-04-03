@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03T04:06:56.391Z",
+  "last_updated": "2026-04-03T04:07:07.234Z",
   "categories": {
     "supplements": [
       {
@@ -215,6 +215,20 @@
     ],
     "off_label": [
       {
+        "id": "recnjrNeRARrBfzA4",
+        "title": "Aging-dependent microglial heterogeneity worsens outcomes in models of traumatic brain injury.",
+        "summary": "Aged brains develop harmful immune cells after traumatic injury, but blocking a protein called ELF1 or using an existing drug restores protective immunity and improves recovery.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41926211/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-03"
+      },
+      {
         "id": "recFbkuDzsGn3Y4q2",
         "title": "Rapid screening of potent and mechanistically insightful repurposable anticancer drugs targeting EGFR for non-small cell lung cancer: machine learning-aided and structure-guided approach.",
         "summary": "Researchers used machine learning to identify two existing drugs, idarubicin and larotrectinib, as potential treatments for EGFR-resistant lung cancer.",
@@ -407,20 +421,6 @@
           "Breast"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-01"
-      },
-      {
-        "id": "recVpkW3pmRcr4Ilo",
-        "title": "Current Advances in Paraptosis Inducer Development and Mechanistic Understanding for Anticancer Applications.",
-        "summary": "Researchers are developing paraptosis inducers—natural and synthetic compounds—as a promising new way to kill cancer cells through a distinct cell death mechanism.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41773935/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-04-01"
       }
@@ -1069,10 +1069,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14553,
+    "archive_count": 14554,
     "archive_supplements": 1705,
     "archive_off_label": 545,
-    "archive_biomarkers": 8463,
+    "archive_biomarkers": 8464,
     "archive_trials": 3154,
     "archive_mind_body": 394
   }
