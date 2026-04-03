@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03T04:25:44.829Z",
+  "last_updated": "2026-04-03T04:25:55.244Z",
   "categories": {
     "supplements": [
       {
@@ -81,6 +81,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-03"
+      },
+      {
+        "id": "recfNiizrjQtRm8te",
+        "title": "RETRACTION: Dieckol Inhibits Non-Small-Cell Lung Cancer Cell Proliferation and Migration by Regulating the PI3K/AKT Signaling Pathway.",
+        "summary": "This article on dieckol's effects on lung cancer has been retracted due to duplicated images from other sources without authorization.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41925065/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -195,20 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-02"
-      },
-      {
-        "id": "recEy3jvKb2JRkjOF",
-        "title": "Combining 5-ALA-PDT with berbamine as an in vitro multimodal therapy approach against bladder cancer cells.",
-        "summary": "Combining light therapy with a plant compound called berbamine effectively kills bladder cancer cells, including drug-resistant variants.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41922474/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Bladder"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-02"
       }
@@ -1069,11 +1069,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14657,
+    "archive_count": 14658,
     "archive_supplements": 1708,
     "archive_off_label": 547,
     "archive_biomarkers": 8551,
-    "archive_trials": 3165,
+    "archive_trials": 3166,
     "archive_mind_body": 394
   }
 }
