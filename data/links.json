@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03T04:03:36.039Z",
+  "last_updated": "2026-04-03T04:03:47.819Z",
   "categories": {
     "supplements": [
       {
@@ -639,6 +639,34 @@
     ],
     "trials": [
       {
+        "id": "recfW7WaLPw1O2qRZ",
+        "title": "Visualization of Cerebral Veins and Deep Gray Matter Nuclei by Susceptibility-weighted Imaging: A Comparative Study of 5.0 T and 3.0 T Imaging.",
+        "summary": "A 5.0 Tesla MRI scanner produces clearer images of brain veins and deep brain structures than a 3.0 Tesla scanner.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41926743/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-03"
+      },
+      {
+        "id": "recjLYLYMjAQhfx1H",
+        "title": "Electroacupuncture improves cognitive function and neuropsychiatric symptoms in breast cancer survivors: a pilot randomized controlled trial.",
+        "summary": "Electroacupuncture treatment improved cognitive function and mental health symptoms in breast cancer survivors in a pilot study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41926740/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-03"
+      },
+      {
         "id": "recYsEoS8SS4UiyMD",
         "title": "A population-based legacy study of myasthenia gravis in Iceland: insights from a small Arctic nation.",
         "summary": "Icelandic study finds myasthenia gravis affects 9 per 100,000 people, with women typically affected earlier than men.",
@@ -819,38 +847,23 @@
         "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-02"
-      },
-      {
-        "id": "rec7knApxoQicPFlR",
-        "title": "Uncovering BAP1 deubiquitination landscape enhances mechanism elucidation and therapeutic precision for BAP1-deficient pancancers.",
-        "summary": "Researchers identified that blocking LSD1 and PARP1 together effectively kills multiple BAP1-mutant cancers by disrupting DNA repair mechanisms.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41920966/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Melanoma",
-          "Kidney"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-02"
-      },
-      {
-        "id": "rec9BKxHjXnOoqJi9",
-        "title": "Irreversible Electroporation Enhances Solid Tumor Infiltration and Selective Cancer Cell Lysis by CAR T Cells.",
-        "summary": "Electroporation helps CAR T cells penetrate and destroy solid tumors better than radiation alone, without harming the T cells themselves.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41920765/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-02"
       }
     ],
     "mind_body": [
+      {
+        "id": "recjLYLYMjAQhfx1H",
+        "title": "Electroacupuncture improves cognitive function and neuropsychiatric symptoms in breast cancer survivors: a pilot randomized controlled trial.",
+        "summary": "Electroacupuncture treatment improved cognitive function and mental health symptoms in breast cancer survivors in a pilot study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41926740/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-03"
+      },
       {
         "id": "recjOOwNsf9ks996E",
         "title": "Effectiveness and Safety of Acupuncture for Cancer-Related Cognitive Impairment: A Systematic Review and Meta-Analysis.",
@@ -1046,20 +1059,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-03-31"
-      },
-      {
-        "id": "rec3vi78z2E9tetZn",
-        "title": "Mapping global research trends of Tai Chi for sleep health: Scientometric insights and network-based perspectives.",
-        "summary": "Tai Chi, a gentle mind-body exercise, shows promise as a safe alternative treatment for improving sleep quality and addressing sleep disorders.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41887340/",
-        "source": "PubMed",
-        "category": "Mind-Body & Spirituality",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-03-31"
       }
     ]
   },
@@ -1070,10 +1069,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14535,
+    "archive_count": 14536,
     "archive_supplements": 1703,
     "archive_off_label": 545,
-    "archive_biomarkers": 8449,
+    "archive_biomarkers": 8450,
     "archive_trials": 3152,
     "archive_mind_body": 394
   }
