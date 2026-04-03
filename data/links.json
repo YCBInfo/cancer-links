@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03T04:32:00.560Z",
+  "last_updated": "2026-04-03T04:32:11.011Z",
   "categories": {
     "supplements": [
       {
@@ -313,6 +313,20 @@
         "added_date": "2026-04-03"
       },
       {
+        "id": "recTg1UymvDeyFttP",
+        "title": "Filgotinib inhibits METTL3-mediated m6A of EIF3A by targeting ERG-TBP to suppress PDAC progression JAK-STAT3-independently.",
+        "summary": "Filgotinib, a rheumatism drug, suppresses pancreatic cancer growth by reducing a cancer-promoting protein modification independently of its known JAK-STAT3 pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41922492/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-03"
+      },
+      {
         "id": "recFbkuDzsGn3Y4q2",
         "title": "Rapid screening of potent and mechanistically insightful repurposable anticancer drugs targeting EGFR for non-small cell lung cancer: machine learning-aided and structure-guided approach.",
         "summary": "Researchers used machine learning to identify two existing drugs, idarubicin and larotrectinib, as potential treatments for EGFR-resistant lung cancer.",
@@ -408,20 +422,6 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-04-01",
-        "added_date": "2026-04-02"
-      },
-      {
-        "id": "recbrwxtNw5w5czPt",
-        "title": "Aldehyde dehydrogenase 1 A1 regulates the transcription of PD-L1 and its targeting with disulfiram together with PD-L1 immunotherapy synergistically delays cyst growth in ADPKD.",
-        "summary": "Disulfiram combined with immunotherapy slows kidney cyst growth in polycystic kidney disease by targeting ALDH1A1.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41407012/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
         "added_date": "2026-04-02"
       }
     ],
@@ -1069,10 +1069,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14691,
+    "archive_count": 14692,
     "archive_supplements": 1711,
     "archive_off_label": 549,
-    "archive_biomarkers": 8577,
+    "archive_biomarkers": 8578,
     "archive_trials": 3168,
     "archive_mind_body": 394
   }
