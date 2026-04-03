@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03T04:08:21.555Z",
+  "last_updated": "2026-04-03T04:08:31.202Z",
   "categories": {
     "supplements": [
       {
@@ -41,6 +41,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-03"
+      },
+      {
+        "id": "recvOBHamnXwb1UfW",
+        "title": "Aromatic amino acid metabolism shapes autophagy-mediated adaptation to iron deprivation in glioblastoma cells.",
+        "summary": "Iron deprivation triggers protective autophagy in glioblastoma, which can be blocked by supplementing aromatic amino acids to enhance cell death.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41925978/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Brain"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-03"
       },
@@ -189,20 +203,6 @@
         "title": "Unlocking the potential of marine natural product fragments for rational anticancer drug design: a computational approach.",
         "summary": "Researchers created a library of marine-derived molecular fragments to computationally design new cancer drugs targeting immune evasion proteins.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41922433/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-02"
-      },
-      {
-        "id": "rec7CBziFyTEE3dHH",
-        "title": "Frontiers in Gut Health: The Emerging Role of Berries in Microbiota Modulation and Gastrointestinal Diseases.",
-        "summary": "Berries may reduce gastrointestinal cancer risk and improve gut health by modifying beneficial bacteria and reducing intestinal inflammation.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41921509/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -1069,10 +1069,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14561,
+    "archive_count": 14562,
     "archive_supplements": 1705,
     "archive_off_label": 546,
-    "archive_biomarkers": 8468,
+    "archive_biomarkers": 8469,
     "archive_trials": 3156,
     "archive_mind_body": 394
   }
