@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03T04:09:44.661Z",
+  "last_updated": "2026-04-03T04:09:55.305Z",
   "categories": {
     "supplements": [
       {
@@ -229,6 +229,20 @@
         "added_date": "2026-04-03"
       },
       {
+        "id": "recaN0EBVBOkycUox",
+        "title": "Metformin drives HIF-1α-mediated dual metabolic reprogramming to enhance γδ T cell therapy in triple-negative breast cancer.",
+        "summary": "Metformin enhances immune T cell therapy for triple-negative breast cancer by boosting immune cell energy and strengthening tumor recognition.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41925872/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-03"
+      },
+      {
         "id": "recFbkuDzsGn3Y4q2",
         "title": "Rapid screening of potent and mechanistically insightful repurposable anticancer drugs targeting EGFR for non-small cell lung cancer: machine learning-aided and structure-guided approach.",
         "summary": "Researchers used machine learning to identify two existing drugs, idarubicin and larotrectinib, as potential treatments for EGFR-resistant lung cancer.",
@@ -407,20 +421,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-01"
-      },
-      {
-        "id": "recnD3hRuggH8HLeW",
-        "title": "Metformin triggers apoptosis via endoplasmic reticulum stress in HER2-positive breast cancer cell lines.",
-        "summary": "Metformin kills HER2-positive breast cancer cells by triggering stress responses that cause programmed cell death in a dose-dependent manner.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41822189/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-04-01"
       }
@@ -1069,10 +1069,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14569,
+    "archive_count": 14570,
     "archive_supplements": 1706,
     "archive_off_label": 546,
-    "archive_biomarkers": 8475,
+    "archive_biomarkers": 8476,
     "archive_trials": 3156,
     "archive_mind_body": 394
   }
