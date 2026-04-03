@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03T08:02:44.380Z",
+  "last_updated": "2026-04-03T09:04:24.076Z",
   "categories": {
     "supplements": [
       {
@@ -369,6 +369,48 @@
         "added_date": "2026-04-03"
       },
       {
+        "id": "recpMtviDF7mNJUlT",
+        "title": "Artificial Intelligence-Guided Optimization of Hyaluronic Acid-Coated Liposomal Linagliptin for Targeted Management of Polycystic Ovary Syndrome.",
+        "summary": "AI-optimized liposomal linagliptin with hyaluronic acid coating improved PCOS treatment by enhancing drug delivery and reducing oxidative stress in rats.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41928011/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-03"
+      },
+      {
+        "id": "recDwLuLzJuX1o12b",
+        "title": "Survival assessment of warfarin and international normalized ratio exposure in cancer-associated venous thromboembolism: Veterans Affairs healthcare system-based analysis.",
+        "summary": "Cancer patients on warfarin for blood clots showed 16% lower death risk than those on other anticoagulants.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41924910/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-03"
+      },
+      {
+        "id": "recy1zxGkF5uMUckD",
+        "title": "Protease-Activated Receptor-2 Promotes Metastasis: An Emerging Therapeutic Target.",
+        "summary": "PAR-2 protein promotes cancer metastasis and blocking it with existing drugs may improve treatment outcomes for advanced cancers.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41677419/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-03"
+      },
+      {
         "id": "recFbkuDzsGn3Y4q2",
         "title": "Rapid screening of potent and mechanistically insightful repurposable anticancer drugs targeting EGFR for non-small cell lung cancer: machine learning-aided and structure-guided approach.",
         "summary": "Researchers used machine learning to identify two existing drugs, idarubicin and larotrectinib, as potential treatments for EGFR-resistant lung cancer.",
@@ -379,48 +421,6 @@
           "Lung"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-02"
-      },
-      {
-        "id": "recpgfN1oZ7uK4ofF",
-        "title": "Anticancer Efficacy of HPPH-PDT Synergies with BCG-Immunotherapy or COX-2 Inhibitor in Treating Bladder Cancer.",
-        "summary": "HPPH-PDT combined with COX-2 inhibitors or BCG immunotherapy significantly improves bladder cancer cure rates in mice.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41920055/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Bladder"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-02"
-      },
-      {
-        "id": "rec5GEsmtIOjFhvHF",
-        "title": "Aspirin and other nonsteroidal anti-inflammatory drugs (NSAIDs) for preventing colorectal cancer and colorectal adenoma in the general population.",
-        "summary": "Aspirin and NSAIDs may help prevent colorectal cancer, but evidence remains unclear on whether benefits outweigh potential harms.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41919561/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 22,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-02"
-      },
-      {
-        "id": "recyMzyy31PeuOI38",
-        "title": "USP5 regulates purine metabolism and represents a therapeutic target in esophageal cancer.",
-        "summary": "USP5 protein drives esophageal cancer growth by boosting guanine production; blocking it with mebendazole improves chemotherapy effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41922317/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-02"
       }
@@ -1069,9 +1069,9 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14733,
+    "archive_count": 14734,
     "archive_supplements": 1712,
-    "archive_off_label": 552,
+    "archive_off_label": 553,
     "archive_biomarkers": 8591,
     "archive_trials": 3191,
     "archive_mind_body": 395
