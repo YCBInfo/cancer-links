@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03T04:02:48.560Z",
+  "last_updated": "2026-04-03T04:03:04.117Z",
   "categories": {
     "supplements": [
       {
@@ -525,6 +525,34 @@
         "added_date": "2026-04-03"
       },
       {
+        "id": "rec3RzxBLnrasUNpO",
+        "title": "Functional role of small extrachromosomal circular DNA in colorectal cancer.",
+        "summary": "Small circular DNA molecules are abundant in colorectal cancer tumors and drive cancer-related gene overexpression, particularly CXCL5, correlating with poor survival.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41926541/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-03"
+      },
+      {
+        "id": "recZdqpzBudXY1HMF",
+        "title": "Inflammatory arthritis irAE may represent a unique autoimmune disease primarily driven by T cells but likely not autoantibodies.",
+        "summary": "Cancer immunotherapy-induced arthritis is driven by T cell activation rather than autoantibodies, unlike rheumatoid arthritis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41920990/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-03"
+      },
+      {
         "id": "rec1tovwnvR86oAwk",
         "title": "CA72-4 derived from synovial cells inhibits monosodium urate-induced macrophage M1 polarization by activating the TIGIT/SHP-1 axis through binding to Siglec-15.",
         "summary": "CA72-4 protein from synovial cells reduces harmful inflammation in gout by activating a specific immune signaling pathway in macrophages.",
@@ -606,34 +634,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
-        "added_date": "2026-04-02"
-      },
-      {
-        "id": "rec4HF92HGMuHks38",
-        "title": "Micro-/nanorobots in nanomedicine - Guidance, imaging and the integration of AI and robotics.",
-        "summary": "Tiny magnetic robots guided by AI could deliver drugs directly to tumors and destroy cancer cells using heat and targeted therapy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41678949/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-02"
-      },
-      {
-        "id": "recIzk4LmQ7RGosy4",
-        "title": "CD8 TRM-like T cells expressing perforin and IFN-γ define a pediatric activated T-cell acute liver failure endotype.",
-        "summary": "Pediatric acute liver failure involves CD8 T cells with tissue-resident markers; identifying this immune signature may guide targeted T-cell therapies.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41921202/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
         "added_date": "2026-04-02"
       }
     ],
@@ -1070,10 +1070,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14531,
+    "archive_count": 14532,
     "archive_supplements": 1703,
     "archive_off_label": 545,
-    "archive_biomarkers": 8445,
+    "archive_biomarkers": 8446,
     "archive_trials": 3152,
     "archive_mind_body": 394
   }
