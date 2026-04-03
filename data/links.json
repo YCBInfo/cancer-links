@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03T07:07:39.519Z",
+  "last_updated": "2026-04-03T08:02:19.134Z",
   "categories": {
     "supplements": [
       {
@@ -355,6 +355,20 @@
         "added_date": "2026-04-03"
       },
       {
+        "id": "recwhYRXR5Fj8s4f9",
+        "title": "Functional profiling of somatostatin receptors identifies somatostatin receptor subtype 2 as a vulnerability in Succinate Dehydrogenase SDHB-deficient pheochromocytomas and paragangliomas.",
+        "summary": "A selective somatostatin receptor 2 drug effectively kills SDHB-deficient pheochromocytoma and paraganglioma cancer cells in laboratory studies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41928014/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-03"
+      },
+      {
         "id": "recFbkuDzsGn3Y4q2",
         "title": "Rapid screening of potent and mechanistically insightful repurposable anticancer drugs targeting EGFR for non-small cell lung cancer: machine learning-aided and structure-guided approach.",
         "summary": "Researchers used machine learning to identify two existing drugs, idarubicin and larotrectinib, as potential treatments for EGFR-resistant lung cancer.",
@@ -407,20 +421,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-02"
-      },
-      {
-        "id": "rec90fbHH0gliDCe3",
-        "title": "Impact of NSAID type, initiation timing, duration and dose on clinical outcomes of immunotherapy in NSCLC: a multicenter two-cohort study.",
-        "summary": "NSAID use patterns affect how well immunotherapy works in lung cancer patients, with implications for treatment outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41922087/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-02"
       }
@@ -1069,11 +1069,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14730,
+    "archive_count": 14731,
     "archive_supplements": 1712,
     "archive_off_label": 552,
     "archive_biomarkers": 8589,
-    "archive_trials": 3190,
+    "archive_trials": 3191,
     "archive_mind_body": 395
   }
 }
