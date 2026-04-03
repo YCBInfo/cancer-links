@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03T07:06:03.952Z",
+  "last_updated": "2026-04-03T07:06:13.815Z",
   "categories": {
     "supplements": [
       {
@@ -341,6 +341,20 @@
         "added_date": "2026-04-03"
       },
       {
+        "id": "recJHwDFDOGNitCfM",
+        "title": "A Target Validation and Efficacy Study of Metformin in Patients With Recurrent or Progressive Posterior Fossa Group A (PFA) Ependymoma",
+        "summary": "Researchers are testing metformin to treat children and young adults with recurrent or progressive posterior fossa ependymoma brain tumors.",
+        "url": "https://clinicaltrials.gov/study/NCT07226453",
+        "source": "ClinicalTrials.gov",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 10,
+        "pub_date": "2026-04-02",
+        "added_date": "2026-04-03"
+      },
+      {
         "id": "recFbkuDzsGn3Y4q2",
         "title": "Rapid screening of potent and mechanistically insightful repurposable anticancer drugs targeting EGFR for non-small cell lung cancer: machine learning-aided and structure-guided approach.",
         "summary": "Researchers used machine learning to identify two existing drugs, idarubicin and larotrectinib, as potential treatments for EGFR-resistant lung cancer.",
@@ -407,20 +421,6 @@
           "Lung"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-02"
-      },
-      {
-        "id": "recrgVPoH0kRn5BNO",
-        "title": "Genome-Wide CRISPR Analysis Uncovers Metformin and NSAID Combination as a Chemopreventive Approach in Smoking-Associated Oral Cancer.",
-        "summary": "Combining metformin and NSAIDs shows promise for preventing oral cancer in smokers by overcoming drug resistance.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41918363/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-02"
       }
@@ -1069,11 +1069,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14721,
+    "archive_count": 14722,
     "archive_supplements": 1712,
     "archive_off_label": 551,
     "archive_biomarkers": 8587,
-    "archive_trials": 3184,
+    "archive_trials": 3185,
     "archive_mind_body": 395
   }
 }
