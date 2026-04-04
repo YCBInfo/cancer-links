@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04T08:03:04.860Z",
+  "last_updated": "2026-04-04T09:03:13.589Z",
   "categories": {
     "supplements": [
       {
@@ -292,6 +292,48 @@
         "added_date": "2026-04-04"
       },
       {
+        "id": "recCwmuUjayDnsyWS",
+        "title": "GCL-MSE: Graph Contrastive Learning with Mutual Similarity Enhancement for Drug Repositioning.",
+        "summary": "A new AI method identifies existing drugs for cancer and other diseases by analyzing drug and disease relationships, predicting treatments like hydroxyurea for breast cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41931433/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-04"
+      },
+      {
+        "id": "recJASMB9a0o8rlse",
+        "title": "Statins and postmenopausal breast cancer risk; results from the KARMA cohort.",
+        "summary": "Statin use in postmenopausal women showed no significant protective effect against breast cancer in a Swedish study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41931132/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-04"
+      },
+      {
+        "id": "recWRW53ks6l0skNS",
+        "title": "Safety concerns associated with various types of statins: a disproportionality analysis of the FAERS database.",
+        "summary": "Researchers analyzed statin side effects to compare safety profiles across different types and improve patient treatment decisions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41931115/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-04"
+      },
+      {
         "id": "recnjrNeRARrBfzA4",
         "title": "Aging-dependent microglial heterogeneity worsens outcomes in models of traumatic brain injury.",
         "summary": "Aged brains develop harmful immune cells after traumatic injury, but blocking a protein called ELF1 or using an existing drug restores protective immunity and improves recovery.",
@@ -387,48 +429,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
-        "added_date": "2026-04-03"
-      },
-      {
-        "id": "recTg1UymvDeyFttP",
-        "title": "Filgotinib inhibits METTL3-mediated m6A of EIF3A by targeting ERG-TBP to suppress PDAC progression JAK-STAT3-independently.",
-        "summary": "Filgotinib, a rheumatism drug, suppresses pancreatic cancer growth by reducing a cancer-promoting protein modification independently of its known JAK-STAT3 pathway.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41922492/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-03"
-      },
-      {
-        "id": "reczP0mW6JYqYCLj9",
-        "title": "Evaluating Intermittent Dosing of Aspirin for Colorectal Cancer Chemoprevention",
-        "summary": "A trial testing whether intermittent aspirin doses can prevent colorectal cancer in patients with adenoma.",
-        "url": "https://clinicaltrials.gov/study/NCT02965703",
-        "source": "ClinicalTrials.gov",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 19,
-        "pub_date": "2026-04-02",
-        "added_date": "2026-04-03"
-      },
-      {
-        "id": "recJHwDFDOGNitCfM",
-        "title": "A Target Validation and Efficacy Study of Metformin in Patients With Recurrent or Progressive Posterior Fossa Group A (PFA) Ependymoma",
-        "summary": "Researchers are testing metformin to treat children and young adults with recurrent or progressive posterior fossa ependymoma brain tumors.",
-        "url": "https://clinicaltrials.gov/study/NCT07226453",
-        "source": "ClinicalTrials.gov",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
-        "pub_date": "2026-04-02",
         "added_date": "2026-04-03"
       }
     ],
@@ -1078,8 +1078,8 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14957,
-    "archive_supplements": 1727,
+    "archive_count": 14958,
+    "archive_supplements": 1728,
     "archive_off_label": 561,
     "archive_biomarkers": 8745,
     "archive_trials": 3235,
