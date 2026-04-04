@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04T04:03:25.852Z",
+  "last_updated": "2026-04-04T04:03:36.900Z",
   "categories": {
     "supplements": [
       {
@@ -570,6 +570,20 @@
         "added_date": "2026-04-04"
       },
       {
+        "id": "reckzWH6lSgpQPP1W",
+        "title": "Diagnostic importance of serum markers in lung cancer.",
+        "summary": "Blood-based serum markers show promise for earlier lung cancer detection through non-invasive liquid biopsy analysis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41930456/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-04"
+      },
+      {
         "id": "recT25pCi9IK9FZDT",
         "title": "Machine learning in the prediction of liver iron concentration and iron chelation therapy adjustment.",
         "summary": "Researchers developed a machine learning algorithm to predict liver iron levels and help doctors adjust iron removal therapy doses.",
@@ -616,20 +630,6 @@
         "title": "Large Gastric Pyloric Gland Adenoma Mimicking Malignancy on FDG PET/CT.",
         "summary": "A benign gastric pyloric gland adenoma can appear cancerous on imaging but is successfully treated with local surgical removal.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41921935/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-03"
-      },
-      {
-        "id": "recjl6Rp6rs6vHPKQ",
-        "title": "Atypical Imaging Features of Primary Peritoneal High-Grade Serous Carcinoma.",
-        "summary": "Primary peritoneal serous cancer can present with unusual imaging features like coarse calcifications and a large mass without fluid buildup.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41921934/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -1072,10 +1072,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14755,
+    "archive_count": 14756,
     "archive_supplements": 1714,
     "archive_off_label": 557,
-    "archive_biomarkers": 8599,
+    "archive_biomarkers": 8600,
     "archive_trials": 3198,
     "archive_mind_body": 395
   }
