@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04T04:13:31.629Z",
+  "last_updated": "2026-04-04T04:13:42.132Z",
   "categories": {
     "supplements": [
       {
@@ -233,6 +233,20 @@
         "added_date": "2026-04-04"
       },
       {
+        "id": "recopWcqLBJFzsMYc",
+        "title": "Glucocorticoid-Induced Proteome and Phosphoproteome Changes in Breast Cancer Cell Lines.",
+        "summary": "Dexamethasone, a steroid given with breast cancer chemotherapy, alters proteins that promote cell migration and metastasis through glucocorticoid receptor signaling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41801802/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-04"
+      },
+      {
         "id": "recnjrNeRARrBfzA4",
         "title": "Aging-dependent microglial heterogeneity worsens outcomes in models of traumatic brain injury.",
         "summary": "Aged brains develop harmful immune cells after traumatic injury, but blocking a protein called ELF1 or using an existing drug restores protective immunity and improves recovery.",
@@ -405,20 +419,6 @@
         "title": "Survival assessment of warfarin and international normalized ratio exposure in cancer-associated venous thromboembolism: Veterans Affairs healthcare system-based analysis.",
         "summary": "Cancer patients on warfarin for blood clots showed 16% lower death risk than those on other anticoagulants.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41924910/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-03"
-      },
-      {
-        "id": "recy1zxGkF5uMUckD",
-        "title": "Protease-Activated Receptor-2 Promotes Metastasis: An Emerging Therapeutic Target.",
-        "summary": "PAR-2 protein promotes cancer metastasis and blocking it with existing drugs may improve treatment outcomes for advanced cancers.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41677419/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -1075,10 +1075,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14809,
+    "archive_count": 14810,
     "archive_supplements": 1717,
     "archive_off_label": 558,
-    "archive_biomarkers": 8645,
+    "archive_biomarkers": 8646,
     "archive_trials": 3202,
     "archive_mind_body": 395
   }
