@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04T04:05:31.756Z",
+  "last_updated": "2026-04-04T04:05:42.111Z",
   "categories": {
     "supplements": [
       {
@@ -216,6 +216,23 @@
     ],
     "off_label": [
       {
+        "id": "recUxIvwD4kaU0mT2",
+        "title": "Systemic glucocorticoid use and risk of site-specific cancers: a methodological systematic review of observational studies.",
+        "summary": "Observational studies on glucocorticoids and cancer risk have significant methodological flaws, with inconsistent findings except for possible non-Hodgkin lymphoma associations.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41931525/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Breast",
+          "Colorectal",
+          "Melanoma",
+          "Lymphoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-04"
+      },
+      {
         "id": "recnjrNeRARrBfzA4",
         "title": "Aging-dependent microglial heterogeneity worsens outcomes in models of traumatic brain injury.",
         "summary": "Aged brains develop harmful immune cells after traumatic injury, but blocking a protein called ELF1 or using an existing drug restores protective immunity and improves recovery.",
@@ -408,20 +425,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-03"
-      },
-      {
-        "id": "recqIHIec6yLMxN7w",
-        "title": "Compound Library Screening Identified Cladribine as a Novel Radiosensitizer for Prostate Cancer.",
-        "summary": "Researchers identified cladribine, an FDA-approved drug, as a potent radiosensitizer that enhances radiation therapy effectiveness against prostate cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41555655/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Prostate"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-03"
       }
@@ -1072,10 +1075,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14766,
+    "archive_count": 14767,
     "archive_supplements": 1715,
     "archive_off_label": 557,
-    "archive_biomarkers": 8609,
+    "archive_biomarkers": 8610,
     "archive_trials": 3198,
     "archive_mind_body": 395
   }
