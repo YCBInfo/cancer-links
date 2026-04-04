@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04T04:03:04.157Z",
+  "last_updated": "2026-04-04T04:03:16.301Z",
   "categories": {
     "supplements": [
       {
@@ -542,6 +542,20 @@
         "added_date": "2026-04-04"
       },
       {
+        "id": "recUSAeB7bw2fNMVi",
+        "title": "Advances in the mechanisms of extracellular vesicles and circulating tumor cells in hepatocellular carcinoma metastasis (Review).",
+        "summary": "Extracellular vesicles and circulating tumor cells work together to promote hepatocellular carcinoma metastasis by preparing target organs for cancer spread.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41930461/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-04"
+      },
+      {
         "id": "recT25pCi9IK9FZDT",
         "title": "Machine learning in the prediction of liver iron concentration and iron chelation therapy adjustment.",
         "summary": "Researchers developed a machine learning algorithm to predict liver iron levels and help doctors adjust iron removal therapy doses.",
@@ -616,20 +630,6 @@
         "title": "Tumor-Induced Osteomalacia Localized to an Abdominal Wall Phosphaturic Mesenchymal Tumor by 68Ga-DOTATATE PET/CT.",
         "summary": "PET/CT imaging successfully located a rare abdominal wall tumor causing bone disease, enabling surgical removal and patient recovery.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41921932/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-03"
-      },
-      {
-        "id": "rec6dWy5Nmvqv1cWg",
-        "title": "Aggressive Metastasis With Silent PET/CT: A Lesson From Well-differentiated Splenic Angiosarcoma.",
-        "summary": "Well-differentiated splenic angiosarcoma can spread aggressively to the liver while remaining undetected on standard imaging scans.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41921931/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -1072,10 +1072,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14753,
+    "archive_count": 14754,
     "archive_supplements": 1713,
     "archive_off_label": 557,
-    "archive_biomarkers": 8598,
+    "archive_biomarkers": 8599,
     "archive_trials": 3198,
     "archive_mind_body": 395
   }
