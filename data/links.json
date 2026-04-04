@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04T04:05:42.111Z",
+  "last_updated": "2026-04-04T04:05:54.357Z",
   "categories": {
     "supplements": [
       {
@@ -39,6 +39,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Lung",
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-04"
+      },
+      {
+        "id": "rechi15hnkPuxKEle",
+        "title": "Anti-hepatocellular carcinoma activity of Jacaranda mimosifolia through experimental validation and network pharmacology.",
+        "summary": "Jacaranda mimosifolia extract inhibits hepatocellular carcinoma cell growth and triggers cancer cell death through multiple molecular pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41931506/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
           "Liver"
         ],
         "quality_score": 15,
@@ -196,20 +210,6 @@
           "Lung"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-02"
-      },
-      {
-        "id": "recIkjlZITQ4zgI7e",
-        "title": "Shenling Baizhu Powder Alleviated Lung Damage and Enhanced Immunoregulatory Activity in Mice with Non-Tuberculosis Mycobacterial Lung Disease.",
-        "summary": "A traditional herbal powder called Shenling Baizhu Powder reduced lung damage and boosted immune function in mice with mycobacterial lung disease.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41920260/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-02"
       }
@@ -729,6 +729,20 @@
         "added_date": "2026-04-04"
       },
       {
+        "id": "rechNtrVZZF9KMWaX",
+        "title": "PRognostic and predictive potential Of multiparametric dynamic whole-body 18F-FDG PET Imaging using a Long axial field-of-view (LAFOV) system for FIRST-line chemo-immunotherapy efficacy in advanced non-small cell lung cancer: PROFIL-1 study protocol.",
+        "summary": "Study tests whether advanced PET imaging can predict which lung cancer patients benefit from chemotherapy-immunotherapy combination treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41931499/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-04"
+      },
+      {
         "id": "recfW7WaLPw1O2qRZ",
         "title": "Visualization of Cerebral Veins and Deep Gray Matter Nuclei by Susceptibility-weighted Imaging: A Comparative Study of 5.0 T and 3.0 T Imaging.",
         "summary": "A 5.0 Tesla MRI scanner produces clearer images of brain veins and deep brain structures than a 3.0 Tesla scanner.",
@@ -833,20 +847,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41926327/",
         "source": "PubMed",
         "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-03"
-      },
-      {
-        "id": "recKoamvbscHNIQJW",
-        "title": "Role of Anti-GD2 Targeted PEG-b-PLGA Nanoparticles in the Treatment of MYCN Driven Neuroblastoma.",
-        "summary": "Targeted nanoparticles delivering dual drug inhibitors successfully reduced neuroblastoma tumor growth and increased cancer cell death in studies.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41926246/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
@@ -1075,10 +1075,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14767,
+    "archive_count": 14768,
     "archive_supplements": 1715,
     "archive_off_label": 557,
-    "archive_biomarkers": 8610,
+    "archive_biomarkers": 8611,
     "archive_trials": 3198,
     "archive_mind_body": 395
   }
