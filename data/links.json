@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04T04:04:21.595Z",
+  "last_updated": "2026-04-04T04:04:33.140Z",
   "categories": {
     "supplements": [
       {
@@ -684,6 +684,20 @@
         "added_date": "2026-04-04"
       },
       {
+        "id": "recxjn0zfxAJhWr68",
+        "title": "Anti-cancer effect of a novel photodynamic therapy using glucose-linked chlorin e6 conjugated trastuzumab for HER2-positive gastrointestinal cancers.",
+        "summary": "A new photodynamic therapy using antibody-linked light-activating molecules selectively targets and kills HER2-positive gastrointestinal cancer cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41931583/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-04"
+      },
+      {
         "id": "recfW7WaLPw1O2qRZ",
         "title": "Visualization of Cerebral Veins and Deep Gray Matter Nuclei by Susceptibility-weighted Imaging: A Comparative Study of 5.0 T and 3.0 T Imaging.",
         "summary": "A 5.0 Tesla MRI scanner produces clearer images of brain veins and deep brain structures than a 3.0 Tesla scanner.",
@@ -832,20 +846,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Prostate"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-03"
-      },
-      {
-        "id": "recdZozzkAMj2lp7T",
-        "title": "Alpelisib and Fulvestrant in PIK3CA-mutated hormone receptor-positive HER2-negative advanced breast cancer included in the German PRAEGNANT trial.",
-        "summary": "A real-world study examined alpelisib combined with fulvestrant for hormone receptor-positive breast cancer patients with PIK3CA mutations.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41925922/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -1072,10 +1072,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14760,
+    "archive_count": 14761,
     "archive_supplements": 1715,
     "archive_off_label": 557,
-    "archive_biomarkers": 8603,
+    "archive_biomarkers": 8604,
     "archive_trials": 3198,
     "archive_mind_body": 395
   }
