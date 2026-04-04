@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04T09:03:26.676Z",
+  "last_updated": "2026-04-04T09:03:37.989Z",
   "categories": {
     "supplements": [
       {
@@ -348,6 +348,20 @@
         "added_date": "2026-04-04"
       },
       {
+        "id": "recpL2DTPdTJNL0Va",
+        "title": "Beyond Antiviral Therapy: Untapped Potential of HIV & HCV Protease Inhibitors.",
+        "summary": "HIV and HCV protease inhibitors show promise as repurposed cancer drugs due to their unique ability to target difficult protein sites.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41928484/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-04"
+      },
+      {
         "id": "recnjrNeRARrBfzA4",
         "title": "Aging-dependent microglial heterogeneity worsens outcomes in models of traumatic brain injury.",
         "summary": "Aged brains develop harmful immune cells after traumatic injury, but blocking a protein called ELF1 or using an existing drug restores protective immunity and improves recovery.",
@@ -408,20 +422,6 @@
         "title": "Symptom management with osilodrostat in multiple endocrine neoplasia type 1 with a Cushing syndrome presentation.",
         "summary": "Osilodrostat effectively managed Cushing syndrome symptoms in a MEN1 patient, reducing cortisol levels and enabling significant weight loss when surgery wasn't feasible.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41924515/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-03"
-      },
-      {
-        "id": "reccgW9uzi4EIoX8Z",
-        "title": "Medulloblastoma response to mevalonate pathway inhibition is independent of p53 status.",
-        "summary": "Medulloblastoma cells respond to mevalonate pathway inhibition regardless of whether they have mutated or normal p53 genes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41923098/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -1078,11 +1078,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14959,
+    "archive_count": 14960,
     "archive_supplements": 1728,
     "archive_off_label": 561,
     "archive_biomarkers": 8746,
-    "archive_trials": 3235,
+    "archive_trials": 3236,
     "archive_mind_body": 397
   }
 }
