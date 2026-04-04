@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04T04:03:59.293Z",
+  "last_updated": "2026-04-04T04:04:11.296Z",
   "categories": {
     "supplements": [
       {
@@ -612,6 +612,20 @@
         "added_date": "2026-04-04"
       },
       {
+        "id": "rec6wORvnMr16oGrg",
+        "title": "Regulation of mitochondrial ROS by C15ORF48 in a basal cell subpopulation contributes to chemotherapy resistance in TNBC.",
+        "summary": "A protein called C15ORF48 in triple negative breast cancer cells reduces chemotherapy damage by lowering reactive oxygen species, enabling drug resistance.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41931605/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-04"
+      },
+      {
         "id": "recT25pCi9IK9FZDT",
         "title": "Machine learning in the prediction of liver iron concentration and iron chelation therapy adjustment.",
         "summary": "Researchers developed a machine learning algorithm to predict liver iron levels and help doctors adjust iron removal therapy doses.",
@@ -622,20 +636,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-03"
-      },
-      {
-        "id": "rec1j2y03ySVmyjnm",
-        "title": "TNS1 and TNS4 play a potential role in development of pancreatic ductal adenocarcinoma but not TNS2 and TNS3.",
-        "summary": "TNS1 and TNS4 proteins may contribute to pancreatic cancer development and could serve as potential biomarkers for detection.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41923376/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Pancreatic"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-03"
       }
@@ -660,6 +660,20 @@
         "title": "Coassembled Prodrug Nanoparticles Mitigating the Acquired Resistance to Protein Degradation Therapy.",
         "summary": "Researchers developed nanoparticles combining cancer-fighting PROTACs with rapamycin to overcome drug resistance in breast cancer cells.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41931717/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-04"
+      },
+      {
+        "id": "rec6wORvnMr16oGrg",
+        "title": "Regulation of mitochondrial ROS by C15ORF48 in a basal cell subpopulation contributes to chemotherapy resistance in TNBC.",
+        "summary": "A protein called C15ORF48 in triple negative breast cancer cells reduces chemotherapy damage by lowering reactive oxygen species, enabling drug resistance.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41931605/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -834,20 +848,6 @@
           "Breast"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-03"
-      },
-      {
-        "id": "recI0OsD7FqXld5nu",
-        "title": "Efficacy and safety of complement inhibitors and FcRn blockers in generalized AChR antibody-positive myasthenia gravis: a meta-analysis.",
-        "summary": "Complement inhibitors and FcRn blockers show promise as effective treatments for antibody-positive myasthenia gravis compared to standard care.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41925914/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-03"
       }
@@ -1072,10 +1072,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14758,
+    "archive_count": 14759,
     "archive_supplements": 1715,
     "archive_off_label": 557,
-    "archive_biomarkers": 8601,
+    "archive_biomarkers": 8602,
     "archive_trials": 3198,
     "archive_mind_body": 395
   }
