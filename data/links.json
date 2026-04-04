@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04T04:07:17.879Z",
+  "last_updated": "2026-04-04T04:07:28.881Z",
   "categories": {
     "supplements": [
       {
@@ -771,6 +771,20 @@
         "added_date": "2026-04-04"
       },
       {
+        "id": "recBEkyukjrSVrAeu",
+        "title": "Evaluation of adverse event profiles for leuprolide and goserelin: Insights from the FDA adverse event reporting system following STROBE guidelines.",
+        "summary": "Leuprolide and goserelin, used for hormone-dependent cancers, show distinct safety profiles, with leuprolide linked to reproductive and cancer-related side effects and goserelin to endocrine disorders.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41931341/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-04"
+      },
+      {
         "id": "recfW7WaLPw1O2qRZ",
         "title": "Visualization of Cerebral Veins and Deep Gray Matter Nuclei by Susceptibility-weighted Imaging: A Comparative Study of 5.0 T and 3.0 T Imaging.",
         "summary": "A 5.0 Tesla MRI scanner produces clearer images of brain veins and deep brain structures than a 3.0 Tesla scanner.",
@@ -835,20 +849,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Prostate"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-03"
-      },
-      {
-        "id": "recZFnuQpBPvI5xFx",
-        "title": "Clinical and histopathological predictors of disease progression in stage II cutaneous melanoma.",
-        "summary": "Researchers identified clinical and tissue features that predict which stage II melanoma patients will benefit most from new immunotherapy treatments.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41926544/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Melanoma"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -1075,10 +1075,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14775,
+    "archive_count": 14776,
     "archive_supplements": 1716,
     "archive_off_label": 558,
-    "archive_biomarkers": 8615,
+    "archive_biomarkers": 8616,
     "archive_trials": 3199,
     "archive_mind_body": 395
   }
