@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04T04:03:48.917Z",
+  "last_updated": "2026-04-04T04:03:59.293Z",
   "categories": {
     "supplements": [
       {
@@ -598,6 +598,20 @@
         "added_date": "2026-04-04"
       },
       {
+        "id": "reca0L3EXSfROrpgD",
+        "title": "Posttranscriptional reprogramming controls MASLD progression through chronic ER stress adaptation.",
+        "summary": "High-fat diet triggers protein-level changes in liver cells that drive hepatocellular carcinoma progression through stress adaptation mechanisms.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41931615/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-04"
+      },
+      {
         "id": "recT25pCi9IK9FZDT",
         "title": "Machine learning in the prediction of liver iron concentration and iron chelation therapy adjustment.",
         "summary": "Researchers developed a machine learning algorithm to predict liver iron levels and help doctors adjust iron removal therapy doses.",
@@ -620,20 +634,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Pancreatic"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-03"
-      },
-      {
-        "id": "recEL9PepV8st3ifJ",
-        "title": "Mimicking Metastatic Renal Cell Carcinoma: A Case of Pancreatic Tail Neuroendocrine Neoplasm on 68Ga-LNC1007 PET/CT.",
-        "summary": "A new PET scan technique successfully detected a pancreatic neuroendocrine tumor that conventional imaging missed, though it was initially mistaken for kidney cancer spread.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41921938/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Kidney"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -1072,8 +1072,8 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14757,
-    "archive_supplements": 1714,
+    "archive_count": 14758,
+    "archive_supplements": 1715,
     "archive_off_label": 557,
     "archive_biomarkers": 8601,
     "archive_trials": 3198,
