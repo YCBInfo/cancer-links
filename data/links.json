@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04T04:03:36.900Z",
+  "last_updated": "2026-04-04T04:03:48.917Z",
   "categories": {
     "supplements": [
       {
@@ -584,6 +584,20 @@
         "added_date": "2026-04-04"
       },
       {
+        "id": "recPODtaWPyjyHnmG",
+        "title": "Coassembled Prodrug Nanoparticles Mitigating the Acquired Resistance to Protein Degradation Therapy.",
+        "summary": "Researchers developed nanoparticles combining cancer-fighting PROTACs with rapamycin to overcome drug resistance in breast cancer cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41931717/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-04"
+      },
+      {
         "id": "recT25pCi9IK9FZDT",
         "title": "Machine learning in the prediction of liver iron concentration and iron chelation therapy adjustment.",
         "summary": "Researchers developed a machine learning algorithm to predict liver iron levels and help doctors adjust iron removal therapy doses.",
@@ -624,20 +638,6 @@
         "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-03"
-      },
-      {
-        "id": "recloHAHFlfEYOs4a",
-        "title": "Large Gastric Pyloric Gland Adenoma Mimicking Malignancy on FDG PET/CT.",
-        "summary": "A benign gastric pyloric gland adenoma can appear cancerous on imaging but is successfully treated with local surgical removal.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41921935/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-03"
       }
     ],
     "trials": [
@@ -650,6 +650,20 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-04"
+      },
+      {
+        "id": "recPODtaWPyjyHnmG",
+        "title": "Coassembled Prodrug Nanoparticles Mitigating the Acquired Resistance to Protein Degradation Therapy.",
+        "summary": "Researchers developed nanoparticles combining cancer-fighting PROTACs with rapamycin to overcome drug resistance in breast cancer cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41931717/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -828,20 +842,6 @@
         "title": "Efficacy and safety of complement inhibitors and FcRn blockers in generalized AChR antibody-positive myasthenia gravis: a meta-analysis.",
         "summary": "Complement inhibitors and FcRn blockers show promise as effective treatments for antibody-positive myasthenia gravis compared to standard care.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41925914/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-03"
-      },
-      {
-        "id": "rec1BEl8QTq13Nt3v",
-        "title": "Immune checkpoint inhibitor-related myocarditis in patients with thymic epithelial tumors: a retrospective cohort analysis.",
-        "summary": "Immune checkpoint inhibitor cancer drugs caused heart inflammation in some thymic tumor patients, a previously under-recognized side effect.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41925910/",
         "source": "PubMed",
         "category": "Clinical Trials",
         "cancer_types": [
@@ -1072,10 +1072,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14756,
+    "archive_count": 14757,
     "archive_supplements": 1714,
     "archive_off_label": 557,
-    "archive_biomarkers": 8600,
+    "archive_biomarkers": 8601,
     "archive_trials": 3198,
     "archive_mind_body": 395
   }
