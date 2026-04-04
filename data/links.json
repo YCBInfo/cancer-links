@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04T04:02:39.028Z",
+  "last_updated": "2026-04-04T04:03:04.157Z",
   "categories": {
     "supplements": [
       {
@@ -27,6 +27,21 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-04"
+      },
+      {
+        "id": "recYg8kpKnq6627lz",
+        "title": "Inhibiting FGFR by toadflax reverses erlotinib resistance in nonsmall cell lung cancer.",
+        "summary": "Bufalin reverses erlotinib resistance in lung cancer by blocking FGFR, restoring drug effectiveness when combined with erlotinib.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39724548/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lung",
+          "Liver"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-04"
       },
@@ -195,20 +210,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-02"
-      },
-      {
-        "id": "recB24Trbcq6XaLEL",
-        "title": "Dihydroartemisinin Induces Ferroptosis in Ovarian Cancer via STAT3/GPX4 Signaling Pathway.",
-        "summary": "A drug called dihydroartemisinin kills ovarian cancer cells by triggering a specific type of cell death through a particular signaling pathway.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41920257/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Ovarian"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-02"
       }
@@ -512,6 +513,35 @@
         "added_date": "2026-04-04"
       },
       {
+        "id": "recYg8kpKnq6627lz",
+        "title": "Inhibiting FGFR by toadflax reverses erlotinib resistance in nonsmall cell lung cancer.",
+        "summary": "Bufalin reverses erlotinib resistance in lung cancer by blocking FGFR, restoring drug effectiveness when combined with erlotinib.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39724548/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lung",
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-04"
+      },
+      {
+        "id": "recWETv2TkfVfgHQr",
+        "title": "Role of histone modifications in gastric cancer (Review).",
+        "summary": "Histone modifications, especially lactylation, regulate gene expression and drive gastric cancer development, progression, and immune evasion through metabolic changes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41930465/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-04"
+      },
+      {
         "id": "recT25pCi9IK9FZDT",
         "title": "Machine learning in the prediction of liver iron concentration and iron chelation therapy adjustment.",
         "summary": "Researchers developed a machine learning algorithm to predict liver iron levels and help doctors adjust iron removal therapy doses.",
@@ -600,34 +630,6 @@
         "title": "Aggressive Metastasis With Silent PET/CT: A Lesson From Well-differentiated Splenic Angiosarcoma.",
         "summary": "Well-differentiated splenic angiosarcoma can spread aggressively to the liver while remaining undetected on standard imaging scans.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41921931/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-03"
-      },
-      {
-        "id": "rec3RzxBLnrasUNpO",
-        "title": "Functional role of small extrachromosomal circular DNA in colorectal cancer.",
-        "summary": "Small circular DNA molecules are abundant in colorectal cancer tumors and drive cancer-related gene overexpression, particularly CXCL5, correlating with poor survival.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41926541/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-03"
-      },
-      {
-        "id": "recZdqpzBudXY1HMF",
-        "title": "Inflammatory arthritis irAE may represent a unique autoimmune disease primarily driven by T cells but likely not autoantibodies.",
-        "summary": "Cancer immunotherapy-induced arthritis is driven by T cell activation rather than autoantibodies, unlike rheumatoid arthritis.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41920990/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -1070,8 +1072,8 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14752,
-    "archive_supplements": 1712,
+    "archive_count": 14753,
+    "archive_supplements": 1713,
     "archive_off_label": 557,
     "archive_biomarkers": 8598,
     "archive_trials": 3198,
