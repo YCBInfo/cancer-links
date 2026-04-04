@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04T06:04:20.035Z",
+  "last_updated": "2026-04-04T06:04:28.059Z",
   "categories": {
     "supplements": [
       {
@@ -261,6 +261,22 @@
         "added_date": "2026-04-04"
       },
       {
+        "id": "recAURX2igSYHemdw",
+        "title": "GLP-1 receptor agonists and immune checkpoint inhibitor therapy: a narrative review on mechanistic and clinical evidence.",
+        "summary": "GLP-1 drugs may enhance cancer immunotherapy effectiveness by reprogramming the immune system, showing improved survival in multiple cancer types.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41930781/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Lung",
+          "Colorectal",
+          "Kidney"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-04"
+      },
+      {
         "id": "recnjrNeRARrBfzA4",
         "title": "Aging-dependent microglial heterogeneity worsens outcomes in models of traumatic brain injury.",
         "summary": "Aged brains develop harmful immune cells after traumatic injury, but blocking a protein called ELF1 or using an existing drug restores protective immunity and improves recovery.",
@@ -411,20 +427,6 @@
           "Brain"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-03"
-      },
-      {
-        "id": "recpMtviDF7mNJUlT",
-        "title": "Artificial Intelligence-Guided Optimization of Hyaluronic Acid-Coated Liposomal Linagliptin for Targeted Management of Polycystic Ovary Syndrome.",
-        "summary": "AI-optimized liposomal linagliptin with hyaluronic acid coating improved PCOS treatment by enhancing drug delivery and reducing oxidative stress in rats.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41928011/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-03"
       }
@@ -1075,11 +1077,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14875,
+    "archive_count": 14876,
     "archive_supplements": 1718,
     "archive_off_label": 559,
     "archive_biomarkers": 8703,
-    "archive_trials": 3207,
+    "archive_trials": 3208,
     "archive_mind_body": 396
   }
 }
