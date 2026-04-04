@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04T07:06:04.969Z",
+  "last_updated": "2026-04-04T07:06:14.872Z",
   "categories": {
     "supplements": [
       {
@@ -278,6 +278,20 @@
         "added_date": "2026-04-04"
       },
       {
+        "id": "rec4Ufm3tUo4AcKZT",
+        "title": "Statin Therapy to Reduce Disease Progression From Liver Cirrhosis to Cancer",
+        "summary": "Simvastatin may prevent liver cancer development in cirrhosis patients by blocking enzymes that promote cancer cell growth.",
+        "url": "https://clinicaltrials.gov/study/NCT02968810",
+        "source": "ClinicalTrials.gov",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 19,
+        "pub_date": "2026-04-03",
+        "added_date": "2026-04-04"
+      },
+      {
         "id": "recnjrNeRARrBfzA4",
         "title": "Aging-dependent microglial heterogeneity worsens outcomes in models of traumatic brain injury.",
         "summary": "Aged brains develop harmful immune cells after traumatic injury, but blocking a protein called ELF1 or using an existing drug restores protective immunity and improves recovery.",
@@ -415,20 +429,6 @@
         ],
         "quality_score": 10,
         "pub_date": "2026-04-02",
-        "added_date": "2026-04-03"
-      },
-      {
-        "id": "recwhYRXR5Fj8s4f9",
-        "title": "Functional profiling of somatostatin receptors identifies somatostatin receptor subtype 2 as a vulnerability in Succinate Dehydrogenase SDHB-deficient pheochromocytomas and paragangliomas.",
-        "summary": "A selective somatostatin receptor 2 drug effectively kills SDHB-deficient pheochromocytoma and paraganglioma cancer cells in laboratory studies.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41928014/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
         "added_date": "2026-04-03"
       }
     ],
@@ -1078,11 +1078,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14946,
+    "archive_count": 14947,
     "archive_supplements": 1727,
     "archive_off_label": 560,
     "archive_biomarkers": 8742,
-    "archive_trials": 3228,
+    "archive_trials": 3229,
     "archive_mind_body": 397
   }
 }
