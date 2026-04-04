@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04T04:07:51.103Z",
+  "last_updated": "2026-04-04T04:08:01.728Z",
   "categories": {
     "supplements": [
       {
@@ -56,6 +56,20 @@
           "Liver"
         ],
         "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-04"
+      },
+      {
+        "id": "recuUlxFKyLyMvU8b",
+        "title": "Study on material basis and network mechanism of the Guizhi Fuling pills in the treatment of endometriosis and endometrial polyps.",
+        "summary": "Guizhi Fuling pills treat endometriosis and endometrial polyps through compounds like luteolin and quercetin, targeting inflammation and estrogen pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41931331/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-04"
       },
@@ -198,20 +212,6 @@
         "quality_score": 13,
         "pub_date": "2026-04-02",
         "added_date": "2026-04-03"
-      },
-      {
-        "id": "recOAgVFWkgAiYKWb",
-        "title": "Glycyrrhizic Acid Alleviates Osimertinib-Induced Cutaneous Toxicity by Inhibiting Keratinocyte Apoptosis and Inflammation.",
-        "summary": "Glycyrrhizic acid reduces skin damage from osimertinib, a lung cancer drug, by decreasing inflammation and cell death in mice.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41920265/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-02"
       }
     ],
     "off_label": [
@@ -1075,11 +1075,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14778,
+    "archive_count": 14779,
     "archive_supplements": 1716,
     "archive_off_label": 558,
     "archive_biomarkers": 8618,
-    "archive_trials": 3199,
+    "archive_trials": 3200,
     "archive_mind_body": 395
   }
 }
