@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04T09:03:13.589Z",
+  "last_updated": "2026-04-04T09:03:26.676Z",
   "categories": {
     "supplements": [
       {
@@ -334,6 +334,20 @@
         "added_date": "2026-04-04"
       },
       {
+        "id": "recOHmIPj3r2vttwo",
+        "title": "Statins targeting mevalonate-geranylgeranyl diphosphate pathway inhibit proliferation in NK/T lymphoma by promoting pyroptosis.",
+        "summary": "Statins kill NK/T cell lymphoma cancer cells by triggering pyroptosis, a type of inflammatory cell death, offering a potential new treatment approach.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41932011/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Lymphoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-04"
+      },
+      {
         "id": "recnjrNeRARrBfzA4",
         "title": "Aging-dependent microglial heterogeneity worsens outcomes in models of traumatic brain injury.",
         "summary": "Aged brains develop harmful immune cells after traumatic injury, but blocking a protein called ELF1 or using an existing drug restores protective immunity and improves recovery.",
@@ -414,20 +428,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-03"
-      },
-      {
-        "id": "recKRH1w34t0TLXaC",
-        "title": "LDHA-driven lactate metabolism promotes MDSC activation and immunosuppressive microenvironment in prostate cancer.",
-        "summary": "LDHA-driven lactate metabolism in prostate cancer activates immune-suppressing cells; blocking LDHA enhances immunotherapy effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41922574/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Prostate"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-03"
       }
@@ -1078,10 +1078,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14958,
+    "archive_count": 14959,
     "archive_supplements": 1728,
     "archive_off_label": 561,
-    "archive_biomarkers": 8745,
+    "archive_biomarkers": 8746,
     "archive_trials": 3235,
     "archive_mind_body": 397
   }
