@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04T04:07:07.641Z",
+  "last_updated": "2026-04-04T04:07:17.879Z",
   "categories": {
     "supplements": [
       {
@@ -757,6 +757,20 @@
         "added_date": "2026-04-04"
       },
       {
+        "id": "recDWf0CWsGaUS8xq",
+        "title": "Post-marketing signal detection of fruquintinib-associated adverse events using the FAERS database.",
+        "summary": "Fruquintinib for colorectal cancer shows expected safety concerns including diarrhea, nausea, and bone marrow suppression in real-world use.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41931348/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-04"
+      },
+      {
         "id": "recfW7WaLPw1O2qRZ",
         "title": "Visualization of Cerebral Veins and Deep Gray Matter Nuclei by Susceptibility-weighted Imaging: A Comparative Study of 5.0 T and 3.0 T Imaging.",
         "summary": "A 5.0 Tesla MRI scanner produces clearer images of brain veins and deep brain structures than a 3.0 Tesla scanner.",
@@ -835,20 +849,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Melanoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-03"
-      },
-      {
-        "id": "rectkN7FtafjhdxkL",
-        "title": "Identifying the optimal rapid antigen test for screening and determining the end of isolation: A modeling study.",
-        "summary": "Saliva-based rapid antigen tests reduce COVID-19 transmission risk more effectively than nasal-based tests for screening and isolation decisions.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41926357/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -1075,10 +1075,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14774,
+    "archive_count": 14775,
     "archive_supplements": 1716,
     "archive_off_label": 558,
-    "archive_biomarkers": 8614,
+    "archive_biomarkers": 8615,
     "archive_trials": 3199,
     "archive_mind_body": 395
   }
