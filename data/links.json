@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04T04:22:28.642Z",
+  "last_updated": "2026-04-04T04:22:49.450Z",
   "categories": {
     "supplements": [
       {
@@ -247,6 +247,20 @@
         "added_date": "2026-04-04"
       },
       {
+        "id": "recP7wz89pGbgklBn",
+        "title": "Thoracic endometriosis in an inoperable patient.",
+        "summary": "Woman with lung endometriosis treated with hormone therapy when surgery wasn't possible; condition remained stable with complications.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41927137/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-04"
+      },
+      {
         "id": "recnjrNeRARrBfzA4",
         "title": "Aging-dependent microglial heterogeneity worsens outcomes in models of traumatic brain injury.",
         "summary": "Aged brains develop harmful immune cells after traumatic injury, but blocking a protein called ELF1 or using an existing drug restores protective immunity and improves recovery.",
@@ -405,20 +419,6 @@
         "title": "Artificial Intelligence-Guided Optimization of Hyaluronic Acid-Coated Liposomal Linagliptin for Targeted Management of Polycystic Ovary Syndrome.",
         "summary": "AI-optimized liposomal linagliptin with hyaluronic acid coating improved PCOS treatment by enhancing drug delivery and reducing oxidative stress in rats.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41928011/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-03"
-      },
-      {
-        "id": "recDwLuLzJuX1o12b",
-        "title": "Survival assessment of warfarin and international normalized ratio exposure in cancer-associated venous thromboembolism: Veterans Affairs healthcare system-based analysis.",
-        "summary": "Cancer patients on warfarin for blood clots showed 16% lower death risk than those on other anticoagulants.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41924910/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -1075,10 +1075,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14859,
+    "archive_count": 14860,
     "archive_supplements": 1718,
     "archive_off_label": 558,
-    "archive_biomarkers": 8690,
+    "archive_biomarkers": 8691,
     "archive_trials": 3206,
     "archive_mind_body": 395
   }
