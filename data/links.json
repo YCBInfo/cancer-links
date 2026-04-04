@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04T04:09:25.848Z",
+  "last_updated": "2026-04-04T04:09:35.738Z",
   "categories": {
     "supplements": [
       {
@@ -70,6 +70,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-04"
+      },
+      {
+        "id": "recVTc2RZCknIkIru",
+        "title": "Weighing the risk: a scoping review on the relationship between obesity and glioma.",
+        "summary": "Obesity's link to glioma risk varies by age, gender, and body composition, with early-life weight and lifestyle factors playing significant roles.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41931126/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Brain"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-04"
       },
@@ -197,20 +211,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
-        "added_date": "2026-04-03"
-      },
-      {
-        "id": "recGg4czG8IwIkhEM",
-        "title": "Immunonutrition in Reducing Acute Esophagitis After Thoracic Radiotherapy in Lung Cancer: a Prospective, Randomized, Controlled, Open-label Clinical Trial",
-        "summary": "Special nutrition supplements may reduce severe throat inflammation in lung cancer patients undergoing chest radiation therapy.",
-        "url": "https://clinicaltrials.gov/study/NCT06840704",
-        "source": "ClinicalTrials.gov",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 13,
-        "pub_date": "2026-04-02",
         "added_date": "2026-04-03"
       }
     ],
@@ -1075,10 +1075,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14787,
+    "archive_count": 14788,
     "archive_supplements": 1717,
     "archive_off_label": 558,
-    "archive_biomarkers": 8625,
+    "archive_biomarkers": 8626,
     "archive_trials": 3200,
     "archive_mind_body": 395
   }
