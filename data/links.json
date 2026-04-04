@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04T09:04:33.900Z",
+  "last_updated": "2026-04-04T09:04:46.754Z",
   "categories": {
     "supplements": [
       {
@@ -376,6 +376,20 @@
         "added_date": "2026-04-04"
       },
       {
+        "id": "recLviBJtGJdHxRZJ",
+        "title": "Targeted Therapies in Infantile Hemangiomas and Vascular Malformations: From β-Blockers to PI3K/AKT/mTOR Inhibitors.",
+        "summary": "Propranolol and newer targeted drugs like sirolimus effectively treat infantile hemangiomas and vascular malformations by blocking specific disease-causing genetic pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41928438/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-04"
+      },
+      {
         "id": "recnjrNeRARrBfzA4",
         "title": "Aging-dependent microglial heterogeneity worsens outcomes in models of traumatic brain injury.",
         "summary": "Aged brains develop harmful immune cells after traumatic injury, but blocking a protein called ELF1 or using an existing drug restores protective immunity and improves recovery.",
@@ -408,20 +422,6 @@
         "title": "MIG-6 Regulates HDAC1-Mediated Angiogenesis and Tumorigenesis in PTEN-Deficient Endometrioid Endometrial Cancer.",
         "summary": "MIG-6 suppresses endometrial cancer growth by blocking HDAC1, offering a potential new treatment target for this common gynecologic cancer.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41563767/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-03"
-      },
-      {
-        "id": "recSV91wY0epu0Zcd",
-        "title": "Medium-Chain Fatty Acid Receptor GPR84 Modulates Cytotoxic CD8 T-cell Antitumor Immunity through Metabolic Reprogramming.",
-        "summary": "Blocking GPR84 receptor boosts CD8 immune cells' ability to fight tumors by increasing their energy and cytotoxic function.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41557755/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -1078,9 +1078,9 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14965,
+    "archive_count": 14966,
     "archive_supplements": 1728,
-    "archive_off_label": 565,
+    "archive_off_label": 566,
     "archive_biomarkers": 8747,
     "archive_trials": 3236,
     "archive_mind_body": 397
