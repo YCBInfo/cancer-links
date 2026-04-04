@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04T04:08:43.525Z",
+  "last_updated": "2026-04-04T04:08:53.603Z",
   "categories": {
     "supplements": [
       {
@@ -813,6 +813,20 @@
         "added_date": "2026-04-04"
       },
       {
+        "id": "recEsJIIz5uWyXyND",
+        "title": "Sequential Use of Trastuzumab Deruxtecan and Sacituzumab Govitecan in Patients with Breast Cancer: A Pharmacological Approach to Support the Clinical Rationale.",
+        "summary": "Two breast cancer drugs targeting different tumor proteins may be used sequentially to overcome drug resistance and improve treatment outcomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41931218/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-04"
+      },
+      {
         "id": "recfW7WaLPw1O2qRZ",
         "title": "Visualization of Cerebral Veins and Deep Gray Matter Nuclei by Susceptibility-weighted Imaging: A Comparative Study of 5.0 T and 3.0 T Imaging.",
         "summary": "A 5.0 Tesla MRI scanner produces clearer images of brain veins and deep brain structures than a 3.0 Tesla scanner.",
@@ -835,20 +849,6 @@
         "category": "Clinical Trials",
         "cancer_types": [
           "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-03"
-      },
-      {
-        "id": "recuEcdPpY3skZ8XH",
-        "title": "CD28-Targeted Enzyme-Responsive Conformation-Switching Peptide Self-Assembly for Selective T-Cell Acute Lymphoblastic Leukemia (T-ALL) Therapy.",
-        "summary": "Researchers developed a targeted peptide therapy that selectively kills T-cell acute lymphoblastic leukemia cells by disrupting CD28 signaling and causing cell death.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41926668/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -1075,10 +1075,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14783,
+    "archive_count": 14784,
     "archive_supplements": 1716,
     "archive_off_label": 558,
-    "archive_biomarkers": 8622,
+    "archive_biomarkers": 8623,
     "archive_trials": 3200,
     "archive_mind_body": 395
   }
