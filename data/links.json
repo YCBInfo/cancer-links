@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04T04:04:33.140Z",
+  "last_updated": "2026-04-04T04:04:44.418Z",
   "categories": {
     "supplements": [
       {
@@ -698,6 +698,20 @@
         "added_date": "2026-04-04"
       },
       {
+        "id": "recA7Z2USOz41aoKA",
+        "title": "Utilizing the transformer mechanism to predict cervical lymph node metastasis in patients with papillary thyroid carcinoma.",
+        "summary": "Researchers used artificial intelligence to predict which papillary thyroid cancer patients have spread to neck lymph nodes before surgery.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41931576/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Thyroid"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-04"
+      },
+      {
         "id": "recfW7WaLPw1O2qRZ",
         "title": "Visualization of Cerebral Veins and Deep Gray Matter Nuclei by Susceptibility-weighted Imaging: A Comparative Study of 5.0 T and 3.0 T Imaging.",
         "summary": "A 5.0 Tesla MRI scanner produces clearer images of brain veins and deep brain structures than a 3.0 Tesla scanner.",
@@ -832,20 +846,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-03"
-      },
-      {
-        "id": "recFHJmIizsbbYSOz",
-        "title": "Pretreatment MRI as a Prognostic Factor After Radical Prostatectomy: A Systematic Review and Meta-Analysis.",
-        "summary": "MRI scans before prostate surgery may help predict which patients will have better or worse long-term outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41926088/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Prostate"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -1072,10 +1072,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14761,
+    "archive_count": 14762,
     "archive_supplements": 1715,
     "archive_off_label": 557,
-    "archive_biomarkers": 8604,
+    "archive_biomarkers": 8605,
     "archive_trials": 3198,
     "archive_mind_body": 395
   }
