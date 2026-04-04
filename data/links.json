@@ -1,7 +1,35 @@
 {
-  "last_updated": "2026-04-03T11:22:21.228Z",
+  "last_updated": "2026-04-04T04:02:39.028Z",
   "categories": {
     "supplements": [
+      {
+        "id": "recwko3TxqX3jY76N",
+        "title": "Astragaloside IV targets TUBB4B to inhibit proliferation and promote apoptosis of pituitary tumor cells via the STMN1/ERK pathway.",
+        "summary": "Astragaloside IV, a compound from traditional Chinese medicine, stops pituitary tumor growth by targeting a protein called TUBB4B.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41930558/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-04"
+      },
+      {
+        "id": "recY7T2lhO1Zu7hzH",
+        "title": "Combining bioinformatics prediction with experimental validation to explore the ameliorative effect of Psoralea corylifolia on vitiligo.",
+        "summary": "Psoralea corylifolia plant extracts increase melanin production in vitiligo through multiple active ingredients targeting apoptosis and PI3K/Akt pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41930487/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-04"
+      },
       {
         "id": "recVk82OqZxrybtCK",
         "title": "The orexinergic system mediates the effects of ginsenoside Rg1 against cyclophosphamide-induced reproductive toxicity.",
@@ -179,34 +207,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Ovarian"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-02"
-      },
-      {
-        "id": "recYS3BlopGv9Xydm",
-        "title": "Mechanistic Topology of Notopterygium incisum Essential Oil against Rheumatoid Arthritis: Machine Learning-Guided CASP1 Screening and Nanoemulsion Evaluation.",
-        "summary": "Researchers identified compounds in Notopterygium incisum essential oil that reduce rheumatoid arthritis inflammation and created a nanoemulsion to improve drug delivery.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41920256/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-02"
-      },
-      {
-        "id": "recCuH9PZHjJQUwuv",
-        "title": "LC/MS-Based Phytochemical Profiling and Immunomodulatory Evaluation of Three Medicinal Plants With Anticancer and Antibacterial Activities.",
-        "summary": "Three medicinal plant extracts showed promise against breast cancer cells and antibiotic-resistant bacteria through antioxidant and immune-boosting compounds.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41918395/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -427,6 +427,91 @@
     ],
     "biomarkers": [
       {
+        "id": "recgprBCwlJYLUcKt",
+        "title": "Sialic acid cis-ligand dynamics modulate Siglec-7 and -9 function and affect Siglec-7/9 co-blockade to potentiate natural killer cell anti-tumor activity.",
+        "summary": "Blocking both Siglec-7 and Siglec-9 together enhances natural killer cells' ability to kill melanoma and leukemia cells more effectively than blocking either alone.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41928453/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Melanoma",
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-04"
+      },
+      {
+        "id": "recwko3TxqX3jY76N",
+        "title": "Astragaloside IV targets TUBB4B to inhibit proliferation and promote apoptosis of pituitary tumor cells via the STMN1/ERK pathway.",
+        "summary": "Astragaloside IV, a compound from traditional Chinese medicine, stops pituitary tumor growth by targeting a protein called TUBB4B.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41930558/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-04"
+      },
+      {
+        "id": "rec6sYtXq0ErAMDgk",
+        "title": "Mechanism of and research progress on alterations in the RET gene in thyroid cancer (Review).",
+        "summary": "RET gene mutations and fusions drive the development of medullary and papillary thyroid cancers, making it a key treatment target.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41930492/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Thyroid"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-04"
+      },
+      {
+        "id": "recY7T2lhO1Zu7hzH",
+        "title": "Combining bioinformatics prediction with experimental validation to explore the ameliorative effect of Psoralea corylifolia on vitiligo.",
+        "summary": "Psoralea corylifolia plant extracts increase melanin production in vitiligo through multiple active ingredients targeting apoptosis and PI3K/Akt pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41930487/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-04"
+      },
+      {
+        "id": "recmW4uAqPbE5b72A",
+        "title": "Emerging roles of POLR2L of RNA polymerase II dynamics and disease mechanisms (Review).",
+        "summary": "POLR2L protein dysfunction drives cancer growth and drug resistance by disrupting RNA polymerase function and key cellular signaling pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41930481/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-04"
+      },
+      {
+        "id": "rec49hMGToRPFKr9k",
+        "title": "Hematopoietic progenitor kinase 1 inhibitor BGB-15025 induces apoptosis in acute myeloid leukemia cells through the cell cycle pathway and mitogen-activated protein kinase/extracellular signal-regulated kinase pathway signaling axis.",
+        "summary": "BGB-15025, a new drug, kills acute myeloid leukemia cells by blocking cell cycle progression and disrupting cancer-promoting signaling pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41503684/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-04"
+      },
+      {
         "id": "recT25pCi9IK9FZDT",
         "title": "Machine learning in the prediction of liver iron concentration and iron chelation therapy adjustment.",
         "summary": "Researchers developed a machine learning algorithm to predict liver iron levels and help doctors adjust iron removal therapy doses.",
@@ -551,93 +636,23 @@
         "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-03"
-      },
-      {
-        "id": "recbBIiBOEPmaBm26",
-        "title": "Identification of CD74-positive antigen presenting glioma cells in primary human tumors and murine models of NF1 high-grade glioma.",
-        "summary": "Researchers identified CD74-positive glioma cells with antigen-presenting properties in NF1-associated high-grade brain tumors, enabling better mouse models for drug testing.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41926771/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-03"
-      },
-      {
-        "id": "recEKkDYyn3ouDo92",
-        "title": "Concurrent Tissue and Circulating Tumor DNA analysis in Renal Cell Carcinoma: Insights from a Multimodal Database.",
-        "summary": "Researchers found that blood tests detecting tumor DNA complement traditional tissue biopsies for monitoring kidney cancer mutations and treatment response.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41926756/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Kidney"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-03"
-      },
-      {
-        "id": "recVk82OqZxrybtCK",
-        "title": "The orexinergic system mediates the effects of ginsenoside Rg1 against cyclophosphamide-induced reproductive toxicity.",
-        "summary": "Ginsenoside Rg1 protects male mice from chemotherapy-induced infertility by activating a specific cellular receptor in the testes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41926738/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-03"
-      },
-      {
-        "id": "recuEcdPpY3skZ8XH",
-        "title": "CD28-Targeted Enzyme-Responsive Conformation-Switching Peptide Self-Assembly for Selective T-Cell Acute Lymphoblastic Leukemia (T-ALL) Therapy.",
-        "summary": "Researchers developed a targeted peptide therapy that selectively kills T-cell acute lymphoblastic leukemia cells by disrupting CD28 signaling and causing cell death.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41926668/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-03"
-      },
-      {
-        "id": "recG2hc1YdQp4Xae0",
-        "title": "Copper Depletion Nanoparticles Potentiate Cancer Immunotherapy by Avoiding Innate and Adaptive Immune Resistance.",
-        "summary": "Copper-depleting nanoparticles reduce tumor immune resistance markers, enhancing immune cell attack on cancer while avoiding harmful side effects.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41926649/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-03"
-      },
-      {
-        "id": "recAbl5mkbzguWZMX",
-        "title": "NUDT21 Drives T-Cell Acute Lymphoblastic Leukemia Through Dual Regulation of Alternative Polyadenylation and Transcriptional Activation.",
-        "summary": "NUDT21 protein drives T-cell acute lymphoblastic leukemia by controlling gene expression, and blocking it with a drug kills leukemia cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41926643/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-03"
       }
     ],
     "trials": [
+      {
+        "id": "rec49hMGToRPFKr9k",
+        "title": "Hematopoietic progenitor kinase 1 inhibitor BGB-15025 induces apoptosis in acute myeloid leukemia cells through the cell cycle pathway and mitogen-activated protein kinase/extracellular signal-regulated kinase pathway signaling axis.",
+        "summary": "BGB-15025, a new drug, kills acute myeloid leukemia cells by blocking cell cycle progression and disrupting cancer-promoting signaling pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41503684/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-04"
+      },
       {
         "id": "recfW7WaLPw1O2qRZ",
         "title": "Visualization of Cerebral Veins and Deep Gray Matter Nuclei by Susceptibility-weighted Imaging: A Comparative Study of 5.0 T and 3.0 T Imaging.",
@@ -831,20 +846,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-03"
-      },
-      {
-        "id": "recKFF17DNHggQkwj",
-        "title": "Kidney function changes associated with trastuzumab use in women with breast cancer: a retrospective cohort study.",
-        "summary": "Trastuzumab, a breast cancer drug, may protect kidney function by reducing HER2 protein levels in women.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41925892/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-03"
       }
@@ -1069,10 +1070,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14751,
+    "archive_count": 14752,
     "archive_supplements": 1712,
     "archive_off_label": 557,
-    "archive_biomarkers": 8597,
+    "archive_biomarkers": 8598,
     "archive_trials": 3198,
     "archive_mind_body": 395
   }
