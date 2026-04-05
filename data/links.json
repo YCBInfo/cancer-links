@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-05T09:04:20.069Z",
+  "last_updated": "2026-04-05T10:01:56.789Z",
   "categories": {
     "supplements": [
       {
@@ -690,6 +690,20 @@
         "added_date": "2026-04-05"
       },
       {
+        "id": "recrotEVftpItqhvF",
+        "title": "",
+        "summary": "Summary unavailable",
+        "url": "",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 5,
+        "pub_date": "",
+        "added_date": "2026-04-05"
+      },
+      {
         "id": "rec49hMGToRPFKr9k",
         "title": "Hematopoietic progenitor kinase 1 inhibitor BGB-15025 induces apoptosis in acute myeloid leukemia cells through the cell cycle pathway and mitogen-activated protein kinase/extracellular signal-regulated kinase pathway signaling axis.",
         "summary": "BGB-15025, a new drug, kills acute myeloid leukemia cells by blocking cell cycle progression and disrupting cancer-promoting signaling pathways.",
@@ -838,20 +852,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-04"
-      },
-      {
-        "id": "recexbo2KuF00S6ze",
-        "title": "HIF-1α siRNA Enhances the Efficacy of Erlotinib in Non-small Cell Lung Cancer: A Novel Strategy to Reverse Hypoxia-Induced Drug Resistance.",
-        "summary": "Blocking HIF-1α protein in lung cancer cells restores effectiveness of erlotinib, a drug that cancer cells often resist through low-oxygen conditions.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41931244/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -1078,11 +1078,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14983,
+    "archive_count": 14984,
     "archive_supplements": 1729,
     "archive_off_label": 571,
     "archive_biomarkers": 8754,
-    "archive_trials": 3240,
+    "archive_trials": 3241,
     "archive_mind_body": 397
   }
 }
