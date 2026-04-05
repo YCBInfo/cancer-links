@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04T11:22:21.604Z",
+  "last_updated": "2026-04-05T08:02:25.156Z",
   "categories": {
     "supplements": [
       {
@@ -434,6 +434,20 @@
     ],
     "biomarkers": [
       {
+        "id": "recVgkgRL8s4Fw6oX",
+        "title": "Multi-omics analysis identified SPRR2D as a potential biomarker for tumor prognosis and immune microenvironment infiltration: a pan-cancer perspective.",
+        "summary": "Researchers identified SPRR2D as a potential cancer biomarker that could help predict patient outcomes and immune cell activity across multiple cancer types.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41933926/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-05"
+      },
+      {
         "id": "recgprBCwlJYLUcKt",
         "title": "Sialic acid cis-ligand dynamics modulate Siglec-7 and -9 function and affect Siglec-7/9 co-blockade to potentiate natural killer cell anti-tumor activity.",
         "summary": "Blocking both Siglec-7 and Siglec-9 together enhances natural killer cells' ability to kill melanoma and leukemia cells more effectively than blocking either alone.",
@@ -630,23 +644,23 @@
         "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-04"
-      },
+      }
+    ],
+    "trials": [
       {
-        "id": "recijO9eZfQp1XA6R",
-        "title": "Claudins interact with LILRB immune inhibitory receptors to promote myeloid immunosuppression in cancer.",
-        "summary": "Cancer cells use claudin proteins to interact with immune cells, suppressing immunity and promoting tumor growth, but blocking this interaction reverses these effects.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41931598/",
+        "id": "recX8UoDOImcQLqiI",
+        "title": "Protocol flexibility in PCOS: a combination of controlled ovarian stimulation and endometrial preparation strategies shows no impact on live birth outcomes after frozen embryo transfer-a retrospective cohort study.",
+        "summary": "Different hormone treatment combinations for PCOS patients undergoing fertility treatment produce similar pregnancy success rates.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41934169/",
         "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
+        "category": "Clinical Trials",
         "cancer_types": [
           "General"
         ],
         "quality_score": 12,
         "pub_date": "2026-04-01",
-        "added_date": "2026-04-04"
-      }
-    ],
-    "trials": [
+        "added_date": "2026-04-05"
+      },
       {
         "id": "rec49hMGToRPFKr9k",
         "title": "Hematopoietic progenitor kinase 1 inhibitor BGB-15025 induces apoptosis in acute myeloid leukemia cells through the cell cycle pathway and mitogen-activated protein kinase/extracellular signal-regulated kinase pathway signaling axis.",
@@ -836,20 +850,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41931130/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-04"
-      },
-      {
-        "id": "recsDiJMBuu4odSEb",
-        "title": "Mass Spectrometry-Based Spatial Imaging of the Cochlea.",
-        "summary": "Researchers developed a technique to map molecules in the inner ear's hearing structure, revealing distinct cellular regions and their chemical signatures.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41931105/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
         "cancer_types": [
           "General"
         ],
@@ -1078,11 +1078,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14975,
+    "archive_count": 14976,
     "archive_supplements": 1729,
     "archive_off_label": 568,
     "archive_biomarkers": 8750,
-    "archive_trials": 3239,
+    "archive_trials": 3240,
     "archive_mind_body": 397
   }
 }
