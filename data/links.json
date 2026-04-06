@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-06T04:06:05.989Z",
+  "last_updated": "2026-04-06T04:06:16.896Z",
   "categories": {
     "supplements": [
       {
@@ -729,6 +729,20 @@
         "added_date": "2026-04-06"
       },
       {
+        "id": "reclcIzwiopMtuLbs",
+        "title": "Radiopharmaceutical Therapy in Oncology: Perspectives from Transatlantic Experts.",
+        "summary": "Radioactive drugs targeting cancer cell markers show promise for treating prostate cancer and other tumors more effectively and safely.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41936001/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-06"
+      },
+      {
         "id": "recX8UoDOImcQLqiI",
         "title": "Protocol flexibility in PCOS: a combination of controlled ovarian stimulation and endometrial preparation strategies shows no impact on live birth outcomes after frozen embryo transfer-a retrospective cohort study.",
         "summary": "Different hormone treatment combinations for PCOS patients undergoing fertility treatment produce similar pregnancy success rates.",
@@ -837,20 +851,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-04"
-      },
-      {
-        "id": "recA7Z2USOz41aoKA",
-        "title": "Utilizing the transformer mechanism to predict cervical lymph node metastasis in patients with papillary thyroid carcinoma.",
-        "summary": "Researchers used artificial intelligence to predict which papillary thyroid cancer patients have spread to neck lymph nodes before surgery.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41931576/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Thyroid"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-04"
       }
@@ -1075,10 +1075,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15003,
+    "archive_count": 15004,
     "archive_supplements": 1740,
     "archive_off_label": 571,
-    "archive_biomarkers": 8761,
+    "archive_biomarkers": 8762,
     "archive_trials": 3242,
     "archive_mind_body": 397
   }
