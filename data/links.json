@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-06T06:04:05.187Z",
+  "last_updated": "2026-04-06T06:04:15.935Z",
   "categories": {
     "supplements": [
       {
@@ -327,6 +327,20 @@
         "added_date": "2026-04-06"
       },
       {
+        "id": "recsb3hbHsYLaqb20",
+        "title": "Clinical efficacy of chemopreventive agents in oral cancer and oral potentially malignant disorders: A systematic review.",
+        "summary": "Retinoids and herbal combination therapies show promise in preventing oral cancer progression, though toxicity and inconsistent results limit clinical use.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41936284/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 19,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-06"
+      },
+      {
         "id": "rec3NKZIHGh4j8iQR",
         "title": "Everolimus destabilizes thymidylate synthase via suppressing its O-GlcNAcylation and sensitizes HER2-negative breast cancer to fluorouracil.",
         "summary": "Everolimus enhances fluorouracil effectiveness in HER2-negative breast cancer by destabilizing a key drug target protein.",
@@ -408,22 +422,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "General"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-04"
-      },
-      {
-        "id": "recAURX2igSYHemdw",
-        "title": "GLP-1 receptor agonists and immune checkpoint inhibitor therapy: a narrative review on mechanistic and clinical evidence.",
-        "summary": "GLP-1 drugs may enhance cancer immunotherapy effectiveness by reprogramming the immune system, showing improved survival in multiple cancer types.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41930781/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Lung",
-          "Colorectal",
-          "Kidney"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -1074,10 +1072,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15159,
+    "archive_count": 15160,
     "archive_supplements": 1752,
     "archive_off_label": 574,
-    "archive_biomarkers": 8892,
+    "archive_biomarkers": 8893,
     "archive_trials": 3252,
     "archive_mind_body": 397
   }
