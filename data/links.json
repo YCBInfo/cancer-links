@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-06T04:21:33.548Z",
+  "last_updated": "2026-04-06T04:21:45.034Z",
   "categories": {
     "supplements": [
       {
@@ -271,6 +271,20 @@
         "added_date": "2026-04-06"
       },
       {
+        "id": "recAv9Q0UFGUrRIjS",
+        "title": "The Protective Effects of Ramelteon on Acute Intestinal Injury Caused by Experimentally Induced Endoplasmic Reticulum Stress.",
+        "summary": "Ramelteon protects intestinal tissue from damage caused by stress-induced circulatory problems in experimental models.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41934832/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-06"
+      },
+      {
         "id": "rec3NKZIHGh4j8iQR",
         "title": "Everolimus destabilizes thymidylate synthase via suppressing its O-GlcNAcylation and sensitizes HER2-negative breast cancer to fluorouracil.",
         "summary": "Everolimus enhances fluorouracil effectiveness in HER2-negative breast cancer by destabilizing a key drug target protein.",
@@ -412,20 +426,6 @@
           "Breast"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-04"
-      },
-      {
-        "id": "recWRW53ks6l0skNS",
-        "title": "Safety concerns associated with various types of statins: a disproportionality analysis of the FAERS database.",
-        "summary": "Researchers analyzed statin side effects to compare safety profiles across different types and improve patient treatment decisions.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41931115/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-04"
       }
@@ -1074,10 +1074,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15089,
+    "archive_count": 15090,
     "archive_supplements": 1746,
     "archive_off_label": 572,
-    "archive_biomarkers": 8835,
+    "archive_biomarkers": 8836,
     "archive_trials": 3247,
     "archive_mind_body": 397
   }
