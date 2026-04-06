@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-06T04:04:39.853Z",
+  "last_updated": "2026-04-06T04:04:51.258Z",
   "categories": {
     "supplements": [
       {
@@ -143,6 +143,20 @@
         "added_date": "2026-04-06"
       },
       {
+        "id": "recnSX4MXAXCVNdXW",
+        "title": "Mai-Men-Dong decoction alleviates radiation-induced lung injury by regulating ferroptosis through modulation of the STAT6/p53/SLC7A11 axis.",
+        "summary": "Mai-Men-Dong decoction, a traditional Chinese medicine, protects lungs from radiation damage by preventing harmful cell death through specific molecular pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41448369/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 10,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-04-06"
+      },
+      {
         "id": "recwko3TxqX3jY76N",
         "title": "Astragaloside IV targets TUBB4B to inhibit proliferation and promote apoptosis of pituitary tumor cells via the STMN1/ERK pathway.",
         "summary": "Astragaloside IV, a compound from traditional Chinese medicine, stops pituitary tumor growth by targeting a protein called TUBB4B.",
@@ -196,20 +210,6 @@
           "Liver"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-04"
-      },
-      {
-        "id": "recuUlxFKyLyMvU8b",
-        "title": "Study on material basis and network mechanism of the Guizhi Fuling pills in the treatment of endometriosis and endometrial polyps.",
-        "summary": "Guizhi Fuling pills treat endometriosis and endometrial polyps through compounds like luteolin and quercetin, targeting inflammation and estrogen pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41931331/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-04"
       }
@@ -629,18 +629,18 @@
         "added_date": "2026-04-06"
       },
       {
-        "id": "recVgkgRL8s4Fw6oX",
-        "title": "Multi-omics analysis identified SPRR2D as a potential biomarker for tumor prognosis and immune microenvironment infiltration: a pan-cancer perspective.",
-        "summary": "Researchers identified SPRR2D as a potential cancer biomarker that could help predict patient outcomes and immune cell activity across multiple cancer types.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41933926/",
+        "id": "recnSX4MXAXCVNdXW",
+        "title": "Mai-Men-Dong decoction alleviates radiation-induced lung injury by regulating ferroptosis through modulation of the STAT6/p53/SLC7A11 axis.",
+        "summary": "Mai-Men-Dong decoction, a traditional Chinese medicine, protects lungs from radiation damage by preventing harmful cell death through specific molecular pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41448369/",
         "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
+        "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "General"
         ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-05"
+        "quality_score": 10,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-04-06"
       }
     ],
     "trials": [
@@ -1075,8 +1075,8 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 14995,
-    "archive_supplements": 1734,
+    "archive_count": 14996,
+    "archive_supplements": 1735,
     "archive_off_label": 571,
     "archive_biomarkers": 8760,
     "archive_trials": 3241,
