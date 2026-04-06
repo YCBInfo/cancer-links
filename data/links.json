@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-06T04:14:48.632Z",
+  "last_updated": "2026-04-06T04:14:58.875Z",
   "categories": {
     "supplements": [
       {
@@ -257,6 +257,20 @@
         "added_date": "2026-04-06"
       },
       {
+        "id": "recFCvVxwwzbjQdsZ",
+        "title": "Inhibition of circulating glycocholic acid-regulated signaling potentiates immune checkpoint therapy in colorectal cancer.",
+        "summary": "Blocking a bile acid's effect in colorectal cancer restores immune therapy by reducing tumor cells' ability to hide from immune attack.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41935049/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-06"
+      },
+      {
         "id": "rec3NKZIHGh4j8iQR",
         "title": "Everolimus destabilizes thymidylate synthase via suppressing its O-GlcNAcylation and sensitizes HER2-negative breast cancer to fluorouracil.",
         "summary": "Everolimus enhances fluorouracil effectiveness in HER2-negative breast cancer by destabilizing a key drug target protein.",
@@ -412,20 +426,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-04"
-      },
-      {
-        "id": "recOHmIPj3r2vttwo",
-        "title": "Statins targeting mevalonate-geranylgeranyl diphosphate pathway inhibit proliferation in NK/T lymphoma by promoting pyroptosis.",
-        "summary": "Statins kill NK/T cell lymphoma cancer cells by triggering pyroptosis, a type of inflammatory cell death, offering a potential new treatment approach.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41932011/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Lymphoma"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-04"
       }
@@ -1074,10 +1074,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15052,
+    "archive_count": 15053,
     "archive_supplements": 1742,
     "archive_off_label": 572,
-    "archive_biomarkers": 8805,
+    "archive_biomarkers": 8806,
     "archive_trials": 3244,
     "archive_mind_body": 397
   }
