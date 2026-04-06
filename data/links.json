@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-06T04:23:53.264Z",
+  "last_updated": "2026-04-06T04:24:03.711Z",
   "categories": {
     "supplements": [
       {
@@ -285,6 +285,20 @@
         "added_date": "2026-04-06"
       },
       {
+        "id": "recs8ZoM0tczUcnTt",
+        "title": "Ammonia Detoxification Inhibits Liver Metastasis by Reshaping Hepatic Microenvironment.",
+        "summary": "Blocking ammonia accumulation in the liver with LOLA treatment reduces liver metastasis by reshaping the immune environment to fight cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41933927/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-06"
+      },
+      {
         "id": "rec3NKZIHGh4j8iQR",
         "title": "Everolimus destabilizes thymidylate synthase via suppressing its O-GlcNAcylation and sensitizes HER2-negative breast cancer to fluorouracil.",
         "summary": "Everolimus enhances fluorouracil effectiveness in HER2-negative breast cancer by destabilizing a key drug target protein.",
@@ -406,20 +420,6 @@
         "title": "GCL-MSE: Graph Contrastive Learning with Mutual Similarity Enhancement for Drug Repositioning.",
         "summary": "A new AI method identifies existing drugs for cancer and other diseases by analyzing drug and disease relationships, predicting treatments like hydroxyurea for breast cancer.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41931433/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-04"
-      },
-      {
-        "id": "recJASMB9a0o8rlse",
-        "title": "Statins and postmenopausal breast cancer risk; results from the KARMA cohort.",
-        "summary": "Statin use in postmenopausal women showed no significant protective effect against breast cancer in a Swedish study.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41931132/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -1074,10 +1074,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15102,
+    "archive_count": 15103,
     "archive_supplements": 1747,
     "archive_off_label": 573,
-    "archive_biomarkers": 8845,
+    "archive_biomarkers": 8846,
     "archive_trials": 3248,
     "archive_mind_body": 397
   }
