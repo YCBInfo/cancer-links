@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-06T10:02:11.831Z",
+  "last_updated": "2026-04-07T04:02:41.477Z",
   "categories": {
     "supplements": [
       {
@@ -427,6 +427,107 @@
     ],
     "biomarkers": [
       {
+        "id": "recq9ukmbf9A7y4tf",
+        "title": "NSUN2 as an emerging epigenetic regulator in cancer: from biomarker to therapeutic target.",
+        "summary": "NSUN2, a protein that modifies RNA, is overexpressed in multiple cancers and promotes tumor growth, making it a potential diagnostic and treatment target.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41937349/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast",
+          "Liver",
+          "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-07"
+      },
+      {
+        "id": "recGIrp8QLwqwlSga",
+        "title": "Targeting conserved domains of hypoxia-inducible factors for cancer therapy.",
+        "summary": "Researchers developed dual HIF inhibitors that block tumor growth, improve immunotherapy response, and show safety across multiple cancer types.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41941275/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal",
+          "Melanoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-07"
+      },
+      {
+        "id": "recPLsyWdwBdfuxHp",
+        "title": "Vestibular and Ocular Motor Phenotype in a Case of Paraneoplastic Autoimmune Kelch-Like Protein-11 Encephalitis.",
+        "summary": "A cancer patient with KLHL11 encephalitis showed specific patterns of balance and eye movement problems when thoroughly tested.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41941689/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-07"
+      },
+      {
+        "id": "recyw4HrtPYZPXSku",
+        "title": "Oocyte-inspired universal whole-cell vaccines against tumor heterogeneity.",
+        "summary": "Researchers created whole-cell cancer vaccines with protective shells that preserve tumor antigens, offering personalized treatment against diverse tumor types.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41941645/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-07"
+      },
+      {
+        "id": "recPoLFwTKji9mI0u",
+        "title": "Hyperactive Rac converts sublethal to lethal trogocytosis in vivo.",
+        "summary": "Hyperactive Rac protein in immune cells causes them to take lethal bites of cancer cells instead of harmless nibbles, triggering cell death.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41941643/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-07"
+      },
+      {
+        "id": "recxo1V7WYM3FPed3",
+        "title": "Microvesicle release drives cycles of mitophagy flux disruption and inflammatory amplification in sepsis-induced myocardial dysfunction.",
+        "summary": "Researchers identified how damaged mitochondria and inflammatory molecules damage the heart during sepsis, revealing potential treatment targets.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41941625/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-07"
+      },
+      {
+        "id": "recaNaHwFeva4iNXR",
+        "title": "Phage display-mediated immuno-PCR to detect low-abundance secreted proteins in Drosophila.",
+        "summary": "Researchers developed a sensitive technique to detect low-abundance hormones in fruit flies, revealing elevated levels in starved flies and those with gut tumors.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41941621/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-07"
+      },
+      {
         "id": "recH2MYKLxEJHLCin",
         "title": "Cost-effectiveness analysis of tepotinib vs capmatinib as subsequent therapy in MET exon 14-mutated non-small-cell lung cancer.",
         "summary": "Tepotinib proves more cost-effective than capmatinib for treating advanced lung cancer with specific MET mutations in China.",
@@ -537,107 +638,38 @@
         "quality_score": 10,
         "pub_date": "2026-02-01",
         "added_date": "2026-04-06"
-      },
+      }
+    ],
+    "trials": [
       {
-        "id": "recqRv4ff2GldADiM",
-        "title": "Alleviation of adverse effects associated with α-glucosidase inhibitors by Ocimum basilicum L., Matricaria chamomilla L., and Salvia officinalis L. reveals novel selective inhibition of Bacillus α-glucosidase by acarbose.",
-        "summary": "Acarbose selectively inhibits gut bacterial enzymes rather than causing excess fermentation, suggesting diabetes medication side effects stem from microbiome disruption instead.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41534752/",
+        "id": "recGIrp8QLwqwlSga",
+        "title": "Targeting conserved domains of hypoxia-inducible factors for cancer therapy.",
+        "summary": "Researchers developed dual HIF inhibitors that block tumor growth, improve immunotherapy response, and show safety across multiple cancer types.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41941275/",
         "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
+        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
-          "Liver"
+          "Colorectal",
+          "Melanoma"
         ],
-        "quality_score": 13,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-04-06"
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-07"
       },
       {
-        "id": "recKy8YEVaRGvL4kV",
-        "title": "Condensin II collaborates with cohesin to establish and maintain interphase chromosome territories.",
-        "summary": "Condensin II and cohesin proteins work together to organize chromosomes within cell nuclei, both establishing and maintaining their proper structure throughout the cell cycle.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41511405/",
+        "id": "recyw4HrtPYZPXSku",
+        "title": "Oocyte-inspired universal whole-cell vaccines against tumor heterogeneity.",
+        "summary": "Researchers created whole-cell cancer vaccines with protective shells that preserve tumor antigens, offering personalized treatment against diverse tumor types.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41941645/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
-        "quality_score": 10,
-        "pub_date": "2026-01-01",
-        "added_date": "2026-04-06"
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-07"
       },
-      {
-        "id": "recW9ILfHW1arXIM0",
-        "title": "Enhancement of wound healing in patients with Hansen's disease: The effects of Jinchuang ointment on anti-inflammation and cell migration.",
-        "summary": "Jinchuang ointment, a traditional Chinese herbal treatment, helps heal chronic wounds in Hansen's disease patients by reducing inflammation and promoting cell migration.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41506305/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-04-06"
-      },
-      {
-        "id": "recECnlt9Zc4XIZPH",
-        "title": "Mechanic exploration of Yin Jia tablet against chronic salpingitis via the miR-34a-5p-mediated ceRNA network.",
-        "summary": "Researchers identified how a traditional Chinese medicine tablet treats chronic salpingitis through a specific molecular pathway involving microRNA regulation.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41506302/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-04-06"
-      },
-      {
-        "id": "reclQX0lxbfmiOHWK",
-        "title": "Sishen Wan suppresses colon cancer through dual inhibition of PI3K/AKT/mTOR and STAT3-mitophagy pathways: Network pharmacology and experimental validation.",
-        "summary": "Sishen Wan, a traditional Chinese medicine, fights colon cancer by blocking two key cell growth pathways and damaging cancer cell power plants.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41490553/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 13,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-04-06"
-      },
-      {
-        "id": "recy0A5V3lYtxJsEO",
-        "title": "Mechanism of Astragali radix combined with Salviae miltiorrhizae Radix et Rhizoma in alleviating diabetic nephropathy: Focus on the AGEs/RAGE/MAPK signaling Pathway.",
-        "summary": "Two traditional Chinese herbs combined reduce diabetic kidney disease by blocking harmful protein damage pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41482091/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-04-06"
-      },
-      {
-        "id": "recnSX4MXAXCVNdXW",
-        "title": "Mai-Men-Dong decoction alleviates radiation-induced lung injury by regulating ferroptosis through modulation of the STAT6/p53/SLC7A11 axis.",
-        "summary": "Mai-Men-Dong decoction, a traditional Chinese medicine, protects lungs from radiation damage by preventing harmful cell death through specific molecular pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41448369/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-04-06"
-      }
-    ],
-    "trials": [
       {
         "id": "recH2MYKLxEJHLCin",
         "title": "Cost-effectiveness analysis of tepotinib vs capmatinib as subsequent therapy in MET exon 14-mutated non-small-cell lung cancer.",
@@ -815,34 +847,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-06"
-      },
-      {
-        "id": "recdeuWwOihvQKdnY",
-        "title": "TCF3::HLF-positive B-ALL: integrated clinical and molecular characterization of 34 cases from a single-center cohort.",
-        "summary": "Researchers studied 34 rare, aggressive B-cell leukemia cases to better understand their clinical features and improve patient outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41935242/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-06"
-      },
-      {
-        "id": "receFEnVuURJyHiDy",
-        "title": "Value of whole-body diffusion-weighted MRI for the prediction of surgical and clinical outcome after neoadjuvant chemotherapy in advanced ovarian cancer.",
-        "summary": "Whole-body MRI scans after chemotherapy can predict surgical success and survival outcomes in advanced ovarian cancer patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41935241/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Ovarian"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -1069,10 +1073,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15210,
+    "archive_count": 15211,
     "archive_supplements": 1768,
     "archive_off_label": 577,
-    "archive_biomarkers": 8914,
+    "archive_biomarkers": 8915,
     "archive_trials": 3262,
     "archive_mind_body": 397
   }
