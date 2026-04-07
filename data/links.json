@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07T04:08:07.852Z",
+  "last_updated": "2026-04-07T04:08:17.873Z",
   "categories": {
     "supplements": [
       {
@@ -229,6 +229,20 @@
         "added_date": "2026-04-07"
       },
       {
+        "id": "recOwhNPg1tpx3so0",
+        "title": "Repurposing felodipine via hyaluronic acid-coated cetylosomes (HCCs) for parenteral active targeting of cancer: Box-Behnken statistical optimization, in vitro characterization, and in vivo studies.",
+        "summary": "Researchers repurposed a blood pressure drug using coated nanoparticles to effectively target and kill breast cancer cells, especially when combined with chemotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41941056/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-07"
+      },
+      {
         "id": "recNEj3sDVNhZTogi",
         "title": "Entrectinib attenuates LPS-induced neuroinflammation by inhibiting JNK, p38, and AKT pathways and ameliorates cognitive impairment.",
         "summary": "Entrectinib, a lung cancer drug, reduces brain inflammation and improves memory by blocking specific inflammatory pathways in mice.",
@@ -409,20 +423,6 @@
         "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-06"
-      },
-      {
-        "id": "rec3NKZIHGh4j8iQR",
-        "title": "Everolimus destabilizes thymidylate synthase via suppressing its O-GlcNAcylation and sensitizes HER2-negative breast cancer to fluorouracil.",
-        "summary": "Everolimus enhances fluorouracil effectiveness in HER2-negative breast cancer by destabilizing a key drug target protein.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41935067/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-05"
       }
     ],
     "biomarkers": [
@@ -1075,10 +1075,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15240,
+    "archive_count": 15241,
     "archive_supplements": 1770,
     "archive_off_label": 578,
-    "archive_biomarkers": 8941,
+    "archive_biomarkers": 8942,
     "archive_trials": 3262,
     "archive_mind_body": 397
   }
