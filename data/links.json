@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07T04:07:02.924Z",
+  "last_updated": "2026-04-07T04:07:14.959Z",
   "categories": {
     "supplements": [
       {
@@ -813,6 +813,20 @@
         "added_date": "2026-04-07"
       },
       {
+        "id": "recJB4UccnuybgR8b",
+        "title": "Phase 1 Study of KITE-222, an Autologous CLL-1-directed CAR T-cell Therapy in Patients With Relapsed/Refractory Acute Myeloid Leukemia.",
+        "summary": "A new CAR T-cell therapy targeting CLL-1 shows promise for treating hard-to-cure acute myeloid leukemia with improved safety.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41941266/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-07"
+      },
+      {
         "id": "recH2MYKLxEJHLCin",
         "title": "Cost-effectiveness analysis of tepotinib vs capmatinib as subsequent therapy in MET exon 14-mutated non-small-cell lung cancer.",
         "summary": "Tepotinib proves more cost-effective than capmatinib for treating advanced lung cancer with specific MET mutations in China.",
@@ -835,20 +849,6 @@
         "category": "Clinical Trials",
         "cancer_types": [
           "General"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-06"
-      },
-      {
-        "id": "recWSTi8FmRnmtQ4M",
-        "title": "[Quality of life measurement in breast cancer patients].",
-        "summary": "Breast cancer quality of life measurements using validated questionnaires predict patient survival and guide comprehensive treatment evaluation beyond traditional endpoints.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41936037/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -1075,10 +1075,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15234,
+    "archive_count": 15235,
     "archive_supplements": 1770,
     "archive_off_label": 578,
-    "archive_biomarkers": 8935,
+    "archive_biomarkers": 8936,
     "archive_trials": 3262,
     "archive_mind_body": 397
   }
