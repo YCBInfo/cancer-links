@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07T04:03:59.874Z",
+  "last_updated": "2026-04-07T04:04:09.111Z",
   "categories": {
     "supplements": [
       {
@@ -613,6 +613,20 @@
         "added_date": "2026-04-07"
       },
       {
+        "id": "recKVZxAOYg41tfPx",
+        "title": "Adaptive Regulation of dNTP Homeostasis Confers Osimertinib Resistance in EGFR-Mutant Non-small Cell Lung Carcinoma.",
+        "summary": "Lung cancer cells resist osimertinib by activating a backup pathway that maintains DNA building blocks; blocking this pathway restores drug sensitivity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41941751/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-07"
+      },
+      {
         "id": "recH2MYKLxEJHLCin",
         "title": "Cost-effectiveness analysis of tepotinib vs capmatinib as subsequent therapy in MET exon 14-mutated non-small-cell lung cancer.",
         "summary": "Tepotinib proves more cost-effective than capmatinib for treating advanced lung cancer with specific MET mutations in China.",
@@ -623,20 +637,6 @@
           "Lung"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-06"
-      },
-      {
-        "id": "recjuxQfnMpR8xQFT",
-        "title": "T cell fate regulation in EBV‑associated nasopharyngeal carcinoma (Review).",
-        "summary": "T cells become exhausted in nasopharyngeal carcinoma, helping the virus-linked cancer evade immune attack and suggesting new treatment targets.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41930573/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-06"
       }
@@ -695,6 +695,34 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-07"
+      },
+      {
+        "id": "recKVZxAOYg41tfPx",
+        "title": "Adaptive Regulation of dNTP Homeostasis Confers Osimertinib Resistance in EGFR-Mutant Non-small Cell Lung Carcinoma.",
+        "summary": "Lung cancer cells resist osimertinib by activating a backup pathway that maintains DNA building blocks; blocking this pathway restores drug sensitivity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41941751/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-07"
+      },
+      {
+        "id": "recTB87AWPgEuaugP",
+        "title": "DPY30 is an epigenetic decoupler linking replication stress to immunoediting in pancreatic cancer.",
+        "summary": "Blocking DPY30 in pancreatic cancer destabilizes DNA replication, triggering immune cell infiltration and improving immunotherapy response.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41941748/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Pancreatic"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -823,34 +851,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-06"
-      },
-      {
-        "id": "recyfgR7IQNuSC8Yy",
-        "title": "Challenges in Launching a Precision Pediatric Oncology Program in Argentina.",
-        "summary": "Argentina's COPPA Project enables free genomic sequencing for childhood cancers to improve diagnosis and treatment selection through expert review teams.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41935963/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-06"
-      },
-      {
-        "id": "rec3J20Riyv5Wr4Im",
-        "title": "Targeting signaling pathways in lymphoma: From molecular mechanisms to clinical breakthroughs.",
-        "summary": "Targeting specific cell survival pathways with precision medicines offers lymphoma patients chemotherapy-free treatments with better outcomes and fewer side effects.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41736531/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lymphoma"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-06"
       }
@@ -1075,10 +1075,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15217,
+    "archive_count": 15218,
     "archive_supplements": 1768,
     "archive_off_label": 577,
-    "archive_biomarkers": 8921,
+    "archive_biomarkers": 8922,
     "archive_trials": 3262,
     "archive_mind_body": 397
   }
