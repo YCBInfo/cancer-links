@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07T04:09:10.284Z",
+  "last_updated": "2026-04-07T04:09:23.340Z",
   "categories": {
     "supplements": [
       {
@@ -243,6 +243,20 @@
         "added_date": "2026-04-07"
       },
       {
+        "id": "rece4WK9ZVeDBN6ev",
+        "title": "Repurposing acetyldigitoxin as a potential EZH2 inhibitor for non-small cell lung cancer: a computational and experimental approach.",
+        "summary": "Acetyldigitoxin, an FDA-approved drug, effectively kills lung cancer cells by blocking EZH2, a protein that promotes tumor growth and resistance.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41940910/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-07"
+      },
+      {
         "id": "recNEj3sDVNhZTogi",
         "title": "Entrectinib attenuates LPS-induced neuroinflammation by inhibiting JNK, p38, and AKT pathways and ameliorates cognitive impairment.",
         "summary": "Entrectinib, a lung cancer drug, reduces brain inflammation and improves memory by blocking specific inflammatory pathways in mice.",
@@ -403,20 +417,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41936854/",
         "source": "PubMed",
         "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-06"
-      },
-      {
-        "id": "rec3OyikVuxbOrv2x",
-        "title": "Modulatory role of blackberry fruit standardized extract on brain redox status and insulin signaling in type 2 diabetic rats.",
-        "summary": "Blackberry extract improved insulin signaling and reduced harmful oxidative stress in diabetic rats, potentially offering a natural supplement option.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41931160/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "General"
         ],
@@ -1075,11 +1075,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15246,
+    "archive_count": 15247,
     "archive_supplements": 1770,
     "archive_off_label": 578,
     "archive_biomarkers": 8945,
-    "archive_trials": 3264,
+    "archive_trials": 3265,
     "archive_mind_body": 397
   }
 }
