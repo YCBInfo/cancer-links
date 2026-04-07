@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07T04:08:49.194Z",
+  "last_updated": "2026-04-07T04:09:00.767Z",
   "categories": {
     "supplements": [
       {
@@ -41,6 +41,20 @@
           "Lung"
         ],
         "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-07"
+      },
+      {
+        "id": "recWhc8xldcNahKcU",
+        "title": "Hypoalbuminemia induces immunosuppression through disorder in macrophages and drives resistance to immune checkpoint inhibitors.",
+        "summary": "Low protein levels suppress immune cells and block cancer immunotherapy, but arginine supplementation restores treatment effectiveness by fixing macrophage function.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41940988/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-07"
       },
@@ -196,20 +210,6 @@
         ],
         "quality_score": 10,
         "pub_date": "2026-02-01",
-        "added_date": "2026-04-06"
-      },
-      {
-        "id": "recqypWlHPzHZkag0",
-        "title": "Integration of multi-omics and machine learning to identify core genes in PANoptosisof lung adenocarcinoma and their mechanisms in the tumor microenvironment and therapeutic potential.",
-        "summary": "Researchers identified six key genes controlling a novel cell death pathway in lung adenocarcinoma and showed ginsenosides can activate this pathway to kill cancer cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41935997/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
         "added_date": "2026-04-06"
       }
     ],
@@ -1075,10 +1075,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15244,
+    "archive_count": 15245,
     "archive_supplements": 1770,
     "archive_off_label": 578,
-    "archive_biomarkers": 8943,
+    "archive_biomarkers": 8944,
     "archive_trials": 3264,
     "archive_mind_body": 397
   }
