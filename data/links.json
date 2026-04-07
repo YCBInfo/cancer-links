@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07T06:03:32.111Z",
+  "last_updated": "2026-04-07T06:03:45.349Z",
   "categories": {
     "supplements": [
       {
@@ -116,6 +116,34 @@
         "added_date": "2026-04-07"
       },
       {
+        "id": "recqBTv2Dp2j8uZmf",
+        "title": "Extracellular vesicles derived from senescent hepatocytes drive pan-cancer metastasis in aging.",
+        "summary": "Aging liver cells release particles that promote cancer spread across multiple tumor types; blocking this process reduces metastasis in older mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41942570/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-07"
+      },
+      {
+        "id": "recxqnkNtBAunrUTK",
+        "title": "Programmed cell death in cancer: targeting necroptosis to kill tumor cell.",
+        "summary": "Researchers propose triggering necroptosis, a controlled cell death pathway, to kill tumor cells and overcome chemotherapy resistance.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41942469/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-07"
+      },
+      {
         "id": "recBmOo7XFHf40tEs",
         "title": "Integrating GC-MS analysis, ADMET, and in vivo experimental validation to deciphering the toxicological profile of the aqueous extract of the mixture of Dacryodes edulis (G. Don) H.J. Lam (Burseraceae) and Allium ampeloprasum var. porrum L. (Amaryllidaceae).",
         "summary": "Researchers tested the safety of a traditional plant mixture used to treat prostate cancer in Cameroon through laboratory and animal studies.",
@@ -184,34 +212,6 @@
         "quality_score": 13,
         "pub_date": "2026-02-01",
         "added_date": "2026-04-06"
-      },
-      {
-        "id": "rec0Tfjv9fHBaejjd",
-        "title": "The Central Qi theory in traditional Chinese medicine: Gut microbiota modulation as a strategic target for hepatocellular carcinoma therapy.",
-        "summary": "Traditional Chinese herbal medicine may improve quality of life and treatment tolerance in advanced hepatocellular carcinoma patients by modulating gut bacteria.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41519187/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Liver"
-        ],
-        "quality_score": 13,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-04-06"
-      },
-      {
-        "id": "recW9ILfHW1arXIM0",
-        "title": "Enhancement of wound healing in patients with Hansen's disease: The effects of Jinchuang ointment on anti-inflammation and cell migration.",
-        "summary": "Jinchuang ointment, a traditional Chinese herbal treatment, helps heal chronic wounds in Hansen's disease patients by reducing inflammation and promoting cell migration.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41506305/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-04-06"
       }
     ],
     "off_label": [
@@ -276,6 +276,20 @@
         "title": "Arachidonate lipoxygenase 5 metabolism axis promoting ferroptosis: a potential druggable target for doxorubicin-induced cardiomyopathy.",
         "summary": "Blocking the ALOX5 pathway may prevent heart damage caused by doxorubicin cancer treatment.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41942611/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-07"
+      },
+      {
+        "id": "recqBTv2Dp2j8uZmf",
+        "title": "Extracellular vesicles derived from senescent hepatocytes drive pan-cancer metastasis in aging.",
+        "summary": "Aging liver cells release particles that promote cancer spread across multiple tumor types; blocking this process reduces metastasis in older mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41942570/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -408,20 +422,6 @@
           "General"
         ],
         "quality_score": 19,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-06"
-      },
-      {
-        "id": "recfY3G3auHaLJcqa",
-        "title": "Pitavastatin effects on lipids in relation to major adverse cardiovascular events: a REPRIEVE secondary analysis.",
-        "summary": "Pitavastatin reduced heart disease risk in HIV patients by 36%, with lipid lowering playing a partial role in this benefit.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41936375/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-06"
       }
@@ -1076,11 +1076,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15311,
+    "archive_count": 15312,
     "archive_supplements": 1775,
     "archive_off_label": 580,
     "archive_biomarkers": 8991,
     "archive_trials": 3274,
-    "archive_mind_body": 399
+    "archive_mind_body": 400
   }
 }
