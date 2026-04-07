@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07T04:04:19.627Z",
+  "last_updated": "2026-04-07T04:04:34.977Z",
   "categories": {
     "supplements": [
       {
@@ -215,6 +215,20 @@
     ],
     "off_label": [
       {
+        "id": "recOzC53J6c6w9q7R",
+        "title": "DROP-CARs: Engineering Reversible, Drug-Controlled CAR T Cell Activity with a Clinically Approved Small Molecule.",
+        "summary": "Researchers engineered CAR T cells that can be turned on and off using an approved drug, reducing toxicity to healthy tissue in solid tumors.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41941729/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-07"
+      },
+      {
         "id": "recNEj3sDVNhZTogi",
         "title": "Entrectinib attenuates LPS-induced neuroinflammation by inhibiting JNK, p38, and AKT pathways and ameliorates cognitive impairment.",
         "summary": "Entrectinib, a lung cancer drug, reduces brain inflammation and improves memory by blocking specific inflammatory pathways in mice.",
@@ -407,20 +421,6 @@
           "Breast"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-05"
-      },
-      {
-        "id": "rec5zhtNv3UzoMZ8L",
-        "title": "Nationwide survey of ruxolitinib administration for Japanese children with hemophagocytic lymphohistiocytosis.",
-        "summary": "Ruxolitinib showed high response rates in Japanese children with treatment-resistant hemophagocytic lymphohistiocytosis, offering a promising new therapy option.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41934358/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-05"
       }
@@ -743,6 +743,20 @@
         "added_date": "2026-04-07"
       },
       {
+        "id": "recSFIwrGRBFtJHaD",
+        "title": "Antigen-specific T cell responses to SARS-CoV-2 vaccination after Hematopoietic Cell Transplant or CAR T cell Therapy.",
+        "summary": "COVID-19 vaccination after blood cancer cell therapies produces strong immune T cell responses regardless of whether vaccination occurs early or later.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41941698/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-07"
+      },
+      {
         "id": "recH2MYKLxEJHLCin",
         "title": "Cost-effectiveness analysis of tepotinib vs capmatinib as subsequent therapy in MET exon 14-mutated non-small-cell lung cancer.",
         "summary": "Tepotinib proves more cost-effective than capmatinib for treating advanced lung cancer with specific MET mutations in China.",
@@ -837,20 +851,6 @@
           "Prostate"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-06"
-      },
-      {
-        "id": "recbYzoJ5K8n90fN4",
-        "title": "Integrative multi-omics identifies a diagnostic T cell signature for cutaneous squamous cell carcinoma.",
-        "summary": "Researchers identified three genes (APOE, CYBA, S100A2) that accurately diagnose cutaneous squamous cell carcinoma and reveal its immune characteristics.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41935998/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-06"
       }
@@ -1075,10 +1075,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15219,
+    "archive_count": 15220,
     "archive_supplements": 1768,
     "archive_off_label": 577,
-    "archive_biomarkers": 8923,
+    "archive_biomarkers": 8924,
     "archive_trials": 3262,
     "archive_mind_body": 397
   }
