@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07T04:03:35.989Z",
+  "last_updated": "2026-04-07T04:03:48.874Z",
   "categories": {
     "supplements": [
       {
@@ -585,6 +585,34 @@
         "added_date": "2026-04-07"
       },
       {
+        "id": "rechUW8QSanbGyXdk",
+        "title": "First reported case of Lawsonella clevelandensis brain abscess in the setting of invasive cutaneous squamous cell carcinoma identified via bedside stereotactic aspiration: illustrative case.",
+        "summary": "Doctors identified a rare brain infection caused by Lawsonella clevelandensis in a patient with skin cancer, using advanced genetic sequencing.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41941835/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-07"
+      },
+      {
+        "id": "rec2gRA349pkMQ1ES",
+        "title": "Deep Learning Driven Evaluation of MR-guided Focused Ultrasound Ablation.",
+        "summary": "Researchers developed a deep learning system using MRI scans to better predict breast cancer treatment success during focused ultrasound therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41941814/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-07"
+      },
+      {
         "id": "recH2MYKLxEJHLCin",
         "title": "Cost-effectiveness analysis of tepotinib vs capmatinib as subsequent therapy in MET exon 14-mutated non-small-cell lung cancer.",
         "summary": "Tepotinib proves more cost-effective than capmatinib for treating advanced lung cancer with specific MET mutations in China.",
@@ -610,34 +638,6 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-04-01",
-        "added_date": "2026-04-06"
-      },
-      {
-        "id": "recLzNf7m1hdjkfZJ",
-        "title": "The heart of the matter: a personal view of Fred Wittinghofer's contributions to RAS biology and drug design.",
-        "summary": "Researchers discovered how RAS proteins work, enabling development of drugs to treat RAS-driven cancers by blocking cancer cell growth signals.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41933887/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-06"
-      },
-      {
-        "id": "recfMJZDfCR1T2CY8",
-        "title": "A PI3Kδ-Foxo1-FasL signaling amplification loop rewires CD4+ T cell signaling and differentiation.",
-        "summary": "Researchers discovered that blocking a death pathway protein (FasL) restores normal immune cell development disrupted by PI3K mutations.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41718717/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
-        "pub_date": "2026-02-01",
         "added_date": "2026-04-06"
       }
     ],
@@ -681,6 +681,20 @@
         "cancer_types": [
           "Liver",
           "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-07"
+      },
+      {
+        "id": "rec2gRA349pkMQ1ES",
+        "title": "Deep Learning Driven Evaluation of MR-guided Focused Ultrasound Ablation.",
+        "summary": "Researchers developed a deep learning system using MRI scans to better predict breast cancer treatment success during focused ultrasound therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41941814/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -835,20 +849,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Lymphoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-06"
-      },
-      {
-        "id": "recyFkA8IFkGsKZ2D",
-        "title": "Epidermal growth factor receptor tyrosine kinase inhibitor for the treatment of non-small cell lung cancer in the past 30 years (1997-2026).",
-        "summary": "EGFR inhibitor drugs have evolved significantly over 30 years, becoming the primary treatment for non-small cell lung cancer with improved survival and quality of life.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41736521/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -1075,10 +1075,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15215,
+    "archive_count": 15216,
     "archive_supplements": 1768,
     "archive_off_label": 577,
-    "archive_biomarkers": 8919,
+    "archive_biomarkers": 8920,
     "archive_trials": 3262,
     "archive_mind_body": 397
   }
