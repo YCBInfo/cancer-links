@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07T04:11:40.078Z",
+  "last_updated": "2026-04-07T04:11:50.295Z",
   "categories": {
     "supplements": [
       {
@@ -55,6 +55,21 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-07"
+      },
+      {
+        "id": "recP3KFJoUl6bHoDQ",
+        "title": "Curcumin and Its Protein Targets: Literature Review and Systems Biology Analysis.",
+        "summary": "Curcumin targets multiple proteins involved in colorectal, breast, and lung cancers, though most targets lack experimental verification beyond computational predictions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41940483/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lung",
+          "Colorectal"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-07"
       },
@@ -189,20 +204,6 @@
         "title": "Mechanism of Astragali radix combined with Salviae miltiorrhizae Radix et Rhizoma in alleviating diabetic nephropathy: Focus on the AGEs/RAGE/MAPK signaling Pathway.",
         "summary": "Two traditional Chinese herbs combined reduce diabetic kidney disease by blocking harmful protein damage pathways.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41482091/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-04-06"
-      },
-      {
-        "id": "recnSX4MXAXCVNdXW",
-        "title": "Mai-Men-Dong decoction alleviates radiation-induced lung injury by regulating ferroptosis through modulation of the STAT6/p53/SLC7A11 axis.",
-        "summary": "Mai-Men-Dong decoction, a traditional Chinese medicine, protects lungs from radiation damage by preventing harmful cell death through specific molecular pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41448369/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -1075,10 +1076,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15259,
+    "archive_count": 15260,
     "archive_supplements": 1771,
     "archive_off_label": 580,
-    "archive_biomarkers": 8952,
+    "archive_biomarkers": 8953,
     "archive_trials": 3267,
     "archive_mind_body": 397
   }
