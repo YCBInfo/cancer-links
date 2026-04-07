@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07T08:02:48.135Z",
+  "last_updated": "2026-04-07T09:03:20.222Z",
   "categories": {
     "supplements": [
       {
@@ -300,6 +300,48 @@
         "added_date": "2026-04-07"
       },
       {
+        "id": "rec6CCI7pgCLeyT4W",
+        "title": "The anti-obesogenic metabolite, Lac-Phe, is elevated by metformin treatment in prostate cancer patients.",
+        "summary": "Metformin treatment raises Lac-Phe metabolite levels in prostate cancer patients, potentially explaining weight management and metabolic benefits similar to exercise.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41942753/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-07"
+      },
+      {
+        "id": "recOtlaQljfAz93rH",
+        "title": "Sodium-glucose cotransporter 2 inhibitors and the risk of late onset epilepsy: A real-world cohort study.",
+        "summary": "SGLT2 inhibitor drugs may reduce epilepsy risk in older adults with type 2 diabetes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41940606/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-07"
+      },
+      {
+        "id": "recNU90Uoy6luzobN",
+        "title": "Concept and connotation of the geroprotective and anti-aging effects of metformin: From AMPK Activation to SASP Suppression.",
+        "summary": "Metformin, a common diabetes drug, may slow aging and reduce age-related diseases by activating protective cellular pathways in older adults.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41942023/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-07"
+      },
+      {
         "id": "recNEj3sDVNhZTogi",
         "title": "Entrectinib attenuates LPS-induced neuroinflammation by inhibiting JNK, p38, and AKT pathways and ameliorates cognitive impairment.",
         "summary": "Entrectinib, a lung cancer drug, reduces brain inflammation and improves memory by blocking specific inflammatory pathways in mice.",
@@ -380,48 +422,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-06"
-      },
-      {
-        "id": "recUH3M0Z7eBU7Q9t",
-        "title": "BMAL2 is a druggable target for ovarian clear cell carcinoma (OCCC).",
-        "summary": "Researchers identified BMAL2 as a druggable target in ovarian clear cell carcinoma, showing a drug candidate can reduce tumor growth by triggering DNA damage.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41933240/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-06"
-      },
-      {
-        "id": "recHLYsGB4TNHoZxS",
-        "title": "TGF-α/EGFR-mediated lymphatic metastasis reveals a repositionable therapeutic target in breast cancer.",
-        "summary": "EGFR activation promotes lymph node spread in triple-negative breast cancer, offering a new therapeutic target using TGF-α blocking antibodies.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41932901/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-06"
-      },
-      {
-        "id": "recsb3hbHsYLaqb20",
-        "title": "Clinical efficacy of chemopreventive agents in oral cancer and oral potentially malignant disorders: A systematic review.",
-        "summary": "Retinoids and herbal combination therapies show promise in preventing oral cancer progression, though toxicity and inconsistent results limit clinical use.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41936284/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 19,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-06"
       }
@@ -1076,9 +1076,9 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15372,
+    "archive_count": 15373,
     "archive_supplements": 1781,
-    "archive_off_label": 580,
+    "archive_off_label": 581,
     "archive_biomarkers": 9020,
     "archive_trials": 3299,
     "archive_mind_body": 400
