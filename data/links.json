@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07T11:21:09.603Z",
+  "last_updated": "2026-04-08T04:02:43.458Z",
   "categories": {
     "supplements": [
       {
@@ -216,6 +216,20 @@
     ],
     "off_label": [
       {
+        "id": "reckNmsv2nTL7CpAG",
+        "title": "Understanding single stranded DNA gaps: from formation to fate.",
+        "summary": "Single-stranded DNA gaps could help predict cancer treatment response and guide personalized therapy strategies by identifying drug resistance mechanisms.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41914138/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-08"
+      },
+      {
         "id": "recOzC53J6c6w9q7R",
         "title": "DROP-CARs: Engineering Reversible, Drug-Controlled CAR T Cell Activity with a Clinically Approved Small Molecule.",
         "summary": "Researchers engineered CAR T cells that can be turned on and off using an approved drug, reducing toxicity to healthy tissue in solid tumors.",
@@ -410,23 +424,93 @@
         "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-06"
-      },
-      {
-        "id": "recFCvVxwwzbjQdsZ",
-        "title": "Inhibition of circulating glycocholic acid-regulated signaling potentiates immune checkpoint therapy in colorectal cancer.",
-        "summary": "Blocking a bile acid's effect in colorectal cancer restores immune therapy by reducing tumor cells' ability to hide from immune attack.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41935049/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-06"
       }
     ],
     "biomarkers": [
+      {
+        "id": "rec7bnNK4gbph09kL",
+        "title": "Early local immune activation following intra-operative radiotherapy in human breast tissue.",
+        "summary": "Intraoperative breast radiation rapidly activates local immune responses, potentially improving combined radiotherapy-immunotherapy effectiveness in breast cancer patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41943280/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-08"
+      },
+      {
+        "id": "rectoDUrQCUxmQo3S",
+        "title": "Surgical management of concomitant lung cancer and cardiovascular diseases: a multidisciplinary perspective.",
+        "summary": "Doctors should carefully coordinate cardiac and lung cancer treatments in elderly patients with both conditions, using staged approaches when possible.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41945887/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-08"
+      },
+      {
+        "id": "recMhQnaH2fXkpR4q",
+        "title": "Targeted degradation of c-Myc through the midnolin-proteasome pathway.",
+        "summary": "Scientists developed MbTACs, new molecules that degrade cancer-driving c-Myc protein through a novel pathway, showing promise against tumors.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41945431/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-08"
+      },
+      {
+        "id": "reckNmsv2nTL7CpAG",
+        "title": "Understanding single stranded DNA gaps: from formation to fate.",
+        "summary": "Single-stranded DNA gaps could help predict cancer treatment response and guide personalized therapy strategies by identifying drug resistance mechanisms.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41914138/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-08"
+      },
+      {
+        "id": "recCOGwTGhB7nAcKF",
+        "title": "Standardized digital PCR assay validation using PCR-ValiPal, demonstrated in cross-platform quantification of bovine papilloma virus.",
+        "summary": "Researchers created PCR-ValiPal, a web tool that simplifies and standardizes the validation process for digital PCR assays used to detect viruses and genetic material.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41730601/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 10,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-04-08"
+      },
+      {
+        "id": "recoRKfrinCp2AAtD",
+        "title": "SPARC: A programmable molecular diagnostic platform based on a signal-triggered, self-supplied crRNA and tiered PER-transcription-CRISPR cascade for early detection of hepatocellular carcinoma.",
+        "summary": "Scientists developed SPARC, a new molecular test that accurately detects microRNAs to enable early hepatocellular carcinoma diagnosis with improved sensitivity and specificity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41730595/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 13,
+        "pub_date": "2026-02-01",
+        "added_date": "2026-04-08"
+      },
       {
         "id": "recq9ukmbf9A7y4tf",
         "title": "NSUN2 as an emerging epigenetic regulator in cancer: from biomarker to therapeutic target.",
@@ -556,54 +640,14 @@
         "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-07"
-      },
+      }
+    ],
+    "trials": [
       {
-        "id": "rec40P0bOBnJosS5G",
-        "title": "Neurosarcoidosis mimicking multiple meningiomas: illustrative case.",
-        "summary": "A rare brain condition called neurosarcoidosis can mimic multiple meningiomas, making diagnosis difficult without proper evaluation.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41941841/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-07"
-      },
-      {
-        "id": "rechMKa3u97je9g6L",
-        "title": "Basal ganglia glioblastoma with lung adenocarcinoma tumor-to-tumor metastasis and atypical early imaging presentation: illustrative case.",
-        "summary": "Lung cancer metastasized into a brain glioblastoma, an extremely rare occurrence with unusual early imaging findings.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41941839/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-07"
-      },
-      {
-        "id": "rechUW8QSanbGyXdk",
-        "title": "First reported case of Lawsonella clevelandensis brain abscess in the setting of invasive cutaneous squamous cell carcinoma identified via bedside stereotactic aspiration: illustrative case.",
-        "summary": "Doctors identified a rare brain infection caused by Lawsonella clevelandensis in a patient with skin cancer, using advanced genetic sequencing.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41941835/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-07"
-      },
-      {
-        "id": "rec2gRA349pkMQ1ES",
-        "title": "Deep Learning Driven Evaluation of MR-guided Focused Ultrasound Ablation.",
-        "summary": "Researchers developed a deep learning system using MRI scans to better predict breast cancer treatment success during focused ultrasound therapy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41941814/",
+        "id": "rec7bnNK4gbph09kL",
+        "title": "Early local immune activation following intra-operative radiotherapy in human breast tissue.",
+        "summary": "Intraoperative breast radiation rapidly activates local immune responses, potentially improving combined radiotherapy-immunotherapy effectiveness in breast cancer patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41943280/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -611,38 +655,22 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
-        "added_date": "2026-04-07"
+        "added_date": "2026-04-08"
       },
       {
-        "id": "recKVZxAOYg41tfPx",
-        "title": "Adaptive Regulation of dNTP Homeostasis Confers Osimertinib Resistance in EGFR-Mutant Non-small Cell Lung Carcinoma.",
-        "summary": "Lung cancer cells resist osimertinib by activating a backup pathway that maintains DNA building blocks; blocking this pathway restores drug sensitivity.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41941751/",
+        "id": "rectoDUrQCUxmQo3S",
+        "title": "Surgical management of concomitant lung cancer and cardiovascular diseases: a multidisciplinary perspective.",
+        "summary": "Doctors should carefully coordinate cardiac and lung cancer treatments in elderly patients with both conditions, using staged approaches when possible.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41945887/",
         "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
+        "category": "Clinical Trials",
         "cancer_types": [
           "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
-        "added_date": "2026-04-07"
+        "added_date": "2026-04-08"
       },
-      {
-        "id": "recTB87AWPgEuaugP",
-        "title": "DPY30 is an epigenetic decoupler linking replication stress to immunoediting in pancreatic cancer.",
-        "summary": "Blocking DPY30 in pancreatic cancer destabilizes DNA replication, triggering immune cell infiltration and improving immunotherapy response.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41941748/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Pancreatic"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-07"
-      }
-    ],
-    "trials": [
       {
         "id": "recGIrp8QLwqwlSga",
         "title": "Targeting conserved domains of hypoxia-inducible factors for cancer therapy.",
@@ -824,34 +852,6 @@
           "Leukemia"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-07"
-      },
-      {
-        "id": "recHbfsN22AQ5uJV2",
-        "title": "Preoperative Chemoimmunotherapy followed by salvage surgery and adjuvant tislelizumab for previously irradiated R HNSCC: A prospective, phase II trial.",
-        "summary": "Combining immunotherapy and chemotherapy before surgery improved outcomes for recurrent head and neck cancer in previously irradiated patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41941265/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 18,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-07"
-      },
-      {
-        "id": "recpZfw0f5m2SQQxP",
-        "title": "Ultrasound-Controlled Nano-Oxygen Delivery Modulates Endothelial Cells to Enhance Tumor Perfusion.",
-        "summary": "Ultrasound-activated oxygen nanobubbles normalize tumor blood vessels, improving drug delivery and chemotherapy effectiveness across cancer types.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41941264/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-07"
       }
@@ -1076,10 +1076,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15388,
+    "archive_count": 15389,
     "archive_supplements": 1781,
     "archive_off_label": 584,
-    "archive_biomarkers": 9026,
+    "archive_biomarkers": 9027,
     "archive_trials": 3305,
     "archive_mind_body": 400
   }
