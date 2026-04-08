@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T07:05:05.658Z",
+  "last_updated": "2026-04-08T07:05:16.505Z",
   "categories": {
     "supplements": [
       {
@@ -286,6 +286,22 @@
         "added_date": "2026-04-08"
       },
       {
+        "id": "recxl8ZSBuDwtDpc8",
+        "title": "A Phase 1b Study of Gilteritinib in Participants With Locally Advanced or Metastatic NSCLC With ALK Rearrangement After Prior Treatment With an ALK Inhibitor",
+        "summary": "Gilteritinib, an approved leukemia drug, is tested as a potential treatment for lung cancer patients who stopped responding to standard ALK inhibitor therapy.",
+        "url": "https://clinicaltrials.gov/study/NCT07140016",
+        "source": "ClinicalTrials.gov",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung",
+          "Leukemia",
+          "Lymphoma"
+        ],
+        "quality_score": 13,
+        "pub_date": "2026-04-07",
+        "added_date": "2026-04-08"
+      },
+      {
         "id": "recOzC53J6c6w9q7R",
         "title": "DROP-CARs: Engineering Reversible, Drug-Controlled CAR T Cell Activity with a Clinically Approved Small Molecule.",
         "summary": "Researchers engineered CAR T cells that can be turned on and off using an approved drug, reducing toxicity to healthy tissue in solid tumors.",
@@ -408,20 +424,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-07"
-      },
-      {
-        "id": "recz0YZo6xf3D8KoH",
-        "title": "Association Between Statin Use and Non-Melanoma Skin Cancer Risk: A Distributed Network Analysis of 11 Real-World Databases.",
-        "summary": "Study of 11 databases found statins' link to non-melanoma skin cancer risk remains unclear due to conflicting evidence.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41942380/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Melanoma"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-07"
       }
@@ -1070,10 +1072,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15546,
+    "archive_count": 15547,
     "archive_supplements": 1785,
     "archive_off_label": 584,
-    "archive_biomarkers": 9145,
+    "archive_biomarkers": 9146,
     "archive_trials": 3337,
     "archive_mind_body": 403
   }
