@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T04:04:59.111Z",
+  "last_updated": "2026-04-08T04:05:09.016Z",
   "categories": {
     "supplements": [
       {
@@ -738,6 +738,20 @@
         "added_date": "2026-04-08"
       },
       {
+        "id": "recrbPEI3c9cBFcWU",
+        "title": "Endobronchial ultrasound-guided transbronchial fine-needle aspiration of mediastinal lymph nodes: a clinical appraisal of diagnostic accuracy and molecular utility.",
+        "summary": "A minimally invasive needle technique effectively diagnoses lung cancer and identifies enlarged lymph nodes in the chest.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41945413/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-08"
+      },
+      {
         "id": "recGIrp8QLwqwlSga",
         "title": "Targeting conserved domains of hypoxia-inducible factors for cancer therapy.",
         "summary": "Researchers developed dual HIF inhibitors that block tumor growth, improve immunotherapy response, and show safety across multiple cancer types.",
@@ -830,20 +844,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41941729/",
         "source": "PubMed",
         "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-07"
-      },
-      {
-        "id": "recSFIwrGRBFtJHaD",
-        "title": "Antigen-specific T cell responses to SARS-CoV-2 vaccination after Hematopoietic Cell Transplant or CAR T cell Therapy.",
-        "summary": "COVID-19 vaccination after blood cancer cell therapies produces strong immune T cell responses regardless of whether vaccination occurs early or later.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41941698/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
@@ -1072,10 +1072,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15399,
+    "archive_count": 15400,
     "archive_supplements": 1781,
     "archive_off_label": 584,
-    "archive_biomarkers": 9036,
+    "archive_biomarkers": 9037,
     "archive_trials": 3306,
     "archive_mind_body": 400
   }
