@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T04:05:09.016Z",
+  "last_updated": "2026-04-08T04:05:19.544Z",
   "categories": {
     "supplements": [
       {
@@ -752,6 +752,20 @@
         "added_date": "2026-04-08"
       },
       {
+        "id": "rec1INSJxfdKgiQBR",
+        "title": "Ultrasound-targeted microbubble cavitation enhances anti-PD-L1 therapy in TNBC via eNOS-mediated reoxygenation.",
+        "summary": "Ultrasound microbubbles reduce breast cancer oxygen deprivation, enabling immune therapy to work better by activating immune cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41945400/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-08"
+      },
+      {
         "id": "recGIrp8QLwqwlSga",
         "title": "Targeting conserved domains of hypoxia-inducible factors for cancer therapy.",
         "summary": "Researchers developed dual HIF inhibitors that block tumor growth, improve immunotherapy response, and show safety across multiple cancer types.",
@@ -834,20 +848,6 @@
           "Pancreatic"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-07"
-      },
-      {
-        "id": "recOzC53J6c6w9q7R",
-        "title": "DROP-CARs: Engineering Reversible, Drug-Controlled CAR T Cell Activity with a Clinically Approved Small Molecule.",
-        "summary": "Researchers engineered CAR T cells that can be turned on and off using an approved drug, reducing toxicity to healthy tissue in solid tumors.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41941729/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-07"
       }
@@ -1072,8 +1072,8 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15400,
-    "archive_supplements": 1781,
+    "archive_count": 15401,
+    "archive_supplements": 1782,
     "archive_off_label": 584,
     "archive_biomarkers": 9037,
     "archive_trials": 3306,
