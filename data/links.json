@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T04:05:30.890Z",
+  "last_updated": "2026-04-08T04:05:41.235Z",
   "categories": {
     "supplements": [
       {
@@ -780,6 +780,20 @@
         "added_date": "2026-04-08"
       },
       {
+        "id": "recxKldP3fUPN7vMW",
+        "title": "EGFR- and HER3-targeted bispecific antibody-drug conjugate demonstrates anti-tumor activity in metastatic castration-resistant prostate cancer.",
+        "summary": "A bispecific antibody-drug conjugate targeting EGFR and HER3 shows promise against metastatic castration-resistant prostate cancer in early testing.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41945392/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-08"
+      },
+      {
         "id": "recGIrp8QLwqwlSga",
         "title": "Targeting conserved domains of hypoxia-inducible factors for cancer therapy.",
         "summary": "Researchers developed dual HIF inhibitors that block tumor growth, improve immunotherapy response, and show safety across multiple cancer types.",
@@ -832,20 +846,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-07"
-      },
-      {
-        "id": "recKVZxAOYg41tfPx",
-        "title": "Adaptive Regulation of dNTP Homeostasis Confers Osimertinib Resistance in EGFR-Mutant Non-small Cell Lung Carcinoma.",
-        "summary": "Lung cancer cells resist osimertinib by activating a backup pathway that maintains DNA building blocks; blocking this pathway restores drug sensitivity.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41941751/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -1072,11 +1072,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15402,
+    "archive_count": 15403,
     "archive_supplements": 1782,
     "archive_off_label": 584,
     "archive_biomarkers": 9037,
-    "archive_trials": 3307,
+    "archive_trials": 3308,
     "archive_mind_body": 400
   }
 }
