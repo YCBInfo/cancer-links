@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T04:04:25.690Z",
+  "last_updated": "2026-04-08T04:04:37.191Z",
   "categories": {
     "supplements": [
       {
@@ -696,6 +696,20 @@
         "added_date": "2026-04-08"
       },
       {
+        "id": "recHmS0hwO2pk3RNr",
+        "title": "ADC target profiling in NSCLC: Generalizable AI separates TROP-2 and cMET phenotypes.",
+        "summary": "AI technology accurately identifies which lung cancer patients would benefit from TROP-2 or cMET-targeting drug treatments.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41945491/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-08"
+      },
+      {
         "id": "recGIrp8QLwqwlSga",
         "title": "Targeting conserved domains of hypoxia-inducible factors for cancer therapy.",
         "summary": "Researchers developed dual HIF inhibitors that block tumor growth, improve immunotherapy response, and show safety across multiple cancer types.",
@@ -828,20 +842,6 @@
         "title": "Physical frailty, genetic risk, mediating biomarkers, and risk of suicide attempt: A prospective cohort study.",
         "summary": "Physical frailty increases suicide attempt risk, potentially mediated by genetic factors and blood biomarkers, according to prospective cohort findings.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41941430/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-07"
-      },
-      {
-        "id": "recs4QQh23X7sMWne",
-        "title": "Living evidence-informed guideline on the early detection of oral squamous cell carcinoma and potentially malignant disorders: Vital staining adjuncts to determine the need for biopsy, Version 2026 1.0.",
-        "summary": "A new guideline recommends using vital staining with toluidine blue to help identify oral cancer and precancerous mouth conditions requiring biopsy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41941357/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -1072,10 +1072,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15396,
+    "archive_count": 15397,
     "archive_supplements": 1781,
     "archive_off_label": 584,
-    "archive_biomarkers": 9033,
+    "archive_biomarkers": 9034,
     "archive_trials": 3306,
     "archive_mind_body": 400
   }
