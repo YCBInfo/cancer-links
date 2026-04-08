@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T04:05:53.125Z",
+  "last_updated": "2026-04-08T04:06:03.046Z",
   "categories": {
     "supplements": [
       {
@@ -794,6 +794,20 @@
         "added_date": "2026-04-08"
       },
       {
+        "id": "recEPsLOU3ffv3sDP",
+        "title": "Chinese expert consensus on magnetic resonance-guided focused ultrasound surgery for painful bone metastases.",
+        "summary": "Magnetic resonance-guided ultrasound surgery effectively treats painful bone metastases by destroying nerve endings and tumors with minimal side effects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41945277/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-08"
+      },
+      {
         "id": "recGIrp8QLwqwlSga",
         "title": "Targeting conserved domains of hypoxia-inducible factors for cancer therapy.",
         "summary": "Researchers developed dual HIF inhibitors that block tumor growth, improve immunotherapy response, and show safety across multiple cancer types.",
@@ -832,20 +846,6 @@
         "cancer_types": [
           "Liver",
           "Stomach"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-07"
-      },
-      {
-        "id": "rec2gRA349pkMQ1ES",
-        "title": "Deep Learning Driven Evaluation of MR-guided Focused Ultrasound Ablation.",
-        "summary": "Researchers developed a deep learning system using MRI scans to better predict breast cancer treatment success during focused ultrasound therapy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41941814/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -1072,11 +1072,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15404,
+    "archive_count": 15405,
     "archive_supplements": 1782,
     "archive_off_label": 584,
     "archive_biomarkers": 9038,
-    "archive_trials": 3308,
+    "archive_trials": 3309,
     "archive_mind_body": 400
   }
 }
