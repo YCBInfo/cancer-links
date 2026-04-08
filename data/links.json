@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T04:23:20.014Z",
+  "last_updated": "2026-04-08T04:23:30.417Z",
   "categories": {
     "supplements": [
       {
@@ -852,6 +852,20 @@
     ],
     "mind_body": [
       {
+        "id": "recJFwqd8UtJxPagj",
+        "title": "Early repetitive transcranial magnetic stimulation for preventing chronic postoperative pain in older adults: a randomized clinical sub-study.",
+        "summary": "Early brain stimulation therapy reduced chronic pain after lung cancer surgery in older adults.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41943114/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-08"
+      },
+      {
         "id": "rechCXAsVNT4OSBVK",
         "title": "Cultural Adaptation and Feasibility of an Inpatient Yoga Intervention for Patients Undergoing Hematopoietic Stem Cell Transplantation in Tanzania, India, and the United States: A Study Protocol.",
         "summary": "Researchers are testing a culturally adapted yoga program to help blood cancer transplant patients manage symptoms during hospitalization across Tanzania, India, and the United States.",
@@ -1046,20 +1060,6 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-04-01"
-      },
-      {
-        "id": "reccSwqDHCJiC91Qa",
-        "title": "Effectiveness of Mindfulness-Based Art Therapy for Oncology Nurses: A Randomized Controlled Trial.",
-        "summary": "Mindfulness-based art therapy reduces psychological stress in oncology nurses, improving their wellbeing and patient care quality.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41881490/",
-        "source": "PubMed",
-        "category": "Mind-Body & Spirituality",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-01"
       }
     ]
   },
@@ -1070,11 +1070,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15501,
+    "archive_count": 15502,
     "archive_supplements": 1783,
     "archive_off_label": 584,
     "archive_biomarkers": 9124,
-    "archive_trials": 3318,
+    "archive_trials": 3319,
     "archive_mind_body": 400
   }
 }
