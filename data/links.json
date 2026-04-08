@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T04:22:26.252Z",
+  "last_updated": "2026-04-08T04:22:37.209Z",
   "categories": {
     "supplements": [
       {
@@ -272,6 +272,20 @@
         "added_date": "2026-04-08"
       },
       {
+        "id": "recxRLPrmOKxRop1u",
+        "title": "Proteasome Inhibitor-Induced Cytotoxic Mechanisms in Canine Pulmonary Adenocarcinoma Cell Lines.",
+        "summary": "Proteasome inhibitors kill canine lung cancer cells and show promise when combined with carboplatin chemotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41943258/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-08"
+      },
+      {
         "id": "recOzC53J6c6w9q7R",
         "title": "DROP-CARs: Engineering Reversible, Drug-Controlled CAR T Cell Activity with a Clinically Approved Small Molecule.",
         "summary": "Researchers engineered CAR T cells that can be turned on and off using an approved drug, reducing toxicity to healthy tissue in solid tumors.",
@@ -409,20 +423,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
-        "added_date": "2026-04-07"
-      },
-      {
-        "id": "rec0Zc7lSKVQWUM9v",
-        "title": "The cyclin-G associated kinase (GAK) is a novel mitotic kinase and therapeutic target in diffuse large B-cell lymphoma",
-        "summary": "Researchers identified GAK as a new drug target for diffuse large B-cell lymphoma, especially in tumors with RB1 loss, and found existing drugs effectively inhibit it.",
-        "url": "https://www.biorxiv.org/content/10.1101/2024.10.21.619489",
-        "source": "bioRxiv",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lymphoma"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-06",
         "added_date": "2026-04-07"
       }
     ],
@@ -1070,10 +1070,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15496,
+    "archive_count": 15497,
     "archive_supplements": 1783,
     "archive_off_label": 584,
-    "archive_biomarkers": 9120,
+    "archive_biomarkers": 9121,
     "archive_trials": 3317,
     "archive_mind_body": 400
   }
