@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T04:02:55.547Z",
+  "last_updated": "2026-04-08T04:03:18.070Z",
   "categories": {
     "supplements": [
       {
@@ -526,6 +526,20 @@
         "added_date": "2026-04-08"
       },
       {
+        "id": "recb92Ba51ymHU3Zu",
+        "title": "Multimodal Multiorgan-on-a-Chip Platform for Probing Liver-Tumor Interactions and Advancing Prodrug Screening.",
+        "summary": "Researchers developed a microchip platform that mimics liver-tumor interactions to better test cancer prodrugs like capecitabine and tamoxifen.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41945883/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-08"
+      },
+      {
         "id": "recq9ukmbf9A7y4tf",
         "title": "NSUN2 as an emerging epigenetic regulator in cancer: from biomarker to therapeutic target.",
         "summary": "NSUN2, a protein that modifies RNA, is overexpressed in multiple cancers and promotes tumor growth, making it a potential diagnostic and treatment target.",
@@ -623,21 +637,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-07"
-      },
-      {
-        "id": "recJulvQkYn1ZJ8eF",
-        "title": "Toward the simultaneous detection of multiple diseases with a highly cost-effective cell-free DNA methylome test.",
-        "summary": "MethylScan, a cost-effective blood test, simultaneously detects multiple cancers using DNA methylation patterns with 94% accuracy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41941615/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Liver",
-          "Stomach"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-07"
       }
@@ -1076,10 +1075,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15390,
+    "archive_count": 15391,
     "archive_supplements": 1781,
     "archive_off_label": 584,
-    "archive_biomarkers": 9027,
+    "archive_biomarkers": 9028,
     "archive_trials": 3306,
     "archive_mind_body": 400
   }
