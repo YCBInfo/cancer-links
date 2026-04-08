@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T08:02:58.956Z",
+  "last_updated": "2026-04-08T09:03:21.006Z",
   "categories": {
     "supplements": [
       {
@@ -302,6 +302,48 @@
         "added_date": "2026-04-08"
       },
       {
+        "id": "recXkBcKoQDinm6GC",
+        "title": "Montelukast attenuates diclofenac sodium-induced cardiotoxicity in male rats via targeting Wnt/β-catenin pathway.",
+        "summary": "Montelukast protects rat hearts from diclofenac-induced damage by blocking the Wnt/β-catenin pathway, reducing inflammation and cell death.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41946776/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-08"
+      },
+      {
+        "id": "rec42kmlnWNgGNjah",
+        "title": "ECN Coated with Met Can Inhibit PD-L1 Expression in Tumor Cells and Enhance Immune-Mediated Antitumor Effects in CT26 Cells.",
+        "summary": "Metformin-coated bacteria reduce immune evasion in colon cancer by blocking PD-L1 and boosting immune cell infiltration.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41946667/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-08"
+      },
+      {
+        "id": "recqBk0NPjJBpVwRh",
+        "title": "Protective effect of H1 Antihistamine against Lung Cancer in Patients with Allergic Diseases: A Global Federated Health Network Analysis.",
+        "summary": "H1 antihistamines appear to reduce lung cancer risk in patients with allergic diseases like asthma and allergic rhinitis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41946436/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-08"
+      },
+      {
         "id": "recOzC53J6c6w9q7R",
         "title": "DROP-CARs: Engineering Reversible, Drug-Controlled CAR T Cell Activity with a Clinically Approved Small Molecule.",
         "summary": "Researchers engineered CAR T cells that can be turned on and off using an approved drug, reducing toxicity to healthy tissue in solid tumors.",
@@ -378,48 +420,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41942570/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-07"
-      },
-      {
-        "id": "rec6CCI7pgCLeyT4W",
-        "title": "The anti-obesogenic metabolite, Lac-Phe, is elevated by metformin treatment in prostate cancer patients.",
-        "summary": "Metformin treatment raises Lac-Phe metabolite levels in prostate cancer patients, potentially explaining weight management and metabolic benefits similar to exercise.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41942753/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Prostate"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-07"
-      },
-      {
-        "id": "recOtlaQljfAz93rH",
-        "title": "Sodium-glucose cotransporter 2 inhibitors and the risk of late onset epilepsy: A real-world cohort study.",
-        "summary": "SGLT2 inhibitor drugs may reduce epilepsy risk in older adults with type 2 diabetes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41940606/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-07"
-      },
-      {
-        "id": "recNU90Uoy6luzobN",
-        "title": "Concept and connotation of the geroprotective and anti-aging effects of metformin: From AMPK Activation to SASP Suppression.",
-        "summary": "Metformin, a common diabetes drug, may slow aging and reduce age-related diseases by activating protective cellular pathways in older adults.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41942023/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
         "cancer_types": [
           "General"
         ],
@@ -1072,11 +1072,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15558,
+    "archive_count": 15559,
     "archive_supplements": 1785,
     "archive_off_label": 584,
     "archive_biomarkers": 9151,
-    "archive_trials": 3343,
+    "archive_trials": 3344,
     "archive_mind_body": 403
   }
 }
