@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-04-08T04:04:02.943Z",
+  "last_updated": "2026-04-08T04:04:25.690Z",
   "categories": {
     "supplements": [
+      {
+        "id": "recGEPMCt5niEiCxE",
+        "title": "Multifaceted bioactivity of brown seaweed-derived fucoidan from the Indian Coastline: A natural health product candidate.",
+        "summary": "Fucoidan from Indian brown seaweed shows promise as a natural compound with antioxidant, antidiabetic, and breast cancer cell-killing properties.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41945593/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-08"
+      },
       {
         "id": "recVqEj7oDdERRlM6",
         "title": "Phytochemicals and callus suspension culture as cancer therapeutics.",
@@ -190,20 +204,6 @@
         "title": "Regulation of long non-coding RNAs by essential oils: Therapeutic implications in human diseases.",
         "summary": "Essential oils regulate cancer-related RNA molecules, offering potential new therapeutic treatments across multiple disease types.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41941862/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-07"
-      },
-      {
-        "id": "rec8xuZQ8b5tJv06G",
-        "title": "Protective Effect of Silymarin Against Paclitaxel-Induced Cardiotoxicity.",
-        "summary": "Silymarin protects rat hearts from paclitaxel chemotherapy damage by reducing inflammation and preventing cell death.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41938665/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -610,35 +610,32 @@
         "added_date": "2026-04-08"
       },
       {
-        "id": "recq9ukmbf9A7y4tf",
-        "title": "NSUN2 as an emerging epigenetic regulator in cancer: from biomarker to therapeutic target.",
-        "summary": "NSUN2, a protein that modifies RNA, is overexpressed in multiple cancers and promotes tumor growth, making it a potential diagnostic and treatment target.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41937349/",
+        "id": "recMDKFtlnbm1aImU",
+        "title": "Retreatment with First-Generation Selective RET Inhibitors in RET-Rearranged NSCLC Pretreated with Selpercatinib or Pralsetinib - Results from the RET-MAP Registry.",
+        "summary": "RET-rearranged lung cancer patients who relapsed after initial RET inhibitor treatment benefited from retreatment with the same drug class.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41945500/",
         "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
+        "category": "Clinical Trials",
         "cancer_types": [
-          "Breast",
-          "Liver",
-          "Stomach"
+          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
-        "added_date": "2026-04-07"
+        "added_date": "2026-04-08"
       },
       {
-        "id": "recGIrp8QLwqwlSga",
-        "title": "Targeting conserved domains of hypoxia-inducible factors for cancer therapy.",
-        "summary": "Researchers developed dual HIF inhibitors that block tumor growth, improve immunotherapy response, and show safety across multiple cancer types.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41941275/",
+        "id": "recUZgVfYosktHC8F",
+        "title": "Venetoclax-Based Regimens in Chronic Myelomonocytic Leukemia: A Systematic Review and Meta-Analysis.",
+        "summary": "Venetoclax combined with chemotherapy shows promise in chronic myelomonocytic leukemia, achieving high response rates but low complete remissions and significant side effects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41945493/",
         "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
+        "category": "Clinical Trials",
         "cancer_types": [
-          "Colorectal",
-          "Melanoma"
+          "Leukemia"
         ],
-        "quality_score": 15,
+        "quality_score": 32,
         "pub_date": "2026-04-01",
-        "added_date": "2026-04-07"
+        "added_date": "2026-04-08"
       }
     ],
     "trials": [
@@ -667,6 +664,34 @@
           "Lung"
         ],
         "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-08"
+      },
+      {
+        "id": "recMDKFtlnbm1aImU",
+        "title": "Retreatment with First-Generation Selective RET Inhibitors in RET-Rearranged NSCLC Pretreated with Selpercatinib or Pralsetinib - Results from the RET-MAP Registry.",
+        "summary": "RET-rearranged lung cancer patients who relapsed after initial RET inhibitor treatment benefited from retreatment with the same drug class.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41945500/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-08"
+      },
+      {
+        "id": "recUZgVfYosktHC8F",
+        "title": "Venetoclax-Based Regimens in Chronic Myelomonocytic Leukemia: A Systematic Review and Meta-Analysis.",
+        "summary": "Venetoclax combined with chemotherapy shows promise in chronic myelomonocytic leukemia, achieving high response rates but low complete remissions and significant side effects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41945493/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 32,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-08"
       },
@@ -823,34 +848,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-07"
-      },
-      {
-        "id": "recsIl6O30s46fMeP",
-        "title": "Digital Uromonitor® outperforms quantitative polymerase chain reaction Uromonitor and cytology for non-muscle-invasive bladder cancer surveillance: results from the 'External Validation of Uromonitor as a Biomarker for Optimization of NMIBC Management by the Club Urológico Español de Tratamiento Oncológico Group' (EVALUATION-CUETO) study.",
-        "summary": "Digital Uromonitor blood test better detects non-muscle-invasive bladder cancer recurrence than older genetic testing and urine analysis methods.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41941336/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Bladder"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-07"
-      },
-      {
-        "id": "recJB4UccnuybgR8b",
-        "title": "Phase 1 Study of KITE-222, an Autologous CLL-1-directed CAR T-cell Therapy in Patients With Relapsed/Refractory Acute Myeloid Leukemia.",
-        "summary": "A new CAR T-cell therapy targeting CLL-1 shows promise for treating hard-to-cure acute myeloid leukemia with improved safety.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41941266/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-07"
       }
@@ -1075,10 +1072,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15395,
+    "archive_count": 15396,
     "archive_supplements": 1781,
     "archive_off_label": 584,
-    "archive_biomarkers": 9032,
+    "archive_biomarkers": 9033,
     "archive_trials": 3306,
     "archive_mind_body": 400
   }
