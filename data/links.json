@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T04:04:37.191Z",
+  "last_updated": "2026-04-08T04:04:45.953Z",
   "categories": {
     "supplements": [
       {
@@ -710,6 +710,20 @@
         "added_date": "2026-04-08"
       },
       {
+        "id": "reclHpYtCvprjeixl",
+        "title": "A first-in-human phase 1 clinical trial evaluating clinical activity and proof-of-mechanism of tobemstomig, a PD1-LAG3 bispecific antibody, in patients with CPI-experienced melanoma.",
+        "summary": "A new dual-action antibody drug shows promise in melanoma patients who didn't respond to prior immunotherapy treatments.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41945490/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Melanoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-08"
+      },
+      {
         "id": "recGIrp8QLwqwlSga",
         "title": "Targeting conserved domains of hypoxia-inducible factors for cancer therapy.",
         "summary": "Researchers developed dual HIF inhibitors that block tumor growth, improve immunotherapy response, and show safety across multiple cancer types.",
@@ -834,20 +848,6 @@
           "Breast"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-07"
-      },
-      {
-        "id": "recF6sb0Rxk2aFwFV",
-        "title": "Physical frailty, genetic risk, mediating biomarkers, and risk of suicide attempt: A prospective cohort study.",
-        "summary": "Physical frailty increases suicide attempt risk, potentially mediated by genetic factors and blood biomarkers, according to prospective cohort findings.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41941430/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-07"
       }
@@ -1072,10 +1072,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15397,
+    "archive_count": 15398,
     "archive_supplements": 1781,
     "archive_off_label": 584,
-    "archive_biomarkers": 9034,
+    "archive_biomarkers": 9035,
     "archive_trials": 3306,
     "archive_mind_body": 400
   }
