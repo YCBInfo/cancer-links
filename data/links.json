@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T04:05:19.544Z",
+  "last_updated": "2026-04-08T04:05:30.890Z",
   "categories": {
     "supplements": [
       {
@@ -766,6 +766,20 @@
         "added_date": "2026-04-08"
       },
       {
+        "id": "recFktMsoHpsvYB4L",
+        "title": "Targeting eIF4A-dependent translation in genetically complex sarcoma.",
+        "summary": "A new drug inhibiting eIF4A successfully stops growth of three deadly sarcoma types by blocking cancer-promoting proteins YAP and TAZ.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41945393/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-08"
+      },
+      {
         "id": "recGIrp8QLwqwlSga",
         "title": "Targeting conserved domains of hypoxia-inducible factors for cancer therapy.",
         "summary": "Researchers developed dual HIF inhibitors that block tumor growth, improve immunotherapy response, and show safety across multiple cancer types.",
@@ -832,20 +846,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-07"
-      },
-      {
-        "id": "recTB87AWPgEuaugP",
-        "title": "DPY30 is an epigenetic decoupler linking replication stress to immunoediting in pancreatic cancer.",
-        "summary": "Blocking DPY30 in pancreatic cancer destabilizes DNA replication, triggering immune cell infiltration and improving immunotherapy response.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41941748/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Pancreatic"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -1072,11 +1072,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15401,
+    "archive_count": 15402,
     "archive_supplements": 1782,
     "archive_off_label": 584,
     "archive_biomarkers": 9037,
-    "archive_trials": 3306,
+    "archive_trials": 3307,
     "archive_mind_body": 400
   }
 }
