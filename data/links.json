@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T04:08:21.968Z",
+  "last_updated": "2026-04-08T04:08:32.394Z",
   "categories": {
     "supplements": [
       {
@@ -13,6 +13,20 @@
           "Breast"
         ],
         "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-08"
+      },
+      {
+        "id": "rec37G5uNEQY0kmhz",
+        "title": "Comparative Evaluation of the Protective Activity of Dibornol and Prostagenin in a Model of DNA Damage in Rat Testicular Tissue Cells.",
+        "summary": "Two antioxidant compounds, dibornol and prostagenin, both effectively reduced DNA damage in rat testicular cells, with prostagenin showing superior antioxidant protection.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41944952/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-08"
       },
@@ -190,20 +204,6 @@
         "title": "Effects of high-load, velocity-intentional variable resistance training combined with creatine supplementation on neuroplasticity, oxidative stress, inflammation, physical function, cognitive performance and quality of life in older adults: A randomized, double-blind, placebo-controlled trial.",
         "summary": "High-load resistance training combined with creatine improved strength, brain function, and quality of life in older adults over 16 weeks.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41941966/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-07"
-      },
-      {
-        "id": "recl7jXKiImprY3RY",
-        "title": "Regulation of long non-coding RNAs by essential oils: Therapeutic implications in human diseases.",
-        "summary": "Essential oils regulate cancer-related RNA molecules, offering potential new therapeutic treatments across multiple disease types.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41941862/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -1070,11 +1070,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15418,
+    "archive_count": 15419,
     "archive_supplements": 1782,
     "archive_off_label": 584,
     "archive_biomarkers": 9049,
-    "archive_trials": 3311,
+    "archive_trials": 3312,
     "archive_mind_body": 400
   }
 }
