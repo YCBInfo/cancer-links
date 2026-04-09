@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T04:03:39.311Z",
+  "last_updated": "2026-04-09T04:04:00.799Z",
   "categories": {
     "supplements": [
       {
@@ -13,6 +13,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-09"
+      },
+      {
+        "id": "recMf7vi6nkdFD3hd",
+        "title": "Atractylon induces autophagy-dependent apoptosis in hepatocellular carcinoma cells via inhibition of the PI3K/AKT/mTOR pathway.",
+        "summary": "Atractylon kills liver cancer cells by triggering autophagy and cell death through blocking a key growth pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41713198/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-04-09"
       },
@@ -190,20 +204,6 @@
         "title": "Extracellular vesicles derived from senescent hepatocytes drive pan-cancer metastasis in aging.",
         "summary": "Aging liver cells release particles that promote cancer spread across multiple tumor types; blocking this process reduces metastasis in older mice.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41942570/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-07"
-      },
-      {
-        "id": "recxqnkNtBAunrUTK",
-        "title": "Programmed cell death in cancer: targeting necroptosis to kill tumor cell.",
-        "summary": "Researchers propose triggering necroptosis, a controlled cell death pathway, to kill tumor cells and overcome chemotherapy resistance.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41942469/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -587,6 +587,34 @@
         "added_date": "2026-04-09"
       },
       {
+        "id": "recplEaHzDczv2xM3",
+        "title": "Interpretable prognostic modeling of glioblastoma using cross-cohort transcriptome integration and machine learning approaches.",
+        "summary": "Researchers developed a 22-gene signature that accurately predicts glioblastoma survival and identifies immune profiles to guide personalized treatment decisions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41713199/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-09"
+      },
+      {
+        "id": "recMf7vi6nkdFD3hd",
+        "title": "Atractylon induces autophagy-dependent apoptosis in hepatocellular carcinoma cells via inhibition of the PI3K/AKT/mTOR pathway.",
+        "summary": "Atractylon kills liver cancer cells by triggering autophagy and cell death through blocking a key growth pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41713198/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-09"
+      },
+      {
         "id": "rec7bnNK4gbph09kL",
         "title": "Early local immune activation following intra-operative radiotherapy in human breast tissue.",
         "summary": "Intraoperative breast radiation rapidly activates local immune responses, potentially improving combined radiotherapy-immunotherapy effectiveness in breast cancer patients.",
@@ -612,34 +640,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
-        "added_date": "2026-04-08"
-      },
-      {
-        "id": "recMhQnaH2fXkpR4q",
-        "title": "Targeted degradation of c-Myc through the midnolin-proteasome pathway.",
-        "summary": "Scientists developed MbTACs, new molecules that degrade cancer-driving c-Myc protein through a novel pathway, showing promise against tumors.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41945431/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-08"
-      },
-      {
-        "id": "reckNmsv2nTL7CpAG",
-        "title": "Understanding single stranded DNA gaps: from formation to fate.",
-        "summary": "Single-stranded DNA gaps could help predict cancer treatment response and guide personalized therapy strategies by identifying drug resistance mechanisms.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41914138/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
         "added_date": "2026-04-08"
       }
     ],
@@ -1076,10 +1076,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15573,
+    "archive_count": 15575,
     "archive_supplements": 1785,
     "archive_off_label": 587,
-    "archive_biomarkers": 9161,
+    "archive_biomarkers": 9163,
     "archive_trials": 3345,
     "archive_mind_body": 403
   }
