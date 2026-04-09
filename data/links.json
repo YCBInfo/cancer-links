@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T04:15:22.948Z",
+  "last_updated": "2026-04-09T04:15:33.321Z",
   "categories": {
     "supplements": [
       {
@@ -55,6 +55,20 @@
           "Breast"
         ],
         "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-09"
+      },
+      {
+        "id": "recWZtkbRNhoF2aF9",
+        "title": "EVs-Mediated Intracardiac Crosstalk Mitigates Doxorubicin-Induced Cardiotoxicity.",
+        "summary": "Exercise-derived extracellular vesicles protect heart cells from doxorubicin chemotherapy damage through specific molecular cargo called piRNAs.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41948821/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-09"
       },
@@ -197,20 +211,6 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-04-01",
-        "added_date": "2026-04-07"
-      },
-      {
-        "id": "recPoAf9CAkJyRpN3",
-        "title": "Catha edulis and Datura stramonium mitigate oxidative stress, mitochondrial dysfunction, and cell death in an SH-SY5Y model of Parkinson's disease.",
-        "summary": "Plant extracts from Catha edulis and Datura stramonium reduce oxidative stress and cell death in Parkinson's disease models.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41548622/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
-        "pub_date": "2026-02-01",
         "added_date": "2026-04-07"
       }
     ],
@@ -1077,10 +1077,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15636,
+    "archive_count": 15637,
     "archive_supplements": 1789,
     "archive_off_label": 588,
-    "archive_biomarkers": 9211,
+    "archive_biomarkers": 9212,
     "archive_trials": 3353,
     "archive_mind_body": 403
   }
