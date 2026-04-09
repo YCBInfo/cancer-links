@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T04:14:15.378Z",
+  "last_updated": "2026-04-09T04:14:28.331Z",
   "categories": {
     "supplements": [
       {
@@ -259,6 +259,20 @@
         "added_date": "2026-04-09"
       },
       {
+        "id": "recGWx3Y99cRAskfA",
+        "title": "8-Aminoguanine protects against paclitaxel-induced neural degeneration and mechanical allodynia.",
+        "summary": "Drug 8-aminoguanine prevents nerve damage and pain from paclitaxel chemotherapy by blocking an enzyme that damages nerve cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41948937/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-09"
+      },
+      {
         "id": "reckNmsv2nTL7CpAG",
         "title": "Understanding single stranded DNA gaps: from formation to fate.",
         "summary": "Single-stranded DNA gaps could help predict cancer treatment response and guide personalized therapy strategies by identifying drug resistance mechanisms.",
@@ -409,20 +423,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-07"
-      },
-      {
-        "id": "rece4WK9ZVeDBN6ev",
-        "title": "Repurposing acetyldigitoxin as a potential EZH2 inhibitor for non-small cell lung cancer: a computational and experimental approach.",
-        "summary": "Acetyldigitoxin, an FDA-approved drug, effectively kills lung cancer cells by blocking EZH2, a protein that promotes tumor growth and resistance.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41940910/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -1077,11 +1077,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15630,
+    "archive_count": 15631,
     "archive_supplements": 1789,
     "archive_off_label": 588,
     "archive_biomarkers": 9206,
-    "archive_trials": 3352,
+    "archive_trials": 3353,
     "archive_mind_body": 403
   }
 }
