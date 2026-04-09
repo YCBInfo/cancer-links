@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T09:05:32.826Z",
+  "last_updated": "2026-04-09T04:02:48.991Z",
   "categories": {
     "supplements": [
       {
@@ -430,6 +430,106 @@
     ],
     "biomarkers": [
       {
+        "id": "recjh6cGAdWUhpvPV",
+        "title": "Telomere damage enhances immunogenicity of neuroblastoma and accelerates response to anti-PD-L1 treatment.",
+        "summary": "Damaging telomeres in neuroblastoma tumors boosts immune response and significantly improves effectiveness of immunotherapy treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41948996/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-09"
+      },
+      {
+        "id": "recbG9pL32afx4Cz0",
+        "title": "Fecal tryptophan metabolism predicts the development of infant eczema: a prospective longitudinal study.",
+        "summary": "Infants with altered gut bacteria tryptophan metabolism show distinct patterns predicting early or late eczema development, with specific metabolites as potential biomarkers.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41947046/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-09"
+      },
+      {
+        "id": "rectq3a7DICuk5nKZ",
+        "title": "The distinct roles of Negativicoccus and Fusobacterium in proximal- and late-onset colorectal cancer.",
+        "summary": "Two gut bacteria drive different colorectal cancer types: Negativicoccus promotes early tumors through inflammation, while Fusobacterium drives late-onset cancers through cell migration.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41947036/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-09"
+      },
+      {
+        "id": "reccQwrRyANYCjBBn",
+        "title": "Migrasomes: new communicators between cells.",
+        "summary": "Migrasomes, newly discovered cell structures, show promise as biomarkers and therapeutic targets for treating multiple cancer types including glioma and pancreatic cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41949167/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Pancreatic",
+          "Liver",
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-09"
+      },
+      {
+        "id": "recuCxnqV0X4VIgN9",
+        "title": "Spatial multiomics profiling reveals ZFP36-mediated immunometabolic reprogramming in bladder cancer.",
+        "summary": "Blocking ZFP36 protein in bladder cancer enhances immune cell activation and improves anti-PD-1 immunotherapy effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41950100/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Bladder"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-09"
+      },
+      {
+        "id": "recGG90kIzmCx0ynZ",
+        "title": "STAG2 loss amplifies EWS-FLI1-driven microsatellite enhancer activity promoting Ewing sarcoma aggressiveness.",
+        "summary": "STAG2 loss in Ewing sarcoma reprograms cancer-driving EWS-FLI1 protein to activate more aggressive tumor genes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41950086/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-09"
+      },
+      {
+        "id": "recDKcYSFoEELRp6e",
+        "title": "Selective depletion of virus-specific CD8 T cells from the liver after PD-1 therapy with Fc-intact antibody during chronic infection.",
+        "summary": "PD-1 antibodies with intact Fc regions unexpectedly depleted cancer-fighting CD8 T cells in the liver, reducing therapy effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41950082/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-09"
+      },
+      {
         "id": "rec7bnNK4gbph09kL",
         "title": "Early local immune activation following intra-operative radiotherapy in human breast tissue.",
         "summary": "Intraoperative breast radiation rapidly activates local immune responses, potentially improving combined radiotherapy-immunotherapy effectiveness in breast cancer patients.",
@@ -540,54 +640,14 @@
         "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-08"
-      },
+      }
+    ],
+    "trials": [
       {
-        "id": "recdwVZfHU43vmN0m",
-        "title": "Androgen Receptor-Induced Lactoferrin Accelerates Prostate Tumorigenesis Through Modulating Ferroptosis.",
-        "summary": "Lactoferrin, controlled by androgen receptor, protects prostate cancer cells from iron-induced death, offering a new treatment target.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41945871/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Prostate"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-08"
-      },
-      {
-        "id": "rec6JqVFaOJI3ODQN",
-        "title": "NQO1-Mediated Anoikis Resistance and Immune Evasion Define a High-Risk Multi-Omic Subtype for Precision Management of T1 High-Grade Bladder Cancer.",
-        "summary": "Researchers identified a high-risk bladder cancer subtype driven by NQO1 protein, enabling better treatment selection between surgery and bladder preservation.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41945867/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Bladder"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-08"
-      },
-      {
-        "id": "recbywsFWYKSmI94Y",
-        "title": "Deposition Patterns of Carbon Black Nanoparticles in Pulmonary Lobes and Airway Generations: Implications for Lung Remodeling.",
-        "summary": "Carbon black nanoparticle exposure causes greater lung density and airway thickening in upper lobes, with dose-dependent effects linked to particle deposition patterns.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41945664/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 21,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-08"
-      },
-      {
-        "id": "recoiFJV1mmU1ejXK",
-        "title": "Initial Insights Into an Institutional Secure Large Language Model for Magnetic Resonance Imaging Examination Requests: Retrospective Study.",
-        "summary": "A secure AI tool helped doctors complete MRI scan requests more thoroughly by retrieving patient information from medical records.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41945643/",
+        "id": "recjh6cGAdWUhpvPV",
+        "title": "Telomere damage enhances immunogenicity of neuroblastoma and accelerates response to anti-PD-L1 treatment.",
+        "summary": "Damaging telomeres in neuroblastoma tumors boosts immune response and significantly improves effectiveness of immunotherapy treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41948996/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -595,52 +655,36 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-04-01",
-        "added_date": "2026-04-08"
+        "added_date": "2026-04-09"
       },
       {
-        "id": "recGEPMCt5niEiCxE",
-        "title": "Multifaceted bioactivity of brown seaweed-derived fucoidan from the Indian Coastline: A natural health product candidate.",
-        "summary": "Fucoidan from Indian brown seaweed shows promise as a natural compound with antioxidant, antidiabetic, and breast cancer cell-killing properties.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41945593/",
+        "id": "recuCxnqV0X4VIgN9",
+        "title": "Spatial multiomics profiling reveals ZFP36-mediated immunometabolic reprogramming in bladder cancer.",
+        "summary": "Blocking ZFP36 protein in bladder cancer enhances immune cell activation and improves anti-PD-1 immunotherapy effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41950100/",
         "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
+        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
-          "Breast"
+          "Bladder"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
-        "added_date": "2026-04-08"
+        "added_date": "2026-04-09"
       },
       {
-        "id": "recMDKFtlnbm1aImU",
-        "title": "Retreatment with First-Generation Selective RET Inhibitors in RET-Rearranged NSCLC Pretreated with Selpercatinib or Pralsetinib - Results from the RET-MAP Registry.",
-        "summary": "RET-rearranged lung cancer patients who relapsed after initial RET inhibitor treatment benefited from retreatment with the same drug class.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41945500/",
+        "id": "recDKcYSFoEELRp6e",
+        "title": "Selective depletion of virus-specific CD8 T cells from the liver after PD-1 therapy with Fc-intact antibody during chronic infection.",
+        "summary": "PD-1 antibodies with intact Fc regions unexpectedly depleted cancer-fighting CD8 T cells in the liver, reducing therapy effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41950082/",
         "source": "PubMed",
-        "category": "Clinical Trials",
+        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
-          "Lung"
+          "Liver"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
-        "added_date": "2026-04-08"
+        "added_date": "2026-04-09"
       },
-      {
-        "id": "recUZgVfYosktHC8F",
-        "title": "Venetoclax-Based Regimens in Chronic Myelomonocytic Leukemia: A Systematic Review and Meta-Analysis.",
-        "summary": "Venetoclax combined with chemotherapy shows promise in chronic myelomonocytic leukemia, achieving high response rates but low complete remissions and significant side effects.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41945493/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 32,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-08"
-      }
-    ],
-    "trials": [
       {
         "id": "rec7bnNK4gbph09kL",
         "title": "Early local immune activation following intra-operative radiotherapy in human breast tissue.",
@@ -806,48 +850,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-08"
-      },
-      {
-        "id": "recTBpri0oqPgm2Pu",
-        "title": "A case of multiple type I endocrine neoplasia with gastrin-producing and glucagon-producing tumors successfully resected 18 years after insulinoma surgery.",
-        "summary": "Patient with MEN1 successfully underwent surgery to remove gastrin-producing and glucagon-producing pancreatic tumors 18 years after initial insulinoma resection.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41945253/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-08"
-      },
-      {
-        "id": "recJoj1XZ5rRGWE8i",
-        "title": "The LIFT UP study: feasibility of systematically identifying and addressing resource needs in those with metastatic breast cancer.",
-        "summary": "A study tested whether systematically screening metastatic breast cancer patients for unmet social needs and connecting them to support services is practical and feasible.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41945184/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-08"
-      },
-      {
-        "id": "rec2OWrwAI1qf5arv",
-        "title": "Homologous recombination deficiency tumor tissue testing in a real-world cohort of tubo-ovarian carcinoma patients: validation of decentralized genomic profiling in 4777 cases.",
-        "summary": "Decentralized genetic testing reliably identifies homologous recombination deficiency in tubo-ovarian cancer to guide treatment decisions.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41945131/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Ovarian"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-08"
       }
@@ -1072,10 +1074,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15568,
+    "archive_count": 15569,
     "archive_supplements": 1785,
     "archive_off_label": 587,
-    "archive_biomarkers": 9156,
+    "archive_biomarkers": 9157,
     "archive_trials": 3345,
     "archive_mind_body": 403
   }
