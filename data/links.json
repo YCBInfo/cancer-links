@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T04:11:40.007Z",
+  "last_updated": "2026-04-09T04:11:47.001Z",
   "categories": {
     "supplements": [
       {
@@ -28,6 +28,20 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
+        "added_date": "2026-04-09"
+      },
+      {
+        "id": "recKvWszNaaWt97G2",
+        "title": "Magnoliae flos Overcomes EGFR-TKI Resistance in NSCLC by Enhancing EGFR Ubiquitination.",
+        "summary": "Magnoliae flos overcomes lung cancer resistance to standard drugs by breaking down EGFR proteins through a natural degradation process.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41949384/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
         "added_date": "2026-04-09"
       },
       {
@@ -192,20 +206,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41530048/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-07"
-      },
-      {
-        "id": "recqBTv2Dp2j8uZmf",
-        "title": "Extracellular vesicles derived from senescent hepatocytes drive pan-cancer metastasis in aging.",
-        "summary": "Aging liver cells release particles that promote cancer spread across multiple tumor types; blocking this process reduces metastasis in older mice.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41942570/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
@@ -1077,10 +1077,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15615,
+    "archive_count": 15616,
     "archive_supplements": 1787,
     "archive_off_label": 588,
-    "archive_biomarkers": 9195,
+    "archive_biomarkers": 9196,
     "archive_trials": 3350,
     "archive_mind_body": 403
   }
