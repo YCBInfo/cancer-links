@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T04:08:07.293Z",
+  "last_updated": "2026-04-09T04:08:15.095Z",
   "categories": {
     "supplements": [
       {
@@ -801,6 +801,20 @@
         "added_date": "2026-04-09"
       },
       {
+        "id": "recBFIHJb2yAJRTpC",
+        "title": "Digital and AI-enhanced psychosocial interventions in breast cancer patients: a systematic review and meta-analysis.",
+        "summary": "Digital and AI-based mental health programs help reduce stress and anxiety in breast cancer patients, improving their overall well-being.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41949762/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 24,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-09"
+      },
+      {
         "id": "rec7bnNK4gbph09kL",
         "title": "Early local immune activation following intra-operative radiotherapy in human breast tissue.",
         "summary": "Intraoperative breast radiation rapidly activates local immune responses, potentially improving combined radiotherapy-immunotherapy effectiveness in breast cancer patients.",
@@ -839,20 +853,6 @@
           "Lung"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-08"
-      },
-      {
-        "id": "recUZgVfYosktHC8F",
-        "title": "Venetoclax-Based Regimens in Chronic Myelomonocytic Leukemia: A Systematic Review and Meta-Analysis.",
-        "summary": "Venetoclax combined with chemotherapy shows promise in chronic myelomonocytic leukemia, achieving high response rates but low complete remissions and significant side effects.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41945493/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 32,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-08"
       }
@@ -1077,10 +1077,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15596,
+    "archive_count": 15597,
     "archive_supplements": 1787,
     "archive_off_label": 588,
-    "archive_biomarkers": 9179,
+    "archive_biomarkers": 9180,
     "archive_trials": 3347,
     "archive_mind_body": 403
   }
