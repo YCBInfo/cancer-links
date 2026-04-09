@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T04:20:12.640Z",
+  "last_updated": "2026-04-09T04:20:22.800Z",
   "categories": {
     "supplements": [
       {
@@ -65,6 +65,20 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41948821/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-09"
+      },
+      {
+        "id": "recnJVXnhvxW37e5f",
+        "title": "Pueraria montana var. lobata Root Extract Alleviates Metabolic Dysfunction-Associated Steatotic Liver Disease by Increasing Mitochondrial β-Oxidation and Mitochondrial-Peroxisome Contact.",
+        "summary": "Kudzu plant extract reduces liver fat disease by boosting cellular fat-burning and improving communication between mitochondria and peroxisomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41947488/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "General"
         ],
@@ -196,20 +210,6 @@
           "Colorectal"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-07"
-      },
-      {
-        "id": "reccyARFGP9JmVQMb",
-        "title": "Impact of Lifestyle on the Association between Ambient Air Pollution and Insulin Resistance.",
-        "summary": "Lifestyle factors like exercise and avoiding smoking may reduce air pollution's harmful effects on insulin resistance in adults.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41937568/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-07"
       }
@@ -1077,10 +1077,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15662,
+    "archive_count": 15663,
     "archive_supplements": 1789,
     "archive_off_label": 590,
-    "archive_biomarkers": 9233,
+    "archive_biomarkers": 9234,
     "archive_trials": 3355,
     "archive_mind_body": 403
   }
