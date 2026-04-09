@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T04:03:07.959Z",
+  "last_updated": "2026-04-09T04:03:22.282Z",
   "categories": {
     "supplements": [
       {
@@ -544,6 +544,35 @@
         "added_date": "2026-04-09"
       },
       {
+        "id": "rec2QdCgQJeEJpOre",
+        "title": "CD69 regulates the tissue dynamics of epigenetically imprinted memory CD4+ T cells.",
+        "summary": "CD69 controls whether immune cells stay in lung tissue or recirculate, potentially spreading inflammation to other body areas in chronic diseases.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41950321/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-09"
+      },
+      {
+        "id": "reczxKXbV68vJKr20",
+        "title": "Setidegrasib in Advanced Non-Small-Cell Lung Cancer and Pancreatic Cancer.",
+        "summary": "Setidegrasib, a new drug, directly targets the KRAS G12D mutation in lung and pancreatic cancers, offering the first approved therapy for this common genetic variant.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41879829/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung",
+          "Pancreatic"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-09"
+      },
+      {
         "id": "rec7bnNK4gbph09kL",
         "title": "Early local immune activation following intra-operative radiotherapy in human breast tissue.",
         "summary": "Intraoperative breast radiation rapidly activates local immune responses, potentially improving combined radiotherapy-immunotherapy effectiveness in breast cancer patients.",
@@ -612,34 +641,6 @@
         "quality_score": 10,
         "pub_date": "2026-02-01",
         "added_date": "2026-04-08"
-      },
-      {
-        "id": "recoRKfrinCp2AAtD",
-        "title": "SPARC: A programmable molecular diagnostic platform based on a signal-triggered, self-supplied crRNA and tiered PER-transcription-CRISPR cascade for early detection of hepatocellular carcinoma.",
-        "summary": "Scientists developed SPARC, a new molecular test that accurately detects microRNAs to enable early hepatocellular carcinoma diagnosis with improved sensitivity and specificity.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41730595/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Liver"
-        ],
-        "quality_score": 13,
-        "pub_date": "2026-02-01",
-        "added_date": "2026-04-08"
-      },
-      {
-        "id": "recBEe3v3bVMR7NYN",
-        "title": "Ber-EP4 Expression and Staining Patterns in Cutaneous Basal Cell Carcinoma: A Clinicopathological Study From a Vietnamese Cohort.",
-        "summary": "Ber-EP4 marker shows variable staining patterns in skin basal cell carcinoma, potentially complicating diagnosis despite high sensitivity.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41945926/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-08"
       }
     ],
     "trials": [
@@ -696,6 +697,21 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-09"
+      },
+      {
+        "id": "reczxKXbV68vJKr20",
+        "title": "Setidegrasib in Advanced Non-Small-Cell Lung Cancer and Pancreatic Cancer.",
+        "summary": "Setidegrasib, a new drug, directly targets the KRAS G12D mutation in lung and pancreatic cancers, offering the first approved therapy for this common genetic variant.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41879829/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung",
+          "Pancreatic"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-09"
       },
@@ -836,20 +852,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-08"
-      },
-      {
-        "id": "recxKldP3fUPN7vMW",
-        "title": "EGFR- and HER3-targeted bispecific antibody-drug conjugate demonstrates anti-tumor activity in metastatic castration-resistant prostate cancer.",
-        "summary": "A bispecific antibody-drug conjugate targeting EGFR and HER3 shows promise against metastatic castration-resistant prostate cancer in early testing.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41945392/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Prostate"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-08"
       }
@@ -1074,10 +1076,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15571,
+    "archive_count": 15572,
     "archive_supplements": 1785,
     "archive_off_label": 587,
-    "archive_biomarkers": 9159,
+    "archive_biomarkers": 9160,
     "archive_trials": 3345,
     "archive_mind_body": 403
   }
