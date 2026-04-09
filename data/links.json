@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T04:19:15.864Z",
+  "last_updated": "2026-04-09T04:19:27.968Z",
   "categories": {
     "supplements": [
       {
@@ -287,6 +287,20 @@
         "added_date": "2026-04-09"
       },
       {
+        "id": "rec1Rpenu0CenmV3N",
+        "title": "CSF3R signalling beyond granulopoiesis: new paradigms in female reproductive biology.",
+        "summary": "CSF3R protein signaling promotes ovarian and endometrial cancer growth; blocking this pathway may offer new treatment options.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41950547/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-09"
+      },
+      {
         "id": "reckNmsv2nTL7CpAG",
         "title": "Understanding single stranded DNA gaps: from formation to fate.",
         "summary": "Single-stranded DNA gaps could help predict cancer treatment response and guide personalized therapy strategies by identifying drug resistance mechanisms.",
@@ -413,20 +427,6 @@
         "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-08"
-      },
-      {
-        "id": "recOzC53J6c6w9q7R",
-        "title": "DROP-CARs: Engineering Reversible, Drug-Controlled CAR T Cell Activity with a Clinically Approved Small Molecule.",
-        "summary": "Researchers engineered CAR T cells that can be turned on and off using an approved drug, reducing toxicity to healthy tissue in solid tumors.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41941729/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-07"
       }
     ],
     "biomarkers": [
@@ -1077,10 +1077,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15658,
+    "archive_count": 15659,
     "archive_supplements": 1789,
     "archive_off_label": 590,
-    "archive_biomarkers": 9229,
+    "archive_biomarkers": 9230,
     "archive_trials": 3355,
     "archive_mind_body": 403
   }
