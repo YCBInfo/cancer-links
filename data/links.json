@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T04:20:34.880Z",
+  "last_updated": "2026-04-09T04:20:44.794Z",
   "categories": {
     "supplements": [
       {
@@ -83,6 +83,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-09"
+      },
+      {
+        "id": "reccQjlZE3E8ftBTR",
+        "title": "Molecular Docking and Anticancerous Activity of Zinc Oxide Nanoparticles Synthesized From Fruits of Prunus nepalensis Extract.",
+        "summary": "Zinc oxide nanoparticles from Prunus nepalensis fruit extract effectively killed breast cancer cells by triggering apoptosis and activating tumor-suppressing genes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41947315/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-09"
       },
@@ -195,21 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-07"
-      },
-      {
-        "id": "recP3KFJoUl6bHoDQ",
-        "title": "Curcumin and Its Protein Targets: Literature Review and Systems Biology Analysis.",
-        "summary": "Curcumin targets multiple proteins involved in colorectal, breast, and lung cancers, though most targets lack experimental verification beyond computational predictions.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41940483/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Lung",
-          "Colorectal"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-07"
       }
@@ -1077,11 +1076,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15664,
+    "archive_count": 15665,
     "archive_supplements": 1789,
     "archive_off_label": 590,
     "archive_biomarkers": 9235,
-    "archive_trials": 3355,
+    "archive_trials": 3356,
     "archive_mind_body": 403
   }
 }
