@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T04:06:03.309Z",
+  "last_updated": "2026-04-09T04:06:13.441Z",
   "categories": {
     "supplements": [
       {
@@ -773,6 +773,20 @@
         "added_date": "2026-04-09"
       },
       {
+        "id": "rec7qhZtnRxEFaYbk",
+        "title": "Corticosteroid resistance is predetermined by early immune response dynamics at acute graft-versus-host disease onset.",
+        "summary": "Early immune cell dysfunction involving TNF-α and inflammasome activation predicts steroid resistance in acute graft-versus-host disease before treatment begins.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41950302/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-09"
+      },
+      {
         "id": "rec7bnNK4gbph09kL",
         "title": "Early local immune activation following intra-operative radiotherapy in human breast tissue.",
         "summary": "Intraoperative breast radiation rapidly activates local immune responses, potentially improving combined radiotherapy-immunotherapy effectiveness in breast cancer patients.",
@@ -837,20 +851,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-08"
-      },
-      {
-        "id": "reclHpYtCvprjeixl",
-        "title": "A first-in-human phase 1 clinical trial evaluating clinical activity and proof-of-mechanism of tobemstomig, a PD1-LAG3 bispecific antibody, in patients with CPI-experienced melanoma.",
-        "summary": "A new dual-action antibody drug shows promise in melanoma patients who didn't respond to prior immunotherapy treatments.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41945490/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Melanoma"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -1077,10 +1077,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15586,
+    "archive_count": 15587,
     "archive_supplements": 1787,
     "archive_off_label": 587,
-    "archive_biomarkers": 9171,
+    "archive_biomarkers": 9172,
     "archive_trials": 3346,
     "archive_mind_body": 403
   }
