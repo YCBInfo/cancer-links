@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T04:06:25.388Z",
+  "last_updated": "2026-04-09T04:06:34.287Z",
   "categories": {
     "supplements": [
       {
@@ -787,6 +787,20 @@
         "added_date": "2026-04-09"
       },
       {
+        "id": "recwlEvetjlfMwtRu",
+        "title": "Phase 1/1b study of BCMA-targeting bispecific T-cell engager pavurutamab in relapsed/refractory multiple myeloma.",
+        "summary": "Pavurutamab, a new immunotherapy targeting BCMA, achieved a 66% response rate in treatment-resistant multiple myeloma patients with manageable side effects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41950113/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 18,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-09"
+      },
+      {
         "id": "rec7bnNK4gbph09kL",
         "title": "Early local immune activation following intra-operative radiotherapy in human breast tissue.",
         "summary": "Intraoperative breast radiation rapidly activates local immune responses, potentially improving combined radiotherapy-immunotherapy effectiveness in breast cancer patients.",
@@ -839,20 +853,6 @@
           "Leukemia"
         ],
         "quality_score": 32,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-08"
-      },
-      {
-        "id": "recHmS0hwO2pk3RNr",
-        "title": "ADC target profiling in NSCLC: Generalizable AI separates TROP-2 and cMET phenotypes.",
-        "summary": "AI technology accurately identifies which lung cancer patients would benefit from TROP-2 or cMET-targeting drug treatments.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41945491/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-08"
       }
@@ -1077,10 +1077,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15588,
+    "archive_count": 15589,
     "archive_supplements": 1787,
     "archive_off_label": 587,
-    "archive_biomarkers": 9173,
+    "archive_biomarkers": 9174,
     "archive_trials": 3346,
     "archive_mind_body": 403
   }
