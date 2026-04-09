@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T04:02:57.799Z",
+  "last_updated": "2026-04-09T04:03:07.959Z",
   "categories": {
     "supplements": [
       {
@@ -216,6 +216,20 @@
     ],
     "off_label": [
       {
+        "id": "recgy1OVQ5ryyUrQp",
+        "title": "DJ-1 inhibition reshapes tumor microenvironment and potentiates immune checkpoint inhibitors.",
+        "summary": "Blocking DJ-1 protein reprograms immune cells to enhance cancer immunotherapy effectiveness in resistant patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41950330/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-09"
+      },
+      {
         "id": "reckNmsv2nTL7CpAG",
         "title": "Understanding single stranded DNA gaps: from formation to fate.",
         "summary": "Single-stranded DNA gaps could help predict cancer treatment response and guide personalized therapy strategies by identifying drug resistance mechanisms.",
@@ -412,20 +426,6 @@
         "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-07"
-      },
-      {
-        "id": "recqBTv2Dp2j8uZmf",
-        "title": "Extracellular vesicles derived from senescent hepatocytes drive pan-cancer metastasis in aging.",
-        "summary": "Aging liver cells release particles that promote cancer spread across multiple tumor types; blocking this process reduces metastasis in older mice.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41942570/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-07"
       }
     ],
     "biomarkers": [
@@ -530,6 +530,20 @@
         "added_date": "2026-04-09"
       },
       {
+        "id": "recgy1OVQ5ryyUrQp",
+        "title": "DJ-1 inhibition reshapes tumor microenvironment and potentiates immune checkpoint inhibitors.",
+        "summary": "Blocking DJ-1 protein reprograms immune cells to enhance cancer immunotherapy effectiveness in resistant patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41950330/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-09"
+      },
+      {
         "id": "rec7bnNK4gbph09kL",
         "title": "Early local immune activation following intra-operative radiotherapy in human breast tissue.",
         "summary": "Intraoperative breast radiation rapidly activates local immune responses, potentially improving combined radiotherapy-immunotherapy effectiveness in breast cancer patients.",
@@ -626,20 +640,6 @@
         "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-08"
-      },
-      {
-        "id": "recb92Ba51ymHU3Zu",
-        "title": "Multimodal Multiorgan-on-a-Chip Platform for Probing Liver-Tumor Interactions and Advancing Prodrug Screening.",
-        "summary": "Researchers developed a microchip platform that mimics liver-tumor interactions to better test cancer prodrugs like capecitabine and tamoxifen.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41945883/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-08"
       }
     ],
     "trials": [
@@ -682,6 +682,20 @@
           "Liver"
         ],
         "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-09"
+      },
+      {
+        "id": "recgy1OVQ5ryyUrQp",
+        "title": "DJ-1 inhibition reshapes tumor microenvironment and potentiates immune checkpoint inhibitors.",
+        "summary": "Blocking DJ-1 protein reprograms immune cells to enhance cancer immunotherapy effectiveness in resistant patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41950330/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-09"
       },
@@ -836,20 +850,6 @@
           "Prostate"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-08"
-      },
-      {
-        "id": "recEPsLOU3ffv3sDP",
-        "title": "Chinese expert consensus on magnetic resonance-guided focused ultrasound surgery for painful bone metastases.",
-        "summary": "Magnetic resonance-guided ultrasound surgery effectively treats painful bone metastases by destroying nerve endings and tumors with minimal side effects.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41945277/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-08"
       }
@@ -1074,10 +1074,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15570,
+    "archive_count": 15571,
     "archive_supplements": 1785,
     "archive_off_label": 587,
-    "archive_biomarkers": 9158,
+    "archive_biomarkers": 9159,
     "archive_trials": 3345,
     "archive_mind_body": 403
   }
