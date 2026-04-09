@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T06:03:24.287Z",
+  "last_updated": "2026-04-09T06:03:45.213Z",
   "categories": {
     "supplements": [
       {
@@ -329,6 +329,20 @@
         "added_date": "2026-04-09"
       },
       {
+        "id": "rec9R0ugI8ufh3nz2",
+        "title": "ARID1A deficiency-driven reprogramming of polyamine metabolism promotes endometrial cancer malignancy and immune escape.",
+        "summary": "ARID1A loss drives endometrial cancer growth and immune escape by increasing polyamines, which can be targeted with polyamine-blocking drugs.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41951577/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-09"
+      },
+      {
         "id": "reckNmsv2nTL7CpAG",
         "title": "Understanding single stranded DNA gaps: from formation to fate.",
         "summary": "Single-stranded DNA gaps could help predict cancer treatment response and guide personalized therapy strategies by identifying drug resistance mechanisms.",
@@ -412,20 +426,6 @@
         ],
         "quality_score": 13,
         "pub_date": "2026-04-07",
-        "added_date": "2026-04-08"
-      },
-      {
-        "id": "recXkBcKoQDinm6GC",
-        "title": "Montelukast attenuates diclofenac sodium-induced cardiotoxicity in male rats via targeting Wnt/β-catenin pathway.",
-        "summary": "Montelukast protects rat hearts from diclofenac-induced damage by blocking the Wnt/β-catenin pathway, reducing inflammation and cell death.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41946776/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
         "added_date": "2026-04-08"
       }
     ],
@@ -1077,10 +1077,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15710,
+    "archive_count": 15711,
     "archive_supplements": 1794,
     "archive_off_label": 591,
-    "archive_biomarkers": 9270,
+    "archive_biomarkers": 9271,
     "archive_trials": 3357,
     "archive_mind_body": 406
   }
