@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T04:12:37.860Z",
+  "last_updated": "2026-04-09T04:12:39.255Z",
   "categories": {
     "supplements": [
       {
@@ -39,6 +39,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-09"
+      },
+      {
+        "id": "recQRKmGK3no8pGwO",
+        "title": "Mechanisms of Antibreast Cancer Activity of Terpenoids from the Fruiting Body of Antrodia cinnamomea in Cellular and Mice Models.",
+        "summary": "Terpenoids from medicinal fungus Antrodia cinnamomea effectively killed drug-resistant triple-negative breast cancer cells by triggering cell death pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41949162/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -197,20 +211,6 @@
         ],
         "quality_score": 10,
         "pub_date": "2026-02-01",
-        "added_date": "2026-04-07"
-      },
-      {
-        "id": "rec8ttGpV0UVnhDyJ",
-        "title": "Panax ginseng-derived Exosome-like Nanoparticles Prevent LPS-induced Septic Shock by Modulating TLR4 Glycosylation in Macrophages.",
-        "summary": "Ginseng nanoparticles reduce septic shock in mice by decreasing inflammatory responses in immune cells through modified protein structures.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41530048/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
         "added_date": "2026-04-07"
       }
     ],
@@ -1077,10 +1077,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15620,
+    "archive_count": 15621,
     "archive_supplements": 1787,
     "archive_off_label": 588,
-    "archive_biomarkers": 9199,
+    "archive_biomarkers": 9200,
     "archive_trials": 3351,
     "archive_mind_body": 403
   }
