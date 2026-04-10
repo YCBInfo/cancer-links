@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T04:03:16.631Z",
+  "last_updated": "2026-04-10T04:03:27.021Z",
   "categories": {
     "supplements": [
       {
@@ -556,6 +556,20 @@
         "added_date": "2026-04-10"
       },
       {
+        "id": "rec9Txj5h76PCSEDf",
+        "title": "Peptide-based vaccines: insights in a relationship between the explored administration routes and delivery systems.",
+        "summary": "Peptide-based cancer vaccines work better when delivery systems are matched to administration routes, improving immune response and stability.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41819382/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-10"
+      },
+      {
         "id": "recjh6cGAdWUhpvPV",
         "title": "Telomere damage enhances immunogenicity of neuroblastoma and accelerates response to anti-PD-L1 treatment.",
         "summary": "Damaging telomeres in neuroblastoma tumors boosts immune response and significantly improves effectiveness of immunotherapy treatment.",
@@ -626,20 +640,6 @@
         "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-09"
-      },
-      {
-        "id": "recGG90kIzmCx0ynZ",
-        "title": "STAG2 loss amplifies EWS-FLI1-driven microsatellite enhancer activity promoting Ewing sarcoma aggressiveness.",
-        "summary": "STAG2 loss in Ewing sarcoma reprograms cancer-driving EWS-FLI1 protein to activate more aggressive tumor genes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41950086/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-09"
       }
     ],
     "trials": [
@@ -669,6 +669,20 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-04-01",
+        "added_date": "2026-04-10"
+      },
+      {
+        "id": "rec9Txj5h76PCSEDf",
+        "title": "Peptide-based vaccines: insights in a relationship between the explored administration routes and delivery systems.",
+        "summary": "Peptide-based cancer vaccines work better when delivery systems are matched to administration routes, improving immune response and stability.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41819382/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
         "added_date": "2026-04-10"
       },
       {
@@ -837,20 +851,6 @@
           "Breast"
         ],
         "quality_score": 24,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-09"
-      },
-      {
-        "id": "recpu7QpQOfIZv8pn",
-        "title": "Clinical significance of circulatory microRNA-183_5p and 3651 in serum as novel potential diagnostic marker for gallbladder cancer.",
-        "summary": "Two blood-based molecules (miR-183_5p and miR-3651) show promise as non-invasive diagnostic markers for gallbladder cancer detection.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41949739/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Bladder"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-09"
       }
@@ -1075,10 +1075,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15783,
+    "archive_count": 15784,
     "archive_supplements": 1806,
     "archive_off_label": 592,
-    "archive_biomarkers": 9305,
+    "archive_biomarkers": 9306,
     "archive_trials": 3382,
     "archive_mind_body": 406
   }
