@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T09:05:22.412Z",
+  "last_updated": "2026-04-10T09:05:34.356Z",
   "categories": {
     "supplements": [
       {
@@ -271,6 +271,20 @@
         "added_date": "2026-04-10"
       },
       {
+        "id": "recnb1AhgkPsp8eyl",
+        "title": "Antidiabetic drug effects on gastrointestinal health: convergent evidence from a longitudinal cohort and Mendelian randomization study.",
+        "summary": "A diabetes drug shows potential protective effects on gastrointestinal health based on combined evidence from patient studies and genetic analysis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41951048/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-10"
+      },
+      {
         "id": "recgy1OVQ5ryyUrQp",
         "title": "DJ-1 inhibition reshapes tumor microenvironment and potentiates immune checkpoint inhibitors.",
         "summary": "Blocking DJ-1 protein reprograms immune cells to enhance cancer immunotherapy effectiveness in resistant patients.",
@@ -408,21 +422,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-09"
-      },
-      {
-        "id": "rec9QWKn8xgfRqtSN",
-        "title": "SLC28A1 inhibits clear cell renal cell carcinoma progression by affecting arachidonic acid metabolism: A novel nucleoside transporter-based targeted therapy strategy.",
-        "summary": "SLC28A1 protein inhibits kidney cancer growth by affecting fat metabolism, offering a new targeted therapy approach using nanoparticles.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41946263/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal",
-          "Kidney"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-09"
       }
@@ -1071,11 +1070,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15983,
+    "archive_count": 15984,
     "archive_supplements": 1812,
     "archive_off_label": 593,
     "archive_biomarkers": 9456,
-    "archive_trials": 3423,
+    "archive_trials": 3424,
     "archive_mind_body": 407
   }
 }
