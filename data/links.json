@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T04:08:52.338Z",
+  "last_updated": "2026-04-10T04:09:03.506Z",
   "categories": {
     "supplements": [
       {
@@ -41,6 +41,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-10"
+      },
+      {
+        "id": "recCsU0F0zp99rFFD",
+        "title": "Medicarpin suppresses thyroid cancer progression by inhibiting the AKT/NF-κB pathway and enhancing CD8+ T cell-mediated antitumor immunity.",
+        "summary": "Medicarpin, a plant compound, slows thyroid cancer growth by blocking a key survival pathway and boosting immune cell attacks on tumors.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41955452/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Thyroid"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-10"
       },
@@ -196,20 +210,6 @@
           "Melanoma"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-09"
-      },
-      {
-        "id": "rec61tgcpof0Ez01M",
-        "title": "Diallyl disulfide reduces oxidative stress to mitigate uranium tailings radiation-induced damage to the hematopoietic system.",
-        "summary": "Diallyl disulfide, a garlic compound, protects blood cells from radiation damage by reducing harmful oxidative stress.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41949613/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-09"
       }
@@ -1072,10 +1072,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15812,
+    "archive_count": 15813,
     "archive_supplements": 1807,
     "archive_off_label": 592,
-    "archive_biomarkers": 9331,
+    "archive_biomarkers": 9332,
     "archive_trials": 3384,
     "archive_mind_body": 406
   }
