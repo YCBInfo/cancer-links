@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T09:06:09.930Z",
+  "last_updated": "2026-04-10T09:06:25.738Z",
   "categories": {
     "supplements": [
       {
@@ -299,6 +299,20 @@
         "added_date": "2026-04-10"
       },
       {
+        "id": "rec8BsHx7O9Zx8AC0",
+        "title": "Recent advances in drug repurposing for dentin repair.",
+        "summary": "Researchers explore repurposing tideglusib and metformin drugs to improve dentin repair following pulp exposure.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41950552/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-10"
+      },
+      {
         "id": "recgy1OVQ5ryyUrQp",
         "title": "DJ-1 inhibition reshapes tumor microenvironment and potentiates immune checkpoint inhibitors.",
         "summary": "Blocking DJ-1 protein reprograms immune cells to enhance cancer immunotherapy effectiveness in resistant patients.",
@@ -408,20 +422,6 @@
           "Breast"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-09"
-      },
-      {
-        "id": "rec9R0ugI8ufh3nz2",
-        "title": "ARID1A deficiency-driven reprogramming of polyamine metabolism promotes endometrial cancer malignancy and immune escape.",
-        "summary": "ARID1A loss drives endometrial cancer growth and immune escape by increasing polyamines, which can be targeted with polyamine-blocking drugs.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41951577/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-09"
       }
@@ -1070,10 +1070,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15987,
+    "archive_count": 15988,
     "archive_supplements": 1813,
     "archive_off_label": 593,
-    "archive_biomarkers": 9456,
+    "archive_biomarkers": 9457,
     "archive_trials": 3426,
     "archive_mind_body": 407
   }
