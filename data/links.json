@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T04:03:27.021Z",
+  "last_updated": "2026-04-10T04:03:39.088Z",
   "categories": {
     "supplements": [
       {
@@ -570,6 +570,20 @@
         "added_date": "2026-04-10"
       },
       {
+        "id": "recq4bbsKIpv5qWsE",
+        "title": "Systematic evaluation and hepatic targeting of a dual-fluorescence icaritin microemulsion: elucidating the protein corona-mediated delivery mechanism.",
+        "summary": "Researchers developed a dual-fluorescence tracking system for icaritin nanoparticles that targets hepatocellular carcinoma through protein-mediated delivery mechanisms.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41794346/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-10"
+      },
+      {
         "id": "recjh6cGAdWUhpvPV",
         "title": "Telomere damage enhances immunogenicity of neuroblastoma and accelerates response to anti-PD-L1 treatment.",
         "summary": "Damaging telomeres in neuroblastoma tumors boosts immune response and significantly improves effectiveness of immunotherapy treatment.",
@@ -622,20 +636,6 @@
           "Pancreatic",
           "Liver",
           "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-09"
-      },
-      {
-        "id": "recuCxnqV0X4VIgN9",
-        "title": "Spatial multiomics profiling reveals ZFP36-mediated immunometabolic reprogramming in bladder cancer.",
-        "summary": "Blocking ZFP36 protein in bladder cancer enhances immune cell activation and improves anti-PD-1 immunotherapy effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41950100/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Bladder"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -1075,10 +1075,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15784,
+    "archive_count": 15785,
     "archive_supplements": 1806,
     "archive_off_label": 592,
-    "archive_biomarkers": 9306,
+    "archive_biomarkers": 9307,
     "archive_trials": 3382,
     "archive_mind_body": 406
   }
