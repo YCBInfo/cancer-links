@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-04-09T11:21:43.264Z",
+  "last_updated": "2026-04-10T04:02:55.742Z",
   "categories": {
     "supplements": [
+      {
+        "id": "rec5fP6XJhi9cxdfr",
+        "title": "20(S)-Ginsenoside Rg3 suppresses lung cancer-associated fibroblast activation associated with IL-17RD-FGF-MAP2K4-JNK signaling.",
+        "summary": "A plant compound called Ginsenoside Rg3 stops lung cancer-supporting fibroblasts from activating, offering new treatment potential.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41953106/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-10"
+      },
       {
         "id": "recW2yDB6vvrY2WhT",
         "title": "Physicochemical characterization and anticancer potential of Ficus deltoidea-silver nanoparticles (FD-AgNPs) on HeLa cells: Evidence from apoptosis and proliferation assays.",
@@ -190,20 +204,6 @@
         "title": "A Comprehensive Review on Necroptosis Inducing Phytochemicals for Cancer Therapy: Preclinical Evidence.",
         "summary": "Plant-derived compounds trigger necroptosis, an alternative cell-death pathway, to overcome cancer cells' resistance to standard apoptosis treatments.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41947409/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-09"
-      },
-      {
-        "id": "recILnOnqllD8arPQ",
-        "title": "Pharmacological Effects of Humic Substances and the Signaling Mechanisms of Their Implementation.",
-        "summary": "Humic substances, natural compounds from peat and other sources, show promise for treating cancer, diabetes, infections, and heart disease through multiple biological mechanisms.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41944950/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -430,6 +430,104 @@
     ],
     "biomarkers": [
       {
+        "id": "rec5fP6XJhi9cxdfr",
+        "title": "20(S)-Ginsenoside Rg3 suppresses lung cancer-associated fibroblast activation associated with IL-17RD-FGF-MAP2K4-JNK signaling.",
+        "summary": "A plant compound called Ginsenoside Rg3 stops lung cancer-supporting fibroblasts from activating, offering new treatment potential.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41953106/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-10"
+      },
+      {
+        "id": "recwlval81baLfuLC",
+        "title": "A tale of dual role: HECT‑type E3 ubiquitin ligase mechanisms in liver diseases (Review).",
+        "summary": "HECT-type E3 enzymes play dual roles in liver cancer and diseases, both promoting and suppressing tumor growth depending on cellular context and signaling pathways involved.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41952501/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-10"
+      },
+      {
+        "id": "recfHIjVDd0LEWruN",
+        "title": "NF‑κB‑driven LUZP1 promotes metastasis and chemoresistance in head and neck squamous cell carcinoma.",
+        "summary": "LUZP1 protein drives metastasis and chemoresistance in head and neck cancer through NF-κB signaling, offering a new treatment target.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41952496/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-10"
+      },
+      {
+        "id": "recb5h92BGy6JkX8F",
+        "title": "RRP9 suppresses hepatocellular carcinoma progression by inhibiting the PI3K/AKT/mTOR pathway.",
+        "summary": "RRP9 protein suppresses hepatocellular carcinoma by blocking the PI3K/AKT/mTOR growth pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41952494/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-10"
+      },
+      {
+        "id": "rec8J1hzYzKAfLONK",
+        "title": "Hypoxic CAF studies unveil PTHrP‑vitamin D‑RAS axis as pivotal in the CAF.",
+        "summary": "Researchers identified the PTHrP-vitamin D-RAS axis as a key regulator of cancer-supporting cells in colorectal cancer under low-oxygen conditions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41952490/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-10"
+      },
+      {
+        "id": "recMRHKhfk5xzIZ6B",
+        "title": "[Incidental findings from cell-free fetal DNA-based non-invasive prenatal testing: Research progress on maternal tumors].",
+        "summary": "Prenatal DNA screening can unexpectedly detect maternal cancers through abnormal chromosome patterns, offering new health monitoring opportunities.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41918387/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-10"
+      },
+      {
+        "id": "recmOIt7xRRP9Vry6",
+        "title": "[Analysis of ten cases of Acute lymphoblastic leukemia with non-KMT2A::AFF1 transcriptional variant 11q23 rearrangements].",
+        "summary": "Researchers analyzed acute lymphoblastic leukemia cases with unusual 11q23 genetic rearrangements to better understand their clinical features.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41918382/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-10"
+      },
+      {
         "id": "recjh6cGAdWUhpvPV",
         "title": "Telomere damage enhances immunogenicity of neuroblastoma and accelerates response to anti-PD-L1 treatment.",
         "summary": "Damaging telomeres in neuroblastoma tumors boosts immune response and significantly improves effectiveness of immunotherapy treatment.",
@@ -542,108 +640,23 @@
         "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-09"
-      },
-      {
-        "id": "rec2QdCgQJeEJpOre",
-        "title": "CD69 regulates the tissue dynamics of epigenetically imprinted memory CD4+ T cells.",
-        "summary": "CD69 controls whether immune cells stay in lung tissue or recirculate, potentially spreading inflammation to other body areas in chronic diseases.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41950321/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-09"
-      },
-      {
-        "id": "reczxKXbV68vJKr20",
-        "title": "Setidegrasib in Advanced Non-Small-Cell Lung Cancer and Pancreatic Cancer.",
-        "summary": "Setidegrasib, a new drug, directly targets the KRAS G12D mutation in lung and pancreatic cancers, offering the first approved therapy for this common genetic variant.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41879829/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung",
-          "Pancreatic"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-09"
-      },
-      {
-        "id": "recW2yDB6vvrY2WhT",
-        "title": "Physicochemical characterization and anticancer potential of Ficus deltoidea-silver nanoparticles (FD-AgNPs) on HeLa cells: Evidence from apoptosis and proliferation assays.",
-        "summary": "Silver nanoparticles made from Ficus deltoidea plant extract killed cervical cancer cells by triggering apoptosis and stopping cell growth.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41713200/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-09"
-      },
-      {
-        "id": "recplEaHzDczv2xM3",
-        "title": "Interpretable prognostic modeling of glioblastoma using cross-cohort transcriptome integration and machine learning approaches.",
-        "summary": "Researchers developed a 22-gene signature that accurately predicts glioblastoma survival and identifies immune profiles to guide personalized treatment decisions.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41713199/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-09"
-      },
-      {
-        "id": "recMf7vi6nkdFD3hd",
-        "title": "Atractylon induces autophagy-dependent apoptosis in hepatocellular carcinoma cells via inhibition of the PI3K/AKT/mTOR pathway.",
-        "summary": "Atractylon kills liver cancer cells by triggering autophagy and cell death through blocking a key growth pathway.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41713198/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-09"
-      },
-      {
-        "id": "recdczFhH3uFyALU6",
-        "title": "Protein phosphatase 6 protects hepatocytes from endoplasmic reticulum and oxidative stress by suppressing Akt/mTOR signaling.",
-        "summary": "PP6 protein protects liver cells by controlling stress pathways; its loss causes liver damage through excessive Akt/mTOR activation.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41707380/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-09"
-      },
-      {
-        "id": "recCCluv68moLeoTi",
-        "title": "Mapping metastatic potential through cytoskeletal remodeling: A mechanobiology-based multi-cancer analysis.",
-        "summary": "Researchers identified five genes controlling cell structure that predict cancer metastasis potential across breast, pancreatic, and brain tumors.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41707378/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-09"
       }
     ],
     "trials": [
+      {
+        "id": "recmOIt7xRRP9Vry6",
+        "title": "[Analysis of ten cases of Acute lymphoblastic leukemia with non-KMT2A::AFF1 transcriptional variant 11q23 rearrangements].",
+        "summary": "Researchers analyzed acute lymphoblastic leukemia cases with unusual 11q23 genetic rearrangements to better understand their clinical features.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41918382/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-10"
+      },
       {
         "id": "recjh6cGAdWUhpvPV",
         "title": "Telomere damage enhances immunogenicity of neuroblastoma and accelerates response to anti-PD-L1 treatment.",
@@ -838,20 +851,6 @@
           "Breast"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-09"
-      },
-      {
-        "id": "recct2wRW3YJb3yHu",
-        "title": "Transitioning to adolescent and young adult or adult cancer survivorship care: A systematic review of contemporary guidelines and trials.",
-        "summary": "Cancer survivors transitioning from pediatric to adult care face fragmented services; studies show coordinated transition programs improve outcomes and satisfaction.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41949619/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-09"
       }
@@ -1076,8 +1075,8 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15780,
-    "archive_supplements": 1805,
+    "archive_count": 15781,
+    "archive_supplements": 1806,
     "archive_off_label": 592,
     "archive_biomarkers": 9303,
     "archive_trials": 3382,
