@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T04:05:49.374Z",
+  "last_updated": "2026-04-10T04:05:58.864Z",
   "categories": {
     "supplements": [
       {
@@ -216,6 +216,20 @@
     ],
     "off_label": [
       {
+        "id": "rec4kXk4KHc8DYudc",
+        "title": "Liver cancer-derived exosomal PTK6 induces the secretion of pulmonary CHI3L1 to facilitate lung metastatic niche formation.",
+        "summary": "Liver cancer cells send signals that trigger lung cells to produce a protein enabling lung metastasis; blocking this protein reduces cancer spread.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41672224/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-10"
+      },
+      {
         "id": "recgy1OVQ5ryyUrQp",
         "title": "DJ-1 inhibition reshapes tumor microenvironment and potentiates immune checkpoint inhibitors.",
         "summary": "Blocking DJ-1 protein reprograms immune cells to enhance cancer immunotherapy effectiveness in resistant patients.",
@@ -408,20 +422,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Prostate"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-08"
-      },
-      {
-        "id": "rec6JqVFaOJI3ODQN",
-        "title": "NQO1-Mediated Anoikis Resistance and Immune Evasion Define a High-Risk Multi-Omic Subtype for Precision Management of T1 High-Grade Bladder Cancer.",
-        "summary": "Researchers identified a high-risk bladder cancer subtype driven by NQO1 protein, enabling better treatment selection between surgery and bladder preservation.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41945867/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Bladder"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -1073,10 +1073,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15795,
+    "archive_count": 15796,
     "archive_supplements": 1807,
     "archive_off_label": 592,
-    "archive_biomarkers": 9314,
+    "archive_biomarkers": 9315,
     "archive_trials": 3384,
     "archive_mind_body": 406
   }
