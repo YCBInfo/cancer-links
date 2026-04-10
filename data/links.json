@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T15:17:11.922Z",
+  "last_updated": "2026-04-10T15:17:23.741Z",
   "categories": {
     "supplements": [
       {
@@ -327,6 +327,20 @@
         "added_date": "2026-04-10"
       },
       {
+        "id": "recxQB4ILicAeuBiF",
+        "title": "Synergistic induction of ferroptosis by paclitaxel and sunitinib is mediated through SLC7A11 in lung cancer.",
+        "summary": "Two drugs combined trigger iron-dependent lung cancer cell death by targeting a protein called SLC7A11.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41955701/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-10"
+      },
+      {
         "id": "recgy1OVQ5ryyUrQp",
         "title": "DJ-1 inhibition reshapes tumor microenvironment and potentiates immune checkpoint inhibitors.",
         "summary": "Blocking DJ-1 protein reprograms immune cells to enhance cancer immunotherapy effectiveness in resistant patients.",
@@ -408,20 +422,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-09"
-      },
-      {
-        "id": "recxCAqY7afyAD5V5",
-        "title": "Ponatinib inhibits LCK and PI3K signaling and promotes CD8+ T stem cell memory cell development.",
-        "summary": "Ponatinib promotes CD8+ T stem cell memory development, enhancing cancer-fighting immune cells for improved tumor control.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41946709/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-09"
       }
@@ -1070,11 +1070,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16031,
+    "archive_count": 16032,
     "archive_supplements": 1821,
     "archive_off_label": 596,
     "archive_biomarkers": 9482,
-    "archive_trials": 3432,
+    "archive_trials": 3433,
     "archive_mind_body": 408
   }
 }
