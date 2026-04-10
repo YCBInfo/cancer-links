@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T04:04:44.020Z",
+  "last_updated": "2026-04-10T04:04:54.963Z",
   "categories": {
     "supplements": [
       {
@@ -626,18 +626,18 @@
         "added_date": "2026-04-10"
       },
       {
-        "id": "recjh6cGAdWUhpvPV",
-        "title": "Telomere damage enhances immunogenicity of neuroblastoma and accelerates response to anti-PD-L1 treatment.",
-        "summary": "Damaging telomeres in neuroblastoma tumors boosts immune response and significantly improves effectiveness of immunotherapy treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41948996/",
+        "id": "recpBPTkzZO7gctxY",
+        "title": "Protein corona-guided delivery of dextran-PLGA NPs for enhanced dendritic cell uptake, maturation and improved cancer immunotherapy.",
+        "summary": "Dextran-coated nanoparticles delivering a STING activator enhanced immune cell uptake and suppressed melanoma growth in mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41702510/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
-          "General"
+          "Melanoma"
         ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-09"
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-10"
       }
     ],
     "trials": [
@@ -740,6 +740,20 @@
         "added_date": "2026-04-10"
       },
       {
+        "id": "recpBPTkzZO7gctxY",
+        "title": "Protein corona-guided delivery of dextran-PLGA NPs for enhanced dendritic cell uptake, maturation and improved cancer immunotherapy.",
+        "summary": "Dextran-coated nanoparticles delivering a STING activator enhanced immune cell uptake and suppressed melanoma growth in mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41702510/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Melanoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-10"
+      },
+      {
         "id": "recjh6cGAdWUhpvPV",
         "title": "Telomere damage enhances immunogenicity of neuroblastoma and accelerates response to anti-PD-L1 treatment.",
         "summary": "Damaging telomeres in neuroblastoma tumors boosts immune response and significantly improves effectiveness of immunotherapy treatment.",
@@ -833,20 +847,6 @@
         "category": "Clinical Trials",
         "cancer_types": [
           "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-09"
-      },
-      {
-        "id": "recWYsAabxm90wxUb",
-        "title": "Castration Resistance Accelerates Prostate Cancer Kinetics.",
-        "summary": "Prostate cancer grows faster after developing resistance to castration therapy, according to a study measuring tumor progression rates.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41950373/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Prostate"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -1073,10 +1073,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15790,
+    "archive_count": 15791,
     "archive_supplements": 1807,
     "archive_off_label": 592,
-    "archive_biomarkers": 9311,
+    "archive_biomarkers": 9312,
     "archive_trials": 3382,
     "archive_mind_body": 406
   }
