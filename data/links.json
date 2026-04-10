@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T04:06:43.522Z",
+  "last_updated": "2026-04-10T04:06:54.049Z",
   "categories": {
     "supplements": [
       {
@@ -782,6 +782,20 @@
         "added_date": "2026-04-10"
       },
       {
+        "id": "recQWoTESEdiaQbcv",
+        "title": "Tumor cell derived CCL20 exacerbates the immunosuppressive microenvironment by recruiting CCR6+ Tregs in pancreatic cancer.",
+        "summary": "Pancreatic cancer tumors produce CCL20, which recruits immune-suppressing cells, and blocking this pathway enhances immunotherapy effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41643988/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Pancreatic"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-10"
+      },
+      {
         "id": "recjh6cGAdWUhpvPV",
         "title": "Telomere damage enhances immunogenicity of neuroblastoma and accelerates response to anti-PD-L1 treatment.",
         "summary": "Damaging telomeres in neuroblastoma tumors boosts immune response and significantly improves effectiveness of immunotherapy treatment.",
@@ -834,21 +848,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-09"
-      },
-      {
-        "id": "reczxKXbV68vJKr20",
-        "title": "Setidegrasib in Advanced Non-Small-Cell Lung Cancer and Pancreatic Cancer.",
-        "summary": "Setidegrasib, a new drug, directly targets the KRAS G12D mutation in lung and pancreatic cancers, offering the first approved therapy for this common genetic variant.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41879829/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung",
-          "Pancreatic"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-09"
       }
@@ -1073,10 +1072,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15800,
+    "archive_count": 15801,
     "archive_supplements": 1807,
     "archive_off_label": 592,
-    "archive_biomarkers": 9319,
+    "archive_biomarkers": 9320,
     "archive_trials": 3384,
     "archive_mind_body": 406
   }
