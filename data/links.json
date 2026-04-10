@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T04:04:00.566Z",
+  "last_updated": "2026-04-10T04:04:11.574Z",
   "categories": {
     "supplements": [
       {
@@ -700,6 +700,20 @@
         "added_date": "2026-04-10"
       },
       {
+        "id": "recxAEoXQJAq4YIxj",
+        "title": "Transarterial Chemoembolization Combined With Camrelizumab and Rivoceranib for Unresectable Hepatocellular Carcinoma (CHANCE2005/CARES-005): A Randomized Phase II Trial.",
+        "summary": "Combining chemotherapy with two immunotherapy drugs improved outcomes better than chemotherapy alone for unresectable liver cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41734362/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 21,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-10"
+      },
+      {
         "id": "recjh6cGAdWUhpvPV",
         "title": "Telomere damage enhances immunogenicity of neuroblastoma and accelerates response to anti-PD-L1 treatment.",
         "summary": "Damaging telomeres in neuroblastoma tumors boosts immune response and significantly improves effectiveness of immunotherapy treatment.",
@@ -837,20 +851,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-09"
-      },
-      {
-        "id": "recwlEvetjlfMwtRu",
-        "title": "Phase 1/1b study of BCMA-targeting bispecific T-cell engager pavurutamab in relapsed/refractory multiple myeloma.",
-        "summary": "Pavurutamab, a new immunotherapy targeting BCMA, achieved a 66% response rate in treatment-resistant multiple myeloma patients with manageable side effects.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41950113/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 18,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-09"
       }
@@ -1075,10 +1075,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15786,
+    "archive_count": 15787,
     "archive_supplements": 1806,
     "archive_off_label": 592,
-    "archive_biomarkers": 9308,
+    "archive_biomarkers": 9309,
     "archive_trials": 3382,
     "archive_mind_body": 406
   }
