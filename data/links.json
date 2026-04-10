@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T04:06:54.049Z",
+  "last_updated": "2026-04-10T04:07:05.254Z",
   "categories": {
     "supplements": [
       {
@@ -796,6 +796,20 @@
         "added_date": "2026-04-10"
       },
       {
+        "id": "recJbigDidrHF41Fc",
+        "title": "Large and low-PEG lipid nanoparticles enable efficient dendritic cell targeting for potent mRNA Cancer vaccines.",
+        "summary": "Larger lipid nanoparticles with less PEG coating deliver mRNA more effectively to immune cells, creating more potent cancer vaccines.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41638492/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-10"
+      },
+      {
         "id": "recjh6cGAdWUhpvPV",
         "title": "Telomere damage enhances immunogenicity of neuroblastoma and accelerates response to anti-PD-L1 treatment.",
         "summary": "Damaging telomeres in neuroblastoma tumors boosts immune response and significantly improves effectiveness of immunotherapy treatment.",
@@ -834,20 +848,6 @@
           "Liver"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-09"
-      },
-      {
-        "id": "recgy1OVQ5ryyUrQp",
-        "title": "DJ-1 inhibition reshapes tumor microenvironment and potentiates immune checkpoint inhibitors.",
-        "summary": "Blocking DJ-1 protein reprograms immune cells to enhance cancer immunotherapy effectiveness in resistant patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41950330/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-09"
       }
@@ -1072,10 +1072,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15801,
+    "archive_count": 15802,
     "archive_supplements": 1807,
     "archive_off_label": 592,
-    "archive_biomarkers": 9320,
+    "archive_biomarkers": 9321,
     "archive_trials": 3384,
     "archive_mind_body": 406
   }
