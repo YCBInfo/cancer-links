@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T04:14:48.420Z",
+  "last_updated": "2026-04-10T04:14:59.967Z",
   "categories": {
     "supplements": [
       {
@@ -854,6 +854,20 @@
     ],
     "mind_body": [
       {
+        "id": "reclf8jpXoO5y3dOE",
+        "title": "Beyond tumor biology: nursing interventions for psychological and immune health in cancer patients.",
+        "summary": "Nursing interventions combining therapy, mindfulness, and lifestyle support improve psychological well-being and immune function in cancer patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41954620/",
+        "source": "PubMed",
+        "category": "Mind-Body & Spirituality",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-10"
+      },
+      {
         "id": "recBFIHJb2yAJRTpC",
         "title": "Digital and AI-enhanced psychosocial interventions in breast cancer patients: a systematic review and meta-analysis.",
         "summary": "Digital and AI-based mental health programs help reduce stress and anxiety in breast cancer patients, improving their overall well-being.",
@@ -1048,20 +1062,6 @@
         "quality_score": 13,
         "pub_date": "2026-02-01",
         "added_date": "2026-04-06"
-      },
-      {
-        "id": "recxE5eQ7ptbZ8Um0",
-        "title": "Effectiveness of mindfulness-based stress reduction in managing fatigue, anxiety, and depression among non-small cell lung cancer patients receiving surgery and adjuvant chemotherapy: A randomized controlled trial.",
-        "summary": "Mindfulness-based stress reduction helped reduce fatigue, anxiety, and depression in lung cancer patients undergoing surgery and chemotherapy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41931358/",
-        "source": "PubMed",
-        "category": "Mind-Body & Spirituality",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-04"
       }
     ]
   },
@@ -1072,10 +1072,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15844,
+    "archive_count": 15845,
     "archive_supplements": 1809,
     "archive_off_label": 592,
-    "archive_biomarkers": 9357,
+    "archive_biomarkers": 9358,
     "archive_trials": 3388,
     "archive_mind_body": 406
   }
