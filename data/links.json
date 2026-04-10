@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T04:05:58.864Z",
+  "last_updated": "2026-04-10T04:06:10.517Z",
   "categories": {
     "supplements": [
       {
@@ -754,6 +754,20 @@
         "added_date": "2026-04-10"
       },
       {
+        "id": "recTvIaoiqH7pKFZZ",
+        "title": "A versatile self-adjuvanting macro-microporous ZIF-8@Mn MOF platform for efficient antigen capture and presentation to boost antitumor immunity.",
+        "summary": "A new tumor vaccine platform combines a drug that kills cancer cells with a material that captures tumor antigens, activating powerful anti-cancer immune responses.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41662884/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-10"
+      },
+      {
         "id": "recjh6cGAdWUhpvPV",
         "title": "Telomere damage enhances immunogenicity of neuroblastoma and accelerates response to anti-PD-L1 treatment.",
         "summary": "Damaging telomeres in neuroblastoma tumors boosts immune response and significantly improves effectiveness of immunotherapy treatment.",
@@ -833,20 +847,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Prostate"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-09"
-      },
-      {
-        "id": "rec5gosNemBWHcwU4",
-        "title": "Neoadjuvant and adjuvant nivolumab associated with irreversible electroporation in patients with BCLC a hepatocellular carcinoma and high risk of recurrence (NIVOLEP trial).",
-        "summary": "Combining immunotherapy with a specialized ablation technique reduced one-year recurrence rates in difficult-to-treat liver cancer patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41950497/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Liver"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -1073,10 +1073,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15796,
+    "archive_count": 15797,
     "archive_supplements": 1807,
     "archive_off_label": 592,
-    "archive_biomarkers": 9315,
+    "archive_biomarkers": 9316,
     "archive_trials": 3384,
     "archive_mind_body": 406
   }
