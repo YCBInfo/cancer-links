@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T04:26:32.211Z",
+  "last_updated": "2026-04-10T04:26:41.886Z",
   "categories": {
     "supplements": [
       {
@@ -69,6 +69,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-10"
+      },
+      {
+        "id": "rec5AV6PNvWCfcUPI",
+        "title": "Z-Guggulsterone Induces Ferroptosis in Chemoresistant Breast Cancer via a CDKN2B-Mediated Suppression of GTP Cyclohydrolase 1.",
+        "summary": "Z-Guggulsterone, a natural compound, overcomes chemotherapy resistance in breast cancer by triggering ferroptosis through a specific molecular pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41952325/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-10"
       },
@@ -194,20 +208,6 @@
         "cancer_types": [
           "Lung",
           "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-09"
-      },
-      {
-        "id": "recGyNFNH3I10zmQc",
-        "title": "Myricetin alleviates testosterone-induced benign prostatic hyperplasia by attenuating inflammation, oxidative stress, apoptosis and androgen signaling.",
-        "summary": "Myricetin, a plant compound, reduces prostate enlargement in rats by decreasing inflammation, oxidative stress, and hormone signaling.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41946874/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Prostate"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -1072,10 +1072,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15907,
+    "archive_count": 15908,
     "archive_supplements": 1809,
     "archive_off_label": 592,
-    "archive_biomarkers": 9412,
+    "archive_biomarkers": 9413,
     "archive_trials": 3395,
     "archive_mind_body": 407
   }
