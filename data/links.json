@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T04:27:34.105Z",
+  "last_updated": "2026-04-10T04:27:45.047Z",
   "categories": {
     "supplements": [
       {
@@ -81,6 +81,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-10"
+      },
+      {
+        "id": "rec7x1exJZRenmMv7",
+        "title": "Targeting immunosenescence in lung diseases: mechanistic insights and clinical interventions.",
+        "summary": "Researchers review strategies to reverse age-related immune decline in lung diseases, including immunotherapy, stem cell therapy, and personalized medicine approaches.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41952158/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -195,21 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-09"
-      },
-      {
-        "id": "recVFRmCO8tvYyvUJ",
-        "title": "Impact of vitamin D plasma levels on in vitro natural killer cell cytotoxicity against non-small cell lung carcinoma in the presence of nivolumab.",
-        "summary": "Adequate vitamin D levels enhance natural killer cell effectiveness against lung cancer when combined with immunotherapy, particularly in high PD-L1 tumors.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41946943/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Lung",
-          "Liver"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-09"
       }
@@ -1072,10 +1071,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15913,
+    "archive_count": 15914,
     "archive_supplements": 1810,
     "archive_off_label": 592,
-    "archive_biomarkers": 9416,
+    "archive_biomarkers": 9417,
     "archive_trials": 3396,
     "archive_mind_body": 407
   }
