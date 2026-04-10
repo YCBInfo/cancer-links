@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T04:07:05.254Z",
+  "last_updated": "2026-04-10T04:07:16.199Z",
   "categories": {
     "supplements": [
       {
@@ -810,6 +810,20 @@
         "added_date": "2026-04-10"
       },
       {
+        "id": "recf9KX6xQa73XGei",
+        "title": "Genetically encoded self-assembling affibody-streptavidin nanoparticles for HER2-positive cancer theranostics.",
+        "summary": "Researchers developed self-assembling protein nanoparticles targeting HER2-positive breast cancer that effectively shrink tumors with minimal side effects in mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41638491/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-10"
+      },
+      {
         "id": "recjh6cGAdWUhpvPV",
         "title": "Telomere damage enhances immunogenicity of neuroblastoma and accelerates response to anti-PD-L1 treatment.",
         "summary": "Damaging telomeres in neuroblastoma tumors boosts immune response and significantly improves effectiveness of immunotherapy treatment.",
@@ -832,20 +846,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Bladder"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-09"
-      },
-      {
-        "id": "recDKcYSFoEELRp6e",
-        "title": "Selective depletion of virus-specific CD8 T cells from the liver after PD-1 therapy with Fc-intact antibody during chronic infection.",
-        "summary": "PD-1 antibodies with intact Fc regions unexpectedly depleted cancer-fighting CD8 T cells in the liver, reducing therapy effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41950082/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Liver"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -1072,10 +1072,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15802,
+    "archive_count": 15803,
     "archive_supplements": 1807,
     "archive_off_label": 592,
-    "archive_biomarkers": 9321,
+    "archive_biomarkers": 9322,
     "archive_trials": 3384,
     "archive_mind_body": 406
   }
