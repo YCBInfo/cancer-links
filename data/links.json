@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T04:26:03.158Z",
+  "last_updated": "2026-04-10T04:26:16.737Z",
   "categories": {
     "supplements": [
       {
@@ -55,6 +55,20 @@
           "Thyroid"
         ],
         "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-10"
+      },
+      {
+        "id": "reci3M2CNHnviNm02",
+        "title": "Inadequate Dietary Fibre Intake in Cardiovascular Disease Populations and Its Adverse Impact on Metabolic Health and Longevity: A National Retrospective Cohort Study.",
+        "summary": "Higher dietary fiber intake significantly reduces all-cause, cardiovascular, and cancer mortality risk in heart disease patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41952425/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-10"
       },
@@ -194,20 +208,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Prostate"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-09"
-      },
-      {
-        "id": "recT5ZtywlYTp50WX",
-        "title": "Beyond the Surface: Mechanistic Intersections Between Obesity and UVB Exposure.",
-        "summary": "Obesity and UVB sun exposure together amplify skin cancer risk through shared inflammatory and immune-weakening pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41951779/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Melanoma"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -1072,10 +1072,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15905,
+    "archive_count": 15906,
     "archive_supplements": 1809,
     "archive_off_label": 592,
-    "archive_biomarkers": 9411,
+    "archive_biomarkers": 9412,
     "archive_trials": 3394,
     "archive_mind_body": 407
   }
