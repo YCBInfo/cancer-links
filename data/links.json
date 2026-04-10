@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T04:06:32.130Z",
+  "last_updated": "2026-04-10T04:06:43.522Z",
   "categories": {
     "supplements": [
       {
@@ -768,6 +768,20 @@
         "added_date": "2026-04-10"
       },
       {
+        "id": "recgaLwCwuUaQiIgr",
+        "title": "Targeting Galectin-9 to overcome immunosuppression and potentiate ATR inhibitor therapy.",
+        "summary": "Blocking Galectin-9 combined with ATR inhibitors overcomes immune resistance and enhances anti-tumor immunity in lung cancer models.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41651398/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-10"
+      },
+      {
         "id": "recjh6cGAdWUhpvPV",
         "title": "Telomere damage enhances immunogenicity of neuroblastoma and accelerates response to anti-PD-L1 treatment.",
         "summary": "Damaging telomeres in neuroblastoma tumors boosts immune response and significantly improves effectiveness of immunotherapy treatment.",
@@ -833,20 +847,6 @@
         "cancer_types": [
           "Lung",
           "Pancreatic"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-09"
-      },
-      {
-        "id": "rechDpIUH0A5PEyWL",
-        "title": "Hierarchical Zeolitic Imidazolate Framework-8@Au Cluster Nanocarriers for In Situ Chimeric Antigen Receptor Macrophage Programming and Immunotherapy in Prostate Cancer.",
-        "summary": "Nanoparticles deliver cancer-fighting genes directly to immune cells in prostate tumors, achieving 95% tumor growth inhibition in mice.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41950518/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Prostate"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -1073,10 +1073,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15799,
+    "archive_count": 15800,
     "archive_supplements": 1807,
     "archive_off_label": 592,
-    "archive_biomarkers": 9318,
+    "archive_biomarkers": 9319,
     "archive_trials": 3384,
     "archive_mind_body": 406
   }
