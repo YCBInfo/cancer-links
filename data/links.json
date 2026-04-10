@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T04:02:55.742Z",
+  "last_updated": "2026-04-10T04:03:06.202Z",
   "categories": {
     "supplements": [
       {
@@ -528,6 +528,20 @@
         "added_date": "2026-04-10"
       },
       {
+        "id": "recLEBRDpHYCofKxI",
+        "title": "[Genetic analysis and reproductive intervention for 46 Chinese pedigrees affected with Hereditary multiple exostoses].",
+        "summary": "Researchers identified genetic causes of hereditary multiple exostoses in Chinese families to guide reproductive counseling and prevent disease transmission.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41918380/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-10"
+      },
+      {
         "id": "recjh6cGAdWUhpvPV",
         "title": "Telomere damage enhances immunogenicity of neuroblastoma and accelerates response to anti-PD-L1 treatment.",
         "summary": "Damaging telomeres in neuroblastoma tumors boosts immune response and significantly improves effectiveness of immunotherapy treatment.",
@@ -626,20 +640,6 @@
         "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-09"
-      },
-      {
-        "id": "recgy1OVQ5ryyUrQp",
-        "title": "DJ-1 inhibition reshapes tumor microenvironment and potentiates immune checkpoint inhibitors.",
-        "summary": "Blocking DJ-1 protein reprograms immune cells to enhance cancer immunotherapy effectiveness in resistant patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41950330/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-09"
       }
     ],
     "trials": [
@@ -654,6 +654,20 @@
           "Leukemia"
         ],
         "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-10"
+      },
+      {
+        "id": "recLEBRDpHYCofKxI",
+        "title": "[Genetic analysis and reproductive intervention for 46 Chinese pedigrees affected with Hereditary multiple exostoses].",
+        "summary": "Researchers identified genetic causes of hereditary multiple exostoses in Chinese families to guide reproductive counseling and prevent disease transmission.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41918380/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-10"
       },
@@ -835,20 +849,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Bladder"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-09"
-      },
-      {
-        "id": "recZNalaNnpLJhUWW",
-        "title": "Implications for Sentinel Lymph Node Biopsy Omission in Patients with Early-Stage Node-Negative HR+/HER2- Breast Cancer Undergoing Mastectomy.",
-        "summary": "Skipping lymph node biopsies appears safe for early-stage hormone-positive breast cancer patients undergoing mastectomy, similar to breast-conserving surgery.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41949735/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -1075,10 +1075,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15781,
+    "archive_count": 15782,
     "archive_supplements": 1806,
     "archive_off_label": 592,
-    "archive_biomarkers": 9303,
+    "archive_biomarkers": 9304,
     "archive_trials": 3382,
     "archive_mind_body": 406
   }
