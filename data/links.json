@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T04:03:06.202Z",
+  "last_updated": "2026-04-10T04:03:16.631Z",
   "categories": {
     "supplements": [
       {
@@ -13,6 +13,20 @@
           "Lung"
         ],
         "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-10"
+      },
+      {
+        "id": "recRC8MKcDQCrpzMo",
+        "title": "Isoalantolactone ameliorates ulcerative colitis via gut microbiota-mediated modulation of intestinal barrier, T cell homeostasis, and metabolite reprogramming.",
+        "summary": "Isoalantolactone treats ulcerative colitis by restoring gut bacteria balance and strengthening intestinal barriers in mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41895369/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-10"
       },
@@ -196,20 +210,6 @@
           "Pancreatic"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-09"
-      },
-      {
-        "id": "recadobBcQFaLI0gZ",
-        "title": "A Comprehensive Review on Necroptosis Inducing Phytochemicals for Cancer Therapy: Preclinical Evidence.",
-        "summary": "Plant-derived compounds trigger necroptosis, an alternative cell-death pathway, to overcome cancer cells' resistance to standard apoptosis treatments.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41947409/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-09"
       }
@@ -542,6 +542,20 @@
         "added_date": "2026-04-10"
       },
       {
+        "id": "recRC8MKcDQCrpzMo",
+        "title": "Isoalantolactone ameliorates ulcerative colitis via gut microbiota-mediated modulation of intestinal barrier, T cell homeostasis, and metabolite reprogramming.",
+        "summary": "Isoalantolactone treats ulcerative colitis by restoring gut bacteria balance and strengthening intestinal barriers in mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41895369/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-10"
+      },
+      {
         "id": "recjh6cGAdWUhpvPV",
         "title": "Telomere damage enhances immunogenicity of neuroblastoma and accelerates response to anti-PD-L1 treatment.",
         "summary": "Damaging telomeres in neuroblastoma tumors boosts immune response and significantly improves effectiveness of immunotherapy treatment.",
@@ -624,20 +638,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-09"
-      },
-      {
-        "id": "recDKcYSFoEELRp6e",
-        "title": "Selective depletion of virus-specific CD8 T cells from the liver after PD-1 therapy with Fc-intact antibody during chronic infection.",
-        "summary": "PD-1 antibodies with intact Fc regions unexpectedly depleted cancer-fighting CD8 T cells in the liver, reducing therapy effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41950082/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Liver"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-09"
       }
@@ -1075,10 +1075,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 15782,
+    "archive_count": 15783,
     "archive_supplements": 1806,
     "archive_off_label": 592,
-    "archive_biomarkers": 9304,
+    "archive_biomarkers": 9305,
     "archive_trials": 3382,
     "archive_mind_body": 406
   }
