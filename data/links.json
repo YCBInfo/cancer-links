@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T04:12:16.933Z",
+  "last_updated": "2026-04-11T04:12:28.143Z",
   "categories": {
     "supplements": [
       {
@@ -82,6 +82,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-11"
+      },
+      {
+        "id": "recdEKUA8cmyzqNwe",
+        "title": "Therapeutic effects of selenium-enriched rapeseed against triple-negative breast cancer: involvement of Resolvin D5 activation and IL-17 signaling inhibition.",
+        "summary": "Selenium-enriched rapeseed suppresses triple-negative breast cancer growth by activating a molecule that blocks inflammatory IL-17 signaling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41961142/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -197,20 +211,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
-        "added_date": "2026-04-10"
-      },
-      {
-        "id": "recKL8NZ2Ub4ZRPCj",
-        "title": "Curcumin inhibits glycolysis via EP300 in oral squamous cell carcinoma.",
-        "summary": "Curcumin inhibits oral squamous cell carcinoma growth by blocking a protein called EP300 that fuels cancer cell energy production.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41946791/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
         "added_date": "2026-04-10"
       }
     ],
@@ -1071,10 +1071,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16114,
+    "archive_count": 16115,
     "archive_supplements": 1841,
     "archive_off_label": 597,
-    "archive_biomarkers": 9534,
+    "archive_biomarkers": 9535,
     "archive_trials": 3440,
     "archive_mind_body": 410
   }
