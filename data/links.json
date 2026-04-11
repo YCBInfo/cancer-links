@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T04:02:57.383Z",
+  "last_updated": "2026-04-11T04:03:09.183Z",
   "categories": {
     "supplements": [
       {
@@ -540,6 +540,20 @@
         "added_date": "2026-04-11"
       },
       {
+        "id": "rechgmddDBBhvLWpd",
+        "title": "The safety and efficacy of in situ vaccine FOLactis for advanced hepatic malignancies.",
+        "summary": "FOLactis, an in situ vaccine injected directly into tumors, combined with immunotherapy shows promise for treating advanced liver cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41762827/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-11"
+      },
+      {
         "id": "rec5fP6XJhi9cxdfr",
         "title": "20(S)-Ginsenoside Rg3 suppresses lung cancer-associated fibroblast activation associated with IL-17RD-FGF-MAP2K4-JNK signaling.",
         "summary": "A plant compound called Ginsenoside Rg3 stops lung cancer-supporting fibroblasts from activating, offering new treatment potential.",
@@ -622,20 +636,6 @@
         "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-10"
-      },
-      {
-        "id": "recmOIt7xRRP9Vry6",
-        "title": "[Analysis of ten cases of Acute lymphoblastic leukemia with non-KMT2A::AFF1 transcriptional variant 11q23 rearrangements].",
-        "summary": "Researchers analyzed acute lymphoblastic leukemia cases with unusual 11q23 genetic rearrangements to better understand their clinical features.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41918382/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-10"
       }
     ],
     "trials": [
@@ -693,6 +693,20 @@
         ],
         "quality_score": 21,
         "pub_date": "2026-04-01",
+        "added_date": "2026-04-11"
+      },
+      {
+        "id": "rechgmddDBBhvLWpd",
+        "title": "The safety and efficacy of in situ vaccine FOLactis for advanced hepatic malignancies.",
+        "summary": "FOLactis, an in situ vaccine injected directly into tumors, combined with immunotherapy shows promise for treating advanced liver cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41762827/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
         "added_date": "2026-04-11"
       },
       {
@@ -830,20 +844,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-10"
-      },
-      {
-        "id": "recQWoTESEdiaQbcv",
-        "title": "Tumor cell derived CCL20 exacerbates the immunosuppressive microenvironment by recruiting CCR6+ Tregs in pancreatic cancer.",
-        "summary": "Pancreatic cancer tumors produce CCL20, which recruits immune-suppressing cells, and blocking this pathway enhances immunotherapy effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41643988/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Pancreatic"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -1070,10 +1070,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16065,
+    "archive_count": 16066,
     "archive_supplements": 1835,
     "archive_off_label": 597,
-    "archive_biomarkers": 9498,
+    "archive_biomarkers": 9499,
     "archive_trials": 3435,
     "archive_mind_body": 408
   }
