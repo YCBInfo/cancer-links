@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T04:04:00.949Z",
+  "last_updated": "2026-04-11T04:04:16.197Z",
   "categories": {
     "supplements": [
       {
@@ -610,6 +610,20 @@
         "added_date": "2026-04-11"
       },
       {
+        "id": "recq6v8FSUCIXDpFq",
+        "title": "DDR1 Promotes Immune Evasion in Colorectal Cancer by Orchestrating IL-33-Mediated M2-like Polarization of Tumor-Associated Macrophages.",
+        "summary": "Blocking DDR1 protein in colorectal cancer reduces immune-suppressing macrophages and improves immunotherapy effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41962054/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-11"
+      },
+      {
         "id": "rec5fP6XJhi9cxdfr",
         "title": "20(S)-Ginsenoside Rg3 suppresses lung cancer-associated fibroblast activation associated with IL-17RD-FGF-MAP2K4-JNK signaling.",
         "summary": "A plant compound called Ginsenoside Rg3 stops lung cancer-supporting fibroblasts from activating, offering new treatment potential.",
@@ -618,20 +632,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-10"
-      },
-      {
-        "id": "recwlval81baLfuLC",
-        "title": "A tale of dual role: HECT‑type E3 ubiquitin ligase mechanisms in liver diseases (Review).",
-        "summary": "HECT-type E3 enzymes play dual roles in liver cancer and diseases, both promoting and suppressing tumor growth depending on cellular context and signaling pathways involved.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41952501/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Liver"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -738,6 +738,20 @@
         "added_date": "2026-04-11"
       },
       {
+        "id": "recq6v8FSUCIXDpFq",
+        "title": "DDR1 Promotes Immune Evasion in Colorectal Cancer by Orchestrating IL-33-Mediated M2-like Polarization of Tumor-Associated Macrophages.",
+        "summary": "Blocking DDR1 protein in colorectal cancer reduces immune-suppressing macrophages and improves immunotherapy effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41962054/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-11"
+      },
+      {
         "id": "recmOIt7xRRP9Vry6",
         "title": "[Analysis of ten cases of Acute lymphoblastic leukemia with non-KMT2A::AFF1 transcriptional variant 11q23 rearrangements].",
         "summary": "Researchers analyzed acute lymphoblastic leukemia cases with unusual 11q23 genetic rearrangements to better understand their clinical features.",
@@ -832,20 +846,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-10"
-      },
-      {
-        "id": "recpBPTkzZO7gctxY",
-        "title": "Protein corona-guided delivery of dextran-PLGA NPs for enhanced dendritic cell uptake, maturation and improved cancer immunotherapy.",
-        "summary": "Dextran-coated nanoparticles delivering a STING activator enhanced immune cell uptake and suppressed melanoma growth in mice.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41702510/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Melanoma"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-04-10"
       }
@@ -1070,10 +1070,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16070,
+    "archive_count": 16071,
     "archive_supplements": 1835,
     "archive_off_label": 597,
-    "archive_biomarkers": 9503,
+    "archive_biomarkers": 9504,
     "archive_trials": 3435,
     "archive_mind_body": 408
   }
