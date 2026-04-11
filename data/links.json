@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T04:25:02.098Z",
+  "last_updated": "2026-04-11T04:25:11.839Z",
   "categories": {
     "supplements": [
       {
@@ -244,6 +244,20 @@
         "added_date": "2026-04-11"
       },
       {
+        "id": "reccx1Fg7yxRZhENV",
+        "title": "Plasmin promotes hepatocellular carcinoma invasion and metastasis via CXCR4-mediated activation of PI3K/AKT/mTOR signaling.",
+        "summary": "Plasmin promotes liver cancer invasion and metastasis; blocking it with tranexamic acid suppresses tumor spread and enhances chemotherapy effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41957507/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-11"
+      },
+      {
         "id": "rec4kXk4KHc8DYudc",
         "title": "Liver cancer-derived exosomal PTK6 induces the secretion of pulmonary CHI3L1 to facilitate lung metastatic niche formation.",
         "summary": "Liver cancer cells send signals that trigger lung cells to produce a protein enabling lung metastasis; blocking this protein reduces cancer spread.",
@@ -409,20 +423,6 @@
           "Brain"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-09"
-      },
-      {
-        "id": "recXG61rqkonqJh49",
-        "title": "Molecular and Cell Biological Characterization of Patient-Derived Head and Neck Squamous Carcinoma Cell Lines.",
-        "summary": "Patient-derived head and neck cancer cells reveal specific genetic changes that could guide personalized treatment approaches.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41948974/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-09"
       }
@@ -1071,10 +1071,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16183,
+    "archive_count": 16184,
     "archive_supplements": 1844,
     "archive_off_label": 598,
-    "archive_biomarkers": 9590,
+    "archive_biomarkers": 9591,
     "archive_trials": 3449,
     "archive_mind_body": 410
   }
