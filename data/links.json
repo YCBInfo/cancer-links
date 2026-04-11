@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T04:08:13.905Z",
+  "last_updated": "2026-04-11T04:08:23.799Z",
   "categories": {
     "supplements": [
       {
@@ -27,6 +27,20 @@
           "Melanoma"
         ],
         "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-11"
+      },
+      {
+        "id": "recs4JppUOw7OsiQH",
+        "title": "Network pharmacology and molecular docking reveal the therapeutic mechanism of Hedyotis diffusa in esophageal squamous cell carcinoma: A bioinformatics analysis.",
+        "summary": "Hedyotis diffusa herb compounds, particularly quercetin and beta-sitosterol, may treat esophageal squamous cell carcinoma by targeting cancer-related genes and MAPK signaling pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41961679/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-11"
       },
@@ -193,20 +207,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Prostate"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-10"
-      },
-      {
-        "id": "recS18XC5aU5vT2LS",
-        "title": "Apigenin Enhances the Radiosensitivity of TNBC Cells by Improving cGAS-STING Pathway Activity.",
-        "summary": "Apigenin enhances radiation therapy's effectiveness in triple-negative breast cancer by activating a DNA-sensing immune pathway.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41956481/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -1070,8 +1070,8 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16093,
-    "archive_supplements": 1836,
+    "archive_count": 16094,
+    "archive_supplements": 1837,
     "archive_off_label": 597,
     "archive_biomarkers": 9521,
     "archive_trials": 3439,
