@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T04:15:42.201Z",
+  "last_updated": "2026-04-11T04:15:53.158Z",
   "categories": {
     "supplements": [
       {
@@ -216,6 +216,20 @@
     ],
     "off_label": [
       {
+        "id": "recIui3yWEKqwJN8l",
+        "title": "Protective effect of nebivolol on bleomycin-induced lung fibrosis via suppressing TLR4/IL-1β/MMP-2 and TGF-β/HSP47 signaling pathways in rats.",
+        "summary": "Nebivolol, a heart medication, protected rat lungs from bleomycin-induced scarring by blocking harmful inflammatory and fibrosis pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41960705/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-11"
+      },
+      {
         "id": "rec4kXk4KHc8DYudc",
         "title": "Liver cancer-derived exosomal PTK6 induces the secretion of pulmonary CHI3L1 to facilitate lung metastatic niche formation.",
         "summary": "Liver cancer cells send signals that trigger lung cells to produce a protein enabling lung metastasis; blocking this protein reduces cancer spread.",
@@ -409,20 +423,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-09"
-      },
-      {
-        "id": "reciC6ixniXvVXkWX",
-        "title": "Leveraging a Multienzymes-Mimicking Nanozyme to Overcome CDK4/6 Inhibitor Resistance and Achieve Drug Repurposing in Oesophageal Squamous Cell Carcinoma.",
-        "summary": "A nanoparticle combined with CDK4/6 inhibitors overcomes drug resistance in esophageal cancer by triggering cell death pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41947694/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 21,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-09"
       }
@@ -1071,10 +1071,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16133,
+    "archive_count": 16134,
     "archive_supplements": 1843,
     "archive_off_label": 597,
-    "archive_biomarkers": 9550,
+    "archive_biomarkers": 9551,
     "archive_trials": 3441,
     "archive_mind_body": 410
   }
