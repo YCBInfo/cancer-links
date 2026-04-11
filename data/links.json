@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T08:02:57.852Z",
+  "last_updated": "2026-04-11T09:03:04.680Z",
   "categories": {
     "supplements": [
       {
@@ -273,6 +273,20 @@
         "added_date": "2026-04-11"
       },
       {
+        "id": "recgKkIknxNlLd0kM",
+        "title": "Targeting G3BP1-Mediated Stress Granules to Suppress SARS-CoV-2 Replication.",
+        "summary": "Two FDA-approved drugs, dexlansoprazole and citalopram, reduced SARS-CoV-2 replication by disrupting viral-host protein interactions in stress granules.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41960678/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-11"
+      },
+      {
         "id": "rec4kXk4KHc8DYudc",
         "title": "Liver cancer-derived exosomal PTK6 induces the secretion of pulmonary CHI3L1 to facilitate lung metastatic niche formation.",
         "summary": "Liver cancer cells send signals that trigger lung cells to produce a protein enabling lung metastasis; blocking this protein reduces cancer spread.",
@@ -411,20 +425,6 @@
         "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-10"
-      },
-      {
-        "id": "recgy1OVQ5ryyUrQp",
-        "title": "DJ-1 inhibition reshapes tumor microenvironment and potentiates immune checkpoint inhibitors.",
-        "summary": "Blocking DJ-1 protein reprograms immune cells to enhance cancer immunotherapy effectiveness in resistant patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41950330/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-09"
       }
     ],
     "biomarkers": [
@@ -1071,11 +1071,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16253,
+    "archive_count": 16254,
     "archive_supplements": 1859,
     "archive_off_label": 599,
     "archive_biomarkers": 9637,
-    "archive_trials": 3456,
+    "archive_trials": 3457,
     "archive_mind_body": 410
   }
 }
