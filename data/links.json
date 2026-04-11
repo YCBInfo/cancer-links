@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T04:08:43.802Z",
+  "last_updated": "2026-04-11T04:08:54.719Z",
   "categories": {
     "supplements": [
       {
@@ -53,6 +53,21 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Melanoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-11"
+      },
+      {
+        "id": "recl71EaDDJvT0Xi0",
+        "title": "S100A14 in Tumor-Derived EVs Targets PIAS3 to Reprogram Astrocytes and Induce Immunosuppressive Microenvironment Promoting Brain Metastasis and Germacrone Reversal Effect.",
+        "summary": "S100A14 in tumor-derived particles promotes brain metastasis in lung and breast cancer; germacrone blocks this process effectively.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41961478/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast",
+          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -193,20 +208,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Kidney"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-10"
-      },
-      {
-        "id": "rect1uj4ZfgVZ7bn6",
-        "title": "Hispidulin-mediated inhibition of lung cancer progression through PI3K/AKT Signaling: A combined bioinformatic analysis and experimental investigation.",
-        "summary": "Hispidulin, a natural plant compound, kills lung cancer cells by blocking growth signals and triggering cell death.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41959745/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -1070,10 +1071,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16095,
+    "archive_count": 16096,
     "archive_supplements": 1837,
     "archive_off_label": 597,
-    "archive_biomarkers": 9522,
+    "archive_biomarkers": 9523,
     "archive_trials": 3439,
     "archive_mind_body": 408
   }
