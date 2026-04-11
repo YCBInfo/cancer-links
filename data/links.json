@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T04:08:23.799Z",
+  "last_updated": "2026-04-11T04:08:43.802Z",
   "categories": {
     "supplements": [
       {
@@ -41,6 +41,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-11"
+      },
+      {
+        "id": "recpm3i4L6agdHe52",
+        "title": "Potential Role of PVP/Poloxamer 407 Nanofibers Loaded with Resveratrol Nanocrystals in Skin Cancer Therapy.",
+        "summary": "Resveratrol nanofibers effectively reduced skin cancer tumor growth and symptoms in mice better than standard drug formulations.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41961590/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Melanoma"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-11"
       },
@@ -193,20 +207,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-10"
-      },
-      {
-        "id": "recqwyauUpjHhR6wY",
-        "title": "Impaired vitamin D signaling reveals neutrophils as key drivers of prostate cancer dissemination.",
-        "summary": "Weak vitamin D signaling in prostate cancer increases neutrophil recruitment, driving metastasis; targeting neutrophils may reduce spread.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41957119/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Prostate"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -808,6 +808,20 @@
         "added_date": "2026-04-11"
       },
       {
+        "id": "recEI1MPogFMhbgOi",
+        "title": "The diagnostic and therapeutic challenges of pulmonary epithelioid trophoblastic tumor: A case report and literature review.",
+        "summary": "Primary lung epithelioid trophoblastic tumor is extremely rare, making standardized treatment guidelines difficult to establish.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41961651/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-11"
+      },
+      {
         "id": "recmOIt7xRRP9Vry6",
         "title": "[Analysis of ten cases of Acute lymphoblastic leukemia with non-KMT2A::AFF1 transcriptional variant 11q23 rearrangements].",
         "summary": "Researchers analyzed acute lymphoblastic leukemia cases with unusual 11q23 genetic rearrangements to better understand their clinical features.",
@@ -833,20 +847,6 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-04-01",
-        "added_date": "2026-04-10"
-      },
-      {
-        "id": "rec9Txj5h76PCSEDf",
-        "title": "Peptide-based vaccines: insights in a relationship between the explored administration routes and delivery systems.",
-        "summary": "Peptide-based cancer vaccines work better when delivery systems are matched to administration routes, improving immune response and stability.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41819382/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
         "added_date": "2026-04-10"
       }
     ],
@@ -1070,10 +1070,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16094,
+    "archive_count": 16095,
     "archive_supplements": 1837,
     "archive_off_label": 597,
-    "archive_biomarkers": 9521,
+    "archive_biomarkers": 9522,
     "archive_trials": 3439,
     "archive_mind_body": 408
   }
