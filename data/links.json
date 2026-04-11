@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-04-11T04:03:34.495Z",
+  "last_updated": "2026-04-11T04:03:45.849Z",
   "categories": {
     "supplements": [
+      {
+        "id": "recZQ376tiTtuvXfz",
+        "title": "Mechanism of Asiatic acid against oesophageal squamous cell carcinoma: integration of network pharmacology and experimental validation.",
+        "summary": "Asiatic acid fights esophageal cancer by targeting the PTGS2 protein and blocking a key growth pathway, reducing tumors in studies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41962144/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-11"
+      },
       {
         "id": "rec5fP6XJhi9cxdfr",
         "title": "20(S)-Ginsenoside Rg3 suppresses lung cancer-associated fibroblast activation associated with IL-17RD-FGF-MAP2K4-JNK signaling.",
@@ -189,20 +203,6 @@
         "title": "Polysaccharide-Rich Herbal Formula Attenuates Skin Aging and Oxidative Stress in VCD-Induced Menopause Models via Regulation of AQP-3, C1QBP, and K19.",
         "summary": "A herbal formula reduces skin aging and oxidative stress in menopausal models by boosting antioxidants and restoring skin barrier function.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41958012/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-10"
-      },
-      {
-        "id": "recuOhENayRxMCp7i",
-        "title": "Serpina1e mediates the exercise-induced enhancement of hippocampal memory in male mice.",
-        "summary": "Exercise enhances memory in mice through a muscle protein called Serpina1e that crosses into the brain and boosts neurogenesis.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41957371/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -582,6 +582,20 @@
         "added_date": "2026-04-11"
       },
       {
+        "id": "recZQ376tiTtuvXfz",
+        "title": "Mechanism of Asiatic acid against oesophageal squamous cell carcinoma: integration of network pharmacology and experimental validation.",
+        "summary": "Asiatic acid fights esophageal cancer by targeting the PTGS2 protein and blocking a key growth pathway, reducing tumors in studies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41962144/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-11"
+      },
+      {
         "id": "rec5fP6XJhi9cxdfr",
         "title": "20(S)-Ginsenoside Rg3 suppresses lung cancer-associated fibroblast activation associated with IL-17RD-FGF-MAP2K4-JNK signaling.",
         "summary": "A plant compound called Ginsenoside Rg3 stops lung cancer-supporting fibroblasts from activating, offering new treatment potential.",
@@ -620,20 +634,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-10"
-      },
-      {
-        "id": "recb5h92BGy6JkX8F",
-        "title": "RRP9 suppresses hepatocellular carcinoma progression by inhibiting the PI3K/AKT/mTOR pathway.",
-        "summary": "RRP9 protein suppresses hepatocellular carcinoma by blocking the PI3K/AKT/mTOR growth pathway.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41952494/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Liver"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-10"
       }
@@ -1070,10 +1070,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16068,
+    "archive_count": 16069,
     "archive_supplements": 1835,
     "archive_off_label": 597,
-    "archive_biomarkers": 9501,
+    "archive_biomarkers": 9502,
     "archive_trials": 3435,
     "archive_mind_body": 408
   }
