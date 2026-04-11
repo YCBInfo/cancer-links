@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T04:29:18.316Z",
+  "last_updated": "2026-04-11T06:02:53.567Z",
   "categories": {
     "supplements": [
       {
@@ -144,6 +144,34 @@
         "added_date": "2026-04-11"
       },
       {
+        "id": "rec8v981Ep8Xth900",
+        "title": "Omega-3 fatty acid DHA induces ferroptosis in colorectal cancer patient-derived organoids and drug-tolerant cells.",
+        "summary": "Omega-3 fatty acid DHA kills colorectal cancer cells by triggering ferroptosis and overcomes resistance to standard chemotherapy drugs.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41963291/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-11"
+      },
+      {
+        "id": "recBxGe1NeH92dd81",
+        "title": "Why hyperinsulinemia is detrimental to weight loss: insights from type 1 diabetes.",
+        "summary": "High insulin levels make weight loss difficult by promoting fat storage and blocking fat breakdown, complicating obesity treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41963916/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-11"
+      },
+      {
         "id": "rec5fP6XJhi9cxdfr",
         "title": "20(S)-Ginsenoside Rg3 suppresses lung cancer-associated fibroblast activation associated with IL-17RD-FGF-MAP2K4-JNK signaling.",
         "summary": "A plant compound called Ginsenoside Rg3 stops lung cancer-supporting fibroblasts from activating, offering new treatment potential.",
@@ -176,34 +204,6 @@
         "title": "An antiproliferative bioactive flavanol from Vachellia nilotica nilotica (L.) P.J.H. Hurter & Mabb. against Osteosarcoma cell line: An in-vitro and in-silico study.",
         "summary": "A plant compound from Vachellia nilotica effectively killed osteosarcoma cancer cells in laboratory tests and shows promise for drug development.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41955639/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-10"
-      },
-      {
-        "id": "recCsU0F0zp99rFFD",
-        "title": "Medicarpin suppresses thyroid cancer progression by inhibiting the AKT/NF-κB pathway and enhancing CD8+ T cell-mediated antitumor immunity.",
-        "summary": "Medicarpin, a plant compound, slows thyroid cancer growth by blocking a key survival pathway and boosting immune cell attacks on tumors.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41955452/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Thyroid"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-10"
-      },
-      {
-        "id": "reci3M2CNHnviNm02",
-        "title": "Inadequate Dietary Fibre Intake in Cardiovascular Disease Populations and Its Adverse Impact on Metabolic Health and Longevity: A National Retrospective Cohort Study.",
-        "summary": "Higher dietary fiber intake significantly reduces all-cause, cardiovascular, and cancer mortality risk in heart disease patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41952425/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -252,6 +252,21 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-11"
+      },
+      {
+        "id": "recsQq84PKX8FNyco",
+        "title": "Metformin treatment impairs the adenine nucleotide translocator activity and energy metabolism in human clear cell renal carcinoma cells.",
+        "summary": "Metformin kills kidney cancer cells by disrupting their energy production and forcing them to switch to less efficient metabolism.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41963519/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Colorectal",
+          "Kidney"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -408,21 +423,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-09"
-      },
-      {
-        "id": "reccmUdefdFkjQJQF",
-        "title": "Pharmacological activation of WASp potentiates macrophage phagocytosis and enhances ibrutinib efficacy against mouse models of brain tumors.",
-        "summary": "Activating WASp protein in immune cells restores their ability to kill brain tumor cells, improving the effectiveness of ibrutinib treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41950303/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Lymphoma",
-          "Brain"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-09"
       }
@@ -1071,10 +1071,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16207,
+    "archive_count": 16208,
     "archive_supplements": 1845,
     "archive_off_label": 598,
-    "archive_biomarkers": 9612,
+    "archive_biomarkers": 9613,
     "archive_trials": 3450,
     "archive_mind_body": 410
   }
