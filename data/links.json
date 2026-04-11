@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T04:05:00.314Z",
+  "last_updated": "2026-04-11T04:05:10.501Z",
   "categories": {
     "supplements": [
       {
@@ -852,6 +852,20 @@
     ],
     "mind_body": [
       {
+        "id": "rec3VllZCg1wc3x5X",
+        "title": "AI-enabled psychometric and psychophysiological assessment in psychiatric comorbidity of oncology patients: A systematic review.",
+        "summary": "AI tools can better detect depression and anxiety in cancer patients by continuously monitoring psychological distress beyond traditional screening methods.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41961981/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-11"
+      },
+      {
         "id": "reclf8jpXoO5y3dOE",
         "title": "Beyond tumor biology: nursing interventions for psychological and immune health in cancer patients.",
         "summary": "Nursing interventions combining therapy, mindfulness, and lifestyle support improve psychological well-being and immune function in cancer patients.",
@@ -1046,20 +1060,6 @@
         "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-07"
-      },
-      {
-        "id": "reclsBXuyMVxDqdtT",
-        "title": "Effectiveness of qigong on subjective cognitive function in cancer survivors: A systematic review and meta-analysis.",
-        "summary": "Qigong may help improve thinking and memory problems in cancer survivors, according to a review of existing studies.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41806506/",
-        "source": "PubMed",
-        "category": "Mind-Body & Spirituality",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-07"
       }
     ]
   },
@@ -1070,10 +1070,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16075,
+    "archive_count": 16076,
     "archive_supplements": 1836,
     "archive_off_label": 597,
-    "archive_biomarkers": 9506,
+    "archive_biomarkers": 9507,
     "archive_trials": 3436,
     "archive_mind_body": 408
   }
