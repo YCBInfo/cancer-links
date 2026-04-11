@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T04:20:33.196Z",
+  "last_updated": "2026-04-11T04:20:43.401Z",
   "categories": {
     "supplements": [
       {
@@ -230,6 +230,20 @@
         "added_date": "2026-04-11"
       },
       {
+        "id": "recQLh7HFo7UTQmp1",
+        "title": "Interconnection between Polycystic Ovary Syndrome, Immune Disorders, and Reproductive Outcomes.",
+        "summary": "PCOS involves chronic inflammation and immune dysfunction that damage ovarian function and reduce pregnancy success, suggesting immune-targeted treatments could help.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41961878/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-11"
+      },
+      {
         "id": "rec4kXk4KHc8DYudc",
         "title": "Liver cancer-derived exosomal PTK6 induces the secretion of pulmonary CHI3L1 to facilitate lung metastatic niche formation.",
         "summary": "Liver cancer cells send signals that trigger lung cells to produce a protein enabling lung metastasis; blocking this protein reduces cancer spread.",
@@ -405,20 +419,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41948974/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-09"
-      },
-      {
-        "id": "recGWx3Y99cRAskfA",
-        "title": "8-Aminoguanine protects against paclitaxel-induced neural degeneration and mechanical allodynia.",
-        "summary": "Drug 8-aminoguanine prevents nerve damage and pain from paclitaxel chemotherapy by blocking an enzyme that damages nerve cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41948937/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
         "cancer_types": [
           "General"
         ],
@@ -1071,10 +1071,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16160,
+    "archive_count": 16161,
     "archive_supplements": 1843,
     "archive_off_label": 598,
-    "archive_biomarkers": 9572,
+    "archive_biomarkers": 9573,
     "archive_trials": 3445,
     "archive_mind_body": 410
   }
