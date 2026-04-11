@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T04:07:04.078Z",
+  "last_updated": "2026-04-11T04:07:14.235Z",
   "categories": {
     "supplements": [
       {
@@ -13,6 +13,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-11"
+      },
+      {
+        "id": "recCCmJpqGPmHuHQx",
+        "title": "Network Pharmacology, Molecular Docking, Hematological Evaluation, and In Vivo Evidence Support Sakuranetin as a Redox and Inflammation-Modulating Agent Against Skin Tumorigenesis.",
+        "summary": "Sakuranetin, a plant compound, protected mice from chemically-induced skin cancer by reducing harmful inflammation and oxidative stress.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41961775/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Melanoma"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-11"
       },
@@ -195,20 +209,6 @@
           "Breast"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-10"
-      },
-      {
-        "id": "recB1a5Wm6T87w4iR",
-        "title": "Polysaccharide-Rich Herbal Formula Attenuates Skin Aging and Oxidative Stress in VCD-Induced Menopause Models via Regulation of AQP-3, C1QBP, and K19.",
-        "summary": "A herbal formula reduces skin aging and oxidative stress in menopausal models by boosting antioxidants and restoring skin barrier function.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41958012/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-10"
       }
@@ -1070,10 +1070,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16086,
+    "archive_count": 16087,
     "archive_supplements": 1836,
     "archive_off_label": 597,
-    "archive_biomarkers": 9515,
+    "archive_biomarkers": 9516,
     "archive_trials": 3438,
     "archive_mind_body": 408
   }
