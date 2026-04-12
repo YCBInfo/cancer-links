@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T04:05:05.722Z",
+  "last_updated": "2026-04-12T04:05:18.673Z",
   "categories": {
     "supplements": [
       {
@@ -768,6 +768,20 @@
         "added_date": "2026-04-12"
       },
       {
+        "id": "recl8dSu98Ja6QbyK",
+        "title": "Pilot study of the DeStress for Health Program: a community-engaged stress reduction and cancer prevention intervention for rural communities.",
+        "summary": "A stress-reduction program showed promise in helping rural communities adopt healthier behaviors that could lower cancer risk.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41964035/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-12"
+      },
+      {
         "id": "recStB2b5DyRGVDQW",
         "title": "Alistipes and Eggerthella shape the response to oncolytic adenovirus therapy in mice and humans through short-chain fatty acid metabolism.",
         "summary": "Specific gut bacteria—Alistipes and Eggerthella—influence how well oncolytic adenovirus cancer therapy works in patients.",
@@ -836,23 +850,23 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-04-11"
-      },
+      }
+    ],
+    "mind_body": [
       {
-        "id": "recVSfZmpH9aS2qSp",
-        "title": "Reevaluating routine imaging: clinical utility of postoperative CT after stereotactic brain biopsy.",
-        "summary": "Routine CT scans after brain biopsies may be unnecessary; symptom-based imaging could safely reduce unnecessary imaging.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41962153/",
+        "id": "recl8dSu98Ja6QbyK",
+        "title": "Pilot study of the DeStress for Health Program: a community-engaged stress reduction and cancer prevention intervention for rural communities.",
+        "summary": "A stress-reduction program showed promise in helping rural communities adopt healthier behaviors that could lower cancer risk.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41964035/",
         "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
+        "category": "Clinical Trials",
         "cancer_types": [
           "General"
         ],
         "quality_score": 12,
         "pub_date": "2026-04-01",
-        "added_date": "2026-04-11"
-      }
-    ],
-    "mind_body": [
+        "added_date": "2026-04-12"
+      },
       {
         "id": "rec3VllZCg1wc3x5X",
         "title": "AI-enabled psychometric and psychophysiological assessment in psychiatric comorbidity of oncology patients: A systematic review.",
@@ -1048,20 +1062,6 @@
         "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-08"
-      },
-      {
-        "id": "recuTxpZu5FeECyov",
-        "title": "A Qualitative Study of Strength, Hope, and Meaning: Multi-Stakeholder Perspectives on Spiritual Care for Breast Cancer.",
-        "summary": "Spiritual care helps breast cancer patients, families, and healthcare teams find strength, hope, and meaning throughout treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41945965/",
-        "source": "PubMed",
-        "category": "Mind-Body & Spirituality",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-08"
       }
     ]
   },
@@ -1072,8 +1072,8 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16280,
-    "archive_supplements": 1860,
+    "archive_count": 16281,
+    "archive_supplements": 1861,
     "archive_off_label": 599,
     "archive_biomarkers": 9655,
     "archive_trials": 3464,
