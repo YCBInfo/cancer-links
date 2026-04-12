@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T04:03:01.882Z",
+  "last_updated": "2026-04-12T04:03:26.231Z",
   "categories": {
     "supplements": [
       {
@@ -542,6 +542,20 @@
         "added_date": "2026-04-12"
       },
       {
+        "id": "recS0rggYThGrTRKO",
+        "title": "Neoadjuvant twelve weekly paclitaxel-carboplatin with trastuzumab and pertuzumab in HER2-positive breast cancer.",
+        "summary": "A shortened 12-week chemotherapy regimen with targeted drugs effectively treats HER2-positive breast cancer while improving tolerability for frail patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41963621/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-12"
+      },
+      {
         "id": "recStB2b5DyRGVDQW",
         "title": "Alistipes and Eggerthella shape the response to oncolytic adenovirus therapy in mice and humans through short-chain fatty acid metabolism.",
         "summary": "Specific gut bacteria—Alistipes and Eggerthella—influence how well oncolytic adenovirus cancer therapy works in patients.",
@@ -624,20 +638,6 @@
         "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-11"
-      },
-      {
-        "id": "recBu1sbIQAcVP3LE",
-        "title": "Resistance to neoadjuvant talazoparib in triple-negative breast cancer by BRN2-induced ATR/STAT3 pathways or SHLD2 subclone expansion.",
-        "summary": "Triple-negative breast cancer develops resistance to PARP inhibitor talazoparib through BRN2-driven pathway activation or SHLD2-deficient subclone expansion.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41961819/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 21,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-11"
       }
     ],
     "trials": [
@@ -681,6 +681,34 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
+        "added_date": "2026-04-12"
+      },
+      {
+        "id": "recVetdnvzLpUjshH",
+        "title": "Peripheral microRNA signature in genetic frontotemporal dementia-findings from the GENFI initiative.",
+        "summary": "Blood microRNA levels differ in frontotemporal dementia patients, with certain markers appearing before symptoms emerge, offering potential early disease detection.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41963707/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-12"
+      },
+      {
+        "id": "recS0rggYThGrTRKO",
+        "title": "Neoadjuvant twelve weekly paclitaxel-carboplatin with trastuzumab and pertuzumab in HER2-positive breast cancer.",
+        "summary": "A shortened 12-week chemotherapy regimen with targeted drugs effectively treats HER2-positive breast cancer while improving tolerability for frail patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41963621/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
         "added_date": "2026-04-12"
       },
       {
@@ -820,34 +848,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-11"
-      },
-      {
-        "id": "recHOkuuFStFJw2ZV",
-        "title": "Association of serum irisin levels with postoperative cognitive dysfunction in older patients following total hip or knee arthroplasty: A prospective observational study.",
-        "summary": "Low serum irisin levels may help predict cognitive decline after hip and knee surgery in older patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41961791/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-11"
-      },
-      {
-        "id": "recLnev89Y9k8tFFe",
-        "title": "Association of postoperative psychological interventions on compliance and survival in breast cancer patients: A single-center retrospective study.",
-        "summary": "Early structured psychological support after breast cancer surgery significantly improved patient adherence to hormone therapy and showed survival benefits.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41961706/",
-        "source": "PubMed",
-        "category": "Mind-Body & Spirituality",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-11"
       }
@@ -1072,10 +1072,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16270,
+    "archive_count": 16271,
     "archive_supplements": 1859,
     "archive_off_label": 599,
-    "archive_biomarkers": 9649,
+    "archive_biomarkers": 9650,
     "archive_trials": 3461,
     "archive_mind_body": 410
   }
