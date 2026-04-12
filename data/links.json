@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T04:09:34.753Z",
+  "last_updated": "2026-04-12T04:09:45.471Z",
   "categories": {
     "supplements": [
       {
@@ -230,6 +230,20 @@
         "added_date": "2026-04-12"
       },
       {
+        "id": "recLEOf6zyjLJf1Uo",
+        "title": "Targeting CB1 and TRPM8 receptors to counteract CD8+ T cell exhaustion.",
+        "summary": "Blocking CB1 receptors reduced exhaustion markers on immune cells, potentially improving cancer treatment effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41963448/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-12"
+      },
+      {
         "id": "recIui3yWEKqwJN8l",
         "title": "Protective effect of nebivolol on bleomycin-induced lung fibrosis via suppressing TLR4/IL-1β/MMP-2 and TGF-β/HSP47 signaling pathways in rats.",
         "summary": "Nebivolol, a heart medication, protected rat lungs from bleomycin-induced scarring by blocking harmful inflammatory and fibrosis pathways.",
@@ -407,20 +421,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Kidney"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-10"
-      },
-      {
-        "id": "recxQB4ILicAeuBiF",
-        "title": "Synergistic induction of ferroptosis by paclitaxel and sunitinib is mediated through SLC7A11 in lung cancer.",
-        "summary": "Two drugs combined trigger iron-dependent lung cancer cell death by targeting a protein called SLC7A11.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41955701/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -1072,10 +1072,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16305,
+    "archive_count": 16306,
     "archive_supplements": 1861,
     "archive_off_label": 599,
-    "archive_biomarkers": 9676,
+    "archive_biomarkers": 9677,
     "archive_trials": 3467,
     "archive_mind_body": 410
   }
