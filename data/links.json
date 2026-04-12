@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T06:02:57.188Z",
+  "last_updated": "2026-04-12T06:03:39.782Z",
   "categories": {
     "supplements": [
       {
@@ -244,6 +244,20 @@
         "added_date": "2026-04-12"
       },
       {
+        "id": "recUIbEzb3bPPAq4n",
+        "title": "Pharmacological Treatments for Cancer-Related Anorexia-Cachexia Syndrome: An Umbrella Review of Systematic Reviews and Meta-Analyses.",
+        "summary": "Researchers reviewed treatments for cancer-related appetite loss and muscle wasting, evaluating which drugs work best to help patients maintain weight.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41950300/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-12"
+      },
+      {
         "id": "recIui3yWEKqwJN8l",
         "title": "Protective effect of nebivolol on bleomycin-induced lung fibrosis via suppressing TLR4/IL-1β/MMP-2 and TGF-β/HSP47 signaling pathways in rats.",
         "summary": "Nebivolol, a heart medication, protected rat lungs from bleomycin-induced scarring by blocking harmful inflammatory and fibrosis pathways.",
@@ -409,20 +423,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-10"
-      },
-      {
-        "id": "rece9oTdmc2UxiWtn",
-        "title": "Emerging roles of ATP citrate lyase in kidney diseases: from pathogenic driver to therapeutic target.",
-        "summary": "ACLY enzyme drives kidney disease progression through metabolic and gene regulation pathways, emerging as a promising therapeutic target across multiple kidney conditions.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41958067/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Kidney"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-10"
       }
@@ -1072,10 +1072,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16327,
+    "archive_count": 16328,
     "archive_supplements": 1861,
     "archive_off_label": 599,
-    "archive_biomarkers": 9697,
+    "archive_biomarkers": 9698,
     "archive_trials": 3468,
     "archive_mind_body": 410
   }
