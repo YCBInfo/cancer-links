@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T04:03:59.537Z",
+  "last_updated": "2026-04-12T04:04:10.535Z",
   "categories": {
     "supplements": [
       {
@@ -584,6 +584,20 @@
         "added_date": "2026-04-12"
       },
       {
+        "id": "rec3dcQG8G0h8dWgG",
+        "title": "Clinical Evaluation of Ultrasound-Enhanced Radiotracer Uptake for Radioligand Therapy in Metastatic Prostate Cancer.",
+        "summary": "Ultrasound treatment combined with radioactive therapy improved drug delivery to metastatic prostate cancer tumors in early clinical testing.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41964232/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-12"
+      },
+      {
         "id": "recStB2b5DyRGVDQW",
         "title": "Alistipes and Eggerthella shape the response to oncolytic adenovirus therapy in mice and humans through short-chain fatty acid metabolism.",
         "summary": "Specific gut bacteria—Alistipes and Eggerthella—influence how well oncolytic adenovirus cancer therapy works in patients.",
@@ -616,20 +630,6 @@
         "title": "Targeted detection of amino acid profiles in pleural fluid and serum by liquid chromatography-tandem mass spectrometry for estimating the risks of four aetiologies of pleural effusion: a proof-of-concept study.",
         "summary": "A blood and fluid test measuring amino acids can help doctors distinguish between four major causes of pleural effusion, including cancer.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41958379/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-11"
-      },
-      {
-        "id": "rec6NMfPk8HiKkP2c",
-        "title": "Second primary cancers following hematologic malignancies: Epidemiology, pathobiology and clinical management.",
-        "summary": "Cancer survivors treated for blood cancers face increased risk of developing second cancers due to treatment effects and genetic factors.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41956548/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -706,6 +706,20 @@
         "category": "Clinical Trials",
         "cancer_types": [
           "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-12"
+      },
+      {
+        "id": "rec3dcQG8G0h8dWgG",
+        "title": "Clinical Evaluation of Ultrasound-Enhanced Radiotracer Uptake for Radioligand Therapy in Metastatic Prostate Cancer.",
+        "summary": "Ultrasound treatment combined with radioactive therapy improved drug delivery to metastatic prostate cancer tumors in early clinical testing.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41964232/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Prostate"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -830,20 +844,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41961988/",
         "source": "PubMed",
         "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-11"
-      },
-      {
-        "id": "recl1KS0pLvIby9uQ",
-        "title": "Oncogenic Osteomalacia Due to Tumor in the Femoral Head Managed by Excision and Femoral Head Preservation: A Case Report.",
-        "summary": "A rare bone tumor causing mineral loss was successfully removed while preserving the femoral head, rapidly restoring normal phosphorus levels.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41961970/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
@@ -1072,10 +1072,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16274,
+    "archive_count": 16275,
     "archive_supplements": 1859,
     "archive_off_label": 599,
-    "archive_biomarkers": 9652,
+    "archive_biomarkers": 9653,
     "archive_trials": 3462,
     "archive_mind_body": 410
   }
