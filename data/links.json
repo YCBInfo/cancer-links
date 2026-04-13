@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T04:15:05.575Z",
+  "last_updated": "2026-04-13T04:15:16.497Z",
   "categories": {
     "supplements": [
       {
@@ -69,6 +69,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-13"
+      },
+      {
+        "id": "recBFokOt7ufYByo2",
+        "title": "Celastrol inhibits the immune escape and proliferation of triple - negative breast cancer (TNBC) through the LKB1 - AMPK - PD-L1/MYC signaling pathway.",
+        "summary": "Celastrol, a natural compound, stops triple-negative breast cancer growth and helps the immune system attack tumors by blocking a specific cellular pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41966774/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-13"
       },
@@ -194,20 +208,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Stomach"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-11"
-      },
-      {
-        "id": "recdEKUA8cmyzqNwe",
-        "title": "Therapeutic effects of selenium-enriched rapeseed against triple-negative breast cancer: involvement of Resolvin D5 activation and IL-17 signaling inhibition.",
-        "summary": "Selenium-enriched rapeseed suppresses triple-negative breast cancer growth by activating a molecule that blocks inflammatory IL-17 signaling.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41961142/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -1075,11 +1075,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16404,
+    "archive_count": 16405,
     "archive_supplements": 1865,
     "archive_off_label": 601,
     "archive_biomarkers": 9757,
-    "archive_trials": 3479,
+    "archive_trials": 3480,
     "archive_mind_body": 410
   }
 }
