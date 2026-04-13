@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T04:07:09.930Z",
+  "last_updated": "2026-04-13T04:07:20.855Z",
   "categories": {
     "supplements": [
       {
@@ -799,6 +799,20 @@
         "added_date": "2026-04-13"
       },
       {
+        "id": "recXY0ygPuuf7UiOw",
+        "title": "Deep learning-based automated masseter muscle area on routine CT stratifies survival in oral cancer.",
+        "summary": "A deep learning tool measuring masseter muscle size on CT scans predicts survival outcomes in oral cancer patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41965489/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-13"
+      },
+      {
         "id": "recynSqNSwgDpH70z",
         "title": "[Clinical significance and key points for interpreting progastrin-releasing peptide and neuron-specific enolase in chemoradiotherapy for limited-stage small cell lung cancer].",
         "summary": "ProGRP and NSE blood tests help monitor small cell lung cancer treatment response during chemotherapy and radiation, though results require careful clinical interpretation.",
@@ -838,20 +852,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
-        "added_date": "2026-04-12"
-      },
-      {
-        "id": "recVetdnvzLpUjshH",
-        "title": "Peripheral microRNA signature in genetic frontotemporal dementia-findings from the GENFI initiative.",
-        "summary": "Blood microRNA levels differ in frontotemporal dementia patients, with certain markers appearing before symptoms emerge, offering potential early disease detection.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41963707/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
         "added_date": "2026-04-12"
       }
     ],
@@ -1075,10 +1075,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16360,
+    "archive_count": 16361,
     "archive_supplements": 1861,
     "archive_off_label": 601,
-    "archive_biomarkers": 9723,
+    "archive_biomarkers": 9724,
     "archive_trials": 3473,
     "archive_mind_body": 410
   }
