@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T09:03:16.374Z",
+  "last_updated": "2026-04-13T09:03:26.944Z",
   "categories": {
     "supplements": [
       {
@@ -244,6 +244,20 @@
         "added_date": "2026-04-13"
       },
       {
+        "id": "recESwupFDjev7Lc7",
+        "title": "Avapritinib for targeting KIT D816V-mutated acute myeloid leukemia relapsed after allogeneic hematopoietic stem cell transplant with extramedullary and central nervous system involvement.",
+        "summary": "Drug avapritinib effectively treats relapsed acute myeloid leukemia with specific KIT mutation, even in brain and multiple organs.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41961082/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-13"
+      },
+      {
         "id": "reccYqYin6oDNxamp",
         "title": "NCOA4-mediated ferritinophagy: emerging role and novel therapeutic target in precision oncology.",
         "summary": "NCOA4-mediated ferritin breakdown triggers iron-dependent cancer cell death, offering a new treatment strategy to overcome drug resistance.",
@@ -409,20 +423,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-10"
-      },
-      {
-        "id": "recyFiz1xDxX7NUAS",
-        "title": "Multimodal Management of Ulcerated Infantile Hemangioma With Beta Blockers and Laser Therapy-A Systematic Review and Meta-Analysis.",
-        "summary": "Combined beta-blocker and laser therapy may heal ulcerated infantile hemangiomas faster than beta-blockers alone, but evidence remains inconclusive.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41956351/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 29,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-10"
       }
@@ -1075,10 +1075,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16428,
+    "archive_count": 16429,
     "archive_supplements": 1866,
     "archive_off_label": 601,
-    "archive_biomarkers": 9774,
+    "archive_biomarkers": 9775,
     "archive_trials": 3485,
     "archive_mind_body": 410
   }
