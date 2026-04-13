@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T04:03:41.376Z",
+  "last_updated": "2026-04-13T04:03:52.145Z",
   "categories": {
     "supplements": [
       {
@@ -599,6 +599,20 @@
         "added_date": "2026-04-13"
       },
       {
+        "id": "rec87fcP2rOPvQNdO",
+        "title": "CMML2AML: machine-learning discovery of co-mutations and specific single mutations predictive of blast transformation in chronic myelomonocytic leukemia.",
+        "summary": "Machine learning identified specific gene mutation combinations that predict which CMML patients will progress to acute leukemia, improving risk assessment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41965730/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-13"
+      },
+      {
         "id": "reckz4h8otyamhtde",
         "title": "Gut microbiota signatures in primary aldosteronism and functional identification of an aldosterone-degrading gut bacterium.",
         "summary": "A gut bacterium, Ruminococcus gnavus, degrades aldosterone and lowers blood pressure in primary aldosteronism patients.",
@@ -623,20 +637,6 @@
           "Colorectal"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-12"
-      },
-      {
-        "id": "rec2cis4oL7m7w06k",
-        "title": "The case for an Epstein-Barr virus vaccine: Lessons from its link to systemic lupus erythematosus.",
-        "summary": "An EBV vaccine could prevent systemic lupus erythematosus by blocking the virus's role in triggering autoimmune disease.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41964170/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-12"
       }
@@ -1075,10 +1075,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16341,
+    "archive_count": 16342,
     "archive_supplements": 1861,
     "archive_off_label": 601,
-    "archive_biomarkers": 9706,
+    "archive_biomarkers": 9707,
     "archive_trials": 3471,
     "archive_mind_body": 410
   }
