@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T08:03:00.623Z",
+  "last_updated": "2026-04-13T09:03:16.374Z",
   "categories": {
     "supplements": [
       {
@@ -81,6 +81,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-13"
+      },
+      {
+        "id": "rec7nUxQu01mW5rA3",
+        "title": "Multiscale analysis and optimal glioma therapeutic candidate discovery using the CANDO platform.",
+        "summary": "Researchers used the CANDO computational platform to discover 24 promising glioma drug candidates by analyzing how compounds interact with brain tumor proteins.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41968358/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Brain"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -198,23 +212,37 @@
         "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-11"
-      },
-      {
-        "id": "recN9eeX4OEpEjByI",
-        "title": "Network pharmacology, molecular docking, and In Vitro evaluation of morin against gastric cancer.",
-        "summary": "Morin, a natural plant compound, effectively kills gastric cancer cells by targeting and blocking key growth-promoting proteins.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41961389/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Stomach"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-11"
       }
     ],
     "off_label": [
+      {
+        "id": "rec7nUxQu01mW5rA3",
+        "title": "Multiscale analysis and optimal glioma therapeutic candidate discovery using the CANDO platform.",
+        "summary": "Researchers used the CANDO computational platform to discover 24 promising glioma drug candidates by analyzing how compounds interact with brain tumor proteins.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41968358/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-13"
+      },
+      {
+        "id": "recpDaciGE6NyItLZ",
+        "title": "Studying Synergistic Anticancer Effects of Repurposed AT1B Losartan with Antidiabetics Metformin, Rosiglitazone in Triple-Negative Breast Cancer Cells.",
+        "summary": "Losartan combined with metformin shows synergistic effects in killing triple-negative breast cancer cells more effectively than either drug alone.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41967625/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-13"
+      },
       {
         "id": "reccYqYin6oDNxamp",
         "title": "NCOA4-mediated ferritinophagy: emerging role and novel therapeutic target in precision oncology.",
@@ -395,34 +423,6 @@
           "General"
         ],
         "quality_score": 29,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-10"
-      },
-      {
-        "id": "recnb1AhgkPsp8eyl",
-        "title": "Antidiabetic drug effects on gastrointestinal health: convergent evidence from a longitudinal cohort and Mendelian randomization study.",
-        "summary": "A diabetes drug shows potential protective effects on gastrointestinal health based on combined evidence from patient studies and genetic analysis.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41951048/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-10"
-      },
-      {
-        "id": "recoFKAEmM2HiPIPn",
-        "title": "Off-label intravitreal eculizumab for geographic atrophy: report of the first two cases.",
-        "summary": "Researchers tested an eye injection drug to slow vision loss from age-related macular degeneration in two patients, showing early safety promise.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41943094/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-10"
       }
@@ -1075,10 +1075,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16427,
+    "archive_count": 16428,
     "archive_supplements": 1866,
     "archive_off_label": 601,
-    "archive_biomarkers": 9773,
+    "archive_biomarkers": 9774,
     "archive_trials": 3485,
     "archive_mind_body": 410
   }
