@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T11:20:34.451Z",
+  "last_updated": "2026-04-13T04:02:40.717Z",
   "categories": {
     "supplements": [
       {
@@ -429,6 +429,90 @@
     ],
     "biomarkers": [
       {
+        "id": "recpYc6KbL8CkzwyA",
+        "title": "A systematic assessment of the short- and long-term effects of commonly used breast cancer chemotherapeutics on the gut microbiome‒blood‒brain axis of female mice.",
+        "summary": "Breast cancer chemotherapies paclitaxel and cisplatin most disrupt the gut microbiome-brain axis, potentially benefiting from targeted interventions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41964565/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-13"
+      },
+      {
+        "id": "recBFhLFer8PUq1fk",
+        "title": "Endocrine and metabolic features of PTEN hamartoma tumor syndrome in childhood: a pediatric case series.",
+        "summary": "PTEN hamartoma tumor syndrome in children causes varied symptoms and complications, making early diagnosis challenging.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41966075/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-13"
+      },
+      {
+        "id": "reclqsfHfpXHxramt",
+        "title": "A simplified multitarget stool test for colorectal cancer and advanced precancerous lesion detection.",
+        "summary": "Researchers developed a simpler stool test using three markers to detect colorectal cancer and precancerous growths more easily.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41965119/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-13"
+      },
+      {
+        "id": "recbkQpt4OW2VGP2L",
+        "title": "Multimodal gene and targeted drug therapy for chronic myelogenous leukemia using BIM/MCL-1 chimeric nanoparticle: computational target analysis and therapeutic validation.",
+        "summary": "Nanoparticles delivering two genetic therapies combined with a targeted drug effectively killed chronic myeloid leukemia cells in mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41945265/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-13"
+      },
+      {
+        "id": "recJea1I6lYszJSFO",
+        "title": "Scalable Quantum Non-Local Neural Network Optimized with Tyrannosaurus Algorithm for Brain tumor Detection using MRI Images.",
+        "summary": "A new AI framework detects brain tumors in MRI scans with 99.8% accuracy, outperforming existing methods.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41967037/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-13"
+      },
+      {
+        "id": "rec77Em7KbW2OGnus",
+        "title": "Geographic and Sex Distribution of LI-RADS Research Globally: A Cross-Sectional Meta-Research Study.",
+        "summary": "LI-RADS research on liver cancer diagnosis doesn't match the actual global disease burden and male predominance.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41966764/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-13"
+      },
+      {
         "id": "reckz4h8otyamhtde",
         "title": "Gut microbiota signatures in primary aldosteronism and functional identification of an aldosterone-degrading gut bacterium.",
         "summary": "A gut bacterium, Ruminococcus gnavus, degrades aldosterone and lowers blood pressure in primary aldosteronism patients.",
@@ -554,82 +638,28 @@
         "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-12"
-      },
+      }
+    ],
+    "trials": [
       {
-        "id": "rectqd94wMkBCvRlE",
-        "title": "EpCAM supports exit from pluripotency of embryonic stem cells via Eomes.",
-        "summary": "EpCAM protein helps embryonic stem cells exit pluripotency and develop into heart cells by activating Eomes through Wnt signaling.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41963283/",
+        "id": "reclqsfHfpXHxramt",
+        "title": "A simplified multitarget stool test for colorectal cancer and advanced precancerous lesion detection.",
+        "summary": "Researchers developed a simpler stool test using three markers to detect colorectal cancer and precancerous growths more easily.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41965119/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-12"
-      },
-      {
-        "id": "recqmczXT9DVTTvDh",
-        "title": "3-Formylchromone attenuates urethane-induced lung carcinogenesis and enhances gefitinib anti-tumor response via modulation of IL-6/JAK1/STAT3/cyclin D1 signaling.",
-        "summary": "3-Formylchromone combined with gefitinib effectively reduces lung cancer tumors by blocking a key growth signaling pathway.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41964278/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Lung"
+          "Colorectal"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
-        "added_date": "2026-04-12"
+        "added_date": "2026-04-13"
       },
       {
-        "id": "rec3dcQG8G0h8dWgG",
-        "title": "Clinical Evaluation of Ultrasound-Enhanced Radiotracer Uptake for Radioligand Therapy in Metastatic Prostate Cancer.",
-        "summary": "Ultrasound treatment combined with radioactive therapy improved drug delivery to metastatic prostate cancer tumors in early clinical testing.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41964232/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Prostate"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-12"
-      },
-      {
-        "id": "recKaKrsGNWxyiNHL",
-        "title": "The Predictive Value of the Tumor-Stroma Ratio for Neoadjuvant Endocrine Therapy in Hormone Receptor-Positive Breast Cancer.",
-        "summary": "Hormone receptor-positive breast cancers with low tumor stroma are more likely to respond completely to endocrine therapy before surgery.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41964157/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-12"
-      },
-      {
-        "id": "recV0xpXfhaXvlqvT",
-        "title": "Peri-Operative Detection of Circulating Tumor DNA Using a Customized NGS Tumor-Informed Assay in Patients With HPV-Negative Locally Advanced Head and Neck Squamous Cell Carcinoma.",
-        "summary": "A customized blood test detects tumor DNA in HPV-negative head and neck cancer patients before and after surgery, potentially helping guide treatment decisions.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41964148/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-12"
-      },
-      {
-        "id": "recgeLebBQZ9kkhZ6",
-        "title": "CBL Syndrome With Granular Cell Tumor and café au lait macules: Expansion of the Phenotype.",
-        "summary": "A patient with CBL syndrome developed a granular cell tumor and café au lait skin spots, expanding the known symptoms of this genetic condition.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41964119/",
+        "id": "recbkQpt4OW2VGP2L",
+        "title": "Multimodal gene and targeted drug therapy for chronic myelogenous leukemia using BIM/MCL-1 chimeric nanoparticle: computational target analysis and therapeutic validation.",
+        "summary": "Nanoparticles delivering two genetic therapies combined with a targeted drug effectively killed chronic myeloid leukemia cells in mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41945265/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -637,10 +667,8 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
-        "added_date": "2026-04-12"
-      }
-    ],
-    "trials": [
+        "added_date": "2026-04-13"
+      },
       {
         "id": "recynSqNSwgDpH70z",
         "title": "[Clinical significance and key points for interpreting progastrin-releasing peptide and neuron-specific enolase in chemoradiotherapy for limited-stage small cell lung cancer].",
@@ -814,34 +842,6 @@
         "title": "In Vivo Tracking Modalities for Oncolytic Reovirus: Principles, Clinical Applications, and Translational Integration.",
         "summary": "Researchers review tracking methods for oncolytic reovirus therapy, a promising cancer treatment that selectively targets tumor cells while boosting immune response.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41963749/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-12"
-      },
-      {
-        "id": "recZQkKZdG1geV5Eo",
-        "title": "Hyperprogressive disease in carcinoma induced by immune checkpoint inhibitor therapy: a systematic review.",
-        "summary": "Some cancer patients experience rapid tumor growth after immune checkpoint inhibitor therapy, a phenomenon called hyperprogressive disease that requires better understanding.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41963634/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-12"
-      },
-      {
-        "id": "recMHz4FbBgV8esLs",
-        "title": "Vaccine elicitation of HIV broadly neutralizing antibodies from genome-edited B cells in non-human primates and derived lymphoid organoids.",
-        "summary": "Researchers used genome-edited B cells in primates to produce HIV-neutralizing antibodies, advancing potential therapeutic vaccine development.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41963633/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -1072,10 +1072,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16336,
+    "archive_count": 16337,
     "archive_supplements": 1861,
     "archive_off_label": 601,
-    "archive_biomarkers": 9701,
+    "archive_biomarkers": 9702,
     "archive_trials": 3471,
     "archive_mind_body": 410
   }
