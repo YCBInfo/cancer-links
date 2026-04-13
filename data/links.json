@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T04:04:47.650Z",
+  "last_updated": "2026-04-13T04:04:58.060Z",
   "categories": {
     "supplements": [
       {
@@ -743,6 +743,20 @@
         "added_date": "2026-04-13"
       },
       {
+        "id": "rec7p3KENynrUfaz0",
+        "title": "An integrative molecular map of pediatric B-cell precursor acute lymphoblastic leukemia.",
+        "summary": "Researchers created a comprehensive molecular map of pediatric B-cell leukemia to better understand how different molecular factors affect treatment response.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41965886/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-13"
+      },
+      {
         "id": "recynSqNSwgDpH70z",
         "title": "[Clinical significance and key points for interpreting progastrin-releasing peptide and neuron-specific enolase in chemoradiotherapy for limited-stage small cell lung cancer].",
         "summary": "ProGRP and NSE blood tests help monitor small cell lung cancer treatment response during chemotherapy and radiation, though results require careful clinical interpretation.",
@@ -835,20 +849,6 @@
         "category": "Clinical Trials",
         "cancer_types": [
           "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-12"
-      },
-      {
-        "id": "recKaKrsGNWxyiNHL",
-        "title": "The Predictive Value of the Tumor-Stroma Ratio for Neoadjuvant Endocrine Therapy in Hormone Receptor-Positive Breast Cancer.",
-        "summary": "Hormone receptor-positive breast cancers with low tumor stroma are more likely to respond completely to endocrine therapy before surgery.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41964157/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -1075,10 +1075,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16347,
+    "archive_count": 16348,
     "archive_supplements": 1861,
     "archive_off_label": 601,
-    "archive_biomarkers": 9711,
+    "archive_biomarkers": 9712,
     "archive_trials": 3472,
     "archive_mind_body": 410
   }
