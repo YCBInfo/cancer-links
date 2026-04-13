@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T04:09:49.687Z",
+  "last_updated": "2026-04-13T04:09:59.901Z",
   "categories": {
     "supplements": [
       {
@@ -41,6 +41,20 @@
           "General"
         ],
         "quality_score": 21,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-13"
+      },
+      {
+        "id": "recrJAOkmDIv6mSeN",
+        "title": "Fortified Chestnut Honey Triggers Apoptosis in Colon Cancer Cells.",
+        "summary": "Fortified chestnut honey kills colon cancer cells while sparing normal cells, suggesting potential as a complementary cancer therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41964874/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-13"
       },
@@ -196,20 +210,6 @@
           "Bladder"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-11"
-      },
-      {
-        "id": "recDILVUvETxpvDJc",
-        "title": "Promising Efficacy of Coenzyme Q10 Supplementation as Adjunctive Therapy in Juvenile Idiopathic Arthritis: A Randomized-Controlled Pilot Study.",
-        "summary": "Coenzyme Q10 supplementation shows promise as an additional treatment for juvenile idiopathic arthritis, based on pilot study results.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41958203/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-11"
       }
@@ -1075,10 +1075,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16375,
+    "archive_count": 16376,
     "archive_supplements": 1864,
     "archive_off_label": 601,
-    "archive_biomarkers": 9735,
+    "archive_biomarkers": 9736,
     "archive_trials": 3473,
     "archive_mind_body": 410
   }
