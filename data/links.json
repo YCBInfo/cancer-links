@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T04:08:02.831Z",
+  "last_updated": "2026-04-13T04:08:14.386Z",
   "categories": {
     "supplements": [
       {
@@ -7,6 +7,20 @@
         "title": "Unlocking p-coumaric acid's potential against biofilm-forming extensively drug-resistant Acinetobacter baumannii: in vitro and in vivo study.",
         "summary": "P-coumaric acid successfully breaks down dangerous bacterial biofilms and restores antibiotic effectiveness against drug-resistant Acinetobacter baumannii infections.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41965785/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-13"
+      },
+      {
+        "id": "recATPlb3Y5iovOSj",
+        "title": "Synergistic anticancer effects of peanut hairy root culture crude extract in combination with gemcitabine against cholangiocarcinoma.",
+        "summary": "Peanut extract combined with gemcitabine effectively kills cholangiocarcinoma cancer cells and shrinks tumors in mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41965440/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -196,20 +210,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-11"
-      },
-      {
-        "id": "rec8v981Ep8Xth900",
-        "title": "Omega-3 fatty acid DHA induces ferroptosis in colorectal cancer patient-derived organoids and drug-tolerant cells.",
-        "summary": "Omega-3 fatty acid DHA kills colorectal cancer cells by triggering ferroptosis and overcomes resistance to standard chemotherapy drugs.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41963291/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-11"
       }
@@ -813,6 +813,20 @@
         "added_date": "2026-04-13"
       },
       {
+        "id": "recATPlb3Y5iovOSj",
+        "title": "Synergistic anticancer effects of peanut hairy root culture crude extract in combination with gemcitabine against cholangiocarcinoma.",
+        "summary": "Peanut extract combined with gemcitabine effectively kills cholangiocarcinoma cancer cells and shrinks tumors in mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41965440/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-13"
+      },
+      {
         "id": "recynSqNSwgDpH70z",
         "title": "[Clinical significance and key points for interpreting progastrin-releasing peptide and neuron-specific enolase in chemoradiotherapy for limited-stage small cell lung cancer].",
         "summary": "ProGRP and NSE blood tests help monitor small cell lung cancer treatment response during chemotherapy and radiation, though results require careful clinical interpretation.",
@@ -837,20 +851,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-12"
-      },
-      {
-        "id": "recPz8Tiawq8e3gYr",
-        "title": "[Coexistence of lung cancer, brucellosis, and tuberculosis in a single patient: a case report].",
-        "summary": "A patient with lung cancer was simultaneously infected with tuberculosis and brucellosis, complicating diagnosis and treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41912389/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-04-12"
       }
@@ -1075,10 +1075,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16365,
+    "archive_count": 16366,
     "archive_supplements": 1862,
     "archive_off_label": 601,
-    "archive_biomarkers": 9727,
+    "archive_biomarkers": 9728,
     "archive_trials": 3473,
     "archive_mind_body": 410
   }
