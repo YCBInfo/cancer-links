@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T04:12:21.067Z",
+  "last_updated": "2026-04-13T04:12:29.331Z",
   "categories": {
     "supplements": [
       {
@@ -55,6 +55,20 @@
           "Colorectal"
         ],
         "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-13"
+      },
+      {
+        "id": "recS9Sqlehn1B006e",
+        "title": "Daklakamitocins A-I, Brominated Maytansinoid Glycosides from Amycolatopsis sp. CK6 with Antiproliferative Activity.",
+        "summary": "Brominated compounds from bacteria show stronger cancer cell-killing activity than their chlorinated counterparts, suggesting bromine enhances effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41964583/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-13"
       },
@@ -194,20 +208,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-11"
-      },
-      {
-        "id": "recbqFUvC6tfGxQDl",
-        "title": "Melatonin enhances the antitumor and immunomodulatory effects of Bacillus Calmette-Guérin immunotherapy in a murine bladder cancer model.",
-        "summary": "Melatonin combined with BCG immunotherapy improves treatment effectiveness against bladder cancer in mice.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41961139/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Bladder"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -1075,10 +1075,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16389,
+    "archive_count": 16390,
     "archive_supplements": 1865,
     "archive_off_label": 601,
-    "archive_biomarkers": 9746,
+    "archive_biomarkers": 9747,
     "archive_trials": 3475,
     "archive_mind_body": 410
   }
