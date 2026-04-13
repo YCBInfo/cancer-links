@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T04:05:33.121Z",
+  "last_updated": "2026-04-13T04:05:43.746Z",
   "categories": {
     "supplements": [
       {
@@ -771,6 +771,20 @@
         "added_date": "2026-04-13"
       },
       {
+        "id": "rec5m313cL4bhQQMp",
+        "title": "Identification of an immune-metabolic biosignature linking depressive symptoms and breast cancer in a clinical population.",
+        "summary": "Researchers identified a blood-based signature combining BMI, immune, and metabolic markers that predicts depression risk in breast cancer patients, enabling early intervention.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41965831/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-13"
+      },
+      {
         "id": "recynSqNSwgDpH70z",
         "title": "[Clinical significance and key points for interpreting progastrin-releasing peptide and neuron-specific enolase in chemoradiotherapy for limited-stage small cell lung cancer].",
         "summary": "ProGRP and NSE blood tests help monitor small cell lung cancer treatment response during chemotherapy and radiation, though results require careful clinical interpretation.",
@@ -835,20 +849,6 @@
         "category": "Clinical Trials",
         "cancer_types": [
           "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-12"
-      },
-      {
-        "id": "rec3dcQG8G0h8dWgG",
-        "title": "Clinical Evaluation of Ultrasound-Enhanced Radiotracer Uptake for Radioligand Therapy in Metastatic Prostate Cancer.",
-        "summary": "Ultrasound treatment combined with radioactive therapy improved drug delivery to metastatic prostate cancer tumors in early clinical testing.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41964232/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Prostate"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -1075,10 +1075,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16351,
+    "archive_count": 16352,
     "archive_supplements": 1861,
     "archive_off_label": 601,
-    "archive_biomarkers": 9714,
+    "archive_biomarkers": 9715,
     "archive_trials": 3473,
     "archive_mind_body": 410
   }
