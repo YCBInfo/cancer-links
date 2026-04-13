@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T04:05:20.206Z",
+  "last_updated": "2026-04-13T04:05:33.121Z",
   "categories": {
     "supplements": [
       {
@@ -757,6 +757,20 @@
         "added_date": "2026-04-13"
       },
       {
+        "id": "receWJIXy7gX2d3zl",
+        "title": "Proteome profiles of esophageal squamous cell carcinoma tie mitochondrial complex I to immunotherapy.",
+        "summary": "High mitochondrial complex I protein expression predicts better immunotherapy response in esophageal squamous cell carcinoma patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41965870/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-13"
+      },
+      {
         "id": "recynSqNSwgDpH70z",
         "title": "[Clinical significance and key points for interpreting progastrin-releasing peptide and neuron-specific enolase in chemoradiotherapy for limited-stage small cell lung cancer].",
         "summary": "ProGRP and NSE blood tests help monitor small cell lung cancer treatment response during chemotherapy and radiation, though results require careful clinical interpretation.",
@@ -835,20 +849,6 @@
         "category": "Clinical Trials",
         "cancer_types": [
           "Prostate"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-12"
-      },
-      {
-        "id": "rec03ULeN5eHLr4z6",
-        "title": "Seven Years of Watch and Wait With Rectal Cancer-Reflections and Optimisations.",
-        "summary": "Doctors successfully monitored rectal cancer patients without surgery when tumors completely disappeared after chemotherapy and radiation.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41964231/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Colorectal"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -1075,11 +1075,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16350,
+    "archive_count": 16351,
     "archive_supplements": 1861,
     "archive_off_label": 601,
     "archive_biomarkers": 9714,
-    "archive_trials": 3472,
+    "archive_trials": 3473,
     "archive_mind_body": 410
   }
 }
