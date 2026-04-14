@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T04:05:44.783Z",
+  "last_updated": "2026-04-14T04:05:56.750Z",
   "categories": {
     "supplements": [
       {
@@ -795,6 +795,20 @@
         "added_date": "2026-04-14"
       },
       {
+        "id": "recIwCpVOzK5ztmI7",
+        "title": "Improved survival and health care use with CAR-T vs historical care in relapsed/refractory large B-cell lymphoma.",
+        "summary": "CAR-T immunotherapy dramatically improved survival and reduced hospitalizations compared to previous treatments for relapsed large B-cell lymphoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41544221/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Lymphoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-14"
+      },
+      {
         "id": "reclqsfHfpXHxramt",
         "title": "A simplified multitarget stool test for colorectal cancer and advanced precancerous lesion detection.",
         "summary": "Researchers developed a simpler stool test using three markers to detect colorectal cancer and precancerous growths more easily.",
@@ -833,22 +847,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-13"
-      },
-      {
-        "id": "recl8o7WBoTLtUqnS",
-        "title": "Transforming tumor cells into professional antigen-presenting cells using poly(β-amino ester) nanoparticles to deliver CD80-encoding mRNA.",
-        "summary": "Researchers converted melanoma and lung cancer cells into immune-activating cells using nanoparticles delivering CD80 genes, enabling strong anti-tumor T-cell responses.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41966140/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung",
-          "Melanoma",
-          "Leukemia"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-13"
       }
@@ -1073,10 +1071,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16495,
+    "archive_count": 16496,
     "archive_supplements": 1886,
     "archive_off_label": 603,
-    "archive_biomarkers": 9808,
+    "archive_biomarkers": 9809,
     "archive_trials": 3494,
     "archive_mind_body": 412
   }
