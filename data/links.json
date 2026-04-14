@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T08:03:37.913Z",
+  "last_updated": "2026-04-14T09:03:19.959Z",
   "categories": {
     "supplements": [
       {
@@ -229,6 +229,20 @@
         "added_date": "2026-04-14"
       },
       {
+        "id": "recECJTpc7u57UQzr",
+        "title": "Gastroenterology/Hepatology: What You May Have Missed in 2025.",
+        "summary": "Exercise after colon cancer surgery and treatment reduces recurrence and improves survival in patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41974014/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-14"
+      },
+      {
         "id": "rec7nUxQu01mW5rA3",
         "title": "Multiscale analysis and optimal glioma therapeutic candidate discovery using the CANDO platform.",
         "summary": "Researchers used the CANDO computational platform to discover 24 promising glioma drug candidates by analyzing how compounds interact with brain tumor proteins.",
@@ -409,20 +423,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
-        "added_date": "2026-04-10"
-      },
-      {
-        "id": "recO8k7Y3J6pZgCJx",
-        "title": "Targeting NDUFS4 Disrupts Oxidative Phosphorylation and Induces Ferroptosis in Olaparib-Resistant Prostate Cancer.",
-        "summary": "Blocking NDUFS4 in drug-resistant prostate cancer restores sensitivity to PARP inhibitors by disrupting energy production and triggering cell death.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41954274/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Prostate"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
         "added_date": "2026-04-10"
       }
     ],
@@ -1072,10 +1072,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16683,
+    "archive_count": 16684,
     "archive_supplements": 1899,
     "archive_off_label": 604,
-    "archive_biomarkers": 9927,
+    "archive_biomarkers": 9928,
     "archive_trials": 3548,
     "archive_mind_body": 413
   }
