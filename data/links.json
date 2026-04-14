@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T04:19:54.770Z",
+  "last_updated": "2026-04-14T04:20:05.217Z",
   "categories": {
     "supplements": [
       {
@@ -65,6 +65,20 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41972457/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-14"
+      },
+      {
+        "id": "rec2ULqtF58FTZew6",
+        "title": "Investigation of Antitumor Activity of Modified Citrus Pectin: Oral and Intravenous Administration Assessed via Molecular Imaging.",
+        "summary": "Modified citrus pectin shows only modest tumor-fighting effects in ovarian, gastric, and breast cancers, with poor oral absorption limiting its therapeutic potential.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41873039/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "General"
         ],
@@ -195,20 +209,6 @@
           "Breast"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-13"
-      },
-      {
-        "id": "recrNimXaUZapRwbn",
-        "title": "Molecular Insights Into Phytochemicals as Modulators in Oral Squamous Cell Carcinoma.",
-        "summary": "Plant compounds like curcumin and resveratrol show promise in fighting oral cancer by targeting its molecular growth mechanisms.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41968444/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-13"
       }
@@ -1071,10 +1071,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16572,
+    "archive_count": 16573,
     "archive_supplements": 1889,
     "archive_off_label": 603,
-    "archive_biomarkers": 9870,
+    "archive_biomarkers": 9871,
     "archive_trials": 3506,
     "archive_mind_body": 412
   }
