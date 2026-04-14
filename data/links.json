@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T04:02:49.233Z",
+  "last_updated": "2026-04-14T04:03:03.624Z",
   "categories": {
     "supplements": [
       {
@@ -540,6 +540,20 @@
         "added_date": "2026-04-14"
       },
       {
+        "id": "rec9whjwJ9eLHJotp",
+        "title": "Profile of Helen M. Piwnica-Worms.",
+        "summary": "Researcher identifies how BRCA1-mutant breast cancer cells escape drug treatment, suggesting new combination therapy approaches.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41973922/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-14"
+      },
+      {
         "id": "recpYc6KbL8CkzwyA",
         "title": "A systematic assessment of the short- and long-term effects of commonly used breast cancer chemotherapeutics on the gut microbiome‒blood‒brain axis of female mice.",
         "summary": "Breast cancer chemotherapies paclitaxel and cisplatin most disrupt the gut microbiome-brain axis, potentially benefiting from targeted interventions.",
@@ -622,20 +636,6 @@
         "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-13"
-      },
-      {
-        "id": "recfWcqUWePkDYtlc",
-        "title": "Continuous bed motion versus step-and-shoot acquisition in LAFOV PET/CT: insights from multi-phantom and patient studies.",
-        "summary": "Continuous bed motion scanning produces equal image quality to traditional step-and-shoot methods in advanced PET/CT cancer imaging.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41966653/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-13"
       }
     ],
     "trials": [
@@ -678,6 +678,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-14"
+      },
+      {
+        "id": "rec9whjwJ9eLHJotp",
+        "title": "Profile of Helen M. Piwnica-Worms.",
+        "summary": "Researcher identifies how BRCA1-mutant breast cancer cells escape drug treatment, suggesting new combination therapy approaches.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41973922/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-14"
       },
@@ -834,20 +848,6 @@
           "Breast"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-13"
-      },
-      {
-        "id": "recXY0ygPuuf7UiOw",
-        "title": "Deep learning-based automated masseter muscle area on routine CT stratifies survival in oral cancer.",
-        "summary": "A deep learning tool measuring masseter muscle size on CT scans predicts survival outcomes in oral cancer patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41965489/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-13"
       }
@@ -1072,10 +1072,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16481,
+    "archive_count": 16482,
     "archive_supplements": 1885,
     "archive_off_label": 603,
-    "archive_biomarkers": 9796,
+    "archive_biomarkers": 9797,
     "archive_trials": 3493,
     "archive_mind_body": 412
   }
