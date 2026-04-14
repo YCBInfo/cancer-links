@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T04:04:21.123Z",
+  "last_updated": "2026-04-14T04:04:44.262Z",
   "categories": {
     "supplements": [
       {
@@ -624,18 +624,18 @@
         "added_date": "2026-04-14"
       },
       {
-        "id": "recpYc6KbL8CkzwyA",
-        "title": "A systematic assessment of the short- and long-term effects of commonly used breast cancer chemotherapeutics on the gut microbiome‒blood‒brain axis of female mice.",
-        "summary": "Breast cancer chemotherapies paclitaxel and cisplatin most disrupt the gut microbiome-brain axis, potentially benefiting from targeted interventions.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41964565/",
+        "id": "recWqthbK7xB0G6mg",
+        "title": "Clinical outcomes of older patients with NPM1-mutated or KMT2A-rearranged AML before menin inhibitors: a Beat AML report.",
+        "summary": "Older patients with specific acute myeloid leukemia mutations had poor outcomes before a new menin inhibitor treatment became available.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41632633/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
-          "Breast"
+          "General"
         ],
-        "quality_score": 15,
+        "quality_score": 12,
         "pub_date": "2026-04-01",
-        "added_date": "2026-04-13"
+        "added_date": "2026-04-14"
       }
     ],
     "trials": [
@@ -702,6 +702,34 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41963257/",
         "source": "PubMed",
         "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-14"
+      },
+      {
+        "id": "recWqthbK7xB0G6mg",
+        "title": "Clinical outcomes of older patients with NPM1-mutated or KMT2A-rearranged AML before menin inhibitors: a Beat AML report.",
+        "summary": "Older patients with specific acute myeloid leukemia mutations had poor outcomes before a new menin inhibitor treatment became available.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41632633/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-14"
+      },
+      {
+        "id": "rechuuRHwoIkhdIdt",
+        "title": "Clonal dynamics, tolerance, and adverse events after CD45-ADC-conditioned autologous HSPC transplantation in macaques.",
+        "summary": "CD45-ADC conditioning in macaques enabled gene-modified cell engraftment but triggered immune rejection; lower doses with immunosuppression showed promise for durable transplantation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41592287/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
@@ -818,34 +846,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-13"
-      },
-      {
-        "id": "receWJIXy7gX2d3zl",
-        "title": "Proteome profiles of esophageal squamous cell carcinoma tie mitochondrial complex I to immunotherapy.",
-        "summary": "High mitochondrial complex I protein expression predicts better immunotherapy response in esophageal squamous cell carcinoma patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41965870/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-13"
-      },
-      {
-        "id": "rec5m313cL4bhQQMp",
-        "title": "Identification of an immune-metabolic biosignature linking depressive symptoms and breast cancer in a clinical population.",
-        "summary": "Researchers identified a blood-based signature combining BMI, immune, and metabolic markers that predicts depression risk in breast cancer patients, enabling early intervention.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41965831/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -1072,8 +1072,8 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16489,
-    "archive_supplements": 1885,
+    "archive_count": 16490,
+    "archive_supplements": 1886,
     "archive_off_label": 603,
     "archive_biomarkers": 9804,
     "archive_trials": 3493,
