@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T09:05:21.064Z",
+  "last_updated": "2026-04-14T09:05:38.622Z",
   "categories": {
     "supplements": [
       {
@@ -271,6 +271,20 @@
         "added_date": "2026-04-14"
       },
       {
+        "id": "recB4EBksjMmIPET2",
+        "title": "Pharmacokinetic Prediction of Repurposed Drugs for PDAC Using Artificial Intelligence.",
+        "summary": "AI models accurately predict how repurposed drugs behave in the body for pancreatic cancer treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41970855/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Pancreatic"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-14"
+      },
+      {
         "id": "rec7nUxQu01mW5rA3",
         "title": "Multiscale analysis and optimal glioma therapeutic candidate discovery using the CANDO platform.",
         "summary": "Researchers used the CANDO computational platform to discover 24 promising glioma drug candidates by analyzing how compounds interact with brain tumor proteins.",
@@ -405,21 +419,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-11"
-      },
-      {
-        "id": "recsQq84PKX8FNyco",
-        "title": "Metformin treatment impairs the adenine nucleotide translocator activity and energy metabolism in human clear cell renal carcinoma cells.",
-        "summary": "Metformin kills kidney cancer cells by disrupting their energy production and forcing them to switch to less efficient metabolism.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41963519/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Colorectal",
-          "Kidney"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -1072,10 +1071,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16694,
+    "archive_count": 16695,
     "archive_supplements": 1900,
     "archive_off_label": 605,
-    "archive_biomarkers": 9932,
+    "archive_biomarkers": 9933,
     "archive_trials": 3552,
     "archive_mind_body": 413
   }
