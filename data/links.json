@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T09:03:53.131Z",
+  "last_updated": "2026-04-14T09:04:04.710Z",
   "categories": {
     "supplements": [
       {
@@ -243,6 +243,20 @@
         "added_date": "2026-04-14"
       },
       {
+        "id": "recVKk7dn2YWFA2tk",
+        "title": "Associations of aspirin use with pancreatic cancer risk: a meta-analysis of cohort studies with exploratory population- and exposure-stratified analyses.",
+        "summary": "Aspirin use is associated with reduced pancreatic cancer risk, particularly in people with diabetes, normal weight, and non-drinkers.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41968938/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Pancreatic"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-14"
+      },
+      {
         "id": "rec7nUxQu01mW5rA3",
         "title": "Multiscale analysis and optimal glioma therapeutic candidate discovery using the CANDO platform.",
         "summary": "Researchers used the CANDO computational platform to discover 24 promising glioma drug candidates by analyzing how compounds interact with brain tumor proteins.",
@@ -410,20 +424,6 @@
         "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-11"
-      },
-      {
-        "id": "rec4kXk4KHc8DYudc",
-        "title": "Liver cancer-derived exosomal PTK6 induces the secretion of pulmonary CHI3L1 to facilitate lung metastatic niche formation.",
-        "summary": "Liver cancer cells send signals that trigger lung cells to produce a protein enabling lung metastasis; blocking this protein reduces cancer spread.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41672224/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-10"
       }
     ],
     "biomarkers": [
@@ -1072,11 +1072,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16686,
+    "archive_count": 16687,
     "archive_supplements": 1899,
     "archive_off_label": 604,
     "archive_biomarkers": 9930,
-    "archive_trials": 3548,
+    "archive_trials": 3549,
     "archive_mind_body": 413
   }
 }
