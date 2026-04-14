@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T04:15:40.174Z",
+  "last_updated": "2026-04-14T04:15:50.678Z",
   "categories": {
     "supplements": [
       {
@@ -55,6 +55,20 @@
           "Colorectal"
         ],
         "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-14"
+      },
+      {
+        "id": "recqcT0ys8h2cqiUo",
+        "title": "A Microbial Lipid-ATP Synthase Axis Fuels NK Cell Antitumor Activity.",
+        "summary": "Gut bacteria produce lipid-enriched particles that boost natural killer cells' cancer-fighting ability, offering a potential new immunotherapy approach.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41972457/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-14"
       },
@@ -195,20 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-13"
-      },
-      {
-        "id": "recQuRqu3VICzIhKM",
-        "title": "Pyroptosis as a double-edged sword in colorectal cancer: Molecular mechanisms and therapeutic opportunities.",
-        "summary": "Pyroptosis, a cell death process, shows dual roles in colorectal cancer—it can either promote or suppress tumors—offering new therapeutic opportunities.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41966661/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-13"
       }
@@ -1071,10 +1071,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16549,
+    "archive_count": 16550,
     "archive_supplements": 1889,
     "archive_off_label": 603,
-    "archive_biomarkers": 9850,
+    "archive_biomarkers": 9851,
     "archive_trials": 3503,
     "archive_mind_body": 412
   }
