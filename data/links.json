@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T04:26:32.241Z",
+  "last_updated": "2026-04-14T06:03:18.471Z",
   "categories": {
     "supplements": [
       {
@@ -83,6 +83,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-14"
+      },
+      {
+        "id": "recUX8lHw6UP9UCqR",
+        "title": "The effect of immunonutritional support in patients undergoing surgery and adjuvant chemotherapy for lung cancer.",
+        "summary": "Early nutritional support after lung cancer surgery reduced inflammation and may improve outcomes during chemotherapy treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41975170/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-14"
       },
@@ -195,20 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-13"
-      },
-      {
-        "id": "recZkGtGtStndaZBj",
-        "title": "Apigenin Inhibits Triple-Negative Breast Cancer Growth by Dual Targeting GPX4/SLC7A11-Mediated Ferroptosis and PKM2/GLUT1-Mediated Aerobic Glycolysis.",
-        "summary": "Apigenin, a natural compound, inhibits triple-negative breast cancer growth by triggering cell death through two mechanisms: ferroptosis and blocking energy production.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41968638/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-13"
       }
@@ -1071,10 +1071,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16608,
+    "archive_count": 16609,
     "archive_supplements": 1890,
     "archive_off_label": 603,
-    "archive_biomarkers": 9902,
+    "archive_biomarkers": 9903,
     "archive_trials": 3509,
     "archive_mind_body": 412
   }
