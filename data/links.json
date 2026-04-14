@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T04:05:05.513Z",
+  "last_updated": "2026-04-14T04:05:22.293Z",
   "categories": {
     "supplements": [
       {
@@ -766,6 +766,21 @@
         "added_date": "2026-04-14"
       },
       {
+        "id": "recaYYxyRxhQe140m",
+        "title": "Advancing precision therapy in pediatric acute myeloid leukemia through PDX models and mitochondrial targeting.",
+        "summary": "Patient-derived models reveal that combining mitochondrial and cell survival inhibitors effectively targets pediatric acute myeloid leukemia.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41576348/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia",
+          "Lymphoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-14"
+      },
+      {
         "id": "reclqsfHfpXHxramt",
         "title": "A simplified multitarget stool test for colorectal cancer and advanced precancerous lesion detection.",
         "summary": "Researchers developed a simpler stool test using three markers to detect colorectal cancer and precancerous growths more easily.",
@@ -834,20 +849,6 @@
           "Lymphoma"
         ],
         "quality_score": 18,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-13"
-      },
-      {
-        "id": "recajZZE8MOzJ4pl0",
-        "title": "Differential KEAP1/NRF2 mediated signaling widens the therapeutic window of redox-targeting drugs in SCLC therapy.",
-        "summary": "SCLC cells' weak antioxidant defenses make them vulnerable to a TXNRD1 inhibitor, which can be safely escalated by boosting NRF2 protection in healthy tissues.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41965332/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-13"
       }
@@ -1072,10 +1073,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16492,
+    "archive_count": 16493,
     "archive_supplements": 1886,
     "archive_off_label": 603,
-    "archive_biomarkers": 9805,
+    "archive_biomarkers": 9806,
     "archive_trials": 3494,
     "archive_mind_body": 412
   }
