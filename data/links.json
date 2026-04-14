@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T02:02:26.100Z",
+  "last_updated": "2026-04-14T04:02:49.233Z",
   "categories": {
     "supplements": [
       {
@@ -428,6 +428,118 @@
     ],
     "biomarkers": [
       {
+        "id": "recoXkmWvVmjEDeNi",
+        "title": "Cost comparison of osimertinib plus platinum-pemetrexed versus amivantamab plus lazertinib for the first-line treatment of patients with locally advanced or metastatic epidermal growth factor receptor-mutated non-small cell lung cancer.",
+        "summary": "New drug combinations for EGFR-mutated lung cancer show better results, but a cost analysis compares their affordability for patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41973054/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-14"
+      },
+      {
+        "id": "recMq6gl8lwu3VOzs",
+        "title": "Desmoid Tumors-Biology-Driven Management and Treatment Selection.",
+        "summary": "Desmoid tumors are now managed through observation and targeted drugs rather than aggressive surgery, improving patient outcomes and quality of life.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41973968/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-14"
+      },
+      {
+        "id": "recTxJzy1jy6EnlEI",
+        "title": "Lancet2: Improved and accelerated somatic variant calling with joint multi-sample local assembly graphs.",
+        "summary": "Lancet2 improves detection of cancer-causing DNA mutations in tumor samples, offering faster analysis and better accuracy than existing tools.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41972010/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-14"
+      },
+      {
+        "id": "recP0Ncn23fQaIXgl",
+        "title": "SpNeigh: spatial neighborhood and differential expression analysis for high-resolution spatial transcriptomics.",
+        "summary": "SpNeigh software analyzes gene expression patterns while preserving tissue location, revealing hidden cell populations and spatial gene patterns in cancer and normal tissues.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41972009/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-14"
+      },
+      {
+        "id": "recCOGry7iahhjXnQ",
+        "title": "MYC and AP-1 oncogenes cooperatively bind enhancers to rewire transcription.",
+        "summary": "Cancer cells with high MYC levels use AP-1 cooperation at enhancers to rewire gene expression and promote cancer growth.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41970279/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-14"
+      },
+      {
+        "id": "recOiXwWKYM0q70Av",
+        "title": "Wooden-Tip Electrospray Ionization Mass Spectrometry Combined With Machine Learning for Differentiating Thyroid Tumours.",
+        "summary": "Researchers developed a rapid wooden-tip mass spectrometry method with machine learning to quickly distinguish healthy thyroid tissue from benign and malignant thyroid tumors.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41969608/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-14"
+      },
+      {
+        "id": "reczzjqdfl6P9PDdy",
+        "title": "HOXD9 affecting glioma proliferation and invasion.",
+        "summary": "Reducing HOXD9 gene expression slows glioma cell growth and spread, making it a potential treatment target.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41969400/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-14"
+      },
+      {
+        "id": "recRHwZRp8cC6obm6",
+        "title": "Dominant-negative PSMB10 disrupts immunoproteasome assembly and leads to transient T lymphopenia.",
+        "summary": "A mutation disrupting immunoproteasome assembly causes temporary T cell loss in a newborn, but surprisingly resolves naturally within the first year.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41971628/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-14"
+      },
+      {
         "id": "recpYc6KbL8CkzwyA",
         "title": "A systematic assessment of the short- and long-term effects of commonly used breast cancer chemotherapeutics on the gut microbiome‒blood‒brain axis of female mice.",
         "summary": "Breast cancer chemotherapies paclitaxel and cisplatin most disrupt the gut microbiome-brain axis, potentially benefiting from targeted interventions.",
@@ -524,120 +636,6 @@
         "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-13"
-      },
-      {
-        "id": "rec9VSZ8QO3oECGjA",
-        "title": "MR-based techniques for imaging prostate cancer metabolism: current status and future perspectives.",
-        "summary": "MR-based metabolic imaging techniques help diagnose, stratify risk, and monitor treatment response in prostate cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41966642/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Prostate"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-13"
-      },
-      {
-        "id": "rec7jV60P8fn5nq1F",
-        "title": "Impact of TOPAZ-1 eligibility on the survival benefit of durvalumab plus gemcitabine-cisplatin in advanced biliary tract cancer: a multicenter real-world study.",
-        "summary": "A combination drug treatment for advanced biliary tract cancer works well in real-world patients, not just trial participants.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41966637/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-13"
-      },
-      {
-        "id": "rec6YHU0rx2WWUkPt",
-        "title": "Proteomic Analysis of Paired FFPE Tissue and Extracellular Vesicles Reveals Proteins Associated with Recurrence in Stage II Colorectal Cancer.",
-        "summary": "Researchers identified specific proteins in tissue and blood vesicles that predict which stage II colorectal cancer patients will experience recurrence, enabling better risk assessment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41966223/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-13"
-      },
-      {
-        "id": "recl8o7WBoTLtUqnS",
-        "title": "Transforming tumor cells into professional antigen-presenting cells using poly(β-amino ester) nanoparticles to deliver CD80-encoding mRNA.",
-        "summary": "Researchers converted melanoma and lung cancer cells into immune-activating cells using nanoparticles delivering CD80 genes, enabling strong anti-tumor T-cell responses.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41966140/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung",
-          "Melanoma",
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-13"
-      },
-      {
-        "id": "recq8Ineo5iVbri1m",
-        "title": "Isolated Mental Nerve Neuropathy as the First Clinical Sign of Nodal Marginal Zone Lymphoma: A Diagnostic Challenge.",
-        "summary": "Persistent chin numbness was the first sign of marginal zone lymphoma, highlighting the importance of thorough investigation when symptoms don't resolve.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41966051/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lymphoma"
-        ],
-        "quality_score": 18,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-13"
-      },
-      {
-        "id": "rec87fcP2rOPvQNdO",
-        "title": "CMML2AML: machine-learning discovery of co-mutations and specific single mutations predictive of blast transformation in chronic myelomonocytic leukemia.",
-        "summary": "Machine learning identified specific gene mutation combinations that predict which CMML patients will progress to acute leukemia, improving risk assessment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41965730/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-13"
-      },
-      {
-        "id": "recajZZE8MOzJ4pl0",
-        "title": "Differential KEAP1/NRF2 mediated signaling widens the therapeutic window of redox-targeting drugs in SCLC therapy.",
-        "summary": "SCLC cells' weak antioxidant defenses make them vulnerable to a TXNRD1 inhibitor, which can be safely escalated by boosting NRF2 protection in healthy tissues.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41965332/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-13"
-      },
-      {
-        "id": "rec0Yqptme269gSj8",
-        "title": "Methylation biomarkers in non-regressive cervical intraepithelial neoplasia grade 2 lesions: an epigenome wide association study.",
-        "summary": "Researchers identified DNA methylation patterns that could predict which cervical precancerous lesions will persist rather than naturally disappear.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41965938/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-13"
       }
     ],
     "trials": [
@@ -652,6 +650,34 @@
           "General"
         ],
         "quality_score": 38,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-14"
+      },
+      {
+        "id": "recoXkmWvVmjEDeNi",
+        "title": "Cost comparison of osimertinib plus platinum-pemetrexed versus amivantamab plus lazertinib for the first-line treatment of patients with locally advanced or metastatic epidermal growth factor receptor-mutated non-small cell lung cancer.",
+        "summary": "New drug combinations for EGFR-mutated lung cancer show better results, but a cost analysis compares their affordability for patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41973054/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-14"
+      },
+      {
+        "id": "recMq6gl8lwu3VOzs",
+        "title": "Desmoid Tumors-Biology-Driven Management and Treatment Selection.",
+        "summary": "Desmoid tumors are now managed through observation and targeted drugs rather than aggressive surgery, improving patient outcomes and quality of life.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41973968/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-14"
       },
@@ -822,34 +848,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-13"
-      },
-      {
-        "id": "recATPlb3Y5iovOSj",
-        "title": "Synergistic anticancer effects of peanut hairy root culture crude extract in combination with gemcitabine against cholangiocarcinoma.",
-        "summary": "Peanut extract combined with gemcitabine effectively kills cholangiocarcinoma cancer cells and shrinks tumors in mice.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41965440/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-13"
-      },
-      {
-        "id": "rec1vNmCIoojiU9bu",
-        "title": "Co-delivering macrophage engager mRNA and PD-L1 antibody via tumor-responsive nanoparticles for glioblastoma immunotherapy.",
-        "summary": "Researchers developed tumor-targeting nanoparticles delivering mRNA and antibodies that reprogram immune cells to attack glioblastoma, improving survival without toxicity.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41965349/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Brain"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-13"
       }
@@ -1074,11 +1072,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16480,
+    "archive_count": 16481,
     "archive_supplements": 1885,
     "archive_off_label": 603,
     "archive_biomarkers": 9796,
-    "archive_trials": 3492,
+    "archive_trials": 3493,
     "archive_mind_body": 412
   }
 }
