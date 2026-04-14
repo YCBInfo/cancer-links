@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T09:04:48.410Z",
+  "last_updated": "2026-04-14T09:04:58.258Z",
   "categories": {
     "supplements": [
       {
@@ -257,6 +257,20 @@
         "added_date": "2026-04-14"
       },
       {
+        "id": "rec3EWJHlfTP4a8FD",
+        "title": "Severe Pharyngo-Laryngeal Mucositis During Radiotherapy in a Patient Receiving Colchicine: A Case Report.",
+        "summary": "Colchicine use during radiotherapy for throat cancer unexpectedly worsened mouth and throat damage, suggesting a dangerous drug-radiation interaction.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41970299/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-14"
+      },
+      {
         "id": "rec7nUxQu01mW5rA3",
         "title": "Multiscale analysis and optimal glioma therapeutic candidate discovery using the CANDO platform.",
         "summary": "Researchers used the CANDO computational platform to discover 24 promising glioma drug candidates by analyzing how compounds interact with brain tumor proteins.",
@@ -408,20 +422,6 @@
           "Kidney"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-11"
-      },
-      {
-        "id": "recgKkIknxNlLd0kM",
-        "title": "Targeting G3BP1-Mediated Stress Granules to Suppress SARS-CoV-2 Replication.",
-        "summary": "Two FDA-approved drugs, dexlansoprazole and citalopram, reduced SARS-CoV-2 replication by disrupting viral-host protein interactions in stress granules.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41960678/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-11"
       }
@@ -1072,8 +1072,8 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16691,
-    "archive_supplements": 1899,
+    "archive_count": 16692,
+    "archive_supplements": 1900,
     "archive_off_label": 604,
     "archive_biomarkers": 9932,
     "archive_trials": 3551,
