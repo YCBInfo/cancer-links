@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-04-14T04:03:13.500Z",
+  "last_updated": "2026-04-14T04:03:23.950Z",
   "categories": {
     "supplements": [
+      {
+        "id": "recaJFN16PPG8rsmM",
+        "title": "Chenopodium ambrosioides Linn. induces mitochondrial-dependent cell death via activation of mPT pore opening, caspases and apoptotic machinery.",
+        "summary": "Chenopodium ambrosioides plant extract kills cancer cells by opening mitochondrial pores and triggering programmed cell death.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41973944/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-14"
+      },
       {
         "id": "recLGjVtxasOPrO3i",
         "title": "Unlocking p-coumaric acid's potential against biofilm-forming extensively drug-resistant Acinetobacter baumannii: in vitro and in vivo study.",
@@ -195,20 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-13"
-      },
-      {
-        "id": "recOHKo71w4aSXpo7",
-        "title": "How the gut microbiome affects the immunotherapy response in hepatocellular carcinoma.",
-        "summary": "Beneficial gut bacteria enhance immunotherapy effectiveness in liver cancer, while harmful bacteria reduce it through inflammation pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41968757/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Liver"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-13"
       }
@@ -554,6 +554,20 @@
         "added_date": "2026-04-14"
       },
       {
+        "id": "recaJFN16PPG8rsmM",
+        "title": "Chenopodium ambrosioides Linn. induces mitochondrial-dependent cell death via activation of mPT pore opening, caspases and apoptotic machinery.",
+        "summary": "Chenopodium ambrosioides plant extract kills cancer cells by opening mitochondrial pores and triggering programmed cell death.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41973944/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-14"
+      },
+      {
         "id": "recpYc6KbL8CkzwyA",
         "title": "A systematic assessment of the short- and long-term effects of commonly used breast cancer chemotherapeutics on the gut microbiome‒blood‒brain axis of female mice.",
         "summary": "Breast cancer chemotherapies paclitaxel and cisplatin most disrupt the gut microbiome-brain axis, potentially benefiting from targeted interventions.",
@@ -618,20 +632,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-13"
-      },
-      {
-        "id": "rec77Em7KbW2OGnus",
-        "title": "Geographic and Sex Distribution of LI-RADS Research Globally: A Cross-Sectional Meta-Research Study.",
-        "summary": "LI-RADS research on liver cancer diagnosis doesn't match the actual global disease burden and male predominance.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41966764/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Liver"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -1072,10 +1072,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16483,
+    "archive_count": 16484,
     "archive_supplements": 1885,
     "archive_off_label": 603,
-    "archive_biomarkers": 9798,
+    "archive_biomarkers": 9799,
     "archive_trials": 3493,
     "archive_mind_body": 412
   }
