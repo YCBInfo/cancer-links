@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T07:09:14.762Z",
+  "last_updated": "2026-04-14T08:02:41.340Z",
   "categories": {
     "supplements": [
       {
@@ -215,6 +215,20 @@
     ],
     "off_label": [
       {
+        "id": "rece6CyV9lkmmaiJE",
+        "title": "GLP-1RA plus SGLT2i combination therapy and liver fibrosis progression in MASLD with type 2 diabetes.",
+        "summary": "Combining two diabetes drugs may slow liver fibrosis progression better than using one drug alone in patients with fatty liver disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41974037/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-14"
+      },
+      {
         "id": "rec7nUxQu01mW5rA3",
         "title": "Multiscale analysis and optimal glioma therapeutic candidate discovery using the CANDO platform.",
         "summary": "Researchers used the CANDO computational platform to discover 24 promising glioma drug candidates by analyzing how compounds interact with brain tumor proteins.",
@@ -408,20 +422,6 @@
           "Prostate"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-10"
-      },
-      {
-        "id": "rec9TCLGkny9Q1EMl",
-        "title": "Dexamethasone for Chemotherapy-Induced Nausea and Vomiting Prevention in Pediatric Patients: International Consensus.",
-        "summary": "Experts created guidelines on when dexamethasone safely prevents chemotherapy nausea in children, weighing its benefits against risks.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41952471/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-10"
       }
@@ -1072,11 +1072,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16679,
+    "archive_count": 16680,
     "archive_supplements": 1899,
     "archive_off_label": 603,
     "archive_biomarkers": 9926,
-    "archive_trials": 3546,
+    "archive_trials": 3547,
     "archive_mind_body": 413
   }
 }
