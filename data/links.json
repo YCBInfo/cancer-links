@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T09:05:38.622Z",
+  "last_updated": "2026-04-14T09:05:48.350Z",
   "categories": {
     "supplements": [
       {
@@ -285,6 +285,20 @@
         "added_date": "2026-04-14"
       },
       {
+        "id": "recFqcT3m2MkkW6L3",
+        "title": "Targeting TMPRSS2 for Prostate Cancer Therapy: A Multi-Step Computational Approach for Identifying Novel Inhibitors.",
+        "summary": "Researchers identified promising drug candidates to block TMPRSS2, a protein that drives prostate cancer growth and spread.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41968858/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-14"
+      },
+      {
         "id": "rec7nUxQu01mW5rA3",
         "title": "Multiscale analysis and optimal glioma therapeutic candidate discovery using the CANDO platform.",
         "summary": "Researchers used the CANDO computational platform to discover 24 promising glioma drug candidates by analyzing how compounds interact with brain tumor proteins.",
@@ -407,20 +421,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-11"
-      },
-      {
-        "id": "reccx1Fg7yxRZhENV",
-        "title": "Plasmin promotes hepatocellular carcinoma invasion and metastasis via CXCR4-mediated activation of PI3K/AKT/mTOR signaling.",
-        "summary": "Plasmin promotes liver cancer invasion and metastasis; blocking it with tranexamic acid suppresses tumor spread and enhances chemotherapy effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41957507/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Liver"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-11"
       }
@@ -1071,10 +1071,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16695,
+    "archive_count": 16696,
     "archive_supplements": 1900,
     "archive_off_label": 605,
-    "archive_biomarkers": 9933,
+    "archive_biomarkers": 9934,
     "archive_trials": 3552,
     "archive_mind_body": 413
   }
