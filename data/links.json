@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T04:03:34.586Z",
+  "last_updated": "2026-04-14T04:03:45.891Z",
   "categories": {
     "supplements": [
       {
@@ -568,6 +568,20 @@
         "added_date": "2026-04-14"
       },
       {
+        "id": "recoSNZvsmt9G5n26",
+        "title": "Amoeboid-mesenchymal transition and the proteolytic control of cancer invasion plasticity.",
+        "summary": "Cancer cells require the enzyme MMP14 to invade tissue by degrading collagen barriers, regardless of invasion strategy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41961858/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-14"
+      },
+      {
         "id": "recpYc6KbL8CkzwyA",
         "title": "A systematic assessment of the short- and long-term effects of commonly used breast cancer chemotherapeutics on the gut microbiome‒blood‒brain axis of female mice.",
         "summary": "Breast cancer chemotherapies paclitaxel and cisplatin most disrupt the gut microbiome-brain axis, potentially benefiting from targeted interventions.",
@@ -618,20 +632,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-13"
-      },
-      {
-        "id": "recJea1I6lYszJSFO",
-        "title": "Scalable Quantum Non-Local Neural Network Optimized with Tyrannosaurus Algorithm for Brain tumor Detection using MRI Images.",
-        "summary": "A new AI framework detects brain tumors in MRI scans with 99.8% accuracy, outperforming existing methods.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41967037/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Brain"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -1072,10 +1072,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16485,
+    "archive_count": 16486,
     "archive_supplements": 1885,
     "archive_off_label": 603,
-    "archive_biomarkers": 9800,
+    "archive_biomarkers": 9801,
     "archive_trials": 3493,
     "archive_mind_body": 412
   }
