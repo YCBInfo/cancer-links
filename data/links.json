@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T06:06:01.477Z",
+  "last_updated": "2026-04-15T06:06:11.014Z",
   "categories": {
     "supplements": [
       {
@@ -286,6 +286,20 @@
         "added_date": "2026-04-15"
       },
       {
+        "id": "rec1Kayi8OyC792Ap",
+        "title": "ANP32E drives lung adenocarcinoma progression via GSK3β-mediated glycolytic reprogramming.",
+        "summary": "ANP32E protein drives lung adenocarcinoma growth by boosting cancer cell metabolism; blocking it with a new compound slows tumors.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41980942/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-15"
+      },
+      {
         "id": "rece6CyV9lkmmaiJE",
         "title": "GLP-1RA plus SGLT2i combination therapy and liver fibrosis progression in MASLD with type 2 diabetes.",
         "summary": "Combining two diabetes drugs may slow liver fibrosis progression better than using one drug alone in patients with fatty liver disease.",
@@ -410,20 +424,6 @@
         "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-13"
-      },
-      {
-        "id": "reccYqYin6oDNxamp",
-        "title": "NCOA4-mediated ferritinophagy: emerging role and novel therapeutic target in precision oncology.",
-        "summary": "NCOA4-mediated ferritin breakdown triggers iron-dependent cancer cell death, offering a new treatment strategy to overcome drug resistance.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41964368/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-12"
       }
     ],
     "biomarkers": [
@@ -1075,10 +1075,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16884,
+    "archive_count": 16885,
     "archive_supplements": 1922,
     "archive_off_label": 609,
-    "archive_biomarkers": 10081,
+    "archive_biomarkers": 10082,
     "archive_trials": 3567,
     "archive_mind_body": 413
   }
