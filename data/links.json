@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-04-15T02:02:27.760Z",
+  "last_updated": "2026-04-15T04:03:31.558Z",
   "categories": {
     "supplements": [
+      {
+        "id": "recNiTXNVyPVLjqeX",
+        "title": "Naringenin suppresses colorectal Cancer progression by targeting the Gankyrin/PI3K /AKT/GSK-3β/β-catenin signaling Axis.",
+        "summary": "Naringenin, a citrus compound, suppresses colorectal cancer by blocking a key protein pathway involved in tumor growth and spread.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41978702/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-15"
+      },
       {
         "id": "recaJFN16PPG8rsmM",
         "title": "Chenopodium ambrosioides Linn. induces mitochondrial-dependent cell death via activation of mPT pore opening, caspases and apoptotic machinery.",
@@ -195,20 +209,6 @@
           "Breast"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-14"
-      },
-      {
-        "id": "recfialqBTQNwsmxu",
-        "title": "Artificial Intelligence in Traditional Chinese Medicine: Unraveling Herbal Medicine's Mechanisms.",
-        "summary": "AI and network analysis help decode how traditional Chinese medicine herbs work through multiple biological pathways, advancing drug development.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41970029/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-14"
       }
@@ -441,6 +441,120 @@
         "added_date": "2026-04-15"
       },
       {
+        "id": "recNiTXNVyPVLjqeX",
+        "title": "Naringenin suppresses colorectal Cancer progression by targeting the Gankyrin/PI3K /AKT/GSK-3β/β-catenin signaling Axis.",
+        "summary": "Naringenin, a citrus compound, suppresses colorectal cancer by blocking a key protein pathway involved in tumor growth and spread.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41978702/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-15"
+      },
+      {
+        "id": "recFdvbedlnk7aN71",
+        "title": "A plasma-based DNA test for quantification of disease burden in acute myeloid leukemia patients undergoing bone marrow transplantation.",
+        "summary": "A blood test detecting leukemia mutations predicts relapse and treatment response better than standard tests in AML transplant patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41980102/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-15"
+      },
+      {
+        "id": "reca08WRLYzQV4XbA",
+        "title": "A phase 1 study of ASTX727 plus talazoparib in patients with triple-negative or hormone resistant/HER2-negative metastatic breast cancer.",
+        "summary": "Combined DNMT and PARP inhibitors show promise in early testing for triple-negative and hormone-resistant breast cancer with normal BRCA genes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41980055/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-15"
+      },
+      {
+        "id": "rec4l92pXYR2Fq7Aq",
+        "title": "Feasibility of improving sLe(a)/CA 19-9 harmonization by recalibration: a simulation study using three EQA programs.",
+        "summary": "Researchers found that recalibration could improve consistency of CA 19-9 blood tests used to monitor pancreatic and gastrointestinal cancers.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41979164/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-15"
+      },
+      {
+        "id": "recWQGWxmaUkM4OEy",
+        "title": "GPNMB Drives Brain Metastasis by Sculpting a Pathological Endothelial-Immune Interactome.",
+        "summary": "Researchers found GPNMB protein drives brain metastasis in lung cancer and melanoma by disrupting the blood-brain barrier, and blocking it combined with immunotherapy improved treatment outcomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41973996/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung",
+          "Melanoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-15"
+      },
+      {
+        "id": "recw8QBLx3Zkr3lSs",
+        "title": "Early cancer detection in a large American Cancer Society cohort study: Retrospective analysis of methylated DNA biomarkers.",
+        "summary": "Researchers found that DNA methylation patterns in blood plasma can detect cancer earlier, using samples from a large cancer study cohort.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41968496/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-15"
+      },
+      {
+        "id": "rect82LCydPAbCbA2",
+        "title": "Clinical strategies for lymphoma management: Recommendations from the Bridging the Gaps in Leukemia, Lymphoma, and Multiple Myeloma Consensus Conference 2025.",
+        "summary": "Experts recommend tailored lymphoma treatments including new drug combinations for mantle cell lymphoma and personalized monitoring strategies for chronic lymphocytic leukemia and diffuse large B-cell lymphoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41955632/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Leukemia",
+          "Lymphoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-15"
+      },
+      {
+        "id": "recmpuqGdaEqU5dgy",
+        "title": "Preclinical circulating tumor DNA shedding duration and prognostic implications of modeling 3669 patients with cancer in the American Cancer Society Cancer Prevention Study-3 and Circulating Cell-Free Genome Atlas Substudy 3.",
+        "summary": "Researchers measured how long circulating tumor DNA appears before cancer symptoms, crucial for developing early detection blood tests across multiple cancer types.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41953965/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-15"
+      },
+      {
         "id": "recoXkmWvVmjEDeNi",
         "title": "Cost comparison of osimertinib plus platinum-pemetrexed versus amivantamab plus lazertinib for the first-line treatment of patients with locally advanced or metastatic epidermal growth factor receptor-mutated non-small cell lung cancer.",
         "summary": "New drug combinations for EGFR-mutated lung cancer show better results, but a cost analysis compares their affordability for patients.",
@@ -523,118 +637,6 @@
         "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-14"
-      },
-      {
-        "id": "reczzjqdfl6P9PDdy",
-        "title": "HOXD9 affecting glioma proliferation and invasion.",
-        "summary": "Reducing HOXD9 gene expression slows glioma cell growth and spread, making it a potential treatment target.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41969400/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-14"
-      },
-      {
-        "id": "recRHwZRp8cC6obm6",
-        "title": "Dominant-negative PSMB10 disrupts immunoproteasome assembly and leads to transient T lymphopenia.",
-        "summary": "A mutation disrupting immunoproteasome assembly causes temporary T cell loss in a newborn, but surprisingly resolves naturally within the first year.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41971628/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-14"
-      },
-      {
-        "id": "rec9whjwJ9eLHJotp",
-        "title": "Profile of Helen M. Piwnica-Worms.",
-        "summary": "Researcher identifies how BRCA1-mutant breast cancer cells escape drug treatment, suggesting new combination therapy approaches.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41973922/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-14"
-      },
-      {
-        "id": "recaJFN16PPG8rsmM",
-        "title": "Chenopodium ambrosioides Linn. induces mitochondrial-dependent cell death via activation of mPT pore opening, caspases and apoptotic machinery.",
-        "summary": "Chenopodium ambrosioides plant extract kills cancer cells by opening mitochondrial pores and triggering programmed cell death.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41973944/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-14"
-      },
-      {
-        "id": "recoSNZvsmt9G5n26",
-        "title": "Amoeboid-mesenchymal transition and the proteolytic control of cancer invasion plasticity.",
-        "summary": "Cancer cells require the enzyme MMP14 to invade tissue by degrading collagen barriers, regardless of invasion strategy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41961858/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-14"
-      },
-      {
-        "id": "recaNAQsH2scVq3aU",
-        "title": "Modulating IDO1 and TDO Inhibition Through Structural Modification of Diaryl Hydroxylamines.",
-        "summary": "Researchers designed modified compounds that effectively inhibit IDO1 and TDO enzymes, which help tumors escape immune detection, potentially enhancing cancer immunotherapy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41945792/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-14"
-      },
-      {
-        "id": "recuyuQQ3rE45JVYU",
-        "title": "Advances in Electrochemical Biosensors for Circulating Tumor Cell Detection.",
-        "summary": "Electrochemical biosensors enable sensitive detection of circulating tumor cells in blood through electrical signal conversion, improving cancer diagnosis and monitoring.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41934659/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-14"
-      },
-      {
-        "id": "rec0SZLwoEaV6IdAI",
-        "title": "Pyrazolone Compounds as Promising Anticancer Agents for Colorectal Cancer: Synthesis, Antiproliferative Activity, and Mechanistic Insights.",
-        "summary": "Researchers developed a new compound called PL-13 that effectively kills colorectal cancer cells by triggering apoptosis while sparing healthy cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41928486/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-14"
       }
     ],
     "trials": [
@@ -643,6 +645,92 @@
         "title": "Chemotherapy-Induced Gastrointestinal Dysfunction: Mechanisms and Integrative Western-Chinese Medicine Strategies.",
         "summary": "Chemotherapy damages the gut through multiple interconnected processes; combined Western and Chinese medicine approaches targeting specific mechanisms may better prevent and treat these side effects.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41974263/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-15"
+      },
+      {
+        "id": "recFdvbedlnk7aN71",
+        "title": "A plasma-based DNA test for quantification of disease burden in acute myeloid leukemia patients undergoing bone marrow transplantation.",
+        "summary": "A blood test detecting leukemia mutations predicts relapse and treatment response better than standard tests in AML transplant patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41980102/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-15"
+      },
+      {
+        "id": "reca08WRLYzQV4XbA",
+        "title": "A phase 1 study of ASTX727 plus talazoparib in patients with triple-negative or hormone resistant/HER2-negative metastatic breast cancer.",
+        "summary": "Combined DNMT and PARP inhibitors show promise in early testing for triple-negative and hormone-resistant breast cancer with normal BRCA genes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41980055/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-15"
+      },
+      {
+        "id": "recWQGWxmaUkM4OEy",
+        "title": "GPNMB Drives Brain Metastasis by Sculpting a Pathological Endothelial-Immune Interactome.",
+        "summary": "Researchers found GPNMB protein drives brain metastasis in lung cancer and melanoma by disrupting the blood-brain barrier, and blocking it combined with immunotherapy improved treatment outcomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41973996/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung",
+          "Melanoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-15"
+      },
+      {
+        "id": "recw8QBLx3Zkr3lSs",
+        "title": "Early cancer detection in a large American Cancer Society cohort study: Retrospective analysis of methylated DNA biomarkers.",
+        "summary": "Researchers found that DNA methylation patterns in blood plasma can detect cancer earlier, using samples from a large cancer study cohort.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41968496/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-15"
+      },
+      {
+        "id": "rect82LCydPAbCbA2",
+        "title": "Clinical strategies for lymphoma management: Recommendations from the Bridging the Gaps in Leukemia, Lymphoma, and Multiple Myeloma Consensus Conference 2025.",
+        "summary": "Experts recommend tailored lymphoma treatments including new drug combinations for mantle cell lymphoma and personalized monitoring strategies for chronic lymphocytic leukemia and diffuse large B-cell lymphoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41955632/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Leukemia",
+          "Lymphoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-15"
+      },
+      {
+        "id": "recmpuqGdaEqU5dgy",
+        "title": "Preclinical circulating tumor DNA shedding duration and prognostic implications of modeling 3669 patients with cancer in the American Cancer Society Cancer Prevention Study-3 and Circulating Cell-Free Genome Atlas Substudy 3.",
+        "summary": "Researchers measured how long circulating tumor DNA appears before cancer symptoms, crucial for developing early detection blood tests across multiple cancer types.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41953965/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -761,91 +849,6 @@
           "Leukemia"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-14"
-      },
-      {
-        "id": "reclbN6vHoSEOJQMj",
-        "title": "Treatment and survival outcomes for patients with follicular lymphoma and POD24: a systematic review and meta-analysis.",
-        "summary": "CAR T-cell therapy and bispecific antibodies show promising high response rates in aggressive follicular lymphoma cases with early disease progression.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41587420/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Lymphoma"
-        ],
-        "quality_score": 22,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-14"
-      },
-      {
-        "id": "recaYYxyRxhQe140m",
-        "title": "Advancing precision therapy in pediatric acute myeloid leukemia through PDX models and mitochondrial targeting.",
-        "summary": "Patient-derived models reveal that combining mitochondrial and cell survival inhibitors effectively targets pediatric acute myeloid leukemia.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41576348/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia",
-          "Lymphoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-14"
-      },
-      {
-        "id": "recoDH9vHEDKynrPk",
-        "title": "Serum free fatty acid promotes tumor progression and predicts golidocitinib sensitivity in peripheral T-cell lymphoma.",
-        "summary": "High blood fatty acids promote peripheral T-cell lymphoma progression and predict better response to the drug golidocitinib.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41564436/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lymphoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-14"
-      },
-      {
-        "id": "recIwCpVOzK5ztmI7",
-        "title": "Improved survival and health care use with CAR-T vs historical care in relapsed/refractory large B-cell lymphoma.",
-        "summary": "CAR-T immunotherapy dramatically improved survival and reduced hospitalizations compared to previous treatments for relapsed large B-cell lymphoma.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41544221/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Lymphoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-14"
-      },
-      {
-        "id": "recZub0B03fmx2YX4",
-        "title": "Zamtocabtagene autoleucel in relapsed/refractory B-NHL: 5-year follow-up of a CD20/19 tandem CAR T-cell phase 1 trial.",
-        "summary": "A dual-targeted CAR T-cell therapy for relapsed B-cell lymphoma achieved 42% complete remission with durable responses lasting five years and minimal severe side effects.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41512222/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Lymphoma"
-        ],
-        "quality_score": 21,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-14"
-      },
-      {
-        "id": "recWXC7mZk5RhIu4B",
-        "title": "MPN-FIT: a randomized controlled pilot trial of supervised exercise in myeloproliferative neoplasms.",
-        "summary": "Supervised exercise in myeloproliferative neoplasm patients reduced disease markers and improved quality of life, proving feasible and acceptable.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41499761/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 21,
         "pub_date": "2026-03-01",
         "added_date": "2026-04-14"
       }
@@ -1071,8 +1074,8 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16703,
-    "archive_supplements": 1900,
+    "archive_count": 16704,
+    "archive_supplements": 1901,
     "archive_off_label": 607,
     "archive_biomarkers": 9938,
     "archive_trials": 3553,
