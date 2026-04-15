@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T04:09:07.476Z",
+  "last_updated": "2026-04-15T04:09:19.193Z",
   "categories": {
     "supplements": [
       {
@@ -811,6 +811,20 @@
         "added_date": "2026-04-15"
       },
       {
+        "id": "recpkkzOyMHP3SXbZ",
+        "title": "Inhibiting CK2 in breast cancer: From molecular targets to drug candidates.",
+        "summary": "Blocking the CK2 protein shows promise for treating breast cancer, especially hormone-resistant and triple-negative forms, though drug selectivity remains challenging.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41759307/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-15"
+      },
+      {
         "id": "recxeHX0d4b7Trg3J",
         "title": "Effects of Mindfulness-Based Interventions on the Psychological Well-Being of Family Caregivers of Cancer Patients: A Systematic Review and Meta-Analysis.",
         "summary": "Mindfulness-based interventions significantly reduce anxiety and depression in family caregivers of cancer patients.",
@@ -835,20 +849,6 @@
           "Lung"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-14"
-      },
-      {
-        "id": "recMq6gl8lwu3VOzs",
-        "title": "Desmoid Tumors-Biology-Driven Management and Treatment Selection.",
-        "summary": "Desmoid tumors are now managed through observation and targeted drugs rather than aggressive surgery, improving patient outcomes and quality of life.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41973968/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-14"
       }
@@ -1074,10 +1074,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16734,
+    "archive_count": 16735,
     "archive_supplements": 1907,
     "archive_off_label": 609,
-    "archive_biomarkers": 9958,
+    "archive_biomarkers": 9959,
     "archive_trials": 3555,
     "archive_mind_body": 413
   }
