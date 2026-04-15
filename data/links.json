@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T04:04:16.863Z",
+  "last_updated": "2026-04-15T04:04:28.255Z",
   "categories": {
     "supplements": [
       {
@@ -27,6 +27,20 @@
           "Stomach"
         ],
         "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-15"
+      },
+      {
+        "id": "rec4kUG1HT3AOP17j",
+        "title": "Maternal Choline Supplementation in a Mouse Model of Down Syndrome and Alzheimer's Disease Generates Unique Expression Profile Mosaics Within Three Hippocampal Excitatory Neuronal Populations.",
+        "summary": "Maternal choline supplementation reduces harmful cell death and boosts cognitive pathways in mouse models of Down syndrome and Alzheimer's disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41930605/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-15"
       },
@@ -195,20 +209,6 @@
           "Brain"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-14"
-      },
-      {
-        "id": "recOXZaCkmZo74Wzo",
-        "title": "Multi-Strain Probiotics BLa80, LRa05, and BBr60 Modulate Inflammation, Bile Acids, and Gut Microbiota in Type 2 Diabetes: A Randomized Controlled Trial.",
-        "summary": "Three-strain probiotics reduced inflammation and improved blood sugar control in type 2 diabetes patients by altering gut bacteria and metabolism.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41971606/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-14"
       }
@@ -597,6 +597,20 @@
         "added_date": "2026-04-15"
       },
       {
+        "id": "rec4kUG1HT3AOP17j",
+        "title": "Maternal Choline Supplementation in a Mouse Model of Down Syndrome and Alzheimer's Disease Generates Unique Expression Profile Mosaics Within Three Hippocampal Excitatory Neuronal Populations.",
+        "summary": "Maternal choline supplementation reduces harmful cell death and boosts cognitive pathways in mouse models of Down syndrome and Alzheimer's disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41930605/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-15"
+      },
+      {
         "id": "recoXkmWvVmjEDeNi",
         "title": "Cost comparison of osimertinib plus platinum-pemetrexed versus amivantamab plus lazertinib for the first-line treatment of patients with locally advanced or metastatic epidermal growth factor receptor-mutated non-small cell lung cancer.",
         "summary": "New drug combinations for EGFR-mutated lung cancer show better results, but a cost analysis compares their affordability for patients.",
@@ -615,20 +629,6 @@
         "title": "Desmoid Tumors-Biology-Driven Management and Treatment Selection.",
         "summary": "Desmoid tumors are now managed through observation and targeted drugs rather than aggressive surgery, improving patient outcomes and quality of life.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41973968/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-14"
-      },
-      {
-        "id": "recTxJzy1jy6EnlEI",
-        "title": "Lancet2: Improved and accelerated somatic variant calling with joint multi-sample local assembly graphs.",
-        "summary": "Lancet2 improves detection of cancer-causing DNA mutations in tumor samples, offering faster analysis and better accuracy than existing tools.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41972010/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -1074,10 +1074,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16708,
+    "archive_count": 16709,
     "archive_supplements": 1901,
     "archive_off_label": 607,
-    "archive_biomarkers": 9941,
+    "archive_biomarkers": 9942,
     "archive_trials": 3554,
     "archive_mind_body": 413
   }
