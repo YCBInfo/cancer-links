@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T11:19:05.112Z",
+  "last_updated": "2026-04-15T02:02:27.760Z",
   "categories": {
     "supplements": [
       {
@@ -427,6 +427,20 @@
     ],
     "biomarkers": [
       {
+        "id": "rec0O2lmdD1v67JSg",
+        "title": "Chemotherapy-Induced Gastrointestinal Dysfunction: Mechanisms and Integrative Western-Chinese Medicine Strategies.",
+        "summary": "Chemotherapy damages the gut through multiple interconnected processes; combined Western and Chinese medicine approaches targeting specific mechanisms may better prevent and treat these side effects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41974263/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-15"
+      },
+      {
         "id": "recoXkmWvVmjEDeNi",
         "title": "Cost comparison of osimertinib plus platinum-pemetrexed versus amivantamab plus lazertinib for the first-line treatment of patients with locally advanced or metastatic epidermal growth factor receptor-mutated non-small cell lung cancer.",
         "summary": "New drug combinations for EGFR-mutated lung cancer show better results, but a cost analysis compares their affordability for patients.",
@@ -621,12 +635,14 @@
         "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-14"
-      },
+      }
+    ],
+    "trials": [
       {
-        "id": "recWqthbK7xB0G6mg",
-        "title": "Clinical outcomes of older patients with NPM1-mutated or KMT2A-rearranged AML before menin inhibitors: a Beat AML report.",
-        "summary": "Older patients with specific acute myeloid leukemia mutations had poor outcomes before a new menin inhibitor treatment became available.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41632633/",
+        "id": "rec0O2lmdD1v67JSg",
+        "title": "Chemotherapy-Induced Gastrointestinal Dysfunction: Mechanisms and Integrative Western-Chinese Medicine Strategies.",
+        "summary": "Chemotherapy damages the gut through multiple interconnected processes; combined Western and Chinese medicine approaches targeting specific mechanisms may better prevent and treat these side effects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41974263/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -634,10 +650,8 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-04-01",
-        "added_date": "2026-04-14"
-      }
-    ],
-    "trials": [
+        "added_date": "2026-04-15"
+      },
       {
         "id": "recxeHX0d4b7Trg3J",
         "title": "Effects of Mindfulness-Based Interventions on the Psychological Well-Being of Family Caregivers of Cancer Patients: A Systematic Review and Meta-Analysis.",
@@ -834,23 +848,23 @@
         "quality_score": 21,
         "pub_date": "2026-03-01",
         "added_date": "2026-04-14"
-      },
+      }
+    ],
+    "mind_body": [
       {
-        "id": "recGwlXcLW7avwv8B",
-        "title": "Progressive cervicothoracic meningocele with neurovascular compression and spinal deformity in neurofibromatosis type 1: a decade-long radiological and clinical evolution with operative repair. Illustrative case.",
-        "summary": "Doctors successfully surgically repaired a rare progressive spinal fluid sac in a neurofibromatosis patient that was compressing nearby nerves and blood vessels.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41974064/",
+        "id": "rec0O2lmdD1v67JSg",
+        "title": "Chemotherapy-Induced Gastrointestinal Dysfunction: Mechanisms and Integrative Western-Chinese Medicine Strategies.",
+        "summary": "Chemotherapy damages the gut through multiple interconnected processes; combined Western and Chinese medicine approaches targeting specific mechanisms may better prevent and treat these side effects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41974263/",
         "source": "PubMed",
-        "category": "Clinical Trials",
+        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
         "quality_score": 12,
         "pub_date": "2026-04-01",
-        "added_date": "2026-04-14"
-      }
-    ],
-    "mind_body": [
+        "added_date": "2026-04-15"
+      },
       {
         "id": "recxeHX0d4b7Trg3J",
         "title": "Effects of Mindfulness-Based Interventions on the Psychological Well-Being of Family Caregivers of Cancer Patients: A Systematic Review and Meta-Analysis.",
@@ -1047,20 +1061,6 @@
         "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-09"
-      },
-      {
-        "id": "recvglpN7kLeRykAa",
-        "title": "A National Needs Assessment Identifies Training Gap in Integrative Oncology Education.",
-        "summary": "Most cancer doctors want integrative oncology training, but educational programs remain limited, creating a significant nationwide training gap.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41951997/",
-        "source": "PubMed",
-        "category": "Mind-Body & Spirituality",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-09"
       }
     ]
   },
@@ -1071,10 +1071,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16702,
+    "archive_count": 16703,
     "archive_supplements": 1900,
     "archive_off_label": 607,
-    "archive_biomarkers": 9937,
+    "archive_biomarkers": 9938,
     "archive_trials": 3553,
     "archive_mind_body": 413
   }
