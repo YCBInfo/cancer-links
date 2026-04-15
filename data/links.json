@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T06:05:37.081Z",
+  "last_updated": "2026-04-15T06:05:50.676Z",
   "categories": {
     "supplements": [
       {
@@ -272,6 +272,20 @@
         "added_date": "2026-04-15"
       },
       {
+        "id": "recw8y5bSsDVBE068",
+        "title": "Cholesterol synthases suppress metastasis and stemness through PDIA4/ACLY or SYVN1/SCD1 axis in advanced colorectal cancer.",
+        "summary": "Blocking cholesterol-making enzymes in colorectal cancer unexpectedly promotes spread and stem cell traits, reversible by targeting fatty acid synthesis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41981153/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-15"
+      },
+      {
         "id": "rece6CyV9lkmmaiJE",
         "title": "GLP-1RA plus SGLT2i combination therapy and liver fibrosis progression in MASLD with type 2 diabetes.",
         "summary": "Combining two diabetes drugs may slow liver fibrosis progression better than using one drug alone in patients with fatty liver disease.",
@@ -402,20 +416,6 @@
         "title": "NCOA4-mediated ferritinophagy: emerging role and novel therapeutic target in precision oncology.",
         "summary": "NCOA4-mediated ferritin breakdown triggers iron-dependent cancer cell death, offering a new treatment strategy to overcome drug resistance.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41964368/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-12"
-      },
-      {
-        "id": "recLEOf6zyjLJf1Uo",
-        "title": "Targeting CB1 and TRPM8 receptors to counteract CD8+ T cell exhaustion.",
-        "summary": "Blocking CB1 receptors reduced exhaustion markers on immune cells, potentially improving cancer treatment effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41963448/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -1075,8 +1075,8 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16882,
-    "archive_supplements": 1921,
+    "archive_count": 16883,
+    "archive_supplements": 1922,
     "archive_off_label": 609,
     "archive_biomarkers": 10080,
     "archive_trials": 3567,
