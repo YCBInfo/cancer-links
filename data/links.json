@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T04:05:45.911Z",
+  "last_updated": "2026-04-15T04:05:55.654Z",
   "categories": {
     "supplements": [
       {
@@ -769,6 +769,20 @@
         "added_date": "2026-04-15"
       },
       {
+        "id": "recaDlR7OvoxeLFXk",
+        "title": "Empirical evaluation of variability and multi-institutional generalizability of deep learning survival models: application to renal cancer CT scans.",
+        "summary": "Deep learning models using kidney cancer CT scans can better predict patient survival when using balanced data splitting and multiple image enhancement techniques.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41806695/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Kidney"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-15"
+      },
+      {
         "id": "recxeHX0d4b7Trg3J",
         "title": "Effects of Mindfulness-Based Interventions on the Psychological Well-Being of Family Caregivers of Cancer Patients: A Systematic Review and Meta-Analysis.",
         "summary": "Mindfulness-based interventions significantly reduce anxiety and depression in family caregivers of cancer patients.",
@@ -831,20 +845,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41963257/",
         "source": "PubMed",
         "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-14"
-      },
-      {
-        "id": "recWqthbK7xB0G6mg",
-        "title": "Clinical outcomes of older patients with NPM1-mutated or KMT2A-rearranged AML before menin inhibitors: a Beat AML report.",
-        "summary": "Older patients with specific acute myeloid leukemia mutations had poor outcomes before a new menin inhibitor treatment became available.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41632633/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
@@ -1074,10 +1074,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16715,
+    "archive_count": 16716,
     "archive_supplements": 1903,
     "archive_off_label": 607,
-    "archive_biomarkers": 9945,
+    "archive_biomarkers": 9946,
     "archive_trials": 3555,
     "archive_mind_body": 413
   }
