@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T04:05:13.743Z",
+  "last_updated": "2026-04-15T04:05:24.594Z",
   "categories": {
     "supplements": [
       {
@@ -229,6 +229,20 @@
         "added_date": "2026-04-15"
       },
       {
+        "id": "rec5igkJL6feeZed8",
+        "title": "Clofibrate inhibits tumor immune escape by increasing macrophage phagocytosis.",
+        "summary": "Clofibrate blocks lung cancer's immune escape by reducing CD47 protein, allowing immune cells to destroy tumors more effectively.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41905444/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-15"
+      },
+      {
         "id": "rece6CyV9lkmmaiJE",
         "title": "GLP-1RA plus SGLT2i combination therapy and liver fibrosis progression in MASLD with type 2 diabetes.",
         "summary": "Combining two diabetes drugs may slow liver fibrosis progression better than using one drug alone in patients with fatty liver disease.",
@@ -409,20 +423,6 @@
         "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-12"
-      },
-      {
-        "id": "recIui3yWEKqwJN8l",
-        "title": "Protective effect of nebivolol on bleomycin-induced lung fibrosis via suppressing TLR4/IL-1β/MMP-2 and TGF-β/HSP47 signaling pathways in rats.",
-        "summary": "Nebivolol, a heart medication, protected rat lungs from bleomycin-induced scarring by blocking harmful inflammatory and fibrosis pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41960705/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-11"
       }
     ],
     "biomarkers": [
@@ -1074,10 +1074,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16712,
+    "archive_count": 16713,
     "archive_supplements": 1901,
     "archive_off_label": 607,
-    "archive_biomarkers": 9944,
+    "archive_biomarkers": 9945,
     "archive_trials": 3555,
     "archive_mind_body": 413
   }
