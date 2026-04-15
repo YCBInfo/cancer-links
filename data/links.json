@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T04:12:22.593Z",
+  "last_updated": "2026-04-15T04:12:33.243Z",
   "categories": {
     "supplements": [
       {
@@ -143,6 +143,20 @@
         "added_date": "2026-04-15"
       },
       {
+        "id": "recwSmpzZpYKEmqPp",
+        "title": "Quercetin alleviates imatinib-induced premature ovarian insufficiency by regulating mitophagy via the ROS/JNK/c-JUN pathway.",
+        "summary": "Quercetin protects ovaries from damage caused by imatinib, a cancer drug, by reducing harmful oxidative stress and excessive cell death.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41722539/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-15"
+      },
+      {
         "id": "recaJFN16PPG8rsmM",
         "title": "Chenopodium ambrosioides Linn. induces mitochondrial-dependent cell death via activation of mPT pore opening, caspases and apoptotic machinery.",
         "summary": "Chenopodium ambrosioides plant extract kills cancer cells by opening mitochondrial pores and triggering programmed cell death.",
@@ -195,20 +209,6 @@
           "Colorectal"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-14"
-      },
-      {
-        "id": "recqcT0ys8h2cqiUo",
-        "title": "A Microbial Lipid-ATP Synthase Axis Fuels NK Cell Antitumor Activity.",
-        "summary": "Gut bacteria produce lipid-enriched particles that boost natural killer cells' cancer-fighting ability, offering a potential new immunotherapy approach.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41972457/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-14"
       }
@@ -1074,10 +1074,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16752,
+    "archive_count": 16753,
     "archive_supplements": 1909,
     "archive_off_label": 609,
-    "archive_biomarkers": 9974,
+    "archive_biomarkers": 9975,
     "archive_trials": 3555,
     "archive_mind_body": 413
   }
