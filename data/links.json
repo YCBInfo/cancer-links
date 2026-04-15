@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T04:22:57.978Z",
+  "last_updated": "2026-04-15T04:23:09.773Z",
   "categories": {
     "supplements": [
       {
@@ -243,6 +243,20 @@
         "added_date": "2026-04-15"
       },
       {
+        "id": "recBixUMC0yZH4KPV",
+        "title": "Unacylated Ghrelin Counteracts Mitochondrial Dysfunction and Neuromuscular Junction Disruption in Cancer Cachexia.",
+        "summary": "Unacylated ghrelin treatment preserves muscle mass and function in lung cancer mice by restoring mitochondrial health and reducing muscle breakdown.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41979598/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-15"
+      },
+      {
         "id": "rece6CyV9lkmmaiJE",
         "title": "GLP-1RA plus SGLT2i combination therapy and liver fibrosis progression in MASLD with type 2 diabetes.",
         "summary": "Combining two diabetes drugs may slow liver fibrosis progression better than using one drug alone in patients with fatty liver disease.",
@@ -401,20 +415,6 @@
         "title": "Pharmacological Treatments for Cancer-Related Anorexia-Cachexia Syndrome: An Umbrella Review of Systematic Reviews and Meta-Analyses.",
         "summary": "Researchers reviewed treatments for cancer-related appetite loss and muscle wasting, evaluating which drugs work best to help patients maintain weight.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41950300/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-12"
-      },
-      {
-        "id": "rec2lY55c2ENxnkP6",
-        "title": "Low-Dose Aspirin and Central Presbycusis: A Substudy of the ASPREE Randomized Clinical Trial.",
-        "summary": "Low-dose aspirin may help slow age-related hearing loss in older adults by reducing inflammation and blood vessel problems.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41954898/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -1074,10 +1074,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16811,
+    "archive_count": 16812,
     "archive_supplements": 1916,
     "archive_off_label": 609,
-    "archive_biomarkers": 10022,
+    "archive_biomarkers": 10023,
     "archive_trials": 3559,
     "archive_mind_body": 413
   }
