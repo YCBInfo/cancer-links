@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T04:04:06.368Z",
+  "last_updated": "2026-04-15T04:04:16.863Z",
   "categories": {
     "supplements": [
       {
@@ -11,6 +11,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-15"
+      },
+      {
+        "id": "rec18nIKvaeGtLivo",
+        "title": "Hederagenin suppresses inflammation-cancer transformation in chronic atrophic gastritis by modulating glycolysis through the mTOR/HIF-1α axis.",
+        "summary": "Hederagenin, a natural compound, slows gastric cancer development in chronic atrophic gastritis by reducing inflammation and abnormal cell energy metabolism.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41932673/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Stomach"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -195,20 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-14"
-      },
-      {
-        "id": "recS0iI0pG2IepUGe",
-        "title": "A multi-approach investigation of Rigidoporus ulmarius as a promising source of nutraceutical leads against diabetes and triple negative breast cancer.",
-        "summary": "Rigidoporus ulmarius mushroom extract shows promise against triple negative breast cancer and diabetes through sterol compounds.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41970808/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-14"
       }
@@ -583,6 +583,20 @@
         "added_date": "2026-04-15"
       },
       {
+        "id": "rec18nIKvaeGtLivo",
+        "title": "Hederagenin suppresses inflammation-cancer transformation in chronic atrophic gastritis by modulating glycolysis through the mTOR/HIF-1α axis.",
+        "summary": "Hederagenin, a natural compound, slows gastric cancer development in chronic atrophic gastritis by reducing inflammation and abnormal cell energy metabolism.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41932673/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-15"
+      },
+      {
         "id": "recoXkmWvVmjEDeNi",
         "title": "Cost comparison of osimertinib plus platinum-pemetrexed versus amivantamab plus lazertinib for the first-line treatment of patients with locally advanced or metastatic epidermal growth factor receptor-mutated non-small cell lung cancer.",
         "summary": "New drug combinations for EGFR-mutated lung cancer show better results, but a cost analysis compares their affordability for patients.",
@@ -621,20 +635,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-14"
-      },
-      {
-        "id": "recP0Ncn23fQaIXgl",
-        "title": "SpNeigh: spatial neighborhood and differential expression analysis for high-resolution spatial transcriptomics.",
-        "summary": "SpNeigh software analyzes gene expression patterns while preserving tissue location, revealing hidden cell populations and spatial gene patterns in cancer and normal tissues.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41972009/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-14"
       }
@@ -1074,10 +1074,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16707,
+    "archive_count": 16708,
     "archive_supplements": 1901,
     "archive_off_label": 607,
-    "archive_biomarkers": 9940,
+    "archive_biomarkers": 9941,
     "archive_trials": 3554,
     "archive_mind_body": 413
   }
