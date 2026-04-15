@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T04:06:49.281Z",
+  "last_updated": "2026-04-15T04:07:00.678Z",
   "categories": {
     "supplements": [
       {
@@ -783,6 +783,20 @@
         "added_date": "2026-04-15"
       },
       {
+        "id": "receozKR2DEgSX0da",
+        "title": "Antigen-induced IL-12 potentiates piggyBac-engineered HER2-CAR-T cells against gastric cancer.",
+        "summary": "Antigen-triggered IL-12 boosts engineered CAR-T cells' effectiveness against gastric cancer while maintaining safer, controlled immune activation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41785602/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-15"
+      },
+      {
         "id": "recxeHX0d4b7Trg3J",
         "title": "Effects of Mindfulness-Based Interventions on the Psychological Well-Being of Family Caregivers of Cancer Patients: A Systematic Review and Meta-Analysis.",
         "summary": "Mindfulness-based interventions significantly reduce anxiety and depression in family caregivers of cancer patients.",
@@ -835,20 +849,6 @@
           "Breast"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-14"
-      },
-      {
-        "id": "receB3rb0RT1Leg8f",
-        "title": "2-Phenylquinolines Exhibit Anti-Severe Acute Respiratory Syndrome Coronavirus-2 Activity Through the Nonstructural Protein 13 Helicase Inhibition.",
-        "summary": "New 2-phenylquinoline compounds block SARS-CoV-2 by inhibiting viral helicase protein, showing broad-spectrum coronavirus activity and safety potential.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41963257/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-14"
       }
@@ -1074,10 +1074,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16721,
+    "archive_count": 16722,
     "archive_supplements": 1904,
     "archive_off_label": 609,
-    "archive_biomarkers": 9948,
+    "archive_biomarkers": 9949,
     "archive_trials": 3555,
     "archive_mind_body": 413
   }
