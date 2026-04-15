@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T04:26:00.275Z",
+  "last_updated": "2026-04-15T04:26:11.368Z",
   "categories": {
     "supplements": [
       {
@@ -257,6 +257,21 @@
         "added_date": "2026-04-15"
       },
       {
+        "id": "recTTQ0Q09WCVuL0i",
+        "title": "FDPS links tumor progression, phosphoproteomic reprogramming, and therapeutic vulnerability in hepatocellular carcinoma.",
+        "summary": "FDPS protein drives liver cancer growth, and blocking it with pamidronate drug slows tumors in mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41979127/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lymphoma",
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-15"
+      },
+      {
         "id": "rece6CyV9lkmmaiJE",
         "title": "GLP-1RA plus SGLT2i combination therapy and liver fibrosis progression in MASLD with type 2 diabetes.",
         "summary": "Combining two diabetes drugs may slow liver fibrosis progression better than using one drug alone in patients with fatty liver disease.",
@@ -403,20 +418,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41963448/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-12"
-      },
-      {
-        "id": "recUIbEzb3bPPAq4n",
-        "title": "Pharmacological Treatments for Cancer-Related Anorexia-Cachexia Syndrome: An Umbrella Review of Systematic Reviews and Meta-Analyses.",
-        "summary": "Researchers reviewed treatments for cancer-related appetite loss and muscle wasting, evaluating which drugs work best to help patients maintain weight.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41950300/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
         "cancer_types": [
           "General"
         ],
@@ -1074,10 +1075,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16828,
+    "archive_count": 16829,
     "archive_supplements": 1916,
     "archive_off_label": 609,
-    "archive_biomarkers": 10038,
+    "archive_biomarkers": 10039,
     "archive_trials": 3560,
     "archive_mind_body": 413
   }
