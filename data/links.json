@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T04:04:40.184Z",
+  "last_updated": "2026-04-15T04:04:51.229Z",
   "categories": {
     "supplements": [
       {
@@ -215,6 +215,20 @@
     ],
     "off_label": [
       {
+        "id": "rec14gjd48EFplC28",
+        "title": "Lansoprazole Enhances Everolimus Efficacy Through DDIT3-Mediated PI3K/AKT/mTOR Pathway Inhibition in Pancreatic Neuroendocrine Neoplasms Proliferation.",
+        "summary": "Lansoprazole combined with everolimus more effectively treats pancreatic neuroendocrine tumors by blocking cancer growth pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41911054/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-15"
+      },
+      {
         "id": "rece6CyV9lkmmaiJE",
         "title": "GLP-1RA plus SGLT2i combination therapy and liver fibrosis progression in MASLD with type 2 diabetes.",
         "summary": "Combining two diabetes drugs may slow liver fibrosis progression better than using one drug alone in patients with fatty liver disease.",
@@ -403,20 +417,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41960705/",
         "source": "PubMed",
         "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-11"
-      },
-      {
-        "id": "recQLh7HFo7UTQmp1",
-        "title": "Interconnection between Polycystic Ovary Syndrome, Immune Disorders, and Reproductive Outcomes.",
-        "summary": "PCOS involves chronic inflammation and immune dysfunction that damage ovarian function and reduce pregnancy success, suggesting immune-targeted treatments could help.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41961878/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
@@ -625,18 +625,18 @@
         "added_date": "2026-04-15"
       },
       {
-        "id": "recoXkmWvVmjEDeNi",
-        "title": "Cost comparison of osimertinib plus platinum-pemetrexed versus amivantamab plus lazertinib for the first-line treatment of patients with locally advanced or metastatic epidermal growth factor receptor-mutated non-small cell lung cancer.",
-        "summary": "New drug combinations for EGFR-mutated lung cancer show better results, but a cost analysis compares their affordability for patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41973054/",
+        "id": "rec14gjd48EFplC28",
+        "title": "Lansoprazole Enhances Everolimus Efficacy Through DDIT3-Mediated PI3K/AKT/mTOR Pathway Inhibition in Pancreatic Neuroendocrine Neoplasms Proliferation.",
+        "summary": "Lansoprazole combined with everolimus more effectively treats pancreatic neuroendocrine tumors by blocking cancer growth pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41911054/",
         "source": "PubMed",
-        "category": "Clinical Trials",
+        "category": "Off-Label Medications",
         "cancer_types": [
-          "Lung"
+          "General"
         ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-14"
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-15"
       }
     ],
     "trials": [
@@ -1074,10 +1074,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16710,
+    "archive_count": 16711,
     "archive_supplements": 1901,
     "archive_off_label": 607,
-    "archive_biomarkers": 9942,
+    "archive_biomarkers": 9943,
     "archive_trials": 3555,
     "archive_mind_body": 413
   }
