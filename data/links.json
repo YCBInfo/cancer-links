@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T04:09:49.464Z",
+  "last_updated": "2026-04-16T04:10:01.272Z",
   "categories": {
     "supplements": [
       {
@@ -69,6 +69,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-16"
+      },
+      {
+        "id": "recpVLylf2AwEctj5",
+        "title": "Natural flavonoid isoorientin and its anticancer mechanisms: a systematic review.",
+        "summary": "Isoorientin, a plant-derived flavonoid, kills multiple cancer types by triggering cell death and stopping growth in laboratory studies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41984196/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 22,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-16"
       },
@@ -189,20 +203,6 @@
         "title": "Oridonin downregulates PD-L1 expression and promotes anti-tumor immunity via inhibiting NLRP3 and STAT3.",
         "summary": "Oridonin, a natural product, reduces PD-L1 cancer cell protein levels and boosts immune cell anti-tumor activity in mice.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41740339/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-15"
-      },
-      {
-        "id": "recs8JxwXrME13ZUM",
-        "title": "Emodin retards renal cyst progression in ADPKD by inhibiting cell proliferation and decreasing oxidative stress.",
-        "summary": "Emodin, derived from rhubarb, slows kidney cyst growth in ADPKD by reducing cell proliferation and oxidative stress.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41722769/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -1074,11 +1074,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 17012,
+    "archive_count": 17013,
     "archive_supplements": 1934,
     "archive_off_label": 609,
     "archive_biomarkers": 10155,
-    "archive_trials": 3606,
+    "archive_trials": 3607,
     "archive_mind_body": 416
   }
 }
