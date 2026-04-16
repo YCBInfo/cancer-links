@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T11:20:49.189Z",
+  "last_updated": "2026-04-16T02:02:26.794Z",
   "categories": {
     "supplements": [
       {
@@ -428,6 +428,20 @@
     ],
     "biomarkers": [
       {
+        "id": "recRASPThkRqKe8sh",
+        "title": "Effects of Psychosocial Interventions on Measures of Stress Among Breast Cancer Survivors: A Scoping Review.",
+        "summary": "Psychosocial interventions effectively reduce stress in breast cancer survivors, potentially improving immune function and survival outcomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41984493/",
+        "source": "PubMed",
+        "category": "Mind-Body & Spirituality",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-16"
+      },
+      {
         "id": "rec0O2lmdD1v67JSg",
         "title": "Chemotherapy-Induced Gastrointestinal Dysfunction: Mechanisms and Integrative Western-Chinese Medicine Strategies.",
         "summary": "Chemotherapy damages the gut through multiple interconnected processes; combined Western and Chinese medicine approaches targeting specific mechanisms may better prevent and treat these side effects.",
@@ -623,20 +637,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
-        "added_date": "2026-04-15"
-      },
-      {
-        "id": "rec14gjd48EFplC28",
-        "title": "Lansoprazole Enhances Everolimus Efficacy Through DDIT3-Mediated PI3K/AKT/mTOR Pathway Inhibition in Pancreatic Neuroendocrine Neoplasms Proliferation.",
-        "summary": "Lansoprazole combined with everolimus more effectively treats pancreatic neuroendocrine tumors by blocking cancer growth pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41911054/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
         "added_date": "2026-04-15"
       }
     ],
@@ -856,6 +856,48 @@
     ],
     "mind_body": [
       {
+        "id": "recMgUozaZ7ea59pO",
+        "title": "The effectiveness of electroacupuncture in the treatment of cancer-related fatigue: a systematic review.",
+        "summary": "Electroacupuncture appears to help reduce fatigue in cancer patients, though more research is needed to confirm effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41984132/",
+        "source": "PubMed",
+        "category": "Mind-Body & Spirituality",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-16"
+      },
+      {
+        "id": "rec6f9MPTWlI8ElSW",
+        "title": "Spirituality and Religiosity in Adults With Head and Neck Cancer: A Scoping Review of Concepts, Measures, and Outcomes.",
+        "summary": "Spirituality and religiosity may help improve health outcomes in head and neck cancer patients, but research needs standardized measurement approaches.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41981715/",
+        "source": "PubMed",
+        "category": "Mind-Body & Spirituality",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-16"
+      },
+      {
+        "id": "recRASPThkRqKe8sh",
+        "title": "Effects of Psychosocial Interventions on Measures of Stress Among Breast Cancer Survivors: A Scoping Review.",
+        "summary": "Psychosocial interventions effectively reduce stress in breast cancer survivors, potentially improving immune function and survival outcomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41984493/",
+        "source": "PubMed",
+        "category": "Mind-Body & Spirituality",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-16"
+      },
+      {
         "id": "rec0O2lmdD1v67JSg",
         "title": "Chemotherapy-Induced Gastrointestinal Dysfunction: Mechanisms and Integrative Western-Chinese Medicine Strategies.",
         "summary": "Chemotherapy damages the gut through multiple interconnected processes; combined Western and Chinese medicine approaches targeting specific mechanisms may better prevent and treat these side effects.",
@@ -1023,48 +1065,6 @@
         "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-10"
-      },
-      {
-        "id": "recwBamqflEjlvljG",
-        "title": "Breast cancer survivor and body: Exploring self-defining memories in an intervention pilot study.",
-        "summary": "A new psychological intervention helps breast cancer survivors process traumatic body-related memories and improve well-being.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41956444/",
-        "source": "PubMed",
-        "category": "Mind-Body & Spirituality",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-10"
-      },
-      {
-        "id": "rec50owzMLDJ3IpaJ",
-        "title": "Five-Element Music and VR for Pain and Psychological Distress in Advanced Cancer: A Randomized Trial.",
-        "summary": "Music therapy and virtual reality together reduced pain and psychological distress in advanced cancer patients more effectively than standard care alone.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41956303/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-10"
-      },
-      {
-        "id": "recBFIHJb2yAJRTpC",
-        "title": "Digital and AI-enhanced psychosocial interventions in breast cancer patients: a systematic review and meta-analysis.",
-        "summary": "Digital and AI-based mental health programs help reduce stress and anxiety in breast cancer patients, improving their overall well-being.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41949762/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 24,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-09"
       }
     ]
   },
@@ -1075,11 +1075,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16971,
+    "archive_count": 16972,
     "archive_supplements": 1929,
     "archive_off_label": 609,
     "archive_biomarkers": 10125,
     "archive_trials": 3603,
-    "archive_mind_body": 413
+    "archive_mind_body": 414
   }
 }
