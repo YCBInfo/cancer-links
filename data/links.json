@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T04:06:46.500Z",
+  "last_updated": "2026-04-16T04:06:57.895Z",
   "categories": {
     "supplements": [
       {
@@ -783,6 +783,20 @@
         "added_date": "2026-04-16"
       },
       {
+        "id": "recfpEZDn0EP9Zbrh",
+        "title": "LySeqST: A targeted sequencing assay for robust genomic classification of diffuse large B-cell lymphoma.",
+        "summary": "A new targeted sequencing test accurately classifies diffuse large B-cell lymphoma subtypes, enabling personalized treatment strategies at lower cost.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41985007/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lymphoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-16"
+      },
+      {
         "id": "rec0O2lmdD1v67JSg",
         "title": "Chemotherapy-Induced Gastrointestinal Dysfunction: Mechanisms and Integrative Western-Chinese Medicine Strategies.",
         "summary": "Chemotherapy damages the gut through multiple interconnected processes; combined Western and Chinese medicine approaches targeting specific mechanisms may better prevent and treat these side effects.",
@@ -836,20 +850,6 @@
           "Melanoma"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-15"
-      },
-      {
-        "id": "recw8QBLx3Zkr3lSs",
-        "title": "Early cancer detection in a large American Cancer Society cohort study: Retrospective analysis of methylated DNA biomarkers.",
-        "summary": "Researchers found that DNA methylation patterns in blood plasma can detect cancer earlier, using samples from a large cancer study cohort.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41968496/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-15"
       }
@@ -1075,10 +1075,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16995,
+    "archive_count": 16996,
     "archive_supplements": 1933,
     "archive_off_label": 609,
-    "archive_biomarkers": 10140,
+    "archive_biomarkers": 10141,
     "archive_trials": 3605,
     "archive_mind_body": 416
   }
