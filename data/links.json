@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T04:07:08.669Z",
+  "last_updated": "2026-04-16T04:07:19.983Z",
   "categories": {
     "supplements": [
       {
@@ -797,6 +797,20 @@
         "added_date": "2026-04-16"
       },
       {
+        "id": "recIhmFjuPcnFnWnv",
+        "title": "On-demand GLUT3 expression augments CAR T cell metabolic fitness and antitumor efficacy in preclinical models of glioblastoma.",
+        "summary": "Engineering CAR T cells with on-demand glucose uptake improves their ability to fight glioblastoma while avoiding dangerous side effects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41984929/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-16"
+      },
+      {
         "id": "rec0O2lmdD1v67JSg",
         "title": "Chemotherapy-Induced Gastrointestinal Dysfunction: Mechanisms and Integrative Western-Chinese Medicine Strategies.",
         "summary": "Chemotherapy damages the gut through multiple interconnected processes; combined Western and Chinese medicine approaches targeting specific mechanisms may better prevent and treat these side effects.",
@@ -833,21 +847,6 @@
         "category": "Clinical Trials",
         "cancer_types": [
           "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-15"
-      },
-      {
-        "id": "recWQGWxmaUkM4OEy",
-        "title": "GPNMB Drives Brain Metastasis by Sculpting a Pathological Endothelial-Immune Interactome.",
-        "summary": "Researchers found GPNMB protein drives brain metastasis in lung cancer and melanoma by disrupting the blood-brain barrier, and blocking it combined with immunotherapy improved treatment outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41973996/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung",
-          "Melanoma"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -1075,10 +1074,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16997,
+    "archive_count": 16998,
     "archive_supplements": 1933,
     "archive_off_label": 609,
-    "archive_biomarkers": 10142,
+    "archive_biomarkers": 10143,
     "archive_trials": 3605,
     "archive_mind_body": 416
   }
