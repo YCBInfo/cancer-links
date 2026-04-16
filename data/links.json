@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T04:14:49.359Z",
+  "last_updated": "2026-04-16T04:15:01.757Z",
   "categories": {
     "supplements": [
       {
@@ -229,6 +229,20 @@
         "added_date": "2026-04-16"
       },
       {
+        "id": "recR8VgrJoHP3dovH",
+        "title": "Therapy-induced cholesterol biosynthesis drives lung cancer dormancy and drug resistance.",
+        "summary": "Lung cancer cells evade drug therapy by making cholesterol, triggering dormancy; combining cholesterol-blocking statins with cancer drugs prevents this escape.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41983392/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-16"
+      },
+      {
         "id": "rec14gjd48EFplC28",
         "title": "Lansoprazole Enhances Everolimus Efficacy Through DDIT3-Mediated PI3K/AKT/mTOR Pathway Inhibition in Pancreatic Neuroendocrine Neoplasms Proliferation.",
         "summary": "Lansoprazole combined with everolimus more effectively treats pancreatic neuroendocrine tumors by blocking cancer growth pathways.",
@@ -406,20 +420,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-13"
-      },
-      {
-        "id": "recpDaciGE6NyItLZ",
-        "title": "Studying Synergistic Anticancer Effects of Repurposed AT1B Losartan with Antidiabetics Metformin, Rosiglitazone in Triple-Negative Breast Cancer Cells.",
-        "summary": "Losartan combined with metformin shows synergistic effects in killing triple-negative breast cancer cells more effectively than either drug alone.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41967625/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -1074,10 +1074,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 17039,
+    "archive_count": 17040,
     "archive_supplements": 1935,
     "archive_off_label": 609,
-    "archive_biomarkers": 10177,
+    "archive_biomarkers": 10178,
     "archive_trials": 3610,
     "archive_mind_body": 416
   }
