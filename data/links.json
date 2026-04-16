@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T04:14:26.978Z",
+  "last_updated": "2026-04-16T04:14:38.771Z",
   "categories": {
     "supplements": [
       {
@@ -83,6 +83,20 @@
           "Colorectal"
         ],
         "quality_score": 22,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-16"
+      },
+      {
+        "id": "recZMcjRt3yhBCo0B",
+        "title": "Timing of Moderate-to-Vigorous Physical Activity and Mortality Risk: Role of Chronotype and Sleep Patterns.",
+        "summary": "Morning exercise may reduce mortality risk more than evening exercise, particularly for early risers and those with consistent sleep patterns.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41983447/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-16"
       },
@@ -189,20 +203,6 @@
         "title": "Fucoidan alleviates chemotherapy-induced steatohepatitis by regulating the gut-liver axis.",
         "summary": "Fucoidan protects the liver from chemotherapy damage by strengthening the intestinal barrier and reducing harmful inflammation.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41747598/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-15"
-      },
-      {
-        "id": "recpyCKJ7jgnHL3OV",
-        "title": "Oridonin downregulates PD-L1 expression and promotes anti-tumor immunity via inhibiting NLRP3 and STAT3.",
-        "summary": "Oridonin, a natural product, reduces PD-L1 cancer cell protein levels and boosts immune cell anti-tumor activity in mice.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41740339/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -1074,11 +1074,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 17037,
+    "archive_count": 17038,
     "archive_supplements": 1935,
     "archive_off_label": 609,
     "archive_biomarkers": 10176,
-    "archive_trials": 3609,
+    "archive_trials": 3610,
     "archive_mind_body": 416
   }
 }
