@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T06:04:34.677Z",
+  "last_updated": "2026-04-16T06:04:46.016Z",
   "categories": {
     "supplements": [
       {
@@ -257,6 +257,20 @@
         "added_date": "2026-04-16"
       },
       {
+        "id": "recKi6OZ9cALuD8JV",
+        "title": "Synergistic action of JNK activation and BChE inhibition: a novel anti- glioblastoma compound with neuroprotective profile.",
+        "summary": "A new drug called QY-54 kills glioblastoma cancer cells while protecting healthy brain tissue through dual mechanisms.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41982148/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-16"
+      },
+      {
         "id": "rec14gjd48EFplC28",
         "title": "Lansoprazole Enhances Everolimus Efficacy Through DDIT3-Mediated PI3K/AKT/mTOR Pathway Inhibition in Pancreatic Neuroendocrine Neoplasms Proliferation.",
         "summary": "Lansoprazole combined with everolimus more effectively treats pancreatic neuroendocrine tumors by blocking cancer growth pathways.",
@@ -406,20 +420,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Pancreatic"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-14"
-      },
-      {
-        "id": "recFqcT3m2MkkW6L3",
-        "title": "Targeting TMPRSS2 for Prostate Cancer Therapy: A Multi-Step Computational Approach for Identifying Novel Inhibitors.",
-        "summary": "Researchers identified promising drug candidates to block TMPRSS2, a protein that drives prostate cancer growth and spread.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41968858/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Prostate"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -1074,11 +1074,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 17089,
+    "archive_count": 17090,
     "archive_supplements": 1941,
     "archive_off_label": 610,
     "archive_biomarkers": 10216,
-    "archive_trials": 3614,
+    "archive_trials": 3615,
     "archive_mind_body": 416
   }
 }
