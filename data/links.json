@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T04:03:10.050Z",
+  "last_updated": "2026-04-16T04:03:21.322Z",
   "categories": {
     "supplements": [
       {
@@ -555,6 +555,20 @@
         "added_date": "2026-04-16"
       },
       {
+        "id": "recCxVBYpGRFPr7eh",
+        "title": "Co-activating the intrinsic FcRγ/TLR4 signaling axis enhances the antitumor activity of NKG2D CAR-macrophages against prostate cancer.",
+        "summary": "Engineered immune cells called CAR-macrophages with dual signaling pathways effectively shrink prostate cancer tumors in mice without toxicity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41747445/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-16"
+      },
+      {
         "id": "rec0O2lmdD1v67JSg",
         "title": "Chemotherapy-Induced Gastrointestinal Dysfunction: Mechanisms and Integrative Western-Chinese Medicine Strategies.",
         "summary": "Chemotherapy damages the gut through multiple interconnected processes; combined Western and Chinese medicine approaches targeting specific mechanisms may better prevent and treat these side effects.",
@@ -623,21 +637,6 @@
         "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-15"
-      },
-      {
-        "id": "recWQGWxmaUkM4OEy",
-        "title": "GPNMB Drives Brain Metastasis by Sculpting a Pathological Endothelial-Immune Interactome.",
-        "summary": "Researchers found GPNMB protein drives brain metastasis in lung cancer and melanoma by disrupting the blood-brain barrier, and blocking it combined with immunotherapy improved treatment outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41973996/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung",
-          "Melanoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-15"
       }
     ],
     "trials": [
@@ -696,6 +695,20 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
+        "added_date": "2026-04-16"
+      },
+      {
+        "id": "recCxVBYpGRFPr7eh",
+        "title": "Co-activating the intrinsic FcRγ/TLR4 signaling axis enhances the antitumor activity of NKG2D CAR-macrophages against prostate cancer.",
+        "summary": "Engineered immune cells called CAR-macrophages with dual signaling pathways effectively shrink prostate cancer tumors in mice without toxicity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41747445/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
         "added_date": "2026-04-16"
       },
       {
@@ -835,20 +848,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Kidney"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-15"
-      },
-      {
-        "id": "receozKR2DEgSX0da",
-        "title": "Antigen-induced IL-12 potentiates piggyBac-engineered HER2-CAR-T cells against gastric cancer.",
-        "summary": "Antigen-triggered IL-12 boosts engineered CAR-T cells' effectiveness against gastric cancer while maintaining safer, controlled immune activation.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41785602/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Stomach"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -1076,10 +1075,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16976,
+    "archive_count": 16977,
     "archive_supplements": 1929,
     "archive_off_label": 609,
-    "archive_biomarkers": 10126,
+    "archive_biomarkers": 10127,
     "archive_trials": 3604,
     "archive_mind_body": 416
   }
