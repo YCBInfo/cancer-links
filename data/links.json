@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T09:05:26.850Z",
+  "last_updated": "2026-04-16T09:05:40.496Z",
   "categories": {
     "supplements": [
       {
@@ -327,6 +327,20 @@
         "added_date": "2026-04-16"
       },
       {
+        "id": "recEQSqqSxTwn6xb5",
+        "title": "Repurposing Ilaprazole as a PP5 TPR Domain Binder with Modulatory Effects on MAPK Signaling.",
+        "summary": "Ilaprazole, an existing drug, blocks a protein that stabilizes cancer growth signals in colorectal cancer, enhancing treatment effectiveness when combined with other therapies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41982730/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-16"
+      },
+      {
         "id": "rec14gjd48EFplC28",
         "title": "Lansoprazole Enhances Everolimus Efficacy Through DDIT3-Mediated PI3K/AKT/mTOR Pathway Inhibition in Pancreatic Neuroendocrine Neoplasms Proliferation.",
         "summary": "Lansoprazole combined with everolimus more effectively treats pancreatic neuroendocrine tumors by blocking cancer growth pathways.",
@@ -410,20 +424,6 @@
         "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-15"
-      },
-      {
-        "id": "rece6CyV9lkmmaiJE",
-        "title": "GLP-1RA plus SGLT2i combination therapy and liver fibrosis progression in MASLD with type 2 diabetes.",
-        "summary": "Combining two diabetes drugs may slow liver fibrosis progression better than using one drug alone in patients with fatty liver disease.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41974037/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-14"
       }
     ],
     "biomarkers": [
@@ -1075,11 +1075,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 17175,
+    "archive_count": 17176,
     "archive_supplements": 1953,
     "archive_off_label": 614,
     "archive_biomarkers": 10245,
-    "archive_trials": 3655,
+    "archive_trials": 3656,
     "archive_mind_body": 416
   }
 }
