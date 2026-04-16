@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T04:05:10.777Z",
+  "last_updated": "2026-04-16T04:05:21.363Z",
   "categories": {
     "supplements": [
       {
@@ -712,6 +712,20 @@
         "added_date": "2026-04-16"
       },
       {
+        "id": "recC9GnVsBhijm734",
+        "title": "First-Line Zongertinib in Advanced HER2-Mutant Non-Small-Cell Lung Cancer.",
+        "summary": "Zongertinib is the first targeted drug approved for advanced lung cancer patients with HER2 mutations.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41985129/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-16"
+      },
+      {
         "id": "rec0O2lmdD1v67JSg",
         "title": "Chemotherapy-Induced Gastrointestinal Dysfunction: Mechanisms and Integrative Western-Chinese Medicine Strategies.",
         "summary": "Chemotherapy damages the gut through multiple interconnected processes; combined Western and Chinese medicine approaches targeting specific mechanisms may better prevent and treat these side effects.",
@@ -837,20 +851,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
-        "added_date": "2026-04-15"
-      },
-      {
-        "id": "recaDlR7OvoxeLFXk",
-        "title": "Empirical evaluation of variability and multi-institutional generalizability of deep learning survival models: application to renal cancer CT scans.",
-        "summary": "Deep learning models using kidney cancer CT scans can better predict patient survival when using balanced data splitting and multiple image enhancement techniques.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41806695/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Kidney"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
         "added_date": "2026-04-15"
       }
     ],
@@ -1075,8 +1075,8 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16986,
-    "archive_supplements": 1930,
+    "archive_count": 16987,
+    "archive_supplements": 1931,
     "archive_off_label": 609,
     "archive_biomarkers": 10135,
     "archive_trials": 3604,
