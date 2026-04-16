@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T04:07:19.983Z",
+  "last_updated": "2026-04-16T04:07:32.177Z",
   "categories": {
     "supplements": [
       {
@@ -56,6 +56,20 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-03-01",
+        "added_date": "2026-04-16"
+      },
+      {
+        "id": "recRpd3I2M0oaYqRa",
+        "title": "Xanthan gum intake modifies the colon microbiota profile and causes mild colon inflammation in rats.",
+        "summary": "Xanthan gum, commonly used in food, causes mild colon inflammation and alters gut bacteria in rats.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41984887/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
         "added_date": "2026-04-16"
       },
       {
@@ -189,20 +203,6 @@
         "title": "Emodin retards renal cyst progression in ADPKD by inhibiting cell proliferation and decreasing oxidative stress.",
         "summary": "Emodin, derived from rhubarb, slows kidney cyst growth in ADPKD by reducing cell proliferation and oxidative stress.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41722769/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-15"
-      },
-      {
-        "id": "recwSmpzZpYKEmqPp",
-        "title": "Quercetin alleviates imatinib-induced premature ovarian insufficiency by regulating mitophagy via the ROS/JNK/c-JUN pathway.",
-        "summary": "Quercetin protects ovaries from damage caused by imatinib, a cancer drug, by reducing harmful oxidative stress and excessive cell death.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41722539/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -1074,10 +1074,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16998,
+    "archive_count": 16999,
     "archive_supplements": 1933,
     "archive_off_label": 609,
-    "archive_biomarkers": 10143,
+    "archive_biomarkers": 10144,
     "archive_trials": 3605,
     "archive_mind_body": 416
   }
