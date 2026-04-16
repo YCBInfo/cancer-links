@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T07:08:42.941Z",
+  "last_updated": "2026-04-16T07:08:56.590Z",
   "categories": {
     "supplements": [
       {
@@ -271,6 +271,20 @@
         "added_date": "2026-04-16"
       },
       {
+        "id": "rec7ATTnw2oAYTIlJ",
+        "title": "Qualitative Study on Experiences Related to Anorexia and the Effects of Anamorelin and Placebo in Advanced Non-Small-Cell Lung Cancer Patients With Anorexia-Cachexia: A Preliminary Study",
+        "summary": "Anamorelin may help improve appetite and reduce weight loss in advanced lung cancer patients experiencing loss of appetite.",
+        "url": "https://clinicaltrials.gov/study/NCT03637816",
+        "source": "ClinicalTrials.gov",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 19,
+        "pub_date": "2026-04-15",
+        "added_date": "2026-04-16"
+      },
+      {
         "id": "rec14gjd48EFplC28",
         "title": "Lansoprazole Enhances Everolimus Efficacy Through DDIT3-Mediated PI3K/AKT/mTOR Pathway Inhibition in Pancreatic Neuroendocrine Neoplasms Proliferation.",
         "summary": "Lansoprazole combined with everolimus more effectively treats pancreatic neuroendocrine tumors by blocking cancer growth pathways.",
@@ -408,20 +422,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-14"
-      },
-      {
-        "id": "recB4EBksjMmIPET2",
-        "title": "Pharmacokinetic Prediction of Repurposed Drugs for PDAC Using Artificial Intelligence.",
-        "summary": "AI models accurately predict how repurposed drugs behave in the body for pancreatic cancer treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41970855/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Pancreatic"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-14"
       }
@@ -1075,11 +1075,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 17151,
+    "archive_count": 17152,
     "archive_supplements": 1952,
     "archive_off_label": 611,
     "archive_biomarkers": 10237,
-    "archive_trials": 3643,
+    "archive_trials": 3644,
     "archive_mind_body": 416
   }
 }
