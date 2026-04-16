@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T04:03:32.189Z",
+  "last_updated": "2026-04-16T04:03:44.621Z",
   "categories": {
     "supplements": [
       {
@@ -583,6 +583,20 @@
         "added_date": "2026-04-16"
       },
       {
+        "id": "recnx66qOuFkLKmYO",
+        "title": "Elevation of serum N-glycolylneuraminic acid glycoconjugates in colorectal cancer.",
+        "summary": "A blood test measuring Neu5Gc molecules accurately identifies colorectal cancer with 94% sensitivity and 79% specificity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41734715/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-16"
+      },
+      {
         "id": "rec0O2lmdD1v67JSg",
         "title": "Chemotherapy-Induced Gastrointestinal Dysfunction: Mechanisms and Integrative Western-Chinese Medicine Strategies.",
         "summary": "Chemotherapy damages the gut through multiple interconnected processes; combined Western and Chinese medicine approaches targeting specific mechanisms may better prevent and treat these side effects.",
@@ -619,20 +633,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-15"
-      },
-      {
-        "id": "reca08WRLYzQV4XbA",
-        "title": "A phase 1 study of ASTX727 plus talazoparib in patients with triple-negative or hormone resistant/HER2-negative metastatic breast cancer.",
-        "summary": "Combined DNMT and PARP inhibitors show promise in early testing for triple-negative and hormone-resistant breast cancer with normal BRCA genes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41980055/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -1075,10 +1075,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16978,
+    "archive_count": 16979,
     "archive_supplements": 1929,
     "archive_off_label": 609,
-    "archive_biomarkers": 10128,
+    "archive_biomarkers": 10129,
     "archive_trials": 3604,
     "archive_mind_body": 416
   }
