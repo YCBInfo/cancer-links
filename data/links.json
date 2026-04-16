@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T04:04:49.583Z",
+  "last_updated": "2026-04-16T04:05:00.337Z",
   "categories": {
     "supplements": [
       {
@@ -35,6 +35,20 @@
         "title": "Exploration of the pharmacological mechanism of Evodia rutaecarpa on esophageal cancer based on comprehensive analysis of compounds and disease targets.",
         "summary": "Evodia rutaecarpa compounds inhibit esophageal cancer cell growth by stopping cell cycle and triggering cell death through multiple molecular targets.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41722249/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-16"
+      },
+      {
+        "id": "recMoGGsZMcEyUjGD",
+        "title": "Targeting Warburg effect: involvement of lactate transporter MCT1 and its chaperone in cancer cell killing by 18β-glycyrrhetinic acid.",
+        "summary": "A licorice-derived compound kills cancer cells by exploiting their lactate transporter, which is overexpressed due to rapid metabolism.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41719881/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -189,20 +203,6 @@
         "title": "Quercetin alleviates imatinib-induced premature ovarian insufficiency by regulating mitophagy via the ROS/JNK/c-JUN pathway.",
         "summary": "Quercetin protects ovaries from damage caused by imatinib, a cancer drug, by reducing harmful oxidative stress and excessive cell death.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41722539/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-15"
-      },
-      {
-        "id": "recHJMq2yypyNzjCG",
-        "title": "Identification and mechanistic insights into immunomodulatory peptides from soft-shelled turtle hydrolysates.",
-        "summary": "Researchers identified two peptides from soft-shelled turtle that reduce inflammation and support healthy gut bacteria, offering potential therapeutic food ingredients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41722193/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -1075,10 +1075,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16984,
+    "archive_count": 16985,
     "archive_supplements": 1930,
     "archive_off_label": 609,
-    "archive_biomarkers": 10133,
+    "archive_biomarkers": 10134,
     "archive_trials": 3604,
     "archive_mind_body": 416
   }
