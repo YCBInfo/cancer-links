@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T04:04:06.747Z",
+  "last_updated": "2026-04-16T04:04:28.877Z",
   "categories": {
     "supplements": [
       {
@@ -21,6 +21,20 @@
         "title": "Integrated phytochemical and computational approaches to identify candidate Bcl-2 inhibitors from Caesalpinia mimosoides: Toward translational anticancer strategies.",
         "summary": "Researchers identified plant compounds from Caesalpinia mimosoides that effectively block Bcl-2 cancer protein, offering natural alternatives to synthetic drugs.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41734712/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-16"
+      },
+      {
+        "id": "reciLOXBnXsTK0BxL",
+        "title": "Exploration of the pharmacological mechanism of Evodia rutaecarpa on esophageal cancer based on comprehensive analysis of compounds and disease targets.",
+        "summary": "Evodia rutaecarpa compounds inhibit esophageal cancer cell growth by stopping cell cycle and triggering cell death through multiple molecular targets.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41722249/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -196,20 +210,6 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-03-01",
-        "added_date": "2026-04-15"
-      },
-      {
-        "id": "rechDkbLttYKhXNhc",
-        "title": "Unlocking the potential of functional food polysaccharides: The zebrafish model as a revolutionary high-throughput screening platform.",
-        "summary": "Zebrafish provide a cost-effective screening platform to quickly test polysaccharides from food for cancer-fighting and health benefits.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41679835/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
-        "pub_date": "2026-02-01",
         "added_date": "2026-04-15"
       }
     ],
@@ -625,18 +625,18 @@
         "added_date": "2026-04-16"
       },
       {
-        "id": "rec0O2lmdD1v67JSg",
-        "title": "Chemotherapy-Induced Gastrointestinal Dysfunction: Mechanisms and Integrative Western-Chinese Medicine Strategies.",
-        "summary": "Chemotherapy damages the gut through multiple interconnected processes; combined Western and Chinese medicine approaches targeting specific mechanisms may better prevent and treat these side effects.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41974263/",
+        "id": "recVWQrtW1B8M9IBc",
+        "title": "How cytochrome P450 enzymes in humans are involved in Parkinson's disease: a literature review.",
+        "summary": "Multiple cytochrome P450 enzymes contribute to Parkinson's disease through oxidative stress, dopamine metabolism, and neuroinflammation pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41730497/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-15"
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-16"
       }
     ],
     "trials": [
@@ -1075,10 +1075,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16981,
+    "archive_count": 16982,
     "archive_supplements": 1929,
     "archive_off_label": 609,
-    "archive_biomarkers": 10131,
+    "archive_biomarkers": 10132,
     "archive_trials": 3604,
     "archive_mind_body": 416
   }
