@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T04:10:01.272Z",
+  "last_updated": "2026-04-16T04:10:11.256Z",
   "categories": {
     "supplements": [
       {
@@ -215,6 +215,20 @@
     ],
     "off_label": [
       {
+        "id": "recahcTZlrPpLr2vR",
+        "title": "Multi-omics analysis of perfluorooctanoic acid and glioblastoma: insights from Mendelian randomization, network toxicology, and molecular docking.",
+        "summary": "Genetically higher PFOA levels causally increase glioblastoma risk through neuroinflammation and oncogenic pathways, suggesting environmental and therapeutic implications.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41984189/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-16"
+      },
+      {
         "id": "rec14gjd48EFplC28",
         "title": "Lansoprazole Enhances Everolimus Efficacy Through DDIT3-Mediated PI3K/AKT/mTOR Pathway Inhibition in Pancreatic Neuroendocrine Neoplasms Proliferation.",
         "summary": "Lansoprazole combined with everolimus more effectively treats pancreatic neuroendocrine tumors by blocking cancer growth pathways.",
@@ -406,20 +420,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-13"
-      },
-      {
-        "id": "recESwupFDjev7Lc7",
-        "title": "Avapritinib for targeting KIT D816V-mutated acute myeloid leukemia relapsed after allogeneic hematopoietic stem cell transplant with extramedullary and central nervous system involvement.",
-        "summary": "Drug avapritinib effectively treats relapsed acute myeloid leukemia with specific KIT mutation, even in brain and multiple organs.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41961082/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -1074,10 +1074,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 17013,
+    "archive_count": 17014,
     "archive_supplements": 1934,
     "archive_off_label": 609,
-    "archive_biomarkers": 10155,
+    "archive_biomarkers": 10156,
     "archive_trials": 3607,
     "archive_mind_body": 416
   }
