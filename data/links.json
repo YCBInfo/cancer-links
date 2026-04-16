@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-04-16T04:03:21.322Z",
+  "last_updated": "2026-04-16T04:03:32.189Z",
   "categories": {
     "supplements": [
+      {
+        "id": "recEQ2u3O4yTQOOac",
+        "title": "Berberine induces pyroptosis by promoting the NLRP3/Caspase-1/GSDMD pathway in papillary thyroid carcinoma.",
+        "summary": "Berberine, a natural compound from Chinese herbal medicine, kills papillary thyroid cancer cells by triggering a specific cell death pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41740544/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Thyroid"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-16"
+      },
       {
         "id": "recNiTXNVyPVLjqeX",
         "title": "Naringenin suppresses colorectal Cancer progression by targeting the Gankyrin/PI3K /AKT/GSK-3β/β-catenin signaling Axis.",
@@ -196,20 +210,6 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-03-01",
-        "added_date": "2026-04-15"
-      },
-      {
-        "id": "rec2wKhNLVwBzdH6p",
-        "title": "Microwave Plasma Torch Desorption Ionization Mass Spectrometry for Chemical Constituents of Pinellia ternata (Thunb.) Ten. ex Breitenb.",
-        "summary": "Researchers developed a mass spectrometry technique to identify chemical compounds in Pinellia ternata, a traditional herb with potential anti-tumor properties.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41539983/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
-        "pub_date": "2026-01-01",
         "added_date": "2026-04-15"
       }
     ],
@@ -569,6 +569,20 @@
         "added_date": "2026-04-16"
       },
       {
+        "id": "recEQ2u3O4yTQOOac",
+        "title": "Berberine induces pyroptosis by promoting the NLRP3/Caspase-1/GSDMD pathway in papillary thyroid carcinoma.",
+        "summary": "Berberine, a natural compound from Chinese herbal medicine, kills papillary thyroid cancer cells by triggering a specific cell death pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41740544/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Thyroid"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-16"
+      },
+      {
         "id": "rec0O2lmdD1v67JSg",
         "title": "Chemotherapy-Induced Gastrointestinal Dysfunction: Mechanisms and Integrative Western-Chinese Medicine Strategies.",
         "summary": "Chemotherapy damages the gut through multiple interconnected processes; combined Western and Chinese medicine approaches targeting specific mechanisms may better prevent and treat these side effects.",
@@ -621,20 +635,6 @@
           "Breast"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-15"
-      },
-      {
-        "id": "rec4l92pXYR2Fq7Aq",
-        "title": "Feasibility of improving sLe(a)/CA 19-9 harmonization by recalibration: a simulation study using three EQA programs.",
-        "summary": "Researchers found that recalibration could improve consistency of CA 19-9 blood tests used to monitor pancreatic and gastrointestinal cancers.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41979164/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-15"
       }
@@ -1075,10 +1075,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16977,
+    "archive_count": 16978,
     "archive_supplements": 1929,
     "archive_off_label": 609,
-    "archive_biomarkers": 10127,
+    "archive_biomarkers": 10128,
     "archive_trials": 3604,
     "archive_mind_body": 416
   }
