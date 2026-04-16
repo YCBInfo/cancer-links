@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T06:04:18.193Z",
+  "last_updated": "2026-04-16T06:04:24.287Z",
   "categories": {
     "supplements": [
       {
@@ -171,6 +171,20 @@
         "added_date": "2026-04-16"
       },
       {
+        "id": "recCNN6N9Vzw1kKwT",
+        "title": "Harnessing Phytochemicals for Brain Cancer Therapy: Insights Into Medulloblastoma and Glioblastoma Treatment.",
+        "summary": "Plant compounds like curcumin and quercetin show promise treating aggressive brain cancers medulloblastoma and glioblastoma by stopping tumor cell growth and survival.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41983502/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-16"
+      },
+      {
         "id": "recNiTXNVyPVLjqeX",
         "title": "Naringenin suppresses colorectal Cancer progression by targeting the Gankyrin/PI3K /AKT/GSK-3β/β-catenin signaling Axis.",
         "summary": "Naringenin, a citrus compound, suppresses colorectal cancer by blocking a key protein pathway involved in tumor growth and spread.",
@@ -195,20 +209,6 @@
           "Stomach"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-15"
-      },
-      {
-        "id": "rec4kUG1HT3AOP17j",
-        "title": "Maternal Choline Supplementation in a Mouse Model of Down Syndrome and Alzheimer's Disease Generates Unique Expression Profile Mosaics Within Three Hippocampal Excitatory Neuronal Populations.",
-        "summary": "Maternal choline supplementation reduces harmful cell death and boosts cognitive pathways in mouse models of Down syndrome and Alzheimer's disease.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41930605/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-15"
       }
@@ -1074,10 +1074,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 17087,
+    "archive_count": 17088,
     "archive_supplements": 1941,
     "archive_off_label": 610,
-    "archive_biomarkers": 10214,
+    "archive_biomarkers": 10215,
     "archive_trials": 3614,
     "archive_mind_body": 416
   }
