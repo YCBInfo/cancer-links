@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T04:03:54.759Z",
+  "last_updated": "2026-04-16T04:04:06.747Z",
   "categories": {
     "supplements": [
       {
@@ -13,6 +13,20 @@
           "Thyroid"
         ],
         "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-16"
+      },
+      {
+        "id": "recN8XcowNWWW2kvL",
+        "title": "Integrated phytochemical and computational approaches to identify candidate Bcl-2 inhibitors from Caesalpinia mimosoides: Toward translational anticancer strategies.",
+        "summary": "Researchers identified plant compounds from Caesalpinia mimosoides that effectively block Bcl-2 cancer protein, offering natural alternatives to synthetic drugs.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41734712/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-04-16"
       },
@@ -196,20 +210,6 @@
         ],
         "quality_score": 10,
         "pub_date": "2026-02-01",
-        "added_date": "2026-04-15"
-      },
-      {
-        "id": "recAaquFchGxwsNXR",
-        "title": "Anti-inflammatory activity of quinoa-based protein beverage after INFOGEST digestion: Peptide identification and molecular docking-based screening.",
-        "summary": "Quinoa protein beverages release anti-inflammatory peptides during digestion that reduce inflammation signaling better than purified quinoa protein alone.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41679214/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
         "added_date": "2026-04-15"
       }
     ],
@@ -611,6 +611,20 @@
         "added_date": "2026-04-16"
       },
       {
+        "id": "recN8XcowNWWW2kvL",
+        "title": "Integrated phytochemical and computational approaches to identify candidate Bcl-2 inhibitors from Caesalpinia mimosoides: Toward translational anticancer strategies.",
+        "summary": "Researchers identified plant compounds from Caesalpinia mimosoides that effectively block Bcl-2 cancer protein, offering natural alternatives to synthetic drugs.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41734712/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-16"
+      },
+      {
         "id": "rec0O2lmdD1v67JSg",
         "title": "Chemotherapy-Induced Gastrointestinal Dysfunction: Mechanisms and Integrative Western-Chinese Medicine Strategies.",
         "summary": "Chemotherapy damages the gut through multiple interconnected processes; combined Western and Chinese medicine approaches targeting specific mechanisms may better prevent and treat these side effects.",
@@ -621,20 +635,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-15"
-      },
-      {
-        "id": "recNiTXNVyPVLjqeX",
-        "title": "Naringenin suppresses colorectal Cancer progression by targeting the Gankyrin/PI3K /AKT/GSK-3β/β-catenin signaling Axis.",
-        "summary": "Naringenin, a citrus compound, suppresses colorectal cancer by blocking a key protein pathway involved in tumor growth and spread.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41978702/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-15"
       }
@@ -1075,10 +1075,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 16980,
+    "archive_count": 16981,
     "archive_supplements": 1929,
     "archive_off_label": 609,
-    "archive_biomarkers": 10130,
+    "archive_biomarkers": 10131,
     "archive_trials": 3604,
     "archive_mind_body": 416
   }
