@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T04:07:40.821Z",
+  "last_updated": "2026-04-16T04:07:51.319Z",
   "categories": {
     "supplements": [
       {
@@ -811,6 +811,20 @@
         "added_date": "2026-04-16"
       },
       {
+        "id": "recbPgG2J1D81Rh2L",
+        "title": "Ustekinumab resistance in individuals with ulcerative colitis is associated with an alteration of a subset of proinflammatory mucosal regulatory T cells.",
+        "summary": "Ulcerative colitis patients resistant to ustekinumab show altered immune regulatory cells, offering insights for predicting treatment response.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41984825/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-16"
+      },
+      {
         "id": "rec0O2lmdD1v67JSg",
         "title": "Chemotherapy-Induced Gastrointestinal Dysfunction: Mechanisms and Integrative Western-Chinese Medicine Strategies.",
         "summary": "Chemotherapy damages the gut through multiple interconnected processes; combined Western and Chinese medicine approaches targeting specific mechanisms may better prevent and treat these side effects.",
@@ -833,20 +847,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-15"
-      },
-      {
-        "id": "reca08WRLYzQV4XbA",
-        "title": "A phase 1 study of ASTX727 plus talazoparib in patients with triple-negative or hormone resistant/HER2-negative metastatic breast cancer.",
-        "summary": "Combined DNMT and PARP inhibitors show promise in early testing for triple-negative and hormone-resistant breast cancer with normal BRCA genes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41980055/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -1074,10 +1074,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 17000,
+    "archive_count": 17001,
     "archive_supplements": 1933,
     "archive_off_label": 609,
-    "archive_biomarkers": 10145,
+    "archive_biomarkers": 10146,
     "archive_trials": 3605,
     "archive_mind_body": 416
   }
