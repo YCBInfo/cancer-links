@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T04:22:41.144Z",
+  "last_updated": "2026-04-16T06:02:56.115Z",
   "categories": {
     "supplements": [
       {
@@ -157,6 +157,20 @@
         "added_date": "2026-04-16"
       },
       {
+        "id": "recvNJhGZckNcqfW5",
+        "title": "Molecular targeting of the meningioma cell signaling circuit reveals drug vulnerabilities including synergy between sulforaphane and focal adhesion kinase inhibition.",
+        "summary": "Sulforaphane combined with focal adhesion kinase inhibitors shows promise as a potential drug treatment for meningioma brain tumors.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41986470/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-16"
+      },
+      {
         "id": "recNiTXNVyPVLjqeX",
         "title": "Naringenin suppresses colorectal Cancer progression by targeting the Gankyrin/PI3K /AKT/GSK-3β/β-catenin signaling Axis.",
         "summary": "Naringenin, a citrus compound, suppresses colorectal cancer by blocking a key protein pathway involved in tumor growth and spread.",
@@ -197,20 +211,6 @@
         "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-15"
-      },
-      {
-        "id": "recG3tnKMpSWKWD8e",
-        "title": "Chrysophanol attenuates breast cancer angiogenesis through blocking VEGFA/VEGFR2/ERK activation via inhibiting ACE2 ubiquitination.",
-        "summary": "Chrysophanol, a natural compound, slows breast cancer growth by blocking blood vessel formation through a specific molecular pathway.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41905439/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-15"
       }
     ],
     "off_label": [
@@ -239,6 +239,20 @@
           "Lung"
         ],
         "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-16"
+      },
+      {
+        "id": "recb3R20AFnENr3MF",
+        "title": "Evidence-steered medicine in oncology: network-aware micro-combinations that safeguard standard of care and potentially improve benefit-risk.",
+        "summary": "Evidence-steered medicine adds tiny, timed drug doses to standard cancer therapy to restore immune function and improve outcomes while maintaining safety.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41986766/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-16"
       },
@@ -410,20 +424,6 @@
         "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-14"
-      },
-      {
-        "id": "rec7nUxQu01mW5rA3",
-        "title": "Multiscale analysis and optimal glioma therapeutic candidate discovery using the CANDO platform.",
-        "summary": "Researchers used the CANDO computational platform to discover 24 promising glioma drug candidates by analyzing how compounds interact with brain tumor proteins.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41968358/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-13"
       }
     ],
     "biomarkers": [
@@ -1074,10 +1074,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 17079,
+    "archive_count": 17080,
     "archive_supplements": 1940,
     "archive_off_label": 609,
-    "archive_biomarkers": 10208,
+    "archive_biomarkers": 10209,
     "archive_trials": 3614,
     "archive_mind_body": 416
   }
