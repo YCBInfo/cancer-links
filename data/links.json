@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T04:07:51.319Z",
+  "last_updated": "2026-04-16T04:08:01.048Z",
   "categories": {
     "supplements": [
       {
@@ -825,6 +825,20 @@
         "added_date": "2026-04-16"
       },
       {
+        "id": "recWxEN8uwVwseOdZ",
+        "title": "BLADE: Breast Lesion Analysis with Domain Expertise for DCE-MRI Diagnosis.",
+        "summary": "BLADE, an AI tool combining deep learning with clinical expertise, improves breast cancer diagnosis from MRI scans and boosts radiologist accuracy by 14%.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41984614/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-16"
+      },
+      {
         "id": "rec0O2lmdD1v67JSg",
         "title": "Chemotherapy-Induced Gastrointestinal Dysfunction: Mechanisms and Integrative Western-Chinese Medicine Strategies.",
         "summary": "Chemotherapy damages the gut through multiple interconnected processes; combined Western and Chinese medicine approaches targeting specific mechanisms may better prevent and treat these side effects.",
@@ -835,20 +849,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-15"
-      },
-      {
-        "id": "recFdvbedlnk7aN71",
-        "title": "A plasma-based DNA test for quantification of disease burden in acute myeloid leukemia patients undergoing bone marrow transplantation.",
-        "summary": "A blood test detecting leukemia mutations predicts relapse and treatment response better than standard tests in AML transplant patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41980102/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-15"
       }
@@ -1074,10 +1074,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 17001,
+    "archive_count": 17002,
     "archive_supplements": 1933,
     "archive_off_label": 609,
-    "archive_biomarkers": 10146,
+    "archive_biomarkers": 10147,
     "archive_trials": 3605,
     "archive_mind_body": 416
   }
