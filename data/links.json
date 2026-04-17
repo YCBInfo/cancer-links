@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17T04:03:38.048Z",
+  "last_updated": "2026-04-17T04:03:46.868Z",
   "categories": {
     "supplements": [
       {
@@ -215,6 +215,20 @@
     ],
     "off_label": [
       {
+        "id": "recArTIac5TT9j0cb",
+        "title": "Circadian disruption exacerbates MASH by reducing Akkermansia muciniphila via the FXR-CYP7A1-bile acid axis.",
+        "summary": "Circadian disruption worsens liver disease by reducing beneficial gut bacteria through disrupted bile acid metabolism, reversible with bacterial or drug treatments.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41972001/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-17"
+      },
+      {
         "id": "recahcTZlrPpLr2vR",
         "title": "Multi-omics analysis of perfluorooctanoic acid and glioblastoma: insights from Mendelian randomization, network toxicology, and molecular docking.",
         "summary": "Genetically higher PFOA levels causally increase glioblastoma risk through neuroinflammation and oncogenic pathways, suggesting environmental and therapeutic implications.",
@@ -410,20 +424,6 @@
         "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-15"
-      },
-      {
-        "id": "rec1Kayi8OyC792Ap",
-        "title": "ANP32E drives lung adenocarcinoma progression via GSK3β-mediated glycolytic reprogramming.",
-        "summary": "ANP32E protein drives lung adenocarcinoma growth by boosting cancer cell metabolism; blocking it with a new compound slows tumors.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41980942/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-15"
       }
     ],
     "biomarkers": [
@@ -610,6 +610,20 @@
         "added_date": "2026-04-17"
       },
       {
+        "id": "recArTIac5TT9j0cb",
+        "title": "Circadian disruption exacerbates MASH by reducing Akkermansia muciniphila via the FXR-CYP7A1-bile acid axis.",
+        "summary": "Circadian disruption worsens liver disease by reducing beneficial gut bacteria through disrupted bile acid metabolism, reversible with bacterial or drug treatments.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41972001/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-17"
+      },
+      {
         "id": "recRASPThkRqKe8sh",
         "title": "Effects of Psychosocial Interventions on Measures of Stress Among Breast Cancer Survivors: A Scoping Review.",
         "summary": "Psychosocial interventions effectively reduce stress in breast cancer survivors, potentially improving immune function and survival outcomes.",
@@ -620,20 +634,6 @@
           "Breast"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-16"
-      },
-      {
-        "id": "rec6xQ1q2mhdTJ4rG",
-        "title": "Neoplastic Cauda Equina Syndrome: When Do We Not Operate?",
-        "summary": "Burkitt lymphoma caused spinal cord compression in a teen that improved quickly with treatment, avoiding surgery.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41982315/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Lymphoma"
-        ],
-        "quality_score": 18,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-16"
       }
@@ -1073,10 +1073,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 17190,
+    "archive_count": 17191,
     "archive_supplements": 1953,
     "archive_off_label": 615,
-    "archive_biomarkers": 10251,
+    "archive_biomarkers": 10252,
     "archive_trials": 3659,
     "archive_mind_body": 420
   }
