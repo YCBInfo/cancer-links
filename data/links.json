@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17T04:16:04.169Z",
+  "last_updated": "2026-04-17T04:16:23.903Z",
   "categories": {
     "supplements": [
       {
@@ -285,6 +285,21 @@
         "added_date": "2026-04-17"
       },
       {
+        "id": "recLeI7i2v9gW9Sx9",
+        "title": "Perindopril and L‑arginine protect against arsenic trioxide-induced neurotoxicity via Keap1/Nrf2/HO‑1 activation and suppression of neuroinflammation and apoptosis.",
+        "summary": "Perindopril and L-arginine together protect against arsenic trioxide's nerve damage in leukemia treatment by reducing inflammation and cell death.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41989598/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Leukemia",
+          "Lymphoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-17"
+      },
+      {
         "id": "recahcTZlrPpLr2vR",
         "title": "Multi-omics analysis of perfluorooctanoic acid and glioblastoma: insights from Mendelian randomization, network toxicology, and molecular docking.",
         "summary": "Genetically higher PFOA levels causally increase glioblastoma risk through neuroinflammation and oncogenic pathways, suggesting environmental and therapeutic implications.",
@@ -409,20 +424,6 @@
         "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-16"
-      },
-      {
-        "id": "rec14gjd48EFplC28",
-        "title": "Lansoprazole Enhances Everolimus Efficacy Through DDIT3-Mediated PI3K/AKT/mTOR Pathway Inhibition in Pancreatic Neuroendocrine Neoplasms Proliferation.",
-        "summary": "Lansoprazole combined with everolimus more effectively treats pancreatic neuroendocrine tumors by blocking cancer growth pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41911054/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-15"
       }
     ],
     "biomarkers": [
@@ -1071,10 +1072,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 17259,
+    "archive_count": 17260,
     "archive_supplements": 1956,
     "archive_off_label": 617,
-    "archive_biomarkers": 10313,
+    "archive_biomarkers": 10314,
     "archive_trials": 3661,
     "archive_mind_body": 420
   }
