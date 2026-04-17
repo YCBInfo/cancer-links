@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17T04:19:15.352Z",
+  "last_updated": "2026-04-17T04:19:26.098Z",
   "categories": {
     "supplements": [
       {
@@ -300,6 +300,20 @@
         "added_date": "2026-04-17"
       },
       {
+        "id": "recuxHiQLjZMkGfx1",
+        "title": "PBK-Loaded secretory autophagosomes drive radiotherapy-induced systemic adipose depletion via MAPK/ERK-PRKA/PKA-LIPE/HSL signaling: a therapeutic target for esophageal cancer cachexia.",
+        "summary": "Radiotherapy for esophageal cancer causes harmful fat loss through secreted particles containing PBK; blocking PBK with OTS-514 restores fat and improves treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41988986/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-17"
+      },
+      {
         "id": "recahcTZlrPpLr2vR",
         "title": "Multi-omics analysis of perfluorooctanoic acid and glioblastoma: insights from Mendelian randomization, network toxicology, and molecular docking.",
         "summary": "Genetically higher PFOA levels causally increase glioblastoma risk through neuroinflammation and oncogenic pathways, suggesting environmental and therapeutic implications.",
@@ -408,20 +422,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-16"
-      },
-      {
-        "id": "recEQSqqSxTwn6xb5",
-        "title": "Repurposing Ilaprazole as a PP5 TPR Domain Binder with Modulatory Effects on MAPK Signaling.",
-        "summary": "Ilaprazole, an existing drug, blocks a protein that stabilizes cancer growth signals in colorectal cancer, enhancing treatment effectiveness when combined with other therapies.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41982730/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-16"
       }
@@ -1072,10 +1072,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 17276,
+    "archive_count": 17277,
     "archive_supplements": 1956,
     "archive_off_label": 618,
-    "archive_biomarkers": 10327,
+    "archive_biomarkers": 10328,
     "archive_trials": 3663,
     "archive_mind_body": 420
   }
