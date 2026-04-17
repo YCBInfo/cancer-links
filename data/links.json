@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17T08:02:48.106Z",
+  "last_updated": "2026-04-17T09:03:23.895Z",
   "categories": {
     "supplements": [
       {
@@ -384,6 +384,34 @@
         "added_date": "2026-04-17"
       },
       {
+        "id": "recw88acsdJx086oJ",
+        "title": "Amitriptyline inhibits EAG1 channels by binding to their PAS domains and exerts EAG1-dependent anti-tumorigenic effects.",
+        "summary": "Amitriptyline, an antidepressant drug, blocks EAG1 channels and slows cancer cell growth and migration in tumors with high EAG1 expression.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41992030/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-17"
+      },
+      {
+        "id": "recpqx9ATgZAHjfZV",
+        "title": "Combination of a pesco vegetarian diet with non-steroidal anti-inflammatory drugs reduces colorectal cancer risk and modulates gut microbiota in PIRC rats.",
+        "summary": "A fish-based vegetarian diet combined with aspirin reduces colorectal cancer risk and alters protective gut bacteria in rat models.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41992021/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-17"
+      },
+      {
         "id": "recahcTZlrPpLr2vR",
         "title": "Multi-omics analysis of perfluorooctanoic acid and glioblastoma: insights from Mendelian randomization, network toxicology, and molecular docking.",
         "summary": "Genetically higher PFOA levels causally increase glioblastoma risk through neuroinflammation and oncogenic pathways, suggesting environmental and therapeutic implications.",
@@ -394,34 +422,6 @@
           "Brain"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-16"
-      },
-      {
-        "id": "recR8VgrJoHP3dovH",
-        "title": "Therapy-induced cholesterol biosynthesis drives lung cancer dormancy and drug resistance.",
-        "summary": "Lung cancer cells evade drug therapy by making cholesterol, triggering dormancy; combining cholesterol-blocking statins with cancer drugs prevents this escape.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41983392/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-16"
-      },
-      {
-        "id": "recb3R20AFnENr3MF",
-        "title": "Evidence-steered medicine in oncology: network-aware micro-combinations that safeguard standard of care and potentially improve benefit-risk.",
-        "summary": "Evidence-steered medicine adds tiny, timed drug doses to standard cancer therapy to restore immune function and improve outcomes while maintaining safety.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41986766/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-16"
       }
@@ -1071,9 +1071,9 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 17451,
+    "archive_count": 17452,
     "archive_supplements": 1975,
-    "archive_off_label": 619,
+    "archive_off_label": 620,
     "archive_biomarkers": 10431,
     "archive_trials": 3713,
     "archive_mind_body": 421
