@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17T06:08:36.135Z",
+  "last_updated": "2026-04-17T06:08:47.016Z",
   "categories": {
     "supplements": [
       {
@@ -370,6 +370,20 @@
         "added_date": "2026-04-17"
       },
       {
+        "id": "rec1AjuEO0CfiqXGz",
+        "title": "Targeting mitochondria in triple-negative breast cancer: Emerging therapeutic and drug development strategies.",
+        "summary": "Targeting mitochondria shows promise as a new treatment strategy for triple-negative breast cancer by disrupting cancer cell metabolism and survival.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41991138/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-17"
+      },
+      {
         "id": "recahcTZlrPpLr2vR",
         "title": "Multi-omics analysis of perfluorooctanoic acid and glioblastoma: insights from Mendelian randomization, network toxicology, and molecular docking.",
         "summary": "Genetically higher PFOA levels causally increase glioblastoma risk through neuroinflammation and oncogenic pathways, suggesting environmental and therapeutic implications.",
@@ -408,20 +422,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-16"
-      },
-      {
-        "id": "recKi6OZ9cALuD8JV",
-        "title": "Synergistic action of JNK activation and BChE inhibition: a novel anti- glioblastoma compound with neuroprotective profile.",
-        "summary": "A new drug called QY-54 kills glioblastoma cancer cells while protecting healthy brain tissue through dual mechanisms.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41982148/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Brain"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-16"
       }
@@ -1072,8 +1072,8 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 17391,
-    "archive_supplements": 1969,
+    "archive_count": 17392,
+    "archive_supplements": 1970,
     "archive_off_label": 619,
     "archive_biomarkers": 10417,
     "archive_trials": 3674,
