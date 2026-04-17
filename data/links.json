@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17T06:05:48.242Z",
+  "last_updated": "2026-04-17T06:05:59.185Z",
   "categories": {
     "supplements": [
       {
@@ -342,6 +342,20 @@
         "added_date": "2026-04-17"
       },
       {
+        "id": "recUb4ZdicvQ3yOLm",
+        "title": "NF-κB signaling drives rapid skeletal muscle atrophy in patients with breast cancer: The cost of fighting cancer with chemotherapy.",
+        "summary": "NF-κB signaling drives chemotherapy-induced muscle wasting in breast cancer patients; sulfasalazine may prevent it.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41989455/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-17"
+      },
+      {
         "id": "recahcTZlrPpLr2vR",
         "title": "Multi-omics analysis of perfluorooctanoic acid and glioblastoma: insights from Mendelian randomization, network toxicology, and molecular docking.",
         "summary": "Genetically higher PFOA levels causally increase glioblastoma risk through neuroinflammation and oncogenic pathways, suggesting environmental and therapeutic implications.",
@@ -409,20 +423,6 @@
         ],
         "quality_score": 19,
         "pub_date": "2026-04-15",
-        "added_date": "2026-04-16"
-      },
-      {
-        "id": "recyhr9jaEJbwN15o",
-        "title": "Amyloid-β-driven glymphatic dysfunction in Alzheimer's disease model mice is driven by Ca2+-mediated increases in astrocytic cholesterol.",
-        "summary": "Lowering calcium and cholesterol in brain cells restores waste-clearing glymphatic function and improves cognition in Alzheimer's disease models.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41986732/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
         "added_date": "2026-04-16"
       }
     ],
@@ -1072,10 +1072,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 17376,
+    "archive_count": 17377,
     "archive_supplements": 1966,
     "archive_off_label": 619,
-    "archive_biomarkers": 10407,
+    "archive_biomarkers": 10408,
     "archive_trials": 3672,
     "archive_mind_body": 420
   }
