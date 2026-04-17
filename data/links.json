@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17T04:22:08.249Z",
+  "last_updated": "2026-04-17T04:22:29.283Z",
   "categories": {
     "supplements": [
       {
@@ -69,6 +69,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-17"
+      },
+      {
+        "id": "recz5sdAU590cu6Zq",
+        "title": "Natural Modulators of the TP53 Pathway: Potential Herbal and Plant-Derived Agents for Cancer Therapy.",
+        "summary": "Plant-derived compounds show promise in reactivating p53, a key cancer-fighting protein mutated in half of all human cancers.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41988701/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Melanoma"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-17"
       },
@@ -197,20 +211,6 @@
         "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-16"
-      },
-      {
-        "id": "recLhnnErjSJJ4xXq",
-        "title": "New Lignans with Different Degrees of Polymerization from Alpinia galanga: Their Chiral Resolution, Anti-Inflammatory Activity, and Mechanism.",
-        "summary": "Compounds from greater galangal spice, particularly alpigalangin D, effectively reduce inflammation by blocking a key cellular signaling pathway.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41937683/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-16"
       }
     ],
     "off_label": [
@@ -314,6 +314,20 @@
         "added_date": "2026-04-17"
       },
       {
+        "id": "reclUqPha8uUiOuJV",
+        "title": "Altered Sphingolipid Metabolism is Associated with Osimertinib Resistance in Nonsmall-Cell Lung Cancer.",
+        "summary": "Lung cancer cells resist osimertinib by altering fat metabolism; combining the drug with a metabolism inhibitor restores treatment sensitivity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41988688/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-17"
+      },
+      {
         "id": "recahcTZlrPpLr2vR",
         "title": "Multi-omics analysis of perfluorooctanoic acid and glioblastoma: insights from Mendelian randomization, network toxicology, and molecular docking.",
         "summary": "Genetically higher PFOA levels causally increase glioblastoma risk through neuroinflammation and oncogenic pathways, suggesting environmental and therapeutic implications.",
@@ -404,20 +418,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41986720/",
         "source": "PubMed",
         "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-16"
-      },
-      {
-        "id": "recN6y6VucN6YWOpD",
-        "title": "DNA methylation and demethylation dynamics in pituitary neuroendocrine tumours.",
-        "summary": "DNA methylation and demethylation dynamics drive pituitary tumor development and may guide new treatment strategies targeting epigenetic regulators.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41983372/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
@@ -1072,10 +1072,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 17292,
+    "archive_count": 17293,
     "archive_supplements": 1957,
     "archive_off_label": 618,
-    "archive_biomarkers": 10342,
+    "archive_biomarkers": 10343,
     "archive_trials": 3663,
     "archive_mind_body": 420
   }
