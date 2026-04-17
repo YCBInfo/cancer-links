@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17T04:22:52.218Z",
+  "last_updated": "2026-04-17T04:23:01.182Z",
   "categories": {
     "supplements": [
       {
@@ -81,6 +81,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Melanoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-17"
+      },
+      {
+        "id": "recVnYsVzUxQqWlLD",
+        "title": "Isoguanosine exerts anticancer effects in Huh-7 cells by modulating ROS-dependent MAPK and AKT signaling.",
+        "summary": "Isoguanosine kills liver cancer cells by increasing cellular stress and blocking growth-related signaling pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41987738/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Liver"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -195,20 +209,6 @@
           "Liver"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-16"
-      },
-      {
-        "id": "recAA7Q0ZCLeK0kEq",
-        "title": "Unveiling the potential of zingerone-1,2,3-triazole derivatives as dual anticancer and COX-2 inhibitor: design, synthesis, and biological assessments.",
-        "summary": "Researchers created new compounds combining zingerone and triazole that block COX-2 to fight cancer growth.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41982177/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-16"
       }
@@ -1072,10 +1072,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 17295,
+    "archive_count": 17296,
     "archive_supplements": 1957,
     "archive_off_label": 618,
-    "archive_biomarkers": 10345,
+    "archive_biomarkers": 10346,
     "archive_trials": 3663,
     "archive_mind_body": 420
   }
