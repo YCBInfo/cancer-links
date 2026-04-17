@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17T04:06:48.665Z",
+  "last_updated": "2026-04-17T04:06:59.786Z",
   "categories": {
     "supplements": [
       {
@@ -42,6 +42,20 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
+        "added_date": "2026-04-17"
+      },
+      {
+        "id": "reclnaXjcRdNlGlPe",
+        "title": "CGF induces ROS-mediated metabolic reprogramming and mitochondrial dysfunction to suppress colorectal cancer progression.",
+        "summary": "CGF, a natural compound, inhibits colorectal cancer growth by disrupting metabolism and triggering cell death through mitochondrial damage.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41907414/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
         "added_date": "2026-04-17"
       },
       {
@@ -189,20 +203,6 @@
         "title": "Vitamin C Alleviates BPA Embryotoxicity by Attenuating Oxidative Stress and DNA Damage-Mediated Apoptosis via Modulation of the ATM/Chk2/p53 Pathway.",
         "summary": "Vitamin C protects embryos from BPA toxicity by reducing oxidative stress and preventing DNA damage-related cell death.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41914611/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-16"
-      },
-      {
-        "id": "recvNJhGZckNcqfW5",
-        "title": "Molecular targeting of the meningioma cell signaling circuit reveals drug vulnerabilities including synergy between sulforaphane and focal adhesion kinase inhibition.",
-        "summary": "Sulforaphane combined with focal adhesion kinase inhibitors shows promise as a potential drug treatment for meningioma brain tumors.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41986470/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -1073,10 +1073,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 17207,
+    "archive_count": 17208,
     "archive_supplements": 1955,
     "archive_off_label": 615,
-    "archive_biomarkers": 10266,
+    "archive_biomarkers": 10267,
     "archive_trials": 3659,
     "archive_mind_body": 420
   }
