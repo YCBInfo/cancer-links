@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17T04:23:11.000Z",
+  "last_updated": "2026-04-17T04:23:32.834Z",
   "categories": {
     "supplements": [
       {
@@ -101,6 +101,20 @@
         "added_date": "2026-04-17"
       },
       {
+        "id": "recSG0aHjXdaZbXXT",
+        "title": "Systematic review on effectiveness of flavonoids against breast cancer: Insights from in-vitro, in-vivo studies and molecular pathway studies.",
+        "summary": "Plant compounds called flavonoids show promise against breast cancer in lab studies, but human clinical trials are needed to prove effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41987687/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 22,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-17"
+      },
+      {
         "id": "recEQ2u3O4yTQOOac",
         "title": "Berberine induces pyroptosis by promoting the NLRP3/Caspase-1/GSDMD pathway in papillary thyroid carcinoma.",
         "summary": "Berberine, a natural compound from Chinese herbal medicine, kills papillary thyroid cancer cells by triggering a specific cell death pathway.",
@@ -195,20 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-16"
-      },
-      {
-        "id": "recYpNKXAzbSbTLiI",
-        "title": "Phenethyl Isothiocyanate Suppresses Hepatocellular Carcinoma Progression and Immune Evasion via ZNF652 Regulation of PD-L1.",
-        "summary": "PEITC, a plant compound, reduces liver cancer growth and boosts immune therapy by lowering PD-L1 protein levels through ZNF652 regulation.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41983254/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Liver"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-16"
       }
@@ -1072,10 +1072,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 17297,
+    "archive_count": 17298,
     "archive_supplements": 1957,
     "archive_off_label": 618,
-    "archive_biomarkers": 10347,
+    "archive_biomarkers": 10348,
     "archive_trials": 3663,
     "archive_mind_body": 420
   }
