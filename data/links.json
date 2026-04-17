@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17T04:25:10.691Z",
+  "last_updated": "2026-04-17T04:25:18.699Z",
   "categories": {
     "supplements": [
       {
@@ -328,6 +328,20 @@
         "added_date": "2026-04-17"
       },
       {
+        "id": "recPDECSGbu16yDRm",
+        "title": "Exenatide attenuates neuroinflammation and rescues sepsis-induced depressive behavior and cognitive dysfunction in a mouse model.",
+        "summary": "Exenatide, a diabetes drug, reduces brain inflammation and improves depression and memory problems caused by sepsis in mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41747818/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-17"
+      },
+      {
         "id": "recahcTZlrPpLr2vR",
         "title": "Multi-omics analysis of perfluorooctanoic acid and glioblastoma: insights from Mendelian randomization, network toxicology, and molecular docking.",
         "summary": "Genetically higher PFOA levels causally increase glioblastoma risk through neuroinflammation and oncogenic pathways, suggesting environmental and therapeutic implications.",
@@ -402,20 +416,6 @@
         "title": "Amyloid-β-driven glymphatic dysfunction in Alzheimer's disease model mice is driven by Ca2+-mediated increases in astrocytic cholesterol.",
         "summary": "Lowering calcium and cholesterol in brain cells restores waste-clearing glymphatic function and improves cognition in Alzheimer's disease models.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41986732/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-16"
-      },
-      {
-        "id": "recDvlvLcpSOmUcXn",
-        "title": "Prospective evaluation of genomics-guided off-label treatment.",
-        "summary": "Study of 1,610 advanced cancer patients using off-label drugs matched to genetic mutations showed 35% clinical benefit, supporting systematic evaluation frameworks for precision medicine.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41986720/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -1072,8 +1072,8 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 17307,
-    "archive_supplements": 1961,
+    "archive_count": 17308,
+    "archive_supplements": 1962,
     "archive_off_label": 618,
     "archive_biomarkers": 10353,
     "archive_trials": 3663,
