@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17T04:13:48.011Z",
+  "last_updated": "2026-04-17T04:13:58.111Z",
   "categories": {
     "supplements": [
       {
@@ -271,6 +271,20 @@
         "added_date": "2026-04-17"
       },
       {
+        "id": "recakKPrr7G5xac4U",
+        "title": "CRITICAL ROLE OF DYSREGULATED AUTOPHAGY IN PATHOPHYSIOLOGY OF PODOCYTOPATHY.",
+        "summary": "Restoring autophagy in kidney cells shows promise for treating podocytopathies by reducing protein loss and improving cell function.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41989837/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-17"
+      },
+      {
         "id": "recahcTZlrPpLr2vR",
         "title": "Multi-omics analysis of perfluorooctanoic acid and glioblastoma: insights from Mendelian randomization, network toxicology, and molecular docking.",
         "summary": "Genetically higher PFOA levels causally increase glioblastoma risk through neuroinflammation and oncogenic pathways, suggesting environmental and therapeutic implications.",
@@ -408,20 +422,6 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-03-01",
-        "added_date": "2026-04-15"
-      },
-      {
-        "id": "rec5igkJL6feeZed8",
-        "title": "Clofibrate inhibits tumor immune escape by increasing macrophage phagocytosis.",
-        "summary": "Clofibrate blocks lung cancer's immune escape by reducing CD47 protein, allowing immune cells to destroy tumors more effectively.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41905444/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
         "added_date": "2026-04-15"
       }
     ],
@@ -1071,10 +1071,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 17246,
+    "archive_count": 17247,
     "archive_supplements": 1956,
     "archive_off_label": 617,
-    "archive_biomarkers": 10300,
+    "archive_biomarkers": 10301,
     "archive_trials": 3661,
     "archive_mind_body": 420
   }
