@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17T04:06:27.847Z",
+  "last_updated": "2026-04-17T04:06:38.997Z",
   "categories": {
     "supplements": [
       {
@@ -229,6 +229,20 @@
         "added_date": "2026-04-17"
       },
       {
+        "id": "recAJ4UbPKz0KZT39",
+        "title": "Association between inhaled corticosteroids and anti-PD-1/PD-L1 efficacy in patients with NSCLC with concurrent COPD.",
+        "summary": "Inhaled corticosteroids for COPD improve lung cancer immunotherapy response in patients with both conditions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41907417/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-17"
+      },
+      {
         "id": "recahcTZlrPpLr2vR",
         "title": "Multi-omics analysis of perfluorooctanoic acid and glioblastoma: insights from Mendelian randomization, network toxicology, and molecular docking.",
         "summary": "Genetically higher PFOA levels causally increase glioblastoma risk through neuroinflammation and oncogenic pathways, suggesting environmental and therapeutic implications.",
@@ -406,20 +420,6 @@
         "cancer_types": [
           "Lymphoma",
           "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-15"
-      },
-      {
-        "id": "recw8y5bSsDVBE068",
-        "title": "Cholesterol synthases suppress metastasis and stemness through PDIA4/ACLY or SYVN1/SCD1 axis in advanced colorectal cancer.",
-        "summary": "Blocking cholesterol-making enzymes in colorectal cancer unexpectedly promotes spread and stem cell traits, reversible by targeting fatty acid synthesis.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41981153/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -808,6 +808,20 @@
         "added_date": "2026-04-17"
       },
       {
+        "id": "recAJ4UbPKz0KZT39",
+        "title": "Association between inhaled corticosteroids and anti-PD-1/PD-L1 efficacy in patients with NSCLC with concurrent COPD.",
+        "summary": "Inhaled corticosteroids for COPD improve lung cancer immunotherapy response in patients with both conditions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41907417/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-17"
+      },
+      {
         "id": "rec6xQ1q2mhdTJ4rG",
         "title": "Neoplastic Cauda Equina Syndrome: When Do We Not Operate?",
         "summary": "Burkitt lymphoma caused spinal cord compression in a teen that improved quickly with treatment, avoiding surgery.",
@@ -831,20 +845,6 @@
         "cancer_types": [
           "Breast",
           "Lymphoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-16"
-      },
-      {
-        "id": "recQUtTIitmUis8yX",
-        "title": "Multiomics profiling and experiments in preclinical models revealed RAD51-IN-1 as a synergistic potentiator of anlotinib sensitivity.",
-        "summary": "RAD51 inhibitor RAD51-IN-1 enhances anlotinib effectiveness in ovarian cancer by overcoming drug resistance mechanisms.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41984951/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Ovarian"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -1073,10 +1073,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 17205,
+    "archive_count": 17206,
     "archive_supplements": 1955,
     "archive_off_label": 615,
-    "archive_biomarkers": 10264,
+    "archive_biomarkers": 10265,
     "archive_trials": 3659,
     "archive_mind_body": 420
   }
