@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17T04:10:32.247Z",
+  "last_updated": "2026-04-17T04:10:44.282Z",
   "categories": {
     "supplements": [
       {
@@ -243,6 +243,20 @@
         "added_date": "2026-04-17"
       },
       {
+        "id": "recSJKjj98JRClxbZ",
+        "title": "ACLY-Driven Metabolic Reprogramming Promotes Histone Acetylation and Inflammation-Associated Fibrosis in Chronic Kidney Disease.",
+        "summary": "ACLY enzyme drives kidney fibrosis by increasing histone acetylation and inflammation; blocking it reduces fibrosis in chronic kidney disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41990244/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-17"
+      },
+      {
         "id": "recahcTZlrPpLr2vR",
         "title": "Multi-omics analysis of perfluorooctanoic acid and glioblastoma: insights from Mendelian randomization, network toxicology, and molecular docking.",
         "summary": "Genetically higher PFOA levels causally increase glioblastoma risk through neuroinflammation and oncogenic pathways, suggesting environmental and therapeutic implications.",
@@ -407,21 +421,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-15"
-      },
-      {
-        "id": "recTTQ0Q09WCVuL0i",
-        "title": "FDPS links tumor progression, phosphoproteomic reprogramming, and therapeutic vulnerability in hepatocellular carcinoma.",
-        "summary": "FDPS protein drives liver cancer growth, and blocking it with pamidronate drug slows tumors in mice.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41979127/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lymphoma",
-          "Liver"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-15"
       }
@@ -1072,10 +1071,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 17228,
+    "archive_count": 17229,
     "archive_supplements": 1956,
     "archive_off_label": 616,
-    "archive_biomarkers": 10284,
+    "archive_biomarkers": 10285,
     "archive_trials": 3660,
     "archive_mind_body": 420
   }
