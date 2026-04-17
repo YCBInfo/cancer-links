@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-04-16T10:02:02.192Z",
+  "last_updated": "2026-04-17T02:02:30.656Z",
   "categories": {
     "supplements": [
+      {
+        "id": "recm0Shi7SlhBPekj",
+        "title": "[Warming acupuncture combined with Duhuo Jisheng decoction for lumbar disc herniation of qi stagnation and blood stasis accompanied with liver-kidney deficiency: a randomized controlled trial].",
+        "summary": "To compare the therapeutic effect between warming acupuncture combined with Duhuo Jisheng decoction and Duhuo Jisheng decoction alone in the treatment of lumbar disc herniation (LDH) of qi stagnati...",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41987442/",
+        "source": "PubMed",
+        "category": "Mind-Body & Spirituality",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-17"
+      },
       {
         "id": "recEQ2u3O4yTQOOac",
         "title": "Berberine induces pyroptosis by promoting the NLRP3/Caspase-1/GSDMD pathway in papillary thyroid carcinoma.",
@@ -189,20 +203,6 @@
         "title": "Cinnamon Bud Extract Is a Source of Biomolecules Active against the Aggregation and Condensation of Alzheimer's-Associated Tau Protein.",
         "summary": "Cinnamon bud extract prevents harmful tau protein clumping linked to Alzheimer's disease, reducing toxicity in brain cells.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41925203/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-16"
-      },
-      {
-        "id": "recIVL9bs2FF2ueZx",
-        "title": "Non-infectious environmental risk factors of multiple sclerosis: Mechanisms and intervention windows for prevention.",
-        "summary": "Vitamin D supplementation and lifestyle changes during adolescence can help prevent multiple sclerosis by reducing environmental risk factors.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41986183/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -428,6 +428,20 @@
     ],
     "biomarkers": [
       {
+        "id": "recJtVs3Zc1vHKgad",
+        "title": "[Effects of electroacupuncture on gastrointestinal dysfunction and serum metabolites in postoperative patients with gastric cancer].",
+        "summary": "Electroacupuncture helps gastric cancer patients recover digestive function faster after surgery by improving gut movement.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41987440/",
+        "source": "PubMed",
+        "category": "Mind-Body & Spirituality",
+        "cancer_types": [
+          "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-17"
+      },
+      {
         "id": "recRASPThkRqKe8sh",
         "title": "Effects of Psychosocial Interventions on Measures of Stress Among Breast Cancer Survivors: A Scoping Review.",
         "summary": "Psychosocial interventions effectively reduce stress in breast cancer survivors, potentially improving immune function and survival outcomes.",
@@ -623,23 +637,37 @@
         "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-04-16"
-      },
-      {
-        "id": "recVWQrtW1B8M9IBc",
-        "title": "How cytochrome P450 enzymes in humans are involved in Parkinson's disease: a literature review.",
-        "summary": "Multiple cytochrome P450 enzymes contribute to Parkinson's disease through oxidative stress, dopamine metabolism, and neuroinflammation pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41730497/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-16"
       }
     ],
     "trials": [
+      {
+        "id": "recJtVs3Zc1vHKgad",
+        "title": "[Effects of electroacupuncture on gastrointestinal dysfunction and serum metabolites in postoperative patients with gastric cancer].",
+        "summary": "Electroacupuncture helps gastric cancer patients recover digestive function faster after surgery by improving gut movement.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41987440/",
+        "source": "PubMed",
+        "category": "Mind-Body & Spirituality",
+        "cancer_types": [
+          "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-17"
+      },
+      {
+        "id": "recBpHdFjnClPtdWn",
+        "title": "Effects of Preoperative Mindfulness Training Combined With Active Breathing and Circulation Exercises on Pulmonary Function Recovery in Lung Cancer Patients After Lobectomy.",
+        "summary": "Preoperative mindfulness training with breathing exercises improved lung function recovery in lung cancer patients after surgery.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41987624/",
+        "source": "PubMed",
+        "category": "Mind-Body & Spirituality",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-17"
+      },
       {
         "id": "rec6xQ1q2mhdTJ4rG",
         "title": "Neoplastic Cauda Equina Syndrome: When Do We Not Operate?",
@@ -823,37 +851,65 @@
         "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-16"
-      },
+      }
+    ],
+    "mind_body": [
       {
-        "id": "recWxEN8uwVwseOdZ",
-        "title": "BLADE: Breast Lesion Analysis with Domain Expertise for DCE-MRI Diagnosis.",
-        "summary": "BLADE, an AI tool combining deep learning with clinical expertise, improves breast cancer diagnosis from MRI scans and boosts radiologist accuracy by 14%.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41984614/",
+        "id": "recTLxMwUTCEA3iYK",
+        "title": "Coping with primary brain tumors together: a scoping review of dyadic psychosocial interventions.",
+        "summary": "Couples-based counseling interventions help glioma patients and caregivers better cope with the disease's emotional and practical challenges.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41986804/",
         "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
+        "category": "Mind-Body & Spirituality",
         "cancer_types": [
-          "Breast"
+          "Brain"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
-        "added_date": "2026-04-16"
+        "added_date": "2026-04-17"
       },
       {
-        "id": "recGFsOnU2KLHxrRf",
-        "title": "Systematic identification of cell-cell interactions associated with the severity of patients with Alzheimer's disease.",
-        "summary": "Researchers mapped cell-cell interactions in Alzheimer's brains, finding specific communication patterns between neurons and brain cells linked to dementia severity.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41984490/",
+        "id": "recm0Shi7SlhBPekj",
+        "title": "[Warming acupuncture combined with Duhuo Jisheng decoction for lumbar disc herniation of qi stagnation and blood stasis accompanied with liver-kidney deficiency: a randomized controlled trial].",
+        "summary": "To compare the therapeutic effect between warming acupuncture combined with Duhuo Jisheng decoction and Duhuo Jisheng decoction alone in the treatment of lumbar disc herniation (LDH) of qi stagnati...",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41987442/",
         "source": "PubMed",
-        "category": "Clinical Trials",
+        "category": "Mind-Body & Spirituality",
         "cancer_types": [
           "General"
         ],
         "quality_score": 12,
         "pub_date": "2026-04-01",
-        "added_date": "2026-04-16"
-      }
-    ],
-    "mind_body": [
+        "added_date": "2026-04-17"
+      },
+      {
+        "id": "recJtVs3Zc1vHKgad",
+        "title": "[Effects of electroacupuncture on gastrointestinal dysfunction and serum metabolites in postoperative patients with gastric cancer].",
+        "summary": "Electroacupuncture helps gastric cancer patients recover digestive function faster after surgery by improving gut movement.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41987440/",
+        "source": "PubMed",
+        "category": "Mind-Body & Spirituality",
+        "cancer_types": [
+          "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-17"
+      },
+      {
+        "id": "recBpHdFjnClPtdWn",
+        "title": "Effects of Preoperative Mindfulness Training Combined With Active Breathing and Circulation Exercises on Pulmonary Function Recovery in Lung Cancer Patients After Lobectomy.",
+        "summary": "Preoperative mindfulness training with breathing exercises improved lung function recovery in lung cancer patients after surgery.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41987624/",
+        "source": "PubMed",
+        "category": "Mind-Body & Spirituality",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-17"
+      },
       {
         "id": "recMgUozaZ7ea59pO",
         "title": "The effectiveness of electroacupuncture in the treatment of cancer-related fatigue: a systematic review.",
@@ -1009,62 +1065,6 @@
         "quality_score": 19,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-13"
-      },
-      {
-        "id": "recK9wDBsqxzz5W44",
-        "title": "Psychotherapeutic Techniques for Dyspnea in Cancer and Chronic Illness: Systematic Review.",
-        "summary": "Psychotherapy techniques effectively help cancer and seriously ill patients manage breathing difficulties, though delivery methods need better understanding.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41967692/",
-        "source": "PubMed",
-        "category": "Mind-Body & Spirituality",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-13"
-      },
-      {
-        "id": "recl8dSu98Ja6QbyK",
-        "title": "Pilot study of the DeStress for Health Program: a community-engaged stress reduction and cancer prevention intervention for rural communities.",
-        "summary": "A stress-reduction program showed promise in helping rural communities adopt healthier behaviors that could lower cancer risk.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41964035/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-12"
-      },
-      {
-        "id": "rec3VllZCg1wc3x5X",
-        "title": "AI-enabled psychometric and psychophysiological assessment in psychiatric comorbidity of oncology patients: A systematic review.",
-        "summary": "AI tools can better detect depression and anxiety in cancer patients by continuously monitoring psychological distress beyond traditional screening methods.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41961981/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-11"
-      },
-      {
-        "id": "recLnev89Y9k8tFFe",
-        "title": "Association of postoperative psychological interventions on compliance and survival in breast cancer patients: A single-center retrospective study.",
-        "summary": "Early structured psychological support after breast cancer surgery significantly improved patient adherence to hormone therapy and showed survival benefits.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41961706/",
-        "source": "PubMed",
-        "category": "Mind-Body & Spirituality",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-11"
       }
     ]
   },
@@ -1075,11 +1075,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 17181,
+    "archive_count": 17182,
     "archive_supplements": 1953,
     "archive_off_label": 615,
     "archive_biomarkers": 10247,
     "archive_trials": 3658,
-    "archive_mind_body": 416
+    "archive_mind_body": 417
   }
 }
