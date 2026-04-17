@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17T04:03:11.435Z",
+  "last_updated": "2026-04-17T04:03:25.037Z",
   "categories": {
     "supplements": [
       {
@@ -21,6 +21,20 @@
         "title": "Baicalein suppresses colorectal cancer progression through dual inhibition of the Wnt/β--catenin and PI3K/AKT/mTOR signaling pathways.",
         "summary": "Baicalein, a plant compound, slows colorectal cancer growth by simultaneously blocking two key cancer-promoting signaling pathways.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41987807/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-17"
+      },
+      {
+        "id": "rec7MNkvMoZwoVGPT",
+        "title": "Dietary sugar intake as a risk factor for early-onset colorectal cancer in young New Zealanders.",
+        "summary": "High sugar intake may increase early-onset colorectal cancer risk in young people, suggesting dietary changes could help prevent disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41990382/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -195,20 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-16"
-      },
-      {
-        "id": "recCNN6N9Vzw1kKwT",
-        "title": "Harnessing Phytochemicals for Brain Cancer Therapy: Insights Into Medulloblastoma and Glioblastoma Treatment.",
-        "summary": "Plant compounds like curcumin and quercetin show promise treating aggressive brain cancers medulloblastoma and glioblastoma by stopping tumor cell growth and survival.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41983502/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Brain"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-16"
       }
@@ -568,6 +568,34 @@
         "added_date": "2026-04-17"
       },
       {
+        "id": "rec7MNkvMoZwoVGPT",
+        "title": "Dietary sugar intake as a risk factor for early-onset colorectal cancer in young New Zealanders.",
+        "summary": "High sugar intake may increase early-onset colorectal cancer risk in young people, suggesting dietary changes could help prevent disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41990382/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-17"
+      },
+      {
+        "id": "recTCBEIOqeJwH8Xk",
+        "title": "The use of blood biomarkers in lung cancer screening in Aotearoa New Zealand: a cross-sectional survey of Māori perspectives and preferences.",
+        "summary": "Researchers surveyed Māori people in New Zealand about their willingness to provide blood samples for lung cancer screening tests.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41990380/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-17"
+      },
+      {
         "id": "recRASPThkRqKe8sh",
         "title": "Effects of Psychosocial Interventions on Measures of Stress Among Breast Cancer Survivors: A Scoping Review.",
         "summary": "Psychosocial interventions effectively reduce stress in breast cancer survivors, potentially improving immune function and survival outcomes.",
@@ -606,35 +634,6 @@
           "Melanoma"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-16"
-      },
-      {
-        "id": "recqFlVF0ct5OrJGt",
-        "title": "Self-adjuvanting α-helical polypeptide simultaneously delivers neoantigen mRNAs and activates dendritic cells to eradicate tumors.",
-        "summary": "New polypeptide delivery system combines cancer neoantigen mRNA with immune activation, achieving 83% tumor-free survival in lymphoma models.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41984833/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast",
-          "Lymphoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-16"
-      },
-      {
-        "id": "rec09n1gEhzRahTP6",
-        "title": "FABP7 controls radial glial scaffold stability during human cortical development.",
-        "summary": "FABP7 protein maintains brain cell scaffolds critical for proper neural development; its loss disrupts this process and may contribute to autism.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41984827/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-16"
       }
@@ -1074,10 +1073,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 17188,
+    "archive_count": 17189,
     "archive_supplements": 1953,
     "archive_off_label": 615,
-    "archive_biomarkers": 10249,
+    "archive_biomarkers": 10250,
     "archive_trials": 3659,
     "archive_mind_body": 420
   }
