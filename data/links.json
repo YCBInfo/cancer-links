@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T07:07:35.564Z",
+  "last_updated": "2026-04-18T07:07:44.651Z",
   "categories": {
     "supplements": [
       {
@@ -243,6 +243,20 @@
         "added_date": "2026-04-18"
       },
       {
+        "id": "recDpfj6cDn7tU9No",
+        "title": "Clinical Study to Evaluate the Possible Safety and Efficacy of Dapagliflozin in the Prophylaxis of Doxorubicin-Induced Cardiotoxicity in Breast Cancer Patients",
+        "summary": "Dapagliflozin may protect breast cancer patients' hearts from damage caused by doxorubicin chemotherapy.",
+        "url": "https://clinicaltrials.gov/study/NCT06427226",
+        "source": "ClinicalTrials.gov",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 13,
+        "pub_date": "2026-04-17",
+        "added_date": "2026-04-18"
+      },
+      {
         "id": "recArTIac5TT9j0cb",
         "title": "Circadian disruption exacerbates MASH by reducing Akkermansia muciniphila via the FXR-CYP7A1-bile acid axis.",
         "summary": "Circadian disruption worsens liver disease by reducing beneficial gut bacteria through disrupted bile acid metabolism, reversible with bacterial or drug treatments.",
@@ -408,20 +422,6 @@
           "Breast"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-17"
-      },
-      {
-        "id": "recw88acsdJx086oJ",
-        "title": "Amitriptyline inhibits EAG1 channels by binding to their PAS domains and exerts EAG1-dependent anti-tumorigenic effects.",
-        "summary": "Amitriptyline, an antidepressant drug, blocks EAG1 channels and slows cancer cell growth and migration in tumors with high EAG1 expression.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41992030/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-17"
       }
@@ -1072,11 +1072,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 17557,
+    "archive_count": 17558,
     "archive_supplements": 1995,
     "archive_off_label": 622,
     "archive_biomarkers": 10484,
-    "archive_trials": 3740,
+    "archive_trials": 3741,
     "archive_mind_body": 424
   }
 }
