@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17T11:20:30.703Z",
+  "last_updated": "2026-04-18T02:02:30.139Z",
   "categories": {
     "supplements": [
       {
@@ -640,6 +640,20 @@
     ],
     "trials": [
       {
+        "id": "recWfuJQOcgnO5H8G",
+        "title": "Long-Term Outcomes, Moderators, and Predictors in Online Mindfulness-Based Cognitive Therapy for People With Cancer: Secondary Analysis of a Randomized Controlled Trial.",
+        "summary": "Online mindfulness-based cognitive therapy reduced psychological distress in cancer patients and survivors, with benefits lasting at least three months.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41996463/",
+        "source": "PubMed",
+        "category": "Mind-Body & Spirituality",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 21,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-18"
+      },
+      {
         "id": "recJtVs3Zc1vHKgad",
         "title": "[Effects of electroacupuncture on gastrointestinal dysfunction and serum metabolites in postoperative patients with gastric cancer].",
         "summary": "Electroacupuncture helps gastric cancer patients recover digestive function faster after surgery by improving gut movement.",
@@ -834,23 +848,23 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-04-17"
-      },
-      {
-        "id": "recOAaQVuJJfS2Nac",
-        "title": "Therapeutic manipulation and spatial quantification of the tumor microenvironment in colorectal cancer.",
-        "summary": "Blocking TGFβ signaling in colorectal cancer remodels fibroblasts and immune cells, offering a measurable way to track treatment response.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41907400/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-17"
       }
     ],
     "mind_body": [
+      {
+        "id": "recWfuJQOcgnO5H8G",
+        "title": "Long-Term Outcomes, Moderators, and Predictors in Online Mindfulness-Based Cognitive Therapy for People With Cancer: Secondary Analysis of a Randomized Controlled Trial.",
+        "summary": "Online mindfulness-based cognitive therapy reduced psychological distress in cancer patients and survivors, with benefits lasting at least three months.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41996463/",
+        "source": "PubMed",
+        "category": "Mind-Body & Spirituality",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 21,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-18"
+      },
       {
         "id": "recTLxMwUTCEA3iYK",
         "title": "Coping with primary brain tumors together: a scoping review of dyadic psychosocial interventions.",
@@ -1047,20 +1061,6 @@
         "quality_score": 13,
         "pub_date": "2026-04-15",
         "added_date": "2026-04-16"
-      },
-      {
-        "id": "recOsabSfeLx5Dxlx",
-        "title": "A Pilot Randomized Controlled Trial of a Social Network Intervention for Older Patients With Cancer",
-        "summary": "A pilot study tests whether a social network intervention improves outcomes for older adults with advanced cancer.",
-        "url": "https://clinicaltrials.gov/study/NCT07393529",
-        "source": "ClinicalTrials.gov",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 19,
-        "pub_date": "2026-04-15",
-        "added_date": "2026-04-16"
       }
     ]
   },
@@ -1071,11 +1071,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 17467,
+    "archive_count": 17468,
     "archive_supplements": 1976,
     "archive_off_label": 622,
     "archive_biomarkers": 10436,
     "archive_trials": 3720,
-    "archive_mind_body": 421
+    "archive_mind_body": 422
   }
 }
