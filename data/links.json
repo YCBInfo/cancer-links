@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T06:03:36.110Z",
+  "last_updated": "2026-04-18T06:03:51.614Z",
   "categories": {
     "supplements": [
       {
@@ -21,6 +21,20 @@
         "title": "Fructose: metabolic signal and modern hazard.",
         "summary": "Fructose uniquely promotes fat accumulation and metabolic disease more than glucose, with emerging links to cancer and dementia.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41998215/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-18"
+      },
+      {
+        "id": "rec7sniZ57yiNkA87",
+        "title": "Chasteberry extract alleviates rotenone-triggered testicular injury in rats by modulating oxidative stress, inflammation, apoptosis, and mitochondrial dysfunction.",
+        "summary": "Chasteberry extract protects rat testes from pesticide damage by reducing oxidative stress, inflammation, and cell death.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41998060/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -195,20 +209,6 @@
           "Liver"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-17"
-      },
-      {
-        "id": "recfcdcmCkYzkUSft",
-        "title": "Multifunctional effects of Zizyphus mauritiana leaf extract on oral pathogens and wound healing: an integrative in vitro and in vivo study.",
-        "summary": "Zizyphus mauritiana leaf extract fights oral bacteria and reduces inflammation, potentially improving healing after tooth extraction.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41991826/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-17"
       }
@@ -583,6 +583,34 @@
         "added_date": "2026-04-18"
       },
       {
+        "id": "rec7sniZ57yiNkA87",
+        "title": "Chasteberry extract alleviates rotenone-triggered testicular injury in rats by modulating oxidative stress, inflammation, apoptosis, and mitochondrial dysfunction.",
+        "summary": "Chasteberry extract protects rat testes from pesticide damage by reducing oxidative stress, inflammation, and cell death.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41998060/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-18"
+      },
+      {
+        "id": "recXDQKditpjS6gaQ",
+        "title": "Mechanisms of autophagy-mediated ferroptosis regulation in intestinal mucosal injury under high-G environments.",
+        "summary": "High-G exposure damages the intestine through ferroptosis; blocking autophagy protects against this injury in rats.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41997989/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-18"
+      },
+      {
         "id": "recJtVs3Zc1vHKgad",
         "title": "[Effects of electroacupuncture on gastrointestinal dysfunction and serum metabolites in postoperative patients with gastric cancer].",
         "summary": "Electroacupuncture helps gastric cancer patients recover digestive function faster after surgery by improving gut movement.",
@@ -605,34 +633,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Thyroid"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-17"
-      },
-      {
-        "id": "recE31sr5xIerP9ZF",
-        "title": "Cost-effectiveness of pembrolizumab plus trastuzumab and chemotherapy for HER2-positive gastric or gastro-oesophageal junction adenocarcinoma.",
-        "summary": "Pembrolizumab combined with trastuzumab and chemotherapy is cost-effective for HER2-positive gastric cancer in both the U.S. and China.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41987583/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-17"
-      },
-      {
-        "id": "recBFb4lbLS8asx2O",
-        "title": "Therapeutic strategies of metabolic reprogramming in non-small cell lung carcinoma.",
-        "summary": "Targeting metabolic reprogramming in lung cancer cells and their environment may overcome drug resistance and improve treatment outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41987491/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -1073,10 +1073,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 17472,
+    "archive_count": 17473,
     "archive_supplements": 1977,
     "archive_off_label": 622,
-    "archive_biomarkers": 10439,
+    "archive_biomarkers": 10440,
     "archive_trials": 3720,
     "archive_mind_body": 422
   }
