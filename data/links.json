@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T06:03:51.614Z",
+  "last_updated": "2026-04-18T06:03:59.876Z",
   "categories": {
     "supplements": [
       {
@@ -215,6 +215,20 @@
     ],
     "off_label": [
       {
+        "id": "recxCizuo7H02iQdl",
+        "title": "Nicotinamide N-methyltransferase as a therapeutic target in taxane-resistant castration-resistant prostate cancer.",
+        "summary": "Blocking NNMT protein reversed taxane resistance in prostate cancer by suppressing TGFβ signaling and epithelial-mesenchymal transition pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41997904/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-18"
+      },
+      {
         "id": "recArTIac5TT9j0cb",
         "title": "Circadian disruption exacerbates MASH by reducing Akkermansia muciniphila via the FXR-CYP7A1-bile acid axis.",
         "summary": "Circadian disruption worsens liver disease by reducing beneficial gut bacteria through disrupted bile acid metabolism, reversible with bacterial or drug treatments.",
@@ -410,20 +424,6 @@
         "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-17"
-      },
-      {
-        "id": "recrVqhozrbpbvpnw",
-        "title": "Childhood Obesity, Medications, and Surgeries.",
-        "summary": "Childhood obesity treatments include medications like GLP-1 agonists and surgeries such as gastric bypass to combat rising rates.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41986930/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-17"
       }
     ],
     "biomarkers": [
@@ -611,6 +611,20 @@
         "added_date": "2026-04-18"
       },
       {
+        "id": "recxCizuo7H02iQdl",
+        "title": "Nicotinamide N-methyltransferase as a therapeutic target in taxane-resistant castration-resistant prostate cancer.",
+        "summary": "Blocking NNMT protein reversed taxane resistance in prostate cancer by suppressing TGFβ signaling and epithelial-mesenchymal transition pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41997904/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-18"
+      },
+      {
         "id": "recJtVs3Zc1vHKgad",
         "title": "[Effects of electroacupuncture on gastrointestinal dysfunction and serum metabolites in postoperative patients with gastric cancer].",
         "summary": "Electroacupuncture helps gastric cancer patients recover digestive function faster after surgery by improving gut movement.",
@@ -619,20 +633,6 @@
         "category": "Mind-Body & Spirituality",
         "cancer_types": [
           "Stomach"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-17"
-      },
-      {
-        "id": "recPEPJKZfss7i5Xp",
-        "title": "Durable response of anaplastic thyroid cancer to pembrolizumab combined with chemotherapy: A case report.",
-        "summary": "Pembrolizumab combined with chemotherapy produced a durable response in an aggressive anaplastic thyroid cancer patient.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41988746/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Thyroid"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -1073,10 +1073,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 17473,
+    "archive_count": 17474,
     "archive_supplements": 1977,
     "archive_off_label": 622,
-    "archive_biomarkers": 10440,
+    "archive_biomarkers": 10441,
     "archive_trials": 3720,
     "archive_mind_body": 422
   }
