@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T06:03:05.642Z",
+  "last_updated": "2026-04-18T06:03:15.653Z",
   "categories": {
     "supplements": [
       {
@@ -555,6 +555,20 @@
         "added_date": "2026-04-18"
       },
       {
+        "id": "recM8VfIumqiogeyz",
+        "title": "Antitumor immunotoxin expression is enhanced by Escherichia coli csrB-promoter activity.",
+        "summary": "Researchers enhanced cancer-fighting bacteria by using a natural tumor sensor to activate anticancer proteins only within tumors, improving treatment effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41998209/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-18"
+      },
+      {
         "id": "recJtVs3Zc1vHKgad",
         "title": "[Effects of electroacupuncture on gastrointestinal dysfunction and serum metabolites in postoperative patients with gastric cancer].",
         "summary": "Electroacupuncture helps gastric cancer patients recover digestive function faster after surgery by improving gut movement.",
@@ -621,20 +635,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-17"
-      },
-      {
-        "id": "recbzhb2f7n0ftgU3",
-        "title": "Personalizing Curative Therapy in Stage II to III Triple-Negative Breast Cancer.",
-        "summary": "Researchers are developing personalized treatments for triple-negative breast cancer using new drug combinations and biomarkers to predict which patients will relapse.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41990285/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-17"
       }
@@ -708,6 +708,20 @@
           "Lymphoma"
         ],
         "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-18"
+      },
+      {
+        "id": "recM8VfIumqiogeyz",
+        "title": "Antitumor immunotoxin expression is enhanced by Escherichia coli csrB-promoter activity.",
+        "summary": "Researchers enhanced cancer-fighting bacteria by using a natural tumor sensor to activate anticancer proteins only within tumors, improving treatment effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41998209/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-18"
       },
@@ -834,20 +848,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-17"
-      },
-      {
-        "id": "recYgQPGUswJrHnQ7",
-        "title": "Targeting KIF20A blocks lactylation modification to suppress immune escape in hepatocellular carcinoma.",
-        "summary": "Blocking KIF20A in liver cancer restores immune cell function and improves anti-PD-1 immunotherapy by disrupting lactate-driven tumor escape mechanisms.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41952973/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Liver"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-17"
       }
@@ -1073,10 +1073,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 17469,
+    "archive_count": 17470,
     "archive_supplements": 1976,
     "archive_off_label": 622,
-    "archive_biomarkers": 10437,
+    "archive_biomarkers": 10438,
     "archive_trials": 3720,
     "archive_mind_body": 422
   }
