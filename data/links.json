@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T06:04:21.925Z",
+  "last_updated": "2026-04-18T06:04:33.413Z",
   "categories": {
     "supplements": [
       {
@@ -726,6 +726,20 @@
         "added_date": "2026-04-18"
       },
       {
+        "id": "recsa0UcF7xAqvtXG",
+        "title": "Association between diagnostic history and cancer incidence within 5 years: a real-world observational analysis.",
+        "summary": "A large study identified nine health condition categories linked to increased cancer risk within five years, including metabolic disorders and genitourinary diseases.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41996637/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-18"
+      },
+      {
         "id": "recJtVs3Zc1vHKgad",
         "title": "[Effects of electroacupuncture on gastrointestinal dysfunction and serum metabolites in postoperative patients with gastric cancer].",
         "summary": "Electroacupuncture helps gastric cancer patients recover digestive function faster after surgery by improving gut movement.",
@@ -834,20 +848,6 @@
           "Brain"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-17"
-      },
-      {
-        "id": "recxCT9DG4OHW0nCk",
-        "title": "Antigen-directed single domain antibody-based TNFR1 agonists elicit preferential killing of HER2-overexpressing cancer cells.",
-        "summary": "Researchers developed targeted antibodies that trigger cell death specifically in HER2-overexpressing cancers while minimizing harmful inflammatory side effects.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41952996/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-17"
       }
@@ -1073,8 +1073,8 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 17476,
-    "archive_supplements": 1977,
+    "archive_count": 17477,
+    "archive_supplements": 1978,
     "archive_off_label": 622,
     "archive_biomarkers": 10443,
     "archive_trials": 3720,
