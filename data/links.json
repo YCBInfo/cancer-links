@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T04:02:54.915Z",
+  "last_updated": "2026-04-19T04:03:07.196Z",
   "categories": {
     "supplements": [
       {
@@ -555,6 +555,20 @@
         "added_date": "2026-04-19"
       },
       {
+        "id": "recrwqPo8HaH8MLFo",
+        "title": "[Research progress on protein lactylation modification in malignant tumors].",
+        "summary": "Lactate, produced abundantly in tumor cells, chemically modifies proteins to drive cancer growth, immunity evasion, and drug resistance.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41978417/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-19"
+      },
+      {
         "id": "recmwpLFtWsl8JHjo",
         "title": "MnUA-DOX-artesunate hydrogel remodels immunosuppressive tumor microenvironment and prevents postoperative recurrence in triple-negative breast cancer.",
         "summary": "A new injectable gel combining three drugs boosts immune response and prevents triple-negative breast cancer recurrence after surgery.",
@@ -622,20 +636,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-18"
-      },
-      {
-        "id": "recDqZ0DfXuSXfg9u",
-        "title": "PRMT5 inhibition sensitizes B-cell lymphoma cells to ferroptosis.",
-        "summary": "Blocking PRMT5 protein makes B-cell lymphoma cells vulnerable to ferroptosis, a cell death process, especially when combined with another drug.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41998301/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lymphoma"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-18"
       }
@@ -1073,10 +1073,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 17596,
+    "archive_count": 17597,
     "archive_supplements": 1997,
     "archive_off_label": 627,
-    "archive_biomarkers": 10505,
+    "archive_biomarkers": 10506,
     "archive_trials": 3749,
     "archive_mind_body": 426
   }
