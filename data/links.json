@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T04:06:53.325Z",
+  "last_updated": "2026-04-19T04:07:05.217Z",
   "categories": {
     "supplements": [
       {
@@ -824,6 +824,20 @@
         "added_date": "2026-04-19"
       },
       {
+        "id": "rec7qkrP21epguaYt",
+        "title": "Context defines precision: rethinking KRAS inhibition in oncology.",
+        "summary": "KRAS inhibitors work better when considering tumor type, genetic context, and immune factors, not just the KRAS mutation alone.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41998295/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-19"
+      },
+      {
         "id": "recWfuJQOcgnO5H8G",
         "title": "Long-Term Outcomes, Moderators, and Predictors in Online Mindfulness-Based Cognitive Therapy for People With Cancer: Secondary Analysis of a Randomized Controlled Trial.",
         "summary": "Online mindfulness-based cognitive therapy reduced psychological distress in cancer patients and survivors, with benefits lasting at least three months.",
@@ -834,20 +848,6 @@
           "General"
         ],
         "quality_score": 21,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-18"
-      },
-      {
-        "id": "recmwpLFtWsl8JHjo",
-        "title": "MnUA-DOX-artesunate hydrogel remodels immunosuppressive tumor microenvironment and prevents postoperative recurrence in triple-negative breast cancer.",
-        "summary": "A new injectable gel combining three drugs boosts immune response and prevents triple-negative breast cancer recurrence after surgery.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41998636/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-18"
       }
@@ -1072,10 +1072,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 17617,
+    "archive_count": 17618,
     "archive_supplements": 1998,
     "archive_off_label": 627,
-    "archive_biomarkers": 10524,
+    "archive_biomarkers": 10525,
     "archive_trials": 3750,
     "archive_mind_body": 426
   }
