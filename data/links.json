@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-04-19T04:05:15.054Z",
+  "last_updated": "2026-04-19T04:05:28.555Z",
   "categories": {
     "supplements": [
+      {
+        "id": "recpO6uH72LyPjIwq",
+        "title": "Thlaspi arvense attenuates colitis-associated colorectal tumorigenesis through suppression of neutrophil recruitment via the NOD/NF-κB pathway.",
+        "summary": "Thlaspi arvense plant extract reduces colorectal cancer development by blocking excessive neutrophil recruitment through an inflammatory pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41998751/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-19"
+      },
       {
         "id": "rec7L9VKewQ9OzYsH",
         "title": "18-β-glycyrrhetinic acid facilitates nuclear-mitochondrial communications to alleviate oxidative stress through HMGB1-cGAS-Mul1 axis in tendinopathy.",
@@ -189,20 +203,6 @@
         "title": "Selective TRPV2 Antagonists Derived from the Natural Product Piperlongumine Inhibit Cancer Cell Migration and Metastasis.",
         "summary": "Researchers developed selective TRPV2-blocking drugs from a natural product that inhibit cancer cell migration and metastasis.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41879799/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-18"
-      },
-      {
-        "id": "recp1o29zJWj6OsxB",
-        "title": "Organoid phenotypic screening identified glycyrrhizin that confers protection against tumor necrosis factor-induced cell death.",
-        "summary": "Glycyrrhizin, derived from licorice root, protects intestinal cells from TNF-induced death, offering potential treatment for Crohn's disease.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41997150/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -1073,10 +1073,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 17608,
+    "archive_count": 17609,
     "archive_supplements": 1997,
     "archive_off_label": 627,
-    "archive_biomarkers": 10516,
+    "archive_biomarkers": 10517,
     "archive_trials": 3750,
     "archive_mind_body": 426
   }
