@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T07:02:32.077Z",
+  "last_updated": "2026-04-19T09:03:15.606Z",
   "categories": {
     "supplements": [
       {
@@ -230,6 +230,20 @@
         "added_date": "2026-04-19"
       },
       {
+        "id": "rec0UKMBzFwGYmH42",
+        "title": "White adipose atrophy exacerbates cold stress and accelerates aging in male mice.",
+        "summary": "Fat tissue loss accelerates aging in male mice by triggering cold stress; warming reverses aging signs and extends lifespan.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42000736/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-19"
+      },
+      {
         "id": "recxCizuo7H02iQdl",
         "title": "Nicotinamide N-methyltransferase as a therapeutic target in taxane-resistant castration-resistant prostate cancer.",
         "summary": "Blocking NNMT protein reversed taxane resistance in prostate cancer by suppressing TGFβ signaling and epithelial-mesenchymal transition pathways.",
@@ -409,20 +423,6 @@
           "Lymphoma"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-17"
-      },
-      {
-        "id": "recuxHiQLjZMkGfx1",
-        "title": "PBK-Loaded secretory autophagosomes drive radiotherapy-induced systemic adipose depletion via MAPK/ERK-PRKA/PKA-LIPE/HSL signaling: a therapeutic target for esophageal cancer cachexia.",
-        "summary": "Radiotherapy for esophageal cancer causes harmful fat loss through secreted particles containing PBK; blocking PBK with OTS-514 restores fat and improves treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41988986/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-17"
       }
@@ -1073,10 +1073,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 17730,
+    "archive_count": 17731,
     "archive_supplements": 2001,
     "archive_off_label": 627,
-    "archive_biomarkers": 10626,
+    "archive_biomarkers": 10627,
     "archive_trials": 3758,
     "archive_mind_body": 426
   }
