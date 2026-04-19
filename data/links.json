@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T04:18:44.543Z",
+  "last_updated": "2026-04-19T04:18:55.700Z",
   "categories": {
     "supplements": [
       {
@@ -55,6 +55,21 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-19"
+      },
+      {
+        "id": "recOapnEFFGhfFN3f",
+        "title": "Liquiritin Enhances Chemosensitivity to Doxorubicin in Breast Cancer by Promoting Ubiquitination-Mediated Degradation of MCL1.",
+        "summary": "Liquiritin enhances breast cancer cells' sensitivity to chemotherapy by breaking down a protein that blocks cancer cell death.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41995613/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast",
+          "Leukemia"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-19"
       },
@@ -189,20 +204,6 @@
         "title": "Multi-omics reveals gut microbiome- and metabolome-specific responses to sugar alcohols.",
         "summary": "Different sugar alcohols uniquely alter gut bacteria and metabolites, with isomalt showing the greatest health benefits in rats.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41995217/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-18"
-      },
-      {
-        "id": "recEU8g8VjutmJ5jm",
-        "title": "Iturin derived from Bacillus modulates lipid and glucose metabolism while mitigating the progression of MASLD.",
-        "summary": "A bacterial compound called iturin reduces liver fat and improves metabolism in mice fed high-fat diets, suggesting potential for treating liver disease.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41993687/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -1072,10 +1073,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 17681,
+    "archive_count": 17682,
     "archive_supplements": 2000,
     "archive_off_label": 627,
-    "archive_biomarkers": 10582,
+    "archive_biomarkers": 10583,
     "archive_trials": 3754,
     "archive_mind_body": 426
   }
