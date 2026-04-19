@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T04:20:53.893Z",
+  "last_updated": "2026-04-19T04:21:07.253Z",
   "categories": {
     "supplements": [
       {
@@ -216,6 +216,20 @@
     ],
     "off_label": [
       {
+        "id": "recWTI3yiYcuNtvab",
+        "title": "Extracellular Vesicle-Transferred ATP-Citrate Lyase Induces Monocyte Differentiation Toward Tumor-Associated Macrophages and Fuels Hepatocellular Carcinoma Progression.",
+        "summary": "Hepatocellular carcinoma cells send vesicles containing an enzyme that converts monocytes into immunosuppressive tumor-supporting cells, offering a new treatment target.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41995119/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-19"
+      },
+      {
         "id": "recxCizuo7H02iQdl",
         "title": "Nicotinamide N-methyltransferase as a therapeutic target in taxane-resistant castration-resistant prostate cancer.",
         "summary": "Blocking NNMT protein reversed taxane resistance in prostate cancer by suppressing TGFβ signaling and epithelial-mesenchymal transition pathways.",
@@ -409,20 +423,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-17"
-      },
-      {
-        "id": "reclUqPha8uUiOuJV",
-        "title": "Altered Sphingolipid Metabolism is Associated with Osimertinib Resistance in Nonsmall-Cell Lung Cancer.",
-        "summary": "Lung cancer cells resist osimertinib by altering fat metabolism; combining the drug with a metabolism inhibitor restores treatment sensitivity.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41988688/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-17"
       }
@@ -1073,10 +1073,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 17693,
+    "archive_count": 17694,
     "archive_supplements": 2001,
     "archive_off_label": 627,
-    "archive_biomarkers": 10593,
+    "archive_biomarkers": 10594,
     "archive_trials": 3754,
     "archive_mind_body": 426
   }
