@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T04:15:16.654Z",
+  "last_updated": "2026-04-19T04:15:26.953Z",
   "categories": {
     "supplements": [
       {
@@ -41,6 +41,20 @@
           "Colorectal"
         ],
         "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-19"
+      },
+      {
+        "id": "recM66QTzvLeSvf5F",
+        "title": "Less Is More: A Physiological Dose of Vitamin B12 Enhances Neural Recovery Compared to a High Dose in an H₂O₂-Stressed SH-SY5Y Neural-Like Cell Model.",
+        "summary": "A physiological dose of vitamin B12 promotes better neural cell recovery from oxidative damage than a high dose by enhancing antioxidant defenses and lipid remodeling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41996029/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-19"
       },
@@ -189,20 +203,6 @@
         "title": "Iturin derived from Bacillus modulates lipid and glucose metabolism while mitigating the progression of MASLD.",
         "summary": "A bacterial compound called iturin reduces liver fat and improves metabolism in mice fed high-fat diets, suggesting potential for treating liver disease.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41993687/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-18"
-      },
-      {
-        "id": "recGPBuMMcZbPTXY0",
-        "title": "Targeting the ROS-JNK/p38 Axis: Schisandrin A as a Novel Therapeutic Candidate for Esophageal Squamous Cell Carcinoma.",
-        "summary": "Schisandrin A kills esophageal cancer cells by triggering a specific cellular pathway that causes apoptosis and stops cell growth.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41992595/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -1072,10 +1072,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 17663,
+    "archive_count": 17664,
     "archive_supplements": 1999,
     "archive_off_label": 627,
-    "archive_biomarkers": 10567,
+    "archive_biomarkers": 10568,
     "archive_trials": 3752,
     "archive_mind_body": 426
   }
