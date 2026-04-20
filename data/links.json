@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-20T04:08:29.401Z",
+  "last_updated": "2026-04-20T04:08:40.313Z",
   "categories": {
     "supplements": [
       {
@@ -27,6 +27,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-20"
+      },
+      {
+        "id": "rec1SntyMWgCfUZyL",
+        "title": "Weight loss and omega-3 supplementation modulate the microbiome in women with increased breast cancer risk.",
+        "summary": "Weight loss combined with omega-3 supplements improved gut bacteria and reduced breast cancer risk markers in overweight women.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41999613/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-20"
       },
@@ -196,20 +210,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-18"
-      },
-      {
-        "id": "rec5bidTHIgvQ6xMf",
-        "title": "JI-CJ002 and Dabrafenib Combination Enhances Antitumor Activity in Melanoma Associated With the Downregulation of B7-H3.",
-        "summary": "Combining an herbal extract with melanoma drug dabrafenib enhances tumor shrinkage by reducing a protein called B7-H3.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41995376/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Melanoma"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-18"
       }
@@ -1071,10 +1071,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 17766,
+    "archive_count": 17767,
     "archive_supplements": 2002,
     "archive_off_label": 627,
-    "archive_biomarkers": 10656,
+    "archive_biomarkers": 10657,
     "archive_trials": 3763,
     "archive_mind_body": 426
   }
