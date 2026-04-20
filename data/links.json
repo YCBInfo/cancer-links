@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-20T04:03:29.866Z",
+  "last_updated": "2026-04-20T04:03:39.820Z",
   "categories": {
     "supplements": [
       {
@@ -216,6 +216,20 @@
     ],
     "off_label": [
       {
+        "id": "recK8YkR3i611UJMx",
+        "title": "BAX-dependent mitochondrial outer membrane rupture in cochlear hair cells facilitates cisplatin ototoxicity.",
+        "summary": "Blocking BAX protein in mitochondria protects hearing cells from cisplatin cancer drug damage while preserving its anticancer effects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42000904/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-20"
+      },
+      {
         "id": "recWTI3yiYcuNtvab",
         "title": "Extracellular Vesicle-Transferred ATP-Citrate Lyase Induces Monocyte Differentiation Toward Tumor-Associated Macrophages and Fuels Hepatocellular Carcinoma Progression.",
         "summary": "Hepatocellular carcinoma cells send vesicles containing an enzyme that converts monocytes into immunosuppressive tumor-supporting cells, offering a new treatment target.",
@@ -410,21 +424,6 @@
         "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-17"
-      },
-      {
-        "id": "recLeI7i2v9gW9Sx9",
-        "title": "Perindopril and L‑arginine protect against arsenic trioxide-induced neurotoxicity via Keap1/Nrf2/HO‑1 activation and suppression of neuroinflammation and apoptosis.",
-        "summary": "Perindopril and L-arginine together protect against arsenic trioxide's nerve damage in leukemia treatment by reducing inflammation and cell death.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41989598/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia",
-          "Lymphoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-17"
       }
     ],
     "biomarkers": [
@@ -569,6 +568,20 @@
         "added_date": "2026-04-20"
       },
       {
+        "id": "recK8YkR3i611UJMx",
+        "title": "BAX-dependent mitochondrial outer membrane rupture in cochlear hair cells facilitates cisplatin ototoxicity.",
+        "summary": "Blocking BAX protein in mitochondria protects hearing cells from cisplatin cancer drug damage while preserving its anticancer effects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42000904/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-20"
+      },
+      {
         "id": "rec74Rv4v2m28Y5Fl",
         "title": "miR-133a-3p and miR-338-3p shape neural crest derivatives in zebrafish.",
         "summary": "Two microRNAs control neural crest cell development, affecting craniofacial cartilage and pigment cell formation in zebrafish embryos.",
@@ -620,20 +633,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-19"
-      },
-      {
-        "id": "recKVMr1NZ6AQhgVP",
-        "title": "Type I interferons induced upon respiratory viral infection impair lung metastatic initiation.",
-        "summary": "Respiratory viral infections trigger immune proteins that prevent breast cancer cells from establishing lung metastases.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41996163/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -1072,10 +1071,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 17740,
+    "archive_count": 17741,
     "archive_supplements": 2001,
     "archive_off_label": 627,
-    "archive_biomarkers": 10634,
+    "archive_biomarkers": 10635,
     "archive_trials": 3760,
     "archive_mind_body": 426
   }
