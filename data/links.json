@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-20T04:04:58.305Z",
+  "last_updated": "2026-04-20T04:05:09.696Z",
   "categories": {
     "supplements": [
       {
@@ -230,6 +230,21 @@
         "added_date": "2026-04-20"
       },
       {
+        "id": "recQZClRbwB0nW4d2",
+        "title": "Therapeutic vulnerabilities exposed by the 9p21 loss identified through multiparametric drug screening inform rational combination strategies.",
+        "summary": "Researchers identified drug combinations targeting bladder cancer cells with a common genetic loss, showing promise across multiple cancer types.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42000949/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Pancreatic",
+          "Bladder"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-20"
+      },
+      {
         "id": "recWTI3yiYcuNtvab",
         "title": "Extracellular Vesicle-Transferred ATP-Citrate Lyase Induces Monocyte Differentiation Toward Tumor-Associated Macrophages and Fuels Hepatocellular Carcinoma Progression.",
         "summary": "Hepatocellular carcinoma cells send vesicles containing an enzyme that converts monocytes into immunosuppressive tumor-supporting cells, offering a new treatment target.",
@@ -408,20 +423,6 @@
           "General"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-17"
-      },
-      {
-        "id": "recakKPrr7G5xac4U",
-        "title": "CRITICAL ROLE OF DYSREGULATED AUTOPHAGY IN PATHOPHYSIOLOGY OF PODOCYTOPATHY.",
-        "summary": "Restoring autophagy in kidney cells shows promise for treating podocytopathies by reducing protein loss and improving cell function.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41989837/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-17"
       }
@@ -1070,10 +1071,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 17748,
+    "archive_count": 17749,
     "archive_supplements": 2001,
     "archive_off_label": 627,
-    "archive_biomarkers": 10640,
+    "archive_biomarkers": 10641,
     "archive_trials": 3762,
     "archive_mind_body": 426
   }
