@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-21T04:06:54.740Z",
+  "last_updated": "2026-04-21T04:07:04.841Z",
   "categories": {
     "supplements": [
       {
@@ -217,6 +217,20 @@
     ],
     "off_label": [
       {
+        "id": "recp7tKUqebqVcFMK",
+        "title": "Inhibition of Focal Adhesion Restricts Chemoresistance in Pancreatic Cancer by Targeting SLC7A11 Mediated Ferroptosis.",
+        "summary": "FAK inhibition overcomes gemcitabine resistance in pancreatic cancer by triggering ferroptosis and boosting immune response.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42003743/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Pancreatic"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-21"
+      },
+      {
         "id": "recK8YkR3i611UJMx",
         "title": "BAX-dependent mitochondrial outer membrane rupture in cochlear hair cells facilitates cisplatin ototoxicity.",
         "summary": "Blocking BAX protein in mitochondria protects hearing cells from cisplatin cancer drug damage while preserving its anticancer effects.",
@@ -411,20 +425,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
-        "added_date": "2026-04-17"
-      },
-      {
-        "id": "recSJKjj98JRClxbZ",
-        "title": "ACLY-Driven Metabolic Reprogramming Promotes Histone Acetylation and Inflammation-Associated Fibrosis in Chronic Kidney Disease.",
-        "summary": "ACLY enzyme drives kidney fibrosis by increasing histone acetylation and inflammation; blocking it reduces fibrosis in chronic kidney disease.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41990244/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
         "added_date": "2026-04-17"
       }
     ],
@@ -1074,10 +1074,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 17843,
+    "archive_count": 17844,
     "archive_supplements": 2011,
     "archive_off_label": 627,
-    "archive_biomarkers": 10711,
+    "archive_biomarkers": 10712,
     "archive_trials": 3773,
     "archive_mind_body": 429
   }
