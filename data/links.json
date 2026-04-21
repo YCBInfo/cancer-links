@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-21T04:06:22.193Z",
+  "last_updated": "2026-04-21T04:06:32.662Z",
   "categories": {
     "supplements": [
       {
@@ -812,6 +812,20 @@
         "added_date": "2026-04-21"
       },
       {
+        "id": "recwWnUPDYp1LkDOQ",
+        "title": "TRMT6-Mediated m1A Modification of CDK9 mRNA Is a Dual-Pronged Pathogenic Driver for HBV-Related Hepatocellular Carcinoma.",
+        "summary": "TRMT6 protein promotes liver cancer growth and hepatitis B virus replication by modifying CDK9 messenger RNA, offering a new treatment target.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42003777/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-21"
+      },
+      {
         "id": "recrA5d6cmr3iisRd",
         "title": "Pelvic lymph node dissection in prostate cancer: current evidence, controversies, and future directions.",
         "summary": "Pelvic lymph node removal in prostate cancer accurately stages disease but its benefits beyond staging remain unclear and debated.",
@@ -832,20 +846,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41859810/",
         "source": "PubMed",
         "category": "Clinical Trials",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-20"
-      },
-      {
-        "id": "recYozEilYExYq9u3",
-        "title": "A Case of Pleomorphic Carcinoma of the Lung Complicated by Anti-HMGCR Antibody-Positive Necrotizing Myositis.",
-        "summary": "Lung cancer surgery successfully treated a rare muscle disease (necrotizing myositis) in one patient, but immunosuppressive therapy may have increased cancer recurrence risk.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41859803/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Lung"
         ],
@@ -1074,10 +1074,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 17840,
+    "archive_count": 17841,
     "archive_supplements": 2011,
     "archive_off_label": 627,
-    "archive_biomarkers": 10708,
+    "archive_biomarkers": 10709,
     "archive_trials": 3773,
     "archive_mind_body": 429
   }
