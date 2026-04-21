@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-21T04:22:58.132Z",
+  "last_updated": "2026-04-21T04:23:32.156Z",
   "categories": {
     "supplements": [
       {
@@ -230,6 +230,20 @@
         "added_date": "2026-04-21"
       },
       {
+        "id": "recS3Nnm5F91aEubt",
+        "title": "Repurposing drugs for treating the neurobehavioral manifestations of PTEN hamartoma tumor syndrome.",
+        "summary": "Researchers identified six existing drugs that may better treat brain-related symptoms in PTEN hamartoma tumor syndrome patients than current treatments.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42006312/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-21"
+      },
+      {
         "id": "recK8YkR3i611UJMx",
         "title": "BAX-dependent mitochondrial outer membrane rupture in cochlear hair cells facilitates cisplatin ototoxicity.",
         "summary": "Blocking BAX protein in mitochondria protects hearing cells from cisplatin cancer drug damage while preserving its anticancer effects.",
@@ -410,20 +424,6 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-04-01",
-        "added_date": "2026-04-17"
-      },
-      {
-        "id": "recAJ4UbPKz0KZT39",
-        "title": "Association between inhaled corticosteroids and anti-PD-1/PD-L1 efficacy in patients with NSCLC with concurrent COPD.",
-        "summary": "Inhaled corticosteroids for COPD improve lung cancer immunotherapy response in patients with both conditions.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41907417/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
         "added_date": "2026-04-17"
       }
     ],
@@ -1073,11 +1073,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 17931,
+    "archive_count": 17932,
     "archive_supplements": 2017,
     "archive_off_label": 627,
     "archive_biomarkers": 10786,
-    "archive_trials": 3780,
+    "archive_trials": 3781,
     "archive_mind_body": 429
   }
 }
