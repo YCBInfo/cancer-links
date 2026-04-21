@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-21T04:05:40.186Z",
+  "last_updated": "2026-04-21T04:05:51.147Z",
   "categories": {
     "supplements": [
       {
@@ -784,6 +784,20 @@
         "added_date": "2026-04-21"
       },
       {
+        "id": "rec9ldsSS1ysdr7BE",
+        "title": "A Biomimetic Mn-Doped Polydopamine Nanoplatform for MRI-Enabled Synergistic Therapy to Enhance Lenvatinib Efficacy in Liver Cancer.",
+        "summary": "A new nanoparticle platform combines imaging and three cancer-fighting methods to improve lenvatinib effectiveness in liver cancer treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42003816/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-21"
+      },
+      {
         "id": "recrA5d6cmr3iisRd",
         "title": "Pelvic lymph node dissection in prostate cancer: current evidence, controversies, and future directions.",
         "summary": "Pelvic lymph node removal in prostate cancer accurately stages disease but its benefits beyond staging remain unclear and debated.",
@@ -837,20 +851,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
-        "added_date": "2026-04-20"
-      },
-      {
-        "id": "rec8VX035wZaadIPC",
-        "title": "VIKTORIA-1 Trial of Gedatolisib Plus Fulvestrant With or Without Palbociclib in Hormone Receptor-Positive/HER2-/PIK3CA Wild-Type Advanced Breast Cancer.",
-        "summary": "Gedatolisib combined with fulvestrant showed promise in hormone receptor-positive breast cancer, with potential added benefit from palbociclib.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41802242/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
         "added_date": "2026-04-20"
       }
     ],
@@ -1074,10 +1074,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 17836,
+    "archive_count": 17837,
     "archive_supplements": 2010,
     "archive_off_label": 627,
-    "archive_biomarkers": 10705,
+    "archive_biomarkers": 10706,
     "archive_trials": 3773,
     "archive_mind_body": 429
   }
