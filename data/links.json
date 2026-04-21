@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-21T09:03:39.038Z",
+  "last_updated": "2026-04-21T09:03:57.883Z",
   "categories": {
     "supplements": [
       {
@@ -287,6 +287,20 @@
         "added_date": "2026-04-21"
       },
       {
+        "id": "rectMNDEtXYQ7l13A",
+        "title": "Levonorgestrel-releasing intrauterine system treatment for endometrial hyperplasia and early endometrial cancer: a systematic review.",
+        "summary": "A hormone-releasing device shows promise for treating early endometrial cancer and precancerous endometrial conditions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42005373/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-21"
+      },
+      {
         "id": "recK8YkR3i611UJMx",
         "title": "BAX-dependent mitochondrial outer membrane rupture in cochlear hair cells facilitates cisplatin ototoxicity.",
         "summary": "Blocking BAX protein in mitochondria protects hearing cells from cisplatin cancer drug damage while preserving its anticancer effects.",
@@ -404,20 +418,6 @@
         "title": "Metformin in Diatetes and Beyond: Therapeutic Mechanisms, Lactic Acidosis, Organ-Specific Effects, and Nanotechnology-Based Delivery Strategies.",
         "summary": "Metformin shows promise for treating cancer and other diseases beyond diabetes, with nanotechnology delivery improving safety and effectiveness.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41995776/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-18"
-      },
-      {
-        "id": "recafAYyVTs0gGNml",
-        "title": "Precision Oncology Trial Puts Off-Label Prescribing to the Test.",
-        "summary": "Off-label targeted cancer drugs work best when tumors have specific genetic markers like MSI-H, helping guide treatment decisions.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41995580/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -1074,10 +1074,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 17995,
+    "archive_count": 17996,
     "archive_supplements": 2022,
     "archive_off_label": 628,
-    "archive_biomarkers": 10811,
+    "archive_biomarkers": 10812,
     "archive_trials": 3813,
     "archive_mind_body": 429
   }
