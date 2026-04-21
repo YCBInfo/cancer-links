@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-21T04:04:40.033Z",
+  "last_updated": "2026-04-21T04:04:53.839Z",
   "categories": {
     "supplements": [
       {
@@ -40,6 +40,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-21"
+      },
+      {
+        "id": "recRsP6eV0xdUBfJi",
+        "title": "Activation of MTCH2 by Momordin Ic Prevents Colitis and Colitis-Associated Colorectal Cancer Through Rescuing the Mitochondrial Dysfunction of Macrophage.",
+        "summary": "Momordin Ic prevents colorectal cancer by restoring immune cell mitochondrial function and reducing inflammation through the SENP1/MTCH2 pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42007543/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -199,20 +213,6 @@
         "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-19"
-      },
-      {
-        "id": "rec7L9VKewQ9OzYsH",
-        "title": "18-β-glycyrrhetinic acid facilitates nuclear-mitochondrial communications to alleviate oxidative stress through HMGB1-cGAS-Mul1 axis in tendinopathy.",
-        "summary": "A natural compound called 18-β-glycyrrhetinic acid reduces tendon damage by decreasing harmful stress inside cells through a specific molecular pathway.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41998635/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-18"
       }
     ],
     "off_label": [
@@ -1074,10 +1074,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 17831,
+    "archive_count": 17832,
     "archive_supplements": 2009,
     "archive_off_label": 627,
-    "archive_biomarkers": 10701,
+    "archive_biomarkers": 10702,
     "archive_trials": 3773,
     "archive_mind_body": 429
   }
