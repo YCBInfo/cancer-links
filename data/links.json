@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-21T04:03:03.749Z",
+  "last_updated": "2026-04-21T04:03:14.909Z",
   "categories": {
     "supplements": [
       {
@@ -557,6 +557,20 @@
         "added_date": "2026-04-21"
       },
       {
+        "id": "recUhMkqvPZXI1c22",
+        "title": "CAR-T Cells: Current Status, Challenges, and Future Prospects.",
+        "summary": "Artificial intelligence can improve CAR-T cell cancer therapy by optimizing engineering and overcoming challenges like toxicity and drug resistance.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42004809/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-21"
+      },
+      {
         "id": "recrA5d6cmr3iisRd",
         "title": "Pelvic lymph node dissection in prostate cancer: current evidence, controversies, and future directions.",
         "summary": "Pelvic lymph node removal in prostate cancer accurately stages disease but its benefits beyond staging remain unclear and debated.",
@@ -625,20 +639,6 @@
         "quality_score": 15,
         "pub_date": "2026-03-01",
         "added_date": "2026-04-20"
-      },
-      {
-        "id": "rec8VX035wZaadIPC",
-        "title": "VIKTORIA-1 Trial of Gedatolisib Plus Fulvestrant With or Without Palbociclib in Hormone Receptor-Positive/HER2-/PIK3CA Wild-Type Advanced Breast Cancer.",
-        "summary": "Gedatolisib combined with fulvestrant showed promise in hormone receptor-positive breast cancer, with potential added benefit from palbociclib.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41802242/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-20"
       }
     ],
     "trials": [
@@ -677,6 +677,20 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/42003387/",
         "source": "PubMed",
         "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-21"
+      },
+      {
+        "id": "recUhMkqvPZXI1c22",
+        "title": "CAR-T Cells: Current Status, Challenges, and Future Prospects.",
+        "summary": "Artificial intelligence can improve CAR-T cell cancer therapy by optimizing engineering and overcoming challenges like toxicity and drug resistance.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42004809/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
@@ -835,20 +849,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-20"
-      },
-      {
-        "id": "recyVU3L7T4ArvpIq",
-        "title": "A noninvasive urinary microRNA-based assay for early detection of lung cancer and its potential application to prognosis and recurrence monitoring: a case-control study.",
-        "summary": "A urine test using microRNA patterns can detect early-stage lung cancer with high accuracy and predict recurrence risk.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42000891/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-20"
       }
@@ -1073,10 +1073,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 17823,
+    "archive_count": 17824,
     "archive_supplements": 2007,
     "archive_off_label": 627,
-    "archive_biomarkers": 10696,
+    "archive_biomarkers": 10697,
     "archive_trials": 3772,
     "archive_mind_body": 429
   }
