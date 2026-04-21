@@ -1,7 +1,36 @@
 {
-  "last_updated": "2026-04-21T02:02:53.578Z",
+  "last_updated": "2026-04-21T04:02:54.207Z",
   "categories": {
     "supplements": [
+      {
+        "id": "rec61Rm3AewupOS8y",
+        "title": "In silico and in vitro study of the proapoptotic, autophagic and antitumor effects of cirsimaritin and humulene in hepatocellular carcinoma.",
+        "summary": "Two natural compounds, cirsimaritin and humulene, kill liver cancer cells by triggering cell death and autophagy while protecting normal cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42006453/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-21"
+      },
+      {
+        "id": "recet6DFxfi6ve6ak",
+        "title": "Anticancer potential, antioxidant activity, chemical content, and enzyme inhibitory properties of Inula aschersoniana Janka, supported by an integrated network pharmacology study.",
+        "summary": "Inula aschersoniana plant extract kills breast and colon cancer cells while showing antioxidant activity and enzyme inhibition properties.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42006452/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast",
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-21"
+      },
       {
         "id": "reczu2JvlfrRdvk1v",
         "title": "Aging-associated decline of phosphatidylcholine synthesis is a malleable trigger of natural mitochondrial aging.",
@@ -176,34 +205,6 @@
         "title": "Fructose: metabolic signal and modern hazard.",
         "summary": "Fructose uniquely promotes fat accumulation and metabolic disease more than glucose, with emerging links to cancer and dementia.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41998215/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-18"
-      },
-      {
-        "id": "rec7sniZ57yiNkA87",
-        "title": "Chasteberry extract alleviates rotenone-triggered testicular injury in rats by modulating oxidative stress, inflammation, apoptosis, and mitochondrial dysfunction.",
-        "summary": "Chasteberry extract protects rat testes from pesticide damage by reducing oxidative stress, inflammation, and cell death.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41998060/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-18"
-      },
-      {
-        "id": "recHT8dW9L2E5Yb49",
-        "title": "Curcumin-Integrated Smart Nanocarriers: A Multi-Stimuli-Responsive Platform for Targeted Delivery of 5-Fluorouracil in Cancer Therapy.",
-        "summary": "Smart nanocarriers enhanced curcumin and 5-fluorouracil delivery to cancer cells, improving drug effectiveness in breast and liver cancer models.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41996327/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -429,6 +430,119 @@
     ],
     "biomarkers": [
       {
+        "id": "reclellxYRSswWA3R",
+        "title": "Longitudinal gut microbiome dynamics are associated with clinical outcome and toxicity during ibrutinib therapy.",
+        "summary": "Gut microbiome changes during ibrutinib therapy predict treatment response and side effects in blood cancer patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42002835/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-21"
+      },
+      {
+        "id": "recMn0UQOPEEAQAx7",
+        "title": "LILRB2 inhibition by blocking antibody ES009 reprograms immunosuppressive myeloid cells and enhances T-cell-mediated tumor immunity.",
+        "summary": "ES009 antibody blocks LILRB2 on immune cells to reprogram them and enhance anti-tumor immunity, showing promise alone and with immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42007674/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-21"
+      },
+      {
+        "id": "recX0fsXl3BztdZWw",
+        "title": "Absence of steatosis combined with cardiometabolic risk factors confers the highest hepatocellular carcinoma risk in treated chronic hepatitis B.",
+        "summary": "Treated hepatitis B patients without liver fat but with metabolic risks face the highest hepatocellular carcinoma risk.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42003514/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-21"
+      },
+      {
+        "id": "recMg9qW7BBLxNac1",
+        "title": "Efficacy of deep hyperthermia on hematological parameters and tumor markers in cancer patients: a retrospective cohort study.",
+        "summary": "Deep hyperthermia treatment improved blood counts and immune markers in cancer patients, suggesting potential as an additional therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42003387/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-21"
+      },
+      {
+        "id": "rec2b4GnofrdtkO0R",
+        "title": "Control of DNA double-strand break repair by the KDM8 histone demethylase.",
+        "summary": "KDM8 protein controls how cancer cells repair DNA damage by shifting between two repair pathways, potentially offering new treatment targets.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42001401/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-21"
+      },
+      {
+        "id": "rec61Rm3AewupOS8y",
+        "title": "In silico and in vitro study of the proapoptotic, autophagic and antitumor effects of cirsimaritin and humulene in hepatocellular carcinoma.",
+        "summary": "Two natural compounds, cirsimaritin and humulene, kill liver cancer cells by triggering cell death and autophagy while protecting normal cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42006453/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-21"
+      },
+      {
+        "id": "recet6DFxfi6ve6ak",
+        "title": "Anticancer potential, antioxidant activity, chemical content, and enzyme inhibitory properties of Inula aschersoniana Janka, supported by an integrated network pharmacology study.",
+        "summary": "Inula aschersoniana plant extract kills breast and colon cancer cells while showing antioxidant activity and enzyme inhibition properties.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42006452/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast",
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-21"
+      },
+      {
+        "id": "rectshawagfCp8O9v",
+        "title": "Exosome-mediated miR-4660 delivery inhibits OPN promoted hepatoma cells aggression through targeting LGALS3BP.",
+        "summary": "Researchers found that delivering miR-4660 through exosomes can reduce liver cancer cell aggression and metastasis by blocking a protein called LGALS3BP.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42005698/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-21"
+      },
+      {
         "id": "recrA5d6cmr3iisRd",
         "title": "Pelvic lymph node dissection in prostate cancer: current evidence, controversies, and future directions.",
         "summary": "Pelvic lymph node removal in prostate cancer accurately stages disease but its benefits beyond staging remain unclear and debated.",
@@ -525,121 +639,51 @@
         "quality_score": 13,
         "pub_date": "2026-02-01",
         "added_date": "2026-04-20"
-      },
-      {
-        "id": "recr6XSrY55Uz831a",
-        "title": "Decoding testicular germ cell tumors: integrating risk, biology, and biomarkers into future care.",
-        "summary": "Researchers identify genetic risk factors and blood biomarkers for testicular cancer to improve treatment and reduce long-term side effects in young men.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41687980/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-20"
-      },
-      {
-        "id": "reci8nrZR26DJPIU3",
-        "title": "Prospective serial proteomic analysis uncovers mechanistic pathways of chemotherapy resistance in advanced non-small cell lung cancer.",
-        "summary": "Serial blood protein analysis identifies immune suppression and clotting activation as mechanisms of chemotherapy resistance in advanced lung cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41653971/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-20"
-      },
-      {
-        "id": "rec3RIbIYjrTD8Zi6",
-        "title": "Time-resolved proteomic and phosphoproteomic profiling of Angiotensin-(1-7) signaling in A549 cells.",
-        "summary": "Angiotensin-(1-7) activates tumor-suppressing pathways and nuclear accumulation of FOXO1 in lung cancer cells, revealing its anti-cancer potential.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41570893/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-20"
-      },
-      {
-        "id": "recK8YkR3i611UJMx",
-        "title": "BAX-dependent mitochondrial outer membrane rupture in cochlear hair cells facilitates cisplatin ototoxicity.",
-        "summary": "Blocking BAX protein in mitochondria protects hearing cells from cisplatin cancer drug damage while preserving its anticancer effects.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42000904/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-20"
-      },
-      {
-        "id": "recDG99kjOYFcoag4",
-        "title": "The B7 family subgroup reflects tumor cell heterogeneity and patient post-operative prognosis in gallbladder cancer.",
-        "summary": "B7 immune checkpoint proteins help predict outcomes and reveal hidden differences in gallbladder cancer cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42001193/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Bladder"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-20"
-      },
-      {
-        "id": "rec5qGABlO5XqHOyH",
-        "title": "Choroid plexus cyst of the spinal cord presenting with signs of spinal cord compression in a 55-year-old male: a case report.",
-        "summary": "A rare benign spinal cord cyst caused compression symptoms in a 55-year-old patient, expanding known presentations of choroid plexus cysts.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42001166/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-20"
-      },
-      {
-        "id": "recklbvfoLfd6FSVK",
-        "title": "Developing blood extracellular vesicle protein biomarkers for hepatocellular carcinoma: mechanisms, methods, and translation.",
-        "summary": "Researchers are developing blood tests using tiny protein particles to detect liver cancer earlier and improve patient outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42001157/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-20"
-      },
-      {
-        "id": "reciO2Wj8sOLerybd",
-        "title": "ATAD3A promotes bladder cancer progression by regulating glycolysis through MYC stabilization.",
-        "summary": "ATAD3A protein promotes bladder cancer growth by boosting glucose metabolism through a process involving MYC stabilization.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42001122/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Bladder"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-20"
       }
     ],
     "trials": [
+      {
+        "id": "reclellxYRSswWA3R",
+        "title": "Longitudinal gut microbiome dynamics are associated with clinical outcome and toxicity during ibrutinib therapy.",
+        "summary": "Gut microbiome changes during ibrutinib therapy predict treatment response and side effects in blood cancer patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42002835/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-21"
+      },
+      {
+        "id": "recMn0UQOPEEAQAx7",
+        "title": "LILRB2 inhibition by blocking antibody ES009 reprograms immunosuppressive myeloid cells and enhances T-cell-mediated tumor immunity.",
+        "summary": "ES009 antibody blocks LILRB2 on immune cells to reprogram them and enhance anti-tumor immunity, showing promise alone and with immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42007674/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-21"
+      },
+      {
+        "id": "recMg9qW7BBLxNac1",
+        "title": "Efficacy of deep hyperthermia on hematological parameters and tumor markers in cancer patients: a retrospective cohort study.",
+        "summary": "Deep hyperthermia treatment improved blood counts and immune markers in cancer patients, suggesting potential as an additional therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42003387/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-21"
+      },
       {
         "id": "recrA5d6cmr3iisRd",
         "title": "Pelvic lymph node dissection in prostate cancer: current evidence, controversies, and future directions.",
@@ -805,48 +849,6 @@
           "Lung"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-20"
-      },
-      {
-        "id": "recWAM5tM3JsbJonF",
-        "title": "Combined elevation of pre-treatment γ-glutamyltransferase and lactate dehydrogenase as independent prognosticator for metastatic renal cell carcinoma undergoing immune-based therapy.",
-        "summary": "High baseline GGT and LDH levels together independently predict worse survival in metastatic renal cell carcinoma patients receiving immune therapy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42000841/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Kidney"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-20"
-      },
-      {
-        "id": "recGF4jaQVXMCxM0z",
-        "title": "Endothelial and inflammatory responses during ex vivo normothermic perfusion of human cardiac grafts.",
-        "summary": "Researchers tracked inflammatory and blood vessel responses in donor hearts during a preservation technique called normothermic perfusion.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41999636/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-20"
-      },
-      {
-        "id": "recLu3hNEexOHjAhs",
-        "title": "First-in-Human Evaluation of the Safety, Genetic Stability, and Immunogenicity of an Attenuated Shigella flexneri 2a Live Vector Expressing Enterotoxigenic Escherichia coli Antigens, Vaccine Strain CVD 1208S-122.",
-        "summary": "Researchers tested a new vaccine candidate against two common diarrhea-causing bacteria, showing it was safe and generated immune responses in humans.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41999631/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-20"
       }
@@ -1071,10 +1073,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 17821,
+    "archive_count": 17822,
     "archive_supplements": 2007,
     "archive_off_label": 627,
-    "archive_biomarkers": 10694,
+    "archive_biomarkers": 10695,
     "archive_trials": 3772,
     "archive_mind_body": 429
   }
