@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-21T04:03:53.751Z",
+  "last_updated": "2026-04-21T04:04:06.936Z",
   "categories": {
     "supplements": [
       {
@@ -26,6 +26,20 @@
         "cancer_types": [
           "Breast",
           "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-21"
+      },
+      {
+        "id": "recyWLZJtvwgxTWxg",
+        "title": "Galangin Overcomes Gefitinib and Sotorasib Resistance in Non-small Cell Lung Cancer by Inhibiting Efferocytosis.",
+        "summary": "Galangin, a natural compound, restores lung cancer cell sensitivity to two major drugs by blocking a resistance pathway involving immune cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42007639/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -191,20 +205,6 @@
         "title": "18-β-glycyrrhetinic acid facilitates nuclear-mitochondrial communications to alleviate oxidative stress through HMGB1-cGAS-Mul1 axis in tendinopathy.",
         "summary": "A natural compound called 18-β-glycyrrhetinic acid reduces tendon damage by decreasing harmful stress inside cells through a specific molecular pathway.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41998635/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-18"
-      },
-      {
-        "id": "recKFZmWPITybX8HU",
-        "title": "Fructose: metabolic signal and modern hazard.",
-        "summary": "Fructose uniquely promotes fat accumulation and metabolic disease more than glucose, with emerging links to cancer and dementia.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41998215/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -614,6 +614,20 @@
         "added_date": "2026-04-21"
       },
       {
+        "id": "recyWLZJtvwgxTWxg",
+        "title": "Galangin Overcomes Gefitinib and Sotorasib Resistance in Non-small Cell Lung Cancer by Inhibiting Efferocytosis.",
+        "summary": "Galangin, a natural compound, restores lung cancer cell sensitivity to two major drugs by blocking a resistance pathway involving immune cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42007639/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-21"
+      },
+      {
         "id": "recrA5d6cmr3iisRd",
         "title": "Pelvic lymph node dissection in prostate cancer: current evidence, controversies, and future directions.",
         "summary": "Pelvic lymph node removal in prostate cancer accurately stages disease but its benefits beyond staging remain unclear and debated.",
@@ -624,20 +638,6 @@
           "Prostate"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-20"
-      },
-      {
-        "id": "recFrEBO5MfXTLfiV",
-        "title": "Giant primary hepatic osteosarcoma: A rare case report and review of the literature.",
-        "summary": "Researchers documented an extremely rare liver cancer called primary hepatic osteosarcoma, which typically presents as a large abdominal mass with poor outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42001442/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-20"
       }
@@ -710,6 +710,20 @@
           "Liver"
         ],
         "quality_score": 29,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-21"
+      },
+      {
+        "id": "rec2b9VNXgsxSWjtR",
+        "title": "Exportin 1 Inhibitor Combined With Venetoclax Induces Apoptosis in Myelodysplastic Syndrome by Mitochondria-Induced Apoptosis Pathway.",
+        "summary": "Combining an exportin 1 inhibitor with venetoclax kills myelodysplastic syndrome cells by triggering programmed cell death through mitochondria.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42007609/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-21"
       },
@@ -832,20 +846,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/42000954/",
         "source": "PubMed",
         "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-20"
-      },
-      {
-        "id": "recrCCPS7ncZQqTQ6",
-        "title": "GZMK expression within activated intratumoral T-cell subsets reflects differentiation efficiency and predicts response to cancer immunotherapy.",
-        "summary": "A T cell marker called GZMK predicts which head and neck cancer patients will respond well to immunotherapy treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42000944/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
@@ -1074,8 +1074,8 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 17827,
-    "archive_supplements": 2008,
+    "archive_count": 17828,
+    "archive_supplements": 2009,
     "archive_off_label": 627,
     "archive_biomarkers": 10698,
     "archive_trials": 3773,
