@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-28T04:04:14.294Z",
+  "last_updated": "2026-04-28T04:04:25.177Z",
   "categories": {
     "supplements": [
       {
@@ -612,24 +612,25 @@
         "added_date": "2026-04-28"
       },
       {
+        "id": "recYO320bCl2jHuOu",
+        "title": "Tall Cell Carcinoma of the Breast With Reverse Polarity: Expanding the Molecular Spectrum With IDH1 R132 Mutation.",
+        "summary": "Researchers identified a rare breast cancer type with a novel IDH1 mutation, treated successfully with surgery and hormone therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42040393/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast",
+          "Thyroid"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-28"
+      },
+      {
         "id": "recmWh2Sp05t0j5zB",
         "title": "Advances in natural killer cell immunotherapy for hematologic malignancies.",
         "summary": "Researchers are developing enhanced natural killer cell therapies to improve treatment effectiveness against blood cancers.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42033215/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-27"
-      },
-      {
-        "id": "recLtmOyuRWzLwzhB",
-        "title": "Serum HE4 and polymorphisms in MMP9 and MMP13 associated with survival outcome in patients with endometrial carcinoma: a retrospective cohort study and nomogram development.",
-        "summary": "HE4 blood levels and specific genetic variations in MMP9 and MMP13 genes predict survival outcomes in endometrial cancer patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42033293/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -681,6 +682,21 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-28"
+      },
+      {
+        "id": "recYO320bCl2jHuOu",
+        "title": "Tall Cell Carcinoma of the Breast With Reverse Polarity: Expanding the Molecular Spectrum With IDH1 R132 Mutation.",
+        "summary": "Researchers identified a rare breast cancer type with a novel IDH1 mutation, treated successfully with surgery and hormone therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42040393/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast",
+          "Thyroid"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-28"
       },
@@ -835,20 +851,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-27"
-      },
-      {
-        "id": "recYyKrI86Pi8OPKX",
-        "title": "Integrating multimodal clinical data with a large model for prostate cancer diagnosis.",
-        "summary": "A new AI model combining MRI scans, PSA blood tests, and clinical reports accurately diagnoses prostate cancer better than imaging alone.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42034911/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Prostate"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-27"
       }
@@ -1074,10 +1076,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 19241,
+    "archive_count": 19242,
     "archive_supplements": 2136,
     "archive_off_label": 659,
-    "archive_biomarkers": 11685,
+    "archive_biomarkers": 11686,
     "archive_trials": 4029,
     "archive_mind_body": 440
   }
