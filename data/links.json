@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-28T04:14:52.226Z",
+  "last_updated": "2026-04-28T04:15:05.859Z",
   "categories": {
     "supplements": [
       {
@@ -44,6 +44,20 @@
           "Thyroid"
         ],
         "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-28"
+      },
+      {
+        "id": "recx92UFi2BNN2ruc",
+        "title": "Kaempferol attenuates LPS-induced inflammatory responses in H9c2 cells through involvement of the IL-6/JAK2/STAT3 pathway.",
+        "summary": "Kaempferol, a plant compound, reduces inflammation in heart cells by blocking a key signaling pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42043457/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-28"
       },
@@ -199,20 +213,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-25"
-      },
-      {
-        "id": "rec9YyCv0nTire9JL",
-        "title": "Remodeling the fortress: phytochemical-loaded nanocarriers to disrupt the therapy-resistant lung tumor microenvironment.",
-        "summary": "Plant-derived nanoparticles could overcome lung cancer's resistance to therapy by remodeling the tumor's protective microenvironment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41875956/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-25"
       }
@@ -1081,10 +1081,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 19298,
+    "archive_count": 19299,
     "archive_supplements": 2137,
     "archive_off_label": 659,
-    "archive_biomarkers": 11735,
+    "archive_biomarkers": 11736,
     "archive_trials": 4035,
     "archive_mind_body": 440
   }
