@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-28T04:14:29.148Z",
+  "last_updated": "2026-04-28T04:14:40.975Z",
   "categories": {
     "supplements": [
       {
@@ -27,6 +27,23 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-28"
+      },
+      {
+        "id": "recDkJ8Xqn7gG5F6a",
+        "title": "In silico evaluation of selected triterpenes as potential inhibitors of BRAF and BRAFV600E kinases for cancer treatment.",
+        "summary": "Computer modeling identifies four plant-derived triterpenes as potential new drugs to block BRAF mutations driving melanoma, thyroid, and colorectal cancers.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42043592/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lung",
+          "Colorectal",
+          "Melanoma",
+          "Thyroid"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-28"
       },
@@ -196,20 +213,6 @@
           "Lung"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-25"
-      },
-      {
-        "id": "recuGeEPnYciQ26J7",
-        "title": "Effect of Constant Illumination and Melatonin Administration on the Lifespan in Rats.",
-        "summary": "Melatonin administration extended lifespan and reduced tumor formation in rats, while constant illumination accelerated aging and increased cancer risk.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42032405/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-25"
       }
@@ -1078,11 +1081,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 19296,
+    "archive_count": 19297,
     "archive_supplements": 2137,
     "archive_off_label": 659,
     "archive_biomarkers": 11734,
-    "archive_trials": 4034,
+    "archive_trials": 4035,
     "archive_mind_body": 440
   }
 }
