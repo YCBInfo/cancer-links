@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-28T04:16:39.699Z",
+  "last_updated": "2026-04-28T04:16:50.031Z",
   "categories": {
     "supplements": [
       {
@@ -70,6 +70,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-28"
+      },
+      {
+        "id": "recpYnZYlUu3q55Nk",
+        "title": "Biological and chemical investigation of metabolites from the marine sponge Geodia cydonium (Linnaeus, 1767) methanolic extract against melanoma cancer cell lines.",
+        "summary": "Marine sponge extract and kynurenic acid show cytotoxic activity against melanoma cancer cells in laboratory tests.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42041036/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Melanoma"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -201,20 +215,6 @@
         "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-26"
-      },
-      {
-        "id": "rec9LYIbhu7KLo1RY",
-        "title": "Comprehensive Metabolite Profile and Cytotoxic Constituents of Cryptolepis decidua.",
-        "summary": "Cryptolepis decidua root extract contains cardenolides that kill lung cancer cells at very low concentrations in laboratory tests.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42029115/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-25"
       }
     ],
     "off_label": [
@@ -1081,10 +1081,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 19308,
+    "archive_count": 19309,
     "archive_supplements": 2140,
     "archive_off_label": 659,
-    "archive_biomarkers": 11742,
+    "archive_biomarkers": 11743,
     "archive_trials": 4035,
     "archive_mind_body": 440
   }
