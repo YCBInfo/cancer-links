@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-28T04:03:50.096Z",
+  "last_updated": "2026-04-28T04:04:02.643Z",
   "categories": {
     "supplements": [
       {
@@ -671,6 +671,20 @@
         "added_date": "2026-04-28"
       },
       {
+        "id": "rechzs0OrzomfDJ5O",
+        "title": "Prevalence and clinical impact of hepatic steatosis on autoimmune liver disease: A systematic review and meta-analysis.",
+        "summary": "Fat accumulation in livers of autoimmune liver disease patients is common but its clinical effects need further research.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42043878/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-28"
+      },
+      {
         "id": "recmWh2Sp05t0j5zB",
         "title": "Advances in natural killer cell immunotherapy for hematologic malignancies.",
         "summary": "Researchers are developing enhanced natural killer cell therapies to improve treatment effectiveness against blood cancers.",
@@ -829,20 +843,6 @@
         "title": "Integrating multimodal clinical data with a large model for prostate cancer diagnosis.",
         "summary": "A new AI model combining MRI scans, PSA blood tests, and clinical reports accurately diagnoses prostate cancer better than imaging alone.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42034911/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Prostate"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-27"
-      },
-      {
-        "id": "recruyOJwv1kX3KiE",
-        "title": "Combined radiomics, PI-RADS, and clinical model improve significant prostate cancer prediction and guide biopsy decision.",
-        "summary": "Combining MRI imaging analysis with clinical data better predicts aggressive prostate cancer and helps doctors decide who needs biopsy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42034832/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -1074,10 +1074,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 19239,
+    "archive_count": 19240,
     "archive_supplements": 2136,
     "archive_off_label": 659,
-    "archive_biomarkers": 11683,
+    "archive_biomarkers": 11684,
     "archive_trials": 4029,
     "archive_mind_body": 440
   }
