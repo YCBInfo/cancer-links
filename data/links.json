@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29T06:08:22.944Z",
+  "last_updated": "2026-04-29T06:08:33.797Z",
   "categories": {
     "supplements": [
       {
@@ -779,6 +779,20 @@
         "added_date": "2026-04-29"
       },
       {
+        "id": "recpRd1aaeNicmQzr",
+        "title": "18F choline PET/MR to assess clinically significant disease in prostate cancer: correlation with maximum and total cancer core length obtained via template mapping biopsies.",
+        "summary": "18F choline PET/MR imaging accurately identifies clinically significant prostate cancer compared to biopsy results.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42046529/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-29"
+      },
+      {
         "id": "recl4o1AqLA4rlxWd",
         "title": "Yoga for Patients Undergoing Thoracic Radiotherapy and Their Family Caregivers: Results of a Randomized Controlled Trial.",
         "summary": "Yoga involving thoracic cancer patients and their family caregivers improved quality of life better than education alone during radiotherapy treatment.",
@@ -831,20 +845,6 @@
         "cancer_types": [
           "Breast",
           "Thyroid"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-28"
-      },
-      {
-        "id": "recYE2uQmfiNUsyAk",
-        "title": "Optimal Adjuvant Therapy Selection for Chinese BRAF V600-Mutant Stage III Melanoma: A Multicenter Efficacy Comparison of Targeted Agents, Immunotherapy, and Combinatorial Strategies.",
-        "summary": "For Chinese patients with stage III BRAF-mutant melanoma, combined BRAF/MEK targeted therapy significantly improved survival compared to other adjuvant treatments.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42039710/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Melanoma"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -1071,10 +1071,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 19514,
+    "archive_count": 19515,
     "archive_supplements": 2169,
     "archive_off_label": 662,
-    "archive_biomarkers": 11868,
+    "archive_biomarkers": 11869,
     "archive_trials": 4082,
     "archive_mind_body": 441
   }
