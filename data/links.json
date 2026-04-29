@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29T06:08:01.838Z",
+  "last_updated": "2026-04-29T06:08:13.248Z",
   "categories": {
     "supplements": [
       {
@@ -171,6 +171,20 @@
         "added_date": "2026-04-29"
       },
       {
+        "id": "recF7VCLtLB2M7EcO",
+        "title": "The Human Gut Microbiome Metabolizes Diverse Bioactive Coumarins via α,β-Unsaturated Lactone Reduction.",
+        "summary": "Gut bacteria metabolize coumarin drugs through a single pathway, reducing their cancer-fighting effectiveness against melanoma cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42047214/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Melanoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-29"
+      },
+      {
         "id": "reclfZtCSB2gfH3NW",
         "title": "Artesunate reverses gefitinib resistance in lung adenocarcinoma by inducing ferroptosis and suppressing the Wnt/β-catenin pathway.",
         "summary": "Artesunate overcomes drug resistance in lung adenocarcinoma by triggering cancer cell death through ferroptosis and blocking a key growth pathway.",
@@ -195,23 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-28"
-      },
-      {
-        "id": "recDkJ8Xqn7gG5F6a",
-        "title": "In silico evaluation of selected triterpenes as potential inhibitors of BRAF and BRAFV600E kinases for cancer treatment.",
-        "summary": "Computer modeling identifies four plant-derived triterpenes as potential new drugs to block BRAF mutations driving melanoma, thyroid, and colorectal cancers.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42043592/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Lung",
-          "Colorectal",
-          "Melanoma",
-          "Thyroid"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-28"
       }
@@ -1075,10 +1072,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 19512,
+    "archive_count": 19513,
     "archive_supplements": 2168,
     "archive_off_label": 662,
-    "archive_biomarkers": 11867,
+    "archive_biomarkers": 11868,
     "archive_trials": 4082,
     "archive_mind_body": 441
   }
