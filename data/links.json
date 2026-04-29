@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29T06:03:10.452Z",
+  "last_updated": "2026-04-29T06:03:40.636Z",
   "categories": {
     "supplements": [
       {
@@ -55,6 +55,34 @@
           "Ovarian"
         ],
         "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-29"
+      },
+      {
+        "id": "rec1OC5Ih75TDzi6U",
+        "title": "Phytochemical-mediated green synthesis of selenium nanoparticles using Catharanthus roseus and their physicochemical characterization, biological evaluation, and molecular docking analysis.",
+        "summary": "Selenium nanoparticles made from a plant extract showed strong activity against hepatocellular carcinoma cells in laboratory tests.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42049942/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-29"
+      },
+      {
+        "id": "reckPYqehmjblBs7C",
+        "title": "Berberine enhances cisplatin efficacy in ehrlich ascites carcinoma via modulation of apoptotic pathway and efferocytosis.",
+        "summary": "Berberine enhances cisplatin's cancer-fighting ability in Ehrlich ascites carcinoma while reducing drug toxicity to the liver and kidneys.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42049890/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-29"
       },
@@ -182,34 +210,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-28"
-      },
-      {
-        "id": "rec7J14oPvZso46C8",
-        "title": "Myricetin attenuates atrazine-induced dysregulation of the hypothalamic-pituitary-adrenal axis of rats via anti-oxidative, anti-inflammatory, and anti-apoptotic mechanisms.",
-        "summary": "Myricetin protects rats' stress response systems from herbicide damage through antioxidant and anti-inflammatory effects.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42036834/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-28"
-      },
-      {
-        "id": "recGM1CGUfpIej6BQ",
-        "title": "Emodin Inhibitsg Hepatocellular Carcinoma Invasion and Migration by Regulating the HDAC4/NF-[Formula: see text]B (p65)/CXCL12 Signaling Axis and Suppressing M2 Macrophage Polarization.",
-        "summary": "Emodin reduces liver cancer invasion and spread by blocking a pathway that promotes tumor-supporting immune cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42036631/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Liver"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -528,6 +528,48 @@
         "added_date": "2026-04-29"
       },
       {
+        "id": "recexAGw5UfvcVmj1",
+        "title": "Preclinical development of a mutant KRAS targeting therapeutic cancer vaccine.",
+        "summary": "Researchers developed a vaccine targeting common KRAS mutations in cancer, successfully triggering immune responses against tumor cells without affecting healthy tissue.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42050050/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-29"
+      },
+      {
+        "id": "rec1OC5Ih75TDzi6U",
+        "title": "Phytochemical-mediated green synthesis of selenium nanoparticles using Catharanthus roseus and their physicochemical characterization, biological evaluation, and molecular docking analysis.",
+        "summary": "Selenium nanoparticles made from a plant extract showed strong activity against hepatocellular carcinoma cells in laboratory tests.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42049942/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-29"
+      },
+      {
+        "id": "reckPYqehmjblBs7C",
+        "title": "Berberine enhances cisplatin efficacy in ehrlich ascites carcinoma via modulation of apoptotic pathway and efferocytosis.",
+        "summary": "Berberine enhances cisplatin's cancer-fighting ability in Ehrlich ascites carcinoma while reducing drug toxicity to the liver and kidneys.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42049890/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-29"
+      },
+      {
         "id": "recTkxwRCUWckB2OL",
         "title": "Analysis of the circRNA/lncRNA-miRNA-mRNA Networks of Action of Fire Needle Acupuncture in Relieving Chemotherapy-Induced Neuropathic Pain.",
         "summary": "Fire needle acupuncture may relieve chemotherapy-induced nerve pain through specific molecular pathways, offering a potential treatment alternative.",
@@ -589,48 +631,6 @@
         "title": "Importin α characterizes a micronuclear environment associated with genomic instability in human cancer cells.",
         "summary": "Importin α protein accumulates in specific micronuclei and marks regions excluded from DNA repair, revealing how cancer cells develop genomic instability.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41834705/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-28"
-      },
-      {
-        "id": "recMST5jbMP1oyQi8",
-        "title": "Important Role of Ultrasound in Assessing Tubulocystic Renal Cell Carcinoma.",
-        "summary": "Ultrasound effectively identifies tubulocystic renal cell carcinoma as hyperechoic lesions, helping distinguish this rare kidney cancer from benign cysts.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42044518/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Kidney"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-28"
-      },
-      {
-        "id": "recVTAiNUpHK4xOPB",
-        "title": "Scrib organizes cortical actomyosin clusters to maintain adherens junctions and angiogenic sprouting.",
-        "summary": "Scrib protein organizes muscle clusters at cell junctions to strengthen blood vessel growth and stability during angiogenesis.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42043432/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-28"
-      },
-      {
-        "id": "rec9cwit9wbZHRHxh",
-        "title": "AID and TET2 cooperate to demethylate Irf4 for plasma cell fate in germinal center B cells.",
-        "summary": "AID and TET2 proteins work together to activate a gene that enables B cells to transform into antibody-producing plasma cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42043375/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -1076,10 +1076,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 19486,
+    "archive_count": 19489,
     "archive_supplements": 2160,
     "archive_off_label": 661,
-    "archive_biomarkers": 11851,
+    "archive_biomarkers": 11854,
     "archive_trials": 4081,
     "archive_mind_body": 441
   }
