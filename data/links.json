@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29T06:04:12.475Z",
+  "last_updated": "2026-04-29T06:04:37.298Z",
   "categories": {
     "supplements": [
       {
@@ -612,33 +612,32 @@
         "added_date": "2026-04-29"
       },
       {
-        "id": "recTkxwRCUWckB2OL",
-        "title": "Analysis of the circRNA/lncRNA-miRNA-mRNA Networks of Action of Fire Needle Acupuncture in Relieving Chemotherapy-Induced Neuropathic Pain.",
-        "summary": "Fire needle acupuncture may relieve chemotherapy-induced nerve pain through specific molecular pathways, offering a potential treatment alternative.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42039232/",
+        "id": "rec28oBf7iGqTO1Xl",
+        "title": "TGM2-mediated serotonylation of GPX4 confers ferroptosis resistance to promote gastric tumorigenesis.",
+        "summary": "Serotonin promotes gastric cancer growth by activating TGM2, which protects cancer cells from ferroptosis through GPX4 modification.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42049702/",
         "source": "PubMed",
-        "category": "Mind-Body & Spirituality",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-29"
+      },
+      {
+        "id": "recY42ygSE5Brnh48",
+        "title": "Haematological and histopathological monitoring of monosodium glutamate-supplemented feeding in rainbow trout (Oncorhynchus mykiss): A possible modelling for a single health approach.",
+        "summary": "High-dose MSG in fish feed increases growth but causes liver damage and weakens antioxidant defenses in rainbow trout.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42049676/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
         "quality_score": 12,
         "pub_date": "2026-04-01",
-        "added_date": "2026-04-28"
-      },
-      {
-        "id": "recgQewiQvIHnI14J",
-        "title": "Cost-effectiveness analysis of lorlatinib as first-line treatment for anaplastic lymphoma kinase (ALK)-positive non-small cell lung cancer in Italy.",
-        "summary": "Lorlatinib proves cost-effective as first-line treatment for ALK-positive lung cancer compared to alectinib in Italy's healthcare system.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42043888/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Lung",
-          "Lymphoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-28"
+        "added_date": "2026-04-29"
       }
     ],
     "trials": [
@@ -1076,9 +1075,9 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 19491,
+    "archive_count": 19492,
     "archive_supplements": 2161,
-    "archive_off_label": 661,
+    "archive_off_label": 662,
     "archive_biomarkers": 11854,
     "archive_trials": 4082,
     "archive_mind_body": 441
