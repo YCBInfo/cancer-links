@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29T09:07:41.179Z",
+  "last_updated": "2026-04-29T09:07:54.439Z",
   "categories": {
     "supplements": [
       {
@@ -369,6 +369,20 @@
         "added_date": "2026-04-29"
       },
       {
+        "id": "rectbWOq8VCQNx1cC",
+        "title": "A microRNA expression signature in infant t(4;11) KMT2A::AFF1+ BCP-ALL uncovers novel therapeutic targets.",
+        "summary": "Three microRNAs inhibit infant leukemia growth by targeting specific genes, revealing three existing drugs that could improve treatment outcomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42038742/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-29"
+      },
+      {
         "id": "recasQZyYCsdeYx5x",
         "title": "Protein kinase Cι-driven macrophage infiltration mediates immunosuppression in non-small cell lung cancer.",
         "summary": "PKCι protein drives immune resistance in lung cancer by recruiting suppressive immune cells; blocking it restores immunotherapy effectiveness.",
@@ -407,20 +421,6 @@
           "Breast"
         ],
         "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-28"
-      },
-      {
-        "id": "rec8QuQ7TiPEslIuv",
-        "title": "Unraveling the potential of targeting methionine metabolism in cancer.",
-        "summary": "Blocking methionine metabolism, particularly the MAT2A enzyme, shows promise for slowing cancer growth and enhancing immunotherapy effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41722835/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-03-01",
         "added_date": "2026-04-28"
       }
@@ -1069,10 +1069,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 19604,
+    "archive_count": 19605,
     "archive_supplements": 2181,
     "archive_off_label": 668,
-    "archive_biomarkers": 11905,
+    "archive_biomarkers": 11906,
     "archive_trials": 4117,
     "archive_mind_body": 441
   }
