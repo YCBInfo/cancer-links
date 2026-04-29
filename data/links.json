@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29T12:49:45.912Z",
+  "last_updated": "2026-04-29T12:49:49.940Z",
   "categories": {
     "supplements": [
       {
@@ -397,6 +397,20 @@
         "added_date": "2026-04-29"
       },
       {
+        "id": "rec0gRSSk47SqsqJO",
+        "title": "Balancing benefits and risks: bevacizumab's role in postoperative recovery after spinal oncologic neurosurgery.",
+        "summary": "Bevacizumab may reduce complications after spinal tumor surgery but risks wound healing problems, requiring careful timing decisions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42047997/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-29"
+      },
+      {
         "id": "recasQZyYCsdeYx5x",
         "title": "Protein kinase Cι-driven macrophage infiltration mediates immunosuppression in non-small cell lung cancer.",
         "summary": "PKCι protein drives immune resistance in lung cancer by recruiting suppressive immune cells; blocking it restores immunotherapy effectiveness.",
@@ -405,20 +419,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-28"
-      },
-      {
-        "id": "recKhuTxEePcwSPdJ",
-        "title": "Pharmacological inhibition of histone deacetylase 6 and DNA damage repair enhances radiosensitivity in melanoma.",
-        "summary": "Blocking HDAC6 protein with WT-161 makes melanoma more sensitive to radiation by impairing DNA damage repair.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41713838/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Melanoma"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -1069,10 +1069,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 19729,
+    "archive_count": 19730,
     "archive_supplements": 2186,
     "archive_off_label": 670,
-    "archive_biomarkers": 12002,
+    "archive_biomarkers": 12003,
     "archive_trials": 4138,
     "archive_mind_body": 441
   }
