@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29T07:10:28.238Z",
+  "last_updated": "2026-04-29T08:03:10.186Z",
   "categories": {
     "supplements": [
       {
@@ -243,6 +243,20 @@
         "added_date": "2026-04-29"
       },
       {
+        "id": "rec0g3stPoaiTSDpg",
+        "title": "BACH2 controls ILC3 function via PPARγ-dependent mitochondrial metabolism.",
+        "summary": "BACH2 protein protects intestinal immunity by activating PPARγ, restoring immune cell function and reducing colitis severity in mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42047686/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-29"
+      },
+      {
         "id": "recasQZyYCsdeYx5x",
         "title": "Protein kinase Cι-driven macrophage infiltration mediates immunosuppression in non-small cell lung cancer.",
         "summary": "PKCι protein drives immune resistance in lung cancer by recruiting suppressive immune cells; blocking it restores immunotherapy effectiveness.",
@@ -407,20 +421,6 @@
           "Brain"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-26"
-      },
-      {
-        "id": "recWSJJFrlkEjNDE0",
-        "title": "CK1α agonists attenuate medulloblastoma stemness and relapse risk.",
-        "summary": "A drug that activates CK1α reduces stem cell populations and relapse risk in aggressive medulloblastoma models.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42031704/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-26"
       }
@@ -1069,11 +1069,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 19579,
+    "archive_count": 19581,
     "archive_supplements": 2180,
     "archive_off_label": 662,
-    "archive_biomarkers": 11891,
-    "archive_trials": 4113,
+    "archive_biomarkers": 11892,
+    "archive_trials": 4114,
     "archive_mind_body": 441
   }
 }
