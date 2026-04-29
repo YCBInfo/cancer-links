@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29T12:37:01.688Z",
+  "last_updated": "2026-04-29T12:37:05.795Z",
   "categories": {
     "supplements": [
       {
@@ -383,6 +383,20 @@
         "added_date": "2026-04-29"
       },
       {
+        "id": "recBrhFk7ehCU1KN5",
+        "title": "Tocilizumab Mitigates Immune Checkpoint Inhibitor-Induced Colitis and Inhibits Tumor Growth by Targeting the IL-6-JAK2-STAT3 Signaling Pathway.",
+        "summary": "Tocilizumab reduces gut inflammation caused by cancer immunotherapy while slowing tumor growth by blocking a specific inflammatory pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42051049/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-29"
+      },
+      {
         "id": "recasQZyYCsdeYx5x",
         "title": "Protein kinase Cι-driven macrophage infiltration mediates immunosuppression in non-small cell lung cancer.",
         "summary": "PKCι protein drives immune resistance in lung cancer by recruiting suppressive immune cells; blocking it restores immunotherapy effectiveness.",
@@ -405,20 +419,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Melanoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-28"
-      },
-      {
-        "id": "recO4AoObBmdcXVCD",
-        "title": "Targeting the SIN1 mediated TTK/LDHA-H3K18la-GLUT3 axis disrupts metabolic-epigenetic crosstalk and suppresses progression in hyperglycolytic breast cancer.",
-        "summary": "Blocking the SIN1 protein disrupts a metabolic-epigenetic loop that fuels breast cancer growth and invasion, offering a potential new treatment strategy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41707978/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-03-01",
@@ -1069,10 +1069,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 19660,
-    "archive_supplements": 2184,
+    "archive_count": 19663,
+    "archive_supplements": 2185,
     "archive_off_label": 670,
-    "archive_biomarkers": 11946,
+    "archive_biomarkers": 11948,
     "archive_trials": 4127,
     "archive_mind_body": 441
   }
