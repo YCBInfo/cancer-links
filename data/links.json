@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29T09:06:51.360Z",
+  "last_updated": "2026-04-29T09:07:41.179Z",
   "categories": {
     "supplements": [
       {
@@ -341,6 +341,34 @@
         "added_date": "2026-04-29"
       },
       {
+        "id": "recFAVzWGpujVyZoX",
+        "title": "Ibuprofen and nimesulide derivatives selectively induce apoptosis in HER2-positive breast cancer via inhibition of the PLA₂-COX-2-NF-κB pathway.",
+        "summary": "Modified ibuprofen and nimesulide drugs kill HER2-positive breast cancer cells by blocking inflammation pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42029849/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-29"
+      },
+      {
+        "id": "recYLRP37mLJRmwIh",
+        "title": "Neutropenia and infectious events during off-label treatment with venetoclax in children with malignant disease: a pharmacovigilance analysis of FDA adverse event reporting system reports.",
+        "summary": "Venetoclax use in children with blood cancers frequently causes dangerous blood cell drops and serious infections requiring careful monitoring.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42026320/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-29"
+      },
+      {
         "id": "recasQZyYCsdeYx5x",
         "title": "Protein kinase Cι-driven macrophage infiltration mediates immunosuppression in non-small cell lung cancer.",
         "summary": "PKCι protein drives immune resistance in lung cancer by recruiting suppressive immune cells; blocking it restores immunotherapy effectiveness.",
@@ -394,34 +422,6 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-03-01",
-        "added_date": "2026-04-28"
-      },
-      {
-        "id": "recdY4nte8HEgjy6I",
-        "title": "Efficacy of Papaverine to Prevent Radial Artery Spasm During Transradial Cerebral Angiography (PASS): rationale and design.",
-        "summary": "Researchers are testing whether papaverine can prevent painful artery spasms that occur during a brain imaging procedure.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/40930776/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-28"
-      },
-      {
-        "id": "recmHZpL97hcTPiR8",
-        "title": "Eculizumab for Pediatric Hematopoietic Cell Transplant Associated Thrombotic Microangiopathy: Real World Response Rates, Predictors of Poor Response, and an Optimal Timepoint for Treatment Response Assessment.",
-        "summary": "Eculizumab, a complement-blocking drug, shows promise for treating a serious transplant complication in children, though response rates vary.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42035874/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
         "added_date": "2026-04-28"
       }
     ],
@@ -1069,9 +1069,9 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 19603,
+    "archive_count": 19604,
     "archive_supplements": 2181,
-    "archive_off_label": 667,
+    "archive_off_label": 668,
     "archive_biomarkers": 11905,
     "archive_trials": 4117,
     "archive_mind_body": 441
