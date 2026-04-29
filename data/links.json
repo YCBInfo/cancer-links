@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29T08:04:08.191Z",
+  "last_updated": "2026-04-29T09:02:59.374Z",
   "categories": {
     "supplements": [
       {
@@ -257,6 +257,48 @@
         "added_date": "2026-04-29"
       },
       {
+        "id": "recPXvtHIdx5s8VIq",
+        "title": "Metformin in prostate cancer: a context-dependent antitumour strategy driven by metabolic vulnerability and signalling network.",
+        "summary": "Metformin may help prevent prostate cancer by disrupting cancer cell energy production and signaling, but benefits vary by disease stage and patient type.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42047898/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-29"
+      },
+      {
+        "id": "recevHeg1oEoKxuwf",
+        "title": "Repurposing metformin for choriocarcinoma: targeting the AMPK/mTOR pathway.",
+        "summary": "Metformin, a diabetes drug, reduces choriocarcinoma growth by targeting cancer cell pathways, offering a new treatment option.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42047768/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-29"
+      },
+      {
+        "id": "recYdIWQC2jCaOwMH",
+        "title": "Mirtazapine and olanzapine for cancer-related psychological distress in advanced oral cancer: efficacy and safety prospective study.",
+        "summary": "Mirtazapine and olanzapine effectively reduce anxiety and depression in advanced oral cancer patients with visible disfigurement and social challenges.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41345030/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-29"
+      },
+      {
         "id": "recasQZyYCsdeYx5x",
         "title": "Protein kinase Cι-driven macrophage infiltration mediates immunosuppression in non-small cell lung cancer.",
         "summary": "PKCι protein drives immune resistance in lung cancer by recruiting suppressive immune cells; blocking it restores immunotherapy effectiveness.",
@@ -381,48 +423,6 @@
         "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-27"
-      },
-      {
-        "id": "recVxERzatWx4gChk",
-        "title": "Renoprotective effects of perampanel against cisplatin-induced acute kidney injury: managing NLRP3-pyroptosis and enhancement of antioxidant defense.",
-        "summary": "Perampanel, an anti-seizure drug, protects kidneys from cisplatin chemotherapy damage by reducing inflammation and boosting antioxidant defenses in rats.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42032077/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-26"
-      },
-      {
-        "id": "recnXSUlkOgaDjdBM",
-        "title": "The anticancer properties of dexmedetomidine in papillary thyroid cancer and its underlying mechanisms.",
-        "summary": "Dexmedetomidine inhibits papillary thyroid cancer cell growth by activating p38 MAPK and suppressing PI3K/Akt signaling pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42032081/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Thyroid"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-26"
-      },
-      {
-        "id": "recMzfrq8Ua9Krz9A",
-        "title": "Targeting SRC enhances differentiation and promotes multifaceted cell death mechanisms in recurrent group 3 medulloblastoma.",
-        "summary": "Blocking SRC protein in aggressive childhood brain tumors (Group 3 medulloblastoma) kills cancer cells and prevents treatment resistance without harming healthy brain tissue.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42031710/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-26"
       }
     ],
     "biomarkers": [
@@ -1069,10 +1069,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 19586,
+    "archive_count": 19587,
     "archive_supplements": 2180,
     "archive_off_label": 662,
-    "archive_biomarkers": 11897,
+    "archive_biomarkers": 11898,
     "archive_trials": 4114,
     "archive_mind_body": 441
   }
