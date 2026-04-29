@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29T06:03:40.636Z",
+  "last_updated": "2026-04-29T06:04:12.475Z",
   "categories": {
     "supplements": [
       {
@@ -83,6 +83,34 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-29"
+      },
+      {
+        "id": "recDasbJSuDpDnMUk",
+        "title": "Elucidating the anti-colorectal cancer mechanism of Physalis Calyx seu Fructus extract via mass spectrometry-molecular networking and bioinformatics.",
+        "summary": "Physalis plant extract compounds luteolin and chrysoeriol show potential anti-colorectal cancer effects by targeting cell-cycle proteins.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42049863/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-29"
+      },
+      {
+        "id": "recLU2XHPjWrNVjn7",
+        "title": "Uptake in thyroid Tripterygium glycosides, enhances radioiodine cancer by promoting the expression and function of NIS.",
+        "summary": "Tripterygium glycosides restore thyroid cancer cells' ability to uptake radioiodine by reactivating a suppressed protein, enhancing treatment effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42049851/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Thyroid"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-29"
       },
@@ -184,34 +212,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-28"
-      },
-      {
-        "id": "rec3dEM1figH0oK3V",
-        "title": "(+)-Matairesinol, Derived From Olive Oil, Enhanced T-Cell Anti-Tumor Immune via JAK3-STAT1 Signal and Synergized With Anti-PD-1 Efficacy.",
-        "summary": "Olive oil compound matairesinol boosts immune cells to kill triple-negative breast cancer and enhances anti-PD-1 immunotherapy effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42037203/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-28"
-      },
-      {
-        "id": "recjcYenHkrhX3vh3",
-        "title": "The Allium cepa Derived Compound Propyl Propane Thiosulfonate (PTSO) Improves Tumorigenesis Due to Its Immunomodulatory Effect: A Preclinical Study.",
-        "summary": "An onion-derived compound (PTSO) reduced colorectal cancer tumors in mice by boosting immunity and restoring healthy gut bacteria.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42037123/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-28"
       }
@@ -570,6 +570,48 @@
         "added_date": "2026-04-29"
       },
       {
+        "id": "recDasbJSuDpDnMUk",
+        "title": "Elucidating the anti-colorectal cancer mechanism of Physalis Calyx seu Fructus extract via mass spectrometry-molecular networking and bioinformatics.",
+        "summary": "Physalis plant extract compounds luteolin and chrysoeriol show potential anti-colorectal cancer effects by targeting cell-cycle proteins.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42049863/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-29"
+      },
+      {
+        "id": "recLU2XHPjWrNVjn7",
+        "title": "Uptake in thyroid Tripterygium glycosides, enhances radioiodine cancer by promoting the expression and function of NIS.",
+        "summary": "Tripterygium glycosides restore thyroid cancer cells' ability to uptake radioiodine by reactivating a suppressed protein, enhancing treatment effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42049851/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Thyroid"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-29"
+      },
+      {
+        "id": "recqg02tR5XU8wGCk",
+        "title": "Direct coupling and protective activation of DRP1 by the DNA-PKcs inhibitor KU-57788 synergizes with ferroptosis in anaplastic thyroid cancer cells.",
+        "summary": "KU-57788 kills aggressive thyroid cancer cells by damaging DNA and fragmenting mitochondria, with added ferroptosis inducers significantly boosting effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42049705/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Thyroid"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-29"
+      },
+      {
         "id": "recTkxwRCUWckB2OL",
         "title": "Analysis of the circRNA/lncRNA-miRNA-mRNA Networks of Action of Fire Needle Acupuncture in Relieving Chemotherapy-Induced Neuropathic Pain.",
         "summary": "Fire needle acupuncture may relieve chemotherapy-induced nerve pain through specific molecular pathways, offering a potential treatment alternative.",
@@ -595,48 +637,6 @@
           "Lymphoma"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-28"
-      },
-      {
-        "id": "recHkCy1TMlaCQinh",
-        "title": "RTA‑408 induces p38‑dependent apoptosis and suppresses cell viability in hepatocellular carcinoma cells.",
-        "summary": "RTA-408 kills hepatocellular carcinoma cells by triggering a protein called p38 to activate cell death pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42041104/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-28"
-      },
-      {
-        "id": "recmpw3VcIV8mf5VR",
-        "title": "Mutations in CHIP-associated genes at myeloid neoplasm diagnosis and risk of cardiovascular/cerebrovascular events.",
-        "summary": "Certain blood cancer mutations detected at diagnosis may increase patients' risk of heart attacks and strokes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42037246/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-28"
-      },
-      {
-        "id": "recC7RMElH24BxAU4",
-        "title": "Importin α characterizes a micronuclear environment associated with genomic instability in human cancer cells.",
-        "summary": "Importin α protein accumulates in specific micronuclei and marks regions excluded from DNA repair, revealing how cancer cells develop genomic instability.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41834705/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-28"
       }
@@ -695,6 +695,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-29"
+      },
+      {
+        "id": "recqg02tR5XU8wGCk",
+        "title": "Direct coupling and protective activation of DRP1 by the DNA-PKcs inhibitor KU-57788 synergizes with ferroptosis in anaplastic thyroid cancer cells.",
+        "summary": "KU-57788 kills aggressive thyroid cancer cells by damaging DNA and fragmenting mitochondria, with added ferroptosis inducers significantly boosting effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42049705/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Thyroid"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-29"
       },
@@ -832,20 +846,6 @@
         "title": "Prognostic significance of HLA-B leader matching status and its relationship with NK cell reconstitution in patients with hematological malignancies following haploidentical transplantation.",
         "summary": "HLA-B leader matching improves survival and NK cell recovery in myeloid cancer patients undergoing haploidentical stem cell transplantation.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41720450/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-28"
-      },
-      {
-        "id": "recDRCzlVTBu34rJZ",
-        "title": "MAP4K4 regulates the immune landscape of pancreatic tumor microenvironment and provides an opportunity for immunotherapy.",
-        "summary": "Blocking MAP4K4 in pancreatic cancer reduces immune-suppressing cells and, combined with immunotherapy, boosts cancer-fighting T cells and tumor shrinkage.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41707980/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -1076,11 +1076,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 19489,
-    "archive_supplements": 2160,
+    "archive_count": 19491,
+    "archive_supplements": 2161,
     "archive_off_label": 661,
     "archive_biomarkers": 11854,
-    "archive_trials": 4081,
+    "archive_trials": 4082,
     "archive_mind_body": 441
   }
 }
