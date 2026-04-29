@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29T09:02:59.374Z",
+  "last_updated": "2026-04-29T09:04:58.669Z",
   "categories": {
     "supplements": [
       {
@@ -299,6 +299,34 @@
         "added_date": "2026-04-29"
       },
       {
+        "id": "recom67gUjQ4m0wYT",
+        "title": "Enhancing immune response in advanced HCC with PVTT: rivaroxaban as a core adjuvant in combined therapy.",
+        "summary": "Rivaroxaban, a blood thinner, may boost immune response against advanced liver cancer by blocking a pathway that helps tumors evade immunity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42044974/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-29"
+      },
+      {
+        "id": "recqRp0q1TJyhg5mc",
+        "title": "Efficacy and related factors of levonorgestrel-releasing intrauterine system combined with metformin in fertility-preserving treatment for atypical endometrial hyperplasia and early endometrial cancer: A retrospective cohort study.",
+        "summary": "A hormone-releasing intrauterine device combined with metformin effectively treats early endometrial cancer while preserving fertility in women.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42037511/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-29"
+      },
+      {
         "id": "recasQZyYCsdeYx5x",
         "title": "Protein kinase Cι-driven macrophage infiltration mediates immunosuppression in non-small cell lung cancer.",
         "summary": "PKCι protein drives immune resistance in lung cancer by recruiting suppressive immune cells; blocking it restores immunotherapy effectiveness.",
@@ -389,34 +417,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/42035373/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-27"
-      },
-      {
-        "id": "recbSpsMFECGcWlLZ",
-        "title": "Therapeutic Repurposing of Avanafil Against Lipopolysaccharide-induced Depression and Autoimmune Hepatitis: Gut-brain-liver Axis Orchestration Via Regulation of TLR4/NF-κB/IDO and Nrf2/HO-1 Pathways.",
-        "summary": "Avanafil, a erectile dysfunction drug, reduced inflammation and improved depression-like symptoms and liver function in inflamed rats by restoring gut barrier integrity.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42034854/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-27"
-      },
-      {
-        "id": "recjiLtn0kvvLzK80",
-        "title": "Interleukin-1α (IL-1α) in pancreatic ductal adenocarcinoma: implications for immunotherapy and molecular biomarkers.",
-        "summary": "High IL-1α expression predicts poor pancreatic cancer outcomes and blocking it with drugs like anakinra combined with immunotherapy improves treatment response.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42033610/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
@@ -1069,10 +1069,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 19587,
+    "archive_count": 19588,
     "archive_supplements": 2180,
     "archive_off_label": 662,
-    "archive_biomarkers": 11898,
+    "archive_biomarkers": 11899,
     "archive_trials": 4114,
     "archive_mind_body": 441
   }
