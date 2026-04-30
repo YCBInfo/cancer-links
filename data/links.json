@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30T06:06:12.212Z",
+  "last_updated": "2026-04-30T06:06:35.698Z",
   "categories": {
     "supplements": [
       {
@@ -130,6 +130,34 @@
         "added_date": "2026-04-30"
       },
       {
+        "id": "rec8UWmRAVVkdaACF",
+        "title": "Exercise as supportive care in advanced cancer-related weight loss: a feasibility study comparing patients with and without severe weight loss.",
+        "summary": "Exercise may help advanced cancer patients manage severe weight loss, though benefits vary based on cachexia severity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42053853/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-30"
+      },
+      {
+        "id": "rec0mmz2b7d8nOPY4",
+        "title": "Resveratrol-mediated disruption of the CD73-adenosine-A2AR/A2BR axis induces antitumor activity in colon cancer cells.",
+        "summary": "Resveratrol kills colon cancer cells by blocking the adenosine pathway that normally suppresses immune responses against tumors.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42053794/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-30"
+      },
+      {
         "id": "rec92FZfvyaHvlrMt",
         "title": "The antimetastatic effects of calorie restriction are negated by voluntary exercise in an aggressive breast cancer mouse model.",
         "summary": "In triple-negative breast cancer mice, calorie restriction reduced metastasis, but adding exercise negated this protective effect.",
@@ -184,37 +212,23 @@
         "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-29"
-      },
-      {
-        "id": "rec1OC5Ih75TDzi6U",
-        "title": "Phytochemical-mediated green synthesis of selenium nanoparticles using Catharanthus roseus and their physicochemical characterization, biological evaluation, and molecular docking analysis.",
-        "summary": "Selenium nanoparticles made from a plant extract showed strong activity against hepatocellular carcinoma cells in laboratory tests.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42049942/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-29"
-      },
-      {
-        "id": "reckPYqehmjblBs7C",
-        "title": "Berberine enhances cisplatin efficacy in ehrlich ascites carcinoma via modulation of apoptotic pathway and efferocytosis.",
-        "summary": "Berberine enhances cisplatin's cancer-fighting ability in Ehrlich ascites carcinoma while reducing drug toxicity to the liver and kidneys.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42049890/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-29"
       }
     ],
     "off_label": [
+      {
+        "id": "recWbH1hKG0GsXH3p",
+        "title": "Alisertib exerts AURKA-independent antitumor activity in colon cancer by modulating immune-related pathways.",
+        "summary": "Alisertib fights colon cancer through immune-pathway activation independent of its primary AURKA target.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42053796/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-30"
+      },
       {
         "id": "rec7HpRf4yS1INEkq",
         "title": "The role of oxidative stress and antioxidant therapy in cisplatin neurotoxicity: preclinical evidence in the last decade.",
@@ -410,20 +424,6 @@
         "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-29"
-      },
-      {
-        "id": "recasQZyYCsdeYx5x",
-        "title": "Protein kinase Cι-driven macrophage infiltration mediates immunosuppression in non-small cell lung cancer.",
-        "summary": "PKCι protein drives immune resistance in lung cancer by recruiting suppressive immune cells; blocking it restores immunotherapy effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41720451/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-28"
       }
     ],
     "biomarkers": [
@@ -1071,10 +1071,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 19781,
+    "archive_count": 19782,
     "archive_supplements": 2189,
     "archive_off_label": 671,
-    "archive_biomarkers": 12043,
+    "archive_biomarkers": 12044,
     "archive_trials": 4144,
     "archive_mind_body": 442
   }
