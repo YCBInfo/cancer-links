@@ -1,7 +1,49 @@
 {
-  "last_updated": "2026-04-30T02:03:14.068Z",
+  "last_updated": "2026-04-30T06:03:23.334Z",
   "categories": {
     "supplements": [
+      {
+        "id": "recjaIG4gRMohr3cg",
+        "title": "Parthenolide inhibits the progression of intrahepatic cholangiocarcinoma by promoting ferroptosis through inhibiting UBD.",
+        "summary": "Parthenolide, a natural compound, slows intrahepatic cholangiocarcinoma growth by triggering cancer cell death through a specific molecular pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42050803/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-30"
+      },
+      {
+        "id": "recLDdkOCJ2IRlauc",
+        "title": "Resveratrol inhibits aerobic glycolysis and promotes cuproptosis in acute myeloid leukemia via the PI3K/AKT signaling pathway.",
+        "summary": "Resveratrol kills acute myeloid leukemia cells by blocking a growth pathway and triggering copper-dependent cell death.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42056286/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-30"
+      },
+      {
+        "id": "recAaPe1avPeGi6cq",
+        "title": "Targeting p38α, p38γ, and ERα with bioactive compounds from royal jelly for anti-breast cancer activity: A comprehensive in-silico study using fingerprint analysis, molecular dynamics, MEP, and PCA.",
+        "summary": "Royal jelly compounds chrysin, galangin, and naringin show promise against breast cancer by binding strongly to key cancer-related proteins.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41819753/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 13,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-30"
+      },
       {
         "id": "rec92FZfvyaHvlrMt",
         "title": "The antimetastatic effects of calorie restriction are negated by voluntary exercise in an aggressive breast cancer mouse model.",
@@ -161,48 +203,6 @@
         "title": "Exploiting autophagy-targeting natural compounds for potential antimicrobial actions.",
         "summary": "Natural compounds that activate or inhibit autophagy show promise as host-directed treatments to combat bacterial, viral, fungal, and parasitic infections.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42047332/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-29"
-      },
-      {
-        "id": "recF7VCLtLB2M7EcO",
-        "title": "The Human Gut Microbiome Metabolizes Diverse Bioactive Coumarins via α,β-Unsaturated Lactone Reduction.",
-        "summary": "Gut bacteria metabolize coumarin drugs through a single pathway, reducing their cancer-fighting effectiveness against melanoma cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42047214/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Melanoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-29"
-      },
-      {
-        "id": "recfaksgPXwmA1qLK",
-        "title": "An Updated Overview on Targeting Nrf2 by Natural Compounds Against Doxorubicin-Induced Cardiotoxicity.",
-        "summary": "Natural plant compounds activate Nrf2 to protect the heart from doxorubicin chemotherapy damage by reducing oxidative stress and cell death.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42046480/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-29"
-      },
-      {
-        "id": "recQiHiiLRtvnO3Um",
-        "title": "Oral nutritional supplements prescribed under clinical supervision for malnourished patients with cancer should be fully covered: narrative review.",
-        "summary": "Oral nutritional supplements under medical supervision should be fully covered for malnourished cancer patients, as they prevent malnutrition and improve outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41266145/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -427,6 +427,146 @@
     ],
     "biomarkers": [
       {
+        "id": "recjaIG4gRMohr3cg",
+        "title": "Parthenolide inhibits the progression of intrahepatic cholangiocarcinoma by promoting ferroptosis through inhibiting UBD.",
+        "summary": "Parthenolide, a natural compound, slows intrahepatic cholangiocarcinoma growth by triggering cancer cell death through a specific molecular pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42050803/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-30"
+      },
+      {
+        "id": "reczj7DynqTg5KfSW",
+        "title": "Cytochrome P450 1B1 directs pathogenic Th17 cell generation and autoimmune disease by fine-tuning redox homeostasis and mitochondrial integrity.",
+        "summary": "CYP1B1 protein drives harmful immune cells that cause colitis and colorectal cancer by controlling cellular energy and oxidative stress.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42054359/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-30"
+      },
+      {
+        "id": "recLDdkOCJ2IRlauc",
+        "title": "Resveratrol inhibits aerobic glycolysis and promotes cuproptosis in acute myeloid leukemia via the PI3K/AKT signaling pathway.",
+        "summary": "Resveratrol kills acute myeloid leukemia cells by blocking a growth pathway and triggering copper-dependent cell death.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42056286/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-30"
+      },
+      {
+        "id": "recAaPe1avPeGi6cq",
+        "title": "Targeting p38α, p38γ, and ERα with bioactive compounds from royal jelly for anti-breast cancer activity: A comprehensive in-silico study using fingerprint analysis, molecular dynamics, MEP, and PCA.",
+        "summary": "Royal jelly compounds chrysin, galangin, and naringin show promise against breast cancer by binding strongly to key cancer-related proteins.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41819753/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 13,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-30"
+      },
+      {
+        "id": "recveJf5ZiUgkEcf0",
+        "title": "UBE2C-orchestrated ubiquitination networks in cancer progression and therapy resistance.",
+        "summary": "UBE2C protein drives cancer progression and drug resistance by rewiring cellular protein networks across multiple cancer types.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41793850/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 10,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-04-30"
+      },
+      {
+        "id": "reckYxfrG59N8yirI",
+        "title": "Preparation and MR Imaging Study of a Recombinant Surface Antibody Superparamagnetic Iron Oxide Nanoparticle-EPC1 Molecular Probe for Hepatic Alveolar Echinococcosis.",
+        "summary": "Researchers developed a magnetic nanoparticle probe to improve MRI detection of a parasitic liver infection called hepatic alveolar echinococcosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41672495/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-30"
+      },
+      {
+        "id": "recdGr2upw5xqlt28",
+        "title": "Crosstalk between integrin signaling and NAD⁺ biosynthetic pathways promotes glycolysis, proliferation, survival, and tumor growth in triple-negative breast cancer.",
+        "summary": "Blocking integrin and NAD⁺ production pathways together dramatically suppresses triple-negative breast cancer tumor growth.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42056559/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-30"
+      },
+      {
+        "id": "recjvcN7zdzFHhJy5",
+        "title": "Safety and efficacy of intratumoural anti-CTLA4 with intravenous anti-PD1.",
+        "summary": "Injecting anti-CTLA4 directly into melanoma tumors combined with intravenous anti-PD1 improves safety while maintaining effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42056527/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Melanoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-30"
+      },
+      {
+        "id": "recEjVs38l15SXXEu",
+        "title": "Postprandial lipid metabolism durably enhances T cell immunity.",
+        "summary": "Eating before T cell collection enhances immune cell function and improves therapeutic effectiveness in cancer immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42056521/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-30"
+      },
+      {
+        "id": "recm368gDA5dn2pyp",
+        "title": "Evolutionary characterization of lung cancer metastasis.",
+        "summary": "Lung cancer metastases evolve significantly after spreading, with multiple tumors seeding each other and chromosomal instability enabling distant spread.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42056508/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-30"
+      },
+      {
         "id": "rec92FZfvyaHvlrMt",
         "title": "The antimetastatic effects of calorie restriction are negated by voluntary exercise in an aggressive breast cancer mouse model.",
         "summary": "In triple-negative breast cancer mice, calorie restriction reduced metastasis, but adding exercise negated this protective effect.",
@@ -495,146 +635,6 @@
         "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-29"
-      },
-      {
-        "id": "rec7qhcCDIb0q9TVt",
-        "title": "Synthesis and application of quercetin hybrids as potential anticancer agents in the treatment of ovarian cancer.",
-        "summary": "Researchers created modified quercetin compounds that effectively killed ovarian cancer cells while sparing normal cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42050114/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Ovarian"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-29"
-      },
-      {
-        "id": "reccfh521TLFfXnzP",
-        "title": "Counterfactual Reasoning for Mammogram Classification via Semantic Texture Masking.",
-        "summary": "AI systems for breast cancer detection rely heavily on surrounding tissue patterns rather than actual tumors, limiting their clinical trustworthiness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42050080/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-29"
-      },
-      {
-        "id": "recexAGw5UfvcVmj1",
-        "title": "Preclinical development of a mutant KRAS targeting therapeutic cancer vaccine.",
-        "summary": "Researchers developed a vaccine targeting common KRAS mutations in cancer, successfully triggering immune responses against tumor cells without affecting healthy tissue.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42050050/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-29"
-      },
-      {
-        "id": "rec1OC5Ih75TDzi6U",
-        "title": "Phytochemical-mediated green synthesis of selenium nanoparticles using Catharanthus roseus and their physicochemical characterization, biological evaluation, and molecular docking analysis.",
-        "summary": "Selenium nanoparticles made from a plant extract showed strong activity against hepatocellular carcinoma cells in laboratory tests.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42049942/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-29"
-      },
-      {
-        "id": "reckPYqehmjblBs7C",
-        "title": "Berberine enhances cisplatin efficacy in ehrlich ascites carcinoma via modulation of apoptotic pathway and efferocytosis.",
-        "summary": "Berberine enhances cisplatin's cancer-fighting ability in Ehrlich ascites carcinoma while reducing drug toxicity to the liver and kidneys.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42049890/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-29"
-      },
-      {
-        "id": "recDasbJSuDpDnMUk",
-        "title": "Elucidating the anti-colorectal cancer mechanism of Physalis Calyx seu Fructus extract via mass spectrometry-molecular networking and bioinformatics.",
-        "summary": "Physalis plant extract compounds luteolin and chrysoeriol show potential anti-colorectal cancer effects by targeting cell-cycle proteins.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42049863/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-29"
-      },
-      {
-        "id": "recLU2XHPjWrNVjn7",
-        "title": "Uptake in thyroid Tripterygium glycosides, enhances radioiodine cancer by promoting the expression and function of NIS.",
-        "summary": "Tripterygium glycosides restore thyroid cancer cells' ability to uptake radioiodine by reactivating a suppressed protein, enhancing treatment effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42049851/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Thyroid"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-29"
-      },
-      {
-        "id": "recqg02tR5XU8wGCk",
-        "title": "Direct coupling and protective activation of DRP1 by the DNA-PKcs inhibitor KU-57788 synergizes with ferroptosis in anaplastic thyroid cancer cells.",
-        "summary": "KU-57788 kills aggressive thyroid cancer cells by damaging DNA and fragmenting mitochondria, with added ferroptosis inducers significantly boosting effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42049705/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Thyroid"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-29"
-      },
-      {
-        "id": "rec28oBf7iGqTO1Xl",
-        "title": "TGM2-mediated serotonylation of GPX4 confers ferroptosis resistance to promote gastric tumorigenesis.",
-        "summary": "Serotonin promotes gastric cancer growth by activating TGM2, which protects cancer cells from ferroptosis through GPX4 modification.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42049702/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Stomach"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-29"
-      },
-      {
-        "id": "recY42ygSE5Brnh48",
-        "title": "Haematological and histopathological monitoring of monosodium glutamate-supplemented feeding in rainbow trout (Oncorhynchus mykiss): A possible modelling for a single health approach.",
-        "summary": "High-dose MSG in fish feed increases growth but causes liver damage and weakens antioxidant defenses in rainbow trout.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42049676/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-29"
       }
     ],
     "trials": [
@@ -649,6 +649,48 @@
           "Breast"
         ],
         "quality_score": 41,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-30"
+      },
+      {
+        "id": "recAArb9JjfqgyVWP",
+        "title": "Prospective evaluation of acute side effects profiles in moderately hypofractionated whole-pelvic radiotherapy for prostate cancer.",
+        "summary": "Study compares patient-reported and doctor-reported side effects from two prostate cancer radiation treatment approaches.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42051249/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-30"
+      },
+      {
+        "id": "recjvcN7zdzFHhJy5",
+        "title": "Safety and efficacy of intratumoural anti-CTLA4 with intravenous anti-PD1.",
+        "summary": "Injecting anti-CTLA4 directly into melanoma tumors combined with intravenous anti-PD1 improves safety while maintaining effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42056527/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Melanoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-30"
+      },
+      {
+        "id": "recEjVs38l15SXXEu",
+        "title": "Postprandial lipid metabolism durably enhances T cell immunity.",
+        "summary": "Eating before T cell collection enhances immune cell function and improves therapeutic effectiveness in cancer immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42056521/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-30"
       },
@@ -804,48 +846,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
-        "added_date": "2026-04-29"
-      },
-      {
-        "id": "recQiHiiLRtvnO3Um",
-        "title": "Oral nutritional supplements prescribed under clinical supervision for malnourished patients with cancer should be fully covered: narrative review.",
-        "summary": "Oral nutritional supplements under medical supervision should be fully covered for malnourished cancer patients, as they prevent malnutrition and improve outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41266145/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-29"
-      },
-      {
-        "id": "recwUdSd55JNimboO",
-        "title": "Mid-term effects of faecal immunochemical test screening on colorectal cancer incidence by tumour site.",
-        "summary": "FIT screening effectively reduces colorectal cancer incidence at both proximal and distal colon sites over fifteen years.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42049530/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-29"
-      },
-      {
-        "id": "rec7qFGtFwgOW2lHs",
-        "title": "A Phase I Study to Assess the Safety and Antitumor Activity of Autologous B7-H3 Chimeric Antigen Receptor T Cells in Previously Treated Extensive-Stage Small Cell Lung Cancer With Recurrent or Refractory Disease",
-        "summary": "Researchers are testing a new immunotherapy using modified T cells to treat small cell lung cancer and similar neuroendocrine cancers that haven't responded to standard treatments.",
-        "url": "https://clinicaltrials.gov/study/NCT07509034",
-        "source": "ClinicalTrials.gov",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 13,
-        "pub_date": "2026-04-28",
         "added_date": "2026-04-29"
       }
     ],
@@ -1069,11 +1069,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 19771,
-    "archive_supplements": 2186,
+    "archive_count": 19773,
+    "archive_supplements": 2187,
     "archive_off_label": 671,
     "archive_biomarkers": 12038,
-    "archive_trials": 4142,
+    "archive_trials": 4143,
     "archive_mind_body": 442
   }
 }
