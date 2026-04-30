@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30T09:05:55.694Z",
+  "last_updated": "2026-04-30T09:06:07.294Z",
   "categories": {
     "supplements": [
       {
@@ -329,6 +329,20 @@
         "added_date": "2026-04-30"
       },
       {
+        "id": "recV1Vbcm6xh85QII",
+        "title": "Rosuvastatin Ameliorates the Initiation and Progression of Lung Adenocarcinoma via Facilitating PLK1 Inhibition.",
+        "summary": "Rosuvastatin, a cholesterol drug, slows lung adenocarcinoma growth by blocking a protein called PLK1.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42052821/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-30"
+      },
+      {
         "id": "rec7HpRf4yS1INEkq",
         "title": "The role of oxidative stress and antioxidant therapy in cisplatin neurotoxicity: preclinical evidence in the last decade.",
         "summary": "Antioxidant therapy shows promise in protecting nerve cells from damage caused by cisplatin cancer treatment in animal studies.",
@@ -409,20 +423,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-29"
-      },
-      {
-        "id": "recom67gUjQ4m0wYT",
-        "title": "Enhancing immune response in advanced HCC with PVTT: rivaroxaban as a core adjuvant in combined therapy.",
-        "summary": "Rivaroxaban, a blood thinner, may boost immune response against advanced liver cancer by blocking a pathway that helps tumors evade immunity.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42044974/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Liver"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-29"
       }
@@ -1072,10 +1072,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 19877,
+    "archive_count": 19878,
     "archive_supplements": 2206,
     "archive_off_label": 673,
-    "archive_biomarkers": 12089,
+    "archive_biomarkers": 12090,
     "archive_trials": 4175,
     "archive_mind_body": 442
   }
