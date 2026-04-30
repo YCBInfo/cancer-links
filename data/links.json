@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30T09:03:59.159Z",
+  "last_updated": "2026-04-30T09:05:14.486Z",
   "categories": {
     "supplements": [
       {
@@ -314,6 +314,21 @@
         "added_date": "2026-04-30"
       },
       {
+        "id": "recbD2PksnnfbeKmH",
+        "title": "USP15 stabilizes c-Myc to drive sunitinib resistance by suppressing cuproptosis in clear cell renal cell carcinoma.",
+        "summary": "USP15 protein drives sunitinib resistance in kidney cancer by blocking copper-induced cell death; blocking USP15 restores drug sensitivity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42054210/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal",
+          "Kidney"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-30"
+      },
+      {
         "id": "rec7HpRf4yS1INEkq",
         "title": "The role of oxidative stress and antioxidant therapy in cisplatin neurotoxicity: preclinical evidence in the last decade.",
         "summary": "Antioxidant therapy shows promise in protecting nerve cells from damage caused by cisplatin cancer treatment in animal studies.",
@@ -408,20 +423,6 @@
           "Liver"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-29"
-      },
-      {
-        "id": "recqRp0q1TJyhg5mc",
-        "title": "Efficacy and related factors of levonorgestrel-releasing intrauterine system combined with metformin in fertility-preserving treatment for atypical endometrial hyperplasia and early endometrial cancer: A retrospective cohort study.",
-        "summary": "A hormone-releasing intrauterine device combined with metformin effectively treats early endometrial cancer while preserving fertility in women.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42037511/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-29"
       }
@@ -1071,10 +1072,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 19873,
+    "archive_count": 19874,
     "archive_supplements": 2206,
     "archive_off_label": 672,
-    "archive_biomarkers": 12087,
+    "archive_biomarkers": 12088,
     "archive_trials": 4174,
     "archive_mind_body": 442
   }
