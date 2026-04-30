@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30T06:04:45.955Z",
+  "last_updated": "2026-04-30T06:05:12.862Z",
   "categories": {
     "supplements": [
       {
@@ -102,6 +102,20 @@
         "added_date": "2026-04-30"
       },
       {
+        "id": "rech2GxmSVYTw37uv",
+        "title": "A Curcumin-Derived HSP70 Inhibitor Disrupts Lysosomal Function to Suppress Triple-Negative Breast Cancer Progression.",
+        "summary": "A curcumin-derived compound targets HSP70 protein to disrupt lysosomes, effectively suppressing triple-negative breast cancer growth and metastasis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42054987/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-30"
+      },
+      {
         "id": "rec92FZfvyaHvlrMt",
         "title": "The antimetastatic effects of calorie restriction are negated by voluntary exercise in an aggressive breast cancer mouse model.",
         "summary": "In triple-negative breast cancer mice, calorie restriction reduced metastasis, but adding exercise negated this protective effect.",
@@ -194,20 +208,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-29"
-      },
-      {
-        "id": "recLU2XHPjWrNVjn7",
-        "title": "Uptake in thyroid Tripterygium glycosides, enhances radioiodine cancer by promoting the expression and function of NIS.",
-        "summary": "Tripterygium glycosides restore thyroid cancer cells' ability to uptake radioiodine by reactivating a suppressed protein, enhancing treatment effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42049851/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Thyroid"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -725,6 +725,34 @@
         "added_date": "2026-04-30"
       },
       {
+        "id": "recXoPQ72A80vqsAE",
+        "title": "Design and Synthesis of USP1 Inhibitors: Synergistic Antitumor Activity with PARP Inhibitors in Triple-Negative Breast Cancer.",
+        "summary": "Researchers developed a new drug that blocks USP1 protein, which works synergistically with existing PARP inhibitors to fight triple-negative breast cancer more effectively.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42054575/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-30"
+      },
+      {
+        "id": "reccvvgT9KedXXPQ4",
+        "title": "TCRVβ-targeting antibody-drug conjugates as a novel strategy to eliminate malignant T cells in T cell cancers.",
+        "summary": "Researchers developed antibody-drug conjugates targeting specific T cell receptor variants to selectively kill cutaneous T cell lymphoma cancer cells while sparing healthy immune cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42054548/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lymphoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-30"
+      },
+      {
         "id": "reccIza2rHxsITXZj",
         "title": "Genome-wide association study of soybean germplasm derived from modern Canadian and Chinese soybean cultivars to identify novel genes conferring soybean cyst nematode resistance.",
         "summary": "Researchers identified new genes from Chinese soybeans that confer resistance to a devastating soybean disease, offering alternatives to overused resistance sources.",
@@ -815,34 +843,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/42048252/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-29"
-      },
-      {
-        "id": "recCOBVVYQpWQ4iHK",
-        "title": "Bi-Polar Bioenergetic Intervention via a Pathology Self-Adaptive Single-Atom Nanocatalyst for Diabetic Tumor Postoperative Management.",
-        "summary": "A platinum nanocatalyst selectively disrupts tumor metabolism while healing diabetic wounds after melanoma surgery, preventing recurrence safely.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42047938/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Melanoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-29"
-      },
-      {
-        "id": "rechkvGj1sjeLxXN2",
-        "title": "Toward Precision Psychiatry: Using Clinical and Pharmacokinetic Data to Increase Antidepressant Dose or Change Treatment in Late-Life Depression.",
-        "summary": "Researchers developed decision tools using clinical and drug metabolism data to help doctors choose better antidepressant treatments for older patients with depression.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42047285/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
         "cancer_types": [
           "General"
         ],
@@ -1071,10 +1071,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 19776,
+    "archive_count": 19777,
     "archive_supplements": 2189,
     "archive_off_label": 671,
-    "archive_biomarkers": 12039,
+    "archive_biomarkers": 12040,
     "archive_trials": 4143,
     "archive_mind_body": 442
   }
