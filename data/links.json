@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29T12:56:58.699Z",
+  "last_updated": "2026-04-30T02:03:14.068Z",
   "categories": {
     "supplements": [
       {
@@ -639,6 +639,20 @@
     ],
     "trials": [
       {
+        "id": "recX9y3Gj5Osoz4NK",
+        "title": "Efficacy and safety of acupuncture for breast cancer-related insomnia: a systematic review and meta-analysis.",
+        "summary": "Acupuncture may improve sleep quality in breast cancer patients with insomnia, though evidence strength remains low due to methodological limitations.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42049276/",
+        "source": "PubMed",
+        "category": "Mind-Body & Spirituality",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 41,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-30"
+      },
+      {
         "id": "reccIza2rHxsITXZj",
         "title": "Genome-wide association study of soybean germplasm derived from modern Canadian and Chinese soybean cultivars to identify novel genes conferring soybean cyst nematode resistance.",
         "summary": "Researchers identified new genes from Chinese soybeans that confer resistance to a devastating soybean disease, offering alternatives to overused resistance sources.",
@@ -833,23 +847,23 @@
         "quality_score": 13,
         "pub_date": "2026-04-28",
         "added_date": "2026-04-29"
-      },
-      {
-        "id": "rec7i0FbyUdxqfxyp",
-        "title": "A Phase 3, Randomized, Open-label, Multicenter Clinical Study to Evaluate the Safety and Efficacy of MK-1084, Cetuximab, and mFOLFOX6 Versus mFOLFOX6 With or Without Bevacizumab as First-line Treatment of Participants With KRAS G12C-mutant, Locally Advanced Unresectable or Metastatic Colorectal Cancer (KANDLELIT-012)",
-        "summary": "Study tests adding calderasib and cetuximab to standard chemotherapy for KRAS G12C-mutant metastatic colorectal cancer.",
-        "url": "https://clinicaltrials.gov/study/NCT06997497",
-        "source": "ClinicalTrials.gov",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 13,
-        "pub_date": "2026-04-28",
-        "added_date": "2026-04-29"
       }
     ],
     "mind_body": [
+      {
+        "id": "recX9y3Gj5Osoz4NK",
+        "title": "Efficacy and safety of acupuncture for breast cancer-related insomnia: a systematic review and meta-analysis.",
+        "summary": "Acupuncture may improve sleep quality in breast cancer patients with insomnia, though evidence strength remains low due to methodological limitations.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42049276/",
+        "source": "PubMed",
+        "category": "Mind-Body & Spirituality",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 41,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-30"
+      },
       {
         "id": "recUQ17tJYzHrVRpB",
         "title": "Spiritual Well-Being and Hope in Oncology Patients.",
@@ -1045,20 +1059,6 @@
         "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-24"
-      },
-      {
-        "id": "reclgbbgnCYHI5qhh",
-        "title": "Five-year longitudinal changes in social, economic, and psychosocial wellbeing among young women with breast cancer in Mexico.",
-        "summary": "Young breast cancer survivors in Mexico experience significant long-term challenges across work, relationships, finances, and mental health over five years.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42024257/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-24"
       }
     ]
   },
@@ -1069,11 +1069,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 19770,
+    "archive_count": 19771,
     "archive_supplements": 2186,
     "archive_off_label": 671,
     "archive_biomarkers": 12038,
     "archive_trials": 4142,
-    "archive_mind_body": 441
+    "archive_mind_body": 442
   }
 }
