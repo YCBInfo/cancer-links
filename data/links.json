@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30T06:05:39.156Z",
+  "last_updated": "2026-04-30T06:05:50.294Z",
   "categories": {
     "supplements": [
       {
@@ -767,6 +767,34 @@
         "added_date": "2026-04-30"
       },
       {
+        "id": "recse3iOHqYU30y8b",
+        "title": "High Nasopharyngeal SARS-CoV-2 Load and Delayed Clearance in Hospitalized Patients With Blood Autoantibodies Neutralizing Type I Interferons.",
+        "summary": "Patients with blood antibodies blocking interferon had higher virus levels and slower viral clearance during COVID-19 hospitalization.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42053985/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-30"
+      },
+      {
+        "id": "rec6u6KjdZntoz0Uz",
+        "title": "Population Pharmacokinetics of Melphalan in Pediatric Patients Undergoing Autologous Hematopoietic Stem Cell Transplantation with Various Conditioning Regimens.",
+        "summary": "Researchers developed a dosing model for melphalan, a chemotherapy drug used in stem cell transplants for pediatric cancer patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42053946/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-30"
+      },
+      {
         "id": "reccIza2rHxsITXZj",
         "title": "Genome-wide association study of soybean germplasm derived from modern Canadian and Chinese soybean cultivars to identify novel genes conferring soybean cyst nematode resistance.",
         "summary": "Researchers identified new genes from Chinese soybeans that confer resistance to a devastating soybean disease, offering alternatives to overused resistance sources.",
@@ -819,34 +847,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-29"
-      },
-      {
-        "id": "recqg02tR5XU8wGCk",
-        "title": "Direct coupling and protective activation of DRP1 by the DNA-PKcs inhibitor KU-57788 synergizes with ferroptosis in anaplastic thyroid cancer cells.",
-        "summary": "KU-57788 kills aggressive thyroid cancer cells by damaging DNA and fragmenting mitochondria, with added ferroptosis inducers significantly boosting effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42049705/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Thyroid"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-29"
-      },
-      {
-        "id": "recTEA2QrGKxB2UvZ",
-        "title": "ENO1 promotes acute myeloid leukemia progression through SCD1-mediated lipid metabolism reprogramming.",
-        "summary": "ENO1 protein drives acute myeloid leukemia progression by increasing fatty acid production, and blocking this pathway with an SCD1 inhibitor restores chemotherapy effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42048629/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-29"
       }
@@ -1071,11 +1071,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 19779,
+    "archive_count": 19780,
     "archive_supplements": 2189,
     "archive_off_label": 671,
     "archive_biomarkers": 12042,
-    "archive_trials": 4143,
+    "archive_trials": 4144,
     "archive_mind_body": 442
   }
 }
