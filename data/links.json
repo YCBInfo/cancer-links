@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30T06:11:48.780Z",
+  "last_updated": "2026-04-30T06:12:32.510Z",
   "categories": {
     "supplements": [
       {
@@ -244,6 +244,20 @@
         "added_date": "2026-04-30"
       },
       {
+        "id": "recp3nWSd7vPnJyoy",
+        "title": "Preparation of CPD12C15 hyaluronic acid nanoparticles, a novel glycolytic inhibitor and preliminary pharmacologic study on anti-pancreatic cancer.",
+        "summary": "Novel nanoparticles delivering CPD12C15 with copper inhibit pancreatic cancer growth by blocking the metabolic pathway that drives drug resistance.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42055152/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Pancreatic"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-04-30"
+      },
+      {
         "id": "rec7HpRf4yS1INEkq",
         "title": "The role of oxidative stress and antioxidant therapy in cisplatin neurotoxicity: preclinical evidence in the last decade.",
         "summary": "Antioxidant therapy shows promise in protecting nerve cells from damage caused by cisplatin cancer treatment in animal studies.",
@@ -408,20 +422,6 @@
           "Leukemia"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-29"
-      },
-      {
-        "id": "recBrhFk7ehCU1KN5",
-        "title": "Tocilizumab Mitigates Immune Checkpoint Inhibitor-Induced Colitis and Inhibits Tumor Growth by Targeting the IL-6-JAK2-STAT3 Signaling Pathway.",
-        "summary": "Tocilizumab reduces gut inflammation caused by cancer immunotherapy while slowing tumor growth by blocking a specific inflammatory pathway.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42051049/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-29"
       }
@@ -1071,11 +1071,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 19815,
+    "archive_count": 19816,
     "archive_supplements": 2200,
     "archive_off_label": 672,
     "archive_biomarkers": 12064,
-    "archive_trials": 4145,
+    "archive_trials": 4146,
     "archive_mind_body": 442
   }
 }
