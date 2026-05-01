@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-01T09:06:59.582Z",
+  "last_updated": "2026-05-01T09:07:12.123Z",
   "categories": {
     "supplements": [
       {
@@ -398,6 +398,20 @@
         "added_date": "2026-05-01"
       },
       {
+        "id": "recbdf81i5LGzZFhk",
+        "title": "Repurposing Hetrombopag for Multiple Myeloma by Targeting PNPO: A Celastrol-Inspired Approach.",
+        "summary": "Researchers identified hetrombopag as a drug that blocks PNPO, an enzyme overactive in multiple myeloma, stopping cancer cell growth and extending patient survival.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41914238/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 10,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-05-01"
+      },
+      {
         "id": "recWbH1hKG0GsXH3p",
         "title": "Alisertib exerts AURKA-independent antitumor activity in colon cancer by modulating immune-related pathways.",
         "summary": "Alisertib fights colon cancer through immune-pathway activation independent of its primary AURKA target.",
@@ -408,20 +422,6 @@
           "Colorectal"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-30"
-      },
-      {
-        "id": "rechDrwwkRImBgKbf",
-        "title": "Investigation of the nitric oxide signaling pathway induced by ezetimibe on renal injury in streptozotocin-induced diabetic rat: role of anti-oxidative and anti-inflammatory effects.",
-        "summary": "Ezetimibe, a cholesterol drug, reduced kidney damage in diabetic rats by increasing nitric oxide and reducing inflammation and oxidative stress.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42050925/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-30"
       }
@@ -1074,11 +1074,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 19957,
+    "archive_count": 19965,
     "archive_supplements": 2208,
-    "archive_off_label": 681,
-    "archive_biomarkers": 12120,
-    "archive_trials": 4214,
+    "archive_off_label": 682,
+    "archive_biomarkers": 12124,
+    "archive_trials": 4217,
     "archive_mind_body": 442
   }
 }
