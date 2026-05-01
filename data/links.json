@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-01T07:07:05.870Z",
+  "last_updated": "2026-05-01T07:07:11.679Z",
   "categories": {
     "supplements": [
       {
@@ -570,6 +570,20 @@
         "added_date": "2026-05-01"
       },
       {
+        "id": "recQWVySO7uG41mId",
+        "title": "The ENDOCancer-DATA: the Surveillance, Epidemiology, and End Results Database Program on Endometrial Cancer in the Italian Population",
+        "summary": "Italian study collecting clinical data from 10,000 endometrial cancer patients to analyze treatment outcomes and molecular characteristics.",
+        "url": "https://clinicaltrials.gov/study/NCT07558889",
+        "source": "ClinicalTrials.gov",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 10,
+        "pub_date": "2026-04-30",
+        "added_date": "2026-05-01"
+      },
+      {
         "id": "recjaIG4gRMohr3cg",
         "title": "Parthenolide inhibits the progression of intrahepatic cholangiocarcinoma by promoting ferroptosis through inhibiting UBD.",
         "summary": "Parthenolide, a natural compound, slows intrahepatic cholangiocarcinoma growth by triggering cancer cell death through a specific molecular pathway.",
@@ -622,20 +636,6 @@
           "Breast"
         ],
         "quality_score": 13,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-04-30"
-      },
-      {
-        "id": "recveJf5ZiUgkEcf0",
-        "title": "UBE2C-orchestrated ubiquitination networks in cancer progression and therapy resistance.",
-        "summary": "UBE2C protein drives cancer progression and drug resistance by rewiring cellular protein networks across multiple cancer types.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41793850/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
         "pub_date": "2026-03-01",
         "added_date": "2026-04-30"
       }
@@ -1073,11 +1073,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 19917,
+    "archive_count": 19918,
     "archive_supplements": 2207,
     "archive_off_label": 676,
     "archive_biomarkers": 12106,
-    "archive_trials": 4194,
+    "archive_trials": 4195,
     "archive_mind_body": 442
   }
 }
