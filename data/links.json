@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-01T07:06:40.134Z",
+  "last_updated": "2026-05-01T07:06:46.411Z",
   "categories": {
     "supplements": [
       {
@@ -244,6 +244,20 @@
         "added_date": "2026-05-01"
       },
       {
+        "id": "rec43HG8SI4maRek6",
+        "title": "Topical Ruxolitinib as a Treatment of Anti-PD1 Induced Lichenoid Skin Toxicities: a Prospective Single-center Pilot Study",
+        "summary": "Topical ruxolitinib cream may effectively treat skin rashes caused by anti-PD1 cancer immunotherapy, according to this pilot study of 22 patients.",
+        "url": "https://clinicaltrials.gov/study/NCT06399029",
+        "source": "ClinicalTrials.gov",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 10,
+        "pub_date": "2026-04-30",
+        "added_date": "2026-05-01"
+      },
+      {
         "id": "recWbH1hKG0GsXH3p",
         "title": "Alisertib exerts AURKA-independent antitumor activity in colon cancer by modulating immune-related pathways.",
         "summary": "Alisertib fights colon cancer through immune-pathway activation independent of its primary AURKA target.",
@@ -409,20 +423,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-29"
-      },
-      {
-        "id": "recPXvtHIdx5s8VIq",
-        "title": "Metformin in prostate cancer: a context-dependent antitumour strategy driven by metabolic vulnerability and signalling network.",
-        "summary": "Metformin may help prevent prostate cancer by disrupting cancer cell energy production and signaling, but benefits vary by disease stage and patient type.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42047898/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Prostate"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-29"
       }
@@ -1073,11 +1073,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 19909,
+    "archive_count": 19912,
     "archive_supplements": 2207,
     "archive_off_label": 676,
-    "archive_biomarkers": 12104,
-    "archive_trials": 4188,
+    "archive_biomarkers": 12106,
+    "archive_trials": 4189,
     "archive_mind_body": 442
   }
 }
