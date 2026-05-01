@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-01T09:03:32.380Z",
+  "last_updated": "2026-05-01T09:04:59.742Z",
   "categories": {
     "supplements": [
       {
@@ -342,6 +342,34 @@
         "added_date": "2026-05-01"
       },
       {
+        "id": "reclWGOamsDOBtYO5",
+        "title": "Metformin Induces PARP1-mediated Cell Death in NPC/HK1 Human Nasopharyngeal Carcinoma Cells.",
+        "summary": "Metformin kills nasopharyngeal cancer cells by triggering a DNA repair protein called PARP1 to cause cell death.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42049333/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-05-01"
+      },
+      {
+        "id": "rec8GnErhW2mAJzVl",
+        "title": "Imipramine Targets Apoptosis, Metastasis, and EGFR/SRC-mediated EMT in Oral Cancer Cells.",
+        "summary": "Imipramine, an antidepressant drug, kills oral cancer cells and prevents their spread by blocking key growth signals.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42049326/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-05-01"
+      },
+      {
         "id": "recWbH1hKG0GsXH3p",
         "title": "Alisertib exerts AURKA-independent antitumor activity in colon cancer by modulating immune-related pathways.",
         "summary": "Alisertib fights colon cancer through immune-pathway activation independent of its primary AURKA target.",
@@ -392,34 +420,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-30"
-      },
-      {
-        "id": "recBhC86IaAjMBhTM",
-        "title": "Inhibition of angiogenesis by propranolol in infantile hemangiomas via lncRNA NEAT1-mediated miR-194-5p/TRAF6/NF-κB pathway.",
-        "summary": "Propranolol treats infantile hemangiomas by blocking blood vessel growth through a specific genetic pathway involving NEAT1.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42056535/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-30"
-      },
-      {
-        "id": "recfW0ur3eMYhbZO7",
-        "title": "Integrative systems biology and drug repurposing reveal key regulatory hubs and a prognostic signature in gastric cancer.",
-        "summary": "Researchers identified key regulatory genes and prognostic markers in gastric cancer using drug repurposing to improve treatment options.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42053674/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Stomach"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -1074,8 +1074,8 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 19948,
-    "archive_supplements": 2207,
+    "archive_count": 19949,
+    "archive_supplements": 2208,
     "archive_off_label": 676,
     "archive_biomarkers": 12118,
     "archive_trials": 4213,
