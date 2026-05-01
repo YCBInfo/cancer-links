@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-01T07:07:38.848Z",
+  "last_updated": "2026-05-01T07:07:49.561Z",
   "categories": {
     "supplements": [
       {
@@ -598,6 +598,21 @@
         "added_date": "2026-05-01"
       },
       {
+        "id": "recIRqpMrn8yy9MMY",
+        "title": "Manipulation of the Enteral Microbiome by Fecal Microbiota Transplantation Among Adult Patients With Malignant Hematological Diseases",
+        "summary": "Fecal microbiota transplantation restores healthy gut bacteria in blood cancer patients damaged by chemotherapy, reducing infections and improving quality of life.",
+        "url": "https://clinicaltrials.gov/study/NCT07172191",
+        "source": "ClinicalTrials.gov",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Leukemia",
+          "Lymphoma"
+        ],
+        "quality_score": 13,
+        "pub_date": "2026-04-30",
+        "added_date": "2026-05-01"
+      },
+      {
         "id": "recjaIG4gRMohr3cg",
         "title": "Parthenolide inhibits the progression of intrahepatic cholangiocarcinoma by promoting ferroptosis through inhibiting UBD.",
         "summary": "Parthenolide, a natural compound, slows intrahepatic cholangiocarcinoma growth by triggering cancer cell death through a specific molecular pathway.",
@@ -620,20 +635,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-30"
-      },
-      {
-        "id": "recLDdkOCJ2IRlauc",
-        "title": "Resveratrol inhibits aerobic glycolysis and promotes cuproptosis in acute myeloid leukemia via the PI3K/AKT signaling pathway.",
-        "summary": "Resveratrol kills acute myeloid leukemia cells by blocking a growth pathway and triggering copper-dependent cell death.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42056286/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -1073,11 +1074,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 19921,
+    "archive_count": 19922,
     "archive_supplements": 2207,
     "archive_off_label": 676,
     "archive_biomarkers": 12107,
-    "archive_trials": 4197,
+    "archive_trials": 4198,
     "archive_mind_body": 442
   }
 }
