@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-01T09:10:36.640Z",
+  "last_updated": "2026-05-01T09:10:49.024Z",
   "categories": {
     "supplements": [
       {
@@ -49,6 +49,20 @@
         "title": "Kaempferol ameliorates PCOS by alleviating metabolic and endocrine abnormalities as well as oxidative stress.",
         "summary": "Kaempferol, a plant compound, reduces hormonal imbalances, insulin resistance, and oxidative stress in rats with polycystic ovary syndrome.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41747951/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 10,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-05-01"
+      },
+      {
+        "id": "recOAkAwEM5Jo39DC",
+        "title": "Protective effects of dihydroartemisinin against sterile inflammation and oxidative stress in alveolar macrophages.",
+        "summary": "Dihydroartemisinin, derived from Artemisia annua, protects lung cells from oxidative stress and inflammation in acute lung injury.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41722624/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -196,20 +210,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-30"
-      },
-      {
-        "id": "rec0mmz2b7d8nOPY4",
-        "title": "Resveratrol-mediated disruption of the CD73-adenosine-A2AR/A2BR axis induces antitumor activity in colon cancer cells.",
-        "summary": "Resveratrol kills colon cancer cells by blocking the adenosine pathway that normally suppresses immune responses against tumors.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42053794/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-30"
       }
@@ -412,18 +412,18 @@
         "added_date": "2026-05-01"
       },
       {
-        "id": "recWbH1hKG0GsXH3p",
-        "title": "Alisertib exerts AURKA-independent antitumor activity in colon cancer by modulating immune-related pathways.",
-        "summary": "Alisertib fights colon cancer through immune-pathway activation independent of its primary AURKA target.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42053796/",
+        "id": "rec74H90XdnIuHrxg",
+        "title": "Mebendazole impairs the expression and function of enzymes in nucleotide metabolism pathways, leading to Selective Cytotoxicity, Cell Cycle Arrest, and Damage to Cell Morphology in Gastric Cancer.",
+        "summary": "Mebendazole blocks nucleotide-making enzymes in gastric cancer cells, stopping their growth while sparing healthy cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41720422/",
         "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
+        "category": "Off-Label Medications",
         "cancer_types": [
-          "Colorectal"
+          "Stomach"
         ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-30"
+        "quality_score": 13,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-05-01"
       }
     ],
     "biomarkers": [
@@ -1074,10 +1074,10 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 19983,
+    "archive_count": 19984,
     "archive_supplements": 2209,
     "archive_off_label": 685,
-    "archive_biomarkers": 12129,
+    "archive_biomarkers": 12130,
     "archive_trials": 4226,
     "archive_mind_body": 442
   }
