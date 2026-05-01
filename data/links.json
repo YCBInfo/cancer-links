@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30T11:55:17.852Z",
+  "last_updated": "2026-05-01T02:03:20.087Z",
   "categories": {
     "supplements": [
       {
@@ -216,6 +216,20 @@
     ],
     "off_label": [
       {
+        "id": "recQBTUhzLN8pklMf",
+        "title": "Intranasal Ketamine for Existential Distress in Advanced Cancer.",
+        "summary": "Intranasal ketamine rapidly reduces depression and existential distress in advanced cancer patients receiving palliative care.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42055096/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-05-01"
+      },
+      {
         "id": "recWbH1hKG0GsXH3p",
         "title": "Alisertib exerts AURKA-independent antitumor activity in colon cancer by modulating immune-related pathways.",
         "summary": "Alisertib fights colon cancer through immune-pathway activation independent of its primary AURKA target.",
@@ -403,20 +417,6 @@
         "title": "Repurposing metformin for choriocarcinoma: targeting the AMPK/mTOR pathway.",
         "summary": "Metformin, a diabetes drug, reduces choriocarcinoma growth by targeting cancer cell pathways, offering a new treatment option.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42047768/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-29"
-      },
-      {
-        "id": "recYdIWQC2jCaOwMH",
-        "title": "Mirtazapine and olanzapine for cancer-related psychological distress in advanced oral cancer: efficacy and safety prospective study.",
-        "summary": "Mirtazapine and olanzapine effectively reduce anxiety and depression in advanced oral cancer patients with visible disfigurement and social challenges.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41345030/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -642,6 +642,62 @@
     ],
     "trials": [
       {
+        "id": "recdu2WEwJ9pcyJzu",
+        "title": "Prescribing practices for menopausal hormone therapy in France in 2025: A national online survey (MENOPRAT).",
+        "summary": "French gynecologists' hormone therapy prescribing practices for menopause vary, with some using alternatives due to perceived barriers.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41886876/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-05-01"
+      },
+      {
+        "id": "rectO5leEsoRMDq2A",
+        "title": "A Qualitative Study of the Implementation of Referral Coordination for Specialty Care Referrals in the Veterans Health Administration.",
+        "summary": "The VA implemented a referral coordination system where clinicians review and discuss specialty care options with veterans before scheduling appointments.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41853896/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-05-01"
+      },
+      {
+        "id": "recesWICqM6zP0NTp",
+        "title": "Perspectives and Requirements of Patients with Prostate Cancer on Mobile Health Interventions During Androgen Deprivation Therapy: A Descriptive Qualitative Study.",
+        "summary": "Prostate cancer patients undergoing hormone therapy want mobile health tools to manage their treatment side effects and improve daily care.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40059384/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-05-01"
+      },
+      {
+        "id": "recQBTUhzLN8pklMf",
+        "title": "Intranasal Ketamine for Existential Distress in Advanced Cancer.",
+        "summary": "Intranasal ketamine rapidly reduces depression and existential distress in advanced cancer patients receiving palliative care.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42055096/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-05-01"
+      },
+      {
         "id": "recX9y3Gj5Osoz4NK",
         "title": "Efficacy and safety of acupuncture for breast cancer-related insomnia: a systematic review and meta-analysis.",
         "summary": "Acupuncture may improve sleep quality in breast cancer patients with insomnia, though evidence strength remains low due to methodological limitations.",
@@ -794,65 +850,23 @@
         "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-30"
-      },
-      {
-        "id": "rec8UWmRAVVkdaACF",
-        "title": "Exercise as supportive care in advanced cancer-related weight loss: a feasibility study comparing patients with and without severe weight loss.",
-        "summary": "Exercise may help advanced cancer patients manage severe weight loss, though benefits vary based on cachexia severity.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42053853/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-30"
-      },
-      {
-        "id": "reclsrldxo1nHGpHT",
-        "title": "Cold Laser vs Excimer Laser in Lower Limb Atherosclerosis: A Prospective Multicenter Randomized Trial.",
-        "summary": "A new cold laser technique shows promise for treating blocked arteries in the legs more safely and effectively than existing methods.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42055649/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-30"
-      },
-      {
-        "id": "recBCgejXDPyEnhLd",
-        "title": "Evaluation of 18F-Fluciclovine PET-MRI as a Biomarker of Response in Pediatric and Young Adult Patients With Low Grade Gliomas (LGG)",
-        "summary": "Researchers are testing whether a new imaging scan can track treatment response in children with low-grade brain tumors.",
-        "url": "https://clinicaltrials.gov/study/NCT05555550",
-        "source": "ClinicalTrials.gov",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Brain"
-        ],
-        "quality_score": 13,
-        "pub_date": "2026-04-29",
-        "added_date": "2026-04-30"
-      },
-      {
-        "id": "rectkXkKEFikwzgpH",
-        "title": "A Prospective, Multicenter, Phase 2 Study of Mosunetuzumab in Combination With Zeprumetostat for the Treatment of Follicular Lymphoma",
-        "summary": "Researchers are testing a combination of two drugs, mosunetuzumab and zeprumetostat, to treat follicular lymphoma in 80 patients across three disease stages.",
-        "url": "https://clinicaltrials.gov/study/NCT07555470",
-        "source": "ClinicalTrials.gov",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Lymphoma"
-        ],
-        "quality_score": 19,
-        "pub_date": "2026-04-29",
-        "added_date": "2026-04-30"
       }
     ],
     "mind_body": [
+      {
+        "id": "recQBTUhzLN8pklMf",
+        "title": "Intranasal Ketamine for Existential Distress in Advanced Cancer.",
+        "summary": "Intranasal ketamine rapidly reduces depression and existential distress in advanced cancer patients receiving palliative care.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42055096/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-05-01"
+      },
       {
         "id": "recX9y3Gj5Osoz4NK",
         "title": "Efficacy and safety of acupuncture for breast cancer-related insomnia: a systematic review and meta-analysis.",
@@ -1048,20 +1062,6 @@
         "quality_score": 24,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-25"
-      },
-      {
-        "id": "recAWue1TsdyiQoPl",
-        "title": "Online self-compassion-based interventions on patient outcomes in patients with cancer: a systematic review.",
-        "summary": "Online self-compassion programs may improve outcomes for cancer patients, though more research is needed to confirm effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42020858/",
-        "source": "PubMed",
-        "category": "Mind-Body & Spirituality",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 19,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-24"
       }
     ]
   },
@@ -1072,11 +1072,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 19896,
+    "archive_count": 19897,
     "archive_supplements": 2207,
     "archive_off_label": 674,
     "archive_biomarkers": 12104,
-    "archive_trials": 4177,
+    "archive_trials": 4178,
     "archive_mind_body": 442
   }
 }
