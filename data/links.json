@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-01T07:05:32.437Z",
+  "last_updated": "2026-05-01T07:05:50.807Z",
   "categories": {
     "supplements": [
       {
@@ -514,6 +514,34 @@
         "added_date": "2026-05-01"
       },
       {
+        "id": "recKqBbzvmcf5UAGU",
+        "title": "A Phase 2 Study of Olaparib and Cediranib for the Treatment of Recurrent Ovarian Cancer",
+        "summary": "A Phase 2 trial tests combining olaparib and cediranib to treat recurrent ovarian, peritoneal, and fallopian tube cancer.",
+        "url": "https://clinicaltrials.gov/study/NCT02345265",
+        "source": "ClinicalTrials.gov",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Ovarian"
+        ],
+        "quality_score": 19,
+        "pub_date": "2026-04-30",
+        "added_date": "2026-05-01"
+      },
+      {
+        "id": "recxhKC9fbVBCmB20",
+        "title": "Predictive Value of Ariscat Risk Index In The Development of Postoperative Pulmonary Complication After Major Abdominal Cancer Surgery",
+        "summary": "ARISCAT risk index effectively predicts lung complications after major abdominal cancer surgery in patients undergoing general anesthesia.",
+        "url": "https://clinicaltrials.gov/study/NCT04663958",
+        "source": "ClinicalTrials.gov",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 10,
+        "pub_date": "2026-04-30",
+        "added_date": "2026-05-01"
+      },
+      {
         "id": "recjaIG4gRMohr3cg",
         "title": "Parthenolide inhibits the progression of intrahepatic cholangiocarcinoma by promoting ferroptosis through inhibiting UBD.",
         "summary": "Parthenolide, a natural compound, slows intrahepatic cholangiocarcinoma growth by triggering cancer cell death through a specific molecular pathway.",
@@ -608,34 +636,6 @@
           "Breast"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-30"
-      },
-      {
-        "id": "recjvcN7zdzFHhJy5",
-        "title": "Safety and efficacy of intratumoural anti-CTLA4 with intravenous anti-PD1.",
-        "summary": "Injecting anti-CTLA4 directly into melanoma tumors combined with intravenous anti-PD1 improves safety while maintaining effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42056527/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Melanoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-30"
-      },
-      {
-        "id": "recEjVs38l15SXXEu",
-        "title": "Postprandial lipid metabolism durably enhances T cell immunity.",
-        "summary": "Eating before T cell collection enhances immune cell function and improves therapeutic effectiveness in cancer immunotherapy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42056521/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-30"
       }
@@ -1073,11 +1073,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 19902,
+    "archive_count": 19904,
     "archive_supplements": 2207,
-    "archive_off_label": 675,
+    "archive_off_label": 676,
     "archive_biomarkers": 12104,
-    "archive_trials": 4182,
+    "archive_trials": 4183,
     "archive_mind_body": 442
   }
 }
