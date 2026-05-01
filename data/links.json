@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-01T07:08:22.662Z",
+  "last_updated": "2026-05-01T07:08:33.412Z",
   "categories": {
     "supplements": [
       {
@@ -613,6 +613,20 @@
         "added_date": "2026-05-01"
       },
       {
+        "id": "recY4dQgqZR3mfV4G",
+        "title": "A Randomized Phase II Study of Neo-adjuvant Chemo/Immunotherapy Versus Chemotherapy Alone for the Treatment of Locally Advanced and Potentially Resectable Non-small Cell Lung Cancer (NSCLC) Patients.",
+        "summary": "A study comparing chemotherapy plus immunotherapy versus chemotherapy alone in lung cancer patients to improve complete tumor elimination before surgery.",
+        "url": "https://clinicaltrials.gov/study/NCT03838159",
+        "source": "ClinicalTrials.gov",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 19,
+        "pub_date": "2026-04-30",
+        "added_date": "2026-05-01"
+      },
+      {
         "id": "recjaIG4gRMohr3cg",
         "title": "Parthenolide inhibits the progression of intrahepatic cholangiocarcinoma by promoting ferroptosis through inhibiting UBD.",
         "summary": "Parthenolide, a natural compound, slows intrahepatic cholangiocarcinoma growth by triggering cancer cell death through a specific molecular pathway.",
@@ -623,20 +637,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-30"
-      },
-      {
-        "id": "reczj7DynqTg5KfSW",
-        "title": "Cytochrome P450 1B1 directs pathogenic Th17 cell generation and autoimmune disease by fine-tuning redox homeostasis and mitochondrial integrity.",
-        "summary": "CYP1B1 protein drives harmful immune cells that cause colitis and colorectal cancer by controlling cellular energy and oxidative stress.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42054359/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-30"
       }
@@ -1074,11 +1074,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 19925,
+    "archive_count": 19926,
     "archive_supplements": 2207,
     "archive_off_label": 676,
     "archive_biomarkers": 12108,
-    "archive_trials": 4200,
+    "archive_trials": 4201,
     "archive_mind_body": 442
   }
 }
