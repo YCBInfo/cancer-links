@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-01T09:05:57.577Z",
+  "last_updated": "2026-05-01T09:06:13.104Z",
   "categories": {
     "supplements": [
       {
@@ -370,6 +370,20 @@
         "added_date": "2026-05-01"
       },
       {
+        "id": "rech6U5Ed3e49JRIy",
+        "title": "Two faces of Amitriptyline in an in vitro study on C6 glioma cells: The effects of Amitriptyline and its combination with Temozolomide and radiation.",
+        "summary": "Amitriptyline shows anti-cancer effects on glioma cells but reduces radiation effectiveness and suppresses beneficial immune marker PD-L1.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41988110/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-05-01"
+      },
+      {
         "id": "recWbH1hKG0GsXH3p",
         "title": "Alisertib exerts AURKA-independent antitumor activity in colon cancer by modulating immune-related pathways.",
         "summary": "Alisertib fights colon cancer through immune-pathway activation independent of its primary AURKA target.",
@@ -406,20 +420,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Pancreatic"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-30"
-      },
-      {
-        "id": "recaCcn7li9zPfQ9n",
-        "title": "Multi-ancestry genome-wide association and integrated multi-omics analyses of endometriosis and its clinical manifestations.",
-        "summary": "Researchers identified 80 genetic regions linked to endometriosis risk, revealing immune dysfunction and inflammation as key disease mechanisms, suggesting new treatment possibilities.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42056605/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -1074,9 +1074,9 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 19953,
+    "archive_count": 19954,
     "archive_supplements": 2208,
-    "archive_off_label": 677,
+    "archive_off_label": 678,
     "archive_biomarkers": 12120,
     "archive_trials": 4214,
     "archive_mind_body": 442
