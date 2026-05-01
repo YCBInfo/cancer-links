@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-01T09:09:38.151Z",
+  "last_updated": "2026-05-01T09:09:48.060Z",
   "categories": {
     "supplements": [
       {
@@ -41,6 +41,20 @@
           "Pancreatic"
         ],
         "quality_score": 13,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-05-01"
+      },
+      {
+        "id": "recfdw9FPmi60Nkj1",
+        "title": "Kaempferol ameliorates PCOS by alleviating metabolic and endocrine abnormalities as well as oxidative stress.",
+        "summary": "Kaempferol, a plant compound, reduces hormonal imbalances, insulin resistance, and oxidative stress in rats with polycystic ovary syndrome.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41747951/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 10,
         "pub_date": "2026-03-01",
         "added_date": "2026-05-01"
       },
@@ -196,20 +210,6 @@
           "Colorectal"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-30"
-      },
-      {
-        "id": "recG6iXgLon0vKEuB",
-        "title": "Diet-induced phospholipid remodeling dictates ferroptosis sensitivity and tumorigenesis in the pancreas.",
-        "summary": "High-fat diets rich in certain unsaturated fats increase pancreatic cancer risk by reducing cancer cells' sensitivity to ferroptosis, a natural death process.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42053430/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-30"
       }
@@ -1074,11 +1074,11 @@
     "trials": 15,
     "mind_body": 15,
     "total": 75,
-    "archive_count": 19978,
+    "archive_count": 19979,
     "archive_supplements": 2208,
     "archive_off_label": 685,
     "archive_biomarkers": 12128,
-    "archive_trials": 4223,
+    "archive_trials": 4224,
     "archive_mind_body": 442
   }
 }
