@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02T09:04:16.848Z",
+  "last_updated": "2026-05-02T09:04:47.687Z",
   "categories": {
     "supplements": [
       {
@@ -314,6 +314,20 @@
         "added_date": "2026-05-02"
       },
       {
+        "id": "recQQV4NQn6L2JFda",
+        "title": "Orlistat targets NEDD8 conjugating enzyme UBC12 for cancer therapy.",
+        "summary": "Orlistat, an anti-obesity drug, fights colorectal cancer by targeting a protein called UBC12 that drives tumor growth.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42067003/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-02"
+      },
+      {
         "id": "recQBTUhzLN8pklMf",
         "title": "Intranasal Ketamine for Existential Distress in Advanced Cancer.",
         "summary": "Intranasal ketamine rapidly reduces depression and existential distress in advanced cancer patients receiving palliative care.",
@@ -408,20 +422,6 @@
           "Colorectal"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-05-01"
-      },
-      {
-        "id": "recHceMpbeGuyaOv2",
-        "title": "Sulfasalazine an Inhibitor of System xC - (Cystine/glutamate Antiporter), Combined With Recombinant Methioninase, Inhibits Both Cancer and Normal Cells, Suggesting Lack of Cancer Selectivity of Cysteine Restriction.",
-        "summary": "Combining sulfasalazine and methioninase killed both cancer and normal cells, indicating this approach lacks cancer-selective effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42049349/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-05-01"
       }
@@ -861,10 +861,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 20398,
+    "archive_count": 20399,
     "archive_supplements": 2263,
     "archive_off_label": 703,
-    "archive_biomarkers": 12386,
+    "archive_biomarkers": 12387,
     "archive_trials": 4312,
     "archive_mind_body": 442
   }
