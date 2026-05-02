@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02T08:03:23.692Z",
+  "last_updated": "2026-05-02T09:02:50.540Z",
   "categories": {
     "supplements": [
       {
@@ -286,6 +286,20 @@
         "added_date": "2026-05-02"
       },
       {
+        "id": "recpojUOdWby9QHLN",
+        "title": "Effect of statin use on prognostic outcomes in hepatocellular carcinoma following liver surgery: a systematic review and meta-analysis.",
+        "summary": "Statins significantly improve survival and reduce recurrence in hepatocellular carcinoma patients after liver surgery or transplant.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41524602/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 32,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-02"
+      },
+      {
         "id": "recQBTUhzLN8pklMf",
         "title": "Intranasal Ketamine for Existential Distress in Advanced Cancer.",
         "summary": "Intranasal ketamine rapidly reduces depression and existential distress in advanced cancer patients receiving palliative care.",
@@ -402,20 +416,6 @@
         "title": "Pregabalin for Opioid-resistant Neuropathic Pain in Bone Metastases.",
         "summary": "Pregabalin effectively relieves nerve pain from bone cancer spread when opioids alone don't work.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42049348/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-05-01"
-      },
-      {
-        "id": "reclWGOamsDOBtYO5",
-        "title": "Metformin Induces PARP1-mediated Cell Death in NPC/HK1 Human Nasopharyngeal Carcinoma Cells.",
-        "summary": "Metformin kills nasopharyngeal cancer cells by triggering a DNA repair protein called PARP1 to cause cell death.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42049333/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -861,10 +861,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 20395,
+    "archive_count": 20396,
     "archive_supplements": 2263,
     "archive_off_label": 702,
-    "archive_biomarkers": 12385,
+    "archive_biomarkers": 12386,
     "archive_trials": 4311,
     "archive_mind_body": 442
   }
