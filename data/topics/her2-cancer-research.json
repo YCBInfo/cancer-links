@@ -11,60 +11,124 @@
   },
   "articles": [
     {
-      "title": "Extracellular Vesicles as Predictive Biomarkers for Chemotherapy-Induced Peripheral Neuropathy",
-      "hook": "Extracellular vesicles predict chemotherapy-induced peripheral neuropathy in cancer patients",
-      "summary": "Blood biomarkers may predict which cancer patients will develop nerve damage from chemotherapy treatment.",
-      "url": "https://clinicaltrials.gov/study/NCT07558447",
+      "title": "Breakthroughs and challenges of CAR-T cell therapy in treating hematologic malignancies of the central nervous system.",
+      "hook": "CAR-T cell therapy faces trafficking and neurotoxicity barriers in CNS hematologic malignancies",
+      "summary": "CAR-T cell therapy shows promise against blood cancers in the brain, but challenges include limited cell trafficking, neurotoxicity, and antigen escape.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42064783/",
+      "source": "PubMed",
+      "pub_date": "2026-05-01",
+      "category": [
+        "Biomarkers & Diagnostics",
+        "Clinical Trials"
+      ],
+      "cancer_types": [
+        "Leukemia",
+        "Lymphoma"
+      ],
+      "biomarkers": "HER2"
+    },
+    {
+      "title": "Neurophysiology of brain temperature dysregulation in humans.",
+      "hook": "Brain temperature dysregulation serves as biomarker for melanoma metastases",
+      "summary": "Brain temperature dysregulation is understudied but critical, showing distinct patterns in Alzheimer's disease, glioblastoma, and melanoma metastases that could serve as disease biomarkers.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42065636/",
+      "source": "PubMed",
+      "pub_date": "2026-05-01",
+      "category": [
+        "Biomarkers & Diagnostics"
+      ],
+      "cancer_types": [
+        "Melanoma",
+        "Brain"
+      ],
+      "biomarkers": "HER2"
+    },
+    {
+      "title": "Neurofibromatosis type 1 with bladder neurofibroma followed by retroperitoneal malignant peripheral nerve sheath tumor: a case report.",
+      "hook": "Malignant peripheral nerve sheath tumor develops after bladder neurofibroma in neurofibromatosis type 1 patient",
+      "summary": "A child with rare bladder nerve tumors required surgery but later developed aggressive cancer, highlighting serious long-term complications of this genetic condition.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42064254/",
+      "source": "PubMed",
+      "pub_date": "2026-05-01",
+      "category": [
+        "Clinical Trials",
+        "Biomarkers & Diagnostics"
+      ],
+      "cancer_types": [
+        "General"
+      ],
+      "biomarkers": "HER2"
+    },
+    {
+      "title": "ARNT2 repression disrupts neuronal identity and promotes glioblastoma growth.",
+      "hook": "ARNT2 repression drives glioblastoma growth by blocking neuronal differentiation",
+      "summary": "Blocking a protein called ARNT2 in glioblastoma allows tumors to grow by preventing cancer cells from maturing into normal brain cells.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42063073/",
+      "source": "PubMed",
+      "pub_date": "2026-05-01",
+      "category": [
+        "Biomarkers & Diagnostics"
+      ],
+      "cancer_types": [
+        "Brain"
+      ],
+      "biomarkers": "HER2"
+    },
+    {
+      "title": "Peripheral immune signatures associated with invasive behavior in pituitary neuroendocrine tumor: a blood-based analysis.",
+      "hook": "Blood immune markers predict invasive behavior in pituitary neuroendocrine tumors",
+      "summary": "Blood immune markers can identify which pituitary tumors are likely to invade surrounding tissues and cause recurrence.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42062862/",
+      "source": "PubMed",
+      "pub_date": "2026-05-01",
+      "category": [
+        "Biomarkers & Diagnostics"
+      ],
+      "cancer_types": [
+        "General"
+      ],
+      "biomarkers": "HER2"
+    },
+    {
+      "title": "Zinc as a master regulator of intracellular organelle homeostasis.",
+      "hook": "Zinc dysregulation linked to cancer development and progression",
+      "summary": "Zinc regulates cellular health by controlling processes in different cell compartments, with dysregulation linked to cancer, neurodegeneration, and aging.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42067618/",
+      "source": "PubMed",
+      "pub_date": "2026-05-01",
+      "category": [
+        "Supplements & Nutraceuticals",
+        "Biomarkers & Diagnostics"
+      ],
+      "cancer_types": [
+        "General"
+      ],
+      "biomarkers": "HER2"
+    },
+    {
+      "title": "GYNGHER - HER2 Expression in Gynecological Malignancies: a Brazilian Cohort",
+      "hook": "HER2 expression prevalence identified in Brazilian gynecological cancer cohort",
+      "summary": "Brazilian study measures HER2 protein levels in gynecological cancers to determine prevalence and identify patients eligible for targeted treatments.",
+      "url": "https://clinicaltrials.gov/study/NCT07101081",
       "source": "ClinicalTrials.gov",
-      "pub_date": "2026-04-30",
+      "pub_date": "2026-05-01",
       "category": [
         "Biomarkers & Diagnostics",
         "Clinical Trials"
       ],
       "cancer_types": [
         "Breast",
-        "Lung"
+        "Stomach"
       ],
       "biomarkers": "HER2"
     },
     {
-      "title": "A Phase II Clinical Study of Trastuzumab Rezetecan (SHR-A1811) or in Combination With Adebrelimab (SHR-1316) for HER2-Expressing Locally Advanced or Metastatic Urothelial Carcinoma (la/mUC)",
-      "hook": "A study tests a targeted drug alone...",
-      "summary": "A study tests a targeted drug alone or combined with an immunotherapy drug for advanced bladder cancer with HER2 mutations.",
-      "url": "https://clinicaltrials.gov/study/NCT07241793",
+      "title": "Phase I Trial Of Alpelisib Plus Sacituzumab Govitecan In Patients With Metastatic Or Locally Recurrent HER2-Negative Breast Cancer",
+      "hook": "Alpelisib plus sacituzumab govitecan shows tolerability in HER2-negative breast cancer",
+      "summary": "Researchers tested combining two drugs, alpelisib and sacituzumab govitecan, to treat advanced HER2-negative breast cancer.",
+      "url": "https://clinicaltrials.gov/study/NCT05143229",
       "source": "ClinicalTrials.gov",
-      "pub_date": "2026-04-30",
-      "category": [
-        "Clinical Trials",
-        "Biomarkers & Diagnostics"
-      ],
-      "cancer_types": [
-        "Bladder"
-      ],
-      "biomarkers": "HER2"
-    },
-    {
-      "title": "CaboLife: A Prospective Non-Interventional Study on Effectiveness and Safety of Cabozantinib in Real-Life Setting for Previously Treated Patients With Neuroendocrine Tumour",
-      "hook": "Cabozantinib shows effectiveness and safety in previously treated neuroendocrine tumor patients",
-      "summary": "Study evaluates cabozantinib's effectiveness and safety in previously treated neuroendocrine tumor patients in real-world clinical settings.",
-      "url": "https://clinicaltrials.gov/study/NCT07314164",
-      "source": "ClinicalTrials.gov",
-      "pub_date": "2026-04-30",
-      "category": [
-        "Clinical Trials"
-      ],
-      "cancer_types": [
-        "General"
-      ],
-      "biomarkers": "HER2"
-    },
-    {
-      "title": "A Phase IIIb Study to Characterize the Efficacy and Safety of Adjuvant Ribociclib Plus Endocrine Therapy in a Close-to-clinical Practice Patient Population With HR+ HER2- Early Breast Cancer (Adjuvant WIDER)",
-      "hook": "Ribociclib plus hormone therapy improves disease-free survival in early breast cancer",
-      "summary": "Ribociclib combined with hormone therapy improves breast cancer-free survival in early-stage HR+ HER2- breast cancer patients.",
-      "url": "https://clinicaltrials.gov/study/NCT05827081",
-      "source": "ClinicalTrials.gov",
-      "pub_date": "2026-04-30",
+      "pub_date": "2026-05-01",
       "category": [
         "Clinical Trials"
       ],
@@ -74,27 +138,12 @@
       "biomarkers": "HER2"
     },
     {
-      "title": "Widening Aims and Giving Patients a Voice for Expanded Structures in Breast Cancer Care Jointly Developed by Patients and Physicians (Wechselseitiger Patienten-Arzt-Austausch in Der Versorgung Bei Brustkrebs Mit Dem Ziel Der Gemeinsamen Erarbeitung Neuer Patienten-orientierter Strukturen)",
-      "hook": "Patient-physician collaboration redesigns breast cancer care structures and communication",
-      "summary": "Researchers surveyed breast cancer patients and physicians together to redesign care structures based on patient needs and improve communication.",
-      "url": "https://clinicaltrials.gov/study/NCT06416293",
+      "title": "A Pilot Study to Evaluate Neuropsychological Outcome Measures and Their Relationship With Prognosis in Patients Receiving Radiation Therapy for Brain Metastases",
+      "hook": "Cognitive assessments predict outcomes in brain metastases radiation therapy",
+      "summary": "Researchers tested whether standard cognitive and quality-of-life assessments can measure changes in brain function after radiation therapy for brain metastases.",
+      "url": "https://clinicaltrials.gov/study/NCT01445483",
       "source": "ClinicalTrials.gov",
-      "pub_date": "2026-04-29",
-      "category": [
-        "Clinical Trials"
-      ],
-      "cancer_types": [
-        "Breast"
-      ],
-      "biomarkers": "HER2"
-    },
-    {
-      "title": "MATCH Treatment Subprotocol B: Phase II Study of Afatinib in Patients With Tumors With HER2 Activating Mutations",
-      "hook": "Afatinib halts tumor growth in HER2-mutated cancers",
-      "summary": "Afatinib drug blocks HER2 mutations in cancer cells, potentially stopping tumor growth in patients with this genetic change.",
-      "url": "https://clinicaltrials.gov/study/NCT04439136",
-      "source": "ClinicalTrials.gov",
-      "pub_date": "2026-04-29",
+      "pub_date": "2026-05-01",
       "category": [
         "Clinical Trials",
         "Biomarkers & Diagnostics"
@@ -105,69 +154,22 @@
       "biomarkers": "HER2"
     },
     {
-      "title": "A Phase 2, Randomized, Multicenter, Open-label Neoadjuvant Study Evaluating Zanidatamab in Combination With Chemotherapy in Participants With HER2-positive Breast Cancer",
-      "hook": "Zanidatamab plus chemotherapy improves outcomes in HER2-positive breast cancer",
-      "summary": "Zanidatamab combined with chemotherapy is being tested for safety and effectiveness in treating early-stage HER2-positive breast cancer.",
-      "url": "https://clinicaltrials.gov/study/NCT07102381",
+      "title": "Natural History Study and Longitudinal Assessment of Children, Adolescents, and Adults With Neurofibromatosis Type 1",
+      "hook": "Longitudinal study tracks neurofibromatosis type 1 progression over decade",
+      "summary": "Researchers are tracking NF1 patients over 10 years to understand how this genetic nerve tumor disorder progresses and impacts quality of life.",
+      "url": "https://clinicaltrials.gov/study/NCT00924196",
       "source": "ClinicalTrials.gov",
-      "pub_date": "2026-04-29",
+      "pub_date": "2026-05-01",
       "category": [
-        "Clinical Trials",
-        "Biomarkers & Diagnostics"
-      ],
-      "cancer_types": [
-        "Breast"
-      ],
-      "biomarkers": "EGFR, HER2"
-    },
-    {
-      "title": "A Phase I Study to Assess the Safety and Antitumor Activity of Autologous B7-H3 Chimeric Antigen Receptor T Cells in Previously Treated Extensive-Stage Small Cell Lung Cancer With Recurrent or Refractory Disease",
-      "hook": "B7-H3 CAR-T cells show antitumor activity in...",
-      "summary": "Researchers are testing a new immunotherapy using modified T cells to treat small cell lung cancer and similar neuroendocrine cancers that haven't responded to standard treatments.",
-      "url": "https://clinicaltrials.gov/study/NCT07509034",
-      "source": "ClinicalTrials.gov",
-      "pub_date": "2026-04-28",
-      "category": [
-        "Clinical Trials",
-        "Biomarkers & Diagnostics"
-      ],
-      "cancer_types": [
-        "Lung"
-      ],
-      "biomarkers": "HER2"
-    },
-    {
-      "title": "An Open-Label, Randomized, Multicenter Phase 3 Study Investigating the Efficacy and Safety of BGB-43395 Plus Letrozole Versus CDK4/6 Inhibitors (Abemaciclib, Palbociclib, Ribociclib) Plus Letrozole in Patients With Advanced or Metastatic HR+/HER2- Breast Cancer Who Have Not Received Prior Systemic Anticancer Treatment for Advanced or Metastatic Disease",
-      "hook": "BGB-43395 plus letrozole outperforms CDK4/6...",
-      "summary": "BGB-43395 plus letrozole is being tested against standard CDK4/6 inhibitors plus letrozole for advanced HR+/HER2- breast cancer.",
-      "url": "https://clinicaltrials.gov/study/NCT07492641",
-      "source": "ClinicalTrials.gov",
-      "pub_date": "2026-04-27",
-      "category": [
+        "Biomarkers & Diagnostics",
         "Clinical Trials"
       ],
       "cancer_types": [
-        "Breast"
-      ],
-      "biomarkers": "HER2"
-    },
-    {
-      "title": "A Phase II Study of Atezolizumab in Combination With Pertuzumab Plus High-dose Trastuzumab for the Treatment of Central Nervous System Metastases in Patients With Her2-positive Breast Cancer",
-      "hook": "Atezolizumab plus trastuzumab and pertuzumab...",
-      "summary": "Study combines three drugs to treat HER2-positive breast cancer that has spread to the brain.",
-      "url": "https://clinicaltrials.gov/study/NCT03417544",
-      "source": "ClinicalTrials.gov",
-      "pub_date": "2026-04-27",
-      "category": [
-        "Clinical Trials",
-        "Biomarkers & Diagnostics"
-      ],
-      "cancer_types": [
-        "Breast"
+        "Brain"
       ],
       "biomarkers": "HER2"
     }
   ],
   "article_count": 10,
-  "last_updated": "2026-05-01T13:06:01.321Z"
+  "last_updated": "2026-05-02T13:05:06.099Z"
 }
