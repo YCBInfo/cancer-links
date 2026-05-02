@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02T09:02:50.540Z",
+  "last_updated": "2026-05-02T09:04:05.090Z",
   "categories": {
     "supplements": [
       {
@@ -300,6 +300,20 @@
         "added_date": "2026-05-02"
       },
       {
+        "id": "recNnoujViCRQTJhi",
+        "title": "Exploration of BMI and circulating metabolic factors as predictors of metformin benefit in CCTG MA.32.",
+        "summary": "Metformin showed potential benefit in HER2-positive breast cancer patients, with obesity-related blood markers possibly predicting treatment response.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42063220/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-02"
+      },
+      {
         "id": "recQBTUhzLN8pklMf",
         "title": "Intranasal Ketamine for Existential Distress in Advanced Cancer.",
         "summary": "Intranasal ketamine rapidly reduces depression and existential distress in advanced cancer patients receiving palliative care.",
@@ -402,20 +416,6 @@
         "title": "Sulfasalazine an Inhibitor of System xC - (Cystine/glutamate Antiporter), Combined With Recombinant Methioninase, Inhibits Both Cancer and Normal Cells, Suggesting Lack of Cancer Selectivity of Cysteine Restriction.",
         "summary": "Combining sulfasalazine and methioninase killed both cancer and normal cells, indicating this approach lacks cancer-selective effectiveness.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42049349/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-05-01"
-      },
-      {
-        "id": "reccojO1ZVJ2Qvm6y",
-        "title": "Pregabalin for Opioid-resistant Neuropathic Pain in Bone Metastases.",
-        "summary": "Pregabalin effectively relieves nerve pain from bone cancer spread when opioids alone don't work.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42049348/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -861,9 +861,9 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 20396,
+    "archive_count": 20397,
     "archive_supplements": 2263,
-    "archive_off_label": 702,
+    "archive_off_label": 703,
     "archive_biomarkers": 12386,
     "archive_trials": 4311,
     "archive_mind_body": 442
