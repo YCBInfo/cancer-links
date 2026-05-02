@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02T04:12:12.709Z",
+  "last_updated": "2026-05-02T04:12:24.372Z",
   "categories": {
     "supplements": [
       {
@@ -27,6 +27,20 @@
           "Pancreatic"
         ],
         "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-02"
+      },
+      {
+        "id": "recnw1t49Rxr0s4BZ",
+        "title": "Evaluation of the effects of diosmin in cyclophosphamide-induced nephrotoxicity: an experimental animal study.",
+        "summary": "Diosmin, a natural compound, protected rat kidneys from damage caused by cyclophosphamide cancer treatment by reducing inflammation and cell death.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42065758/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-02"
       },
@@ -194,20 +208,6 @@
         "cancer_types": [
           "Breast",
           "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-30"
-      },
-      {
-        "id": "recDOsxX4soDplidY",
-        "title": "Vitamin D receptor isoform VDRA suppresses hepatocellular tumorigenesis by restricting YAP nuclear localization.",
-        "summary": "A vitamin D receptor variant called VDRA suppresses liver cancer by blocking the cancer-promoting protein YAP from entering cell nuclei.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42056080/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Liver"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -861,10 +861,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 20103,
+    "archive_count": 20104,
     "archive_supplements": 2215,
     "archive_off_label": 699,
-    "archive_biomarkers": 12204,
+    "archive_biomarkers": 12205,
     "archive_trials": 4251,
     "archive_mind_body": 442
   }
