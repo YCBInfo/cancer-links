@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02T04:12:02.336Z",
+  "last_updated": "2026-05-02T04:12:12.709Z",
   "categories": {
     "supplements": [
       {
@@ -13,6 +13,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-02"
+      },
+      {
+        "id": "recZRrnOgY2jzTgiJ",
+        "title": "Nootkatone as a multi-target modulator of the PD-L1/PD-1 signaling in pancreatic cancer: network pharmacology, docking, molecular dynamics, and DFT analysis.",
+        "summary": "Nootkatone, a natural compound, shows promise against pancreatic cancer by targeting immune checkpoint pathways and multiple cancer-related signaling pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42065764/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Pancreatic"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-02"
       },
@@ -196,20 +210,6 @@
           "Liver"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-30"
-      },
-      {
-        "id": "reczoO59iylciR8WA",
-        "title": "Nanoliposomal Eucommia ulmoides extract limits PANoptosis in sepsis-induced acute lung injury through a TGF-β1-JNK pathway.",
-        "summary": "A nanoparticle form of plant extract reduced harmful immune cell death in sepsis-related lung injury through a specific cellular pathway.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42056001/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-30"
       }
@@ -861,10 +861,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 20102,
+    "archive_count": 20103,
     "archive_supplements": 2215,
     "archive_off_label": 699,
-    "archive_biomarkers": 12203,
+    "archive_biomarkers": 12204,
     "archive_trials": 4251,
     "archive_mind_body": 442
   }
