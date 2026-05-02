@@ -11,6 +11,86 @@
   },
   "articles": [
     {
+      "title": "Nootkatone as a multi-target modulator of the PD-L1/PD-1 signaling in pancreatic cancer: network pharmacology, docking, molecular dynamics, and DFT analysis.",
+      "hook": "Nootkatone targets PD-L1/PD-1 pathway in pancreatic cancer cells",
+      "summary": "Nootkatone, a natural compound, shows promise against pancreatic cancer by targeting immune checkpoint pathways and multiple cancer-related signaling pathways.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42065764/",
+      "source": "PubMed",
+      "pub_date": "2026-05-01",
+      "category": [
+        "Supplements & Nutraceuticals",
+        "Biomarkers & Diagnostics"
+      ],
+      "cancer_types": [
+        "Pancreatic"
+      ],
+      "biomarkers": "PD-L1, PIK3CA"
+    },
+    {
+      "title": "Flexible Dual-Apt Scaffolds Reveal gPD-L1-sEVs in Breast Cancer.",
+      "hook": "Dual-aptamer scaffolds detect soluble PD-L1 in breast cancer serum",
+      "summary": "Researchers developed a highly sensitive test to detect a hidden form of PD-L1 protein in breast cancer patients, enabling better prediction of immunotherapy effectiveness.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42065221/",
+      "source": "PubMed",
+      "pub_date": "2026-05-01",
+      "category": [
+        "Biomarkers & Diagnostics",
+        "Clinical Trials"
+      ],
+      "cancer_types": [
+        "Breast"
+      ],
+      "biomarkers": "PD-L1"
+    },
+    {
+      "title": "Programmed Death-Ligand 1 Expression Predicts Poor Prognosis in Patients With Early-Stage Non-Small-Cell Lung Cancer Undergoing Stereotactic Body Radiotherapy.",
+      "hook": "High PD-L1 expression predicts poor outcomes in early-stage lung cancer after stereotactic body radiotherapy",
+      "summary": "High PD-L1 levels predict worse outcomes in early-stage lung cancer patients treated with radiation therapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42065218/",
+      "source": "PubMed",
+      "pub_date": "2026-05-01",
+      "category": [
+        "Biomarkers & Diagnostics",
+        "Clinical Trials"
+      ],
+      "cancer_types": [
+        "Lung"
+      ],
+      "biomarkers": "PD-L1"
+    },
+    {
+      "title": "Official Title: A Phase 2 Study to Evaluate Zimberelimab (AB122) Combined With AB154 in Front-Line, PD-L1-High, Locally Advanced or Metastatic Non-Small Cell Lung Cancer",
+      "hook": "Zimberelimab plus AB154 shows efficacy in PD-L1-high lung cancer",
+      "summary": "A Phase 2 trial tests two immunotherapy drugs combined to treat advanced non-small cell lung cancer in patients with high PD-L1 expression.",
+      "url": "https://clinicaltrials.gov/study/NCT04736173",
+      "source": "ClinicalTrials.gov",
+      "pub_date": "2026-05-01",
+      "category": [
+        "Clinical Trials",
+        "Biomarkers & Diagnostics"
+      ],
+      "cancer_types": [
+        "Lung"
+      ],
+      "biomarkers": "PD-L1"
+    },
+    {
+      "title": "A Phase III, Multisite, Randomized, Double-Blind Trial of BNT327 in Combination With Chemotherapy Versus Placebo With Chemotherapy in Patients With Previously Untreated Locally Recurrent Inoperable or Metastatic TNBC Determined Ineligible for PD(L)1 Therapy Based on PD-L1 Negative Disease",
+      "hook": "BNT327 plus chemotherapy improves outcomes in PD-L1 negative triple-negative breast cancer",
+      "summary": "A trial tests whether BNT327 combined with chemotherapy improves outcomes in triple-negative breast cancer patients ineligible for standard immunotherapy.",
+      "url": "https://clinicaltrials.gov/study/NCT07173751",
+      "source": "ClinicalTrials.gov",
+      "pub_date": "2026-05-01",
+      "category": [
+        "Clinical Trials",
+        "Biomarkers & Diagnostics"
+      ],
+      "cancer_types": [
+        "Breast"
+      ],
+      "biomarkers": "EGFR, HER2, PD-L1"
+    },
+    {
       "title": "A Phase III, Open-label, Randomised Study of Datopotamab Deruxtecan (Dato-DXd) With or Without Durvalumab Compared With Investigator's Choice of Chemotherapy (Paclitaxel, Nab-paclitaxel or Gemcitabine + Carboplatin) in Combination With Pembrolizumab in Patients With PD-L1 Positive Locally Recurrent Inoperable or Metastatic Triple-negative Breast Cancer (TROPION-Breast05)",
       "hook": "Datopotamab deruxtecan plus durvalumab outperforms chemotherapy in triple-negative breast cancer",
       "summary": "Datopotamab deruxtecan with or without durvalumab shows promise against metastatic triple-negative breast cancer compared to standard chemotherapy combinations.",
@@ -89,88 +169,8 @@
         "Liver"
       ],
       "biomarkers": "PD-L1"
-    },
-    {
-      "title": "Randomized Phase II/III Trial of 2nd Line Nivolumab + Paclitaxel + Ramucirumab Versus Paclitaxel + Ramucirumab in Patients With PD-L1 CPS &gt;/= 1 Advanced Gastric and Esophageal Adenocarcinoma (PARAMUNE)",
-      "hook": "Nivolumab plus chemotherapy improves survival...",
-      "summary": "Nivolumab added to standard chemotherapy improves treatment outcomes for advanced gastric and esophageal adenocarcinoma.",
-      "url": "https://clinicaltrials.gov/study/NCT06203600",
-      "source": "ClinicalTrials.gov",
-      "pub_date": "2026-04-17",
-      "category": [
-        "Clinical Trials",
-        "Biomarkers & Diagnostics"
-      ],
-      "cancer_types": [
-        "General"
-      ],
-      "biomarkers": "PD-L1"
-    },
-    {
-      "title": "PADL1NK-005: A Randomized, Phase 3, Open-Label Study to Evaluate PF-08046054/SGN-PDL1V Versus Docetaxel in Adult Participants With Previously-Treated Programmed Cell Death Ligand 1 (PD-L1) Positive Non-Small-Cell Lung Cancer (NSCLC)",
-      "hook": "PF-08046054 outperforms docetaxel in PD-L1...",
-      "summary": "Study tests if new drug PF-08046054 works better than docetaxel for previously-treated, advanced non-small-cell lung cancer.",
-      "url": "https://clinicaltrials.gov/study/NCT07144280",
-      "source": "ClinicalTrials.gov",
-      "pub_date": "2026-04-07",
-      "category": [
-        "Clinical Trials",
-        "Biomarkers & Diagnostics"
-      ],
-      "cancer_types": [
-        "Lung"
-      ],
-      "biomarkers": "PD-L1"
-    },
-    {
-      "title": "Transcriptomic Determinants of Circulating Immunity Predict Immune-Related Adverse Events (irAEs) in Cancer Patients Receiving PD-1/PD-L1 Blockade.",
-      "hook": "Blood transcriptomic markers predict immune-rel...",
-      "summary": "Researchers identified genetic markers in blood that predict harmful immune side effects in cancer patients treated with checkpoint inhibitor immunotherapy.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41920053/",
-      "source": "PubMed",
-      "pub_date": "2026-04-01",
-      "category": [
-        "Biomarkers & Diagnostics",
-        "Clinical Trials"
-      ],
-      "cancer_types": [
-        "General"
-      ],
-      "biomarkers": "PD-L1"
-    },
-    {
-      "title": "Disrupting KAT8 Liquid-Liquid Phase Separation with Hybrid Vesicle-Liposome Platform for Enhanced PD-L1 Blockade Treatment.",
-      "hook": "Researchers developed a dual-action treatment...",
-      "summary": "Researchers developed a dual-action treatment for hepatocellular carcinoma that blocks PD-L1 and silences a protein driving immune resistance, improving survival in mice.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41919648/",
-      "source": "PubMed",
-      "pub_date": "2026-04-01",
-      "category": [
-        "Biomarkers & Diagnostics",
-        "Clinical Trials"
-      ],
-      "cancer_types": [
-        "Liver"
-      ],
-      "biomarkers": "PD-L1"
-    },
-    {
-      "title": "IZABRIGHT-Breast01: A Randomized, Open-label, Inferentially Seamless Phase 2/3 Study of Izalontamab Brengitecan (BMS-986507) Versus Treatment of Physician's Choice in Patients With Previously Untreated, Locally Advanced, Recurrent Inoperable, or Metastatic Triple-negative Breast Cancer (TNBC) or ER-low, HER2-negative BC Who Are Ineligible for Anti-PD1/PD-L1 Treatment",
-      "hook": "Izalontamab brengitecan outperforms physician's...",
-      "summary": "A new drug combining antibody and chemotherapy shows promise against triple-negative breast cancer in treatment-resistant patients.",
-      "url": "https://clinicaltrials.gov/study/NCT06926868",
-      "source": "ClinicalTrials.gov",
-      "pub_date": "2026-04-01",
-      "category": [
-        "Clinical Trials",
-        "Biomarkers & Diagnostics"
-      ],
-      "cancer_types": [
-        "Breast"
-      ],
-      "biomarkers": "HER2, PD-L1"
     }
   ],
   "article_count": 10,
-  "last_updated": "2026-05-01T13:04:55.526Z"
+  "last_updated": "2026-05-02T13:04:00.619Z"
 }
