@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02T06:19:48.846Z",
+  "last_updated": "2026-05-02T06:19:59.281Z",
   "categories": {
     "supplements": [
       {
@@ -272,6 +272,20 @@
         "added_date": "2026-05-02"
       },
       {
+        "id": "rechOuBcMhvEjJVeK",
+        "title": "BPGM as an intrinsic brake to constrain metastasis through phospho-epigenetic-mediated carnitine biosynthesis suppression.",
+        "summary": "Researchers identified BPGM as a natural brake on cancer metastasis by blocking carnitine production that fuels tumor spread.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41875824/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-05-02"
+      },
+      {
         "id": "recQBTUhzLN8pklMf",
         "title": "Intranasal Ketamine for Existential Distress in Advanced Cancer.",
         "summary": "Intranasal ketamine rapidly reduces depression and existential distress in advanced cancer patients receiving palliative care.",
@@ -402,20 +416,6 @@
         "title": "Metformin Induces PARP1-mediated Cell Death in NPC/HK1 Human Nasopharyngeal Carcinoma Cells.",
         "summary": "Metformin kills nasopharyngeal cancer cells by triggering a DNA repair protein called PARP1 to cause cell death.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42049333/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-05-01"
-      },
-      {
-        "id": "rec8GnErhW2mAJzVl",
-        "title": "Imipramine Targets Apoptosis, Metastasis, and EGFR/SRC-mediated EMT in Oral Cancer Cells.",
-        "summary": "Imipramine, an antidepressant drug, kills oral cancer cells and prevents their spread by blocking key growth signals.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42049326/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -861,11 +861,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 20346,
+    "archive_count": 20347,
     "archive_supplements": 2250,
     "archive_off_label": 702,
     "archive_biomarkers": 12372,
-    "archive_trials": 4288,
+    "archive_trials": 4289,
     "archive_mind_body": 442
   }
 }
