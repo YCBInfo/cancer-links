@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02T06:05:24.806Z",
+  "last_updated": "2026-05-02T06:05:35.239Z",
   "categories": {
     "supplements": [
       {
@@ -244,6 +244,20 @@
         "added_date": "2026-05-02"
       },
       {
+        "id": "recVg8Tyo71bkvzxo",
+        "title": "Zoledronic Acid Inhibits the Growth of ER-Positive Breast Cancer Cells by Inducing Ferroptosis.",
+        "summary": "Zoledronic acid kills estrogen receptor-positive breast cancer cells by triggering ferroptosis, a cell death process distinct from apoptosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42059031/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-05-02"
+      },
+      {
         "id": "recQBTUhzLN8pklMf",
         "title": "Intranasal Ketamine for Existential Distress in Advanced Cancer.",
         "summary": "Intranasal ketamine rapidly reduces depression and existential distress in advanced cancer patients receiving palliative care.",
@@ -408,20 +422,6 @@
           "Brain"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-05-01"
-      },
-      {
-        "id": "recjhmuKJaVq30uKb",
-        "title": "Metformin enhances survival with immune checkpoint inhibitors in cancer patients: A meta-analysis.",
-        "summary": "Metformin combined with immunotherapy significantly improves survival in cancer patients, particularly among Asian populations.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41947897/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 22,
         "pub_date": "2026-04-01",
         "added_date": "2026-05-01"
       }
@@ -861,8 +861,8 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 20268,
-    "archive_supplements": 2233,
+    "archive_count": 20269,
+    "archive_supplements": 2234,
     "archive_off_label": 701,
     "archive_biomarkers": 12324,
     "archive_trials": 4276,
