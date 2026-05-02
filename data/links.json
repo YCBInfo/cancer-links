@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02T04:19:47.765Z",
+  "last_updated": "2026-05-02T04:20:00.049Z",
   "categories": {
     "supplements": [
       {
@@ -41,6 +41,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-02"
+      },
+      {
+        "id": "recb4Y4sc0tXVSnD7",
+        "title": "Diet in Prostate Cancer: Promising Side Dish or Main Course?",
+        "summary": "Plant-based and Mediterranean diets may slow prostate cancer progression, but more rigorous research is needed to confirm diet's true benefit.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42063321/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-02"
       },
@@ -196,21 +210,6 @@
         ],
         "quality_score": 13,
         "pub_date": "2026-03-01",
-        "added_date": "2026-04-30"
-      },
-      {
-        "id": "rec1RA6xdQphacKPS",
-        "title": "Ginkgetin enhances the antitumor effect of Taxol on human breast cancer MCF-7 cells via ferroptosis mediated by the MDM2-p53-YAP1 axis.",
-        "summary": "Ginkgetin combined with Taxol enhances breast cancer cell death by triggering a natural cell death process called ferroptosis.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42056242/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast",
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
         "added_date": "2026-04-30"
       }
     ],
@@ -861,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 20146,
+    "archive_count": 20147,
     "archive_supplements": 2217,
     "archive_off_label": 700,
-    "archive_biomarkers": 12238,
+    "archive_biomarkers": 12239,
     "archive_trials": 4257,
     "archive_mind_body": 442
   }
