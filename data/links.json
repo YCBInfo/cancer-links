@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02T09:04:47.687Z",
+  "last_updated": "2026-05-02T09:05:05.688Z",
   "categories": {
     "supplements": [
       {
@@ -328,6 +328,20 @@
         "added_date": "2026-05-02"
       },
       {
+        "id": "recorfDAmfEb7xtOF",
+        "title": "Rosuvastatin Attenuates Blood-Brain Barrier Dysfunction after ICH Through Modulation of CXCL12-Associated VEGFR2/p38 MAPK Signaling.",
+        "summary": "Rosuvastatin reduces brain barrier damage after stroke by blocking a specific cellular signaling pathway, offering potential new treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42066986/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-02"
+      },
+      {
         "id": "recQBTUhzLN8pklMf",
         "title": "Intranasal Ketamine for Existential Distress in Advanced Cancer.",
         "summary": "Intranasal ketamine rapidly reduces depression and existential distress in advanced cancer patients receiving palliative care.",
@@ -408,20 +422,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-05-01"
-      },
-      {
-        "id": "recaQj0AEXnD5BE75",
-        "title": "Evaluation of Combined Treatment With Atorvastatin and SREBP2 Inhibitors Against Colorectal Cancer Cells Under Two-dimensional and Three-dimensional Culture Models.",
-        "summary": "Combining atorvastatin with SREBP2 inhibitors increases killing of colorectal cancer cells in laboratory models.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42049373/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-05-01"
       }
@@ -861,11 +861,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 20399,
+    "archive_count": 20400,
     "archive_supplements": 2263,
     "archive_off_label": 703,
     "archive_biomarkers": 12387,
-    "archive_trials": 4312,
+    "archive_trials": 4313,
     "archive_mind_body": 442
   }
 }
