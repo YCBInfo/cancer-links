@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02T04:25:15.892Z",
+  "last_updated": "2026-05-02T04:25:27.574Z",
   "categories": {
     "supplements": [
       {
@@ -92,6 +92,20 @@
         "title": "Discovery of the protective effect of glutamine on acute alcoholic liver injury.",
         "summary": "Glutamine protects the liver from damage caused by acute alcohol exposure, according to new research findings.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42060805/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-05-02"
+      },
+      {
+        "id": "recMQmlKjhvqmNuj4",
+        "title": "Unraveling the Therapeutic Mechanisms of Aloe-Emodin: A Natural Anthraquinone With Promising Health Benefits.",
+        "summary": "Aloe-emodin, a natural plant compound, shows promise in killing multiple cancer cell types through various mechanisms, though safety concerns and poor absorption limit clinical use.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42059361/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -197,20 +211,6 @@
         ],
         "quality_score": 10,
         "pub_date": "2026-02-01",
-        "added_date": "2026-05-01"
-      },
-      {
-        "id": "recVNfVq3MB953IGd",
-        "title": "Synergistic effect of piperine on curcumin in cisplatin-induced nephrotoxicity through DNA fragmentation and cytokines gene expressions.",
-        "summary": "Combining curcumin and piperine supplements significantly reduces kidney damage caused by cisplatin cancer treatment in rats.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/40790870/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
         "added_date": "2026-05-01"
       }
     ],
@@ -861,10 +861,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 20177,
+    "archive_count": 20178,
     "archive_supplements": 2220,
     "archive_off_label": 700,
-    "archive_biomarkers": 12262,
+    "archive_biomarkers": 12263,
     "archive_trials": 4261,
     "archive_mind_body": 442
   }
