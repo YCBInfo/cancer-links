@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02T04:24:23.328Z",
+  "last_updated": "2026-05-02T04:24:34.552Z",
   "categories": {
     "supplements": [
       {
@@ -84,6 +84,20 @@
           "Lymphoma"
         ],
         "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-05-02"
+      },
+      {
+        "id": "recWFBsRDwH1YXGQS",
+        "title": "Discovery of the protective effect of glutamine on acute alcoholic liver injury.",
+        "summary": "Glutamine protects the liver from damage caused by acute alcohol exposure, according to new research findings.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42060805/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-05-02"
       },
@@ -198,20 +212,6 @@
         "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-05-01"
-      },
-      {
-        "id": "recjaIG4gRMohr3cg",
-        "title": "Parthenolide inhibits the progression of intrahepatic cholangiocarcinoma by promoting ferroptosis through inhibiting UBD.",
-        "summary": "Parthenolide, a natural compound, slows intrahepatic cholangiocarcinoma growth by triggering cancer cell death through a specific molecular pathway.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42050803/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-30"
       }
     ],
     "off_label": [
@@ -861,10 +861,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 20172,
+    "archive_count": 20173,
     "archive_supplements": 2218,
     "archive_off_label": 700,
-    "archive_biomarkers": 12259,
+    "archive_biomarkers": 12260,
     "archive_trials": 4261,
     "archive_mind_body": 442
   }
