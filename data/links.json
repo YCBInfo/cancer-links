@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02T04:14:50.185Z",
+  "last_updated": "2026-05-02T04:15:00.010Z",
   "categories": {
     "supplements": [
       {
@@ -216,6 +216,20 @@
     ],
     "off_label": [
       {
+        "id": "rectGtZlBos1ftGVP",
+        "title": "Transient p53/p21 activation selectively protects healthy human hair follicles and their stem cells from chemotherapy.",
+        "summary": "A drug called ALRN-6924 protects healthy hair follicles and stem cells from chemotherapy damage by temporarily halting their growth.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42065249/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-02"
+      },
+      {
         "id": "recQBTUhzLN8pklMf",
         "title": "Intranasal Ketamine for Existential Distress in Advanced Cancer.",
         "summary": "Intranasal ketamine rapidly reduces depression and existential distress in advanced cancer patients receiving palliative care.",
@@ -408,20 +422,6 @@
           "General"
         ],
         "quality_score": 10,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-05-01"
-      },
-      {
-        "id": "rec74H90XdnIuHrxg",
-        "title": "Mebendazole impairs the expression and function of enzymes in nucleotide metabolism pathways, leading to Selective Cytotoxicity, Cell Cycle Arrest, and Damage to Cell Morphology in Gastric Cancer.",
-        "summary": "Mebendazole blocks nucleotide-making enzymes in gastric cancer cells, stopping their growth while sparing healthy cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41720422/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Stomach"
-        ],
-        "quality_score": 13,
         "pub_date": "2026-03-01",
         "added_date": "2026-05-01"
       }
@@ -861,10 +861,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 20118,
+    "archive_count": 20119,
     "archive_supplements": 2217,
     "archive_off_label": 699,
-    "archive_biomarkers": 12215,
+    "archive_biomarkers": 12216,
     "archive_trials": 4253,
     "archive_mind_body": 442
   }
