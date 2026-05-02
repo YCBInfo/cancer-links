@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02T04:23:09.822Z",
+  "last_updated": "2026-05-02T04:23:19.372Z",
   "categories": {
     "supplements": [
       {
@@ -69,6 +69,21 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-05-02"
+      },
+      {
+        "id": "recJo0mTOOO8Nmgc0",
+        "title": "Nobiletin inhibits non-small cell lung cancer through TRKC and exhibits a synergistic effect with the HDAC inhibitor.",
+        "summary": "Nobiletin, a natural compound, combined with vorinostat kills non-small cell lung cancer cells by triggering cell death and autophagy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42062032/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lung",
+          "Lymphoma"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-05-02"
       },
@@ -195,20 +210,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-04-30"
-      },
-      {
-        "id": "recLDdkOCJ2IRlauc",
-        "title": "Resveratrol inhibits aerobic glycolysis and promotes cuproptosis in acute myeloid leukemia via the PI3K/AKT signaling pathway.",
-        "summary": "Resveratrol kills acute myeloid leukemia cells by blocking a growth pathway and triggering copper-dependent cell death.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42056286/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-04-30"
       }
@@ -860,10 +861,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 20165,
+    "archive_count": 20166,
     "archive_supplements": 2218,
     "archive_off_label": 700,
-    "archive_biomarkers": 12252,
+    "archive_biomarkers": 12253,
     "archive_trials": 4261,
     "archive_mind_body": 442
   }
