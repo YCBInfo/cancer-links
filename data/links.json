@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-03T04:03:30.295Z",
+  "last_updated": "2026-05-03T04:04:01.595Z",
   "categories": {
     "supplements": [
       {
@@ -540,6 +540,34 @@
         "added_date": "2026-05-03"
       },
       {
+        "id": "rechmHJuofQLByCsm",
+        "title": "CD135 (FLT3 receptor) expression as an indicator of prognosis in patients with de novo acute myeloid leukemia.",
+        "summary": "High CD135 expression on acute myeloid leukemia cells predicts poor treatment response and survival, offering a new prognostic marker for AML patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42067641/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-03"
+      },
+      {
+        "id": "recmS9HuN1S33RQZ0",
+        "title": "Activating p53Y220C with a mutant-specific small molecule.",
+        "summary": "Scientists developed a drug called TRAP-1 that reactivates mutant p53 in cancer cells, triggering cell death and senescence.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42067562/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-03"
+      },
+      {
         "id": "reccjDV37hEJLYXq9",
         "title": "Assessment of Brain Tumor Response to Radiotherapy Using Noninvasive Spectroscopic Magnetic Resonance Imaging Techniques.",
         "summary": "Spectroscopic MRI can noninvasively track brain tumor response to radiotherapy by monitoring metabolic changes.",
@@ -608,35 +636,6 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-02"
-      },
-      {
-        "id": "recZnaDv01qXtcEyM",
-        "title": "Performance of artificial intelligence software: EndoAngel, EndoAID, CAD-EYE, GI Genius, and EndoScreener in adenoma detection: an extended network meta-analysis.",
-        "summary": "AI-assisted systems improve colorectal adenoma detection during colonoscopy, but performance varies significantly between different software programs.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42066011/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-02"
-      },
-      {
-        "id": "recY0sT0FlMojHAsV",
-        "title": "Breakthroughs and challenges of CAR-T cell therapy in treating hematologic malignancies of the central nervous system.",
-        "summary": "CAR-T cell therapy shows promise against blood cancers in the brain, but challenges include limited cell trafficking, neurotoxicity, and antigen escape.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42064783/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia",
-          "Lymphoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-02"
       }
     ],
     "trials": [
@@ -679,6 +678,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-03"
+      },
+      {
+        "id": "rechmHJuofQLByCsm",
+        "title": "CD135 (FLT3 receptor) expression as an indicator of prognosis in patients with de novo acute myeloid leukemia.",
+        "summary": "High CD135 expression on acute myeloid leukemia cells predicts poor treatment response and survival, offering a new prognostic marker for AML patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42067641/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-03"
       },
@@ -836,20 +849,6 @@
         "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-05-02"
-      },
-      {
-        "id": "recHjZwkyl9Q42PxQ",
-        "title": "Fra-2 controls the response to the KRAS inhibitor MRTX-1133 in pancreatic ductal adenocarcinoma.",
-        "summary": "Fra-2 protein drives resistance to KRAS inhibitors in pancreatic cancer by activating the mTOR pathway, suggesting dual targeting could improve treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42054368/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-05-02"
       }
     ],
     "mind_body": []
@@ -861,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 20420,
+    "archive_count": 20421,
     "archive_supplements": 2265,
     "archive_off_label": 706,
-    "archive_biomarkers": 12400,
+    "archive_biomarkers": 12401,
     "archive_trials": 4315,
     "archive_mind_body": 442
   }
