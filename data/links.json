@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-03T04:13:15.574Z",
+  "last_updated": "2026-05-03T06:03:07.405Z",
   "categories": {
     "supplements": [
       {
@@ -39,6 +39,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Bladder"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-03"
+      },
+      {
+        "id": "recKx4VDqcyO3lBvj",
+        "title": "Curcumin-Embedded Magnesium-Polyphenol Network Hydrogel for Dual Delivery of aPD1 and Promotion of Pleural Sealing in Lung Cancer Immunotherapy.",
+        "summary": "A new hydrogel combining immunotherapy and curcumin significantly improves lung cancer treatment outcomes after microwave ablation surgery.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42068188/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -196,20 +210,6 @@
           "Colorectal"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-05-02"
-      },
-      {
-        "id": "recNpiFYihtesYEEX",
-        "title": "Antiproliferative Effects of Cannabinoids and Cisplatin in Cervical Cancer Cells.",
-        "summary": "Cannabinoids combined with cisplatin show promise in slowing cervical cancer cell growth and death more effectively than chemotherapy alone.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42055476/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-05-02"
       }
@@ -860,11 +860,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 20468,
+    "archive_count": 20469,
     "archive_supplements": 2268,
     "archive_off_label": 706,
     "archive_biomarkers": 12442,
-    "archive_trials": 4318,
+    "archive_trials": 4319,
     "archive_mind_body": 442
   }
 }
