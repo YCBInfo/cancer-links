@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-05-03T04:05:30.284Z",
+  "last_updated": "2026-05-03T04:05:47.758Z",
   "categories": {
     "supplements": [
+      {
+        "id": "recICFkxdsL9UBdVS",
+        "title": "Assessment the Effects of Roasted and Non-Roasted Coffee Extracts on Colon Cancer Cells.",
+        "summary": "Roasted coffee extract slowed colon cancer cell growth more effectively than unroasted coffee extract in laboratory tests.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42068038/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-03"
+      },
       {
         "id": "recpQ4QUJ0u8MJMqB",
         "title": "Citraconate preserves T cell stemness and antitumor immunity.",
@@ -196,20 +210,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-05-02"
-      },
-      {
-        "id": "recfv3IyzuNY6DF8i",
-        "title": "The Role of Irisin and Physical Activity in Breast Cancer.",
-        "summary": "Physical activity releases irisin, a protein that may help prevent breast cancer and improve patient outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42049429/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-05-02"
       }
@@ -781,6 +781,20 @@
         "added_date": "2026-05-03"
       },
       {
+        "id": "recyspPETPT1cd6Jn",
+        "title": "Efficacy of Fertility-Sparing Treatment With Progestin Is Associated With Different Molecular Classification in Endometrial Carcinoma and Atypical Endometrial Hyperplasia.",
+        "summary": "Hormone treatment preserves fertility in early endometrial cancer, with success rates varying by tumor's molecular characteristics.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42068048/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-03"
+      },
+      {
         "id": "recvPQFVE1Jq3bxIf",
         "title": "The Effects of Body-Oriented Interventions on Cancer-Related Symptoms of Women Who Survived Breast Cancer: Protocol for a Systematic Review.",
         "summary": "Researchers will review how body-oriented therapies help breast cancer survivors manage persistent symptoms and improve quality of life.",
@@ -835,20 +849,6 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-02"
-      },
-      {
-        "id": "recMOM9jxswgX0xoA",
-        "title": "Immunotherapy in Localized Colorectal Cancer: Current Practice and Future Directions.",
-        "summary": "Immune checkpoint inhibitors show remarkable effectiveness in early-stage colorectal cancer with specific genetic features, potentially avoiding surgery for some patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42066237/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-02"
       }
     ],
     "mind_body": []
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 20429,
+    "archive_count": 20430,
     "archive_supplements": 2265,
     "archive_off_label": 706,
-    "archive_biomarkers": 12409,
+    "archive_biomarkers": 12410,
     "archive_trials": 4315,
     "archive_mind_body": 442
   }
