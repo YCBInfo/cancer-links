@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-03T04:04:12.081Z",
+  "last_updated": "2026-05-03T04:04:23.516Z",
   "categories": {
     "supplements": [
       {
@@ -582,6 +582,20 @@
         "added_date": "2026-05-03"
       },
       {
+        "id": "recvxiT5NPYrtXai7",
+        "title": "HDAC inhibition unlocks tumor plasticity and enhances immunotherapy response in Myc-driven small cell lung cancer.",
+        "summary": "HDAC inhibitor entinostat reprograms small cell lung cancer to enhance immune checkpoint therapy response and survival.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42068133/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-03"
+      },
+      {
         "id": "reccjDV37hEJLYXq9",
         "title": "Assessment of Brain Tumor Response to Radiotherapy Using Noninvasive Spectroscopic Magnetic Resonance Imaging Techniques.",
         "summary": "Spectroscopic MRI can noninvasively track brain tumor response to radiotherapy by monitoring metabolic changes.",
@@ -621,20 +635,6 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-04-01",
-        "added_date": "2026-05-02"
-      },
-      {
-        "id": "recWK1oB7e6x4ZgKZ",
-        "title": "Beyond Routine Surveillance Imaging for Melanoma: Emerging Technologies for Detecting Early Recurrence and Guiding Clinical Management.",
-        "summary": "Emerging blood tests and immune imaging show promise for detecting melanoma recurrence earlier than standard imaging, potentially improving patient outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42066238/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Melanoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
         "added_date": "2026-05-02"
       }
     ],
@@ -706,6 +706,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-03"
+      },
+      {
+        "id": "recvxiT5NPYrtXai7",
+        "title": "HDAC inhibition unlocks tumor plasticity and enhances immunotherapy response in Myc-driven small cell lung cancer.",
+        "summary": "HDAC inhibitor entinostat reprograms small cell lung cancer to enhance immune checkpoint therapy response and survival.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42068133/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-03"
       },
@@ -835,20 +849,6 @@
         "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-05-02"
-      },
-      {
-        "id": "recjWX2TZCJSY8VcT",
-        "title": "AR-targeted therapies sensitize prostate cancer to cuproptosis by transcriptionally activating FDX1.",
-        "summary": "AR-targeted drugs make prostate cancer cells vulnerable to copper-induced death by activating the FDX1 protein, offering a new combination treatment strategy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42066048/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Prostate"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-02"
       }
     ],
     "mind_body": []
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 20422,
+    "archive_count": 20423,
     "archive_supplements": 2265,
     "archive_off_label": 706,
-    "archive_biomarkers": 12402,
+    "archive_biomarkers": 12403,
     "archive_trials": 4315,
     "archive_mind_body": 442
   }
