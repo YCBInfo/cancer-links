@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-03T04:07:49.616Z",
+  "last_updated": "2026-05-03T04:07:58.361Z",
   "categories": {
     "supplements": [
       {
@@ -27,6 +27,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-03"
+      },
+      {
+        "id": "recrJIX4OMEH5VcpV",
+        "title": "STEAP2-associated modulation of PI3K/AKT/mTOR signaling contributes to ginkgetin-induced apoptosis in bladder cancer cells.",
+        "summary": "Ginkgetin, a plant compound, kills bladder cancer cells by blocking a key growth pathway through a protein called STEAP2.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42067902/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Bladder"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-03"
       },
@@ -196,20 +210,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-05-02"
-      },
-      {
-        "id": "recAMz3tpFec61tZr",
-        "title": "Integrative Multi-Omics and Molecular Simulations Identify PRKCD as a Biological Modulator in Colon Adenocarcinoma: Validation With Phoenix dactylifera Phytochemicals and Comparison With Rottlerin.",
-        "summary": "A date palm compound binds to PRKCD protein similarly to a known inhibitor, showing promise for colon cancer treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42053760/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-05-02"
       }
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 20441,
+    "archive_count": 20442,
     "archive_supplements": 2267,
     "archive_off_label": 706,
-    "archive_biomarkers": 12419,
+    "archive_biomarkers": 12420,
     "archive_trials": 4315,
     "archive_mind_body": 442
   }
