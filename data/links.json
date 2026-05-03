@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-03T04:05:47.758Z",
+  "last_updated": "2026-05-03T04:05:58.003Z",
   "categories": {
     "supplements": [
       {
@@ -13,6 +13,20 @@
           "Colorectal"
         ],
         "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-03"
+      },
+      {
+        "id": "recxikQRut3LetFAn",
+        "title": "The Clinical Benefits of Nutritional Supplementation Across the Chemotherapy Journey in Cancer Patients: A Multicenter Prospective Cohort Study.",
+        "summary": "Nutritional supplements during chemotherapy helped cancer patients better tolerate treatment and maintain health throughout their cancer care journey.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42068037/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-03"
       },
@@ -196,20 +210,6 @@
           "Colorectal"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-05-02"
-      },
-      {
-        "id": "rec7BP7ZCazsYGJ6M",
-        "title": "A First-In-Human Study of Pyroligneous Extract, the Biomaterial Derived From Pyrolytic Palm Kernel Shell Wood Vinegar as a Novel Wound Healing Aid on Diabetic Foot Ulcer.",
-        "summary": "Pyroligneous extract in a topical hydrogel significantly accelerates diabetic foot ulcer healing by reducing inflammation and infection risk.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42053144/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-05-02"
       }
@@ -795,6 +795,20 @@
         "added_date": "2026-05-03"
       },
       {
+        "id": "recxikQRut3LetFAn",
+        "title": "The Clinical Benefits of Nutritional Supplementation Across the Chemotherapy Journey in Cancer Patients: A Multicenter Prospective Cohort Study.",
+        "summary": "Nutritional supplements during chemotherapy helped cancer patients better tolerate treatment and maintain health throughout their cancer care journey.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42068037/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-03"
+      },
+      {
         "id": "recvPQFVE1Jq3bxIf",
         "title": "The Effects of Body-Oriented Interventions on Cancer-Related Symptoms of Women Who Survived Breast Cancer: Protocol for a Systematic Review.",
         "summary": "Researchers will review how body-oriented therapies help breast cancer survivors manage persistent symptoms and improve quality of life.",
@@ -835,20 +849,6 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-02"
-      },
-      {
-        "id": "recWK1oB7e6x4ZgKZ",
-        "title": "Beyond Routine Surveillance Imaging for Melanoma: Emerging Technologies for Detecting Early Recurrence and Guiding Clinical Management.",
-        "summary": "Emerging blood tests and immune imaging show promise for detecting melanoma recurrence earlier than standard imaging, potentially improving patient outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42066238/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Melanoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-02"
       }
     ],
     "mind_body": []
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 20430,
+    "archive_count": 20431,
     "archive_supplements": 2265,
     "archive_off_label": 706,
-    "archive_biomarkers": 12410,
+    "archive_biomarkers": 12411,
     "archive_trials": 4315,
     "archive_mind_body": 442
   }
