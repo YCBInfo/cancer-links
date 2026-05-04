@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T04:25:37.815Z",
+  "last_updated": "2026-05-04T06:03:06.540Z",
   "categories": {
     "supplements": [
       {
@@ -115,6 +115,20 @@
         "added_date": "2026-05-04"
       },
       {
+        "id": "rec3nTVXcKratTG6W",
+        "title": "Comprehensive review on ethnobotany, phytochemistry, and pharmacology of Terminalia phillyreifolia, a traditional medicinal plant.",
+        "summary": "Terminalia phillyreifolia plant extracts show cytotoxic effects against cancer cells and possess multiple healing properties, though research needs advancement.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42070281/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-04"
+      },
+      {
         "id": "recICFkxdsL9UBdVS",
         "title": "Assessment the Effects of Roasted and Non-Roasted Coffee Extracts on Colon Cancer Cells.",
         "summary": "Roasted coffee extract slowed colon cancer cell growth more effectively than unroasted coffee extract in laboratory tests.",
@@ -195,20 +209,6 @@
           "Pancreatic"
         ],
         "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-02"
-      },
-      {
-        "id": "recnw1t49Rxr0s4BZ",
-        "title": "Evaluation of the effects of diosmin in cyclophosphamide-induced nephrotoxicity: an experimental animal study.",
-        "summary": "Diosmin, a natural compound, protected rat kidneys from damage caused by cyclophosphamide cancer treatment by reducing inflammation and cell death.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42065758/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-02"
       }
@@ -294,6 +294,20 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Thyroid"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-04"
+      },
+      {
+        "id": "recc6g41hHz4QgZUf",
+        "title": "Metformin counteracts lipid accumulation and cell proliferation in hepatocellular carcinoma via regulating METTL3-mediated m6A methylation.",
+        "summary": "Metformin reduces lipid buildup and cancer cell growth in liver cancer by decreasing a protein that modifies RNA structure.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42070116/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Liver"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -408,20 +422,6 @@
           "Colorectal"
         ],
         "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-02"
-      },
-      {
-        "id": "recorfDAmfEb7xtOF",
-        "title": "Rosuvastatin Attenuates Blood-Brain Barrier Dysfunction after ICH Through Modulation of CXCL12-Associated VEGFR2/p38 MAPK Signaling.",
-        "summary": "Rosuvastatin reduces brain barrier damage after stroke by blocking a specific cellular signaling pathway, offering potential new treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42066986/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-02"
       }
@@ -859,9 +859,9 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 20595,
+    "archive_count": 20596,
     "archive_supplements": 2277,
-    "archive_off_label": 708,
+    "archive_off_label": 709,
     "archive_biomarkers": 12536,
     "archive_trials": 4340,
     "archive_mind_body": 442
