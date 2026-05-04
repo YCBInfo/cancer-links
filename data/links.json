@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T09:05:41.764Z",
+  "last_updated": "2026-05-04T09:05:53.315Z",
   "categories": {
     "supplements": [
       {
@@ -356,6 +356,20 @@
         "added_date": "2026-05-04"
       },
       {
+        "id": "recZKIjWOCk95nkvr",
+        "title": "Low-Dose Aspirin and the Prevention of Colorectal Cancer in Inflammatory Bowel Disease: A Nationwide Cohort Study.",
+        "summary": "Low-dose aspirin may help prevent colorectal cancer in patients with inflammatory bowel disease, according to a large population study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41510968/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-04"
+      },
+      {
         "id": "rectGtZlBos1ftGVP",
         "title": "Transient p53/p21 activation selectively protects healthy human hair follicles and their stem cells from chemotherapy.",
         "summary": "A drug called ALRN-6924 protects healthy hair follicles and stem cells from chemotherapy damage by temporarily halting their growth.",
@@ -408,20 +422,6 @@
           "Colorectal"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-05-02"
-      },
-      {
-        "id": "rechOuBcMhvEjJVeK",
-        "title": "BPGM as an intrinsic brake to constrain metastasis through phospho-epigenetic-mediated carnitine biosynthesis suppression.",
-        "summary": "Researchers identified BPGM as a natural brake on cancer metastasis by blocking carnitine production that fuels tumor spread.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41875824/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-05-02"
       }
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 20631,
+    "archive_count": 20632,
     "archive_supplements": 2283,
     "archive_off_label": 710,
-    "archive_biomarkers": 12557,
+    "archive_biomarkers": 12558,
     "archive_trials": 4347,
     "archive_mind_body": 442
   }
