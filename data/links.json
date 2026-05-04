@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T06:04:02.907Z",
+  "last_updated": "2026-05-04T06:04:54.305Z",
   "categories": {
     "supplements": [
       {
@@ -314,6 +314,20 @@
         "added_date": "2026-05-04"
       },
       {
+        "id": "recqYfcikrVVKz4SW",
+        "title": "Arvanil reverses cisplatin resistance in ovarian cancer by activating HMOX1-driven ferroptosis.",
+        "summary": "Arvanil combined with cisplatin overcomes drug resistance in ovarian cancer by triggering a cell death process called ferroptosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42069794/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Ovarian"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-04"
+      },
+      {
         "id": "rectGtZlBos1ftGVP",
         "title": "Transient p53/p21 activation selectively protects healthy human hair follicles and their stem cells from chemotherapy.",
         "summary": "A drug called ALRN-6924 protects healthy hair follicles and stem cells from chemotherapy damage by temporarily halting their growth.",
@@ -406,20 +420,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-02"
-      },
-      {
-        "id": "recQQV4NQn6L2JFda",
-        "title": "Orlistat targets NEDD8 conjugating enzyme UBC12 for cancer therapy.",
-        "summary": "Orlistat, an anti-obesity drug, fights colorectal cancer by targeting a protein called UBC12 that drives tumor growth.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42067003/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Colorectal"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 20598,
+    "archive_count": 20599,
     "archive_supplements": 2277,
     "archive_off_label": 709,
-    "archive_biomarkers": 12538,
+    "archive_biomarkers": 12539,
     "archive_trials": 4340,
     "archive_mind_body": 442
   }
