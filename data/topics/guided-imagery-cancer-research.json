@@ -11,6 +11,21 @@
   },
   "articles": [
     {
+      "title": "Anonymization and visualization of health data and biomarkers.",
+      "hook": "AI-generated synthetic health data preserves biomarker accuracy while protecting privacy",
+      "summary": "Researchers developed a privacy-protective framework using AI to create synthetic health datasets while maintaining data accuracy for medical research.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42069937/",
+      "source": "PubMed",
+      "pub_date": "2026-05-01",
+      "category": [
+        "Biomarkers & Diagnostics"
+      ],
+      "cancer_types": [
+        "General"
+      ],
+      "biomarkers": ""
+    },
+    {
       "title": "Visualization of Cerebral Veins and Deep Gray Matter Nuclei by Susceptibility-weighted Imaging: A Comparative Study of 5.0 T and 3.0 T Imaging.",
       "hook": "Since this is a neuroimaging methods paper...",
       "summary": "A 5.0 Tesla MRI scanner produces clearer images of brain veins and deep brain structures than a 3.0 Tesla scanner.",
@@ -144,24 +159,8 @@
         "General"
       ],
       "biomarkers": ""
-    },
-    {
-      "title": "Lower-grade glioma imaging volumes and survival: a single-institution analysis of 90 patients after resection using intraoperative MRI.",
-      "hook": "Intraoperative MRI improves survival in lower-g...",
-      "summary": "Intraoperative MRI helped surgeons remove more lower-grade brain tumors, improving patient survival through better real-time tumor visualization.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41854942/",
-      "source": "PubMed",
-      "pub_date": "2026-03-01",
-      "category": [
-        "Biomarkers & Diagnostics",
-        "Clinical Trials"
-      ],
-      "cancer_types": [
-        "Brain"
-      ],
-      "biomarkers": ""
     }
   ],
   "article_count": 10,
-  "last_updated": "2026-05-03T13:01:08.550Z"
+  "last_updated": "2026-05-04T13:01:12.288Z"
 }
