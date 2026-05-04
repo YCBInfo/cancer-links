@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T04:08:10.563Z",
+  "last_updated": "2026-05-04T04:08:22.888Z",
   "categories": {
     "supplements": [
       {
@@ -808,6 +808,34 @@
         "added_date": "2026-05-04"
       },
       {
+        "id": "receWCLdK2Q29zHZW",
+        "title": "Prostate cancer detection in routine clinical practice: a large cohort study in Japan.",
+        "summary": "Without organized screening in one Japanese region, prostate cancer diagnoses shifted toward older, higher-risk patients, though active surveillance increased.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42069962/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-04"
+      },
+      {
+        "id": "recGYthxzGT9smo21",
+        "title": "Translational feasibility of a plasmonic microarray-based liquid biopsy for KRAS codon mutation detection across tissue, plasma, and urine in early colorectal cancer.",
+        "summary": "Researchers developed a highly sensitive test detecting colorectal cancer mutations in blood and urine samples, matching tissue biopsy accuracy for early diagnosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42069955/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-04"
+      },
+      {
         "id": "recwOC7nDHBfVQlXd",
         "title": "Association Between Multi-Laboratory Parameters Pre- and Post-Treatment and Pathological Features and Their Values in Clinical Decision in Primary Hepatic Carcinoma.",
         "summary": "Researchers identified which blood test markers help doctors diagnose, monitor treatment response, and predict outcomes in liver cancer patients.",
@@ -818,34 +846,6 @@
           "Liver"
         ],
         "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-03"
-      },
-      {
-        "id": "recMTV4eqJzBSaYRf",
-        "title": "Serositis as possible manifestation in MDS/AML patients with complex karyotype and TP53 mutation: case series.",
-        "summary": "Patients with blood cancer carrying p53 mutations developed inflammation treated successfully with steroids.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42067682/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-03"
-      },
-      {
-        "id": "recdkyUMXqcJSscBS",
-        "title": "Thoracic inflammatory myofibroblastic tumors: A decade-long retrospective study integrating clinicopathological and molecular features from a tertiary care centre.",
-        "summary": "Thoracic inflammatory myofibroblastic tumors in children and young adults are primarily driven by ALK gene mutations, enabling targeted drug therapy for better treatment outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42067665/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-03"
       }
@@ -859,8 +859,8 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 20502,
-    "archive_supplements": 2273,
+    "archive_count": 20503,
+    "archive_supplements": 2274,
     "archive_off_label": 706,
     "archive_biomarkers": 12463,
     "archive_trials": 4326,
