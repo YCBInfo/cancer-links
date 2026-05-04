@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T06:03:06.540Z",
+  "last_updated": "2026-05-04T06:03:22.628Z",
   "categories": {
     "supplements": [
       {
@@ -129,6 +129,20 @@
         "added_date": "2026-05-04"
       },
       {
+        "id": "recSUFpp7SamQy88w",
+        "title": "Cytotoxic trichothecene derivatives from Trichothecium sp. DWS815.",
+        "summary": "Fungal compounds 7 and 8 stopped cancer cell growth by halting cell division in colorectal cancer cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42069818/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-04"
+      },
+      {
         "id": "recICFkxdsL9UBdVS",
         "title": "Assessment the Effects of Roasted and Non-Roasted Coffee Extracts on Colon Cancer Cells.",
         "summary": "Roasted coffee extract slowed colon cancer cell growth more effectively than unroasted coffee extract in laboratory tests.",
@@ -195,20 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-02"
-      },
-      {
-        "id": "recZRrnOgY2jzTgiJ",
-        "title": "Nootkatone as a multi-target modulator of the PD-L1/PD-1 signaling in pancreatic cancer: network pharmacology, docking, molecular dynamics, and DFT analysis.",
-        "summary": "Nootkatone, a natural compound, shows promise against pancreatic cancer by targeting immune checkpoint pathways and multiple cancer-related signaling pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42065764/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Pancreatic"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-02"
       }
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 20596,
+    "archive_count": 20597,
     "archive_supplements": 2277,
     "archive_off_label": 709,
-    "archive_biomarkers": 12536,
+    "archive_biomarkers": 12537,
     "archive_trials": 4340,
     "archive_mind_body": 442
   }
