@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T04:06:34.986Z",
+  "last_updated": "2026-05-04T04:06:46.895Z",
   "categories": {
     "supplements": [
       {
@@ -49,6 +49,20 @@
         "title": "Clostridium butyricum alleviates DSS-induced colitis by suppressing neutrophil extracellular trap formation via the IL-17 pathway.",
         "summary": "A bacteria called Clostridium butyricum reduces colon inflammation by blocking harmful immune cell traps through the IL-17 pathway.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42070310/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-04"
+      },
+      {
+        "id": "recZQuN4kx4hlazZ5",
+        "title": "Combined purslane ethanolic extract and metformin attenuate cognitive dysfunction in HFD/STZ-induced diabetic rats via modulation of oxidative stress, neuroinflammation, and neurotransmitters.",
+        "summary": "Purslane extract combined with metformin improved memory problems in diabetic rats by reducing brain inflammation and oxidative stress.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42070055/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -198,20 +212,6 @@
         "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-05-02"
-      },
-      {
-        "id": "recWFBsRDwH1YXGQS",
-        "title": "Discovery of the protective effect of glutamine on acute alcoholic liver injury.",
-        "summary": "Glutamine protects the liver from damage caused by acute alcohol exposure, according to new research findings.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42060805/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-05-02"
       }
     ],
     "off_label": [
@@ -222,6 +222,20 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/42070227/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-04"
+      },
+      {
+        "id": "recZQuN4kx4hlazZ5",
+        "title": "Combined purslane ethanolic extract and metformin attenuate cognitive dysfunction in HFD/STZ-induced diabetic rats via modulation of oxidative stress, neuroinflammation, and neurotransmitters.",
+        "summary": "Purslane extract combined with metformin improved memory problems in diabetic rats by reducing brain inflammation and oxidative stress.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42070055/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "General"
         ],
@@ -408,20 +422,6 @@
           "Bladder"
         ],
         "quality_score": 18,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-05-01"
-      },
-      {
-        "id": "recNhBtU0xE00zBhi",
-        "title": "Association of MUC3A P258S mutation with advanced phase CML structural and in silico insights.",
-        "summary": "A novel MUC3A mutation found exclusively in advanced chronic myeloid leukemia may serve as a progression biomarker and improve treatment response to Capmatinib.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42062614/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-05-01"
       }
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 20493,
+    "archive_count": 20494,
     "archive_supplements": 2270,
     "archive_off_label": 706,
-    "archive_biomarkers": 12457,
+    "archive_biomarkers": 12458,
     "archive_trials": 4326,
     "archive_mind_body": 442
   }
