@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T08:03:26.131Z",
+  "last_updated": "2026-05-04T09:03:10.181Z",
   "categories": {
     "supplements": [
       {
@@ -185,6 +185,20 @@
         "added_date": "2026-05-04"
       },
       {
+        "id": "recjO0NeJSZNL1DbX",
+        "title": "Antitumor Activity of Sodium Selenite, Palbociclib, and Disulfiram Against Osteosarcoma and Rhabdomyosarcoma Cell Lines.",
+        "summary": "Three existing drugs—sodium selenite, palbociclib, and disulfiram—show promise against childhood bone and muscle cancers by stopping tumor growth and spread.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42070104/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-04"
+      },
+      {
         "id": "recICFkxdsL9UBdVS",
         "title": "Assessment the Effects of Roasted and Non-Roasted Coffee Extracts on Colon Cancer Cells.",
         "summary": "Roasted coffee extract slowed colon cancer cell growth more effectively than unroasted coffee extract in laboratory tests.",
@@ -195,20 +209,6 @@
           "Colorectal"
         ],
         "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-03"
-      },
-      {
-        "id": "recxikQRut3LetFAn",
-        "title": "The Clinical Benefits of Nutritional Supplementation Across the Chemotherapy Journey in Cancer Patients: A Multicenter Prospective Cohort Study.",
-        "summary": "Nutritional supplements during chemotherapy helped cancer patients better tolerate treatment and maintain health throughout their cancer care journey.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42068037/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-03"
       }
@@ -328,6 +328,34 @@
         "added_date": "2026-05-04"
       },
       {
+        "id": "recOjUUsrHt6W3usN",
+        "title": "Fenofibrate as an anti-cancer treatment: an in vitro study on glioblastoma cells at various oxygen levels and on normal astrocytes.",
+        "summary": "Fenofibrate, a cholesterol drug, kills glioblastoma brain cancer cells in lab tests and works better than standard treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42069577/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-04"
+      },
+      {
+        "id": "recjO0NeJSZNL1DbX",
+        "title": "Antitumor Activity of Sodium Selenite, Palbociclib, and Disulfiram Against Osteosarcoma and Rhabdomyosarcoma Cell Lines.",
+        "summary": "Three existing drugs—sodium selenite, palbociclib, and disulfiram—show promise against childhood bone and muscle cancers by stopping tumor growth and spread.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42070104/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-04"
+      },
+      {
         "id": "rectGtZlBos1ftGVP",
         "title": "Transient p53/p21 activation selectively protects healthy human hair follicles and their stem cells from chemotherapy.",
         "summary": "A drug called ALRN-6924 protects healthy hair follicles and stem cells from chemotherapy damage by temporarily halting their growth.",
@@ -395,34 +423,6 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-04-01",
-        "added_date": "2026-05-02"
-      },
-      {
-        "id": "recpojUOdWby9QHLN",
-        "title": "Effect of statin use on prognostic outcomes in hepatocellular carcinoma following liver surgery: a systematic review and meta-analysis.",
-        "summary": "Statins significantly improve survival and reduce recurrence in hepatocellular carcinoma patients after liver surgery or transplant.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41524602/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Liver"
-        ],
-        "quality_score": 32,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-02"
-      },
-      {
-        "id": "recNnoujViCRQTJhi",
-        "title": "Exploration of BMI and circulating metabolic factors as predictors of metformin benefit in CCTG MA.32.",
-        "summary": "Metformin showed potential benefit in HER2-positive breast cancer patients, with obesity-related blood markers possibly predicting treatment response.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42063220/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
         "added_date": "2026-05-02"
       }
     ],
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 20624,
+    "archive_count": 20625,
     "archive_supplements": 2282,
     "archive_off_label": 709,
-    "archive_biomarkers": 12554,
+    "archive_biomarkers": 12555,
     "archive_trials": 4345,
     "archive_mind_body": 442
   }
