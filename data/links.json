@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T04:04:01.243Z",
+  "last_updated": "2026-05-04T04:04:11.210Z",
   "categories": {
     "supplements": [
       {
@@ -554,6 +554,20 @@
         "added_date": "2026-05-04"
       },
       {
+        "id": "recIltoP5zpqZtp1l",
+        "title": "A lipid nanoparticle-based peptide-proteolysis-targeting chimera degrades BCL6 for diffuse large B-cell lymphoma treatment.",
+        "summary": "Researchers developed a new nanoparticle treatment that destroys BCL6 protein in diffuse large B-cell lymphoma cells while maintaining safety.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42070207/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lymphoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-04"
+      },
+      {
         "id": "recWo1qau5p4LycLR",
         "title": "IGF2BP3 promotes gastric cancer progression by inhibiting ferroptosis through ETV4-mediated regulation of GCH1.",
         "summary": "Gastric cancer protein IGF2BP3 promotes tumor growth by blocking ferroptosis through an ETV4-GCH1 signaling pathway.",
@@ -622,20 +636,6 @@
         "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-03"
-      },
-      {
-        "id": "recsFFqxUIp6Y6rLv",
-        "title": "Focus on M2-TAMs and gastric cancer: a Mendelian randomization and bioinformatics analysis.",
-        "summary": "Researchers identified three genes linked to immune cells in gastric cancer that predict patient survival and treatment response better than current methods.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42067686/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Stomach"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-03"
       }
     ],
     "trials": [
@@ -690,6 +690,20 @@
         "category": "Clinical Trials",
         "cancer_types": [
           "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-04"
+      },
+      {
+        "id": "recIltoP5zpqZtp1l",
+        "title": "A lipid nanoparticle-based peptide-proteolysis-targeting chimera degrades BCL6 for diffuse large B-cell lymphoma treatment.",
+        "summary": "Researchers developed a new nanoparticle treatment that destroys BCL6 protein in diffuse large B-cell lymphoma cells while maintaining safety.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42070207/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lymphoma"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -835,20 +849,6 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-03"
-      },
-      {
-        "id": "recyspPETPT1cd6Jn",
-        "title": "Efficacy of Fertility-Sparing Treatment With Progestin Is Associated With Different Molecular Classification in Endometrial Carcinoma and Atypical Endometrial Hyperplasia.",
-        "summary": "Hormone treatment preserves fertility in early endometrial cancer, with success rates varying by tumor's molecular characteristics.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42068048/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-03"
       }
     ],
     "mind_body": []
@@ -860,8 +860,8 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 20480,
-    "archive_supplements": 2269,
+    "archive_count": 20481,
+    "archive_supplements": 2270,
     "archive_off_label": 706,
     "archive_biomarkers": 12448,
     "archive_trials": 4323,
