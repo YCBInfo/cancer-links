@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-03T11:54:00.196Z",
+  "last_updated": "2026-05-04T02:03:25.707Z",
   "categories": {
     "supplements": [
       {
@@ -640,6 +640,20 @@
     ],
     "trials": [
       {
+        "id": "recGrT2Bm3hSs6D0y",
+        "title": "Spiritual Well-Being Moderates the Association Between Attachment Insecurity and Death Anxiety in Chinese Patients With Metastatic Breast Cancer: Indirect Pathways Through Distress and Depressive Symptoms.",
+        "summary": "Spiritual well-being helps reduce death anxiety in metastatic breast cancer patients by lowering distress and depression.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42069236/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-04"
+      },
+      {
         "id": "recwOC7nDHBfVQlXd",
         "title": "Association Between Multi-Laboratory Parameters Pre- and Post-Treatment and Pathological Features and Their Values in Clinical Decision in Primary Hepatic Carcinoma.",
         "summary": "Researchers identified which blood test markers help doctors diagnose, monitor treatment response, and predict outcomes in liver cancer patients.",
@@ -835,20 +849,6 @@
         "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-03"
-      },
-      {
-        "id": "recy0ifVOMHEc1Ogt",
-        "title": "Clinical value of VI-RADS score in predicting repeat transurethral resection in primary bladder cancer: a prospective observational study.",
-        "summary": "A scoring system called VI-RADS accurately predicts which bladder cancer patients need repeat surgery, potentially reducing unnecessary procedures.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42067878/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Bladder"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-03"
       }
     ],
     "mind_body": []
@@ -860,11 +860,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 20476,
+    "archive_count": 20477,
     "archive_supplements": 2269,
     "archive_off_label": 706,
     "archive_biomarkers": 12446,
-    "archive_trials": 4321,
+    "archive_trials": 4322,
     "archive_mind_body": 442
   }
 }
