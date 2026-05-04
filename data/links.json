@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T04:07:29.498Z",
+  "last_updated": "2026-05-04T04:07:39.849Z",
   "categories": {
     "supplements": [
       {
@@ -780,6 +780,20 @@
         "added_date": "2026-05-04"
       },
       {
+        "id": "recK2oVhJEGpSSz0K",
+        "title": "Combined Preoperative Risk Score Including sCD40, Leukocytes, and BMI Predicts Pancreas-Specific Complications After Pancreatic Cancer Surgery.",
+        "summary": "A blood test combining three factors predicts complications after pancreatic cancer surgery, helping doctors identify high-risk patients beforehand.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42069988/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Pancreatic"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-04"
+      },
+      {
         "id": "recwOC7nDHBfVQlXd",
         "title": "Association Between Multi-Laboratory Parameters Pre- and Post-Treatment and Pathological Features and Their Values in Clinical Decision in Primary Hepatic Carcinoma.",
         "summary": "Researchers identified which blood test markers help doctors diagnose, monitor treatment response, and predict outcomes in liver cancer patients.",
@@ -834,20 +848,6 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-03"
-      },
-      {
-        "id": "recvBdjOv0JX4raA5",
-        "title": "Single-Cell Dissection of Malignant Cell Heterogeneity Reveals Functional Programs and Clinically Relevant Subtypes in Head and Neck Squamous Cell Carcinoma.",
-        "summary": "Researchers identified distinct cancer cell subtypes in head and neck cancer that predict treatment response and patient survival outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42068156/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-03"
       }
     ],
     "mind_body": []
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 20498,
+    "archive_count": 20499,
     "archive_supplements": 2271,
     "archive_off_label": 706,
-    "archive_biomarkers": 12461,
+    "archive_biomarkers": 12462,
     "archive_trials": 4326,
     "archive_mind_body": 442
   }
