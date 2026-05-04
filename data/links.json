@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-05-04T02:03:25.707Z",
+  "last_updated": "2026-05-04T04:03:14.182Z",
   "categories": {
     "supplements": [
+      {
+        "id": "reclJ1LJCWeLeuN9w",
+        "title": "Characterisation of Xianling Cifang Formula and its metabolites in the mice lung tissue and blood by UHPLC-HR-MS method.",
+        "summary": "A Traditional Chinese Medicine formula for breast cancer contains flavonoids and terpenes that reach lung tissue, with icariin identified as a key active compound.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42070280/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-04"
+      },
       {
         "id": "recICFkxdsL9UBdVS",
         "title": "Assessment the Effects of Roasted and Non-Roasted Coffee Extracts on Colon Cancer Cells.",
@@ -196,20 +210,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-05-02"
-      },
-      {
-        "id": "recD73rm0aNf9Bypp",
-        "title": "Inhibitory Activity of Conferone on FAK Activity and Glutamine Metabolism in Human Colorectal Cancer.",
-        "summary": "Conferone, a natural compound, inhibits colorectal cancer cell migration and invasion by blocking FAK protein and glutamine metabolism.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42056844/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-05-02"
       }
@@ -428,6 +428,76 @@
     ],
     "biomarkers": [
       {
+        "id": "recWpdIAY5iX5Ouj9",
+        "title": "Trial watch: antibody-drug conjugates in cancer therapy.",
+        "summary": "Antibody-drug conjugates combine targeting antibodies with toxic payloads, demonstrating clinical benefit across blood and solid cancers with improved survival outcomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42070121/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-04"
+      },
+      {
+        "id": "recK05ThuVpbbKghc",
+        "title": "Integrative analysis of adiponectin-related genes reveals immune subtypes and prognostic significance in melanoma.",
+        "summary": "Adiponectin-related genes predict survival outcomes and immune responses in melanoma patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42070138/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Melanoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-04"
+      },
+      {
+        "id": "recBcBzpn68I1ofdt",
+        "title": "Boron-Doped AIE Nanomaterials With NIR-II Emission for FL/MR Dual-Modality Tumor Imaging.",
+        "summary": "Boron-doped nanomaterials enable dual-mode fluorescence and MRI imaging of tumors with enhanced detection and biocompatibility.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42070299/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-04"
+      },
+      {
+        "id": "reclJ1LJCWeLeuN9w",
+        "title": "Characterisation of Xianling Cifang Formula and its metabolites in the mice lung tissue and blood by UHPLC-HR-MS method.",
+        "summary": "A Traditional Chinese Medicine formula for breast cancer contains flavonoids and terpenes that reach lung tissue, with icariin identified as a key active compound.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42070280/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-04"
+      },
+      {
+        "id": "recggw48xMG6wSds5",
+        "title": "Impact of Genomic Mutations on the Transcriptional Pathways and Tumor Microenvironment Landscape of Localized Early Prostate Cancer.",
+        "summary": "Researchers identified how specific genetic mutations in early prostate cancer affect tumor behavior and immune environment, helping distinguish aggressive from slow-growing tumors.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42070269/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-04"
+      },
+      {
         "id": "recWo1qau5p4LycLR",
         "title": "IGF2BP3 promotes gastric cancer progression by inhibiting ferroptosis through ETV4-mediated regulation of GCH1.",
         "summary": "Gastric cancer protein IGF2BP3 promotes tumor growth by blocking ferroptosis through an ETV4-GCH1 signaling pathway.",
@@ -566,76 +636,6 @@
         "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-03"
-      },
-      {
-        "id": "recvBdjOv0JX4raA5",
-        "title": "Single-Cell Dissection of Malignant Cell Heterogeneity Reveals Functional Programs and Clinically Relevant Subtypes in Head and Neck Squamous Cell Carcinoma.",
-        "summary": "Researchers identified distinct cancer cell subtypes in head and neck cancer that predict treatment response and patient survival outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42068156/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-03"
-      },
-      {
-        "id": "recvxiT5NPYrtXai7",
-        "title": "HDAC inhibition unlocks tumor plasticity and enhances immunotherapy response in Myc-driven small cell lung cancer.",
-        "summary": "HDAC inhibitor entinostat reprograms small cell lung cancer to enhance immune checkpoint therapy response and survival.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42068133/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-03"
-      },
-      {
-        "id": "rec90chWM91CYD18c",
-        "title": "Age-Associated Targetable Genomic Alterations and PD-L1 Expression in 2509 Patients With Pulmonary Ground-Glass Opacities.",
-        "summary": "Researchers found that lung cancer mutations and immune markers vary by age in early-stage lung lesions, offering clues for personalized treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42068110/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-03"
-      },
-      {
-        "id": "recgm78Wts5oYexEr",
-        "title": "Different Immune Cells Modified With Chimeric Antigen Receptors Are Being Applied to Ovarian Cancer: Which Is the Most Effective?",
-        "summary": "Researchers are comparing three genetically modified immune cell therapies to treat ovarian cancer, with CAR-NK and CAR-M showing advantages over CAR-T.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42068103/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Ovarian"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-03"
-      },
-      {
-        "id": "rec14bnnijU5tQBtW",
-        "title": "Predicting Prognosis for Gastric Cancer Patients Receiving Neoadjuvant Treatment With Body Composition-Based Deep Learning.",
-        "summary": "Researchers developed an artificial intelligence tool using body composition to predict survival outcomes for gastric cancer patients receiving pre-surgery treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42068095/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Stomach"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-03"
       }
     ],
     "trials": [
@@ -648,6 +648,34 @@
         "category": "Clinical Trials",
         "cancer_types": [
           "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-04"
+      },
+      {
+        "id": "recWpdIAY5iX5Ouj9",
+        "title": "Trial watch: antibody-drug conjugates in cancer therapy.",
+        "summary": "Antibody-drug conjugates combine targeting antibodies with toxic payloads, demonstrating clinical benefit across blood and solid cancers with improved survival outcomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42070121/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-04"
+      },
+      {
+        "id": "recF5RoGBOKHSofpK",
+        "title": "Perioperative Safety and Early Oncologic Outcomes of Salvage Irreversible Electroporation for Radiorecurrent Prostate Cancer.",
+        "summary": "Salvage irreversible electroporation shows safe, effective early results for treating prostate cancer that recurs after radiation therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42070272/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Prostate"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -821,34 +849,6 @@
         "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-03"
-      },
-      {
-        "id": "recKGlYXe93wS8juV",
-        "title": "Association of mortality and neurological outcomes with hypocapnia in adult patients with acute brain injury: an updated meta-analysis.",
-        "summary": "Low carbon dioxide levels in blood are linked to worse survival and brain outcomes in acute brain injury patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42067940/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-03"
-      },
-      {
-        "id": "recyqgi7j6IeFU6L1",
-        "title": "Survival trends in the management of carcinoid heart disease among patients with neuroendocrine neoplasms.",
-        "summary": "Researchers identified clinical and imaging factors that predict carcinoid heart disease development in neuroendocrine tumor patients to improve survival outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42067925/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-03"
       }
     ],
     "mind_body": []
@@ -860,11 +860,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 20477,
+    "archive_count": 20478,
     "archive_supplements": 2269,
     "archive_off_label": 706,
     "archive_biomarkers": 12446,
-    "archive_trials": 4322,
+    "archive_trials": 4323,
     "archive_mind_body": 442
   }
 }
