@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T04:05:40.939Z",
+  "last_updated": "2026-05-04T04:05:52.040Z",
   "categories": {
     "supplements": [
       {
@@ -752,6 +752,20 @@
         "added_date": "2026-05-04"
       },
       {
+        "id": "recQF4HyYxSBjhY6R",
+        "title": "An evaluation of avutometinib in combination with defactinib for KRAS-mutated recurrent low-grade serous ovarian cancer.",
+        "summary": "A combination drug treatment targets KRAS mutations in recurrent low-grade serous ovarian cancer, addressing a previously hard-to-treat cancer type.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42059499/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Ovarian"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-04"
+      },
+      {
         "id": "recwOC7nDHBfVQlXd",
         "title": "Association Between Multi-Laboratory Parameters Pre- and Post-Treatment and Pathological Features and Their Values in Clinical Decision in Primary Hepatic Carcinoma.",
         "summary": "Researchers identified which blood test markers help doctors diagnose, monitor treatment response, and predict outcomes in liver cancer patients.",
@@ -834,20 +848,6 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-03"
-      },
-      {
-        "id": "rec90chWM91CYD18c",
-        "title": "Age-Associated Targetable Genomic Alterations and PD-L1 Expression in 2509 Patients With Pulmonary Ground-Glass Opacities.",
-        "summary": "Researchers found that lung cancer mutations and immune markers vary by age in early-stage lung lesions, offering clues for personalized treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42068110/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-03"
       }
     ],
     "mind_body": []
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 20488,
+    "archive_count": 20489,
     "archive_supplements": 2270,
     "archive_off_label": 706,
-    "archive_biomarkers": 12453,
+    "archive_biomarkers": 12454,
     "archive_trials": 4325,
     "archive_mind_body": 442
   }
