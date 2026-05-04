@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T04:07:07.832Z",
+  "last_updated": "2026-05-04T04:07:17.802Z",
   "categories": {
     "supplements": [
       {
@@ -244,6 +244,20 @@
         "added_date": "2026-05-04"
       },
       {
+        "id": "rec2YOCp2BzBeuunk",
+        "title": "Spatially resolved ex vivo drug response profiling in SMARCB1-deficient sinonasal carcinoma.",
+        "summary": "mTOR inhibitor Sapanisertib effectively kills aggressive sinonasal carcinoma cells by targeting stem-like tumor populations in patient tissue samples.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42070010/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-04"
+      },
+      {
         "id": "rectGtZlBos1ftGVP",
         "title": "Transient p53/p21 activation selectively protects healthy human hair follicles and their stem cells from chemotherapy.",
         "summary": "A drug called ALRN-6924 protects healthy hair follicles and stem cells from chemotherapy damage by temporarily halting their growth.",
@@ -409,20 +423,6 @@
         ],
         "quality_score": 10,
         "pub_date": "2026-04-30",
-        "added_date": "2026-05-01"
-      },
-      {
-        "id": "recFWiOJ4pJihUIft",
-        "title": "Genetic characteristics and targeted treatments of primary bladder and urachal adenocarcinomas: a systematic review with pooled descriptive genomic analyses.",
-        "summary": "Researchers cataloged genetic mutations and targeted drug treatments for rare bladder adenocarcinomas to guide personalized patient care decisions.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42062619/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Bladder"
-        ],
-        "quality_score": 18,
-        "pub_date": "2026-04-01",
         "added_date": "2026-05-01"
       }
     ],
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 20496,
+    "archive_count": 20497,
     "archive_supplements": 2271,
     "archive_off_label": 706,
-    "archive_biomarkers": 12459,
+    "archive_biomarkers": 12460,
     "archive_trials": 4326,
     "archive_mind_body": 442
   }
