@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T04:20:30.353Z",
+  "last_updated": "2026-05-04T04:20:40.742Z",
   "categories": {
     "supplements": [
       {
@@ -286,6 +286,20 @@
         "added_date": "2026-05-04"
       },
       {
+        "id": "recSMDXGkEfmxKrGk",
+        "title": "Combination of Lenvatinib and Antibiotics: A Potential Approach to Enhance Sensitivity in Differentiated Thyroid Cancer.",
+        "summary": "Combining lenvatinib with antibiotics tigecycline or eravacycline enhances cancer cell death in lenvatinib-resistant differentiated thyroid cancer by disrupting mitochondrial function.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42068240/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Thyroid"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-04"
+      },
+      {
         "id": "rectGtZlBos1ftGVP",
         "title": "Transient p53/p21 activation selectively protects healthy human hair follicles and their stem cells from chemotherapy.",
         "summary": "A drug called ALRN-6924 protects healthy hair follicles and stem cells from chemotherapy damage by temporarily halting their growth.",
@@ -410,20 +424,6 @@
         "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-02"
-      },
-      {
-        "id": "recQBTUhzLN8pklMf",
-        "title": "Intranasal Ketamine for Existential Distress in Advanced Cancer.",
-        "summary": "Intranasal ketamine rapidly reduces depression and existential distress in advanced cancer patients receiving palliative care.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42055096/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-05-01"
       }
     ],
     "biomarkers": [
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 20568,
+    "archive_count": 20569,
     "archive_supplements": 2277,
     "archive_off_label": 707,
-    "archive_biomarkers": 12515,
+    "archive_biomarkers": 12516,
     "archive_trials": 4335,
     "archive_mind_body": 442
   }
