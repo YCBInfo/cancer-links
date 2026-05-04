@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T04:17:26.104Z",
+  "last_updated": "2026-05-04T04:17:38.477Z",
   "categories": {
     "supplements": [
       {
@@ -271,6 +271,21 @@
         "added_date": "2026-05-04"
       },
       {
+        "id": "recWqusGtEZgvfWRM",
+        "title": "In silico analysis of gene expression signatures and drug repurposing associated with metastatic progression in melanoma (skin cancer).",
+        "summary": "Researchers identified five key genes driving melanoma spread and found two existing drugs that could potentially target these genes in metastatic skin cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42068380/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Melanoma",
+          "Kidney"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-04"
+      },
+      {
         "id": "rectGtZlBos1ftGVP",
         "title": "Transient p53/p21 activation selectively protects healthy human hair follicles and their stem cells from chemotherapy.",
         "summary": "A drug called ALRN-6924 protects healthy hair follicles and stem cells from chemotherapy damage by temporarily halting their growth.",
@@ -408,20 +423,6 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-04-01",
-        "added_date": "2026-05-01"
-      },
-      {
-        "id": "recgE9SHqskzokxdE",
-        "title": "An Open-Label Pilot Intervention Trial to Prevent Diabetes in Prediabetic Adult Survivors of Childhood Cancer",
-        "summary": "A combined metformin and digital lifestyle program safely helps prevent diabetes in prediabetic childhood cancer survivors.",
-        "url": "https://clinicaltrials.gov/study/NCT04742751",
-        "source": "ClinicalTrials.gov",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
-        "pub_date": "2026-04-30",
         "added_date": "2026-05-01"
       }
     ],
@@ -858,11 +859,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 20551,
+    "archive_count": 20552,
     "archive_supplements": 2276,
     "archive_off_label": 707,
     "archive_biomarkers": 12503,
-    "archive_trials": 4331,
+    "archive_trials": 4332,
     "archive_mind_body": 442
   }
 }
