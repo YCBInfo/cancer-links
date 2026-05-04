@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T04:03:27.719Z",
+  "last_updated": "2026-05-04T04:04:01.243Z",
   "categories": {
     "supplements": [
       {
@@ -216,6 +216,20 @@
     ],
     "off_label": [
       {
+        "id": "rec1F2xQUr0JoxAcF",
+        "title": "GLS1 Orchestrates Exosome-Mediated Tumor-Endothelial Communication to Facilitate Angiogenesis.",
+        "summary": "GLS1 protein promotes blood vessel growth in head and neck cancer by packaging pro-angiogenic molecules into exosomes that signal to blood vessel cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42070227/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-04"
+      },
+      {
         "id": "rectGtZlBos1ftGVP",
         "title": "Transient p53/p21 activation selectively protects healthy human hair follicles and their stem cells from chemotherapy.",
         "summary": "A drug called ALRN-6924 protects healthy hair follicles and stem cells from chemotherapy damage by temporarily halting their growth.",
@@ -410,20 +424,6 @@
         "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-05-01"
-      },
-      {
-        "id": "recHzH8CEsAtFzOtQ",
-        "title": "The Effect of the Anticonvulsant Topiramate on Acetylcholine-Induced Calcium Signals is Linked to Sirt-1 Activity.",
-        "summary": "Topiramate enhances acetylcholine-induced calcium signals in neuroblastoma cells through sirtuin-1 activity, revealing a new mechanism for the drug's anticonvulsant effects.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42052976/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-05-01"
       }
     ],
     "biomarkers": [
@@ -526,6 +526,34 @@
         "added_date": "2026-05-04"
       },
       {
+        "id": "recBD0oTK6TKNRNs1",
+        "title": "Circulating KIM-1 as a Prognostic Biomarker and Predictor of Systemic Treatment Response in Renal Cell Carcinoma: A Systematic Review and Meta-Analysis.",
+        "summary": "KIM-1 blood levels show promise as a biomarker for predicting survival and treatment response in kidney cancer patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42070237/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Kidney"
+        ],
+        "quality_score": 25,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-04"
+      },
+      {
+        "id": "rec1F2xQUr0JoxAcF",
+        "title": "GLS1 Orchestrates Exosome-Mediated Tumor-Endothelial Communication to Facilitate Angiogenesis.",
+        "summary": "GLS1 protein promotes blood vessel growth in head and neck cancer by packaging pro-angiogenic molecules into exosomes that signal to blood vessel cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42070227/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-04"
+      },
+      {
         "id": "recWo1qau5p4LycLR",
         "title": "IGF2BP3 promotes gastric cancer progression by inhibiting ferroptosis through ETV4-mediated regulation of GCH1.",
         "summary": "Gastric cancer protein IGF2BP3 promotes tumor growth by blocking ferroptosis through an ETV4-GCH1 signaling pathway.",
@@ -608,34 +636,6 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-03"
-      },
-      {
-        "id": "recMTV4eqJzBSaYRf",
-        "title": "Serositis as possible manifestation in MDS/AML patients with complex karyotype and TP53 mutation: case series.",
-        "summary": "Patients with blood cancer carrying p53 mutations developed inflammation treated successfully with steroids.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42067682/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-03"
-      },
-      {
-        "id": "recdkyUMXqcJSscBS",
-        "title": "Thoracic inflammatory myofibroblastic tumors: A decade-long retrospective study integrating clinicopathological and molecular features from a tertiary care centre.",
-        "summary": "Thoracic inflammatory myofibroblastic tumors in children and young adults are primarily driven by ALK gene mutations, enabling targeted drug therapy for better treatment outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42067665/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-03"
       }
     ],
     "trials": [
@@ -676,6 +676,20 @@
         "category": "Clinical Trials",
         "cancer_types": [
           "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-04"
+      },
+      {
+        "id": "recaXZFUmxfGzcFKu",
+        "title": "Real-World Treatment Patterns and Clinical Outcomes Among Chinese Patients with Stage III NSCLC: The MOOREA Study.",
+        "summary": "Study reveals actual treatment practices and patient outcomes for stage III lung cancer in China under current therapy approaches.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42070217/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -835,20 +849,6 @@
         "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-03"
-      },
-      {
-        "id": "recxikQRut3LetFAn",
-        "title": "The Clinical Benefits of Nutritional Supplementation Across the Chemotherapy Journey in Cancer Patients: A Multicenter Prospective Cohort Study.",
-        "summary": "Nutritional supplements during chemotherapy helped cancer patients better tolerate treatment and maintain health throughout their cancer care journey.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42068037/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-03"
       }
     ],
     "mind_body": []
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 20479,
+    "archive_count": 20480,
     "archive_supplements": 2269,
     "archive_off_label": 706,
-    "archive_biomarkers": 12447,
+    "archive_biomarkers": 12448,
     "archive_trials": 4323,
     "archive_mind_body": 442
   }
