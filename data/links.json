@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T04:04:56.876Z",
+  "last_updated": "2026-05-04T04:05:06.501Z",
   "categories": {
     "supplements": [
       {
@@ -610,6 +610,20 @@
         "added_date": "2026-05-04"
       },
       {
+        "id": "rec1QCLXjyGTTzYTh",
+        "title": "The autophagy-inhibitory tissue hormone DBI/ACBP is essential for glucocorticoid-induced immunosuppression.",
+        "summary": "Glucocorticoid-induced immunosuppression works through a hormone called DBI/ACBP, offering a new target to restore cancer immune responses.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42070152/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-04"
+      },
+      {
         "id": "recWo1qau5p4LycLR",
         "title": "IGF2BP3 promotes gastric cancer progression by inhibiting ferroptosis through ETV4-mediated regulation of GCH1.",
         "summary": "Gastric cancer protein IGF2BP3 promotes tumor growth by blocking ferroptosis through an ETV4-GCH1 signaling pathway.",
@@ -618,20 +632,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Stomach"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-03"
-      },
-      {
-        "id": "recwOC7nDHBfVQlXd",
-        "title": "Association Between Multi-Laboratory Parameters Pre- and Post-Treatment and Pathological Features and Their Values in Clinical Decision in Primary Hepatic Carcinoma.",
-        "summary": "Researchers identified which blood test markers help doctors diagnose, monitor treatment response, and predict outcomes in liver cancer patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42068148/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Liver"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 20484,
+    "archive_count": 20485,
     "archive_supplements": 2270,
     "archive_off_label": 706,
-    "archive_biomarkers": 12450,
+    "archive_biomarkers": 12451,
     "archive_trials": 4324,
     "archive_mind_body": 442
   }
