@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T04:15:01.469Z",
+  "last_updated": "2026-05-05T04:15:12.155Z",
   "categories": {
     "supplements": [
       {
@@ -215,6 +215,20 @@
     ],
     "off_label": [
       {
+        "id": "recFQhQQDdAaOYviB",
+        "title": "Repurposing Drugs for Malaria through a Human Dose Prediction: A Case Study with Berzosertib.",
+        "summary": "Researchers predict that an anticancer drug called berzosertib could treat malaria at safe doses lower than those used for cancer therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42080628/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-05"
+      },
+      {
         "id": "rec1F2xQUr0JoxAcF",
         "title": "GLS1 Orchestrates Exosome-Mediated Tumor-Endothelial Communication to Facilitate Angiogenesis.",
         "summary": "GLS1 protein promotes blood vessel growth in head and neck cancer by packaging pro-angiogenic molecules into exosomes that signal to blood vessel cells.",
@@ -406,20 +420,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-05-02"
-      },
-      {
-        "id": "recoZRY1ECTkBKPAG",
-        "title": "Simultaneous Establishment of Autologous Colorectal Cancer and Mesothelial Stromal Cell Lines from Malignant Ascites Reveals a Mesothelial-Stromal FGFR3 Axis as a Potential Vulnerability in Peritoneal Metastasis.",
-        "summary": "Researchers identified a mesothelial-stromal FGFR3 axis as a potential therapeutic target in colorectal cancer peritoneal metastasis.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42032842/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 20706,
+    "archive_count": 20707,
     "archive_supplements": 2292,
     "archive_off_label": 711,
-    "archive_biomarkers": 12608,
+    "archive_biomarkers": 12609,
     "archive_trials": 4361,
     "archive_mind_body": 442
   }
