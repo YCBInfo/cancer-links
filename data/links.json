@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T04:28:41.884Z",
+  "last_updated": "2026-05-05T04:28:53.179Z",
   "categories": {
     "supplements": [
       {
@@ -243,6 +243,20 @@
         "added_date": "2026-05-05"
       },
       {
+        "id": "recssnh3ziQQLlvaI",
+        "title": "Delivery of nano-formulated drugs to solid tumours is selectively increased by co-application of the vascular disrupting agent CA4P.",
+        "summary": "Combining a vascular-disrupting agent with nano-formulated drugs significantly improves drug delivery to solid tumors.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42076784/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-05"
+      },
+      {
         "id": "rec1F2xQUr0JoxAcF",
         "title": "GLS1 Orchestrates Exosome-Mediated Tumor-Endothelial Communication to Facilitate Angiogenesis.",
         "summary": "GLS1 protein promotes blood vessel growth in head and neck cancer by packaging pro-angiogenic molecules into exosomes that signal to blood vessel cells.",
@@ -402,20 +416,6 @@
         "title": "Transient p53/p21 activation selectively protects healthy human hair follicles and their stem cells from chemotherapy.",
         "summary": "A drug called ALRN-6924 protects healthy hair follicles and stem cells from chemotherapy damage by temporarily halting their growth.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42065249/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-02"
-      },
-      {
-        "id": "rec6sPN5hMBbCy6JC",
-        "title": "Modulating IL-1β-induced pro-atherogenic endothelial responses through drug repurposing.",
-        "summary": "Researchers identified affordable, oral drugs that block IL-1β inflammation to protect blood vessels and prevent atherosclerosis development.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42065798/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 20780,
+    "archive_count": 20781,
     "archive_supplements": 2295,
     "archive_off_label": 712,
-    "archive_biomarkers": 12676,
+    "archive_biomarkers": 12677,
     "archive_trials": 4363,
     "archive_mind_body": 442
   }
