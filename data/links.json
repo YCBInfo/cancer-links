@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T06:05:47.870Z",
+  "last_updated": "2026-05-05T06:06:08.927Z",
   "categories": {
     "supplements": [
       {
@@ -272,6 +272,21 @@
         "added_date": "2026-05-05"
       },
       {
+        "id": "recUbTFiMFDS01kkI",
+        "title": "Lipophilic Statins Deplete GPX4 to Promote Ferroptosis and Sensitize Cancer Cells to Immune Checkpoint Blockade.",
+        "summary": "Lipophilic statins kill melanoma and colorectal cancer cells by depleting a protective protein, and combining them with immunotherapy cures tumors in most mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41423587/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Colorectal",
+          "Melanoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-05"
+      },
+      {
         "id": "rec1F2xQUr0JoxAcF",
         "title": "GLS1 Orchestrates Exosome-Mediated Tumor-Endothelial Communication to Facilitate Angiogenesis.",
         "summary": "GLS1 protein promotes blood vessel growth in head and neck cancer by packaging pro-angiogenic molecules into exosomes that signal to blood vessel cells.",
@@ -409,20 +424,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-04"
-      },
-      {
-        "id": "recZKIjWOCk95nkvr",
-        "title": "Low-Dose Aspirin and the Prevention of Colorectal Cancer in Inflammatory Bowel Disease: A Nationwide Cohort Study.",
-        "summary": "Low-dose aspirin may help prevent colorectal cancer in patients with inflammatory bowel disease, according to a large population study.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41510968/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-04"
       }
@@ -860,9 +861,9 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 20806,
+    "archive_count": 20807,
     "archive_supplements": 2296,
-    "archive_off_label": 713,
+    "archive_off_label": 714,
     "archive_biomarkers": 12698,
     "archive_trials": 4365,
     "archive_mind_body": 442
