@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T04:05:54.859Z",
+  "last_updated": "2026-05-05T04:06:08.080Z",
   "categories": {
     "supplements": [
       {
@@ -70,6 +70,20 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-04-01",
+        "added_date": "2026-05-05"
+      },
+      {
+        "id": "recvfmOta7nH9A8mW",
+        "title": "Kojic acid inhibits melanoma progression by targeting the MYC-CCNA2/KPNA2 axis.",
+        "summary": "Kojic acid stops melanoma growth by blocking a protein that drives cancer cell proliferation and survival.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41690656/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Melanoma"
+        ],
+        "quality_score": 13,
+        "pub_date": "2026-03-01",
         "added_date": "2026-05-05"
       },
       {
@@ -195,20 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-04"
-      },
-      {
-        "id": "recSUFpp7SamQy88w",
-        "title": "Cytotoxic trichothecene derivatives from Trichothecium sp. DWS815.",
-        "summary": "Fungal compounds 7 and 8 stopped cancer cell growth by halting cell division in colorectal cancer cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42069818/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Liver"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-04"
       }
@@ -859,8 +859,8 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 20656,
-    "archive_supplements": 2286,
+    "archive_count": 20657,
+    "archive_supplements": 2287,
     "archive_off_label": 711,
     "archive_biomarkers": 12570,
     "archive_trials": 4355,
