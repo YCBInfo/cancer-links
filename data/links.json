@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T04:04:24.439Z",
+  "last_updated": "2026-05-05T04:04:36.533Z",
   "categories": {
     "supplements": [
       {
@@ -596,6 +596,20 @@
         "added_date": "2026-05-05"
       },
       {
+        "id": "reckATPPeq0mLE4TQ",
+        "title": "Emerging 18F labeling strategies for peptide-based PET tracers: a review of recent technological advances.",
+        "summary": "New methods for attaching fluorine-18 to peptides improve PET imaging for detecting cancers more effectively and safely.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41849949/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-05-05"
+      },
+      {
         "id": "recWpdIAY5iX5Ouj9",
         "title": "Trial watch: antibody-drug conjugates in cancer therapy.",
         "summary": "Antibody-drug conjugates combine targeting antibodies with toxic payloads, demonstrating clinical benefit across blood and solid cancers with improved survival outcomes.",
@@ -620,20 +634,6 @@
           "Melanoma"
         ],
         "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-04"
-      },
-      {
-        "id": "recBcBzpn68I1ofdt",
-        "title": "Boron-Doped AIE Nanomaterials With NIR-II Emission for FL/MR Dual-Modality Tumor Imaging.",
-        "summary": "Boron-doped nanomaterials enable dual-mode fluorescence and MRI imaging of tumors with enhanced detection and biocompatibility.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42070299/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-04"
       }
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 20649,
+    "archive_count": 20650,
     "archive_supplements": 2285,
     "archive_off_label": 711,
-    "archive_biomarkers": 12566,
+    "archive_biomarkers": 12567,
     "archive_trials": 4353,
     "archive_mind_body": 442
   }
