@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T04:24:42.064Z",
+  "last_updated": "2026-05-05T04:24:54.802Z",
   "categories": {
     "supplements": [
       {
@@ -229,6 +229,20 @@
         "added_date": "2026-05-05"
       },
       {
+        "id": "recn6Jh1dRhLujfLf",
+        "title": "Loss of JAK1 Function Causes G2-M Cell-Cycle Defects Vulnerable to KIF18A Inhibition.",
+        "summary": "Blocking JAK1 in head and neck cancer makes tumors resistant to radiation, but adding a KIF18A inhibitor overcomes this resistance.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41591363/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-05"
+      },
+      {
         "id": "rec1F2xQUr0JoxAcF",
         "title": "GLS1 Orchestrates Exosome-Mediated Tumor-Endothelial Communication to Facilitate Angiogenesis.",
         "summary": "GLS1 protein promotes blood vessel growth in head and neck cancer by packaging pro-angiogenic molecules into exosomes that signal to blood vessel cells.",
@@ -409,20 +423,6 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-05-01",
-        "added_date": "2026-05-02"
-      },
-      {
-        "id": "recVg8Tyo71bkvzxo",
-        "title": "Zoledronic Acid Inhibits the Growth of ER-Positive Breast Cancer Cells by Inducing Ferroptosis.",
-        "summary": "Zoledronic acid kills estrogen receptor-positive breast cancer cells by triggering ferroptosis, a cell death process distinct from apoptosis.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42059031/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
         "added_date": "2026-05-02"
       }
     ],
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 20758,
+    "archive_count": 20759,
     "archive_supplements": 2294,
     "archive_off_label": 712,
-    "archive_biomarkers": 12655,
+    "archive_biomarkers": 12656,
     "archive_trials": 4363,
     "archive_mind_body": 442
   }
