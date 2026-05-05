@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T02:03:45.103Z",
+  "last_updated": "2026-05-05T04:03:49.503Z",
   "categories": {
     "supplements": [
       {
@@ -13,6 +13,34 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-05"
+      },
+      {
+        "id": "recONZiQOS1VAwYdP",
+        "title": "Resveratrol coordinates apoptosis and autophagy in hepatocellular carcinoma cells via p53 acetylation: An integrative network pharmacology and experimental validation study.",
+        "summary": "Resveratrol kills liver cancer cells by activating a protein called p53, which simultaneously triggers two death mechanisms: apoptosis and autophagy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42079302/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-05"
+      },
+      {
+        "id": "recvT2bx4JL1cNey7",
+        "title": "A ginsenoside metabolite and its derivative target PRELID3B against lung cancer cells.",
+        "summary": "A ginseng-derived compound called CKD-4 inhibits lung cancer growth by targeting a mitochondrial protein called PRELID3B.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42081720/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-05"
       },
@@ -175,34 +203,6 @@
         "title": "Sodium butyrate suppresses endometrial cancer cell growth by inhibiting thymidylate synthase and reprogramming pyrimidine metabolism.",
         "summary": "Sodium butyrate suppresses endometrial cancer cell growth by blocking a key enzyme and altering how cells produce DNA building blocks.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42069538/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-04"
-      },
-      {
-        "id": "recNicSHdzT3XZo41",
-        "title": "The preclinical evidence and clinical translational prospects of medicarpin.",
-        "summary": "Medicarpin, a traditional Chinese medicine compound, shows promise in early cancer studies but requires clinical testing before human use.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41935801/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-04"
-      },
-      {
-        "id": "recjO0NeJSZNL1DbX",
-        "title": "Antitumor Activity of Sodium Selenite, Palbociclib, and Disulfiram Against Osteosarcoma and Rhabdomyosarcoma Cell Lines.",
-        "summary": "Three existing drugs—sodium selenite, palbociclib, and disulfiram—show promise against childhood bone and muscle cancers by stopping tumor growth and spread.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42070104/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -428,6 +428,132 @@
     ],
     "biomarkers": [
       {
+        "id": "recx3xhEwy29rNbSM",
+        "title": "Anlotinib plus envafolimab as neoadjuvant therapy in a patient with chemotherapy-refractory advanced endometrial cancer: A case report.",
+        "summary": "Combination therapy with anlotinib and envafolimab shrank advanced endometrial cancer, enabling surgery and disease-free outcome in chemotherapy-intolerant patient.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42077092/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-05"
+      },
+      {
+        "id": "rec62w768mP5yKUdt",
+        "title": "CXCL11 secreted by cancer-associated fibroblasts promotes nasopharyngeal carcinoma progression via CXCR3/PD-L1 axis.",
+        "summary": "Cancer-supporting cells secrete CXCL11, which promotes nasopharyngeal carcinoma growth and immune evasion through a specific signaling pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42077068/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-05"
+      },
+      {
+        "id": "recz23TBnHlLPEpOD",
+        "title": "Evolution of Diagnostic Yield for Peripheral Lung Nodule Biopsies With Changes in Navigational Bronchoscopy Platforms, Tools, and Intraoperative Imaging Guidance.",
+        "summary": "Newer bronchoscopy tools and platforms improved the ability to successfully diagnose lung nodules during minimally invasive procedures.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42076901/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-05"
+      },
+      {
+        "id": "recONZiQOS1VAwYdP",
+        "title": "Resveratrol coordinates apoptosis and autophagy in hepatocellular carcinoma cells via p53 acetylation: An integrative network pharmacology and experimental validation study.",
+        "summary": "Resveratrol kills liver cancer cells by activating a protein called p53, which simultaneously triggers two death mechanisms: apoptosis and autophagy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42079302/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-05"
+      },
+      {
+        "id": "recRHTeHRGQIssAxC",
+        "title": "Precision Medicine in a Patient With Multiple Myeloma Presenting With t(2;11) and CCND1 Overexpression.",
+        "summary": "A rare multiple myeloma genetic mutation was successfully treated with venetoclax, achieving sustained remission for over three years.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42078475/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-05"
+      },
+      {
+        "id": "rec73sbPdweqLdghw",
+        "title": "Rationale and Trial Design of DAWNA-FES Trial: Single-Arm Phase II Study of Endocrine Therapy With Dalpiciclib After Progression on CDK4/6 Inhibition Based on [18F]FES PET/CT in Patients With HR+/HER2- Advanced Breast Cancer.",
+        "summary": "Researchers are testing a new CDK4/6 inhibitor (dalpiciclib) combined with hormone therapy for HR+/HER2- breast cancer that resisted prior CDK4/6 drugs, guided by estrogen receptor imaging.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42078117/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-05"
+      },
+      {
+        "id": "recHJ8WUCUrzy1kij",
+        "title": "Metabolomic Profiles of Inflammation Associated With Incident Ischemic Stroke Risk in Women.",
+        "summary": "Researchers identified specific metabolic markers linked to inflammation that predict stroke risk in women.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42081783/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-05"
+      },
+      {
+        "id": "rec0p3ECL7ZtKQsEp",
+        "title": "Regulation of antiviral and antitumor immunity by the BRCA1 pseudogene in human cancers.",
+        "summary": "Blocking a cancer-promoting RNA called BRCA1P1 triggers immune defenses that kill breast cancer and other tumors.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42081726/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-05"
+      },
+      {
+        "id": "recvT2bx4JL1cNey7",
+        "title": "A ginsenoside metabolite and its derivative target PRELID3B against lung cancer cells.",
+        "summary": "A ginseng-derived compound called CKD-4 inhibits lung cancer growth by targeting a mitochondrial protein called PRELID3B.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42081720/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-05"
+      },
+      {
         "id": "recWpdIAY5iX5Ouj9",
         "title": "Trial watch: antibody-drug conjugates in cancer therapy.",
         "summary": "Antibody-drug conjugates combine targeting antibodies with toxic payloads, demonstrating clinical benefit across blood and solid cancers with improved survival outcomes.",
@@ -510,132 +636,6 @@
         "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-04"
-      },
-      {
-        "id": "recQmSEzBUaXvOCXi",
-        "title": "AI and the digital pathology revolution: clinical applications in cancer diagnosis and assessment.",
-        "summary": "AI-powered digital pathology tools improve cancer diagnosis accuracy and enable remote analysis of tissue slides while reducing human error.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42070246/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-04"
-      },
-      {
-        "id": "recBD0oTK6TKNRNs1",
-        "title": "Circulating KIM-1 as a Prognostic Biomarker and Predictor of Systemic Treatment Response in Renal Cell Carcinoma: A Systematic Review and Meta-Analysis.",
-        "summary": "KIM-1 blood levels show promise as a biomarker for predicting survival and treatment response in kidney cancer patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42070237/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Kidney"
-        ],
-        "quality_score": 25,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-04"
-      },
-      {
-        "id": "rec1F2xQUr0JoxAcF",
-        "title": "GLS1 Orchestrates Exosome-Mediated Tumor-Endothelial Communication to Facilitate Angiogenesis.",
-        "summary": "GLS1 protein promotes blood vessel growth in head and neck cancer by packaging pro-angiogenic molecules into exosomes that signal to blood vessel cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42070227/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-04"
-      },
-      {
-        "id": "recIltoP5zpqZtp1l",
-        "title": "A lipid nanoparticle-based peptide-proteolysis-targeting chimera degrades BCL6 for diffuse large B-cell lymphoma treatment.",
-        "summary": "Researchers developed a new nanoparticle treatment that destroys BCL6 protein in diffuse large B-cell lymphoma cells while maintaining safety.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42070207/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lymphoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-04"
-      },
-      {
-        "id": "recTxKT9R5FOo9OWK",
-        "title": "Deciphering the potential pathogenic mechanisms of 3-BHA in ovarian cancer through integrated bioinformatics and machine learning strategies.",
-        "summary": "Researchers identified five genes that 3-BHA may activate to promote ovarian cancer, with CXCR2 overexpression linked to poor outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42070192/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Ovarian"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-04"
-      },
-      {
-        "id": "recM8si8Cklhru2Wm",
-        "title": "Biological characterization of an avian leukosis virus subgroup J isolate from yunnan indigenous black-bone chickens and generation of its full-length infectious clone.",
-        "summary": "Researchers isolated a highly pathogenic avian leukosis virus from chickens that reduced egg production and weight, then created an infectious clone for studying prevention strategies.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42070187/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-04"
-      },
-      {
-        "id": "recodhR8tOYK3VGbc",
-        "title": "Responsiveness and clinical utility of patient-reported outcome instruments in head and neck cancer: a systematic review.",
-        "summary": "Patient-reported quality-of-life tools can reliably measure treatment outcomes and guide care decisions in head and neck cancer patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42070173/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-04"
-      },
-      {
-        "id": "rec1QCLXjyGTTzYTh",
-        "title": "The autophagy-inhibitory tissue hormone DBI/ACBP is essential for glucocorticoid-induced immunosuppression.",
-        "summary": "Glucocorticoid-induced immunosuppression works through a hormone called DBI/ACBP, offering a new target to restore cancer immune responses.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42070152/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-04"
-      },
-      {
-        "id": "rec7AOBB6fS9ITMzX",
-        "title": "From histological and molecular pathology to the inclusion of antibody-drug conjugates in clinical practice against ovarian cancers: Mechanisms of action and pharmacological safety.",
-        "summary": "Antibody-drug conjugates show promise for advanced ovarian cancer, achieving better survival with fewer side effects than traditional chemotherapy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42070145/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Ovarian"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-04"
       }
     ],
     "trials": [
@@ -678,6 +678,62 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-05"
+      },
+      {
+        "id": "recx3xhEwy29rNbSM",
+        "title": "Anlotinib plus envafolimab as neoadjuvant therapy in a patient with chemotherapy-refractory advanced endometrial cancer: A case report.",
+        "summary": "Combination therapy with anlotinib and envafolimab shrank advanced endometrial cancer, enabling surgery and disease-free outcome in chemotherapy-intolerant patient.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42077092/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-05"
+      },
+      {
+        "id": "recz23TBnHlLPEpOD",
+        "title": "Evolution of Diagnostic Yield for Peripheral Lung Nodule Biopsies With Changes in Navigational Bronchoscopy Platforms, Tools, and Intraoperative Imaging Guidance.",
+        "summary": "Newer bronchoscopy tools and platforms improved the ability to successfully diagnose lung nodules during minimally invasive procedures.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42076901/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-05"
+      },
+      {
+        "id": "recRHTeHRGQIssAxC",
+        "title": "Precision Medicine in a Patient With Multiple Myeloma Presenting With t(2;11) and CCND1 Overexpression.",
+        "summary": "A rare multiple myeloma genetic mutation was successfully treated with venetoclax, achieving sustained remission for over three years.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42078475/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-05"
+      },
+      {
+        "id": "rec73sbPdweqLdghw",
+        "title": "Rationale and Trial Design of DAWNA-FES Trial: Single-Arm Phase II Study of Endocrine Therapy With Dalpiciclib After Progression on CDK4/6 Inhibition Based on [18F]FES PET/CT in Patients With HR+/HER2- Advanced Breast Cancer.",
+        "summary": "Researchers are testing a new CDK4/6 inhibitor (dalpiciclib) combined with hormone therapy for HR+/HER2- breast cancer that resisted prior CDK4/6 drugs, guided by estrogen receptor imaging.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42078117/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-05"
       },
@@ -792,62 +848,6 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-04"
-      },
-      {
-        "id": "recQF4HyYxSBjhY6R",
-        "title": "An evaluation of avutometinib in combination with defactinib for KRAS-mutated recurrent low-grade serous ovarian cancer.",
-        "summary": "A combination drug treatment targets KRAS mutations in recurrent low-grade serous ovarian cancer, addressing a previously hard-to-treat cancer type.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42059499/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Ovarian"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-04"
-      },
-      {
-        "id": "rec9uhx5DYhbncUQ2",
-        "title": "Laparoscopic partial hepatectomy for primary hepatic PEComa: a case report.",
-        "summary": "Surgeons successfully removed a rare liver tumor (PEComa) using minimally invasive laparoscopic surgery in a young patient.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42070038/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-04"
-      },
-      {
-        "id": "recK2oVhJEGpSSz0K",
-        "title": "Combined Preoperative Risk Score Including sCD40, Leukocytes, and BMI Predicts Pancreas-Specific Complications After Pancreatic Cancer Surgery.",
-        "summary": "A blood test combining three factors predicts complications after pancreatic cancer surgery, helping doctors identify high-risk patients beforehand.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42069988/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Pancreatic"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-04"
-      },
-      {
-        "id": "receEEUFo995jGZjZ",
-        "title": "Radiotherapy combined with immunotherapy for esophageal cancer: current status and challenge.",
-        "summary": "Combining radiotherapy with immunotherapy shows promise for esophageal cancer by boosting the body's anti-tumor immune response.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42069985/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-04"
       }
     ],
     "mind_body": []
@@ -859,11 +859,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 20645,
+    "archive_count": 20646,
     "archive_supplements": 2284,
     "archive_off_label": 711,
     "archive_biomarkers": 12564,
-    "archive_trials": 4352,
+    "archive_trials": 4353,
     "archive_mind_body": 442
   }
 }
