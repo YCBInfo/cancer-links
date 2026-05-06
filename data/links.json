@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06T04:32:35.749Z",
+  "last_updated": "2026-05-06T06:06:22.192Z",
   "categories": {
     "supplements": [
       {
@@ -69,6 +69,48 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-06"
+      },
+      {
+        "id": "recgXpVJEnm8JSsru",
+        "title": "Gut microbiota and diet in colorectal cancer: Converging determinants of carcinogenesis.",
+        "summary": "Diet shapes gut bacteria in ways that either increase or decrease colorectal cancer risk through inflammation and metabolic changes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42083308/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-06"
+      },
+      {
+        "id": "rec4F9BG1kwQ79PP9",
+        "title": "Micheliolide ameliorates colon cancer cachexia by modulating gut microbiota-immune signaling via Phocaeicola vulgatus enrichment.",
+        "summary": "Micheliolide reduces colon cancer cachexia by enriching beneficial gut bacteria and strengthening immune signaling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42087225/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-06"
+      },
+      {
+        "id": "recEI0Bhzg2ZnDyA3",
+        "title": "Curcumin Alleviates Bone Cancer Pain by Inhibiting Satellite Glial Cell Activity via Janus Kinase 1/Signal Transducer and Transcription 3 Pathway Activator.",
+        "summary": "Curcumin relieves bone cancer pain by blocking a specific cellular pathway that reduces inflammation and nerve cell activation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42087052/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-06"
       },
@@ -161,48 +203,6 @@
         "title": "Integrated Computational Omics Approach to Identify Novel Natural Product Inhibitors Targeting KIF11 in Endometrial Carcinoma.",
         "summary": "Researchers identified glycocholic acid, a natural compound, as a promising drug candidate to target KIF11 protein overexpressed in endometrial cancer.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42081267/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-05"
-      },
-      {
-        "id": "recpy7hqCGZ4nGtFQ",
-        "title": "Biodegradable PCL-PLGA Electrospun Nanofibers for Localized Cancer Therapy.",
-        "summary": "Engineered nanofibers deliver cancer drugs directly to tumors with sustained release and reduced side effects compared to conventional chemotherapy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42081192/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-05"
-      },
-      {
-        "id": "recsnt58aEpz41wSM",
-        "title": "Beyond Amyloids: Neuroprotective Potential of Betanin and its Derivatives Against Alpha-Synuclein Aggregates and ROS Overload in Parkinson's Disease.",
-        "summary": "Beetroot-derived betaxanthin compounds reduce toxic protein clumps and oxidative stress in Parkinson's disease models, showing neuroprotective potential.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42081152/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-05"
-      },
-      {
-        "id": "rec6zJY50m7kihtpE",
-        "title": "Exploring the Role of Probiotics in the Prevention and Treatment of Gastrointestinal Cancer.",
-        "summary": "Probiotics may help prevent and treat gastrointestinal cancer by reducing inflammation, strengthening gut barriers, and boosting immune responses.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42081026/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 21044,
+    "archive_count": 21045,
     "archive_supplements": 2310,
     "archive_off_label": 719,
-    "archive_biomarkers": 12868,
+    "archive_biomarkers": 12869,
     "archive_trials": 4413,
     "archive_mind_body": 442
   }
