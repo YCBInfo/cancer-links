@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06T04:07:45.586Z",
+  "last_updated": "2026-05-06T04:07:58.814Z",
   "categories": {
     "supplements": [
       {
@@ -215,6 +215,20 @@
     ],
     "off_label": [
       {
+        "id": "recSQfRpAuyDv5z28",
+        "title": "UBA2-High Osteosarcoma Suppresses Immune Infiltration by Autophagy-Mediated MHC-I Degradation.",
+        "summary": "UBA2 protein drives osteosarcoma's immune resistance by triggering autophagy that destroys MHC-I, blocking immune cell infiltration and checkpoint therapy response.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42085301/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-06"
+      },
+      {
         "id": "recFQhQQDdAaOYviB",
         "title": "Repurposing Drugs for Malaria through a Human Dose Prediction: A Case Study with Berzosertib.",
         "summary": "Researchers predict that an anticancer drug called berzosertib could treat malaria at safe doses lower than those used for cancer therapy.",
@@ -409,21 +423,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-04"
-      },
-      {
-        "id": "recWqusGtEZgvfWRM",
-        "title": "In silico analysis of gene expression signatures and drug repurposing associated with metastatic progression in melanoma (skin cancer).",
-        "summary": "Researchers identified five key genes driving melanoma spread and found two existing drugs that could potentially target these genes in metastatic skin cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42068380/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Melanoma",
-          "Kidney"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-04"
       }
@@ -861,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 20909,
+    "archive_count": 20910,
     "archive_supplements": 2307,
     "archive_off_label": 719,
-    "archive_biomarkers": 12752,
+    "archive_biomarkers": 12753,
     "archive_trials": 4397,
     "archive_mind_body": 442
   }
