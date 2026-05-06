@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06T07:08:51.185Z",
+  "last_updated": "2026-05-06T07:09:33.502Z",
   "categories": {
     "supplements": [
       {
@@ -271,6 +271,20 @@
         "added_date": "2026-05-06"
       },
       {
+        "id": "recGIdwmKsTgV08yM",
+        "title": "An Open-label, Two-arm, Multicenter, Phase II Randomized Controlled Trial Assessing the Impact of Olanzapine on the Efficacy of First-line Immunotherapy in Patients With Advanced EGFR Mutation-negative Non-small Cell Lung Cancer (NSCLC).",
+        "summary": "Study tests whether adding olanzapine to immunotherapy improves outcomes in advanced lung cancer patients compared to immunotherapy alone.",
+        "url": "https://clinicaltrials.gov/study/NCT06554613",
+        "source": "ClinicalTrials.gov",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 13,
+        "pub_date": "2026-05-05",
+        "added_date": "2026-05-06"
+      },
+      {
         "id": "recFQhQQDdAaOYviB",
         "title": "Repurposing Drugs for Malaria through a Human Dose Prediction: A Case Study with Berzosertib.",
         "summary": "Researchers predict that an anticancer drug called berzosertib could treat malaria at safe doses lower than those used for cancer therapy.",
@@ -411,20 +425,6 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-05"
-      },
-      {
-        "id": "rec1F2xQUr0JoxAcF",
-        "title": "GLS1 Orchestrates Exosome-Mediated Tumor-Endothelial Communication to Facilitate Angiogenesis.",
-        "summary": "GLS1 protein promotes blood vessel growth in head and neck cancer by packaging pro-angiogenic molecules into exosomes that signal to blood vessel cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42070227/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-04"
       }
     ],
     "biomarkers": [
@@ -860,11 +860,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 21115,
+    "archive_count": 21116,
     "archive_supplements": 2318,
     "archive_off_label": 719,
     "archive_biomarkers": 12904,
-    "archive_trials": 4440,
+    "archive_trials": 4441,
     "archive_mind_body": 442
   }
 }
