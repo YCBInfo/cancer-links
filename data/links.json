@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06T04:17:17.283Z",
+  "last_updated": "2026-05-06T04:17:31.907Z",
   "categories": {
     "supplements": [
       {
@@ -243,6 +243,20 @@
         "added_date": "2026-05-06"
       },
       {
+        "id": "recwSeHvc2q19xmge",
+        "title": "Targeting NDUFS4 Disrupts Oxidative Phosphorylation and Induces Ferroptosis in Olaparib-Resistant Prostate Cancer.",
+        "summary": "Blocking NDUFS4 in olaparib-resistant prostate cancer restores drug sensitivity by disrupting mitochondrial function and triggering ferroptosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42083452/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-06"
+      },
+      {
         "id": "recFQhQQDdAaOYviB",
         "title": "Repurposing Drugs for Malaria through a Human Dose Prediction: A Case Study with Berzosertib.",
         "summary": "Researchers predict that an anticancer drug called berzosertib could treat malaria at safe doses lower than those used for cancer therapy.",
@@ -405,20 +419,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/42070055/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-04"
-      },
-      {
-        "id": "rec2YOCp2BzBeuunk",
-        "title": "Spatially resolved ex vivo drug response profiling in SMARCB1-deficient sinonasal carcinoma.",
-        "summary": "mTOR inhibitor Sapanisertib effectively kills aggressive sinonasal carcinoma cells by targeting stem-like tumor populations in patient tissue samples.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42070010/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 20962,
+    "archive_count": 20963,
     "archive_supplements": 2309,
     "archive_off_label": 719,
-    "archive_biomarkers": 12795,
+    "archive_biomarkers": 12796,
     "archive_trials": 4405,
     "archive_mind_body": 442
   }
