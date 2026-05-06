@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06T04:05:13.984Z",
+  "last_updated": "2026-05-06T04:05:27.300Z",
   "categories": {
     "supplements": [
       {
@@ -726,6 +726,34 @@
         "added_date": "2026-05-06"
       },
       {
+        "id": "recoACwlKCqw0Zkab",
+        "title": "Safety and efficacy of allogeneic CD19-directed CAR-T therapy CTX110 in relapsed/refractory B-cell non-Hodgkin lymphoma.",
+        "summary": "CTX110, an allogeneic CAR-T cell therapy, achieved a 65% response rate in heavily treated relapsed/refractory B-cell non-Hodgkin lymphoma patients with manageable side effects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42085626/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Lymphoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-06"
+      },
+      {
+        "id": "rechJbhNdSJIEFf1F",
+        "title": "Metastatic Trajectories in Non-Small Cell Lung Cancer Guide Local and Systemic Therapies.",
+        "summary": "Tracking how individual lung cancer tumors respond differently over time can guide personalized treatment decisions combining surgery, radiation, and systemic therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42085620/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-06"
+      },
+      {
         "id": "recG7ZnsPavulYdN7",
         "title": "Development and content validation of spiritual care e-book for Chinese breast cancer women undergoing chemotherapy.",
         "summary": "Researchers created and tested a digital e-book to help nurses provide spiritual care to Chinese women with breast cancer during chemotherapy treatment.",
@@ -822,34 +850,6 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-05"
-      },
-      {
-        "id": "recAxsw1LPN7udBdS",
-        "title": "From T cells to NK cells and macrophages: progress and challenges in CAR-based therapies and the involved gene delivery systems.",
-        "summary": "Researchers are expanding CAR cell therapies beyond T cells to NK cells and macrophages, using safer non-viral delivery methods to treat more cancer types.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41936892/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-05-05"
-      },
-      {
-        "id": "recAR6STGnKKcNhhv",
-        "title": "Hospital 3D-printed cyclophosphamide printlets for paediatric patients.",
-        "summary": "Hospitals can 3D-print customized cyclophosphamide tablets for children with cancer, offering flexible dosing and stable storage.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41916511/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-05-05"
       }
     ],
     "mind_body": []
@@ -861,10 +861,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 20895,
+    "archive_count": 20896,
     "archive_supplements": 2307,
     "archive_off_label": 719,
-    "archive_biomarkers": 12742,
+    "archive_biomarkers": 12743,
     "archive_trials": 4393,
     "archive_mind_body": 442
   }
