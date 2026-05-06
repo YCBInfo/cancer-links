@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06T08:03:33.843Z",
+  "last_updated": "2026-05-06T09:04:01.498Z",
   "categories": {
     "supplements": [
       {
@@ -285,6 +285,34 @@
         "added_date": "2026-05-06"
       },
       {
+        "id": "rec7JOvbHOGvoMmUZ",
+        "title": "A novel combination for in vivo breast cancer treatment: TAK1 inhibition combined with metformin and Lentinula edodes compounds synergistically reinvigorates CD8+ T Cells.",
+        "summary": "Combining a TAK1 inhibitor, metformin, and mushroom extract boosts immune cells to fight triple-negative breast cancer in mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42087141/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-06"
+      },
+      {
+        "id": "recAIW9UHc462b9i5",
+        "title": "The role of nimodipine in preventing cerebral ischaemia and neurological deterioration in cerebral arteriovenous malformations: a systematic review.",
+        "summary": "Nimodipine may help prevent brain damage from blood vessel spasms in patients with arteriovenous malformations, though evidence remains unclear.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42083289/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-06"
+      },
+      {
         "id": "recFQhQQDdAaOYviB",
         "title": "Repurposing Drugs for Malaria through a Human Dose Prediction: A Case Study with Berzosertib.",
         "summary": "Researchers predict that an anticancer drug called berzosertib could treat malaria at safe doses lower than those used for cancer therapy.",
@@ -393,34 +421,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Stomach"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-05"
-      },
-      {
-        "id": "recs1bg8zOa9IrcPy",
-        "title": "The Emerging Role of Metformin in Skin Cancer: Mechanistic and Clinical Insights.",
-        "summary": "Metformin, a diabetes drug, may help prevent and treat skin cancer by boosting immune response and altering cancer metabolism.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42081630/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Melanoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-05"
-      },
-      {
-        "id": "rec1drV8Cw7SnG31r",
-        "title": "Pembrolizumab as an Off-Label Treatment of Facial Angiosarcoma: A Case Report.",
-        "summary": "Pembrolizumab, an immunotherapy drug, successfully controlled facial angiosarcoma in an elderly patient when combined with radiation therapy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42081628/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Melanoma"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -860,8 +860,8 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 21132,
-    "archive_supplements": 2319,
+    "archive_count": 21133,
+    "archive_supplements": 2320,
     "archive_off_label": 719,
     "archive_biomarkers": 12909,
     "archive_trials": 4451,
