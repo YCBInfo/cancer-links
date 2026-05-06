@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06T06:09:20.473Z",
+  "last_updated": "2026-05-06T06:09:31.311Z",
   "categories": {
     "supplements": [
       {
@@ -171,6 +171,20 @@
         "added_date": "2026-05-06"
       },
       {
+        "id": "recoWSx9xSSsKinba",
+        "title": "The protective role of whole grains and legumes against gastric cancer.",
+        "summary": "Eating whole grains and legumes may reduce gastric cancer risk by lowering inflammation and oxidative stress through beneficial compounds.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42083586/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-06"
+      },
+      {
         "id": "recGKWwd5HqkY2yxZ",
         "title": "Optimal Exercise Modality and Dose to Alleviate Depressive and Anxiety Symptoms in Patients With Cancer: A Network Meta-Analysis and Dose-Response Study.",
         "summary": "Exercise reduces depression and anxiety in cancer patients, with optimal benefits from moderate-intensity aerobic activity at 150 minutes weekly.",
@@ -193,20 +207,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-05"
-      },
-      {
-        "id": "recvT2bx4JL1cNey7",
-        "title": "A ginsenoside metabolite and its derivative target PRELID3B against lung cancer cells.",
-        "summary": "A ginseng-derived compound called CKD-4 inhibits lung cancer growth by targeting a mitochondrial protein called PRELID3B.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42081720/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 21066,
+    "archive_count": 21067,
     "archive_supplements": 2314,
     "archive_off_label": 719,
-    "archive_biomarkers": 12884,
+    "archive_biomarkers": 12885,
     "archive_trials": 4415,
     "archive_mind_body": 442
   }
