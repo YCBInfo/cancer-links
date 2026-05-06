@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06T04:12:00.405Z",
+  "last_updated": "2026-05-06T04:12:11.750Z",
   "categories": {
     "supplements": [
       {
@@ -27,6 +27,20 @@
           "Brain"
         ],
         "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-06"
+      },
+      {
+        "id": "recoznAh0oZ7sdmwb",
+        "title": "Targeting the PI3K/Akt/mTOR and Nrf2 signaling axis with berberine: a novel strategy for attenuating diabetic cardiomyopathy.",
+        "summary": "Berberine combined with insulin effectively treats diabetic heart disease by reducing inflammation, oxidative stress, and improving heart function through specific cellular pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42084620/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-06"
       },
@@ -195,20 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-05"
-      },
-      {
-        "id": "reckS6mY9md6JAMN0",
-        "title": "Exceptional and typical biomarker responses to AminoTriComplex in metastatic prostate cancer: a case series.",
-        "summary": "A supplement called AminoTriComplex showed promise in treating metastatic prostate cancer by targeting inflammation and hormone signaling.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42083014/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Prostate"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-05"
       }
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 20932,
+    "archive_count": 20933,
     "archive_supplements": 2307,
     "archive_off_label": 719,
-    "archive_biomarkers": 12773,
+    "archive_biomarkers": 12774,
     "archive_trials": 4399,
     "archive_mind_body": 442
   }
