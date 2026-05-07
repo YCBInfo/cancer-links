@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T04:06:16.662Z",
+  "last_updated": "2026-05-07T04:06:26.552Z",
   "categories": {
     "supplements": [
       {
@@ -13,6 +13,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-07"
+      },
+      {
+        "id": "recXupLzKw3R8EHJF",
+        "title": "In silico evaluation of garlic-derived organosulfur compounds as multi-target inhibitors of breast cancer biomarkers.",
+        "summary": "Garlic compounds, especially Z-ajoene, show promise as multi-target breast cancer treatments with good safety profiles in computational studies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42090396/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-07"
       },
@@ -195,20 +209,6 @@
           "Stomach"
         ],
         "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-06"
-      },
-      {
-        "id": "recnjDKUnwBeVrfB3",
-        "title": "Efficient pulmonary-targeted therapy and mechanistic insights of a novel glutathione dry powder inhaler in a model of radiation-induced lung injury.",
-        "summary": "A new inhaled glutathione powder effectively treats radiation-induced lung injury by reducing oxidative stress and cell death in mice.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42086150/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-06"
       }
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 21170,
+    "archive_count": 21171,
     "archive_supplements": 2324,
     "archive_off_label": 720,
-    "archive_biomarkers": 12937,
+    "archive_biomarkers": 12938,
     "archive_trials": 4455,
     "archive_mind_body": 442
   }
