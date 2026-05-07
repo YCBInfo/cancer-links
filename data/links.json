@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T07:08:08.942Z",
+  "last_updated": "2026-05-07T07:08:22.665Z",
   "categories": {
     "supplements": [
       {
@@ -314,6 +314,20 @@
         "added_date": "2026-05-07"
       },
       {
+        "id": "recN28Bq0btLtphOF",
+        "title": "A Randomized Phase II Study to Evaluate the Efficacy of Fezolinetant in Reducing Vasomotor Symptoms in Women With Breast Cancer on Endocrine Therapy",
+        "summary": "Fezolinetant reduces hot flashes in breast cancer patients taking hormone therapy, according to this phase II clinical trial.",
+        "url": "https://clinicaltrials.gov/study/NCT06917313",
+        "source": "ClinicalTrials.gov",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 19,
+        "pub_date": "2026-05-06",
+        "added_date": "2026-05-07"
+      },
+      {
         "id": "recSQfRpAuyDv5z28",
         "title": "UBA2-High Osteosarcoma Suppresses Immune Infiltration by Autophagy-Mediated MHC-I Degradation.",
         "summary": "UBA2 protein drives osteosarcoma's immune resistance by triggering autophagy that destroys MHC-I, blocking immune cell infiltration and checkpoint therapy response.",
@@ -410,20 +424,6 @@
         "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-06"
-      },
-      {
-        "id": "recFQhQQDdAaOYviB",
-        "title": "Repurposing Drugs for Malaria through a Human Dose Prediction: A Case Study with Berzosertib.",
-        "summary": "Researchers predict that an anticancer drug called berzosertib could treat malaria at safe doses lower than those used for cancer therapy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42080628/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-05"
       }
     ],
     "biomarkers": [
@@ -859,11 +859,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 21369,
+    "archive_count": 21370,
     "archive_supplements": 2336,
     "archive_off_label": 723,
     "archive_biomarkers": 13080,
-    "archive_trials": 4496,
+    "archive_trials": 4497,
     "archive_mind_body": 442
   }
 }
