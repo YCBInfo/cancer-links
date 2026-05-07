@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T09:03:35.104Z",
+  "last_updated": "2026-05-07T09:05:03.971Z",
   "categories": {
     "supplements": [
       {
@@ -384,6 +384,20 @@
         "added_date": "2026-05-07"
       },
       {
+        "id": "recP5ZnHtPd9BRnrb",
+        "title": "From diabetes to tumor growth: unravelling the impact of glucose-lowering therapies.",
+        "summary": "Researchers reviewed how diabetes medications affect cancer risk, finding complex links between blood sugar control, insulin levels, and tumor growth.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42081011/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-07"
+      },
+      {
         "id": "recSQfRpAuyDv5z28",
         "title": "UBA2-High Osteosarcoma Suppresses Immune Infiltration by Autophagy-Mediated MHC-I Degradation.",
         "summary": "UBA2 protein drives osteosarcoma's immune resistance by triggering autophagy that destroys MHC-I, blocking immune cell infiltration and checkpoint therapy response.",
@@ -406,20 +420,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-06"
-      },
-      {
-        "id": "recwSeHvc2q19xmge",
-        "title": "Targeting NDUFS4 Disrupts Oxidative Phosphorylation and Induces Ferroptosis in Olaparib-Resistant Prostate Cancer.",
-        "summary": "Blocking NDUFS4 in olaparib-resistant prostate cancer restores drug sensitivity by disrupting mitochondrial function and triggering ferroptosis.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42083452/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Prostate"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 21386,
+    "archive_count": 21388,
     "archive_supplements": 2336,
-    "archive_off_label": 726,
-    "archive_biomarkers": 13086,
+    "archive_off_label": 727,
+    "archive_biomarkers": 13087,
     "archive_trials": 4504,
     "archive_mind_body": 442
   }
