@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T04:14:57.947Z",
+  "last_updated": "2026-05-07T04:15:09.728Z",
   "categories": {
     "supplements": [
       {
@@ -257,6 +257,21 @@
         "added_date": "2026-05-07"
       },
       {
+        "id": "recJr8NoXwgIoPsIf",
+        "title": "Molecular Glue cc-885 Inhibits VHL-Deficient Clear Cell Renal Cell Carcinoma via ETS1 Degradation.",
+        "summary": "cc-885 drug kills kidney cancer cells with VHL mutations by breaking down ETS1 protein, working better combined with belzutifan.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42089431/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal",
+          "Kidney"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-07"
+      },
+      {
         "id": "recSQfRpAuyDv5z28",
         "title": "UBA2-High Osteosarcoma Suppresses Immune Infiltration by Autophagy-Mediated MHC-I Degradation.",
         "summary": "UBA2 protein drives osteosarcoma's immune resistance by triggering autophagy that destroys MHC-I, blocking immune cell infiltration and checkpoint therapy response.",
@@ -408,21 +423,6 @@
           "Leukemia"
         ],
         "quality_score": 21,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-05"
-      },
-      {
-        "id": "recUbTFiMFDS01kkI",
-        "title": "Lipophilic Statins Deplete GPX4 to Promote Ferroptosis and Sensitize Cancer Cells to Immune Checkpoint Blockade.",
-        "summary": "Lipophilic statins kill melanoma and colorectal cancer cells by depleting a protective protein, and combining them with immunotherapy cures tumors in most mice.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41423587/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Colorectal",
-          "Melanoma"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-05"
       }
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 21218,
+    "archive_count": 21219,
     "archive_supplements": 2326,
     "archive_off_label": 721,
-    "archive_biomarkers": 12976,
+    "archive_biomarkers": 12977,
     "archive_trials": 4461,
     "archive_mind_body": 442
   }
