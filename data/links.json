@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T06:07:13.468Z",
+  "last_updated": "2026-05-07T06:09:00.989Z",
   "categories": {
     "supplements": [
       {
@@ -129,6 +129,48 @@
         "added_date": "2026-05-07"
       },
       {
+        "id": "rec1pdYdHzxnyeBub",
+        "title": "Fasting opens a metabolic window that favors anti-tumor immunity.",
+        "summary": "Short-term fasting boosts tumor-fighting immune cells by increasing a nutrient that strengthens their anti-cancer activity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42091038/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-07"
+      },
+      {
+        "id": "rec4m1ZNGYpMSAfIg",
+        "title": "A small molecule disrupts G4-STAT1 interaction and synergizes with olaparib to drive cancer cell death.",
+        "summary": "Berberine and coptisine block a cancer protein's growth signals and enhance DNA-damaging therapy in colon cancer cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42087785/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-07"
+      },
+      {
+        "id": "recpxeOsX31h0utnd",
+        "title": "16-h fasting optimizes cancer immunotherapy in mice and humans.",
+        "summary": "A 16-hour fasting period boosts cancer immunotherapy effectiveness by improving immune cells' tumor-fighting capacity in mice and humans.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41720105/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-07"
+      },
+      {
         "id": "recuvc8LzFaue0nsr",
         "title": "Cannabinoids in the Treatment of Chemotherapy-Induced Peripheral Neuropathy: A Systematic Review of Randomized Controlled Trials.",
         "summary": "Cannabinoids showed no significant benefit over placebo for treating chemotherapy-induced nerve pain in limited clinical trials.",
@@ -167,48 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-06"
-      },
-      {
-        "id": "recpopwMaRZehiV9B",
-        "title": "Gastrointestinal symptoms in Parkinson's disease treated in a controlled trial using traditional Chinese medicine (Jia-Wei-Ji-Chuan-Jian decoction) with network pharmacology analysis of active agents and mechanism of action.",
-        "summary": "A traditional Chinese medicine decoction improved gastrointestinal symptoms in Parkinson's disease patients through multiple active compounds.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42084228/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-06"
-      },
-      {
-        "id": "recxmpAqqkDS8Oq1p",
-        "title": "Synthesis of Sericin-Based Stretchable and Self-healing Hydrogel Loaded With Psidium guajava L. Extract for Treatment of Burn Wound.",
-        "summary": "A sericin-based hydrogel with guava extract significantly accelerated burn wound healing in mice, achieving 90% closure by day 15.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41543144/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-06"
-      },
-      {
-        "id": "recgXpVJEnm8JSsru",
-        "title": "Gut microbiota and diet in colorectal cancer: Converging determinants of carcinogenesis.",
-        "summary": "Diet shapes gut bacteria in ways that either increase or decrease colorectal cancer risk through inflammation and metabolic changes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42083308/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-06"
       }
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 21329,
+    "archive_count": 21331,
     "archive_supplements": 2331,
     "archive_off_label": 722,
-    "archive_biomarkers": 13071,
+    "archive_biomarkers": 13073,
     "archive_trials": 4471,
     "archive_mind_body": 442
   }
