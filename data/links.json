@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T04:03:38.506Z",
+  "last_updated": "2026-05-07T04:03:49.949Z",
   "categories": {
     "supplements": [
       {
@@ -215,6 +215,20 @@
     ],
     "off_label": [
       {
+        "id": "recx3dsaSDewtb6GN",
+        "title": "CKS1B is a tumor-intrinsic factor driving CD8+ T cell exhaustion via maintaining persistent tumor-antigen stimulation.",
+        "summary": "CKS1B protein in esophageal cancer tumors exhausts immune cells; blocking it restores anti-tumor immunity and improves checkpoint therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42090485/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-07"
+      },
+      {
         "id": "recSQfRpAuyDv5z28",
         "title": "UBA2-High Osteosarcoma Suppresses Immune Infiltration by Autophagy-Mediated MHC-I Degradation.",
         "summary": "UBA2 protein drives osteosarcoma's immune resistance by triggering autophagy that destroys MHC-I, blocking immune cell infiltration and checkpoint therapy response.",
@@ -411,20 +425,6 @@
         "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-05"
-      },
-      {
-        "id": "rec8oSF4FHbQ41EbQ",
-        "title": "Angiotensin II Type 1 Receptor Blockade Inhibits Gastric Cancer Metastasis Through Tight Junction Restoration.",
-        "summary": "Blocking angiotensin II signaling restores cell junctions and prevents gastric cancer metastasis in preclinical models.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42081962/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Stomach"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-05"
       }
     ],
     "biomarkers": [
@@ -583,6 +583,20 @@
         "added_date": "2026-05-07"
       },
       {
+        "id": "recx3dsaSDewtb6GN",
+        "title": "CKS1B is a tumor-intrinsic factor driving CD8+ T cell exhaustion via maintaining persistent tumor-antigen stimulation.",
+        "summary": "CKS1B protein in esophageal cancer tumors exhausts immune cells; blocking it restores anti-tumor immunity and improves checkpoint therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42090485/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-07"
+      },
+      {
         "id": "rec2NbpJZUKrGwDZY",
         "title": "Altered crosstalk of bacterial lipopolysaccharide with immune cells in colorectal cancer compared to paired adjacent intestinal tissue.",
         "summary": "Bacterial toxins interact differently with immune cells in colorectal cancer tumors versus healthy nearby tissue, potentially affecting immune responses.",
@@ -621,20 +635,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-06"
-      },
-      {
-        "id": "rec64CH2XBdTI2kzJ",
-        "title": "FTO promotes bladder cancer progression and stemness-associated phenotypes.",
-        "summary": "FTO protein promotes bladder cancer growth and stem cell properties; blocking it suppresses tumor progression in mice.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42083656/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Bladder"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-06"
       }
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 21157,
+    "archive_count": 21158,
     "archive_supplements": 2324,
     "archive_off_label": 720,
-    "archive_biomarkers": 12924,
+    "archive_biomarkers": 12925,
     "archive_trials": 4455,
     "archive_mind_body": 442
   }
