@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T04:28:19.503Z",
+  "last_updated": "2026-05-07T04:28:30.511Z",
   "categories": {
     "supplements": [
       {
@@ -286,6 +286,20 @@
         "added_date": "2026-05-07"
       },
       {
+        "id": "recq3NEAV9NEuTMGH",
+        "title": "ERα blockade in dendritic cells enhances antigen cross-presentation and induces antitumor CD8+ T cell immunity.",
+        "summary": "Blocking estrogen receptor in immune cells enhances their ability to activate cancer-fighting T cells, offering a potential new immunotherapy approach.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42086580/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-07"
+      },
+      {
         "id": "recSQfRpAuyDv5z28",
         "title": "UBA2-High Osteosarcoma Suppresses Immune Infiltration by Autophagy-Mediated MHC-I Degradation.",
         "summary": "UBA2 protein drives osteosarcoma's immune resistance by triggering autophagy that destroys MHC-I, blocking immune cell infiltration and checkpoint therapy response.",
@@ -404,20 +418,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41591363/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-05"
-      },
-      {
-        "id": "recssnh3ziQQLlvaI",
-        "title": "Delivery of nano-formulated drugs to solid tumours is selectively increased by co-application of the vascular disrupting agent CA4P.",
-        "summary": "Combining a vascular-disrupting agent with nano-formulated drugs significantly improves drug delivery to solid tumors.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42076784/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
         "cancer_types": [
           "General"
         ],
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 21290,
+    "archive_count": 21291,
     "archive_supplements": 2327,
     "archive_off_label": 722,
-    "archive_biomarkers": 13038,
+    "archive_biomarkers": 13039,
     "archive_trials": 4469,
     "archive_mind_body": 442
   }
