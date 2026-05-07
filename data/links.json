@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T04:10:10.883Z",
+  "last_updated": "2026-05-07T04:10:22.529Z",
   "categories": {
     "supplements": [
       {
@@ -27,6 +27,20 @@
           "Breast"
         ],
         "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-07"
+      },
+      {
+        "id": "recVqlmxWCVsCt2jY",
+        "title": "Rapid regression of advanced hepatic fibrosis in a patient with metabolic dysfunction-associated steatotic liver disease and severe obesity: a case report highlighting lifestyle-induced NETosis activation through serum proteomic analysis.",
+        "summary": "Intensive lifestyle intervention reversed advanced liver fibrosis in a severely obese patient, potentially through immune pathway activation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42089951/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-07"
       },
@@ -193,20 +207,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-06"
-      },
-      {
-        "id": "recoWSx9xSSsKinba",
-        "title": "The protective role of whole grains and legumes against gastric cancer.",
-        "summary": "Eating whole grains and legumes may reduce gastric cancer risk by lowering inflammation and oxidative stress through beneficial compounds.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42083586/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Stomach"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 21191,
+    "archive_count": 21192,
     "archive_supplements": 2325,
     "archive_off_label": 721,
-    "archive_biomarkers": 12951,
+    "archive_biomarkers": 12952,
     "archive_trials": 4460,
     "archive_mind_body": 442
   }
