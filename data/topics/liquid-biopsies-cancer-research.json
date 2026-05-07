@@ -11,6 +11,38 @@
   },
   "articles": [
     {
+      "title": "A Nonrandomized Trial Using DNA Liquid Biopsies to Guide Anticoagulation For Patients With Cancer-Associated Thromboembolism",
+      "hook": "DNA liquid biopsy predicts clot recurrence in cancer patients on anticoagulation",
+      "summary": "A blood test predicts whether cancer patients treated for blood clots will develop clots again after anticoagulation therapy.",
+      "url": "https://clinicaltrials.gov/study/NCT07399977",
+      "source": "ClinicalTrials.gov",
+      "pub_date": "2026-05-05",
+      "category": [
+        "Biomarkers & Diagnostics",
+        "Clinical Trials"
+      ],
+      "cancer_types": [
+        "General"
+      ],
+      "biomarkers": ""
+    },
+    {
+      "title": "A Phase 2 Study to Assess the Effect of BALSTILIMAB (AGEN2034) on Viral Clearance in HPV-positive Oropharyngeal Cancer Patients With Persistent HPV Detection in Plasma cfDNA After Definitive Therapy",
+      "hook": "Balstilimab immunotherapy clears persistent HPV in oropharyngeal cancer patients",
+      "summary": "Immune therapy with BALSTILIMAB aims to clear persistent HPV virus in blood of oropharyngeal cancer patients after standard treatment.",
+      "url": "https://clinicaltrials.gov/study/NCT05363709",
+      "source": "ClinicalTrials.gov",
+      "pub_date": "2026-05-05",
+      "category": [
+        "Biomarkers & Diagnostics",
+        "Clinical Trials"
+      ],
+      "cancer_types": [
+        "General"
+      ],
+      "biomarkers": ""
+    },
+    {
       "title": "A machine learning framework combining cfDNA fragmentomics and serum biomarkers for early ovarian cancer detection.",
       "hook": "cfDNA fragmentomics and serum biomarkers detect early ovarian cancer",
       "summary": "Researchers developed a blood test combining DNA fragments and proteins to detect ovarian cancer early and improve survival outcomes.",
@@ -57,46 +89,62 @@
       "biomarkers": "KRAS"
     },
     {
-      "title": "Circulating Tumor Cell and Tumor Tissue Models for Predicting Effective Pancreatic Cancer Response",
-      "hook": "Circulating tumor cells predict chemotherapy...",
-      "summary": "Researchers are developing a test using circulating tumor cells to predict which pancreatic cancer patients will respond best to specific chemotherapy treatments.",
-      "url": "https://clinicaltrials.gov/study/NCT03033927",
-      "source": "ClinicalTrials.gov",
-      "pub_date": "2026-04-27",
+      "title": "Extracellular vesicles as liquid biopsy tools for personalized therapeutic goals in glioblastoma.",
+      "hook": "Extracellular vesicles enable blood-based glioblastoma treatment personalization",
+      "summary": "Extracellular vesicles could improve glioblastoma treatment by serving as blood tests to personalize therapy selection for individual patients.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41492781/",
+      "source": "PubMed",
+      "pub_date": "2026-05-01",
+      "category": [
+        "Biomarkers & Diagnostics"
+      ],
+      "cancer_types": [
+        "Brain"
+      ],
+      "biomarkers": ""
+    },
+    {
+      "title": "Quantitative BRAF p.V600E mutation monitoring in cerebrospinal fluid cell-free DNA reflects therapeutic response to BRAF/MEK inhibitors in papillary craniopharyngioma: a report of two cases.",
+      "hook": "BRAF V600E mutation tracking in cerebrospinal fluid predicts BRAF/MEK inhibitor response",
+      "summary": "Tracking a cancer mutation in spinal fluid predicts how well brain tumor patients respond to targeted drug therapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42083012/",
+      "source": "PubMed",
+      "pub_date": "2026-05-01",
       "category": [
         "Biomarkers & Diagnostics",
         "Clinical Trials"
       ],
       "cancer_types": [
-        "Pancreatic"
+        "General"
       ],
-      "biomarkers": ""
+      "biomarkers": "HER2, BRAF"
     },
     {
-      "title": "Colon Adjuvant Chemotherapy Based on Evaluation of Residual Disease",
-      "hook": "Circulating tumor DNA levels guide adjuvant...",
-      "summary": "Study tests whether colon cancer patients need chemotherapy based on circulating tumor DNA levels after surgery.",
-      "url": "https://clinicaltrials.gov/study/NCT05174169",
-      "source": "ClinicalTrials.gov",
-      "pub_date": "2026-04-23",
+      "title": "Assessment of Potential Sources of Variability on the Analytical Performance of a Circulating Tumor DNA Minimal Residual Disease Test for B-Cell Lymphomas.",
+      "hook": "Circulating tumor DNA test shows variable performance across B-cell lymphoma conditions",
+      "summary": "Researchers tested how reliably a blood test detecting cancer DNA performs in B-cell lymphomas under varying conditions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42089547/",
+      "source": "PubMed",
+      "pub_date": "2026-05-01",
       "category": [
-        "Clinical Trials",
-        "Biomarkers & Diagnostics"
+        "Biomarkers & Diagnostics",
+        "Clinical Trials"
       ],
       "cancer_types": [
-        "Colorectal"
+        "Lymphoma"
       ],
       "biomarkers": ""
     },
     {
-      "title": "Improved deconvolution of circulating tumor DNA from ultra-low-pass whole-genome methylation sequencing using CelFiE-ISH",
-      "hook": "CelFiE-ISH improves circulating tumor DNA detection in blood methylation tests",
-      "summary": "New computational method improves detection of circulating tumor DNA in blood tests using DNA methylation analysis across multiple cancer types.",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.04.15.718632",
-      "source": "bioRxiv",
-      "pub_date": "2026-04-18",
+      "title": "Liquid biopsy for biliary tract cancer: available evidence and future research directions.",
+      "hook": "Blood tests detect biliary tract cancer without invasive biopsies",
+      "summary": "Blood tests show promise for detecting biliary tract cancer and guiding treatment without invasive tissue biopsies.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42087549/",
+      "source": "PubMed",
+      "pub_date": "2026-05-01",
       "category": [
-        "Biomarkers & Diagnostics"
+        "Biomarkers & Diagnostics",
+        "Clinical Trials"
       ],
       "cancer_types": [
         "General"
@@ -104,69 +152,22 @@
       "biomarkers": ""
     },
     {
-      "title": "Imaging Mass Cytometry (IMC) as a Tool to Characterize Circulating Tumor Cells (CTCs) in Preclinical Mouse Models",
-      "hook": "Imaging mass cytometry identifies circulating tumor cells in breast cancer mice",
-      "summary": "Imaging mass cytometry successfully identifies and analyzes circulating tumor cells in mouse blood, enabling study of cancer cell properties and treatment responses.",
-      "url": "https://www.biorxiv.org/content/10.64898/2025.12.18.695262",
-      "source": "bioRxiv",
-      "pub_date": "2026-04-16",
-      "category": [
-        "Biomarkers & Diagnostics"
-      ],
-      "cancer_types": [
-        "Breast"
-      ],
-      "biomarkers": ""
-    },
-    {
-      "title": "Early-stage cancer results in a multiplicative increase in cell-free DNA originating from healthy tissue",
-      "hook": "Early-stage cancer increases cell-free DNA...",
-      "summary": "Early-stage cancer causes a dramatic, tissue-specific increase in cell-free DNA from healthy tissues, potentially improving cancer detection through blood tests.",
-      "url": "https://www.biorxiv.org/content/10.1101/2024.01.26.577500",
-      "source": "bioRxiv",
-      "pub_date": "2026-04-15",
-      "category": [
-        "Biomarkers & Diagnostics"
-      ],
-      "cancer_types": [
-        "Lung",
-        "Liver"
-      ],
-      "biomarkers": ""
-    },
-    {
-      "title": "Patient-derived Organoid Model and Circulating Tumor Cells for Treatment Response of Lung Cancer (CTMS 18-0056)",
-      "hook": "Patient-derived organoids predict individual...",
-      "summary": "Researchers are building a living lung cancer sample bank to predict which treatments work best for individual patients.",
-      "url": "https://clinicaltrials.gov/study/NCT03655015",
-      "source": "ClinicalTrials.gov",
-      "pub_date": "2026-04-15",
+      "title": "An international framework for clinical translation of molecular classifiers in osteosarcoma.",
+      "hook": "Circulating tumor DNA predicts osteosarcoma treatment response and survival",
+      "summary": "Researchers identified circulating tumor DNA as a promising biomarker to guide personalized osteosarcoma treatment and improve survival.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42086782/",
+      "source": "PubMed",
+      "pub_date": "2026-05-01",
       "category": [
         "Biomarkers & Diagnostics",
         "Clinical Trials"
       ],
       "cancer_types": [
-        "Lung"
-      ],
-      "biomarkers": ""
-    },
-    {
-      "title": "EUS-guided PORtal Vein Sampling for Isolation, Enumeration and Profiling of Circulating Tumor Cells in Pancreatic Cancer Patients",
-      "hook": "EUS-guided portal vein sampling isolates...",
-      "summary": "Researchers successfully tested a new ultrasound-guided needle technique to collect and analyze pancreatic cancer cells directly from portal blood.",
-      "url": "https://clinicaltrials.gov/study/NCT05247164",
-      "source": "ClinicalTrials.gov",
-      "pub_date": "2026-04-15",
-      "category": [
-        "Biomarkers & Diagnostics",
-        "Clinical Trials"
-      ],
-      "cancer_types": [
-        "Pancreatic"
+        "General"
       ],
       "biomarkers": ""
     }
   ],
   "article_count": 10,
-  "last_updated": "2026-05-05T13:07:11.089Z"
+  "last_updated": "2026-05-07T13:06:37.874Z"
 }
