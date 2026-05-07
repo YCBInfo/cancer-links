@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T04:04:43.358Z",
+  "last_updated": "2026-05-07T04:04:57.483Z",
   "categories": {
     "supplements": [
       {
@@ -725,6 +725,20 @@
         "added_date": "2026-05-07"
       },
       {
+        "id": "recmF7aoWhBYueMpF",
+        "title": "Intravenous Immunoglobulin Reduces Infections for Patients with Chronic Lymphocytic Leukemia: A Single-Center Retrospective Analysis.",
+        "summary": "IVIG treatment reduces serious infections by 67% in chronic lymphocytic leukemia patients with low antibody levels.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42090724/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-07"
+      },
+      {
         "id": "recjrCj6srEiocGNd",
         "title": "Rab5 improves CAR T cell efficacy via reducing fratricide and maintaining surface CAR levels.",
         "summary": "Adding Rab5 protein to CAR T cells improves their cancer-fighting ability by reducing self-destruction and maintaining tumor-targeting receptors.",
@@ -835,20 +849,6 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-06"
-      },
-      {
-        "id": "recDtgYgD1wRgGoxy",
-        "title": "GSH-Responsive Nanoparticles Enhance Hepatocellular Carcinoma Immunotherapy Through Synergistic Effects of Cuproptosis and PI3K Inhibitor Combination.",
-        "summary": "Nanoparticles combining copper-induced cell death and PI3K inhibitor effectively treat hepatocellular carcinoma by activating immune responses against tumors.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42085613/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-06"
       }
     ],
     "mind_body": []
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 21162,
+    "archive_count": 21163,
     "archive_supplements": 2324,
     "archive_off_label": 720,
-    "archive_biomarkers": 12929,
+    "archive_biomarkers": 12930,
     "archive_trials": 4455,
     "archive_mind_body": 442
   }
