@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T04:05:29.857Z",
+  "last_updated": "2026-05-07T04:05:42.054Z",
   "categories": {
     "supplements": [
       {
@@ -767,6 +767,20 @@
         "added_date": "2026-05-07"
       },
       {
+        "id": "rec4wwriXO386O8tx",
+        "title": "Polymeric rapamycin nanoparticles encapsulating ponatinib cause regression of venous malformations in mice.",
+        "summary": "A single nanoparticle injection combining two drugs caused significant venous malformation regression in mice without toxicity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42090479/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-07"
+      },
+      {
         "id": "recjrCj6srEiocGNd",
         "title": "Rab5 improves CAR T cell efficacy via reducing fratricide and maintaining surface CAR levels.",
         "summary": "Adding Rab5 protein to CAR T cells improves their cancer-fighting ability by reducing self-destruction and maintaining tumor-targeting receptors.",
@@ -835,20 +849,6 @@
         "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-06"
-      },
-      {
-        "id": "recGEoHI9UzGDelEy",
-        "title": "Neoadjuvant Single-Cycle Pembrolizumab for Stage I-III MMR-Deficient Colon Cancer: The RESET-C Trial.",
-        "summary": "A single dose of pembrolizumab before surgery shows promise for treating early-stage colon cancer with mismatch repair deficiency.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42085635/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-06"
       }
     ],
     "mind_body": []
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 21166,
+    "archive_count": 21167,
     "archive_supplements": 2324,
     "archive_off_label": 720,
-    "archive_biomarkers": 12933,
+    "archive_biomarkers": 12934,
     "archive_trials": 4455,
     "archive_mind_body": 442
   }
