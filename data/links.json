@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T04:19:33.395Z",
+  "last_updated": "2026-05-07T04:19:47.935Z",
   "categories": {
     "supplements": [
       {
@@ -272,6 +272,20 @@
         "added_date": "2026-05-07"
       },
       {
+        "id": "recj2BGMalMt8clmz",
+        "title": "Safety and efficacy of echinocandin antifungal agents in Candida albicans endophthalmitis.",
+        "summary": "Echinocandin antifungal drugs rezafungin and anidulafungin effectively treat Candida albicans eye infections with safety comparable to traditional antifungals.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41870115/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-07"
+      },
+      {
         "id": "recSQfRpAuyDv5z28",
         "title": "UBA2-High Osteosarcoma Suppresses Immune Infiltration by Autophagy-Mediated MHC-I Degradation.",
         "summary": "UBA2 protein drives osteosarcoma's immune resistance by triggering autophagy that destroys MHC-I, blocking immune cell infiltration and checkpoint therapy response.",
@@ -408,21 +422,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-05"
-      },
-      {
-        "id": "rec0SN0C9HxtmPS4i",
-        "title": "Rosuvastatin enhances the efficacy of venetoclax-azacitidine in older acute myeloid leukemia patients via reducing T-cell exhaustion.",
-        "summary": "Adding rosuvastatin to venetoclax-azacitidine improves treatment response in older AML patients by reducing T-cell exhaustion.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42082682/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Colorectal",
-          "Leukemia"
-        ],
-        "quality_score": 21,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-05"
       }
@@ -860,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 21244,
+    "archive_count": 21245,
     "archive_supplements": 2327,
     "archive_off_label": 721,
-    "archive_biomarkers": 12997,
+    "archive_biomarkers": 12998,
     "archive_trials": 4465,
     "archive_mind_body": 442
   }
