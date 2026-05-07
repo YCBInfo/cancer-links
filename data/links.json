@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T04:04:57.483Z",
+  "last_updated": "2026-05-07T04:05:09.027Z",
   "categories": {
     "supplements": [
       {
@@ -739,6 +739,20 @@
         "added_date": "2026-05-07"
       },
       {
+        "id": "rec5LX0kWBD43qo4T",
+        "title": "[Initial clinical experience with ribociclib in advanced HR+/HER2- breast cancer in Uruguay].",
+        "summary": "Ribociclib treatment improved survival outcomes in Uruguayan women with advanced hormone-receptor-positive breast cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42090642/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-07"
+      },
+      {
         "id": "recjrCj6srEiocGNd",
         "title": "Rab5 improves CAR T cell efficacy via reducing fratricide and maintaining surface CAR levels.",
         "summary": "Adding Rab5 protein to CAR T cells improves their cancer-fighting ability by reducing self-destruction and maintaining tumor-targeting receptors.",
@@ -835,20 +849,6 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-06"
-      },
-      {
-        "id": "rechJbhNdSJIEFf1F",
-        "title": "Metastatic Trajectories in Non-Small Cell Lung Cancer Guide Local and Systemic Therapies.",
-        "summary": "Tracking how individual lung cancer tumors respond differently over time can guide personalized treatment decisions combining surgery, radiation, and systemic therapy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42085620/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-06"
       }
     ],
     "mind_body": []
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 21163,
+    "archive_count": 21164,
     "archive_supplements": 2324,
     "archive_off_label": 720,
-    "archive_biomarkers": 12930,
+    "archive_biomarkers": 12931,
     "archive_trials": 4455,
     "archive_mind_body": 442
   }
