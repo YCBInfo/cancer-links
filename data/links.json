@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T04:06:04.679Z",
+  "last_updated": "2026-05-07T04:06:16.662Z",
   "categories": {
     "supplements": [
       {
@@ -229,6 +229,20 @@
         "added_date": "2026-05-07"
       },
       {
+        "id": "rect6IBZ8l7cDi3oN",
+        "title": "Dutasteride treatment and its effect on standardized uptake values in prostate-specific membrane antigen-PET imaging: A pilot study.",
+        "summary": "Dutasteride treatment increased PSMA expression in prostate cancer patients, potentially improving the effectiveness of PSMA-PET imaging for detection.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42090407/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-07"
+      },
+      {
         "id": "recSQfRpAuyDv5z28",
         "title": "UBA2-High Osteosarcoma Suppresses Immune Infiltration by Autophagy-Mediated MHC-I Degradation.",
         "summary": "UBA2 protein drives osteosarcoma's immune resistance by triggering autophagy that destroys MHC-I, blocking immune cell infiltration and checkpoint therapy response.",
@@ -409,20 +423,6 @@
           "Breast"
         ],
         "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-05"
-      },
-      {
-        "id": "recJRtGoItg0U6J7l",
-        "title": "Downregulation of claudin-2 expression and chemoresistance by saquinavir in human lung adenocarcinoma cells.",
-        "summary": "Saquinavir, an HIV drug, reduces a protein called claudin-2 in lung adenocarcinoma cells, making them more sensitive to chemotherapy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42081994/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-05"
       }
@@ -809,6 +809,20 @@
         "added_date": "2026-05-07"
       },
       {
+        "id": "rect6IBZ8l7cDi3oN",
+        "title": "Dutasteride treatment and its effect on standardized uptake values in prostate-specific membrane antigen-PET imaging: A pilot study.",
+        "summary": "Dutasteride treatment increased PSMA expression in prostate cancer patients, potentially improving the effectiveness of PSMA-PET imaging for detection.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42090407/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-07"
+      },
+      {
         "id": "recjrCj6srEiocGNd",
         "title": "Rab5 improves CAR T cell efficacy via reducing fratricide and maintaining surface CAR levels.",
         "summary": "Adding Rab5 protein to CAR T cells improves their cancer-fighting ability by reducing self-destruction and maintaining tumor-targeting receptors.",
@@ -835,20 +849,6 @@
         "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-06"
-      },
-      {
-        "id": "recmY3WfzFO1BmDLX",
-        "title": "Real-World Analysis of Adverse Events in Patients With Triple-Negative Breast Cancer Receiving Therapy per KEYNOTE-522.",
-        "summary": "Researchers found that combining chemotherapy with pembrolizumab effectively treats early-stage triple-negative breast cancer, with manageable side effects in real-world patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42085641/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-06"
       }
     ],
     "mind_body": []
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 21169,
+    "archive_count": 21170,
     "archive_supplements": 2324,
     "archive_off_label": 720,
-    "archive_biomarkers": 12936,
+    "archive_biomarkers": 12937,
     "archive_trials": 4455,
     "archive_mind_body": 442
   }
