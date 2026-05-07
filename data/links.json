@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T04:03:49.949Z",
+  "last_updated": "2026-05-07T04:04:00.529Z",
   "categories": {
     "supplements": [
       {
@@ -597,6 +597,20 @@
         "added_date": "2026-05-07"
       },
       {
+        "id": "recw3KjFNbcf3gLvm",
+        "title": "Decreases in human papillomavirus vaccine types 16 and 18 in cervical precancers - HPV-IMPACT, 2008-2019.",
+        "summary": "HPV vaccination significantly reduced cervical precancer cases caused by HPV types 16 and 18 between 2008 and 2019.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42089801/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-07"
+      },
+      {
         "id": "rec2NbpJZUKrGwDZY",
         "title": "Altered crosstalk of bacterial lipopolysaccharide with immune cells in colorectal cancer compared to paired adjacent intestinal tissue.",
         "summary": "Bacterial toxins interact differently with immune cells in colorectal cancer tumors versus healthy nearby tissue, potentially affecting immune responses.",
@@ -615,20 +629,6 @@
         "title": "Rab5 improves CAR T cell efficacy via reducing fratricide and maintaining surface CAR levels.",
         "summary": "Adding Rab5 protein to CAR T cells improves their cancer-fighting ability by reducing self-destruction and maintaining tumor-targeting receptors.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42085022/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-06"
-      },
-      {
-        "id": "recmko2fv3VJRblDv",
-        "title": "TACI regulates marginal zone B cell development.",
-        "summary": "TACI protein is required for developing marginal zone B cells through a specific cellular pathway involving PI3K-AKT and FOXO1 regulation.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42085021/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -701,6 +701,20 @@
         "title": "Loss of the autoimmune risk gene TREX1 reveals a convergence of mechanisms promoting immune tolerance loss and antitumor immunity.",
         "summary": "Removing the TREX1 gene boosts immune cells that fight cancer while sharing mechanisms with autoimmune responses, suggesting autoimmune risk genes could improve cancer therapy.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42090506/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-07"
+      },
+      {
+        "id": "recw3KjFNbcf3gLvm",
+        "title": "Decreases in human papillomavirus vaccine types 16 and 18 in cervical precancers - HPV-IMPACT, 2008-2019.",
+        "summary": "HPV vaccination significantly reduced cervical precancer cases caused by HPV types 16 and 18 between 2008 and 2019.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42089801/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -835,20 +849,6 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-06"
-      },
-      {
-        "id": "recoefNY6KKbReGtD",
-        "title": "Polatuzumab vedotin-containing regimens as bridge to CART: analysis from the CART-SIE study.",
-        "summary": "For large B-cell lymphoma, polatuzumab vedotin with rituximab alone works as well as with bendamustine before CAR-T therapy, with fewer side effects.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42085605/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Lymphoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-06"
       }
     ],
     "mind_body": []
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 21158,
+    "archive_count": 21159,
     "archive_supplements": 2324,
     "archive_off_label": 720,
-    "archive_biomarkers": 12925,
+    "archive_biomarkers": 12926,
     "archive_trials": 4455,
     "archive_mind_body": 442
   }
