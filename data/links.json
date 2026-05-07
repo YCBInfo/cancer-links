@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T04:29:25.448Z",
+  "last_updated": "2026-05-07T04:29:35.656Z",
   "categories": {
     "supplements": [
       {
@@ -53,6 +53,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-07"
+      },
+      {
+        "id": "rec1531Mcr6it9dEl",
+        "title": "The TRIM27/STING Axis Mediates Schisandrin B-Induced Inhibition of Myeloid-Derived Suppressor Cells Accumulation to Potentiate Anti-PD-1 Immunotherapy in Hepatocellular Carcinoma.",
+        "summary": "Schisandrin B enhances anti-PD-1 immunotherapy in hepatocellular carcinoma by reducing immune-suppressive cells through the TRIM27/STING pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42086514/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Liver"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -189,20 +203,6 @@
         "title": "Chrysophanol ameliorates ferroptosis in acute kidney injury by promoting SIRT3-mediated NRF2 deacetylation.",
         "summary": "Chrysophanol protects against acute kidney injury by preventing ferroptosis through a SIRT3-NRF2 protein pathway.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42084621/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-06"
-      },
-      {
-        "id": "recoigp2cFpTn5JpA",
-        "title": "Computational and experimental elucidation of ginsenoside Rh2 as a FAK-targeted inhibitor of tumor cell invasion and migration.",
-        "summary": "Ginsenoside Rh2, a natural compound, blocks cancer cell invasion and migration by inhibiting FAK protein activation.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42085888/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 21296,
+    "archive_count": 21297,
     "archive_supplements": 2327,
     "archive_off_label": 722,
-    "archive_biomarkers": 13044,
+    "archive_biomarkers": 13045,
     "archive_trials": 4469,
     "archive_mind_body": 442
   }
