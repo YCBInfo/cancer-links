@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T08:04:02.675Z",
+  "last_updated": "2026-05-07T09:03:35.104Z",
   "categories": {
     "supplements": [
       {
@@ -342,6 +342,48 @@
         "added_date": "2026-05-07"
       },
       {
+        "id": "recZDbybvjEfv7r35",
+        "title": "The efficacy and safety of pentoxifylline in the treatment of chronic kidney disease: a systematic review and meta-analysis.",
+        "summary": "Pentoxifylline may improve kidney function, anemia, and inflammation in chronic kidney disease patients, according to this systematic review.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42091733/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-07"
+      },
+      {
+        "id": "rec9hf9e5Lj6g3ISH",
+        "title": "Carvedilol Versus Endoscopic Variceal Ligation for Prophylaxis of Esophageal Variceal Bleeding in Patients With Liver Cirrhosis: An Updated Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
+        "summary": "Carvedilol and endoscopic ligation are equally effective at preventing dangerous bleeding from esophageal varices in cirrhosis patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42090574/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-07"
+      },
+      {
+        "id": "recCnPP4HcLr4U7NU",
+        "title": "A network medicine framework for multi-modal data integration in therapeutic target discovery.",
+        "summary": "Researchers developed a machine learning system combining multiple data types to identify cancer drug targets, discovering ENO2 inhibition effectively fights kidney cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42092189/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Kidney"
+        ],
+        "quality_score": 29,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-07"
+      },
+      {
         "id": "recSQfRpAuyDv5z28",
         "title": "UBA2-High Osteosarcoma Suppresses Immune Infiltration by Autophagy-Mediated MHC-I Degradation.",
         "summary": "UBA2 protein drives osteosarcoma's immune resistance by triggering autophagy that destroys MHC-I, blocking immune cell infiltration and checkpoint therapy response.",
@@ -378,48 +420,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Prostate"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-06"
-      },
-      {
-        "id": "recSb4XveC0uQODER",
-        "title": "RAPTOR Silencing Inhibits Head and Neck Squamous Cell Carcinoma Progression via Regulation of S100A8/A9 and Urokinase Plasminogen Activator.",
-        "summary": "Silencing RAPTOR protein inhibits head and neck cancer progression by reducing tumor-promoting signals and increasing protective immune proteins.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42083285/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-06"
-      },
-      {
-        "id": "recGIdwmKsTgV08yM",
-        "title": "An Open-label, Two-arm, Multicenter, Phase II Randomized Controlled Trial Assessing the Impact of Olanzapine on the Efficacy of First-line Immunotherapy in Patients With Advanced EGFR Mutation-negative Non-small Cell Lung Cancer (NSCLC).",
-        "summary": "Study tests whether adding olanzapine to immunotherapy improves outcomes in advanced lung cancer patients compared to immunotherapy alone.",
-        "url": "https://clinicaltrials.gov/study/NCT06554613",
-        "source": "ClinicalTrials.gov",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 13,
-        "pub_date": "2026-05-05",
-        "added_date": "2026-05-06"
-      },
-      {
-        "id": "rec7JOvbHOGvoMmUZ",
-        "title": "A novel combination for in vivo breast cancer treatment: TAK1 inhibition combined with metformin and Lentinula edodes compounds synergistically reinvigorates CD8+ T Cells.",
-        "summary": "Combining a TAK1 inhibitor, metformin, and mushroom extract boosts immune cells to fight triple-negative breast cancer in mice.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42087141/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -859,9 +859,9 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 21385,
+    "archive_count": 21386,
     "archive_supplements": 2336,
-    "archive_off_label": 725,
+    "archive_off_label": 726,
     "archive_biomarkers": 13086,
     "archive_trials": 4504,
     "archive_mind_body": 442
