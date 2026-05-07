@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-05-06T11:55:24.549Z",
+  "last_updated": "2026-05-07T02:03:24.977Z",
   "categories": {
     "supplements": [
+      {
+        "id": "recBNUqiadSAL1IB8",
+        "title": "Preventive Health Behaviours Among Elderly in India: Does Social Capital Matter?",
+        "summary": "Social connections and community ties help elderly Indians adopt preventive health behaviors like exercise, cancer screening, and vaccinations.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42086961/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-07"
+      },
       {
         "id": "recuvc8LzFaue0nsr",
         "title": "Cannabinoids in the Treatment of Chemotherapy-Induced Peripheral Neuropathy: A Systematic Review of Randomized Controlled Trials.",
@@ -195,20 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-06"
-      },
-      {
-        "id": "recZumffFuPZ7HoJo",
-        "title": "Chitosan loaded copper and selenium nanoparticles synergistically inhibit HepG2-hepatic cancer cells viability and angiogenesis.",
-        "summary": "Copper-selenium nanoparticles kill liver cancer cells and prevent blood vessel growth, offering potential new treatment approach.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42083613/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Liver"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-06"
       }
@@ -429,6 +429,34 @@
     ],
     "biomarkers": [
       {
+        "id": "rec48kXxajEz7uzdm",
+        "title": "Bee venom acupuncture therapy ameliorates ulcerative colitis by reducing inflammatory response, oxidative stress, and suppressing the NF-κB/HIF-1α pathway.",
+        "summary": "Bee venom acupuncture reduces inflammation and oxidative stress in ulcerative colitis by suppressing specific cellular pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42088100/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-07"
+      },
+      {
+        "id": "recBNUqiadSAL1IB8",
+        "title": "Preventive Health Behaviours Among Elderly in India: Does Social Capital Matter?",
+        "summary": "Social connections and community ties help elderly Indians adopt preventive health behaviors like exercise, cancer screening, and vaccinations.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42086961/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-07"
+      },
+      {
         "id": "rec2NbpJZUKrGwDZY",
         "title": "Altered crosstalk of bacterial lipopolysaccharide with immune cells in colorectal cancer compared to paired adjacent intestinal tissue.",
         "summary": "Bacterial toxins interact differently with immune cells in colorectal cancer tumors versus healthy nearby tissue, potentially affecting immune responses.",
@@ -609,37 +637,23 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-06"
-      },
+      }
+    ],
+    "trials": [
       {
-        "id": "recGEoHI9UzGDelEy",
-        "title": "Neoadjuvant Single-Cycle Pembrolizumab for Stage I-III MMR-Deficient Colon Cancer: The RESET-C Trial.",
-        "summary": "A single dose of pembrolizumab before surgery shows promise for treating early-stage colon cancer with mismatch repair deficiency.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42085635/",
+        "id": "recdVah9cemcq7X8i",
+        "title": "Spirituality and religiosity in cancer care: A targeted review of the NCCN distress thermometer and implications for holistic screening.",
+        "summary": "Cancer care providers often miss spiritual and religious distress because screening tools don't effectively capture or address these patient concerns.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42086925/",
         "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-06"
-      },
-      {
-        "id": "recahQgt1g7d56XKE",
-        "title": "Potent anti-tumor activity of the AXL-targeted antibody-drug conjugate, mipasetamab uzoptirine (ADCT-601), in preclinical models of adenoid cystic carcinoma.",
-        "summary": "An experimental drug targeting AXL protein shows promise in killing adenoid cystic carcinoma cells in laboratory and animal models.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42085627/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
+        "category": "Clinical Trials",
         "cancer_types": [
           "General"
         ],
         "quality_score": 12,
         "pub_date": "2026-05-01",
-        "added_date": "2026-05-06"
-      }
-    ],
-    "trials": [
+        "added_date": "2026-05-07"
+      },
       {
         "id": "recjrCj6srEiocGNd",
         "title": "Rab5 improves CAR T cell efficacy via reducing fratricide and maintaining surface CAR levels.",
@@ -835,20 +849,6 @@
         "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-06"
-      },
-      {
-        "id": "recCy7VGUfudCruNU",
-        "title": "The density of tumour infiltrating lymphocytes in oesophago-gastric cancer varies with disease stage, geographical region and treatment: a post hoc analysis of nine phase III clinical trials.",
-        "summary": "Immune cell density in esophageal and gastric cancers varies significantly by disease stage, geographic location, and treatment type.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42084815/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Stomach"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-06"
       }
     ],
     "mind_body": []
@@ -860,11 +860,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 21153,
+    "archive_count": 21154,
     "archive_supplements": 2323,
     "archive_off_label": 720,
     "archive_biomarkers": 12922,
-    "archive_trials": 4454,
+    "archive_trials": 4455,
     "archive_mind_body": 442
   }
 }
