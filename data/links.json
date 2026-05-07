@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T04:32:09.056Z",
+  "last_updated": "2026-05-07T06:04:06.466Z",
   "categories": {
     "supplements": [
       {
@@ -69,6 +69,34 @@
           "Liver"
         ],
         "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-07"
+      },
+      {
+        "id": "recpbnXliH8hbuoMP",
+        "title": "Akkermansia muciniphila-derived 5-MIAA blunts colitis-associated tumorigenesis by modulating colonic SLC26A3/pSTAT3 signaling.",
+        "summary": "A bacterial metabolite from *Akkermansia muciniphila* reduces colorectal cancer growth by activating a protective signaling pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42091596/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-07"
+      },
+      {
+        "id": "rec58Gs41sAYTTLPa",
+        "title": "Urinary phytoestrogens and hyperuricemia risk in a nationally representative population: an effect modified by smoking status.",
+        "summary": "Higher urinary phytoestrogens are associated with lower hyperuricemia risk in U.S. adults, especially among current smokers.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42091940/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-07"
       },
@@ -181,34 +209,6 @@
           "Lung"
         ],
         "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-06"
-      },
-      {
-        "id": "rec1bIR9OxSlMKkL7",
-        "title": "l-Proline as a safer strategy to preserve ovarian function for patients facing gonadotoxic therapies.",
-        "summary": "L-proline offers a safer, DMSO-free method to preserve ovarian function in cancer patients undergoing gonadotoxic therapies.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42084632/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-06"
-      },
-      {
-        "id": "recNjvtH4Y40WDHNL",
-        "title": "Chrysophanol ameliorates ferroptosis in acute kidney injury by promoting SIRT3-mediated NRF2 deacetylation.",
-        "summary": "Chrysophanol protects against acute kidney injury by preventing ferroptosis through a SIRT3-NRF2 protein pathway.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42084621/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-06"
       }
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 21311,
+    "archive_count": 21312,
     "archive_supplements": 2328,
     "archive_off_label": 722,
-    "archive_biomarkers": 13057,
+    "archive_biomarkers": 13058,
     "archive_trials": 4470,
     "archive_mind_body": 442
   }
