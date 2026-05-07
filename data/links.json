@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T07:03:39.866Z",
+  "last_updated": "2026-05-07T07:03:53.094Z",
   "categories": {
     "supplements": [
       {
@@ -300,6 +300,20 @@
         "added_date": "2026-05-07"
       },
       {
+        "id": "recsv7VuyRKZUMm1Z",
+        "title": "A Phase I/II Study Evaluating the Safety and Efficacy of Ivermectin in Combination With Immune Checkpoint Inhibitor in Patients With Metastatic Triple Negative Breast Cancer",
+        "summary": "Researchers are testing whether adding ivermectin to immune-boosting drugs can shrink metastatic triple negative breast cancer more effectively.",
+        "url": "https://clinicaltrials.gov/study/NCT05318469",
+        "source": "ClinicalTrials.gov",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 19,
+        "pub_date": "2026-05-06",
+        "added_date": "2026-05-07"
+      },
+      {
         "id": "recSQfRpAuyDv5z28",
         "title": "UBA2-High Osteosarcoma Suppresses Immune Infiltration by Autophagy-Mediated MHC-I Degradation.",
         "summary": "UBA2 protein drives osteosarcoma's immune resistance by triggering autophagy that destroys MHC-I, blocking immune cell infiltration and checkpoint therapy response.",
@@ -404,20 +418,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/42080628/",
         "source": "PubMed",
         "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-05"
-      },
-      {
-        "id": "recn6Jh1dRhLujfLf",
-        "title": "Loss of JAK1 Function Causes G2-M Cell-Cycle Defects Vulnerable to KIF18A Inhibition.",
-        "summary": "Blocking JAK1 in head and neck cancer makes tumors resistant to radiation, but adding a KIF18A inhibitor overcomes this resistance.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41591363/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 21346,
+    "archive_count": 21347,
     "archive_supplements": 2336,
     "archive_off_label": 722,
-    "archive_biomarkers": 13077,
+    "archive_biomarkers": 13078,
     "archive_trials": 4477,
     "archive_mind_body": 442
   }
