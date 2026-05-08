@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-08T04:21:08.532Z",
+  "last_updated": "2026-05-08T04:21:31.600Z",
   "categories": {
     "supplements": [
       {
@@ -244,6 +244,20 @@
         "added_date": "2026-05-08"
       },
       {
+        "id": "recmIgVAnvSxutbiL",
+        "title": "Ruxolitinib for ciltacabtagene autoleucel-associated refractory diarrhea.",
+        "summary": "Ruxolitinib successfully treated severe diarrhea in multiple myeloma patients after CAR T-cell therapy, showing rapid improvement in all treated cases.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41592291/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-08"
+      },
+      {
         "id": "recx3dsaSDewtb6GN",
         "title": "CKS1B is a tumor-intrinsic factor driving CD8+ T cell exhaustion via maintaining persistent tumor-antigen stimulation.",
         "summary": "CKS1B protein in esophageal cancer tumors exhausts immune cells; blocking it restores anti-tumor immunity and improves checkpoint therapy.",
@@ -409,20 +423,6 @@
           "Kidney"
         ],
         "quality_score": 29,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-07"
-      },
-      {
-        "id": "recP5ZnHtPd9BRnrb",
-        "title": "From diabetes to tumor growth: unravelling the impact of glucose-lowering therapies.",
-        "summary": "Researchers reviewed how diabetes medications affect cancer risk, finding complex links between blood sugar control, insulin levels, and tumor growth.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42081011/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-07"
       }
@@ -864,10 +864,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 21502,
+    "archive_count": 21503,
     "archive_supplements": 2341,
     "archive_off_label": 731,
-    "archive_biomarkers": 13177,
+    "archive_biomarkers": 13178,
     "archive_trials": 4519,
     "archive_mind_body": 442
   }
