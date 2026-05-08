@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-05-08T04:06:40.429Z",
+  "last_updated": "2026-05-08T04:06:51.453Z",
   "categories": {
     "supplements": [
+      {
+        "id": "recIA50JwE96jgWKh",
+        "title": "Capilliposides from Lysimachia capillipes: triterpene saponins with potential anticancer activities.",
+        "summary": "Capilliposides, compounds from a Chinese herb, kill multiple cancer types by triggering cell death and blocking key cancer-promoting pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42096286/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast",
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-08"
+      },
       {
         "id": "recBNUqiadSAL1IB8",
         "title": "Preventive Health Behaviours Among Elderly in India: Does Social Capital Matter?",
@@ -195,20 +210,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-07"
-      },
-      {
-        "id": "rec6z6ADsMD9Uiii1",
-        "title": "Integrating UHPLC-Q-TOF-MS, Network Pharmacology, Molecular Docking, and Molecular Dynamics Simulations to Reveal the Potential Mechanisms of Yiguanjian Decoction in Treating Liver Cancer.",
-        "summary": "Yiguanjian decoction treats liver cancer through seven active compounds that target key proteins involved in cell growth, death, and angiogenesis.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42087421/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Liver"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-07"
       }
@@ -863,10 +864,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 21424,
+    "archive_count": 21425,
     "archive_supplements": 2337,
     "archive_off_label": 729,
-    "archive_biomarkers": 13113,
+    "archive_biomarkers": 13114,
     "archive_trials": 4511,
     "archive_mind_body": 442
   }
