@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-08T09:08:12.928Z",
+  "last_updated": "2026-05-08T11:53:18.809Z",
   "categories": {
     "supplements": [
       {
@@ -314,6 +314,20 @@
         "added_date": "2026-05-08"
       },
       {
+        "id": "rec7ZqBmALbXu9eJI",
+        "title": "CDK4/6 inhibition induces a DNA damage-independent senescence-associated secretory phenotype driven by delayed activation of NF-κB",
+        "summary": "CDK4/6 inhibitor cancer drugs trigger inflammatory responses through delayed activation of NF-κB, independent of DNA damage.",
+        "url": "https://www.biorxiv.org/content/10.1101/2025.08.25.672139",
+        "source": "bioRxiv",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 9,
+        "pub_date": "2026-04-24",
+        "added_date": "2026-05-08"
+      },
+      {
         "id": "recx3dsaSDewtb6GN",
         "title": "CKS1B is a tumor-intrinsic factor driving CD8+ T cell exhaustion via maintaining persistent tumor-antigen stimulation.",
         "summary": "CKS1B protein in esophageal cancer tumors exhausts immune cells; blocking it restores anti-tumor immunity and improves checkpoint therapy.",
@@ -403,20 +417,6 @@
         "title": "A Phase I/II Study Evaluating the Safety and Efficacy of Ivermectin in Combination With Immune Checkpoint Inhibitor in Patients With Metastatic Triple Negative Breast Cancer",
         "summary": "Researchers are testing whether adding ivermectin to immune-boosting drugs can shrink metastatic triple negative breast cancer more effectively.",
         "url": "https://clinicaltrials.gov/study/NCT05318469",
-        "source": "ClinicalTrials.gov",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 19,
-        "pub_date": "2026-05-06",
-        "added_date": "2026-05-07"
-      },
-      {
-        "id": "recN28Bq0btLtphOF",
-        "title": "A Randomized Phase II Study to Evaluate the Efficacy of Fezolinetant in Reducing Vasomotor Symptoms in Women With Breast Cancer on Endocrine Therapy",
-        "summary": "Fezolinetant reduces hot flashes in breast cancer patients taking hormone therapy, according to this phase II clinical trial.",
-        "url": "https://clinicaltrials.gov/study/NCT06917313",
         "source": "ClinicalTrials.gov",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -864,10 +864,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 21706,
+    "archive_count": 21707,
     "archive_supplements": 2367,
     "archive_off_label": 736,
-    "archive_biomarkers": 13306,
+    "archive_biomarkers": 13307,
     "archive_trials": 4563,
     "archive_mind_body": 442
   }
