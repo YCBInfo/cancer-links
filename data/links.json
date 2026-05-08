@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-08T04:24:12.875Z",
+  "last_updated": "2026-05-08T04:24:21.791Z",
   "categories": {
     "supplements": [
       {
@@ -56,6 +56,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-08"
+      },
+      {
+        "id": "recupaJeVJtXHC2Ar",
+        "title": "Bifidobacterium animalis suppresses melanoma progression and activates anti-tumor immunity by inhibiting YAP1 expression in CD8+ T cells.",
+        "summary": "A probiotic bacteria boosts the immune system to fight melanoma by enhancing CD8+ T cell activity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42093272/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Melanoma"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-08"
       },
@@ -196,20 +210,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-07"
-      },
-      {
-        "id": "rec4m1ZNGYpMSAfIg",
-        "title": "A small molecule disrupts G4-STAT1 interaction and synergizes with olaparib to drive cancer cell death.",
-        "summary": "Berberine and coptisine block a cancer protein's growth signals and enhance DNA-damaging therapy in colon cancer cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42087785/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-07"
       }
@@ -864,10 +864,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 21517,
+    "archive_count": 21518,
     "archive_supplements": 2341,
     "archive_off_label": 732,
-    "archive_biomarkers": 13190,
+    "archive_biomarkers": 13191,
     "archive_trials": 4520,
     "archive_mind_body": 442
   }
