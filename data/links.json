@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-08T04:07:47.511Z",
+  "last_updated": "2026-05-08T04:08:07.450Z",
   "categories": {
     "supplements": [
       {
@@ -216,6 +216,20 @@
     ],
     "off_label": [
       {
+        "id": "recgCm1ttbBaj6tbK",
+        "title": "Ketotifen for Preventing Oxaliplatin-Induced Neuropathy in Stage III Colorectal Cancer: a Randomized Controlled Trial.",
+        "summary": "Ketotifen may help prevent nerve damage caused by oxaliplatin chemotherapy in stage III colorectal cancer patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42096115/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-08"
+      },
+      {
         "id": "recx3dsaSDewtb6GN",
         "title": "CKS1B is a tumor-intrinsic factor driving CD8+ T cell exhaustion via maintaining persistent tumor-antigen stimulation.",
         "summary": "CKS1B protein in esophageal cancer tumors exhausts immune cells; blocking it restores anti-tumor immunity and improves checkpoint therapy.",
@@ -411,20 +425,6 @@
         "quality_score": 19,
         "pub_date": "2026-04-23",
         "added_date": "2026-05-07"
-      },
-      {
-        "id": "recSQfRpAuyDv5z28",
-        "title": "UBA2-High Osteosarcoma Suppresses Immune Infiltration by Autophagy-Mediated MHC-I Degradation.",
-        "summary": "UBA2 protein drives osteosarcoma's immune resistance by triggering autophagy that destroys MHC-I, blocking immune cell infiltration and checkpoint therapy response.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42085301/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-06"
       }
     ],
     "biomarkers": [
@@ -813,6 +813,20 @@
         "added_date": "2026-05-08"
       },
       {
+        "id": "recgCm1ttbBaj6tbK",
+        "title": "Ketotifen for Preventing Oxaliplatin-Induced Neuropathy in Stage III Colorectal Cancer: a Randomized Controlled Trial.",
+        "summary": "Ketotifen may help prevent nerve damage caused by oxaliplatin chemotherapy in stage III colorectal cancer patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42096115/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-08"
+      },
+      {
         "id": "recdVah9cemcq7X8i",
         "title": "Spirituality and religiosity in cancer care: A targeted review of the NCCN distress thermometer and implications for holistic screening.",
         "summary": "Cancer care providers often miss spiritual and religious distress because screening tools don't effectively capture or address these patient concerns.",
@@ -839,20 +853,6 @@
         "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-07"
-      },
-      {
-        "id": "rec56EEs7SeTGBMxb",
-        "title": "Prognostic value of disease distribution and maximum standardized uptake value in Langerhans cell histiocytosis: correlation with event-free and overall survival.",
-        "summary": "In Langerhans cell histiocytosis, disease spread patterns and metabolic activity on PET scans predict patient survival outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42087703/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-07"
       }
     ],
     "mind_body": []
@@ -864,10 +864,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 21430,
+    "archive_count": 21431,
     "archive_supplements": 2337,
     "archive_off_label": 729,
-    "archive_biomarkers": 13119,
+    "archive_biomarkers": 13120,
     "archive_trials": 4511,
     "archive_mind_body": 442
   }
