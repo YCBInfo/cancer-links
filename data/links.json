@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-08T04:12:48.325Z",
+  "last_updated": "2026-05-08T04:13:20.981Z",
   "categories": {
     "supplements": [
       {
@@ -230,6 +230,20 @@
         "added_date": "2026-05-08"
       },
       {
+        "id": "recfLtrOyrz2LklFX",
+        "title": "Losartan Enhances Radiosensitivity by Reversing Immunosuppressive Tumor Microenvironment Induced by Radiotherapy in TNBC.",
+        "summary": "Losartan enhances radiation therapy effectiveness in triple-negative breast cancer by reversing immune suppression in tumors.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42095675/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-08"
+      },
+      {
         "id": "recx3dsaSDewtb6GN",
         "title": "CKS1B is a tumor-intrinsic factor driving CD8+ T cell exhaustion via maintaining persistent tumor-antigen stimulation.",
         "summary": "CKS1B protein in esophageal cancer tumors exhausts immune cells; blocking it restores anti-tumor immunity and improves checkpoint therapy.",
@@ -410,20 +424,6 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-05-01",
-        "added_date": "2026-05-07"
-      },
-      {
-        "id": "rec3ercyRVxHySR3O",
-        "title": "A Systems Pharmacology Model of Ageing Identifies Optimal Combination Therapies With Secondary Benefits on Weight Loss and Metabolic Health",
-        "summary": "Researchers developed a model showing rapamycin combined with diabetes drugs optimizes both metabolic health and aging-related outcomes better than single therapies.",
-        "url": "https://www.medrxiv.org/content/10.64898/2026.04.22.26351392",
-        "source": "medRxiv",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 19,
-        "pub_date": "2026-04-23",
         "added_date": "2026-05-07"
       }
     ],
@@ -864,10 +864,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 21457,
+    "archive_count": 21458,
     "archive_supplements": 2340,
     "archive_off_label": 730,
-    "archive_biomarkers": 13141,
+    "archive_biomarkers": 13142,
     "archive_trials": 4512,
     "archive_mind_body": 442
   }
