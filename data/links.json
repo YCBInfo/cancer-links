@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T11:54:29.432Z",
+  "last_updated": "2026-05-08T02:03:28.149Z",
   "categories": {
     "supplements": [
       {
@@ -640,6 +640,20 @@
     ],
     "trials": [
       {
+        "id": "recGgGHrDdRZYA1ly",
+        "title": "Bereaved Caregiver Perspectives on Quality of Care at the End of Life Among Adolescents and Young Adults with Cancer.",
+        "summary": "Bereaved caregivers report that standard measures don't adequately capture end-of-life care quality for adolescents and young adults with cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42095288/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-08"
+      },
+      {
         "id": "recdVah9cemcq7X8i",
         "title": "Spirituality and religiosity in cancer care: A targeted review of the NCCN distress thermometer and implications for holistic screening.",
         "summary": "Cancer care providers often miss spiritual and religious distress because screening tools don't effectively capture or address these patient concerns.",
@@ -834,20 +848,6 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-07"
-      },
-      {
-        "id": "recoIdjfKwxPblQbK",
-        "title": "Risk Stratification Tools for Thyroid Cancer: A Systematic Review of Models Combining Ultrasound, Cytology, and Clinical Risk Factors.",
-        "summary": "Combined ultrasound, lab tests, and clinical factors improve doctors' ability to predict thyroid cancer risk and guide treatment decisions.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42090382/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Thyroid"
-        ],
-        "quality_score": 22,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-07"
       }
     ],
     "mind_body": []
@@ -859,11 +859,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 21407,
+    "archive_count": 21408,
     "archive_supplements": 2337,
     "archive_off_label": 729,
     "archive_biomarkers": 13099,
-    "archive_trials": 4508,
+    "archive_trials": 4509,
     "archive_mind_body": 442
   }
 }
