@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-08T04:29:36.228Z",
+  "last_updated": "2026-05-08T04:29:48.384Z",
   "categories": {
     "supplements": [
       {
@@ -130,6 +130,20 @@
         "added_date": "2026-05-08"
       },
       {
+        "id": "reczJbSf1scNESrCw",
+        "title": "Curcumin enhances the effects of TRAIL in TRAIL-resistant non-small cell lung cancer cell lines.",
+        "summary": "Curcumin makes lung cancer cells more responsive to TRAIL treatment by overcoming their natural resistance to this cancer-fighting protein.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42092908/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-08"
+      },
+      {
         "id": "recBNUqiadSAL1IB8",
         "title": "Preventive Health Behaviours Among Elderly in India: Does Social Capital Matter?",
         "summary": "Social connections and community ties help elderly Indians adopt preventive health behaviors like exercise, cancer screening, and vaccinations.",
@@ -194,20 +208,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-07"
-      },
-      {
-        "id": "recpbnXliH8hbuoMP",
-        "title": "Akkermansia muciniphila-derived 5-MIAA blunts colitis-associated tumorigenesis by modulating colonic SLC26A3/pSTAT3 signaling.",
-        "summary": "A bacterial metabolite from *Akkermansia muciniphila* reduces colorectal cancer growth by activating a protective signaling pathway.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42091596/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -864,10 +864,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 21547,
+    "archive_count": 21548,
     "archive_supplements": 2343,
     "archive_off_label": 732,
-    "archive_biomarkers": 13215,
+    "archive_biomarkers": 13216,
     "archive_trials": 4523,
     "archive_mind_body": 442
   }
