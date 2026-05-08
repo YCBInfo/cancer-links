@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-08T04:27:16.405Z",
+  "last_updated": "2026-05-08T04:27:26.231Z",
   "categories": {
     "supplements": [
       {
@@ -68,6 +68,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Melanoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-08"
+      },
+      {
+        "id": "recg0FaeMWIS9puim",
+        "title": "Shuangshen granules enhance anti-PD1 therapy effectiveness in lung adenocarcinoma by modulating myeloid-derived suppressor cell-induced T cell exhaustion.",
+        "summary": "A traditional Chinese medicine called Shuangshen granules improves lung cancer immunotherapy by reducing immune cells that prevent treatment effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42092980/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -190,20 +204,6 @@
         "title": "ROS-Responsive Polyprodrug Co-Delivery of Curcumin and Cinnamaldehyde to Disrupt Tumor Redox Homeostasis for Anticancer Therapy.",
         "summary": "Researchers developed nanoparticles combining curcumin and cinnamaldehyde that respond to cancer cell stress signals, effectively killing breast cancer cells and shrinking tumors.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42090188/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-07"
-      },
-      {
-        "id": "rec1pdYdHzxnyeBub",
-        "title": "Fasting opens a metabolic window that favors anti-tumor immunity.",
-        "summary": "Short-term fasting boosts tumor-fighting immune cells by increasing a nutrient that strengthens their anti-cancer activity.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42091038/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -864,10 +864,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 21534,
+    "archive_count": 21535,
     "archive_supplements": 2342,
     "archive_off_label": 732,
-    "archive_biomarkers": 13205,
+    "archive_biomarkers": 13206,
     "archive_trials": 4521,
     "archive_mind_body": 442
   }
