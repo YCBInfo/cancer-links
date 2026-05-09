@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-09T04:05:29.020Z",
+  "last_updated": "2026-05-09T04:05:41.106Z",
   "categories": {
     "supplements": [
       {
@@ -25,6 +25,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-09"
+      },
+      {
+        "id": "recGXVHZCqZB19DEZ",
+        "title": "A preliminary in-vitro and in-silico investigation into the cytotoxic and anti-metastatic activity of Smilax ovalifolia Roxb. ex D.Don against non-small cell lung cancer cells.",
+        "summary": "Smilax ovalifolia plant extract kills lung cancer cells and stops their spread without harming healthy cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42102383/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -196,20 +210,6 @@
           "Stomach"
         ],
         "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-08"
-      },
-      {
-        "id": "recAKB8EuydbMeHPf",
-        "title": "Medicinal food plants of Sabah (Eastern Malaysia): a source of potential natural products and nutraceuticals for the fight against cancer.",
-        "summary": "Researchers are studying medicinal plants from Sabah, Malaysia, to discover natural cancer-fighting compounds based on local populations' low cancer rates.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42095890/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-08"
       }
@@ -862,10 +862,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 21725,
+    "archive_count": 21726,
     "archive_supplements": 2369,
     "archive_off_label": 736,
-    "archive_biomarkers": 13321,
+    "archive_biomarkers": 13322,
     "archive_trials": 4565,
     "archive_mind_body": 442
   }
