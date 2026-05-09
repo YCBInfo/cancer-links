@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-09T04:35:48.537Z",
+  "last_updated": "2026-05-09T06:03:31.676Z",
   "categories": {
     "supplements": [
       {
@@ -230,6 +230,20 @@
         "added_date": "2026-05-09"
       },
       {
+        "id": "recq8hviWUIEzxPuF",
+        "title": "NUPR1 as a central stress-adaptation node in cancer: integrating metabolic rewiring, cell death, and therapy resistance.",
+        "summary": "NUPR1 protein helps cancers survive stress and resist treatments by controlling metabolism, cell death, and immunity; blocking it with drugs could overcome resistance.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42104400/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-09"
+      },
+      {
         "id": "recgCm1ttbBaj6tbK",
         "title": "Ketotifen for Preventing Oxaliplatin-Induced Neuropathy in Stage III Colorectal Cancer: a Randomized Controlled Trial.",
         "summary": "Ketotifen may help prevent nerve damage caused by oxaliplatin chemotherapy in stage III colorectal cancer patients.",
@@ -405,20 +419,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/41870115/",
         "source": "PubMed",
         "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-07"
-      },
-      {
-        "id": "recq3NEAV9NEuTMGH",
-        "title": "ERα blockade in dendritic cells enhances antigen cross-presentation and induces antitumor CD8+ T cell immunity.",
-        "summary": "Blocking estrogen receptor in immune cells enhances their ability to activate cancer-fighting T cells, offering a potential new immunotherapy approach.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42086580/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 21890,
+    "archive_count": 21891,
     "archive_supplements": 2376,
     "archive_off_label": 736,
-    "archive_biomarkers": 13457,
+    "archive_biomarkers": 13458,
     "archive_trials": 4587,
     "archive_mind_body": 442
   }
