@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-09T04:03:45.225Z",
+  "last_updated": "2026-05-09T04:03:54.711Z",
   "categories": {
     "supplements": [
       {
@@ -583,6 +583,20 @@
         "added_date": "2026-05-09"
       },
       {
+        "id": "recssBX80ZrJxAGeo",
+        "title": "Ubiquitination mediated cisplatin resistance in bladder cancer.",
+        "summary": "RAC3 protein drives cisplatin resistance in bladder cancer by boosting glycolysis; blocking it restores drug sensitivity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42008305/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Bladder"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-09"
+      },
+      {
         "id": "recjJQkV2FVnwxs80",
         "title": "A novel insulin-like growth factor II-based masking domain for conditional activation of therapeutic antibodies.",
         "summary": "Scientists engineered a masking protein that blocks therapeutic antibodies until enzymes at disease sites activate them, improving safety and effectiveness.",
@@ -619,22 +633,6 @@
         "category": "Clinical Trials",
         "cancer_types": [
           "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-08"
-      },
-      {
-        "id": "rec7TYh9ATsEV6x90",
-        "title": "Precision Immunotherapy: Revolutionizing Cancer Treatment With Targeted Innovations.",
-        "summary": "Targeted immunotherapies like T-cell engagers and antibody-drug conjugates offer more selective cancer treatment with better outcomes in specific tumors, though toxicity management remains challenging.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42096666/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung",
-          "Melanoma",
-          "Bladder"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -864,10 +862,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 21716,
+    "archive_count": 21717,
     "archive_supplements": 2368,
     "archive_off_label": 736,
-    "archive_biomarkers": 13313,
+    "archive_biomarkers": 13314,
     "archive_trials": 4565,
     "archive_mind_body": 442
   }
