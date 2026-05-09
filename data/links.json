@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-09T07:08:23.276Z",
+  "last_updated": "2026-05-09T07:08:34.223Z",
   "categories": {
     "supplements": [
       {
@@ -271,6 +271,20 @@
         "added_date": "2026-05-09"
       },
       {
+        "id": "recaebzmJxsrLIdOs",
+        "title": "A Phase II Pilot Trial of ABemacicliB or Abemaciclib and HydroxYchloroquine to Target Minimal Residual Disease in Breast Cancer Patients ('ABBY')",
+        "summary": "A trial tests whether combining abemaciclib and hydroxychloroquine pills can eliminate cancer cells remaining in breast cancer patients' bone marrow.",
+        "url": "https://clinicaltrials.gov/study/NCT04523857",
+        "source": "ClinicalTrials.gov",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 19,
+        "pub_date": "2026-05-08",
+        "added_date": "2026-05-09"
+      },
+      {
         "id": "recgCm1ttbBaj6tbK",
         "title": "Ketotifen for Preventing Oxaliplatin-Induced Neuropathy in Stage III Colorectal Cancer: a Randomized Controlled Trial.",
         "summary": "Ketotifen may help prevent nerve damage caused by oxaliplatin chemotherapy in stage III colorectal cancer patients.",
@@ -407,20 +421,6 @@
           "Prostate"
         ],
         "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-07"
-      },
-      {
-        "id": "recsa6LTUtkT5iC34",
-        "title": "Enhancing CAR-T Cell Efficacy in Solid Tumors by Inhibiting CCL5/VEGF-Mediated Angiogenesis.",
-        "summary": "Blocking CCL5 signaling in CAR-T cells improves their ability to fight solid tumors by preventing unwanted blood vessel growth.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42089445/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-07"
       }
@@ -858,11 +858,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 21968,
+    "archive_count": 21969,
     "archive_supplements": 2389,
     "archive_off_label": 737,
     "archive_biomarkers": 13495,
-    "archive_trials": 4613,
+    "archive_trials": 4614,
     "archive_mind_body": 442
   }
 }
