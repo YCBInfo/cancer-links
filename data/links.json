@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-09T04:04:10.609Z",
+  "last_updated": "2026-05-09T04:04:22.258Z",
   "categories": {
     "supplements": [
       {
@@ -611,6 +611,20 @@
         "added_date": "2026-05-09"
       },
       {
+        "id": "recf7FbaVLbXFXFKH",
+        "title": "'Artificial platelet injection system': a plug-and-play platelet-based lysosome-targeting chimera for targeted protein degradation.",
+        "summary": "Researchers developed artificial platelets that inject proteins into tumor cells, enabling efficient degradation of cancer-related proteins like PD-L1.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42100675/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-09"
+      },
+      {
         "id": "recjJQkV2FVnwxs80",
         "title": "A novel insulin-like growth factor II-based masking domain for conditional activation of therapeutic antibodies.",
         "summary": "Scientists engineered a masking protein that blocks therapeutic antibodies until enzymes at disease sites activate them, improving safety and effectiveness.",
@@ -621,20 +635,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-08"
-      },
-      {
-        "id": "recT68DeEcQFgTH30",
-        "title": "Optimizing Care for Patients With Metastatic Castration-Resistant Prostate Cancer.",
-        "summary": "Researchers propose a personalized treatment framework for advanced prostate cancer integrating molecular testing, imaging, and supportive care to optimize outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42096668/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Prostate"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-08"
       }
@@ -862,10 +862,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 21718,
+    "archive_count": 21719,
     "archive_supplements": 2368,
     "archive_off_label": 736,
-    "archive_biomarkers": 13315,
+    "archive_biomarkers": 13316,
     "archive_trials": 4565,
     "archive_mind_body": 442
   }
