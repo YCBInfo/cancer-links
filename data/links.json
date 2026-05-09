@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-08T11:55:28.650Z",
+  "last_updated": "2026-05-09T02:03:24.595Z",
   "categories": {
     "supplements": [
       {
@@ -216,6 +216,20 @@
     ],
     "off_label": [
       {
+        "id": "recwLDspudxQzNu8r",
+        "title": "Chronic stress and cancer progression through neuro‑endocrine‑immune networks (Review).",
+        "summary": "Chronic stress may accelerate cancer progression through stress hormone pathways affecting immune function and tumor microenvironment, suggesting psychosocial interventions warrant investigation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42099244/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-09"
+      },
+      {
         "id": "recgCm1ttbBaj6tbK",
         "title": "Ketotifen for Preventing Oxaliplatin-Induced Neuropathy in Stage III Colorectal Cancer: a Randomized Controlled Trial.",
         "summary": "Ketotifen may help prevent nerve damage caused by oxaliplatin chemotherapy in stage III colorectal cancer patients.",
@@ -411,23 +425,23 @@
         "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-07"
-      },
-      {
-        "id": "recsv7VuyRKZUMm1Z",
-        "title": "A Phase I/II Study Evaluating the Safety and Efficacy of Ivermectin in Combination With Immune Checkpoint Inhibitor in Patients With Metastatic Triple Negative Breast Cancer",
-        "summary": "Researchers are testing whether adding ivermectin to immune-boosting drugs can shrink metastatic triple negative breast cancer more effectively.",
-        "url": "https://clinicaltrials.gov/study/NCT05318469",
-        "source": "ClinicalTrials.gov",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 19,
-        "pub_date": "2026-05-06",
-        "added_date": "2026-05-07"
       }
     ],
     "biomarkers": [
+      {
+        "id": "recwLDspudxQzNu8r",
+        "title": "Chronic stress and cancer progression through neuro‑endocrine‑immune networks (Review).",
+        "summary": "Chronic stress may accelerate cancer progression through stress hormone pathways affecting immune function and tumor microenvironment, suggesting psychosocial interventions warrant investigation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42099244/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-09"
+      },
       {
         "id": "recjJQkV2FVnwxs80",
         "title": "A novel insulin-like growth factor II-based masking domain for conditional activation of therapeutic antibodies.",
@@ -625,23 +639,23 @@
         "quality_score": 13,
         "pub_date": "2026-03-01",
         "added_date": "2026-05-08"
-      },
-      {
-        "id": "recsMfqGJYomYhpdt",
-        "title": "Modulating glymphatic clearance in Alzheimer's disease: Molecular mechanisms, imaging biomarkers, and emerging interventions.",
-        "summary": "Improving brain fluid clearance through sleep optimization, exercise, and aquaporin-4 targeting may help remove toxic proteins in Alzheimer's disease.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41763274/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-05-08"
       }
     ],
     "trials": [
+      {
+        "id": "recyBwoQC9wITM6D6",
+        "title": "Existential distress in advanced cancer: study protocol of a pragmatic randomized controlled trial of a short-term psychodynamic therapy (ORPHYS) compared to usual psycho-oncological treatment (TAU).",
+        "summary": "Study tests short-term psychodynamic therapy to reduce existential distress and improve psychological well-being in advanced cancer patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42098804/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-09"
+      },
       {
         "id": "recGgGHrDdRZYA1ly",
         "title": "Bereaved Caregiver Perspectives on Quality of Care at the End of Life Among Adolescents and Young Adults with Cancer.",
@@ -839,20 +853,6 @@
         "quality_score": 36,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-08"
-      },
-      {
-        "id": "recXwaScFQj8g3bOL",
-        "title": "Zolbetuximab plus chemotherapy in Japanese patients with claudin 18.2-positive gastric or gastroesophageal junction adenocarcinoma: a combined subgroup analysis of the phase 3 SPOTLIGHT and GLOW trials.",
-        "summary": "Zolbetuximab combined with chemotherapy improves survival in Japanese patients with claudin 18.2-positive gastric cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42095986/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-08"
       }
     ],
     "mind_body": []
@@ -864,10 +864,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 21713,
+    "archive_count": 21714,
     "archive_supplements": 2367,
     "archive_off_label": 736,
-    "archive_biomarkers": 13312,
+    "archive_biomarkers": 13313,
     "archive_trials": 4564,
     "archive_mind_body": 442
   }
