@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-09T04:12:28.315Z",
+  "last_updated": "2026-05-09T04:12:38.167Z",
   "categories": {
     "supplements": [
       {
@@ -69,6 +69,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-09"
+      },
+      {
+        "id": "recKfUaN9dWITvsTb",
+        "title": "Redox-mediated activation of PI3K/PTEN pathways by A. baumannii OMV-V. myrtillus conjugate in pancreatic cancer cells.",
+        "summary": "A bacterial vesicle-blueberry extract combination kills pancreatic cancer cells by triggering oxidative stress and apoptosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42101625/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Pancreatic"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-09"
       },
@@ -194,20 +208,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-08"
-      },
-      {
-        "id": "reczJbSf1scNESrCw",
-        "title": "Curcumin enhances the effects of TRAIL in TRAIL-resistant non-small cell lung cancer cell lines.",
-        "summary": "Curcumin makes lung cancer cells more responsive to TRAIL treatment by overcoming their natural resistance to this cancer-fighting protein.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42092908/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 21761,
+    "archive_count": 21762,
     "archive_supplements": 2370,
     "archive_off_label": 736,
-    "archive_biomarkers": 13352,
+    "archive_biomarkers": 13353,
     "archive_trials": 4569,
     "archive_mind_body": 442
   }
