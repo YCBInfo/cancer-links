@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-09T09:04:01.625Z",
+  "last_updated": "2026-05-09T09:04:14.184Z",
   "categories": {
     "supplements": [
       {
@@ -327,6 +327,20 @@
         "added_date": "2026-05-09"
       },
       {
+        "id": "recFktfKFTLjRgHG7",
+        "title": "Drug repurposing for skin pigmentation disorders: Discovery of novel tyrosinase inhibitors.",
+        "summary": "Researchers identified nine FDA-approved drugs that inhibit tyrosinase, with rosmarinic acid showing promise for treating skin pigmentation disorders.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42102696/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-09"
+      },
+      {
         "id": "recgCm1ttbBaj6tbK",
         "title": "Ketotifen for Preventing Oxaliplatin-Induced Neuropathy in Stage III Colorectal Cancer: a Randomized Controlled Trial.",
         "summary": "Ketotifen may help prevent nerve damage caused by oxaliplatin chemotherapy in stage III colorectal cancer patients.",
@@ -401,20 +415,6 @@
         "title": "Knowledge Discovery and Drug-Repurposing Framework for Pancreatic Ductal Adenocarcinoma: Molecular Networking and Computational Docking.",
         "summary": "Researchers identified four druggable protein targets in pancreatic cancer and found existing drugs that may be repurposed to treat it.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42093818/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-08"
-      },
-      {
-        "id": "rec1jnQwBiXJnC7IJ",
-        "title": "Redox-active first-row transition metal complexes of metformin: structure, DNA binding and therapeutic potential.",
-        "summary": "Metal-metformin complexes show promise as anticancer drugs by binding DNA and leveraging redox properties to destroy cancer cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42093480/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -858,10 +858,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 21987,
+    "archive_count": 21988,
     "archive_supplements": 2389,
     "archive_off_label": 740,
-    "archive_biomarkers": 13499,
+    "archive_biomarkers": 13500,
     "archive_trials": 4625,
     "archive_mind_body": 442
   }
