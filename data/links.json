@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-09T04:11:34.841Z",
+  "last_updated": "2026-05-09T04:11:45.682Z",
   "categories": {
     "supplements": [
       {
@@ -39,6 +39,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-09"
+      },
+      {
+        "id": "rechqXtkljtU3JsAI",
+        "title": "The role of gut microbiota in thyroid cancer: from pathogenesis to diagnosis and treatment.",
+        "summary": "Gut bacteria influence thyroid cancer development, progression, and treatment response, offering potential diagnostic markers and therapeutic targets.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42101707/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Thyroid"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -196,20 +210,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-08"
-      },
-      {
-        "id": "recPU8apBmTSLehu4",
-        "title": "Genetic susceptibility and gene-environment interactions in gastric cancer among ethnic populations of Northeast India.",
-        "summary": "GSTM1 genetic variant combined with tobacco chewing significantly increases gastric cancer risk in Northeast India, while vegetable consumption offers protection.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42091970/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Stomach"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-08"
       }
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 21757,
+    "archive_count": 21758,
     "archive_supplements": 2370,
     "archive_off_label": 736,
-    "archive_biomarkers": 13348,
+    "archive_biomarkers": 13349,
     "archive_trials": 4569,
     "archive_mind_body": 442
   }
