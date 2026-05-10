@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-05-10T04:04:42.454Z",
+  "last_updated": "2026-05-10T04:04:55.585Z",
   "categories": {
     "supplements": [
+      {
+        "id": "recDUBzCqz3lbOJuA",
+        "title": "Zuoguiyin modulates M2 macrophage polarization to inhibit glycolysis in esophageal squamous cell carcinoma.",
+        "summary": "Zuoguiyin, a traditional Chinese medicine, reduces esophageal cancer growth by converting immune cells away from tumor-promoting M2 macrophages.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41720415/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 10,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-05-10"
+      },
       {
         "id": "recVrvdQrFTofCwtj",
         "title": "Inhibition of STAT3-mediated glycolysis by bruceine D suppresses non-small-cell lung cancer progression in vitro and in vivo.",
@@ -189,20 +203,6 @@
         "title": "Exploring biologically-based complementary and alternative medicine use among Irish cancer survivors: findings from a national survey.",
         "summary": "A survey found that many Irish cancer survivors use unprescribed diets, supplements, and herbal remedies, which can dangerously interact with cancer treatments.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42101869/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-09"
-      },
-      {
-        "id": "recRyr9mQD3xnHD5A",
-        "title": "Research progress on the roles and mechanisms of flavonoid monomers in liver diseases: a review.",
-        "summary": "Flavonoid compounds from traditional Chinese medicine show promise in treating liver diseases by reducing inflammation, oxidation, and cancer growth.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42101515/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -595,6 +595,34 @@
         "added_date": "2026-05-10"
       },
       {
+        "id": "recDUBzCqz3lbOJuA",
+        "title": "Zuoguiyin modulates M2 macrophage polarization to inhibit glycolysis in esophageal squamous cell carcinoma.",
+        "summary": "Zuoguiyin, a traditional Chinese medicine, reduces esophageal cancer growth by converting immune cells away from tumor-promoting M2 macrophages.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41720415/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 10,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-05-10"
+      },
+      {
+        "id": "recORY2P0EFFJ5KXW",
+        "title": "Investigating the 'homotherapy for heteropathy' mechanism of Danggui Shaoyao San in Alzheimer's disease and polycystic ovary syndrome via MAPK signaling pathway and metabolomics.",
+        "summary": "Traditional Chinese medicine formula DSS treats both Alzheimer's disease and ovary syndrome by regulating shared metabolic disorders through MAPK signaling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41687944/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 10,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-05-10"
+      },
+      {
         "id": "recwLDspudxQzNu8r",
         "title": "Chronic stress and cancer progression through neuro‑endocrine‑immune networks (Review).",
         "summary": "Chronic stress may accelerate cancer progression through stress hormone pathways affecting immune function and tumor microenvironment, suggesting psychosocial interventions warrant investigation.",
@@ -605,34 +633,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-09"
-      },
-      {
-        "id": "recVrvdQrFTofCwtj",
-        "title": "Inhibition of STAT3-mediated glycolysis by bruceine D suppresses non-small-cell lung cancer progression in vitro and in vivo.",
-        "summary": "Bruceine D, a plant compound, slows lung cancer growth by blocking a protein that cancer cells use for energy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42100892/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-09"
-      },
-      {
-        "id": "rec5DwntoojCbEz0i",
-        "title": "Deep learning based on CD3 histological slides for prediction of colon cancer outcome: analysis of three international stage III colon cancer cohorts.",
-        "summary": "AI analysis of immune cell patterns on colon cancer slides predicts patient survival better than current methods.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42100890/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-09"
       }
@@ -858,11 +858,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 22009,
+    "archive_count": 22010,
     "archive_supplements": 2389,
     "archive_off_label": 741,
     "archive_biomarkers": 13513,
-    "archive_trials": 4632,
+    "archive_trials": 4633,
     "archive_mind_body": 442
   }
 }
