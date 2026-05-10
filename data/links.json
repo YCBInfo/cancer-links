@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T04:05:29.673Z",
+  "last_updated": "2026-05-10T04:05:42.418Z",
   "categories": {
     "supplements": [
       {
@@ -63,6 +63,20 @@
         "title": "Luteolin, a bioactive compound from Celastrus orbiculatus stem, inhibits cervical cancer via CA2 suppression: A translational study bridging basic research and clinical application.",
         "summary": "Luteolin from Celastrus orbiculatus plant fights cervical cancer by suppressing the CA2 protein, offering a natural treatment approach.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41651043/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 10,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-05-10"
+      },
+      {
+        "id": "recBn6ELBhErYeNtm",
+        "title": "Buyang Huanwu Decoction alleviates vascular cognitive impairment by inhibiting neuroinflammation via regulation of the p53/cGAS/STING pathway.",
+        "summary": "Traditional Chinese medicine Buyang Huanwu Decoction reduces brain inflammation and improves cognitive function in vascular cognitive impairment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41638453/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -195,20 +209,6 @@
           "Liver"
         ],
         "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-09"
-      },
-      {
-        "id": "recyjyR1OWLxOBt25",
-        "title": "Regular Daily Exercise Improves Sarcopenia in Elderly Patients.",
-        "summary": "A 12-week exercise program significantly improved muscle mass, strength, mobility, and reduced inflammation in elderly adults with sarcopenia.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42098919/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 21,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-09"
       }
@@ -858,10 +858,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 22013,
+    "archive_count": 22014,
     "archive_supplements": 2389,
     "archive_off_label": 741,
-    "archive_biomarkers": 13516,
+    "archive_biomarkers": 13517,
     "archive_trials": 4633,
     "archive_mind_body": 442
   }
