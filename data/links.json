@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T04:08:05.012Z",
+  "last_updated": "2026-05-10T04:08:16.252Z",
   "categories": {
     "supplements": [
       {
@@ -821,6 +821,20 @@
         "added_date": "2026-05-10"
       },
       {
+        "id": "recXmqJQVcoHAXOks",
+        "title": "Anti-PD-1 plus nab-paclitaxel and bevacizumab for second-line treatment of cancer of unknown primary (Fudan CUP-002): a phase II trial.",
+        "summary": "Combining anti-PD-1 immunotherapy with chemotherapy and bevacizumab improved outcomes in second-line treatment of cancer of unknown primary.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42103741/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-10"
+      },
+      {
         "id": "recyBwoQC9wITM6D6",
         "title": "Existential distress in advanced cancer: study protocol of a pragmatic randomized controlled trial of a short-term psychodynamic therapy (ORPHYS) compared to usual psycho-oncological treatment (TAU).",
         "summary": "Study tests short-term psychodynamic therapy to reduce existential distress and improve psychological well-being in advanced cancer patients.",
@@ -831,20 +845,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-09"
-      },
-      {
-        "id": "rec5DwntoojCbEz0i",
-        "title": "Deep learning based on CD3 histological slides for prediction of colon cancer outcome: analysis of three international stage III colon cancer cohorts.",
-        "summary": "AI analysis of immune cell patterns on colon cancer slides predicts patient survival better than current methods.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42100890/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-09"
       }
@@ -858,10 +858,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 22027,
+    "archive_count": 22028,
     "archive_supplements": 2396,
     "archive_off_label": 741,
-    "archive_biomarkers": 13522,
+    "archive_biomarkers": 13523,
     "archive_trials": 4634,
     "archive_mind_body": 442
   }
