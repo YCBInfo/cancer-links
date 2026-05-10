@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-09T11:55:15.465Z",
+  "last_updated": "2026-05-10T04:03:45.122Z",
   "categories": {
     "supplements": [
       {
@@ -215,6 +215,20 @@
     ],
     "off_label": [
       {
+        "id": "recFkDwN2xKTrL5RE",
+        "title": "Quizartinib-induced resistance drives clonal emergence of MV4-11 cells with molecular alterations enabling multidrug antileukemic escape.",
+        "summary": "FLT3-mutated acute myeloid leukemia cells develop resistance to quizartinib through genetic mutations and metabolic changes, but combining it with p53 or MAPK inhibitors restores drug sensitivity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41997407/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-10"
+      },
+      {
         "id": "recwLDspudxQzNu8r",
         "title": "Chronic stress and cancer progression through neuro‑endocrine‑immune networks (Review).",
         "summary": "Chronic stress may accelerate cancer progression through stress hormone pathways affecting immune function and tumor microenvironment, suggesting psychosocial interventions warrant investigation.",
@@ -409,23 +423,107 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-08"
+      }
+    ],
+    "biomarkers": [
+      {
+        "id": "recFkDwN2xKTrL5RE",
+        "title": "Quizartinib-induced resistance drives clonal emergence of MV4-11 cells with molecular alterations enabling multidrug antileukemic escape.",
+        "summary": "FLT3-mutated acute myeloid leukemia cells develop resistance to quizartinib through genetic mutations and metabolic changes, but combining it with p53 or MAPK inhibitors restores drug sensitivity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41997407/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-10"
       },
       {
-        "id": "recAAlH8oHoYbNpB2",
-        "title": "Knowledge Discovery and Drug-Repurposing Framework for Pancreatic Ductal Adenocarcinoma: Molecular Networking and Computational Docking.",
-        "summary": "Researchers identified four druggable protein targets in pancreatic cancer and found existing drugs that may be repurposed to treat it.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42093818/",
+        "id": "recWQbTR5WaUQNiqZ",
+        "title": "Immunogenic cell death-primed autophagosome vaccines drive dendritic cell cross-presentation and suppress colon cancer metastasis.",
+        "summary": "A new vaccine using cancer cell autophagosomes effectively treats colon cancer metastasis by boosting immune cell responses.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41856327/",
         "source": "PubMed",
-        "category": "Off-Label Medications",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-05-10"
+      },
+      {
+        "id": "recCYXXx9ujRPXUAV",
+        "title": "The HSP90-dependent bioorthogonal PROTAC prodrug system enables tumor-selective and enhanced protein degradation.",
+        "summary": "Researchers developed a tumor-targeting system that selectively activates cancer-killing protein-degrading drugs in tumors while sparing healthy tissue.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41839264/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Melanoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-05-10"
+      },
+      {
+        "id": "recvrETFxhaXdZ7f7",
+        "title": "Lipid-based delivery systems for dendritic cell targeting: Formulation strategies and cancer applications.",
+        "summary": "Lipid-based nanoparticles can deliver cancer antigens directly to dendritic cells, boosting immune responses against tumors.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41812866/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-08"
-      }
-    ],
-    "biomarkers": [
+        "pub_date": "2026-04-01",
+        "added_date": "2026-05-10"
+      },
+      {
+        "id": "rec7VnWiEirjVK5C7",
+        "title": "Genetically engineered Salmonella, SGN1, as a tumor microenvironment-targeting modality capable of methionine reduction for oral squamous cell carcinoma.",
+        "summary": "Engineered Salmonella bacteria effectively shrink oral squamous cell carcinoma tumors by depleting methionine while avoiding systemic toxicity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41786042/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-05-10"
+      },
+      {
+        "id": "recWOzfrcepbc9rp4",
+        "title": "Mapping cellular heterogeneity and dynamic interactions in pancreatic cancer.",
+        "summary": "Researchers mapped pancreatic cancer cell diversity using advanced sequencing to identify biomarkers and improve treatment strategies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41780688/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Pancreatic"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-05-10"
+      },
+      {
+        "id": "recC3lCp3FfVvxPAe",
+        "title": "Extracellular vesicles from IL-18-overexpressing and/or TGF-β1-deprived tumor cells as an immunogenic antigen source for next-generation DC vaccines.",
+        "summary": "Modified tumor-derived vesicles engineered to boost immunity effectively enhanced dendritic cell vaccines against colon cancer in mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41780683/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-05-10"
+      },
       {
         "id": "recwLDspudxQzNu8r",
         "title": "Chronic stress and cancer progression through neuro‑endocrine‑immune networks (Review).",
@@ -537,107 +635,107 @@
         "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-09"
-      },
-      {
-        "id": "recDVkquzP06CIuZG",
-        "title": "A novel regulatory role of microRNA‑5590‑3p in hepatocellular carcinoma via the HOXB2/MYC axis.",
-        "summary": "MicroRNA-5590-3p suppresses hepatocellular carcinoma growth and spread by blocking the HOXB2 protein and its cancer-promoting effects.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42099234/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-09"
-      },
-      {
-        "id": "recoVCADl8OqDUfj0",
-        "title": "Radiotherapy and cytokines: A systems view of immunotherapy and toxicity (Review).",
-        "summary": "Radiotherapy reshapes immune cell signaling through cytokine networks, offering opportunities to enhance cancer treatment while managing side effects through targeted combinations.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42099233/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-09"
-      },
-      {
-        "id": "recTXsa586p2r9bSH",
-        "title": "Cepharanthine inhibits lysosomes and induces apoptosis in triple‑negative breast cancer cells.",
-        "summary": "Cepharanthine kills triple-negative breast cancer cells by blocking lysosomes and triggering apoptosis through protein changes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42099230/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-09"
-      },
-      {
-        "id": "recssBX80ZrJxAGeo",
-        "title": "Ubiquitination mediated cisplatin resistance in bladder cancer.",
-        "summary": "RAC3 protein drives cisplatin resistance in bladder cancer by boosting glycolysis; blocking it restores drug sensitivity.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42008305/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Bladder"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-09"
-      },
-      {
-        "id": "recnPSomav1MTAi1I",
-        "title": "Evolving Paradigms in the Treatment of Philadelphia Chromosome-Positive ALL.",
-        "summary": "Philadelphia chromosome-positive leukemia can now be cured without chemotherapy using targeted drugs and antibody-based treatments instead of transplantation.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42102341/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-09"
-      },
-      {
-        "id": "recf7FbaVLbXFXFKH",
-        "title": "'Artificial platelet injection system': a plug-and-play platelet-based lysosome-targeting chimera for targeted protein degradation.",
-        "summary": "Researchers developed artificial platelets that inject proteins into tumor cells, enabling efficient degradation of cancer-related proteins like PD-L1.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42100675/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-09"
-      },
-      {
-        "id": "recQbHNskSAbZAEqg",
-        "title": "Assessing the sodium-iodide symporter (NIS) in pediatric differentiated thyroid carcinoma.",
-        "summary": "Researchers evaluated how well the sodium-iodide symporter functions in children with thyroid cancer to improve radioactive iodine treatment effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42048109/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Thyroid"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-09"
       }
     ],
     "trials": [
+      {
+        "id": "recKWVf4OvQ6ulGGc",
+        "title": "[Clinical characteristics and genetic analysis of three fetuses with Baraitser-Winter cerebrofrontofacial syndrome and Dystonia-deafness syndrome type 1 due to variants of ACTB gene].",
+        "summary": "Researchers identified ACTB gene mutations causing Baraitser-Winter cerebrofrontofacial syndrome and dystonia-deafness syndrome in three fetuses.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42087738/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-10"
+      },
+      {
+        "id": "recSg938IgdqoV7mZ",
+        "title": "First-in-Human Study of IL15-Activated Cytokine-Induced Killer Cells After Allogeneic HCT Shows Durable Remission and Serotherapy-Associated Immune Reconstitution in Leukemia.",
+        "summary": "IL15-activated immune cells given after leukemia transplants achieved lasting remission and strengthened immune recovery in high-risk patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41941697/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-10"
+      },
+      {
+        "id": "recWQbTR5WaUQNiqZ",
+        "title": "Immunogenic cell death-primed autophagosome vaccines drive dendritic cell cross-presentation and suppress colon cancer metastasis.",
+        "summary": "A new vaccine using cancer cell autophagosomes effectively treats colon cancer metastasis by boosting immune cell responses.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41856327/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-05-10"
+      },
+      {
+        "id": "recvrETFxhaXdZ7f7",
+        "title": "Lipid-based delivery systems for dendritic cell targeting: Formulation strategies and cancer applications.",
+        "summary": "Lipid-based nanoparticles can deliver cancer antigens directly to dendritic cells, boosting immune responses against tumors.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41812866/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-05-10"
+      },
+      {
+        "id": "recfrB2mtUDiGlmr6",
+        "title": "A systematic approach to develop and characterize a compositionally equivalent buprenorphine in situ forming implant (Sublocade®).",
+        "summary": "Researchers developed a generic buprenorphine implant matching the original Sublocade® formulation, improving opioid addiction treatment accessibility.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41791460/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-05-10"
+      },
+      {
+        "id": "rec7VnWiEirjVK5C7",
+        "title": "Genetically engineered Salmonella, SGN1, as a tumor microenvironment-targeting modality capable of methionine reduction for oral squamous cell carcinoma.",
+        "summary": "Engineered Salmonella bacteria effectively shrink oral squamous cell carcinoma tumors by depleting methionine while avoiding systemic toxicity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41786042/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-05-10"
+      },
+      {
+        "id": "recC3lCp3FfVvxPAe",
+        "title": "Extracellular vesicles from IL-18-overexpressing and/or TGF-β1-deprived tumor cells as an immunogenic antigen source for next-generation DC vaccines.",
+        "summary": "Modified tumor-derived vesicles engineered to boost immunity effectively enhanced dendritic cell vaccines against colon cancer in mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41780683/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-05-10"
+      },
       {
         "id": "recyBwoQC9wITM6D6",
         "title": "Existential distress in advanced cancer: study protocol of a pragmatic randomized controlled trial of a short-term psychodynamic therapy (ORPHYS) compared to usual psycho-oncological treatment (TAU).",
@@ -749,104 +847,6 @@
         "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-09"
-      },
-      {
-        "id": "recjqKS41oyx02MF8",
-        "title": "Interocular symmetry in dynamic retinal vessel analysis among healthy adults.",
-        "summary": "This study isn't about cancer research—it examines retinal blood vessel function in healthy adults using eye imaging technology, with no oncology relevance.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42102314/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-09"
-      },
-      {
-        "id": "recU9bGK1fQNRyOlE",
-        "title": "In vivo reprogramming of cytotoxic effector CD8 T cells via fractalkine-conjugated mRNA-LNPs.",
-        "summary": "Scientists developed a targeted mRNA therapy that reprograms immune cells to enhance cancer-fighting ability in mice and primates.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42102231/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-09"
-      },
-      {
-        "id": "recn3UtfVpmI9hm2E",
-        "title": "Antigen spreading mediates heterogeneous solid tumor eradication by DNA demethylating agent-programmed CAR T cells.",
-        "summary": "DNA-demethylating agents boost CAR T cells to eliminate heterogeneous solid tumors by activating immune responses against antigen-negative cancer cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42102207/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-09"
-      },
-      {
-        "id": "recdFThCsjtqcjSNc",
-        "title": "From Cells to Targeted Therapy: Cytopathology as the Starting Point of Precision Oncology in the Molecular Tumor Board Workflow.",
-        "summary": "Cytopathology samples from minimally invasive procedures can reliably guide personalized cancer treatment decisions through molecular tumor boards.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42102019/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-09"
-      },
-      {
-        "id": "recHNVUloBy3GmCNE",
-        "title": "Ikaros degradation by mezigdomide reduces T-cell dysfunction and improves the efficacy of antimyeloma T-cell therapies.",
-        "summary": "Mezigdomide restores myeloma T-cell function by degrading Ikaros, improving CAR-T therapy effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42101964/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-09"
-      },
-      {
-        "id": "recU8R76xuF8QRtor",
-        "title": "Optic glioma in children: clinical presentation, diagnosis, and management.",
-        "summary": "Chemotherapy is the preferred treatment for childhood optic gliomas, particularly in young children and those with NF1, stabilizing tumor growth.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42101910/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-09"
-      },
-      {
-        "id": "rec1Qy0B8OhVSt95c",
-        "title": "Gilteritinib + chemotherapy in children with relapsed/refractory FLT3-ITD AML: results from the phase 1/2 SKIPPER trial.",
-        "summary": "Gilteritinib combined with chemotherapy achieved 67% remission rates in children with hard-to-treat FLT3-mutated acute myeloid leukemia.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42101908/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 21,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-09"
       }
     ],
     "mind_body": []
@@ -858,11 +858,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 22003,
+    "archive_count": 22004,
     "archive_supplements": 2389,
     "archive_off_label": 741,
     "archive_biomarkers": 13509,
-    "archive_trials": 4630,
+    "archive_trials": 4631,
     "archive_mind_body": 442
   }
 }
