@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T04:05:19.088Z",
+  "last_updated": "2026-05-10T04:05:29.673Z",
   "categories": {
     "supplements": [
       {
@@ -49,6 +49,20 @@
         "title": "Pharmacological potential of chalepensin from Ruta chalepensis L.: Acute toxicity and in vivo antitumor activity in the L5178Y-R murine model.",
         "summary": "Chalepensin from rue plant shows promise against lymphoma tumors in mice with acceptable safety levels.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41654069/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 10,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-05-10"
+      },
+      {
+        "id": "rec5yNV6yhRS24ibC",
+        "title": "Luteolin, a bioactive compound from Celastrus orbiculatus stem, inhibits cervical cancer via CA2 suppression: A translational study bridging basic research and clinical application.",
+        "summary": "Luteolin from Celastrus orbiculatus plant fights cervical cancer by suppressing the CA2 protein, offering a natural treatment approach.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41651043/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -195,20 +209,6 @@
           "General"
         ],
         "quality_score": 21,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-09"
-      },
-      {
-        "id": "recZuHN2SRinOD8Ek",
-        "title": "Tumor-targeted liposomal RNAi therapy suppresses breast cancer and modulates tumor microenvironment.",
-        "summary": "Engineered liposomes combining targeted delivery, direct toxicity, and VEGF silencing effectively suppress breast cancer growth while boosting immune responses.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42098773/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-09"
       }
@@ -858,10 +858,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 22012,
+    "archive_count": 22013,
     "archive_supplements": 2389,
     "archive_off_label": 741,
-    "archive_biomarkers": 13515,
+    "archive_biomarkers": 13516,
     "archive_trials": 4633,
     "archive_mind_body": 442
   }
