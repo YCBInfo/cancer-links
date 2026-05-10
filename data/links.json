@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T04:13:09.983Z",
+  "last_updated": "2026-05-10T04:13:17.367Z",
   "categories": {
     "supplements": [
       {
@@ -116,6 +116,20 @@
         "added_date": "2026-05-10"
       },
       {
+        "id": "recUD3Y85cPijPgr4",
+        "title": "β-elemene enhances the efficacy of PD-L1 inhibitor in lung cancer by reprogramming tumor-associated macrophages to M1 phenotype via suppressing FLT1/PI3K/AKT signaling.",
+        "summary": "β-elemene combined with PD-L1 inhibitor improves lung cancer treatment by converting immune cells to tumor-fighting M1 phenotype.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42104144/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-10"
+      },
+      {
         "id": "recVrvdQrFTofCwtj",
         "title": "Inhibition of STAT3-mediated glycolysis by bruceine D suppresses non-small-cell lung cancer progression in vitro and in vivo.",
         "summary": "Bruceine D, a plant compound, slows lung cancer growth by blocking a protein that cancer cells use for energy.",
@@ -196,20 +210,6 @@
           "Pancreatic"
         ],
         "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-09"
-      },
-      {
-        "id": "rec70WZPcg5MSBK7H",
-        "title": "Molecular-level host-microbe interactions: mechanisms, molecules, and modeling toward precision probiotics.",
-        "summary": "Researchers are mapping how beneficial bacteria molecules work at the molecular level to develop personalized probiotic treatments with precise, targeted effects.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42101372/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-09"
       }
@@ -859,11 +859,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 22054,
+    "archive_count": 22055,
     "archive_supplements": 2397,
     "archive_off_label": 741,
     "archive_biomarkers": 13546,
-    "archive_trials": 4636,
+    "archive_trials": 4637,
     "archive_mind_body": 442
   }
 }
