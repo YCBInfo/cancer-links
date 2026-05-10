@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T04:05:07.043Z",
+  "last_updated": "2026-05-10T04:05:19.088Z",
   "categories": {
     "supplements": [
       {
@@ -21,6 +21,34 @@
         "title": "Investigating the 'homotherapy for heteropathy' mechanism of Danggui Shaoyao San in Alzheimer's disease and polycystic ovary syndrome via MAPK signaling pathway and metabolomics.",
         "summary": "Traditional Chinese medicine formula DSS treats both Alzheimer's disease and ovary syndrome by regulating shared metabolic disorders through MAPK signaling.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41687944/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 10,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-05-10"
+      },
+      {
+        "id": "recR8PhUhRV3RMUVy",
+        "title": "Neuroprotective and antioxidant properties of Polygala virgata fractions in a 6-hydroxydopamine-induced neurotoxicity model.",
+        "summary": "Polygala virgata plant extract protects brain cells from damage associated with Parkinson's disease through antioxidant effects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41663005/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 10,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-05-10"
+      },
+      {
+        "id": "recSefkVAcFvcJyUb",
+        "title": "Pharmacological potential of chalepensin from Ruta chalepensis L.: Acute toxicity and in vivo antitumor activity in the L5178Y-R murine model.",
+        "summary": "Chalepensin from rue plant shows promise against lymphoma tumors in mice with acceptable safety levels.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41654069/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -181,34 +209,6 @@
           "Breast"
         ],
         "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-09"
-      },
-      {
-        "id": "rec5lGxUhIrFOF7TK",
-        "title": "Next-generation probiotics: an outlook into current applications and future developments.",
-        "summary": "Researchers are developing next-generation probiotics—improved bacterial strains designed to better treat metabolic, immune, and cancer diseases while improving safety.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42104000/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-09"
-      },
-      {
-        "id": "rec9Tj0wsUfUBMg8h",
-        "title": "Effects of Ketogenic Diet on Behavioral, Metabolic, and Peripheral Tissue Changes in a Propylthiouracil-Induced Hypothyroidism Model.",
-        "summary": "A ketogenic diet may help reduce behavioral, metabolic, and tissue damage caused by hypothyroidism in animal studies.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42102036/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-09"
       }
@@ -623,18 +623,18 @@
         "added_date": "2026-05-10"
       },
       {
-        "id": "recwLDspudxQzNu8r",
-        "title": "Chronic stress and cancer progression through neuro‑endocrine‑immune networks (Review).",
-        "summary": "Chronic stress may accelerate cancer progression through stress hormone pathways affecting immune function and tumor microenvironment, suggesting psychosocial interventions warrant investigation.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42099244/",
+        "id": "recR8PhUhRV3RMUVy",
+        "title": "Neuroprotective and antioxidant properties of Polygala virgata fractions in a 6-hydroxydopamine-induced neurotoxicity model.",
+        "summary": "Polygala virgata plant extract protects brain cells from damage associated with Parkinson's disease through antioxidant effects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41663005/",
         "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
+        "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "General"
         ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-09"
+        "quality_score": 10,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-05-10"
       }
     ],
     "trials": [
@@ -858,10 +858,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 22011,
+    "archive_count": 22012,
     "archive_supplements": 2389,
     "archive_off_label": 741,
-    "archive_biomarkers": 13514,
+    "archive_biomarkers": 13515,
     "archive_trials": 4633,
     "archive_mind_body": 442
   }
