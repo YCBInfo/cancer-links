@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T06:07:54.665Z",
+  "last_updated": "2026-05-11T06:08:16.816Z",
   "categories": {
     "supplements": [
       {
@@ -158,6 +158,20 @@
         "added_date": "2026-05-11"
       },
       {
+        "id": "recBUlSQVpqO6xIbf",
+        "title": "Hypovitaminosis D in acute inpatient cancer rehabilitation: Prevalence, predictors, and practical implications.",
+        "summary": "Most cancer patients in rehabilitation have low vitamin D levels, which may worsen their health outcomes and recovery.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42104875/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-11"
+      },
+      {
         "id": "recDUBzCqz3lbOJuA",
         "title": "Zuoguiyin modulates M2 macrophage polarization to inhibit glycolysis in esophageal squamous cell carcinoma.",
         "summary": "Zuoguiyin, a traditional Chinese medicine, reduces esophageal cancer growth by converting immune cells away from tumor-promoting M2 macrophages.",
@@ -190,20 +204,6 @@
         "title": "Neuroprotective and antioxidant properties of Polygala virgata fractions in a 6-hydroxydopamine-induced neurotoxicity model.",
         "summary": "Polygala virgata plant extract protects brain cells from damage associated with Parkinson's disease through antioxidant effects.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41663005/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-05-10"
-      },
-      {
-        "id": "recSefkVAcFvcJyUb",
-        "title": "Pharmacological potential of chalepensin from Ruta chalepensis L.: Acute toxicity and in vivo antitumor activity in the L5178Y-R murine model.",
-        "summary": "Chalepensin from rue plant shows promise against lymphoma tumors in mice with acceptable safety levels.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41654069/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -248,6 +248,20 @@
         "title": "Tofacitinib as a Successful Treatment for Hyper-IgE Syndrome and Autoimmunity Associated with Constitutive Activation of JAK3.",
         "summary": "Tofacitinib successfully treated a patient with rare JAK3 mutations causing high-IgE syndrome and autoimmune disease.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42105147/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-11"
+      },
+      {
+        "id": "recH4FXnTInI1Eh3I",
+        "title": "Tamoxifen attenuates postsurgical hindlimb swelling and soft-tissue fibrosis in a rat model of secondary lymphatic injury.",
+        "summary": "Tamoxifen reduces post-surgical limb swelling and tissue scarring in rats by lowering oxidative stress after lymph node removal.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42105001/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -406,20 +420,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-08"
-      },
-      {
-        "id": "recfLtrOyrz2LklFX",
-        "title": "Losartan Enhances Radiosensitivity by Reversing Immunosuppressive Tumor Microenvironment Induced by Radiotherapy in TNBC.",
-        "summary": "Losartan enhances radiation therapy effectiveness in triple-negative breast cancer by reversing immune suppression in tumors.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42095675/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -860,8 +860,8 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 22138,
-    "archive_supplements": 2408,
+    "archive_count": 22139,
+    "archive_supplements": 2409,
     "archive_off_label": 742,
     "archive_biomarkers": 13611,
     "archive_trials": 4643,
