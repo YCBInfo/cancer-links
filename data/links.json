@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T06:06:42.124Z",
+  "last_updated": "2026-05-11T06:06:55.724Z",
   "categories": {
     "supplements": [
       {
@@ -244,6 +244,20 @@
         "added_date": "2026-05-11"
       },
       {
+        "id": "recgfeAoUnmQ5L23z",
+        "title": "Tofacitinib as a Successful Treatment for Hyper-IgE Syndrome and Autoimmunity Associated with Constitutive Activation of JAK3.",
+        "summary": "Tofacitinib successfully treated a patient with rare JAK3 mutations causing high-IgE syndrome and autoimmune disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42105147/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-11"
+      },
+      {
         "id": "recFkDwN2xKTrL5RE",
         "title": "Quizartinib-induced resistance drives clonal emergence of MV4-11 cells with molecular alterations enabling multidrug antileukemic escape.",
         "summary": "FLT3-mutated acute myeloid leukemia cells develop resistance to quizartinib through genetic mutations and metabolic changes, but combining it with p53 or MAPK inhibitors restores drug sensitivity.",
@@ -408,20 +422,6 @@
           "Breast"
         ],
         "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-08"
-      },
-      {
-        "id": "recmIgVAnvSxutbiL",
-        "title": "Ruxolitinib for ciltacabtagene autoleucel-associated refractory diarrhea.",
-        "summary": "Ruxolitinib successfully treated severe diarrhea in multiple myeloma patients after CAR T-cell therapy, showing rapid improvement in all treated cases.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41592291/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-08"
       }
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 22128,
+    "archive_count": 22130,
     "archive_supplements": 2405,
     "archive_off_label": 742,
-    "archive_biomarkers": 13604,
+    "archive_biomarkers": 13606,
     "archive_trials": 4643,
     "archive_mind_body": 442
   }
