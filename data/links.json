@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T09:05:42.423Z",
+  "last_updated": "2026-05-11T09:05:47.472Z",
   "categories": {
     "supplements": [
       {
@@ -328,6 +328,20 @@
         "added_date": "2026-05-11"
       },
       {
+        "id": "recRiRU5U4ClcPsI6",
+        "title": "When the host is not healthy: Rethinking tuberculosis drug targets in comorbid conditions.",
+        "summary": "TB drugs work differently in patients with other diseases; research should test treatments in realistic conditions with comorbidities like diabetes and cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42107457/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-11"
+      },
+      {
         "id": "recFkDwN2xKTrL5RE",
         "title": "Quizartinib-induced resistance drives clonal emergence of MV4-11 cells with molecular alterations enabling multidrug antileukemic escape.",
         "summary": "FLT3-mutated acute myeloid leukemia cells develop resistance to quizartinib through genetic mutations and metabolic changes, but combining it with p53 or MAPK inhibitors restores drug sensitivity.",
@@ -409,20 +423,6 @@
         ],
         "quality_score": 19,
         "pub_date": "2026-05-08",
-        "added_date": "2026-05-09"
-      },
-      {
-        "id": "recGfcW3BGRIXcfD9",
-        "title": "Burosumab use in fibroblast growth factor-23-mediated hypophosphatemia in McCune-Albright syndrome/fibrous dysplasia.",
-        "summary": "Burosumab, an antibody drug, effectively normalized phosphorus levels in a McCune-Albright syndrome patient who failed conventional treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42100588/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
         "added_date": "2026-05-09"
       }
     ],
@@ -860,11 +860,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 22174,
+    "archive_count": 22175,
     "archive_supplements": 2421,
     "archive_off_label": 744,
     "archive_biomarkers": 13631,
-    "archive_trials": 4644,
+    "archive_trials": 4645,
     "archive_mind_body": 442
   }
 }
