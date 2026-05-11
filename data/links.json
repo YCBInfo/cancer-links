@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T06:04:55.459Z",
+  "last_updated": "2026-05-11T06:05:23.186Z",
   "categories": {
     "supplements": [
       {
@@ -39,6 +39,35 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Melanoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-11"
+      },
+      {
+        "id": "recHD4VGeeGWAwv8v",
+        "title": "Apigenin based nanoplatform achieves non-small cell lung cancer immunotherapy through glycolysis inhibition and photodynamic co-perturbation of organelles.",
+        "summary": "A nanoplatform combining apigenin and light therapy inhibits lung cancer growth by blocking energy metabolism and triggering immune cell activation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42106779/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-11"
+      },
+      {
+        "id": "recdbyR57ixekr3NI",
+        "title": "Thermodynamic stability and anticancer activity of 2,3-unsaturated and 2,3-dideoxy O3-betulin glycosides.",
+        "summary": "Modified betulin compounds with attached sugars show enhanced anticancer activity against breast cancer cells with high selectivity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42106484/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast",
+          "Prostate"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -183,34 +212,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
-        "added_date": "2026-05-10"
-      },
-      {
-        "id": "recmLZB5EIy7Eh2Ex",
-        "title": "Petiveria alliacea L. methanolic extract inhibits amyloid-β aggregation and enhances cell viability in SH-SY5Y cells: in vitro and in silico evidence.",
-        "summary": "Petiveria alliacea plant extract reduces harmful protein buildup and improves brain cell survival in laboratory tests.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41698556/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-05-10"
-      },
-      {
-        "id": "recvu6766xok4GSa6",
-        "title": "Senecio scandens Buch. - Ham.: A comprehensive review of botany, phytochemistry, biological activity, toxicity, quality control, application, and practical domain.",
-        "summary": "Senecio scandens, a medicinal herb with anti-inflammatory compounds, shows promise for eye and skin diseases but requires safety monitoring.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41621762/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
-        "pub_date": "2026-03-01",
         "added_date": "2026-05-10"
       }
     ],
@@ -596,46 +597,47 @@
         "added_date": "2026-05-11"
       },
       {
-        "id": "recFkDwN2xKTrL5RE",
-        "title": "Quizartinib-induced resistance drives clonal emergence of MV4-11 cells with molecular alterations enabling multidrug antileukemic escape.",
-        "summary": "FLT3-mutated acute myeloid leukemia cells develop resistance to quizartinib through genetic mutations and metabolic changes, but combining it with p53 or MAPK inhibitors restores drug sensitivity.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41997407/",
+        "id": "recHD4VGeeGWAwv8v",
+        "title": "Apigenin based nanoplatform achieves non-small cell lung cancer immunotherapy through glycolysis inhibition and photodynamic co-perturbation of organelles.",
+        "summary": "A nanoplatform combining apigenin and light therapy inhibits lung cancer growth by blocking energy metabolism and triggering immune cell activation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42106779/",
         "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
+        "category": "Supplements & Nutraceuticals",
         "cancer_types": [
-          "Leukemia"
+          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
-        "added_date": "2026-05-10"
+        "added_date": "2026-05-11"
       },
       {
-        "id": "recWQbTR5WaUQNiqZ",
-        "title": "Immunogenic cell death-primed autophagosome vaccines drive dendritic cell cross-presentation and suppress colon cancer metastasis.",
-        "summary": "A new vaccine using cancer cell autophagosomes effectively treats colon cancer metastasis by boosting immune cell responses.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41856327/",
+        "id": "recdbyR57ixekr3NI",
+        "title": "Thermodynamic stability and anticancer activity of 2,3-unsaturated and 2,3-dideoxy O3-betulin glycosides.",
+        "summary": "Modified betulin compounds with attached sugars show enhanced anticancer activity against breast cancer cells with high selectivity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42106484/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast",
+          "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-11"
+      },
+      {
+        "id": "rece4kZG3g3savoLG",
+        "title": "Explainable artificial intelligence with pyramid vision transformer model for multi-class malignant cell classification on cytology slides.",
+        "summary": "AI model accurately classifies cancer cells in tissue samples with 98% accuracy, reducing pathologist workload and improving diagnostic consistency.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42106425/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
-          "Colorectal"
+          "General"
         ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-05-10"
-      },
-      {
-        "id": "recCYXXx9ujRPXUAV",
-        "title": "The HSP90-dependent bioorthogonal PROTAC prodrug system enables tumor-selective and enhanced protein degradation.",
-        "summary": "Researchers developed a tumor-targeting system that selectively activates cancer-killing protein-degrading drugs in tumors while sparing healthy tissue.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41839264/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Melanoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-05-10"
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-11"
       }
     ],
     "trials": [
@@ -678,6 +680,20 @@
           "Bladder"
         ],
         "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-11"
+      },
+      {
+        "id": "rece4kZG3g3savoLG",
+        "title": "Explainable artificial intelligence with pyramid vision transformer model for multi-class malignant cell classification on cytology slides.",
+        "summary": "AI model accurately classifies cancer cells in tissue samples with 98% accuracy, reducing pathologist workload and improving diagnostic consistency.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42106425/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-11"
       },
@@ -834,20 +850,6 @@
         "quality_score": 29,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-10"
-      },
-      {
-        "id": "rectnA6ofbe6pyxZD",
-        "title": "Central nervous system Burkitt lymphoma: fornix-to-ventricle dissemination.",
-        "summary": "Rare brain Burkitt lymphoma in a teenager spread rapidly from the brain's fornix to ventricles, highlighting the importance of prompt biopsy diagnosis.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42104165/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lymphoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-10"
       }
     ],
     "mind_body": []
@@ -859,8 +861,8 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 22124,
-    "archive_supplements": 2404,
+    "archive_count": 22125,
+    "archive_supplements": 2405,
     "archive_off_label": 742,
     "archive_biomarkers": 13602,
     "archive_trials": 4642,
