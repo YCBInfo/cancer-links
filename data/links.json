@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T06:05:32.579Z",
+  "last_updated": "2026-05-11T06:05:50.655Z",
   "categories": {
     "supplements": [
       {
@@ -70,6 +70,20 @@
           "Prostate"
         ],
         "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-11"
+      },
+      {
+        "id": "recY9o9FqH0pPYJF0",
+        "title": "Btg2 inhibits Fmo1 UFMylation thus exacerbating ferroptosis and apoptosis in hepatic ischemia-reperfusion injury.",
+        "summary": "Blocking the Btg2 protein reduces liver damage during surgery by preserving an enzyme that prevents cell death.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42106354/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-11"
       },
@@ -195,20 +209,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-10"
-      },
-      {
-        "id": "recIt8XDZJ33jYxg7",
-        "title": "Tomatidine modulatesfibrosis-related markers by promoting autophagy in hepatic stellate cells via the ERK/MAPK-mTOR-ULK1 signaling pathway.",
-        "summary": "Tomatidine, a compound from immature tomatoes, reduces liver fibrosis markers by activating autophagy through a specific cellular signaling pathway.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42103827/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Liver"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -698,6 +698,20 @@
         "added_date": "2026-05-11"
       },
       {
+        "id": "recngXde478oLU2XI",
+        "title": "Risk factors and metastatic sites in HER2-positive breast cancer with pathological complete response.",
+        "summary": "Even HER2-positive breast cancer patients achieving complete response to chemotherapy still develop brain metastases, requiring ongoing monitoring.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42106341/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-11"
+      },
+      {
         "id": "recKWVf4OvQ6ulGGc",
         "title": "[Clinical characteristics and genetic analysis of three fetuses with Baraitser-Winter cerebrofrontofacial syndrome and Dystonia-deafness syndrome type 1 due to variants of ACTB gene].",
         "summary": "Researchers identified ACTB gene mutations causing Baraitser-Winter cerebrofrontofacial syndrome and dystonia-deafness syndrome in three fetuses.",
@@ -836,20 +850,6 @@
         "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-05-10"
-      },
-      {
-        "id": "recIZ4vT2ntkavk57",
-        "title": "The current landscape and opportunities in gastrostomy care quality improvement in low- and middle-income countries: a scoping review.",
-        "summary": "Gastrostomy tube care in low-income countries shows high complication rates; improved training and standardized protocols could enhance patient outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42104811/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 29,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-10"
       }
     ],
     "mind_body": []
@@ -861,10 +861,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 22126,
+    "archive_count": 22127,
     "archive_supplements": 2405,
     "archive_off_label": 742,
-    "archive_biomarkers": 13602,
+    "archive_biomarkers": 13603,
     "archive_trials": 4643,
     "archive_mind_body": 442
   }
