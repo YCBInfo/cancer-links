@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T06:04:33.242Z",
+  "last_updated": "2026-05-11T06:04:55.459Z",
   "categories": {
     "supplements": [
       {
@@ -568,6 +568,34 @@
         "added_date": "2026-05-11"
       },
       {
+        "id": "reccdPPFUEpdGT5CT",
+        "title": "circ-FSCN1 affects ferroptosis and cell viability in NSCLC via the miR-506-3p/SLC7A1 pathway.",
+        "summary": "Reducing circ-FSCN1 in lung cancer cells triggers cell death by increasing oxidative stress through a specific genetic pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42107319/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-11"
+      },
+      {
+        "id": "recD6JdtxlcV61iSc",
+        "title": "Real-world prevalence and outcome of elevated right ventricular systolic pressure in myelofibrosis.",
+        "summary": "Myelofibrosis patients frequently develop elevated heart pressure, which increases their risk of serious heart complications and death.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42106798/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-11"
+      },
+      {
         "id": "recFkDwN2xKTrL5RE",
         "title": "Quizartinib-induced resistance drives clonal emergence of MV4-11 cells with molecular alterations enabling multidrug antileukemic escape.",
         "summary": "FLT3-mutated acute myeloid leukemia cells develop resistance to quizartinib through genetic mutations and metabolic changes, but combining it with p53 or MAPK inhibitors restores drug sensitivity.",
@@ -606,34 +634,6 @@
           "Melanoma"
         ],
         "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-05-10"
-      },
-      {
-        "id": "recvrETFxhaXdZ7f7",
-        "title": "Lipid-based delivery systems for dendritic cell targeting: Formulation strategies and cancer applications.",
-        "summary": "Lipid-based nanoparticles can deliver cancer antigens directly to dendritic cells, boosting immune responses against tumors.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41812866/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-05-10"
-      },
-      {
-        "id": "rec7VnWiEirjVK5C7",
-        "title": "Genetically engineered Salmonella, SGN1, as a tumor microenvironment-targeting modality capable of methionine reduction for oral squamous cell carcinoma.",
-        "summary": "Engineered Salmonella bacteria effectively shrink oral squamous cell carcinoma tumors by depleting methionine while avoiding systemic toxicity.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41786042/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-05-10"
       }
@@ -859,9 +859,9 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 22123,
+    "archive_count": 22124,
     "archive_supplements": 2404,
-    "archive_off_label": 741,
+    "archive_off_label": 742,
     "archive_biomarkers": 13602,
     "archive_trials": 4642,
     "archive_mind_body": 442
