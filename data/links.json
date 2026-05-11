@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T06:07:18.823Z",
+  "last_updated": "2026-05-11T06:07:27.382Z",
   "categories": {
     "supplements": [
       {
@@ -130,6 +130,20 @@
         "added_date": "2026-05-11"
       },
       {
+        "id": "recJKvXGX32dCHikM",
+        "title": "Machine Learning-driven Prediction of Cervical Cancer Cell Viability After Treatment With Thymoquinone, Curcumin, and 5-Fluorouracil.",
+        "summary": "Machine learning models predict how cervical cancer cells die when treated with natural compounds thymoquinone and curcumin, rivaling traditional chemotherapy drug effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42105068/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-11"
+      },
+      {
         "id": "recDUBzCqz3lbOJuA",
         "title": "Zuoguiyin modulates M2 macrophage polarization to inhibit glycolysis in esophageal squamous cell carcinoma.",
         "summary": "Zuoguiyin, a traditional Chinese medicine, reduces esophageal cancer growth by converting immune cells away from tumor-promoting M2 macrophages.",
@@ -190,20 +204,6 @@
         "title": "Luteolin, a bioactive compound from Celastrus orbiculatus stem, inhibits cervical cancer via CA2 suppression: A translational study bridging basic research and clinical application.",
         "summary": "Luteolin from Celastrus orbiculatus plant fights cervical cancer by suppressing the CA2 protein, offering a natural treatment approach.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41651043/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-05-10"
-      },
-      {
-        "id": "recBn6ELBhErYeNtm",
-        "title": "Buyang Huanwu Decoction alleviates vascular cognitive impairment by inhibiting neuroinflammation via regulation of the p53/cGAS/STING pathway.",
-        "summary": "Traditional Chinese medicine Buyang Huanwu Decoction reduces brain inflammation and improves cognitive function in vascular cognitive impairment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41638453/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 22134,
+    "archive_count": 22135,
     "archive_supplements": 2407,
     "archive_off_label": 742,
-    "archive_biomarkers": 13608,
+    "archive_biomarkers": 13609,
     "archive_trials": 4643,
     "archive_mind_body": 442
   }
