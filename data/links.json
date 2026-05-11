@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T06:09:24.666Z",
+  "last_updated": "2026-05-11T06:09:36.676Z",
   "categories": {
     "supplements": [
       {
@@ -753,6 +753,20 @@
         "added_date": "2026-05-11"
       },
       {
+        "id": "receMU5zTbrFcWpot",
+        "title": "Efficacy of olaparib in advanced cancers with somatic or germline mutations in BAP1, BARD1, BRIP1 and PALB2.",
+        "summary": "Olaparib shows promise in treating advanced cancers with specific DNA repair gene mutations beyond those currently approved.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42105598/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-11"
+      },
+      {
         "id": "recKWVf4OvQ6ulGGc",
         "title": "[Clinical characteristics and genetic analysis of three fetuses with Baraitser-Winter cerebrofrontofacial syndrome and Dystonia-deafness syndrome type 1 due to variants of ACTB gene].",
         "summary": "Researchers identified ACTB gene mutations causing Baraitser-Winter cerebrofrontofacial syndrome and dystonia-deafness syndrome in three fetuses.",
@@ -835,20 +849,6 @@
         "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-05-10"
-      },
-      {
-        "id": "recC3lCp3FfVvxPAe",
-        "title": "Extracellular vesicles from IL-18-overexpressing and/or TGF-β1-deprived tumor cells as an immunogenic antigen source for next-generation DC vaccines.",
-        "summary": "Modified tumor-derived vesicles engineered to boost immunity effectively enhanced dendritic cell vaccines against colon cancer in mice.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41780683/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-05-10"
       }
     ],
     "mind_body": []
@@ -860,11 +860,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 22145,
+    "archive_count": 22146,
     "archive_supplements": 2411,
     "archive_off_label": 743,
     "archive_biomarkers": 13614,
-    "archive_trials": 4643,
+    "archive_trials": 4644,
     "archive_mind_body": 442
   }
 }
