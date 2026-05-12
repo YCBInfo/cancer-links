@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12T04:09:05.997Z",
+  "last_updated": "2026-05-12T04:09:16.956Z",
   "categories": {
     "supplements": [
       {
@@ -13,6 +13,20 @@
           "Liver"
         ],
         "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-12"
+      },
+      {
+        "id": "rec3VEmNWHdr603a5",
+        "title": "Eupalinolide B Ameliorates Diabetic Kidney Disease via Inhibition of Cell Division Cycle 37-Mediated Inflammatory Pathways.",
+        "summary": "Eupalinolide B, a natural compound, reduces kidney damage in diabetes by blocking inflammatory pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42113583/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-12"
       },
@@ -196,20 +210,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-11"
-      },
-      {
-        "id": "recOeOODFmJt30aGm",
-        "title": "Omega-3 fatty acids in Pediatric Acute Lymphocytic Leukemia: A Scoping Review.",
-        "summary": "Omega-3 fatty acids show promise in laboratory tests for killing leukemia cells and reducing chemotherapy side effects in children with acute lymphocytic leukemia.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42107536/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-11"
       }
@@ -863,11 +863,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 22222,
+    "archive_count": 22223,
     "archive_supplements": 2422,
     "archive_off_label": 747,
     "archive_biomarkers": 13665,
-    "archive_trials": 4654,
+    "archive_trials": 4655,
     "archive_mind_body": 442
   }
 }
