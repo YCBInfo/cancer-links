@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12T04:04:24.301Z",
+  "last_updated": "2026-05-12T04:04:36.230Z",
   "categories": {
     "supplements": [
       {
@@ -598,6 +598,20 @@
         "added_date": "2026-05-12"
       },
       {
+        "id": "rec1YNJ4ozrZSFZyE",
+        "title": "Exploring the Immune Microenvironment for Predicting Immunotherapy Efficacy in Epstein-Barr Virus-Associated Gastric Cancer.",
+        "summary": "Immune cell patterns in tumors, not standard markers alone, predict which EBV-associated gastric cancer patients will respond to immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42114026/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-12"
+      },
+      {
         "id": "recJGYnhKgPPF5xLZ",
         "title": "Internalization of Helicobacter pylori into gastric epithelial cells: mechanisms and intervention strategies.",
         "summary": "H. pylori bacteria internalize into stomach cells to cause disease and resist antibiotics, suggesting targeting this process could improve treatment.",
@@ -622,20 +636,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-11"
-      },
-      {
-        "id": "recSmGKBB6aspyzxz",
-        "title": "Identification of PRRG1 as a possible molecular target of pancreatic cancer.",
-        "summary": "PRRG1 protein drives pancreatic cancer growth through a key signaling pathway, and low-dose warfarin effectively blocks this effect.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42108282/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Pancreatic"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-11"
       }
@@ -722,6 +722,20 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Bladder"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-12"
+      },
+      {
+        "id": "rec1YNJ4ozrZSFZyE",
+        "title": "Exploring the Immune Microenvironment for Predicting Immunotherapy Efficacy in Epstein-Barr Virus-Associated Gastric Cancer.",
+        "summary": "Immune cell patterns in tumors, not standard markers alone, predict which EBV-associated gastric cancer patients will respond to immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42114026/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Stomach"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -838,20 +852,6 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-11"
-      },
-      {
-        "id": "receMU5zTbrFcWpot",
-        "title": "Efficacy of olaparib in advanced cancers with somatic or germline mutations in BAP1, BARD1, BRIP1 and PALB2.",
-        "summary": "Olaparib shows promise in treating advanced cancers with specific DNA repair gene mutations beyond those currently approved.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42105598/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Prostate"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-11"
       }
     ],
     "mind_body": []
@@ -863,10 +863,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 22199,
+    "archive_count": 22200,
     "archive_supplements": 2422,
     "archive_off_label": 747,
-    "archive_biomarkers": 13646,
+    "archive_biomarkers": 13647,
     "archive_trials": 4650,
     "archive_mind_body": 442
   }
