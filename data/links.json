@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12T06:06:37.417Z",
+  "last_updated": "2026-05-12T06:06:45.185Z",
   "categories": {
     "supplements": [
       {
@@ -243,6 +243,20 @@
         "added_date": "2026-05-12"
       },
       {
+        "id": "recIBNEMgnRbgGtCS",
+        "title": "Ascites protects against ferroptosis and enables the peritoneal growth of ovarian cancer.",
+        "summary": "Ascites fluid protects ovarian cancer cells from ferroptosis, enabling peritoneal metastasis; fibrates may reverse this protection.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42115216/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Ovarian"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-12"
+      },
+      {
         "id": "recSmGKBB6aspyzxz",
         "title": "Identification of PRRG1 as a possible molecular target of pancreatic cancer.",
         "summary": "PRRG1 protein drives pancreatic cancer growth through a key signaling pathway, and low-dose warfarin effectively blocks this effect.",
@@ -401,20 +415,6 @@
         "title": "NUPR1 as a central stress-adaptation node in cancer: integrating metabolic rewiring, cell death, and therapy resistance.",
         "summary": "NUPR1 protein helps cancers survive stress and resist treatments by controlling metabolism, cell death, and immunity; blocking it with drugs could overcome resistance.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42104400/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-09"
-      },
-      {
-        "id": "recWnWPqSAOKwrOIj",
-        "title": "Akkermansia muciniphila drives viscero-visceral crosstalk via 5-HT3aR-mediated sensitization of dichotomizing gut-bladder neurons.",
-        "summary": "A gut bacterium (Akkermansia muciniphila) causes bladder dysfunction by triggering excess serotonin, which could be reversed by blocking serotonin receptors.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42104017/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -862,11 +862,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 22357,
+    "archive_count": 22358,
     "archive_supplements": 2432,
     "archive_off_label": 748,
     "archive_biomarkers": 13774,
-    "archive_trials": 4669,
+    "archive_trials": 4670,
     "archive_mind_body": 442
   }
 }
