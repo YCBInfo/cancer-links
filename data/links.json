@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12T04:18:16.181Z",
+  "last_updated": "2026-05-12T04:18:27.309Z",
   "categories": {
     "supplements": [
       {
@@ -216,6 +216,20 @@
     ],
     "off_label": [
       {
+        "id": "recAMaexRSjEwa2UH",
+        "title": "Integrated clinical and computational data-based repurposing of econazole as a novel autophagic activator in ULK1-related Parkinson disease.",
+        "summary": "Econazole, an existing antifungal drug, activates autophagy and shows promise for treating Parkinson disease by clearing toxic protein aggregates.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42112758/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-12"
+      },
+      {
         "id": "recSmGKBB6aspyzxz",
         "title": "Identification of PRRG1 as a possible molecular target of pancreatic cancer.",
         "summary": "PRRG1 protein drives pancreatic cancer growth through a key signaling pathway, and low-dose warfarin effectively blocks this effect.",
@@ -409,20 +423,6 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-05-01",
-        "added_date": "2026-05-09"
-      },
-      {
-        "id": "recaebzmJxsrLIdOs",
-        "title": "A Phase II Pilot Trial of ABemacicliB or Abemaciclib and HydroxYchloroquine to Target Minimal Residual Disease in Breast Cancer Patients ('ABBY')",
-        "summary": "A trial tests whether combining abemaciclib and hydroxychloroquine pills can eliminate cancer cells remaining in breast cancer patients' bone marrow.",
-        "url": "https://clinicaltrials.gov/study/NCT04523857",
-        "source": "ClinicalTrials.gov",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 19,
-        "pub_date": "2026-05-08",
         "added_date": "2026-05-09"
       }
     ],
@@ -863,10 +863,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 22273,
+    "archive_count": 22274,
     "archive_supplements": 2427,
     "archive_off_label": 747,
-    "archive_biomarkers": 13707,
+    "archive_biomarkers": 13708,
     "archive_trials": 4658,
     "archive_mind_body": 442
   }
