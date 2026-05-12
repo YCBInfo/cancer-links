@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12T06:10:05.733Z",
+  "last_updated": "2026-05-12T06:10:19.064Z",
   "categories": {
     "supplements": [
       {
@@ -257,6 +257,20 @@
         "added_date": "2026-05-12"
       },
       {
+        "id": "recqpDmIJkNJNuam8",
+        "title": "Diving into AA9-mediated transglutaminase 2 inhibition reveals ferroptosis as driver of anticancer effects.",
+        "summary": "AA9 inhibitor triggers ferroptosis in triple-negative breast cancer by blocking transglutaminase 2, offering a new treatment approach.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42114680/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-12"
+      },
+      {
         "id": "recSmGKBB6aspyzxz",
         "title": "Identification of PRRG1 as a possible molecular target of pancreatic cancer.",
         "summary": "PRRG1 protein drives pancreatic cancer growth through a key signaling pathway, and low-dose warfarin effectively blocks this effect.",
@@ -401,20 +415,6 @@
         "title": "Chronic stress and cancer progression through neuro‑endocrine‑immune networks (Review).",
         "summary": "Chronic stress may accelerate cancer progression through stress hormone pathways affecting immune function and tumor microenvironment, suggesting psychosocial interventions warrant investigation.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42099244/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-09"
-      },
-      {
-        "id": "recq8hviWUIEzxPuF",
-        "title": "NUPR1 as a central stress-adaptation node in cancer: integrating metabolic rewiring, cell death, and therapy resistance.",
-        "summary": "NUPR1 protein helps cancers survive stress and resist treatments by controlling metabolism, cell death, and immunity; blocking it with drugs could overcome resistance.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42104400/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -862,10 +862,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 22379,
+    "archive_count": 22380,
     "archive_supplements": 2436,
     "archive_off_label": 748,
-    "archive_biomarkers": 13787,
+    "archive_biomarkers": 13788,
     "archive_trials": 4674,
     "archive_mind_body": 442
   }
