@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12T04:04:12.543Z",
+  "last_updated": "2026-05-12T04:04:24.301Z",
   "categories": {
     "supplements": [
       {
@@ -584,6 +584,20 @@
         "added_date": "2026-05-12"
       },
       {
+        "id": "recMHWcxmiSQYHdhe",
+        "title": "Evaluating 18F-FDG PET-CT for Regional Lymph Node Assessment in Advanced Upper Tract Urothelial Carcinoma.",
+        "summary": "Researchers evaluated whether a PET-CT imaging scan accurately detects lymph node spread in advanced upper tract urinary cancer before surgery.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42109916/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Bladder"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-12"
+      },
+      {
         "id": "recJGYnhKgPPF5xLZ",
         "title": "Internalization of Helicobacter pylori into gastric epithelial cells: mechanisms and intervention strategies.",
         "summary": "H. pylori bacteria internalize into stomach cells to cause disease and resist antibiotics, suggesting targeting this process could improve treatment.",
@@ -622,20 +636,6 @@
           "Pancreatic"
         ],
         "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-11"
-      },
-      {
-        "id": "recT7jpFB3iddBCZr",
-        "title": "Synergetic anticancer activity of psidium guajava-mediated palladium nanoparticles via apoptosis induction and metastasis suppression in osteosarcoma cells.",
-        "summary": "Guava-based palladium nanoparticles effectively kill osteosarcoma (bone cancer) cells by triggering cell death and blocking cancer spread.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42108266/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-11"
       }
@@ -708,6 +708,20 @@
         "category": "Clinical Trials",
         "cancer_types": [
           "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-12"
+      },
+      {
+        "id": "recMHWcxmiSQYHdhe",
+        "title": "Evaluating 18F-FDG PET-CT for Regional Lymph Node Assessment in Advanced Upper Tract Urothelial Carcinoma.",
+        "summary": "Researchers evaluated whether a PET-CT imaging scan accurately detects lymph node spread in advanced upper tract urinary cancer before surgery.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42109916/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Bladder"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -838,20 +852,6 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-11"
-      },
-      {
-        "id": "recXParOxnDiKtJW5",
-        "title": "A smart polymer-based nanoplatform potentiates cancer ferroptosis-immunotherapy via perturbing metabolic compensation.",
-        "summary": "A nanoparticle treatment combining iron and a glucose-blocking drug triggers cancer cell death and boosts immune response by disrupting tumor metabolism.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42105867/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-11"
       }
     ],
     "mind_body": []
@@ -863,10 +863,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 22198,
+    "archive_count": 22199,
     "archive_supplements": 2422,
     "archive_off_label": 747,
-    "archive_biomarkers": 13645,
+    "archive_biomarkers": 13646,
     "archive_trials": 4650,
     "archive_mind_body": 442
   }
