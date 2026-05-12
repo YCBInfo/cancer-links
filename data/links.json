@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12T04:03:49.633Z",
+  "last_updated": "2026-05-12T04:03:59.860Z",
   "categories": {
     "supplements": [
       {
@@ -556,6 +556,20 @@
         "added_date": "2026-05-12"
       },
       {
+        "id": "rec8ZL10eVvUmxZrn",
+        "title": "The role of hypoxia in the regulation of serotonergic signaling: an investigation of HTR1B and TPH-1 expression in colorectal cancer and C. elegans models.",
+        "summary": "Hypoxia in colorectal cancer alters serotonin receptor genes in time-dependent ways, suggesting potential therapeutic targets.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42111626/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-12"
+      },
+      {
         "id": "recJGYnhKgPPF5xLZ",
         "title": "Internalization of Helicobacter pylori into gastric epithelial cells: mechanisms and intervention strategies.",
         "summary": "H. pylori bacteria internalize into stomach cells to cause disease and resist antibiotics, suggesting targeting this process could improve treatment.",
@@ -622,20 +636,6 @@
           "Prostate"
         ],
         "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-11"
-      },
-      {
-        "id": "recCKHfk4EmGeVwCU",
-        "title": "Targeting UXS1-Dependent Glucuronate Detoxification Potentiates Metformin's Anti-Tumor Efficacy in Lung Adenocarcinoma.",
-        "summary": "Blocking UXS1 enzyme combined with metformin kills lung adenocarcinoma cells and boosts immune responses in preclinical studies.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42107063/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-11"
       }
@@ -863,10 +863,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 22196,
+    "archive_count": 22197,
     "archive_supplements": 2422,
     "archive_off_label": 747,
-    "archive_biomarkers": 13643,
+    "archive_biomarkers": 13644,
     "archive_trials": 4650,
     "archive_mind_body": 442
   }
