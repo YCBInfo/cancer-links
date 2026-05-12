@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-05-12T02:03:37.040Z",
+  "last_updated": "2026-05-12T04:03:39.214Z",
   "categories": {
     "supplements": [
+      {
+        "id": "recV256krzVTdNVJS",
+        "title": "Gut microbes mediate the synergistic effects of dietary cholesterol and saturated fat in driving fibrosing MASH.",
+        "summary": "Gut bacteria triggered by high saturated fat and cholesterol diets drive liver fibrosis by activating liver cells, offering new treatment targets.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42108649/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-12"
+      },
       {
         "id": "rec7WqLbFafOjskij",
         "title": "EGCG-mediated selenium nanoparticles protect against 5-fluorouracil-induced cardiotoxicity via Nrf2/Keap1 signaling.",
@@ -196,20 +210,6 @@
           "Leukemia"
         ],
         "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-11"
-      },
-      {
-        "id": "recCzPIJs74x1uX6z",
-        "title": "Vitamin K2 (MK-7) as a novel cytoprotective agent in ovarian ischemia-reperfusion: Promoting functional recovery.",
-        "summary": "Vitamin K2 (MK-7) protects ovarian tissue from damage caused by twisted ovaries in rats, reducing inflammation and cell death.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42107193/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-11"
       }
@@ -428,6 +428,134 @@
     ],
     "biomarkers": [
       {
+        "id": "recV256krzVTdNVJS",
+        "title": "Gut microbes mediate the synergistic effects of dietary cholesterol and saturated fat in driving fibrosing MASH.",
+        "summary": "Gut bacteria triggered by high saturated fat and cholesterol diets drive liver fibrosis by activating liver cells, offering new treatment targets.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42108649/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-12"
+      },
+      {
+        "id": "recqwmcf1n3vs0BCI",
+        "title": "Microbiota and head and neck cancers: Mechanistic insights and translational potential.",
+        "summary": "Bacteria imbalances in the mouth and tumors promote head and neck cancer growth and may predict treatment response.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42113945/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-12"
+      },
+      {
+        "id": "recCIYRSm2OIh0IbT",
+        "title": "Radioiodinated compound FJR01: a novel P2X7R-targeted SPECT tracer for visualizing glioma-associated microglia/macrophages in a rat glioblastoma model.",
+        "summary": "Researchers developed FJR01, a new radioactive tracer that successfully visualizes glioblastoma tumors by targeting immune cells within the tumor microenvironment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42113227/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-12"
+      },
+      {
+        "id": "recPn3EWSWs255Adc",
+        "title": "Structural optimization of CHI3L1 inhibitors with improved pharmacokinetics and functional activity in 3D glioblastoma models.",
+        "summary": "Researchers optimized a glioblastoma drug candidate that better blocks a tumor-driving protein while improving how the body processes it.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42109224/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-12"
+      },
+      {
+        "id": "rec40syZxuFcZEE3b",
+        "title": "Spontaneous hemothorax in Neurofibromatosis type 1 with a giant intrathoracic meningocele and intracystic hematoma: Diagnostic value of postmortem CT.",
+        "summary": "A woman with Neurofibromatosis type 1 died from sudden bleeding into her chest caused by a ruptured spinal fluid sac.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42111423/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-12"
+      },
+      {
+        "id": "rec5LuGK34o3FEEtB",
+        "title": "A case of prostatic urothelial carcinoma with aggressive metastasis: Magnetic resonance imaging as an initial diagnostic clue.",
+        "summary": "MRI's diffusion-weighted imaging helped identify rare primary prostatic urothelial carcinoma with aggressive metastasis that was initially mistaken for bladder cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42111422/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal",
+          "Prostate",
+          "Bladder"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-12"
+      },
+      {
+        "id": "rechKPbg11AlVZOCO",
+        "title": "A case of intrapulmonary schwannoma in a patient with rectal carcinoma: A case report and literature review.",
+        "summary": "A rare lung schwannoma was identified in a patient with rectal cancer using imaging techniques to distinguish it from metastatic disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42111418/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-12"
+      },
+      {
+        "id": "recMchTlHhmpGZjLE",
+        "title": "Renal angiomyolipoma with inferior vena cava tumor thrombus in a pregnant woman.",
+        "summary": "A pregnant woman was diagnosed with a rare benign kidney tumor that spread into a major vein, successfully treated after delivery.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42111414/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-12"
+      },
+      {
+        "id": "recSXMJseJnjTPnFa",
+        "title": "Quantitative native T1 mapping identifies papillary muscle and intracavitary cardiac lipomas: A multiparametric CMR case series.",
+        "summary": "Native T1 mapping helps accurately identify benign cardiac lipomas in complex heart locations using magnetic resonance imaging.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42111408/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-12"
+      },
+      {
         "id": "recJGYnhKgPPF5xLZ",
         "title": "Internalization of Helicobacter pylori into gastric epithelial cells: mechanisms and intervention strategies.",
         "summary": "H. pylori bacteria internalize into stomach cells to cause disease and resist antibiotics, suggesting targeting this process could improve treatment.",
@@ -510,133 +638,6 @@
         "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-11"
-      },
-      {
-        "id": "recKED5tSxJFVEFUY",
-        "title": "Enhancing the therapeutic efficacy of curcumin in topical applications through nanoformulations.",
-        "summary": "Nanoformulations enhance curcumin's absorption in skin, improving its effectiveness against skin cancer and wound healing.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42107059/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Melanoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-11"
-      },
-      {
-        "id": "recu7XGYlb9gY4T3W",
-        "title": "Enhanced detection of bladder cancer using combined circulating tumor cells, urine-derived epithelial cells, and molecular biomarkers.",
-        "summary": "Combining multiple biomarkers from different samples significantly improves bladder cancer detection compared to using single markers alone.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42107019/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Bladder"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-11"
-      },
-      {
-        "id": "recjJB2b62mjqOolE",
-        "title": "Lactylation-regulated ferroptosis: mechanisms, disease associations, and therapeutic strategies.",
-        "summary": "Lactylation regulates ferroptosis pathways, offering potential therapeutic targets for treating tumors and other diseases.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42107017/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-11"
-      },
-      {
-        "id": "recWwzLvkxAQfnpsp",
-        "title": "SINAT proteins modulate autophagic vesicle degradation by regulating V-ATPase subunit proteolysis in Arabidopsis.",
-        "summary": "SINAT proteins regulate how plant cells break down autophagic vesicles by controlling VAB1 protein levels through degradation.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42107009/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-11"
-      },
-      {
-        "id": "reccdPPFUEpdGT5CT",
-        "title": "circ-FSCN1 affects ferroptosis and cell viability in NSCLC via the miR-506-3p/SLC7A1 pathway.",
-        "summary": "Reducing circ-FSCN1 in lung cancer cells triggers cell death by increasing oxidative stress through a specific genetic pathway.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42107319/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-11"
-      },
-      {
-        "id": "recD6JdtxlcV61iSc",
-        "title": "Real-world prevalence and outcome of elevated right ventricular systolic pressure in myelofibrosis.",
-        "summary": "Myelofibrosis patients frequently develop elevated heart pressure, which increases their risk of serious heart complications and death.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42106798/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-11"
-      },
-      {
-        "id": "recHD4VGeeGWAwv8v",
-        "title": "Apigenin based nanoplatform achieves non-small cell lung cancer immunotherapy through glycolysis inhibition and photodynamic co-perturbation of organelles.",
-        "summary": "A nanoplatform combining apigenin and light therapy inhibits lung cancer growth by blocking energy metabolism and triggering immune cell activation.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42106779/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-11"
-      },
-      {
-        "id": "recdbyR57ixekr3NI",
-        "title": "Thermodynamic stability and anticancer activity of 2,3-unsaturated and 2,3-dideoxy O3-betulin glycosides.",
-        "summary": "Modified betulin compounds with attached sugars show enhanced anticancer activity against breast cancer cells with high selectivity.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42106484/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast",
-          "Prostate"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-11"
-      },
-      {
-        "id": "rece4kZG3g3savoLG",
-        "title": "Explainable artificial intelligence with pyramid vision transformer model for multi-class malignant cell classification on cytology slides.",
-        "summary": "AI model accurately classifies cancer cells in tissue samples with 98% accuracy, reducing pathologist workload and improving diagnostic consistency.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42106425/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-11"
       }
     ],
     "trials": [
@@ -665,6 +666,36 @@
           "Lung"
         ],
         "quality_score": 18,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-12"
+      },
+      {
+        "id": "rec5LuGK34o3FEEtB",
+        "title": "A case of prostatic urothelial carcinoma with aggressive metastasis: Magnetic resonance imaging as an initial diagnostic clue.",
+        "summary": "MRI's diffusion-weighted imaging helped identify rare primary prostatic urothelial carcinoma with aggressive metastasis that was initially mistaken for bladder cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42111422/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal",
+          "Prostate",
+          "Bladder"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-12"
+      },
+      {
+        "id": "recii3EbqzfepPHOW",
+        "title": "Minimally invasive management of colonic lipoma causing intussusception with endoloop in an adult.",
+        "summary": "Doctors successfully treated colon intussusception caused by a lipoma using minimally invasive endoscopy instead of surgery.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42111416/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-12"
       },
@@ -821,34 +852,6 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-11"
-      },
-      {
-        "id": "recqoqQMlJUFk0miV",
-        "title": "Discovery, development, and characterization of SPY002 and SPY072, two novel extended half-life monoclonal antibodies targeting TL1A: in vitro properties, in vivo pharmacology, pharmacokinetics, and preclinical safety.",
-        "summary": "Researchers developed two new long-acting antibodies that block TL1A, showing promise for treating inflammatory bowel disease and arthritis.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42106953/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 18,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-11"
-      },
-      {
-        "id": "rec8KP5dl0Vfd2ryq",
-        "title": "Thyroid function changes in pregnant women with thyroid cancer and their association with adverse fetal outcomes: a parallel controlled study.",
-        "summary": "Thyroid hormone therapy in pregnant women with thyroid cancer may affect fetal health outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42106713/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Thyroid"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-11"
       }
     ],
     "mind_body": []
@@ -860,8 +863,8 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 22194,
-    "archive_supplements": 2421,
+    "archive_count": 22195,
+    "archive_supplements": 2422,
     "archive_off_label": 747,
     "archive_biomarkers": 13642,
     "archive_trials": 4650,
