@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12T04:05:23.576Z",
+  "last_updated": "2026-05-12T04:05:36.131Z",
   "categories": {
     "supplements": [
       {
@@ -770,6 +770,20 @@
         "added_date": "2026-05-12"
       },
       {
+        "id": "rec6aLXweGLPr1OqX",
+        "title": "Persistence of PET scan positivity after chemoimmunotherapy for DLBCL.",
+        "summary": "Some lymphoma patients with positive PET scans after chemotherapy don't actually have remaining cancer, and blood tests may help identify them.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41747191/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lymphoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-05-12"
+      },
+      {
         "id": "reckt88G8kZLsaEqm",
         "title": "Gallium-Containing Agents for Tumor Diagnosis and Therapy: Current Status and Future Prospects.",
         "summary": "Gallium-based agents improve cancer diagnosis and treatment by enabling precise imaging and attacking tumors through multiple biological mechanisms.",
@@ -838,20 +852,6 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-11"
-      },
-      {
-        "id": "recxrx4yqdAYSz04d",
-        "title": "Molecular characteristics, clonal relatedness and surgical outcomes of pulmonary mixed invasive mucinous and non-mucinous adenocarcinoma: a retrospective cohort study.",
-        "summary": "Mixed mucinous and non-mucinous lung adenocarcinoma shows distinct molecular features and worse survival outcomes compared to pure mucinous types.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42105078/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-11"
       }
     ],
     "mind_body": []
@@ -863,11 +863,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 22204,
+    "archive_count": 22205,
     "archive_supplements": 2422,
     "archive_off_label": 747,
     "archive_biomarkers": 13650,
-    "archive_trials": 4651,
+    "archive_trials": 4652,
     "archive_mind_body": 442
   }
 }
