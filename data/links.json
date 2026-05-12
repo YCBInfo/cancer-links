@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12T04:12:11.236Z",
+  "last_updated": "2026-05-12T04:12:23.990Z",
   "categories": {
     "supplements": [
       {
@@ -41,6 +41,20 @@
           "Kidney"
         ],
         "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-12"
+      },
+      {
+        "id": "recxzFKe5QGzqhx92",
+        "title": "Caffeic acid phenethyl ester attenuates phenotypic switching and inflammation in abdominal aortic aneurysm via the NF-κB pathway.",
+        "summary": "CAPE, a natural compound, reduces abdominal aortic aneurysm formation by decreasing inflammation through a specific cellular pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42113350/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-12"
       },
@@ -190,20 +204,6 @@
         "title": "Baicalin as a multifunctional flavone glycoside: pharmacological mechanisms, ADME profile, and therapeutic potential.",
         "summary": "Baicalin, a plant compound, shows promise against inflammation, cancer, and infections by activating protective cellular pathways and improving immune responses.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42105002/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-11"
-      },
-      {
-        "id": "recBUlSQVpqO6xIbf",
-        "title": "Hypovitaminosis D in acute inpatient cancer rehabilitation: Prevalence, predictors, and practical implications.",
-        "summary": "Most cancer patients in rehabilitation have low vitamin D levels, which may worsen their health outcomes and recovery.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42104875/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -863,10 +863,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 22239,
+    "archive_count": 22240,
     "archive_supplements": 2423,
     "archive_off_label": 747,
-    "archive_biomarkers": 13678,
+    "archive_biomarkers": 13679,
     "archive_trials": 4657,
     "archive_mind_body": 442
   }
