@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T11:53:47.169Z",
+  "last_updated": "2026-05-12T02:03:27.262Z",
   "categories": {
     "supplements": [
       {
@@ -641,6 +641,34 @@
     ],
     "trials": [
       {
+        "id": "rec5SJBXFrHlUrFzw",
+        "title": "Reiki and Therapeutic Touch for symptom burden and quality of life in palliative settings: A systematic review.",
+        "summary": "Reiki and Therapeutic Touch may help reduce symptoms and improve quality of life for palliative care patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42108752/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-12"
+      },
+      {
+        "id": "recbxu7BfG17Lgskk",
+        "title": "Caring at the crossroads of culture and emotion: a reflective case study of person-centred end-of-life practices.",
+        "summary": "Emotional burden on nurses and cultural barriers limit compassionate end-of-life cancer care delivery in Chinese hospitals.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42113717/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 18,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-12"
+      },
+      {
         "id": "reckt88G8kZLsaEqm",
         "title": "Gallium-Containing Agents for Tumor Diagnosis and Therapy: Current Status and Future Prospects.",
         "summary": "Gallium-based agents improve cancer diagnosis and treatment by enabling precise imaging and attacking tumors through multiple biological mechanisms.",
@@ -821,34 +849,6 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-11"
-      },
-      {
-        "id": "recjMojjLF3xkMpck",
-        "title": "Osimertinib-induced interstitial lung disease insights from faers signal detection and network toxicology analysis.",
-        "summary": "Osimertinib, a lung cancer drug, carries a rare but serious risk of lung inflammation, especially in older Asian women, through inflammation and tissue damage pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42106642/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-11"
-      },
-      {
-        "id": "recCDBYW6TaqRBwv2",
-        "title": "Activated charcoal in the stomach: Clinical familiarity and limited gross recognition.",
-        "summary": "Activated charcoal in the stomach can mimic serious conditions at autopsy, potentially causing diagnostic errors if medical history isn't reviewed carefully.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42106577/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Prostate"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-11"
       }
     ],
     "mind_body": []
@@ -860,11 +860,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 22192,
+    "archive_count": 22193,
     "archive_supplements": 2421,
     "archive_off_label": 747,
     "archive_biomarkers": 13642,
-    "archive_trials": 4648,
+    "archive_trials": 4649,
     "archive_mind_body": 442
   }
 }
