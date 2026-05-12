@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12T04:05:50.338Z",
+  "last_updated": "2026-05-12T04:06:01.118Z",
   "categories": {
     "supplements": [
       {
@@ -798,6 +798,20 @@
         "added_date": "2026-05-12"
       },
       {
+        "id": "recaXu6u9WKPNi9uy",
+        "title": "CRLF2 rearrangement and extramedullary disease in B-cell acute lymphoblastic leukemia: a possible link?",
+        "summary": "CRLF2 genetic mutation in B-cell leukemia is strongly linked to spread of cancer outside the bone marrow, occurring in 90% of affected patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41707115/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-05-12"
+      },
+      {
         "id": "reckt88G8kZLsaEqm",
         "title": "Gallium-Containing Agents for Tumor Diagnosis and Therapy: Current Status and Future Prospects.",
         "summary": "Gallium-based agents improve cancer diagnosis and treatment by enabling precise imaging and attacking tumors through multiple biological mechanisms.",
@@ -838,20 +852,6 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-11"
-      },
-      {
-        "id": "rece4kZG3g3savoLG",
-        "title": "Explainable artificial intelligence with pyramid vision transformer model for multi-class malignant cell classification on cytology slides.",
-        "summary": "AI model accurately classifies cancer cells in tissue samples with 98% accuracy, reducing pathologist workload and improving diagnostic consistency.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42106425/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-11"
       }
     ],
     "mind_body": []
@@ -863,10 +863,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 22206,
+    "archive_count": 22207,
     "archive_supplements": 2422,
     "archive_off_label": 747,
-    "archive_biomarkers": 13651,
+    "archive_biomarkers": 13652,
     "archive_trials": 4652,
     "archive_mind_body": 442
   }
