@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12T06:05:41.091Z",
+  "last_updated": "2026-05-12T06:05:59.624Z",
   "categories": {
     "supplements": [
       {
@@ -171,6 +171,20 @@
         "added_date": "2026-05-12"
       },
       {
+        "id": "recSdjfkuShhWEDs8",
+        "title": "Curcumin as a neuroprotective agent against platinum-induced peripheral neuropathy: a double-blind randomized clinical trial.",
+        "summary": "Curcumin, a natural compound, reduced nerve damage caused by platinum chemotherapy in cancer patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42115508/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-12"
+      },
+      {
         "id": "rec7WqLbFafOjskij",
         "title": "EGCG-mediated selenium nanoparticles protect against 5-fluorouracil-induced cardiotoxicity via Nrf2/Keap1 signaling.",
         "summary": "EGCG-selenium nanoparticles protect the heart from 5-fluorouracil chemotherapy damage by reducing oxidative stress and inflammation.",
@@ -195,20 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-11"
-      },
-      {
-        "id": "recKED5tSxJFVEFUY",
-        "title": "Enhancing the therapeutic efficacy of curcumin in topical applications through nanoformulations.",
-        "summary": "Nanoformulations enhance curcumin's absorption in skin, improving its effectiveness against skin cancer and wound healing.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42107059/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Melanoma"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-11"
       }
@@ -862,10 +862,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 22352,
+    "archive_count": 22353,
     "archive_supplements": 2430,
     "archive_off_label": 748,
-    "archive_biomarkers": 13771,
+    "archive_biomarkers": 13772,
     "archive_trials": 4669,
     "archive_mind_body": 442
   }
