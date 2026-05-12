@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12T04:11:50.750Z",
+  "last_updated": "2026-05-12T04:12:01.192Z",
   "categories": {
     "supplements": [
       {
@@ -27,6 +27,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-12"
+      },
+      {
+        "id": "recAT0Nqi8Elo1v8k",
+        "title": "Vitexin inhibits renal cell carcinoma progression by targeting Galectin-1-mediated glycolytic metabolism.",
+        "summary": "Vitexin, a natural compound, slows renal cell carcinoma growth by blocking a protein that fuels cancer cell metabolism.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42113369/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Kidney"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-12"
       },
@@ -190,20 +204,6 @@
         "title": "Hypovitaminosis D in acute inpatient cancer rehabilitation: Prevalence, predictors, and practical implications.",
         "summary": "Most cancer patients in rehabilitation have low vitamin D levels, which may worsen their health outcomes and recovery.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42104875/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-11"
-      },
-      {
-        "id": "receUD8OiItGyQ9e5",
-        "title": "Myricetin Alleviates Vibrio vulnificus Elastase-Induced Autophagy and Apoptosis in Human Intestinal Epithelial Cells via Inhibition of NF-κB-Mediated Signaling.",
-        "summary": "Myricetin, a plant flavonoid, protects intestinal cells from a bacterial toxin by reducing harmful cellular stress signals and preventing cell death.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42107546/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -863,10 +863,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 22237,
+    "archive_count": 22238,
     "archive_supplements": 2423,
     "archive_off_label": 747,
-    "archive_biomarkers": 13676,
+    "archive_biomarkers": 13677,
     "archive_trials": 4657,
     "archive_mind_body": 442
   }
