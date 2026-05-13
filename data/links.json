@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-13T04:10:28.837Z",
+  "last_updated": "2026-05-13T04:10:40.597Z",
   "categories": {
     "supplements": [
       {
@@ -41,6 +41,20 @@
           "Kidney"
         ],
         "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-13"
+      },
+      {
+        "id": "rec2IrYLV9Otb49LL",
+        "title": "Corydaline overcomes doxorubicin resistance in oral cancer by activating the p53-Bax-caspase axis and inhibiting MMP-driven invasion: an in vitro, in vivo, and in silico study.",
+        "summary": "Corydaline, a natural compound, overcomes doxorubicin resistance in oral cancer by triggering cell death and blocking tumor spread.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42118460/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-13"
       },
@@ -189,20 +203,6 @@
         "title": "Protective effect of docosahexaenoic acid (DHA) against prenatal cytarabine exposure-induced developmental toxicity in SD rat.",
         "summary": "DHA omega-3 fatty acid protects rat fetuses against developmental damage from cytarabine, a blood cancer drug.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42115397/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-12"
-      },
-      {
-        "id": "recslzd5H2eH5XdNb",
-        "title": "Pharmacokinetics, pharmacodynamics and formulation strategies for enhanced bioavailability of baicalein: an update.",
-        "summary": "Baicalein, a plant flavonoid, shows cancer-fighting potential but needs improved formulations to increase its bioavailability for clinical use.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42115395/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 22492,
+    "archive_count": 22493,
     "archive_supplements": 2441,
     "archive_off_label": 748,
-    "archive_biomarkers": 13848,
+    "archive_biomarkers": 13849,
     "archive_trials": 4721,
     "archive_mind_body": 442
   }
