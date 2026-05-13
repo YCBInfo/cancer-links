@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-13T04:09:18.662Z",
+  "last_updated": "2026-05-13T04:09:34.344Z",
   "categories": {
     "supplements": [
       {
@@ -13,6 +13,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-13"
+      },
+      {
+        "id": "recWKNOxS5QQc6rsO",
+        "title": "Phytocannabinoids as epigenetic regulators: bridging DNA methylation and redox homeostasis in glioblastoma.",
+        "summary": "Cannabinoids inhibit glioblastoma progression alone or combined with chemotherapy by reducing oxidative DNA damage.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42118523/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Brain"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-13"
       },
@@ -189,20 +203,6 @@
         "title": "Curcumin as a neuroprotective agent against platinum-induced peripheral neuropathy: a double-blind randomized clinical trial.",
         "summary": "Curcumin, a natural compound, reduced nerve damage caused by platinum chemotherapy in cancer patients.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42115508/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-12"
-      },
-      {
-        "id": "rec1OiWF8lCahiOYM",
-        "title": "Timing of food intake, chrononutritional behavior patterns, and risk of metabolic syndrome in the French NutriNet-Santé cohort.",
-        "summary": "Later breakfast timing in women and evening eating patterns in men show sex-specific associations with metabolic syndrome risk.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42115288/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -859,11 +859,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 22486,
+    "archive_count": 22487,
     "archive_supplements": 2441,
     "archive_off_label": 748,
     "archive_biomarkers": 13844,
-    "archive_trials": 4719,
+    "archive_trials": 4720,
     "archive_mind_body": 442
   }
 }
