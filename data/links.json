@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-13T04:09:58.762Z",
+  "last_updated": "2026-05-13T04:10:06.348Z",
   "categories": {
     "supplements": [
       {
@@ -25,6 +25,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-13"
+      },
+      {
+        "id": "recES8M4PPSB9SSmQ",
+        "title": "Effect of tobacco avoidance on the incidence of non-hereditary renal cell carcinoma in patients over 18 years of age: systematic review and meta-analysis.",
+        "summary": "Avoiding tobacco significantly reduces the risk of kidney cancer in adults without a family history of the disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42118473/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Kidney"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -189,20 +203,6 @@
         "title": "Pharmacokinetics, pharmacodynamics and formulation strategies for enhanced bioavailability of baicalein: an update.",
         "summary": "Baicalein, a plant flavonoid, shows cancer-fighting potential but needs improved formulations to increase its bioavailability for clinical use.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42115395/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-12"
-      },
-      {
-        "id": "recSdjfkuShhWEDs8",
-        "title": "Curcumin as a neuroprotective agent against platinum-induced peripheral neuropathy: a double-blind randomized clinical trial.",
-        "summary": "Curcumin, a natural compound, reduced nerve damage caused by platinum chemotherapy in cancer patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42115508/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 22489,
+    "archive_count": 22490,
     "archive_supplements": 2441,
     "archive_off_label": 748,
-    "archive_biomarkers": 13845,
+    "archive_biomarkers": 13846,
     "archive_trials": 4721,
     "archive_mind_body": 442
   }
