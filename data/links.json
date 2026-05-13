@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-13T04:12:22.204Z",
+  "last_updated": "2026-05-13T04:12:31.733Z",
   "categories": {
     "supplements": [
       {
@@ -229,6 +229,20 @@
         "added_date": "2026-05-13"
       },
       {
+        "id": "recnXRt96BUcGoURw",
+        "title": "Targeting the GSK-3β/mTOR axis to overcome chemoresistance in gestational choriocarcinoma: molecular mechanisms and therapeutic opportunities.",
+        "summary": "Blocking GSK-3β and mTOR proteins may overcome chemotherapy resistance in gestational choriocarcinoma by restoring cancer cell death.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42118332/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-13"
+      },
+      {
         "id": "recAMaexRSjEwa2UH",
         "title": "Integrated clinical and computational data-based repurposing of econazole as a novel autophagic activator in ULK1-related Parkinson disease.",
         "summary": "Econazole, an existing antifungal drug, activates autophagy and shows promise for treating Parkinson disease by clearing toxic protein aggregates.",
@@ -407,20 +421,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-11"
-      },
-      {
-        "id": "recRiRU5U4ClcPsI6",
-        "title": "When the host is not healthy: Rethinking tuberculosis drug targets in comorbid conditions.",
-        "summary": "TB drugs work differently in patients with other diseases; research should test treatments in realistic conditions with comorbidities like diabetes and cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42107457/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-11"
       }
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 22502,
+    "archive_count": 22503,
     "archive_supplements": 2443,
     "archive_off_label": 748,
-    "archive_biomarkers": 13856,
+    "archive_biomarkers": 13857,
     "archive_trials": 4721,
     "archive_mind_body": 442
   }
