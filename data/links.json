@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-13T04:18:40.309Z",
+  "last_updated": "2026-05-13T04:18:54.039Z",
   "categories": {
     "supplements": [
       {
@@ -81,6 +81,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-13"
+      },
+      {
+        "id": "recq1bwFEZxdRc2eu",
+        "title": "Bacteroides thetaiotaomicron Improves Colorectal Cancer Prognosis by Remodeling the Immune Microenvironment.",
+        "summary": "A specific gut bacterium called Bacteroides thetaiotaomicron improves colorectal cancer outcomes by changing the immune environment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42117299/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -195,20 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-12"
-      },
-      {
-        "id": "reckg9ocDbsRvvaCH",
-        "title": "The phytochemical analysis of Carissa macrocarpa, cytotoxic potential of fractions, and the molecular modulation on p53 expression in HT-29 and LS174T cell lines.",
-        "summary": "Carissa macrocarpa plant extracts kill colorectal cancer cells by activating p53 tumor suppressor through flavonoid compounds.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42114831/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-12"
       }
@@ -859,11 +859,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 22536,
+    "archive_count": 22537,
     "archive_supplements": 2445,
     "archive_off_label": 748,
     "archive_biomarkers": 13880,
-    "archive_trials": 4729,
+    "archive_trials": 4730,
     "archive_mind_body": 442
   }
 }
