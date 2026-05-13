@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-13T04:18:17.515Z",
+  "last_updated": "2026-05-13T04:18:29.910Z",
   "categories": {
     "supplements": [
       {
@@ -63,6 +63,20 @@
         "title": "JAK/STAT3 axis in breast cancer: opportunities for intervention with natural phytochemical-based nanotherapeutics.",
         "summary": "Nanoparticle delivery of natural plant compounds like resveratrol could improve breast cancer treatment by better targeting cancer-driving STAT3 proteins.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42118362/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-13"
+      },
+      {
+        "id": "recVWOU85J1kKvJnS",
+        "title": "Biophysical and biological evaluation of free and liposomal doxorubicin and β-carotene reveals enhanced therapeutic selectivity in MCF-7 breast cancer cells.",
+        "summary": "Liposomal delivery of doxorubicin with β-carotene reduces breast cancer cell toxicity while minimizing damage to healthy cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42117345/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -191,20 +205,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/42114831/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-12"
-      },
-      {
-        "id": "reckKmcYelyMdJYEI",
-        "title": "The role of STAT3 in regulating ferroptosis in cancer: molecular mechanisms and targeted therapeutic perspectives.",
-        "summary": "STAT3 protein blocks ferroptosis in colorectal cancer cells; blocking STAT3 with drugs may trigger this alternative cell death pathway.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42115758/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Colorectal"
         ],
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 22534,
+    "archive_count": 22535,
     "archive_supplements": 2445,
     "archive_off_label": 748,
-    "archive_biomarkers": 13878,
+    "archive_biomarkers": 13879,
     "archive_trials": 4729,
     "archive_mind_body": 442
   }
