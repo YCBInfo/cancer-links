@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-13T04:27:01.164Z",
+  "last_updated": "2026-05-13T04:27:17.575Z",
   "categories": {
     "supplements": [
       {
@@ -243,6 +243,20 @@
         "added_date": "2026-05-13"
       },
       {
+        "id": "recxw0cMXfZ0LQGY1",
+        "title": "Rituximab Beyond Oncology: Targeting B-Cell-Mediated Immunomodulatory Therapy in Neurodegenerative and Neuropsychiatric Disorders.",
+        "summary": "Rituximab, a B-cell-targeting drug, shows promise treating multiple neurological disorders by reducing brain inflammation and protecting neurons.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42116599/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-13"
+      },
+      {
         "id": "recAMaexRSjEwa2UH",
         "title": "Integrated clinical and computational data-based repurposing of econazole as a novel autophagic activator in ULK1-related Parkinson disease.",
         "summary": "Econazole, an existing antifungal drug, activates autophagy and shows promise for treating Parkinson disease by clearing toxic protein aggregates.",
@@ -403,20 +417,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/42107555/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-11"
-      },
-      {
-        "id": "rec6enpGzCVKA5oxK",
-        "title": "Environmentally relevant concentrations of PFDA exacerbate inflammatory bowel disease through impairing macrophagic efferocytosis of apoptotic intestinal epithelial cells.",
-        "summary": "PFDA chemical exposure worsens inflammatory bowel disease by damaging immune cells, but metformin may reverse this harmful effect.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42105603/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
         "cancer_types": [
           "General"
         ],
@@ -859,8 +859,8 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 22578,
-    "archive_supplements": 2447,
+    "archive_count": 22579,
+    "archive_supplements": 2448,
     "archive_off_label": 748,
     "archive_biomarkers": 13914,
     "archive_trials": 4735,
