@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-13T09:04:20.699Z",
+  "last_updated": "2026-05-13T09:04:35.165Z",
   "categories": {
     "supplements": [
       {
@@ -327,6 +327,34 @@
         "added_date": "2026-05-13"
       },
       {
+        "id": "recbbIBezdz52x3Hx",
+        "title": "Aspirin mitigates sepsis-associated encephalopathy by modulating ICAM-1 and MMP-9 signaling: Evidence from clinical cohorts and mechanistic experiments.",
+        "summary": "Aspirin reduces sepsis-associated brain inflammation and cognitive damage by suppressing immune cell adhesion and protecting the blood-brain barrier.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42119687/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 22,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-13"
+      },
+      {
+        "id": "recljQSKdWeBQnCqL",
+        "title": "Phase III randomized placebo-controlled trial on repurposing olanzapine for prevention of radiotherapy induced nausea and vomiting (RINV): CTRI/2022/01/039723.",
+        "summary": "Olanzapine, an existing psychiatric drug, significantly reduced nausea and vomiting in cancer patients undergoing abdominal-pelvic radiation therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42119640/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 26,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-13"
+      },
+      {
         "id": "recAMaexRSjEwa2UH",
         "title": "Integrated clinical and computational data-based repurposing of econazole as a novel autophagic activator in ULK1-related Parkinson disease.",
         "summary": "Econazole, an existing antifungal drug, activates autophagy and shows promise for treating Parkinson disease by clearing toxic protein aggregates.",
@@ -395,34 +423,6 @@
         "quality_score": 26,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-12"
-      },
-      {
-        "id": "recSmGKBB6aspyzxz",
-        "title": "Identification of PRRG1 as a possible molecular target of pancreatic cancer.",
-        "summary": "PRRG1 protein drives pancreatic cancer growth through a key signaling pathway, and low-dose warfarin effectively blocks this effect.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42108282/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Pancreatic"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-11"
-      },
-      {
-        "id": "recCKHfk4EmGeVwCU",
-        "title": "Targeting UXS1-Dependent Glucuronate Detoxification Potentiates Metformin's Anti-Tumor Efficacy in Lung Adenocarcinoma.",
-        "summary": "Blocking UXS1 enzyme combined with metformin kills lung adenocarcinoma cells and boosts immune responses in preclinical studies.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42107063/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-11"
       }
     ],
     "biomarkers": [
@@ -859,11 +859,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 22717,
+    "archive_count": 22718,
     "archive_supplements": 2465,
     "archive_off_label": 751,
     "archive_biomarkers": 13991,
-    "archive_trials": 4776,
+    "archive_trials": 4777,
     "archive_mind_body": 442
   }
 }
