@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14T06:07:10.273Z",
+  "last_updated": "2026-05-14T06:07:22.557Z",
   "categories": {
     "supplements": [
       {
@@ -285,6 +285,20 @@
         "added_date": "2026-05-14"
       },
       {
+        "id": "recS2AqbEmIcOhckQ",
+        "title": "Implications of Glucagon-Like Peptide-1 Receptor Agonists in Otolaryngology - Head and Neck Surgery: A Review.",
+        "summary": "GLP-1 receptor agonists show mixed effects in head and neck health, potentially helping sleep apnea and hearing loss while raising concerns about reflux, hearing changes, and possible thyroid cancer risk.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42126155/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Thyroid"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-14"
+      },
+      {
         "id": "recmUp8tGFvBqLw5Z",
         "title": "Soluble Uric Acid Drives CD8⁺ T-cell Exhaustion by Inducing KSR1-Mediated MAPK Hyperactivation.",
         "summary": "High uric acid exhausts immune cells in colorectal cancer; lowering it restores anti-tumor immunity and enhances immunotherapy effectiveness.",
@@ -407,20 +421,6 @@
           "General"
         ],
         "quality_score": 22,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-13"
-      },
-      {
-        "id": "recljQSKdWeBQnCqL",
-        "title": "Phase III randomized placebo-controlled trial on repurposing olanzapine for prevention of radiotherapy induced nausea and vomiting (RINV): CTRI/2022/01/039723.",
-        "summary": "Olanzapine, an existing psychiatric drug, significantly reduced nausea and vomiting in cancer patients undergoing abdominal-pelvic radiation therapy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42119640/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 26,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-13"
       }
@@ -859,11 +859,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 22959,
+    "archive_count": 22960,
     "archive_supplements": 2481,
     "archive_off_label": 757,
     "archive_biomarkers": 14170,
-    "archive_trials": 4817,
+    "archive_trials": 4818,
     "archive_mind_body": 442
   }
 }
