@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14T04:08:52.200Z",
+  "last_updated": "2026-05-14T04:09:04.361Z",
   "categories": {
     "supplements": [
       {
@@ -39,6 +39,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-14"
+      },
+      {
+        "id": "rechD9qabuTokmQRF",
+        "title": "Mechanistic insights into ferroptosis in thyroid cancer and its therapeutic implications.",
+        "summary": "Triggering ferroptosis, an iron-dependent cell death pathway, shows promise for treating thyroid cancer and overcoming radioiodine resistance.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42126739/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Thyroid"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -195,20 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-13"
-      },
-      {
-        "id": "rec9SvprdpCeAuazl",
-        "title": "High-fat diet reshapes microbial interactions to promote breast cancer stemness via Streptococcus mutans-induced leucine accumulation.",
-        "summary": "High-fat diets alter gut bacteria in ways that promote breast cancer growth through increased leucine production.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42116192/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-13"
       }
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 22775,
+    "archive_count": 22776,
     "archive_supplements": 2468,
     "archive_off_label": 754,
-    "archive_biomarkers": 14028,
+    "archive_biomarkers": 14029,
     "archive_trials": 4791,
     "archive_mind_body": 442
   }
