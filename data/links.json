@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14T10:03:06.864Z",
+  "last_updated": "2026-05-14T11:29:44.642Z",
   "categories": {
     "supplements": [
       {
@@ -341,6 +341,20 @@
         "added_date": "2026-05-14"
       },
       {
+        "id": "rec10eNHMCyLHXYUU",
+        "title": "Brain FGF2 and NCAM1 contribute to FGFR1-dependent progression of ER+ breast cancer brain metastases in young and aged hosts",
+        "summary": "FGFR1-amplified ER+ breast cancer spreads to the brain through FGF2 and NCAM1 signaling, which FGFR inhibitors can block early.",
+        "url": "https://www.biorxiv.org/content/10.1101/2025.06.07.658373",
+        "source": "bioRxiv",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-30",
+        "added_date": "2026-05-14"
+      },
+      {
         "id": "recmUp8tGFvBqLw5Z",
         "title": "Soluble Uric Acid Drives CD8⁺ T-cell Exhaustion by Inducing KSR1-Mediated MAPK Hyperactivation.",
         "summary": "High uric acid exhausts immune cells in colorectal cancer; lowering it restores anti-tumor immunity and enhances immunotherapy effectiveness.",
@@ -407,20 +421,6 @@
           "Leukemia"
         ],
         "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-13"
-      },
-      {
-        "id": "recC4P12MyTrTNNGN",
-        "title": "Decreased PP2A expression and activity represent a therapeutic target for plexiform neurofibroma.",
-        "summary": "Restoring PP2A phosphatase activity with FTY720 suppresses neurofibroma growth in NF1, alone and combined with MEK inhibitors.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42116118/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-13"
       }
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23025,
+    "archive_count": 23026,
     "archive_supplements": 2490,
     "archive_off_label": 761,
-    "archive_biomarkers": 14199,
+    "archive_biomarkers": 14200,
     "archive_trials": 4841,
     "archive_mind_body": 442
   }
