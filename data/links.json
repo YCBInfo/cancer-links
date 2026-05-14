@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14T04:11:16.991Z",
+  "last_updated": "2026-05-14T04:11:28.948Z",
   "categories": {
     "supplements": [
       {
@@ -243,6 +243,20 @@
         "added_date": "2026-05-14"
       },
       {
+        "id": "recmOlufhKcrVbicr",
+        "title": "Orlistat potentiates the gemcitabine effect in inhibiting the malignant biological behavior of nasopharyngeal carcinoma by downregulating PKM2.",
+        "summary": "Adding the weight loss drug orlistat to gemcitabine chemotherapy improves treatment effectiveness against nasopharyngeal cancer by reducing a specific cancer-promoting protein.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42126649/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-14"
+      },
+      {
         "id": "recmUp8tGFvBqLw5Z",
         "title": "Soluble Uric Acid Drives CD8⁺ T-cell Exhaustion by Inducing KSR1-Mediated MAPK Hyperactivation.",
         "summary": "High uric acid exhausts immune cells in colorectal cancer; lowering it restores anti-tumor immunity and enhances immunotherapy effectiveness.",
@@ -405,20 +419,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-12"
-      },
-      {
-        "id": "recIBNEMgnRbgGtCS",
-        "title": "Ascites protects against ferroptosis and enables the peritoneal growth of ovarian cancer.",
-        "summary": "Ascites fluid protects ovarian cancer cells from ferroptosis, enabling peritoneal metastasis; fibrates may reverse this protection.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42115216/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Ovarian"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -859,11 +859,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 22788,
+    "archive_count": 22789,
     "archive_supplements": 2470,
     "archive_off_label": 754,
     "archive_biomarkers": 14038,
-    "archive_trials": 4792,
+    "archive_trials": 4793,
     "archive_mind_body": 442
   }
 }
