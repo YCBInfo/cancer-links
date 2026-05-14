@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14T06:10:28.683Z",
+  "last_updated": "2026-05-14T06:10:39.893Z",
   "categories": {
     "supplements": [
       {
@@ -299,6 +299,20 @@
         "added_date": "2026-05-14"
       },
       {
+        "id": "recwdjpUQDlvL6VSl",
+        "title": "Sodium-glucose cotransporter 2 inhibitors and the risk of kidney cancer among patients with type 2 diabetes: a population-based cohort study.",
+        "summary": "SGLT2 inhibitors may reduce kidney cancer risk in type 2 diabetes patients compared to alternative diabetes medications.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42121200/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Kidney"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-14"
+      },
+      {
         "id": "recmUp8tGFvBqLw5Z",
         "title": "Soluble Uric Acid Drives CD8⁺ T-cell Exhaustion by Inducing KSR1-Mediated MAPK Hyperactivation.",
         "summary": "High uric acid exhausts immune cells in colorectal cancer; lowering it restores anti-tumor immunity and enhances immunotherapy effectiveness.",
@@ -407,20 +421,6 @@
           "General"
         ],
         "quality_score": 19,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-13"
-      },
-      {
-        "id": "recbbIBezdz52x3Hx",
-        "title": "Aspirin mitigates sepsis-associated encephalopathy by modulating ICAM-1 and MMP-9 signaling: Evidence from clinical cohorts and mechanistic experiments.",
-        "summary": "Aspirin reduces sepsis-associated brain inflammation and cognitive damage by suppressing immune cell adhesion and protecting the blood-brain barrier.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42119687/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 22,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-13"
       }
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 22976,
+    "archive_count": 22977,
     "archive_supplements": 2487,
     "archive_off_label": 758,
-    "archive_biomarkers": 14176,
+    "archive_biomarkers": 14177,
     "archive_trials": 4821,
     "archive_mind_body": 442
   }
