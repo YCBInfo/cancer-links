@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14T04:15:56.951Z",
+  "last_updated": "2026-05-14T04:16:07.986Z",
   "categories": {
     "supplements": [
       {
@@ -91,6 +91,20 @@
         "title": "The interplay of Ashwagandha with hormonal dynamics and gut microbiota in women with breast cancer: a tri-axial perspective.",
         "summary": "Ashwagandha may help fight breast cancer by suppressing tumor growth, boosting immune response, and altering gut bacteria, though clinical testing is needed.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42126475/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-14"
+      },
+      {
+        "id": "rectIKSFSrpGrnZdu",
+        "title": "Natural Products as Modulators of ABC Transporters in Breast Cancer.",
+        "summary": "Natural plant products can inhibit drug-resistant breast cancer by blocking transporters that remove chemotherapy drugs from cancer cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42126194/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -193,20 +207,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-13"
-      },
-      {
-        "id": "receDDFnDXsPEZeGj",
-        "title": "Cardioprotective effects of platycodon grandiflorum granules in HER2-positive early breast cancer patients receiving trastuzumab plus pertuzumab: study protocol for a double blind randomized controlled trial.",
-        "summary": "Study tests whether platycodon grandiflorum granules can protect the heart from damage in HER2-positive breast cancer patients receiving trastuzumab plus pertuzumab treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42116119/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -859,8 +859,8 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 22813,
-    "archive_supplements": 2472,
+    "archive_count": 22814,
+    "archive_supplements": 2473,
     "archive_off_label": 755,
     "archive_biomarkers": 14053,
     "archive_trials": 4799,
