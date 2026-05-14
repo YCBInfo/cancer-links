@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14T02:34:58.463Z",
+  "last_updated": "2026-05-14T04:03:21.959Z",
   "categories": {
     "supplements": [
       {
@@ -215,6 +215,20 @@
     ],
     "off_label": [
       {
+        "id": "recnWxfNLZTEJtrwf",
+        "title": "ICMT supports BRAFV600E-driven tumor growth by membrane targeting of the CAAX protein INPP5E.",
+        "summary": "Blocking ICMT protein in melanoma prevents a cancer-supporting protein from reaching cell membranes, slowing tumor growth.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42127111/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Melanoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-14"
+      },
+      {
         "id": "recmUp8tGFvBqLw5Z",
         "title": "Soluble Uric Acid Drives CD8⁺ T-cell Exhaustion by Inducing KSR1-Mediated MAPK Hyperactivation.",
         "summary": "High uric acid exhausts immune cells in colorectal cancer; lowering it restores anti-tumor immunity and enhances immunotherapy effectiveness.",
@@ -409,20 +423,6 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-12"
-      },
-      {
-        "id": "recP7hmxApfyCjVDE",
-        "title": "Current applications and development of dual-target inhibitors of Ido1/TDO: From tumor immunology to neuropsychiatric disorders.",
-        "summary": "Dual-targeting IDO1 and TDO enzymes shows promise for cancer immunotherapy by overcoming single-drug resistance and tumor immune evasion.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42114227/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 26,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-12"
       }
     ],
     "biomarkers": [
@@ -435,6 +435,133 @@
         "category": "Clinical Trials",
         "cancer_types": [
           "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-14"
+      },
+      {
+        "id": "recWrbh5NYQLtVOrX",
+        "title": "Novel multiplex immunofluorescence-based tumor inflammation score provides apparent predictive biomarker in a phase I/II study of pembrolizumab with gemcitabine in patients with previously-treated advanced non-small cell lung cancer (NSCLC).",
+        "summary": "A new tumor inflammation score combining immune cell relationships better predicts lung cancer treatment response than standard biomarkers in pembrolizumab studies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42126144/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-14"
+      },
+      {
+        "id": "recMKlb7z8xNd7WNJ",
+        "title": "Centromere protein I promotes hepatocellular carcinoma progression by activating PI3K/AKT/mTOR-CDK2 cascade.",
+        "summary": "A protein called CENPI drives hepatocellular carcinoma progression by activating a cellular growth pathway, potentially offering a new treatment target.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42124320/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-14"
+      },
+      {
+        "id": "recbap8cCfRFDVFmC",
+        "title": "Results of breast cancer risk assessment and hereditary cancer genetic testing in community obstetrics and gynaecology practice following a prospective quality Improvement initiative.",
+        "summary": "A community women's health program successfully integrated hereditary breast cancer genetic testing, improving identification of high-risk patients needing specialized care.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42127212/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-14"
+      },
+      {
+        "id": "recEUXT0SdtGLwIUc",
+        "title": "Wt1 facilitates visceral beige fat formation to combat abdominal obesity.",
+        "summary": "Wt1 gene promotes heat-generating beige fat in abdominal tissue, offering a potential treatment for obesity caused by diet or steroids.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42125880/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-14"
+      },
+      {
+        "id": "recu7WKDmFoUGEvKg",
+        "title": "Reprogramming endogenous NK circuits by highly efficient nonviral genome editing.",
+        "summary": "Researchers developed a highly efficient method to genetically reprogram natural killer cells without viruses, enabling improved cancer-fighting capabilities and clinical manufacturing.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42126429/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-14"
+      },
+      {
+        "id": "recK2aZtrODO11KQM",
+        "title": "Regulatory T cells sabotage anti-tumor γδ T cells by creating IL-2-deficient environments.",
+        "summary": "Removing regulatory T cells unleashes immune cells that fight breast cancer by restoring their access to a critical growth signal.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42126428/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-14"
+      },
+      {
+        "id": "rec0tM7WmNabiYRSR",
+        "title": "Beyond chromatin accessibility: bulk ATAC-seq as an integrative assay to portray genomes and epigenomes.",
+        "summary": "ATAC-seq can detect genetic mutations, DNA copy changes, and telomere content, offering a cost-effective alternative to standard sequencing for cancer profiling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42125447/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Melanoma",
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-14"
+      },
+      {
+        "id": "receUvKyHLpWbiQXR",
+        "title": "Hepatocyte growth factor/c-Met signaling axis in human diseases: Mechanistic insights and therapeutic potential.",
+        "summary": "HGF/c-Met pathway dysregulation drives cancer and other diseases, offering therapeutic targets through c-Met inhibitors and HGF antagonists.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42124894/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-14"
+      },
+      {
+        "id": "recnWxfNLZTEJtrwf",
+        "title": "ICMT supports BRAFV600E-driven tumor growth by membrane targeting of the CAAX protein INPP5E.",
+        "summary": "Blocking ICMT protein in melanoma prevents a cancer-supporting protein from reaching cell membranes, slowing tumor growth.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42127111/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Melanoma"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -509,132 +636,6 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-13"
-      },
-      {
-        "id": "recwkE2wL4fYTLZsI",
-        "title": "Choroid plexus cyst burden is associated with glymphatic dysfunction and cognitive impairment in hepatic encephalopathy.",
-        "summary": "Choroid plexus cysts in hepatic encephalopathy patients are linked to impaired brain fluid clearance and cognitive decline.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42118981/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-13"
-      },
-      {
-        "id": "recZsvPDG13ffMPiX",
-        "title": "PRECISE-seq reveals disease-relevant TCR repertoires with phenotypic plasticity.",
-        "summary": "PRECISE-seq reveals that tumor T cells adopt a regulatory state blocked by PD-1 inhibition, improving immunotherapy response prediction.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42118153/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-13"
-      },
-      {
-        "id": "recUQk8wGKq4GZpI1",
-        "title": "Epithelial chemokine CCL25 integrates T cell development and intestinal homeostasis.",
-        "summary": "Epithelial cells use CCL25 protein to guide T cell development in the thymus and maintain intestinal health through tissue-specific signaling.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42118152/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-13"
-      },
-      {
-        "id": "rec95Nh4O5vu0yxDN",
-        "title": "Integrative genomic and functional characterization of FAM3 family genes reveals their diagnostic and prognostic roles in kidney renal clear cell carcinoma.",
-        "summary": "FAM3 family genes show diagnostic and prognostic potential in kidney cancer, with epigenetic changes driving their dysregulation and affecting treatment response.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42117032/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-13"
-      },
-      {
-        "id": "recX84pOiIYQwEwLn",
-        "title": "Identification of immunostimulatory antigens in Group A Streptococcus-derived vesicles.",
-        "summary": "Researchers identified seven bacterial proteins in Group A Streptococcus vesicles that trigger immune responses and could form a broadly protective vaccine.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42118829/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-13"
-      },
-      {
-        "id": "receheuJo1azWncAL",
-        "title": "Glutaredoxin-1 attenuates transactive response DNA-binding protein 43-induced neurotoxicity by suppressing oxidative stress and transactive response DNA-binding protein 43 aggregation.",
-        "summary": "Glutaredoxin-1 enzyme reduces nerve cell damage from toxic TDP-43 protein buildup by lowering oxidative stress and preventing protein clumping.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42015737/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-13"
-      },
-      {
-        "id": "recLpm28QQQ61P9R5",
-        "title": "Inhibition of CCL4 prevents renal inflammation and fibrosis in acute kidney injury.",
-        "summary": "Blocking CCL4 protein reduces kidney inflammation and damage in acute kidney injury by suppressing harmful immune responses.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41774048/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-05-13"
-      },
-      {
-        "id": "recaf7obCMsW8GI5q",
-        "title": "Comparison of preoperative breast cancer disease extent on contrast-enhanced mammography (CEM) versus magnetic resonance imaging (MRI).",
-        "summary": "Contrast-enhanced mammography and MRI perform similarly in detecting breast cancer size and additional tumors before surgery.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42119266/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-13"
-      },
-      {
-        "id": "recVsKEOjcuSSQlew",
-        "title": "CBL proto-oncogene C-mediated synaptophysin 1 regulates prostate cancer progression in the TGF-beta signalling pathway.",
-        "summary": "Researchers identified synaptophysin 1 as a key regulator of prostate cancer progression through the TGF-beta signaling pathway.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42119245/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Prostate"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-13"
       }
     ],
     "trials": [
@@ -677,6 +678,48 @@
           "Breast"
         ],
         "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-14"
+      },
+      {
+        "id": "recWrbh5NYQLtVOrX",
+        "title": "Novel multiplex immunofluorescence-based tumor inflammation score provides apparent predictive biomarker in a phase I/II study of pembrolizumab with gemcitabine in patients with previously-treated advanced non-small cell lung cancer (NSCLC).",
+        "summary": "A new tumor inflammation score combining immune cell relationships better predicts lung cancer treatment response than standard biomarkers in pembrolizumab studies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42126144/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-14"
+      },
+      {
+        "id": "recbap8cCfRFDVFmC",
+        "title": "Results of breast cancer risk assessment and hereditary cancer genetic testing in community obstetrics and gynaecology practice following a prospective quality Improvement initiative.",
+        "summary": "A community women's health program successfully integrated hereditary breast cancer genetic testing, improving identification of high-risk patients needing specialized care.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42127212/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-14"
+      },
+      {
+        "id": "recu7WKDmFoUGEvKg",
+        "title": "Reprogramming endogenous NK circuits by highly efficient nonviral genome editing.",
+        "summary": "Researchers developed a highly efficient method to genetically reprogram natural killer cells without viruses, enabling improved cancer-fighting capabilities and clinical manufacturing.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42126429/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-14"
       },
@@ -806,48 +849,6 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-13"
-      },
-      {
-        "id": "recTg67fLpQaslkCg",
-        "title": "Targeting PRMT9 Overcomes Venetoclax Resistance in AML by Modulating Splicing and Inhibiting Translation.",
-        "summary": "Blocking PRMT9 restores venetoclax effectiveness in drug-resistant acute myeloid leukemia by reducing drug efflux and survival proteins.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42118690/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-13"
-      },
-      {
-        "id": "recHmix7ib5tUZ1jd",
-        "title": "CD4+ T-cells sensitize quasi-mesenchymal breast tumors lacking CD73 to anti-CTLA4 immune checkpoint blockade therapy.",
-        "summary": "Blocking CD73 in breast tumors restores CD4+ T-cell function, making immunotherapy effective against previously resistant cancers.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42118667/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-13"
-      },
-      {
-        "id": "recVfImOuZI4FLJ7U",
-        "title": "Development and validation of subtype and risk models for kinase-related genes as novel prognostic features in breast cancer.",
-        "summary": "Researchers identified breast cancer subtypes and created a prognostic model using kinase genes to better predict patient outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42118602/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-13"
       }
     ],
     "mind_body": []
@@ -859,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 22747,
+    "archive_count": 22748,
     "archive_supplements": 2467,
     "archive_off_label": 753,
-    "archive_biomarkers": 14003,
+    "archive_biomarkers": 14004,
     "archive_trials": 4790,
     "archive_mind_body": 442
   }
