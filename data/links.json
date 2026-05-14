@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14T04:03:33.417Z",
+  "last_updated": "2026-05-14T04:03:47.670Z",
   "categories": {
     "supplements": [
       {
@@ -582,6 +582,34 @@
         "added_date": "2026-05-14"
       },
       {
+        "id": "recu1glczgqYSmvTz",
+        "title": "From hotspots to hotspaces: Cascaded photonic-plasmonic coupling for SERS-based deep profiling of whole small extracellular vesicles.",
+        "summary": "Researchers developed a new technology that detects colorectal cancer biomarkers in blood with 99.8% accuracy by improving how light interacts with tiny particles.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42127195/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-14"
+      },
+      {
+        "id": "recwpqVVGds1kuINm",
+        "title": "Glycerol-mediated nose-to-brain codelivery of anti-IL-17 and anti-CD73 antibodies enhances immunotherapy for melanoma brain metastases.",
+        "summary": "Glycerol-assisted nasal delivery of two antibodies effectively treats melanoma brain tumors by boosting immune cell activity and overcoming tumor immune-evasion tactics.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42127192/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Melanoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-14"
+      },
+      {
         "id": "recqluZqa2QkBlKel",
         "title": "Thiamine deficiency in outpatients at a regional cancer centre in Japan: cross-sectional observational study.",
         "summary": "Cancer outpatients at a Japanese center showed significant thiamine deficiency, suggesting routine vitamin screening may benefit this population.",
@@ -600,34 +628,6 @@
         "title": "Psychological stress and immune dysregulation: insights from neuroimmunology and the gut-brain-immune axis.",
         "summary": "Psychological stress impairs immune function through the gut-brain connection, potentially increasing cancer and disease risk.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42114655/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-13"
-      },
-      {
-        "id": "recMlR24XpscgrDnz",
-        "title": "A relative methylation ordering biomarker of lactylation-related genes predicts prognosis and therapeutic response in cutaneous melanoma.",
-        "summary": "Researchers developed a methylation-based biomarker for melanoma that predicts patient survival and response to chemotherapy, immunotherapy, and targeted drugs.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42118848/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Melanoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-13"
-      },
-      {
-        "id": "recrtyvIiEoAmKhZC",
-        "title": "Absence of autoantibodies linked to cancer and autoimmune disorders 26 weeks after BNT162b2 boosting in CoronaVac- primed individuals.",
-        "summary": "Mixed COVID-19 vaccination (CoronaVac then BNT162b2 booster) showed no increase in cancer or autoimmune-related autoantibodies after 26 weeks.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42118165/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -720,6 +720,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-14"
+      },
+      {
+        "id": "recwpqVVGds1kuINm",
+        "title": "Glycerol-mediated nose-to-brain codelivery of anti-IL-17 and anti-CD73 antibodies enhances immunotherapy for melanoma brain metastases.",
+        "summary": "Glycerol-assisted nasal delivery of two antibodies effectively treats melanoma brain tumors by boosting immune cell activity and overcoming tumor immune-evasion tactics.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42127192/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Melanoma"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-14"
       },
@@ -835,20 +849,6 @@
         "quality_score": 20,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-13"
-      },
-      {
-        "id": "rec7p0fGF7yQcv8Ap",
-        "title": "How we prevent infections in adults receiving bispecific antibody therapies for advanced B-cell malignancies.",
-        "summary": "Researchers propose infection prevention strategies for B-cell cancer patients receiving bispecific antibody therapies, which frequently cause dangerous immune suppression.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42118692/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Lymphoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-13"
       }
     ],
     "mind_body": []
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 22749,
+    "archive_count": 22750,
     "archive_supplements": 2467,
     "archive_off_label": 753,
-    "archive_biomarkers": 14005,
+    "archive_biomarkers": 14006,
     "archive_trials": 4790,
     "archive_mind_body": 442
   }
