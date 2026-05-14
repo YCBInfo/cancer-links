@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14T04:22:51.565Z",
+  "last_updated": "2026-05-14T04:23:05.293Z",
   "categories": {
     "supplements": [
       {
@@ -257,6 +257,20 @@
         "added_date": "2026-05-14"
       },
       {
+        "id": "recn8WgAY6TyN4OBA",
+        "title": "HOXD11-NMDAR signaling drives neuroendocrine prostate cancer and enables potential therapeutic intervention as a target of memantine.",
+        "summary": "HOXD11 drives treatment-resistant neuroendocrine prostate cancer, and the drug memantine may block this transformation by targeting NMDAR signaling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42126948/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-14"
+      },
+      {
         "id": "recmUp8tGFvBqLw5Z",
         "title": "Soluble Uric Acid Drives CD8⁺ T-cell Exhaustion by Inducing KSR1-Mediated MAPK Hyperactivation.",
         "summary": "High uric acid exhausts immune cells in colorectal cancer; lowering it restores anti-tumor immunity and enhances immunotherapy effectiveness.",
@@ -407,20 +421,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-12"
-      },
-      {
-        "id": "reckKmcYelyMdJYEI",
-        "title": "The role of STAT3 in regulating ferroptosis in cancer: molecular mechanisms and targeted therapeutic perspectives.",
-        "summary": "STAT3 protein blocks ferroptosis in colorectal cancer cells; blocking STAT3 with drugs may trigger this alternative cell death pathway.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42115758/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-12"
       }
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 22852,
+    "archive_count": 22853,
     "archive_supplements": 2475,
     "archive_off_label": 755,
-    "archive_biomarkers": 14085,
+    "archive_biomarkers": 14086,
     "archive_trials": 4803,
     "archive_mind_body": 442
   }
