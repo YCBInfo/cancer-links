@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-13T11:52:21.858Z",
+  "last_updated": "2026-05-14T02:34:35.588Z",
   "categories": {
     "supplements": [
       {
@@ -427,6 +427,20 @@
     ],
     "biomarkers": [
       {
+        "id": "reccTvPqTlwL9u3Ig",
+        "title": "Highlights of the San Antonio breast cancer symposium 2025 (Part 2).",
+        "summary": "The 2025 San Antonio Breast Cancer Symposium presented advances in breast imaging, targeted drugs, and supportive treatments for improved patient outcomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42125775/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-14"
+      },
+      {
         "id": "recqluZqa2QkBlKel",
         "title": "Thiamine deficiency in outpatients at a regional cancer centre in Japan: cross-sectional observational study.",
         "summary": "Cancer outpatients at a Japanese center showed significant thiamine deficiency, suggesting routine vitamin screening may benefit this population.",
@@ -621,23 +635,51 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-13"
+      }
+    ],
+    "trials": [
+      {
+        "id": "recB9z18GiQvusCJy",
+        "title": "Acupuncture for chemotherapy-induced dysgeusia (AcuDysg): a randomized controlled trial.",
+        "summary": "Acupuncture combined with self-acupressure may help reduce chemotherapy's side effect of taste changes in cancer patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42126652/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-14"
       },
       {
-        "id": "recbCrfsrbcfrdFVs",
-        "title": "Tumor cell-derived exosomal E2F7 promotes colorectal cancer progression by interacting with SMC4 and induced macrophage M2 polarization.",
-        "summary": "Colorectal cancer cells release E2F7 molecules that reprogram immune cells to support tumor growth and progression.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42119232/",
+        "id": "rec5ooZm5NzT9ccwo",
+        "title": "The effect of mindfulness-based stress reduction on chemotherapy-related physical and psychological distress in colorectal cancer patients: a retrospective cohort study.",
+        "summary": "Mindfulness-based stress reduction may help reduce nausea, vomiting, depression, and anxiety in colorectal cancer patients undergoing chemotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42125791/",
         "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
+        "category": "Clinical Trials",
         "cancer_types": [
           "Colorectal"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
-        "added_date": "2026-05-13"
-      }
-    ],
-    "trials": [
+        "added_date": "2026-05-14"
+      },
+      {
+        "id": "reccTvPqTlwL9u3Ig",
+        "title": "Highlights of the San Antonio breast cancer symposium 2025 (Part 2).",
+        "summary": "The 2025 San Antonio Breast Cancer Symposium presented advances in breast imaging, targeted drugs, and supportive treatments for improved patient outcomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42125775/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-14"
+      },
       {
         "id": "recqluZqa2QkBlKel",
         "title": "Thiamine deficiency in outpatients at a regional cancer centre in Japan: cross-sectional observational study.",
@@ -806,48 +848,6 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-13"
-      },
-      {
-        "id": "recC88A8DBiJ5FjIy",
-        "title": "Loss of Kmt2c/d promotes gastric cancer and confers vulnerability to mTORC1 and PD1 inhibition.",
-        "summary": "Loss of KMT2C/D genes drives gastric cancer and makes tumors sensitive to mTORC1 and PD1 inhibitor combination therapy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42118591/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Stomach"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-13"
-      },
-      {
-        "id": "recTEKmCtM5kXKBYY",
-        "title": "Association between risk-reducing salpingooophorectomy and bone health in women with hereditary breast and ovarian cancer syndrome.",
-        "summary": "Removing ovaries to prevent cancer in high-risk women may weaken bones and increase fracture risk.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42118531/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Ovarian"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-13"
-      },
-      {
-        "id": "recsFN6E5pMt8NZvc",
-        "title": "Morphological and molecular characterization of epithelial ovarian cancer: SEOM-SEAP consensus guidelines for biomarker integration in clinical practice.",
-        "summary": "New guidelines recommend testing ovarian cancer tumors for specific genetic mutations and markers to personalize treatment and improve patient outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42118479/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Ovarian"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-13"
       }
     ],
     "mind_body": []
@@ -859,11 +859,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 22744,
+    "archive_count": 22745,
     "archive_supplements": 2467,
     "archive_off_label": 753,
     "archive_biomarkers": 14003,
-    "archive_trials": 4787,
+    "archive_trials": 4788,
     "archive_mind_body": 442
   }
 }
