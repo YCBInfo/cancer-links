@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14T04:13:28.017Z",
+  "last_updated": "2026-05-14T04:13:42.146Z",
   "categories": {
     "supplements": [
       {
@@ -67,6 +67,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Pancreatic"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-14"
+      },
+      {
+        "id": "reczAmAKauVmJH9iZ",
+        "title": "Sijunzi Decoction Reverses Metabolic Adaptation and Induces Ferroptosis in Cisplatin-Resistant Non-small Cell Lung Cancer: An Integrative Metabolomics-Pharmacology Analysis.",
+        "summary": "Sijunzi Decoction overcomes drug resistance in lung cancer by blocking metabolic changes that help cancer cells survive chemotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42126498/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -195,20 +209,6 @@
           "Colorectal"
         ],
         "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-13"
-      },
-      {
-        "id": "rec97xKmVlB8nhWpj",
-        "title": "Effects and potential mechanisms of luteolin on cisplatin mediated inhibition of cervical adenocarcinoma.",
-        "summary": "Luteolin enhances cisplatin's cancer-fighting effects against cervical cancer while reducing drug dosage and toxicity through cell cycle arrest and apoptosis.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42117043/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-13"
       }
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 22800,
+    "archive_count": 22801,
     "archive_supplements": 2471,
     "archive_off_label": 755,
-    "archive_biomarkers": 14044,
+    "archive_biomarkers": 14045,
     "archive_trials": 4796,
     "archive_mind_body": 442
   }
