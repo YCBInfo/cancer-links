@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14T04:36:13.532Z",
+  "last_updated": "2026-05-14T04:36:23.754Z",
   "categories": {
     "supplements": [
       {
@@ -271,6 +271,20 @@
         "added_date": "2026-05-14"
       },
       {
+        "id": "recPwqgSYSYYtaY8i",
+        "title": "Long-term add-on fibrate therapy in Primary Sclerosing Cholangitis: Safety, biochemical response, and disease progression.",
+        "summary": "Long-term fibrate treatment appears safe and may slow disease progression in Primary Sclerosing Cholangitis patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42120283/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-14"
+      },
+      {
         "id": "recmUp8tGFvBqLw5Z",
         "title": "Soluble Uric Acid Drives CD8⁺ T-cell Exhaustion by Inducing KSR1-Mediated MAPK Hyperactivation.",
         "summary": "High uric acid exhausts immune cells in colorectal cancer; lowering it restores anti-tumor immunity and enhances immunotherapy effectiveness.",
@@ -409,20 +423,6 @@
         "quality_score": 26,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-13"
-      },
-      {
-        "id": "recAMaexRSjEwa2UH",
-        "title": "Integrated clinical and computational data-based repurposing of econazole as a novel autophagic activator in ULK1-related Parkinson disease.",
-        "summary": "Econazole, an existing antifungal drug, activates autophagy and shows promise for treating Parkinson disease by clearing toxic protein aggregates.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42112758/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-12"
       }
     ],
     "biomarkers": [
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 22923,
+    "archive_count": 22924,
     "archive_supplements": 2479,
     "archive_off_label": 756,
-    "archive_biomarkers": 14140,
+    "archive_biomarkers": 14141,
     "archive_trials": 4814,
     "archive_mind_body": 442
   }
