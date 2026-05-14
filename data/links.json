@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14T04:13:52.008Z",
+  "last_updated": "2026-05-14T04:14:10.674Z",
   "categories": {
     "supplements": [
       {
@@ -81,6 +81,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-14"
+      },
+      {
+        "id": "rec6vFS65XkM8mBVQ",
+        "title": "The interplay of Ashwagandha with hormonal dynamics and gut microbiota in women with breast cancer: a tri-axial perspective.",
+        "summary": "Ashwagandha may help fight breast cancer by suppressing tumor growth, boosting immune response, and altering gut bacteria, though clinical testing is needed.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42126475/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -193,20 +207,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-13"
-      },
-      {
-        "id": "rec2wTXl3upqDczru",
-        "title": "Nicotinamide attenuates the virulence of colorectal cancer-associated Fusobacterium nucleatum.",
-        "summary": "Nicotinamide, a form of vitamin B3, reduces the virulence of bacteria that promote colorectal cancer growth.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41910433/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 22802,
+    "archive_count": 22803,
     "archive_supplements": 2471,
     "archive_off_label": 755,
-    "archive_biomarkers": 14046,
+    "archive_biomarkers": 14047,
     "archive_trials": 4796,
     "archive_mind_body": 442
   }
