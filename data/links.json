@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14T04:03:47.670Z",
+  "last_updated": "2026-05-14T04:03:58.269Z",
   "categories": {
     "supplements": [
       {
@@ -229,6 +229,20 @@
         "added_date": "2026-05-14"
       },
       {
+        "id": "recBXJXRJVawecrzq",
+        "title": "Preemptive cardioprotection with a small molecule in rodents that suppresses genes predictive of heart failure.",
+        "summary": "A small molecule drug given before heart surgery reduced heart damage by 70% and prevented heart failure in rats by suppressing inflammation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42127187/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 21,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-14"
+      },
+      {
         "id": "recmUp8tGFvBqLw5Z",
         "title": "Soluble Uric Acid Drives CD8⁺ T-cell Exhaustion by Inducing KSR1-Mediated MAPK Hyperactivation.",
         "summary": "High uric acid exhausts immune cells in colorectal cancer; lowering it restores anti-tumor immunity and enhances immunotherapy effectiveness.",
@@ -405,20 +419,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Ovarian"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-12"
-      },
-      {
-        "id": "recqpDmIJkNJNuam8",
-        "title": "Diving into AA9-mediated transglutaminase 2 inhibition reveals ferroptosis as driver of anticancer effects.",
-        "summary": "AA9 inhibitor triggers ferroptosis in triple-negative breast cancer by blocking transglutaminase 2, offering a new treatment approach.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42114680/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -610,24 +610,24 @@
         "added_date": "2026-05-14"
       },
       {
+        "id": "recBXJXRJVawecrzq",
+        "title": "Preemptive cardioprotection with a small molecule in rodents that suppresses genes predictive of heart failure.",
+        "summary": "A small molecule drug given before heart surgery reduced heart damage by 70% and prevented heart failure in rats by suppressing inflammation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42127187/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 21,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-14"
+      },
+      {
         "id": "recqluZqa2QkBlKel",
         "title": "Thiamine deficiency in outpatients at a regional cancer centre in Japan: cross-sectional observational study.",
         "summary": "Cancer outpatients at a Japanese center showed significant thiamine deficiency, suggesting routine vitamin screening may benefit this population.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42114974/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-13"
-      },
-      {
-        "id": "recHHzz8hZkUbkSxE",
-        "title": "Psychological stress and immune dysregulation: insights from neuroimmunology and the gut-brain-immune axis.",
-        "summary": "Psychological stress impairs immune function through the gut-brain connection, potentially increasing cancer and disease risk.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42114655/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 22750,
+    "archive_count": 22751,
     "archive_supplements": 2467,
     "archive_off_label": 753,
-    "archive_biomarkers": 14006,
+    "archive_biomarkers": 14007,
     "archive_trials": 4790,
     "archive_mind_body": 442
   }
