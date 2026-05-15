@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-15T04:10:04.809Z",
+  "last_updated": "2026-05-15T04:10:17.947Z",
   "categories": {
     "supplements": [
       {
@@ -243,6 +243,20 @@
         "added_date": "2026-05-15"
       },
       {
+        "id": "rec4AWHLah0ltxWrI",
+        "title": "Nintedanib is a potent FLT3 inhibitor with activity against FLT3-ITD and overcomes the gatekeeper F691L resistance mutation in acute myeloid leukemia.",
+        "summary": "Nintedanib, a lung disease drug, effectively treats acute myeloid leukemia by blocking FLT3 mutations, even resistant ones.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42035942/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-15"
+      },
+      {
         "id": "recnWxfNLZTEJtrwf",
         "title": "ICMT supports BRAFV600E-driven tumor growth by membrane targeting of the CAAX protein INPP5E.",
         "summary": "Blocking ICMT protein in melanoma prevents a cancer-supporting protein from reaching cell membranes, slowing tumor growth.",
@@ -403,20 +417,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/42118332/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-13"
-      },
-      {
-        "id": "recxw0cMXfZ0LQGY1",
-        "title": "Rituximab Beyond Oncology: Targeting B-Cell-Mediated Immunomodulatory Therapy in Neurodegenerative and Neuropsychiatric Disorders.",
-        "summary": "Rituximab, a B-cell-targeting drug, shows promise treating multiple neurological disorders by reducing brain inflammation and protecting neurons.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42116599/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
         "cancer_types": [
           "General"
         ],
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23065,
+    "archive_count": 23066,
     "archive_supplements": 2490,
     "archive_off_label": 763,
-    "archive_biomarkers": 14232,
+    "archive_biomarkers": 14233,
     "archive_trials": 4846,
     "archive_mind_body": 442
   }
