@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-15T04:04:48.636Z",
+  "last_updated": "2026-05-15T04:05:01.388Z",
   "categories": {
     "supplements": [
       {
@@ -215,6 +215,20 @@
     ],
     "off_label": [
       {
+        "id": "recSpglYuOwyS3NN8",
+        "title": "Dopamine D2 Receptor Agonists as Modulators of VEGF-A-Driven Angiogenesis: Mechanisms, Clinical Evidence, and Translational Opportunities.",
+        "summary": "Dopamine D2 receptor agonists suppress tumor blood vessel growth by blocking VEGF-A signaling, offering a potential new cancer treatment approach.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42117522/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-15"
+      },
+      {
         "id": "recnWxfNLZTEJtrwf",
         "title": "ICMT supports BRAFV600E-driven tumor growth by membrane targeting of the CAAX protein INPP5E.",
         "summary": "Blocking ICMT protein in melanoma prevents a cancer-supporting protein from reaching cell membranes, slowing tumor growth.",
@@ -407,20 +421,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-13"
-      },
-      {
-        "id": "recT6O0ITTX3pXKYO",
-        "title": "mTOR inhibition promotes ATRA-induced cancer cell differentiation by overcoming a metabolic hyperactive state.",
-        "summary": "Combining mTOR inhibitors with vitamin A derivative ATRA improves cancer cell maturation in treatment-resistant acute myeloid leukemia and solid tumors.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42116148/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-13"
       }
@@ -624,18 +624,18 @@
         "added_date": "2026-05-15"
       },
       {
-        "id": "reccTvPqTlwL9u3Ig",
-        "title": "Highlights of the San Antonio breast cancer symposium 2025 (Part 2).",
-        "summary": "The 2025 San Antonio Breast Cancer Symposium presented advances in breast imaging, targeted drugs, and supportive treatments for improved patient outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42125775/",
+        "id": "recSpglYuOwyS3NN8",
+        "title": "Dopamine D2 Receptor Agonists as Modulators of VEGF-A-Driven Angiogenesis: Mechanisms, Clinical Evidence, and Translational Opportunities.",
+        "summary": "Dopamine D2 receptor agonists suppress tumor blood vessel growth by blocking VEGF-A signaling, offering a potential new cancer treatment approach.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42117522/",
         "source": "PubMed",
-        "category": "Clinical Trials",
+        "category": "Off-Label Medications",
         "cancer_types": [
-          "Breast"
+          "General"
         ],
-        "quality_score": 15,
+        "quality_score": 12,
         "pub_date": "2026-05-01",
-        "added_date": "2026-05-14"
+        "added_date": "2026-05-15"
       }
     ],
     "trials": [
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23038,
+    "archive_count": 23039,
     "archive_supplements": 2490,
     "archive_off_label": 761,
-    "archive_biomarkers": 14210,
+    "archive_biomarkers": 14211,
     "archive_trials": 4843,
     "archive_mind_body": 442
   }
