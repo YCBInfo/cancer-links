@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-15T04:23:50.091Z",
+  "last_updated": "2026-05-15T04:24:00.893Z",
   "categories": {
     "supplements": [
       {
@@ -70,6 +70,20 @@
         ],
         "quality_score": 10,
         "pub_date": "2026-01-01",
+        "added_date": "2026-05-15"
+      },
+      {
+        "id": "recmaUjhXozGqjjzP",
+        "title": "The mechanism of acetyl-L-carnitine on colorectal cancer and its metabolomic study.",
+        "summary": "Acetyl-L-carnitine inhibits colorectal cancer growth by increasing oxidative stress and altering key metabolic pathways in tumor cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41610723/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 13,
+        "pub_date": "2026-02-01",
         "added_date": "2026-05-15"
       },
       {
@@ -195,20 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-14"
-      },
-      {
-        "id": "recQTGAs7X3jxt4Rg",
-        "title": "Liquorice alters adipocyte-breast cancer cell crosstalk by modulating oxidative stress and suppressing aromatase and renin-angiotensin signalling.",
-        "summary": "Liquorice root extract reduces breast cancer cell growth by altering fat cell signals that normally promote tumors.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42121312/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-14"
       }
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23141,
+    "archive_count": 23142,
     "archive_supplements": 2493,
     "archive_off_label": 764,
-    "archive_biomarkers": 14296,
+    "archive_biomarkers": 14297,
     "archive_trials": 4854,
     "archive_mind_body": 442
   }
