@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-15T04:33:12.457Z",
+  "last_updated": "2026-05-15T04:34:26.495Z",
   "categories": {
     "supplements": [
       {
@@ -101,6 +101,20 @@
         "added_date": "2026-05-15"
       },
       {
+        "id": "recP8RxtOWwDVFKNt",
+        "title": "Piperlongumine inhibits the proliferation and migration of non-small cell lung cancer cells through the EGFR/FAK/STAT3 pathway.",
+        "summary": "Piperlongumine, a natural compound, stops non-small cell lung cancer cells from growing and spreading by blocking a specific cellular pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42133146/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-15"
+      },
+      {
         "id": "rec4733dngFPH4vR1",
         "title": "Luteolin Ameliorates Sepsis-Induced Acute Lung Injury by Targeting RPTPα to Reprogram Macrophage M1-M2 Polarization.",
         "summary": "Luteolin, a natural compound, reduces lung inflammation in sepsis by targeting a protein that reprograms immune cells from pro-inflammatory to anti-inflammatory states.",
@@ -197,20 +211,6 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-14"
-      },
-      {
-        "id": "rectIKSFSrpGrnZdu",
-        "title": "Natural Products as Modulators of ABC Transporters in Breast Cancer.",
-        "summary": "Natural plant products can inhibit drug-resistant breast cancer by blocking transporters that remove chemotherapy drugs from cancer cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42126194/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-14"
       }
     ],
     "off_label": [
@@ -282,6 +282,20 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
+        "added_date": "2026-05-15"
+      },
+      {
+        "id": "rec9qmgAh62nOBYWb",
+        "title": "Unraveling the molecular landscape and therapeutic strategies for acute kidney injury: insights from transcriptomics, network pharmacology, virtual screening, and in vitro experiments.",
+        "summary": "Researchers identified three key genes and three existing drugs that may help treat acute kidney injury by targeting inflammation and oxidative stress.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42133161/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
         "added_date": "2026-05-15"
       },
       {
@@ -408,20 +422,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
-        "added_date": "2026-05-14"
-      },
-      {
-        "id": "rec10eNHMCyLHXYUU",
-        "title": "Brain FGF2 and NCAM1 contribute to FGFR1-dependent progression of ER+ breast cancer brain metastases in young and aged hosts",
-        "summary": "FGFR1-amplified ER+ breast cancer spreads to the brain through FGF2 and NCAM1 signaling, which FGFR inhibitors can block early.",
-        "url": "https://www.biorxiv.org/content/10.1101/2025.06.07.658373",
-        "source": "bioRxiv",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-30",
         "added_date": "2026-05-14"
       }
     ],
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23191,
+    "archive_count": 23192,
     "archive_supplements": 2497,
     "archive_off_label": 764,
-    "archive_biomarkers": 14336,
+    "archive_biomarkers": 14337,
     "archive_trials": 4860,
     "archive_mind_body": 442
   }
