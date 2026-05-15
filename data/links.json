@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-15T04:06:17.647Z",
+  "last_updated": "2026-05-15T04:06:30.841Z",
   "categories": {
     "supplements": [
       {
@@ -752,6 +752,34 @@
         "added_date": "2026-05-15"
       },
       {
+        "id": "rec9X7KTwONwmAzVP",
+        "title": "Distinct cytokines regulate gene expression and anti-tumor activity in regenerated CD8+ T cells from induced pluripotent stem cells.",
+        "summary": "IL-15 and IL-7 enhance the anti-tumor activity of lab-grown immune cells created from stem cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42100743/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-15"
+      },
+      {
+        "id": "recPB4inhbxk40RVE",
+        "title": "Association of baseline eosinophil counts with clinical prognosis in cancer patients undergoing immune checkpoint inhibitor therapy.",
+        "summary": "Higher baseline eosinophil counts predict better survival and treatment response in cancer patients receiving immune checkpoint inhibitor therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42100735/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-15"
+      },
+      {
         "id": "recB9z18GiQvusCJy",
         "title": "Acupuncture for chemotherapy-induced dysgeusia (AcuDysg): a randomized controlled trial.",
         "summary": "Acupuncture combined with self-acupressure may help reduce chemotherapy's side effect of taste changes in cancer patients.",
@@ -820,34 +848,6 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-14"
-      },
-      {
-        "id": "recu7WKDmFoUGEvKg",
-        "title": "Reprogramming endogenous NK circuits by highly efficient nonviral genome editing.",
-        "summary": "Researchers developed a highly efficient method to genetically reprogram natural killer cells without viruses, enabling improved cancer-fighting capabilities and clinical manufacturing.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42126429/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-14"
-      },
-      {
-        "id": "recwpqVVGds1kuINm",
-        "title": "Glycerol-mediated nose-to-brain codelivery of anti-IL-17 and anti-CD73 antibodies enhances immunotherapy for melanoma brain metastases.",
-        "summary": "Glycerol-assisted nasal delivery of two antibodies effectively treats melanoma brain tumors by boosting immune cell activity and overcoming tumor immune-evasion tactics.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42127192/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Melanoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-14"
       }
     ],
     "mind_body": []
@@ -859,11 +859,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23045,
+    "archive_count": 23046,
     "archive_supplements": 2490,
     "archive_off_label": 761,
     "archive_biomarkers": 14215,
-    "archive_trials": 4845,
+    "archive_trials": 4846,
     "archive_mind_body": 442
   }
 }
