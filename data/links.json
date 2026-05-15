@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-15T04:07:43.876Z",
+  "last_updated": "2026-05-15T04:07:52.697Z",
   "categories": {
     "supplements": [
       {
@@ -229,6 +229,20 @@
         "added_date": "2026-05-15"
       },
       {
+        "id": "rec47fBjWEqT6bylQ",
+        "title": "Simvastatin Restores Cisplatin Sensitivity by Suppressing the Caveolin-1-Mediated PI3K/AKT Signaling Pathway in Cisplatin-Resistant Cervical Cancer Cells.",
+        "summary": "Simvastatin restores cisplatin effectiveness in resistant cervical cancer by blocking a key resistance pathway, suggesting it could improve chemotherapy outcomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42087353/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-15"
+      },
+      {
         "id": "recnWxfNLZTEJtrwf",
         "title": "ICMT supports BRAFV600E-driven tumor growth by membrane targeting of the CAAX protein INPP5E.",
         "summary": "Blocking ICMT protein in melanoma prevents a cancer-supporting protein from reaching cell membranes, slowing tumor growth.",
@@ -403,20 +417,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/42116599/",
         "source": "PubMed",
         "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-13"
-      },
-      {
-        "id": "recWshOvuFSQqr9Dm",
-        "title": "The telomerase/shelterin system is impaired in acromegaly and Cushing´s disease: Potential pathophysiological relevance.",
-        "summary": "Pituitary tumor cells show abnormal telomerase activity that can be blocked with a drug to reduce growth, potentially offering a new treatment approach.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42116249/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23052,
+    "archive_count": 23053,
     "archive_supplements": 2490,
     "archive_off_label": 762,
-    "archive_biomarkers": 14220,
+    "archive_biomarkers": 14221,
     "archive_trials": 4846,
     "archive_mind_body": 442
   }
