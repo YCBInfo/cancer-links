@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-15T07:04:42.924Z",
+  "last_updated": "2026-05-15T07:04:50.116Z",
   "categories": {
     "supplements": [
       {
@@ -344,6 +344,20 @@
         "added_date": "2026-05-15"
       },
       {
+        "id": "recl4ZzH2S1YgRrHH",
+        "title": "A Pilot Study of Chemoprevention With Tamoxifen in Patients With Pre-Invasive Pancreas Mucinous Cystic Neoplasms Who Will Not Undergo Immediate Resection",
+        "summary": "Researchers test tamoxifen to shrink or stabilize pancreatic precancerous cysts, potentially avoiding surgery.",
+        "url": "https://clinicaltrials.gov/study/NCT06320990",
+        "source": "ClinicalTrials.gov",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Pancreatic"
+        ],
+        "quality_score": 13,
+        "pub_date": "2026-05-14",
+        "added_date": "2026-05-15"
+      },
+      {
         "id": "recnWxfNLZTEJtrwf",
         "title": "ICMT supports BRAFV600E-driven tumor growth by membrane targeting of the CAAX protein INPP5E.",
         "summary": "Blocking ICMT protein in melanoma prevents a cancer-supporting protein from reaching cell membranes, slowing tumor growth.",
@@ -410,20 +424,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-14"
-      },
-      {
-        "id": "recS2AqbEmIcOhckQ",
-        "title": "Implications of Glucagon-Like Peptide-1 Receptor Agonists in Otolaryngology - Head and Neck Surgery: A Review.",
-        "summary": "GLP-1 receptor agonists show mixed effects in head and neck health, potentially helping sleep apnea and hearing loss while raising concerns about reflux, hearing changes, and possible thyroid cancer risk.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42126155/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Thyroid"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-14"
       }
@@ -862,11 +862,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23291,
+    "archive_count": 23292,
     "archive_supplements": 2510,
     "archive_off_label": 766,
     "archive_biomarkers": 14403,
-    "archive_trials": 4878,
+    "archive_trials": 4879,
     "archive_mind_body": 442
   }
 }
