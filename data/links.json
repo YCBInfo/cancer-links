@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-15T07:06:34.848Z",
+  "last_updated": "2026-05-15T07:06:46.705Z",
   "categories": {
     "supplements": [
       {
@@ -358,6 +358,20 @@
         "added_date": "2026-05-15"
       },
       {
+        "id": "recGKnWMShuwdPmtI",
+        "title": "NIDA CTN-0152: Evaluation of Tirzepatide as an Adjunct to Buprenorphine for the Treatment of Opioid Use Disorder: A Pragmatic, Multi-site, Double-blind, Randomized, Placebo-controlled Trial (TAB)",
+        "summary": "Study tests whether tirzepatide added to buprenorphine improves treatment outcomes for opioid use disorder.",
+        "url": "https://clinicaltrials.gov/study/NCT06651177",
+        "source": "ClinicalTrials.gov",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 10,
+        "pub_date": "2026-05-14",
+        "added_date": "2026-05-15"
+      },
+      {
         "id": "recnWxfNLZTEJtrwf",
         "title": "ICMT supports BRAFV600E-driven tumor growth by membrane targeting of the CAAX protein INPP5E.",
         "summary": "Blocking ICMT protein in melanoma prevents a cancer-supporting protein from reaching cell membranes, slowing tumor growth.",
@@ -410,20 +424,6 @@
           "Prostate"
         ],
         "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-14"
-      },
-      {
-        "id": "recPwqgSYSYYtaY8i",
-        "title": "Long-term add-on fibrate therapy in Primary Sclerosing Cholangitis: Safety, biochemical response, and disease progression.",
-        "summary": "Long-term fibrate treatment appears safe and may slow disease progression in Primary Sclerosing Cholangitis patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42120283/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-14"
       }
@@ -862,11 +862,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23300,
+    "archive_count": 23301,
     "archive_supplements": 2511,
     "archive_off_label": 766,
     "archive_biomarkers": 14406,
-    "archive_trials": 4883,
+    "archive_trials": 4884,
     "archive_mind_body": 442
   }
 }
