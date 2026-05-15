@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-15T06:12:26.951Z",
+  "last_updated": "2026-05-15T06:12:41.469Z",
   "categories": {
     "supplements": [
       {
@@ -330,6 +330,20 @@
         "added_date": "2026-05-15"
       },
       {
+        "id": "recuOBZfVvkKA6zC1",
+        "title": "Integrated Multiomics Analysis Suggests Statin-Associated Perturbation of DNA Repair Signaling in Colorectal Cancer Cells.",
+        "summary": "Statins disrupt DNA repair signaling in colorectal cancer cells, potentially making them more vulnerable to chemotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42130116/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-15"
+      },
+      {
         "id": "recnWxfNLZTEJtrwf",
         "title": "ICMT supports BRAFV600E-driven tumor growth by membrane targeting of the CAAX protein INPP5E.",
         "summary": "Blocking ICMT protein in melanoma prevents a cancer-supporting protein from reaching cell membranes, slowing tumor growth.",
@@ -408,20 +422,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Thyroid"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-14"
-      },
-      {
-        "id": "recwdjpUQDlvL6VSl",
-        "title": "Sodium-glucose cotransporter 2 inhibitors and the risk of kidney cancer among patients with type 2 diabetes: a population-based cohort study.",
-        "summary": "SGLT2 inhibitors may reduce kidney cancer risk in type 2 diabetes patients compared to alternative diabetes medications.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42121200/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Kidney"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -862,10 +862,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23260,
+    "archive_count": 23261,
     "archive_supplements": 2505,
     "archive_off_label": 765,
-    "archive_biomarkers": 14388,
+    "archive_biomarkers": 14389,
     "archive_trials": 4868,
     "archive_mind_body": 442
   }
