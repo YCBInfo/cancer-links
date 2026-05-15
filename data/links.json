@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-05-15T04:08:59.091Z",
+  "last_updated": "2026-05-15T04:09:09.514Z",
   "categories": {
     "supplements": [
+      {
+        "id": "rec2eFSRI5cL6UHj5",
+        "title": "Newly isolated human-derived Lactobacillus fermentum strain stimulates IFN-γ-secreting CD8+ T cells for enhanced anti-cancer immunity.",
+        "summary": "A probiotic bacterium (Lactobacillus fermentum MI37) enhances cancer immunotherapy by activating immune cells through a specific bacterial component called lipoteichoic acid.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42063558/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-15"
+      },
       {
         "id": "rec4733dngFPH4vR1",
         "title": "Luteolin Ameliorates Sepsis-Induced Acute Lung Injury by Targeting RPTPα to Reprogram Macrophage M1-M2 Polarization.",
@@ -196,20 +210,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
-        "added_date": "2026-05-14"
-      },
-      {
-        "id": "recsoTWiMTjKyukkv",
-        "title": "Case study, clinical trials, critical analysis and mechanistic overview of conventional and resistant breast cancer treatment using functionalized albumin nanoparticles: a comprehensive review.",
-        "summary": "Albumin nanoparticles show promise as targeted drug delivery systems for breast cancer, including drug-resistant cases, with FDA-approved formulations demonstrating improved outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41844476/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
         "added_date": "2026-05-14"
       }
     ],
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23059,
+    "archive_count": 23060,
     "archive_supplements": 2490,
     "archive_off_label": 762,
-    "archive_biomarkers": 14227,
+    "archive_biomarkers": 14228,
     "archive_trials": 4846,
     "archive_mind_body": 442
   }
