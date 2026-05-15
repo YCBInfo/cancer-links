@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-15T04:07:02.361Z",
+  "last_updated": "2026-05-15T04:07:14.320Z",
   "categories": {
     "supplements": [
       {
@@ -794,6 +794,34 @@
         "added_date": "2026-05-15"
       },
       {
+        "id": "recrVgDmUtqOFJSEx",
+        "title": "Inhibiting MDM2 enhances RIPK3-mediated necroptosis and synergizes with immune checkpoint blockade therapy.",
+        "summary": "Blocking MDM2 boosts tumor cell death and enhances immunotherapy effectiveness by activating immune responses against cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42095082/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-15"
+      },
+      {
+        "id": "recAf7afTtKBiKoov",
+        "title": "Prognostic impact of ASXL1 mutations in acute myeloid leukemia treated with lower intensity therapy.",
+        "summary": "ASXL1 mutations in acute myeloid leukemia no longer predict poor outcomes when treated with newer lower-intensity venetoclax-based therapies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42089434/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-15"
+      },
+      {
         "id": "recB9z18GiQvusCJy",
         "title": "Acupuncture for chemotherapy-induced dysgeusia (AcuDysg): a randomized controlled trial.",
         "summary": "Acupuncture combined with self-acupressure may help reduce chemotherapy's side effect of taste changes in cancer patients.",
@@ -820,34 +848,6 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-14"
-      },
-      {
-        "id": "reccTvPqTlwL9u3Ig",
-        "title": "Highlights of the San Antonio breast cancer symposium 2025 (Part 2).",
-        "summary": "The 2025 San Antonio Breast Cancer Symposium presented advances in breast imaging, targeted drugs, and supportive treatments for improved patient outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42125775/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-14"
-      },
-      {
-        "id": "recWrbh5NYQLtVOrX",
-        "title": "Novel multiplex immunofluorescence-based tumor inflammation score provides apparent predictive biomarker in a phase I/II study of pembrolizumab with gemcitabine in patients with previously-treated advanced non-small cell lung cancer (NSCLC).",
-        "summary": "A new tumor inflammation score combining immune cell relationships better predicts lung cancer treatment response than standard biomarkers in pembrolizumab studies.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42126144/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-14"
       }
     ],
     "mind_body": []
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23048,
+    "archive_count": 23049,
     "archive_supplements": 2490,
     "archive_off_label": 762,
-    "archive_biomarkers": 14216,
+    "archive_biomarkers": 14217,
     "archive_trials": 4846,
     "archive_mind_body": 442
   }
