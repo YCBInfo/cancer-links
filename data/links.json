@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-15T04:26:22.326Z",
+  "last_updated": "2026-05-15T04:26:33.683Z",
   "categories": {
     "supplements": [
       {
@@ -84,6 +84,20 @@
         ],
         "quality_score": 13,
         "pub_date": "2026-02-01",
+        "added_date": "2026-05-15"
+      },
+      {
+        "id": "rec6keSLl55SW7YlT",
+        "title": "Exercise serum promotes DNA damage repair and remodels gene expression in colon cancer cells.",
+        "summary": "Exercise-conditioned blood enhances DNA repair and reduces proliferation in colon cancer cells through circulating bioactive molecules.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41387212/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 13,
+        "pub_date": "2026-03-01",
         "added_date": "2026-05-15"
       },
       {
@@ -195,20 +209,6 @@
           "Breast"
         ],
         "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-14"
-      },
-      {
-        "id": "recX8fmqOcXTVJYL6",
-        "title": "Diet and risk of multiple myeloma: findings from a case-control study.",
-        "summary": "Healthier diets reduce multiple myeloma risk, while inflammatory and insulin-promoting diets increase risk.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42124491/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-14"
       }
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23155,
+    "archive_count": 23156,
     "archive_supplements": 2496,
     "archive_off_label": 764,
-    "archive_biomarkers": 14306,
+    "archive_biomarkers": 14307,
     "archive_trials": 4855,
     "archive_mind_body": 442
   }
