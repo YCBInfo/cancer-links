@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-15T06:07:59.242Z",
+  "last_updated": "2026-05-15T06:08:09.892Z",
   "categories": {
     "supplements": [
       {
@@ -157,6 +157,23 @@
         "added_date": "2026-05-15"
       },
       {
+        "id": "rec1mgZiSBdNxtMew",
+        "title": "Biological activities and therapeutic potential of soy isoflavones: a focus on anticancer activity.",
+        "summary": "Soy isoflavones show promise as affordable, safe adjunctive cancer treatments through multiple mechanisms including cell death promotion and immune activation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42133114/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Prostate",
+          "Bladder",
+          "Liver",
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-15"
+      },
+      {
         "id": "rec4733dngFPH4vR1",
         "title": "Luteolin Ameliorates Sepsis-Induced Acute Lung Injury by Targeting RPTPα to Reprogram Macrophage M1-M2 Polarization.",
         "summary": "Luteolin, a natural compound, reduces lung inflammation in sepsis by targeting a protein that reprograms immune cells from pro-inflammatory to anti-inflammatory states.",
@@ -193,20 +210,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-14"
-      },
-      {
-        "id": "rechD9qabuTokmQRF",
-        "title": "Mechanistic insights into ferroptosis in thyroid cancer and its therapeutic implications.",
-        "summary": "Triggering ferroptosis, an iron-dependent cell death pathway, shows promise for treating thyroid cancer and overcoming radioiodine resistance.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42126739/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Thyroid"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -859,11 +862,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23237,
+    "archive_count": 23238,
     "archive_supplements": 2500,
     "archive_off_label": 764,
     "archive_biomarkers": 14374,
-    "archive_trials": 4865,
+    "archive_trials": 4866,
     "archive_mind_body": 442
   }
 }
