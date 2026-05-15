@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-15T04:39:22.046Z",
+  "last_updated": "2026-05-15T06:02:47.127Z",
   "categories": {
     "supplements": [
       {
@@ -115,6 +115,20 @@
         "added_date": "2026-05-15"
       },
       {
+        "id": "recY5pmOfVuYAiAXe",
+        "title": "Seaweed bioactives: A comprehensive review of their nutritional, medicinal, and functional roles.",
+        "summary": "Seaweed compounds show promise as anti-cancer, anti-inflammatory, and antioxidant agents, though processing and absorption challenges remain.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42095085/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-15"
+      },
+      {
         "id": "rec4733dngFPH4vR1",
         "title": "Luteolin Ameliorates Sepsis-Induced Acute Lung Injury by Targeting RPTPα to Reprogram Macrophage M1-M2 Polarization.",
         "summary": "Luteolin, a natural compound, reduces lung inflammation in sepsis by targeting a protein that reprograms immune cells from pro-inflammatory to anti-inflammatory states.",
@@ -193,20 +207,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-14"
-      },
-      {
-        "id": "rec6vFS65XkM8mBVQ",
-        "title": "The interplay of Ashwagandha with hormonal dynamics and gut microbiota in women with breast cancer: a tri-axial perspective.",
-        "summary": "Ashwagandha may help fight breast cancer by suppressing tumor growth, boosting immune response, and altering gut bacteria, though clinical testing is needed.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42126475/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -296,6 +296,20 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-05-01",
+        "added_date": "2026-05-15"
+      },
+      {
+        "id": "rechn2eXdIxuDeA47",
+        "title": "NUP62 promotes breast cancer progression and inhibits ferroptosis by stabilizing NRF2 in a KEAP1-dependent way.",
+        "summary": "NUP62 protein drives breast cancer growth by blocking cell death; the drug eribulin reverses this by targeting NUP62.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42016308/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
         "added_date": "2026-05-15"
       },
       {
@@ -407,20 +421,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-14"
-      },
-      {
-        "id": "recHZimrK6uFnzjPG",
-        "title": "Dual Targeting Strategy: Colchicine and Paclitaxel Combination Against Prostate Cancer Cells Colchicine-Paclitaxel Synergy in Prostate Cancer.",
-        "summary": "Combining colchicine and paclitaxel drugs shows promise against drug-resistant prostate cancer cells in laboratory studies.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42124735/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Prostate"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-14"
       }
@@ -859,11 +859,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23219,
+    "archive_count": 23220,
     "archive_supplements": 2498,
     "archive_off_label": 764,
     "archive_biomarkers": 14361,
-    "archive_trials": 4862,
+    "archive_trials": 4863,
     "archive_mind_body": 442
   }
 }
