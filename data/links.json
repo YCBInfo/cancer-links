@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-15T06:06:38.196Z",
+  "last_updated": "2026-05-15T06:07:01.734Z",
   "categories": {
     "supplements": [
       {
@@ -313,6 +313,20 @@
         "added_date": "2026-05-15"
       },
       {
+        "id": "recqLTt0SABRf9CsT",
+        "title": "Mechanism of CRM1 Inhibition by Lansoprazole and Its Synergy with Cisplatin in Gastric Cancer.",
+        "summary": "Lansoprazole inhibits a cancer protein (CRM1) in gastric cancer and works synergistically with cisplatin to improve treatment outcomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42134807/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-15"
+      },
+      {
         "id": "recnWxfNLZTEJtrwf",
         "title": "ICMT supports BRAFV600E-driven tumor growth by membrane targeting of the CAAX protein INPP5E.",
         "summary": "Blocking ICMT protein in melanoma prevents a cancer-supporting protein from reaching cell membranes, slowing tumor growth.",
@@ -407,20 +421,6 @@
           "Kidney"
         ],
         "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-14"
-      },
-      {
-        "id": "recLBwzxK4nc1KJIG",
-        "title": "Timing and duration of glucagon-like peptide-1 receptor agonist use and risk of nonarteritic anterior ischaemic optic neuropathy.",
-        "summary": "GLP-1 receptor agonists, used for diabetes, may increase the risk of a type of vision loss called nonarteritic anterior ischemic optic neuropathy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42126975/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-14"
       }
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23230,
+    "archive_count": 23232,
     "archive_supplements": 2500,
     "archive_off_label": 764,
-    "archive_biomarkers": 14367,
+    "archive_biomarkers": 14369,
     "archive_trials": 4865,
     "archive_mind_body": 442
   }
