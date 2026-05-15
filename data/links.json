@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-15T04:03:41.813Z",
+  "last_updated": "2026-05-15T04:03:51.092Z",
   "categories": {
     "supplements": [
       {
@@ -696,6 +696,20 @@
         "added_date": "2026-05-15"
       },
       {
+        "id": "rec7CSsBKvJScUQEN",
+        "title": "A Phase II Evaluation of the Efficacy and Safety of Sacituzumab Govitecan in Patients with Recurrent Uterine Cancer.",
+        "summary": "A new drug called sacituzumab govitecan shows promise treating advanced uterine cancer patients who didn't respond to previous treatments.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42132892/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-15"
+      },
+      {
         "id": "recB9z18GiQvusCJy",
         "title": "Acupuncture for chemotherapy-induced dysgeusia (AcuDysg): a randomized controlled trial.",
         "summary": "Acupuncture combined with self-acupressure may help reduce chemotherapy's side effect of taste changes in cancer patients.",
@@ -834,20 +848,6 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-14"
-      },
-      {
-        "id": "recO65XDpvp6tUwKC",
-        "title": "uPAR is highly expressed in recurrent glioblastoma and represents a candidate CAR T cell target.",
-        "summary": "Researchers identified uPAR protein as a promising target for CAR T cell therapy in recurrent glioblastoma, showing strong anti-tumor activity in patient models.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42127223/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-14"
       }
     ],
     "mind_body": []
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23033,
+    "archive_count": 23034,
     "archive_supplements": 2490,
     "archive_off_label": 761,
-    "archive_biomarkers": 14207,
+    "archive_biomarkers": 14208,
     "archive_trials": 4841,
     "archive_mind_body": 442
   }
