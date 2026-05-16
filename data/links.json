@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T04:11:46.612Z",
+  "last_updated": "2026-05-16T04:12:01.645Z",
   "categories": {
     "supplements": [
       {
@@ -244,6 +244,20 @@
         "added_date": "2026-05-16"
       },
       {
+        "id": "recbU0m8Sxhym7y8c",
+        "title": "LKB1 Loss Sensitizes Lung Tumor Spheres to Mitomet-Induced Ferroptosis, and These Effects are Enhanced by mTOR Inhibition.",
+        "summary": "LKB1-mutant lung cancer stem cells die when treated with mitomet and mTOR inhibitors through ferroptosis, a new therapeutic approach.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42138621/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-16"
+      },
+      {
         "id": "recSpglYuOwyS3NN8",
         "title": "Dopamine D2 Receptor Agonists as Modulators of VEGF-A-Driven Angiogenesis: Mechanisms, Clinical Evidence, and Translational Opportunities.",
         "summary": "Dopamine D2 receptor agonists suppress tumor blood vessel growth by blocking VEGF-A signaling, offering a potential new cancer treatment approach.",
@@ -408,20 +422,6 @@
           "General"
         ],
         "quality_score": 22,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-05-15"
-      },
-      {
-        "id": "recF1dy8jb38pZUF4",
-        "title": "Celecoxib Mitigates Paclitaxel-Induced Peripheral Neuropathy Through Modulation of the COX-2/PGE2 Pathway in Rats.",
-        "summary": "Celecoxib reduces paclitaxel chemotherapy's nerve damage side effects by blocking a specific inflammatory pathway in rats.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42048120/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-04-01",
         "added_date": "2026-05-15"
       }
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23403,
+    "archive_count": 23404,
     "archive_supplements": 2515,
     "archive_off_label": 777,
-    "archive_biomarkers": 14466,
+    "archive_biomarkers": 14467,
     "archive_trials": 4911,
     "archive_mind_body": 442
   }
