@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T04:06:53.030Z",
+  "last_updated": "2026-05-16T04:07:05.070Z",
   "categories": {
     "supplements": [
       {
@@ -783,6 +783,20 @@
         "added_date": "2026-05-16"
       },
       {
+        "id": "recGpomxqiZFaAJU2",
+        "title": "Analysis of Torquetenovirus DNA levels in NSCLC patients treated with immune checkpoint inhibitors.",
+        "summary": "TTV viral levels decreased in lung cancer patients after immunotherapy, suggesting immune function improved and potentially serving as a treatment response marker.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42139225/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-16"
+      },
+      {
         "id": "reckjwYbIhJOWukOU",
         "title": "Advancing Antibody-Drug Conjugates: Current Perspectives and Future Directions.",
         "summary": "Antibody-drug conjugates selectively deliver cancer drugs to tumor cells, with combinations and new designs improving effectiveness and overcoming treatment resistance.",
@@ -837,20 +851,6 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-15"
-      },
-      {
-        "id": "rec7CSsBKvJScUQEN",
-        "title": "A Phase II Evaluation of the Efficacy and Safety of Sacituzumab Govitecan in Patients with Recurrent Uterine Cancer.",
-        "summary": "A new drug called sacituzumab govitecan shows promise treating advanced uterine cancer patients who didn't respond to previous treatments.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42132892/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-15"
       }
     ],
     "mind_body": []
@@ -862,11 +862,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23376,
+    "archive_count": 23377,
     "archive_supplements": 2514,
     "archive_off_label": 777,
     "archive_biomarkers": 14445,
-    "archive_trials": 4906,
+    "archive_trials": 4907,
     "archive_mind_body": 442
   }
 }
