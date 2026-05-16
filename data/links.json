@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T04:07:46.610Z",
+  "last_updated": "2026-05-16T04:07:56.980Z",
   "categories": {
     "supplements": [
       {
@@ -21,6 +21,20 @@
         "title": "Betulinic acid alleviates the inflammatory injury of osteoblasts in osteoporosis by augmenting autophagy via the AMPK-mTOR signaling pathway.",
         "summary": "Betulinic acid protects bone cells from inflammatory damage in osteoporosis by activating autophagy through the AMPK-mTOR pathway.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42138188/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-16"
+      },
+      {
+        "id": "recUGOiBYmChL0MfS",
+        "title": "Tauroursodeoxycholic acid (TUDCA) ameliorates age-related skeletal muscle loss.",
+        "summary": "TUDCA, a bile acid, restores muscle mass and function in aging mice by improving insulin sensitivity and reducing inflammation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42139159/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -196,20 +210,6 @@
           "Bladder",
           "Liver",
           "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-15"
-      },
-      {
-        "id": "recjYhht4An3FwHV7",
-        "title": "The prebiotic inulin affects virulence factor expression in Candida albicans.",
-        "summary": "Inulin dietary supplementation reduces the virulence of the fungal pathogen Candida albicans by altering its cell wall and virulence gene expression.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42132389/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -862,10 +862,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23381,
+    "archive_count": 23382,
     "archive_supplements": 2514,
     "archive_off_label": 777,
-    "archive_biomarkers": 14449,
+    "archive_biomarkers": 14450,
     "archive_trials": 4907,
     "archive_mind_body": 442
   }
