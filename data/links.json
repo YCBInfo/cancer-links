@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T04:16:14.370Z",
+  "last_updated": "2026-05-16T04:16:24.752Z",
   "categories": {
     "supplements": [
       {
@@ -258,6 +258,20 @@
         "added_date": "2026-05-16"
       },
       {
+        "id": "recgvIT1K7gi3dd1U",
+        "title": "Inhibition of ceramide synthesis ameliorates body wasting in a cancer cachexia model.",
+        "summary": "Blocking ceramide production in the liver reduces muscle wasting in cancer cachexia, offering a potential new treatment approach.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42138073/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-16"
+      },
+      {
         "id": "recSpglYuOwyS3NN8",
         "title": "Dopamine D2 Receptor Agonists as Modulators of VEGF-A-Driven Angiogenesis: Mechanisms, Clinical Evidence, and Translational Opportunities.",
         "summary": "Dopamine D2 receptor agonists suppress tumor blood vessel growth by blocking VEGF-A signaling, offering a potential new cancer treatment approach.",
@@ -409,20 +423,6 @@
         ],
         "quality_score": 10,
         "pub_date": "2026-05-14",
-        "added_date": "2026-05-15"
-      },
-      {
-        "id": "rec7whK1PGHq1wcPR",
-        "title": "Off-label and repurposed use of disulfiram beyond alcohol dependence: A systematic review of clinical and preclinical evidence.",
-        "summary": "Disulfiram shows promise for cancer and other diseases, but clinical trials struggle with poor drug delivery, high toxicity, and recruitment challenges.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42058920/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 22,
-        "pub_date": "2026-04-01",
         "added_date": "2026-05-15"
       }
     ],
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23428,
+    "archive_count": 23429,
     "archive_supplements": 2516,
     "archive_off_label": 779,
-    "archive_biomarkers": 14485,
+    "archive_biomarkers": 14486,
     "archive_trials": 4914,
     "archive_mind_body": 442
   }
