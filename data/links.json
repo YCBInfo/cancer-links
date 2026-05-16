@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T06:04:23.822Z",
+  "last_updated": "2026-05-16T06:04:34.913Z",
   "categories": {
     "supplements": [
       {
@@ -173,6 +173,20 @@
         "added_date": "2026-05-16"
       },
       {
+        "id": "recIZ1T9l9pfFB3xB",
+        "title": "Melatonin Receptor Signaling in Human Pathologies: From Molecular Mechanisms to Therapeutic Targets.",
+        "summary": "Melatonin receptor signaling dysfunction contributes to multiple diseases including cancer, diabetes, and neurodegeneration, offering new therapeutic targets.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42139078/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-16"
+      },
+      {
         "id": "rec2eFSRI5cL6UHj5",
         "title": "Newly isolated human-derived Lactobacillus fermentum strain stimulates IFN-γ-secreting CD8+ T cells for enhanced anti-cancer immunity.",
         "summary": "A probiotic bacterium (Lactobacillus fermentum MI37) enhances cancer immunotherapy by activating immune cells through a specific bacterial component called lipoteichoic acid.",
@@ -197,20 +211,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-05-15"
-      },
-      {
-        "id": "rec0FdcG8kxKrQggs",
-        "title": "Apoptotic/cell cycle arrest potential of dusty miller methanol extract against Paca-2 pancreatic cancer cells via upregulating Bax/Bcl2: A HPLC-ESI-MS/MS, GNPS-based molecular networking and network pharmacology studies.",
-        "summary": "Dusty miller extract kills pancreatic cancer cells by triggering apoptosis and stopping cell growth through key protein targets.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41895184/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Pancreatic"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-04-01",
         "added_date": "2026-05-15"
       }
@@ -862,10 +862,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23466,
+    "archive_count": 23467,
     "archive_supplements": 2519,
     "archive_off_label": 779,
-    "archive_biomarkers": 14515,
+    "archive_biomarkers": 14516,
     "archive_trials": 4919,
     "archive_mind_body": 442
   }
