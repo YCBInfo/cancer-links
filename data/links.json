@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T04:10:51.068Z",
+  "last_updated": "2026-05-16T04:11:00.904Z",
   "categories": {
     "supplements": [
       {
@@ -229,6 +229,21 @@
         "added_date": "2026-05-16"
       },
       {
+        "id": "recSzlf6sqT6Y4rhp",
+        "title": "The role of ATP synthase subunit e (ATP5I) in mediating the metabolic and antiproliferative effects of metformin in cancer cells.",
+        "summary": "Metformin fights pancreatic cancer and osteosarcoma by targeting ATP5I protein, disrupting cancer cell energy production and blocking growth.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42138716/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Lymphoma",
+          "Pancreatic"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-16"
+      },
+      {
         "id": "recSpglYuOwyS3NN8",
         "title": "Dopamine D2 Receptor Agonists as Modulators of VEGF-A-Driven Angiogenesis: Mechanisms, Clinical Evidence, and Translational Opportunities.",
         "summary": "Dopamine D2 receptor agonists suppress tumor blood vessel growth by blocking VEGF-A signaling, offering a potential new cancer treatment approach.",
@@ -408,20 +423,6 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-04-01",
-        "added_date": "2026-05-15"
-      },
-      {
-        "id": "recZI29GOG9HQFGYW",
-        "title": "SGLT2 Inhibitors in Cardio-Oncology: A Systematic Review and Meta-Analysis.",
-        "summary": "SGLT2 inhibitors may protect the heart in cancer patients receiving chemotherapy, according to research analysis.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42134058/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
         "added_date": "2026-05-15"
       }
     ],
@@ -859,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23398,
+    "archive_count": 23399,
     "archive_supplements": 2515,
     "archive_off_label": 777,
-    "archive_biomarkers": 14463,
+    "archive_biomarkers": 14464,
     "archive_trials": 4909,
     "archive_mind_body": 442
   }
