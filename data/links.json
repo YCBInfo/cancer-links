@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T09:03:41.949Z",
+  "last_updated": "2026-05-16T09:03:54.049Z",
   "categories": {
     "supplements": [
       {
@@ -358,6 +358,21 @@
         "added_date": "2026-05-16"
       },
       {
+        "id": "recS0ZuCot45QE7gB",
+        "title": "Nine-Year Recurrence-Free Survival in Gastric Signet-Ring Cell Carcinoma: A Case Report of Laparoscopic Radical Resection Combining Long-Term Systematic Therapy and Metformin Enteric-Coated Tablets.",
+        "summary": "A gastric cancer patient achieved nine-year recurrence-free survival using surgery combined with chemotherapy and metformin maintenance therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42137612/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Kidney",
+          "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-16"
+      },
+      {
         "id": "recSpglYuOwyS3NN8",
         "title": "Dopamine D2 Receptor Agonists as Modulators of VEGF-A-Driven Angiogenesis: Mechanisms, Clinical Evidence, and Translational Opportunities.",
         "summary": "Dopamine D2 receptor agonists suppress tumor blood vessel growth by blocking VEGF-A signaling, offering a potential new cancer treatment approach.",
@@ -411,20 +426,6 @@
         ],
         "quality_score": 18,
         "pub_date": "2026-05-01",
-        "added_date": "2026-05-15"
-      },
-      {
-        "id": "reclb702oSjb72Ipo",
-        "title": "Breast cancer tumor immune microenvironment landscape identifies prognostic risk genes and potential drugs.",
-        "summary": "Researchers identified four immune genes linked to breast cancer prognosis and discovered two promising drugs targeting these genes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41863904/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
         "added_date": "2026-05-15"
       }
     ],
@@ -862,11 +863,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23565,
+    "archive_count": 23566,
     "archive_supplements": 2533,
     "archive_off_label": 781,
     "archive_biomarkers": 14556,
-    "archive_trials": 4961,
+    "archive_trials": 4962,
     "archive_mind_body": 442
   }
 }
