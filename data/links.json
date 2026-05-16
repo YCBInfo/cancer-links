@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-15T11:32:28.223Z",
+  "last_updated": "2026-05-16T02:34:37.200Z",
   "categories": {
     "supplements": [
       {
@@ -430,6 +430,20 @@
     ],
     "biomarkers": [
       {
+        "id": "recQ4FbuMuWf2PU58",
+        "title": "Quality of life in hospitalized patients receiving palliative care: Do current tools cover all their needs?",
+        "summary": "Current quality of life assessment tools for hospitalized palliative care patients may not adequately measure all patient needs across cancer and non-cancer conditions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42135083/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-16"
+      },
+      {
         "id": "recHbVEDBxnzrrzm0",
         "title": "Bevacizumab induces apoptosis in glioblastoma cells by upregulating miR-4695-5p to inhibit PKMYT1.",
         "summary": "Bevacizumab kills glioblastoma cancer cells by increasing a molecule that blocks a protein preventing cell death.",
@@ -625,23 +639,23 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-15"
-      },
+      }
+    ],
+    "trials": [
       {
-        "id": "recSpglYuOwyS3NN8",
-        "title": "Dopamine D2 Receptor Agonists as Modulators of VEGF-A-Driven Angiogenesis: Mechanisms, Clinical Evidence, and Translational Opportunities.",
-        "summary": "Dopamine D2 receptor agonists suppress tumor blood vessel growth by blocking VEGF-A signaling, offering a potential new cancer treatment approach.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42117522/",
+        "id": "recVbMclduOIeM8HX",
+        "title": "Integrative Oncology Training for Supportive Care Nurses in the Middle-East.",
+        "summary": "Nurses in the Middle East are being trained to deliver integrative oncology programs that combine conventional cancer treatment with supportive care therapies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42135158/",
         "source": "PubMed",
-        "category": "Off-Label Medications",
+        "category": "Clinical Trials",
         "cancer_types": [
           "General"
         ],
         "quality_score": 12,
         "pub_date": "2026-05-01",
-        "added_date": "2026-05-15"
-      }
-    ],
-    "trials": [
+        "added_date": "2026-05-16"
+      },
       {
         "id": "reckjwYbIhJOWukOU",
         "title": "Advancing Antibody-Drug Conjugates: Current Perspectives and Future Directions.",
@@ -837,20 +851,6 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-15"
-      },
-      {
-        "id": "rechSJbI03GZXZL5M",
-        "title": "Synergistic Effects of DNA-PKcs Inhibition and Radiotherapy in Esophageal Squamous Cell Carcinoma.",
-        "summary": "Blocking DNA-PKcs protein makes esophageal cancer cells significantly more sensitive to radiation therapy by preventing DNA repair.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42087285/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-15"
       }
     ],
     "mind_body": []
@@ -862,11 +862,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23358,
+    "archive_count": 23359,
     "archive_supplements": 2512,
     "archive_off_label": 776,
     "archive_biomarkers": 14434,
-    "archive_trials": 4902,
+    "archive_trials": 4903,
     "archive_mind_body": 442
   }
 }
