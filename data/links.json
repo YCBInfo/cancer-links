@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T04:08:50.206Z",
+  "last_updated": "2026-05-16T04:09:00.635Z",
   "categories": {
     "supplements": [
       {
@@ -37,6 +37,20 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/42139159/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-16"
+      },
+      {
+        "id": "recNTCrDFxvJvumI6",
+        "title": "Human multi-tissue transcriptomics identifies galectin-1 and follistatin-like 1 as exerkines with distinct transcript-to-serum coupling after exercise.",
+        "summary": "Exercise increases galectin-1 and follistatin-like 1 in the blood, with body composition determining how much enters circulation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42139045/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
@@ -195,23 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-15"
-      },
-      {
-        "id": "rec1mgZiSBdNxtMew",
-        "title": "Biological activities and therapeutic potential of soy isoflavones: a focus on anticancer activity.",
-        "summary": "Soy isoflavones show promise as affordable, safe adjunctive cancer treatments through multiple mechanisms including cell death promotion and immune activation.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42133114/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Prostate",
-          "Bladder",
-          "Liver",
-          "Brain"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-15"
       }
@@ -862,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23387,
+    "archive_count": 23388,
     "archive_supplements": 2514,
     "archive_off_label": 777,
-    "archive_biomarkers": 14455,
+    "archive_biomarkers": 14456,
     "archive_trials": 4907,
     "archive_mind_body": 442
   }
