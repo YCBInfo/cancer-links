@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T04:17:59.058Z",
+  "last_updated": "2026-05-16T04:18:09.385Z",
   "categories": {
     "supplements": [
       {
@@ -81,6 +81,22 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-16"
+      },
+      {
+        "id": "recrLc0ZqrCZdR988",
+        "title": "Anticancer activity of Hebesu extracts in cancer cell lines.",
+        "summary": "Hebesu citrus extract kills breast, liver, and lung cancer cells by triggering cell death and blocking cancer-promoting genes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42136225/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast",
+          "Lung",
+          "Liver"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -195,20 +211,6 @@
           "Lung"
         ],
         "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-15"
-      },
-      {
-        "id": "recY5pmOfVuYAiAXe",
-        "title": "Seaweed bioactives: A comprehensive review of their nutritional, medicinal, and functional roles.",
-        "summary": "Seaweed compounds show promise as anti-cancer, anti-inflammatory, and antioxidant agents, though processing and absorption challenges remain.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42095085/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-15"
       }
@@ -860,10 +862,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23436,
+    "archive_count": 23437,
     "archive_supplements": 2517,
     "archive_off_label": 779,
-    "archive_biomarkers": 14492,
+    "archive_biomarkers": 14493,
     "archive_trials": 4914,
     "archive_mind_body": 442
   }
