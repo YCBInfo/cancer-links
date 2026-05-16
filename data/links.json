@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T04:04:52.337Z",
+  "last_updated": "2026-05-16T04:05:05.004Z",
   "categories": {
     "supplements": [
       {
@@ -699,6 +699,34 @@
         "added_date": "2026-05-16"
       },
       {
+        "id": "recwa4CiT0T72XddD",
+        "title": "Overall Survival Among Patients With Hepatocellular Carcinoma Treated With External Beam Radiation Therapy: Individual Patient Data Outcomes From a Multinational Cohort.",
+        "summary": "Researchers analyzed international patient data to assess whether radiation therapy improves survival in liver cancer patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42139645/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-16"
+      },
+      {
+        "id": "recMp5N4Dna0PVSu7",
+        "title": "Distinct Inflammatory Cytotoxic T Lymphocyte Populations Mediate PD-1 Blockade Induced Immune-Related Adverse Events in Multiple Organs.",
+        "summary": "Blocking JAK1 signaling in specific immune cells relieves cancer immunotherapy side effects in heart and lung without reducing anti-tumor effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42139517/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-16"
+      },
+      {
         "id": "reckjwYbIhJOWukOU",
         "title": "Advancing Antibody-Drug Conjugates: Current Perspectives and Future Directions.",
         "summary": "Antibody-drug conjugates selectively deliver cancer drugs to tumor cells, with combinations and new designs improving effectiveness and overcoming treatment resistance.",
@@ -823,34 +851,6 @@
         "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-15"
-      },
-      {
-        "id": "recPB4inhbxk40RVE",
-        "title": "Association of baseline eosinophil counts with clinical prognosis in cancer patients undergoing immune checkpoint inhibitor therapy.",
-        "summary": "Higher baseline eosinophil counts predict better survival and treatment response in cancer patients receiving immune checkpoint inhibitor therapy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42100735/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-15"
-      },
-      {
-        "id": "rece23xxZJ2yyLhzc",
-        "title": "Endothelial-derived PANoptosis factor IL33 is a potential immunotherapy in breast cancer.",
-        "summary": "IL-33 from breast cancer blood vessel cells could improve immunotherapy by enhancing immune cell activity against tumors.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42095097/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-15"
       }
     ],
     "mind_body": []
@@ -862,10 +862,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23366,
+    "archive_count": 23367,
     "archive_supplements": 2513,
     "archive_off_label": 777,
-    "archive_biomarkers": 14439,
+    "archive_biomarkers": 14440,
     "archive_trials": 4903,
     "archive_mind_body": 442
   }
