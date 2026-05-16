@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T04:12:19.118Z",
+  "last_updated": "2026-05-16T04:12:28.816Z",
   "categories": {
     "supplements": [
       {
@@ -55,6 +55,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-16"
+      },
+      {
+        "id": "recQdZkpvLjMVqSk8",
+        "title": "Lactucin inhibits growth and induces apoptosis in gastric cancer cells by targeting MAPK signaling.",
+        "summary": "Lactucin, a natural compound from chicory, stops gastric cancer cell growth and triggers cell death by blocking a key cellular pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42138553/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Stomach"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-16"
       },
@@ -189,20 +203,6 @@
         "title": "The relationship between elongation of very long-chain fatty acids (ELOVL) 2 polymorphism rs953413 and blood n-3 HUFA levels: a secondary analysis of EPA treatment in the seAFOod polyp prevention trial.",
         "summary": "A genetic variant (rs953413) affects how individuals absorb and process fish oil supplements, explaining differences in blood omega-3 levels.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42135634/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-15"
-      },
-      {
-        "id": "reczPLorj4gMx5l1r",
-        "title": "NIR Light Activated Polyphenol Driven Carrier-Free Self-Assembled Nanoparticles for Synergistic Chemo-PDT-PTT.",
-        "summary": "Researchers developed nanoparticles combining polyphenols and copper that kill cancer cells using near-infrared light through three simultaneous therapeutic mechanisms.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42133860/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23406,
+    "archive_count": 23407,
     "archive_supplements": 2515,
     "archive_off_label": 777,
-    "archive_biomarkers": 14469,
+    "archive_biomarkers": 14470,
     "archive_trials": 4911,
     "archive_mind_body": 442
   }
