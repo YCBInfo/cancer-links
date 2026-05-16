@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T04:06:20.309Z",
+  "last_updated": "2026-05-16T04:06:32.459Z",
   "categories": {
     "supplements": [
       {
@@ -769,6 +769,20 @@
         "added_date": "2026-05-16"
       },
       {
+        "id": "recszBYSVXP8MSrcV",
+        "title": "Helper lipid-engineered extracellular vesicles enable PET imaging-guided pulmonary siRNA delivery to treat lung metastasis.",
+        "summary": "Modified extracellular vesicles successfully deliver cancer-fighting siRNA to lung tumors, improving immune response against melanoma metastasis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42139331/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Melanoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-16"
+      },
+      {
         "id": "reckjwYbIhJOWukOU",
         "title": "Advancing Antibody-Drug Conjugates: Current Perspectives and Future Directions.",
         "summary": "Antibody-drug conjugates selectively deliver cancer drugs to tumor cells, with combinations and new designs improving effectiveness and overcoming treatment resistance.",
@@ -837,20 +851,6 @@
         "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-15"
-      },
-      {
-        "id": "rec7MwHPUetlncjys",
-        "title": "Clinical benefit and predictors of response to momelotinib after ruxolitinib failure: A cooperative real-world study.",
-        "summary": "Momelotinib effectively treats myelofibrosis patients who failed previous ruxolitinib therapy, offering a viable second-line option.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42118670/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-15"
       }
     ],
     "mind_body": []
@@ -862,11 +862,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23373,
+    "archive_count": 23374,
     "archive_supplements": 2514,
     "archive_off_label": 777,
     "archive_biomarkers": 14445,
-    "archive_trials": 4903,
+    "archive_trials": 4904,
     "archive_mind_body": 442
   }
 }
