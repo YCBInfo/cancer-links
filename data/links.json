@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T04:14:28.554Z",
+  "last_updated": "2026-05-16T04:14:38.600Z",
   "categories": {
     "supplements": [
       {
@@ -67,6 +67,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-16"
+      },
+      {
+        "id": "recHm2SkBPnoDPOO0",
+        "title": "Atractylenolide I Blocks Lung Metastasis of Triple-Negative Breast Cancer by Inhibiting SPP1-Mediated Extracellular Matrix Signaling Pathway.",
+        "summary": "Atractylenolide I, a plant compound, blocks triple-negative breast cancer spread to the lungs by disrupting a protein involved in metastasis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42138273/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -189,20 +203,6 @@
         "title": "Seaweed bioactives: A comprehensive review of their nutritional, medicinal, and functional roles.",
         "summary": "Seaweed compounds show promise as anti-cancer, anti-inflammatory, and antioxidant agents, though processing and absorption challenges remain.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42095085/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-15"
-      },
-      {
-        "id": "recL9JiDq3zEwlTYE",
-        "title": "The relationship between elongation of very long-chain fatty acids (ELOVL) 2 polymorphism rs953413 and blood n-3 HUFA levels: a secondary analysis of EPA treatment in the seAFOod polyp prevention trial.",
-        "summary": "A genetic variant (rs953413) affects how individuals absorb and process fish oil supplements, explaining differences in blood omega-3 levels.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42135634/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -860,8 +860,8 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23418,
-    "archive_supplements": 2515,
+    "archive_count": 23419,
+    "archive_supplements": 2516,
     "archive_off_label": 779,
     "archive_biomarkers": 14478,
     "archive_trials": 4912,
