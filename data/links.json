@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17T04:04:57.847Z",
+  "last_updated": "2026-05-17T04:05:10.594Z",
   "categories": {
     "supplements": [
       {
@@ -627,18 +627,18 @@
         "added_date": "2026-05-17"
       },
       {
-        "id": "recQ4FbuMuWf2PU58",
-        "title": "Quality of life in hospitalized patients receiving palliative care: Do current tools cover all their needs?",
-        "summary": "Current quality of life assessment tools for hospitalized palliative care patients may not adequately measure all patient needs across cancer and non-cancer conditions.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42135083/",
+        "id": "receF2kmzEZjsVFeC",
+        "title": "Marked variation in eligibility criteria across registrational trials for relapsed diffuse large B-cell lymphoma limits applicability to clinical practice.",
+        "summary": "Strict and varying eligibility criteria in relapsed lymphoma trials exclude most real-world patients, limiting how well trial results apply to actual clinical practice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42141736/",
         "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
+        "category": "Clinical Trials",
         "cancer_types": [
-          "General"
+          "Lymphoma"
         ],
-        "quality_score": 12,
+        "quality_score": 15,
         "pub_date": "2026-05-01",
-        "added_date": "2026-05-16"
+        "added_date": "2026-05-17"
       }
     ],
     "trials": [
@@ -769,6 +769,20 @@
         "added_date": "2026-05-17"
       },
       {
+        "id": "receF2kmzEZjsVFeC",
+        "title": "Marked variation in eligibility criteria across registrational trials for relapsed diffuse large B-cell lymphoma limits applicability to clinical practice.",
+        "summary": "Strict and varying eligibility criteria in relapsed lymphoma trials exclude most real-world patients, limiting how well trial results apply to actual clinical practice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42141736/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Lymphoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-17"
+      },
+      {
         "id": "recVbMclduOIeM8HX",
         "title": "Integrative Oncology Training for Supportive Care Nurses in the Middle-East.",
         "summary": "Nurses in the Middle East are being trained to deliver integrative oncology programs that combine conventional cancer treatment with supportive care therapies.",
@@ -837,20 +851,6 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-16"
-      },
-      {
-        "id": "recMp5N4Dna0PVSu7",
-        "title": "Distinct Inflammatory Cytotoxic T Lymphocyte Populations Mediate PD-1 Blockade Induced Immune-Related Adverse Events in Multiple Organs.",
-        "summary": "Blocking JAK1 signaling in specific immune cells relieves cancer immunotherapy side effects in heart and lung without reducing anti-tumor effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42139517/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-16"
       }
     ],
     "mind_body": []
@@ -862,10 +862,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23591,
+    "archive_count": 23592,
     "archive_supplements": 2533,
     "archive_off_label": 785,
-    "archive_biomarkers": 14575,
+    "archive_biomarkers": 14576,
     "archive_trials": 4964,
     "archive_mind_body": 442
   }
