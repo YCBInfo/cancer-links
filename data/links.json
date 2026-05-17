@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17T07:03:22.610Z",
+  "last_updated": "2026-05-17T08:03:41.288Z",
   "categories": {
     "supplements": [
       {
@@ -41,6 +41,20 @@
           "Breast"
         ],
         "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-17"
+      },
+      {
+        "id": "recveS8vXj86zEqh4",
+        "title": "The first metal organic framework phthalocyanine integrated with ZnO using Amaranthus spinosus as an efficient therapeutic candidate for cancer therapy.",
+        "summary": "Researchers created a new nanocomposite combining metal frameworks and zinc oxide that kills cancer cells by triggering apoptosis and increasing oxidative stress.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42141742/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-17"
       },
@@ -197,20 +211,6 @@
           "Brain"
         ],
         "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-16"
-      },
-      {
-        "id": "recfKugPDT3GU9HEa",
-        "title": "Ultraprocessed Foods and the Aging Brain: State of the Science.",
-        "summary": "High ultraprocessed food consumption may harm brain aging through poor nutrition and added chemicals, though more research is needed.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42139153/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-16"
       }
@@ -862,11 +862,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23680,
+    "archive_count": 23681,
     "archive_supplements": 2535,
     "archive_off_label": 785,
     "archive_biomarkers": 14647,
-    "archive_trials": 4979,
+    "archive_trials": 4980,
     "archive_mind_body": 442
   }
 }
