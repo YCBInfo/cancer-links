@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-05-17T04:08:12.774Z",
+  "last_updated": "2026-05-17T04:08:27.260Z",
   "categories": {
     "supplements": [
+      {
+        "id": "recGOXB3JrTVLpGWr",
+        "title": "Integrating Network Pharmacology and Experimental Validation to Elucidate the Role of Huaier in Attenuating Liver Fibrosis via the AKT Signalling Pathway.",
+        "summary": "Huaier, a natural compound, reduces liver fibrosis by blocking the AKT protein pathway that activates scar-forming cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42141267/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-17"
+      },
       {
         "id": "recSdZQaxk6ZGmcbN",
         "title": "Impact of leucine-rich diet on placenta's proteomic and metabolomic profiles of pregnant tumor-bearing rats.",
@@ -198,20 +212,6 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-04-01",
-        "added_date": "2026-05-16"
-      },
-      {
-        "id": "reclhBtd3IRNs1AWj",
-        "title": "Structure-property relationships in saccharide-derived carbon dots: Tuning oxygen functionalities and sp2 domains for antioxidant performance.",
-        "summary": "Researchers created carbon dots from xylose that effectively neutralize harmful free radicals while remaining safe for cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41650730/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
-        "pub_date": "2026-03-01",
         "added_date": "2026-05-16"
       }
     ],
@@ -862,10 +862,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23608,
+    "archive_count": 23609,
     "archive_supplements": 2533,
     "archive_off_label": 785,
-    "archive_biomarkers": 14585,
+    "archive_biomarkers": 14586,
     "archive_trials": 4971,
     "archive_mind_body": 442
   }
