@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17T04:12:37.396Z",
+  "last_updated": "2026-05-17T04:12:46.755Z",
   "categories": {
     "supplements": [
       {
@@ -27,6 +27,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-17"
+      },
+      {
+        "id": "rechUHtCiW83yN2fw",
+        "title": "PLSCR1 drives chemoresistance in TNBC via METTL3/IGF2BP3-mediated mRNA stabilization and EGFR-MAPK pathway activation.",
+        "summary": "PLSCR1 protein drives triple-negative breast cancer drug resistance through two pathways; blocking it with Mogroside IV-A restores chemotherapy sensitivity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42140933/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-17"
       },
@@ -193,20 +207,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/42139153/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-16"
-      },
-      {
-        "id": "recIZ1T9l9pfFB3xB",
-        "title": "Melatonin Receptor Signaling in Human Pathologies: From Molecular Mechanisms to Therapeutic Targets.",
-        "summary": "Melatonin receptor signaling dysfunction contributes to multiple diseases including cancer, diabetes, and neurodegeneration, offering new therapeutic targets.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42139078/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
@@ -862,10 +862,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23632,
+    "archive_count": 23633,
     "archive_supplements": 2534,
     "archive_off_label": 785,
-    "archive_biomarkers": 14607,
+    "archive_biomarkers": 14608,
     "archive_trials": 4972,
     "archive_mind_body": 442
   }
