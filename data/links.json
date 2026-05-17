@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17T04:04:24.046Z",
+  "last_updated": "2026-05-17T04:04:35.694Z",
   "categories": {
     "supplements": [
       {
@@ -571,6 +571,20 @@
         "added_date": "2026-05-17"
       },
       {
+        "id": "recrrbnTWDNLe1Tkd",
+        "title": "Carboplatin with or without nivolumab in metastatic triple-negative breast cancer: a randomized phase II trial.",
+        "summary": "Adding nivolumab to carboplatin showed no overall survival benefit in metastatic triple-negative breast cancer, but improved outcomes in PD-L1-positive patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42140950/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 21,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-17"
+      },
+      {
         "id": "recQ4FbuMuWf2PU58",
         "title": "Quality of life in hospitalized patients receiving palliative care: Do current tools cover all their needs?",
         "summary": "Current quality of life assessment tools for hospitalized palliative care patients may not adequately measure all patient needs across cancer and non-cancer conditions.",
@@ -617,20 +631,6 @@
         "title": "FAS-controlled T cells drive lymphoproliferation through glycolysis without effector differentiation.",
         "summary": "FAS-deficient T cells proliferate excessively through increased glycolysis without developing into typical immune-fighting cells.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42136947/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-16"
-      },
-      {
-        "id": "recBMRY0bWtn7X65Q",
-        "title": "Hepatic p38γ exacerbates acetaminophen‑induced acute liver injury via PI3K/Akt‑dependent mechanisms.",
-        "summary": "Blocking the p38γ protein reduces acetaminophen-induced liver injury by decreasing inflammation, oxidative stress, and fat accumulation in liver cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42138207/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -723,6 +723,34 @@
           "General"
         ],
         "quality_score": 19,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-17"
+      },
+      {
+        "id": "recrrbnTWDNLe1Tkd",
+        "title": "Carboplatin with or without nivolumab in metastatic triple-negative breast cancer: a randomized phase II trial.",
+        "summary": "Adding nivolumab to carboplatin showed no overall survival benefit in metastatic triple-negative breast cancer, but improved outcomes in PD-L1-positive patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42140950/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 21,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-17"
+      },
+      {
+        "id": "recGtoA3wLFv4cVza",
+        "title": "A phase II peri-operative study of pembrolizumab plus lenvatinib for mucosal melanoma.",
+        "summary": "Pembrolizumab plus lenvatinib before surgery showed modest response in mucosal melanoma, with immune cell activation predicting better outcomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42140948/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Melanoma"
+        ],
+        "quality_score": 21,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-17"
       },
@@ -823,34 +851,6 @@
         "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-16"
-      },
-      {
-        "id": "recJtqamORGJFfTUE",
-        "title": "TP53-mutant AML with ribosomal gene loss exhibits impaired protein translation and sensitivity to HSP90 inhibition.",
-        "summary": "TP53-mutant AML with ribosomal gene loss becomes vulnerable to HSP90 inhibitor treatment through impaired protein production.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42139355/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-16"
-      },
-      {
-        "id": "rec9o54DIgZsvqWou",
-        "title": "P300/CBP inhibition with inobrodib in combination with gilteritinib and venetoclax targets leukemia stem cells in epigenetic mutant AML.",
-        "summary": "A three-drug combination targeting AML stem cells shows promise for treating aggressive blood cancer with minimal side effects.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42139346/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-16"
       }
     ],
     "mind_body": []
@@ -862,10 +862,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23588,
+    "archive_count": 23589,
     "archive_supplements": 2533,
     "archive_off_label": 785,
-    "archive_biomarkers": 14572,
+    "archive_biomarkers": 14573,
     "archive_trials": 4964,
     "archive_mind_body": 442
   }
