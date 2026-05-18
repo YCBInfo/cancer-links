@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-18T04:13:52.759Z",
+  "last_updated": "2026-05-18T04:14:05.410Z",
   "categories": {
     "supplements": [
       {
@@ -25,6 +25,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-18"
+      },
+      {
+        "id": "recs6UTi5Sh56DS2H",
+        "title": "Food-Derived Limosilactobacillus fermentum GR-3 Enhances Anti-PD-1 Immunotherapy Efficacy.",
+        "summary": "A food-derived probiotic strain enhanced anti-PD-1 immunotherapy effectiveness in colorectal cancer while reducing treatment side effects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42142240/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -197,20 +211,6 @@
           "Liver"
         ],
         "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-16"
-      },
-      {
-        "id": "reclj2lnz4DBcFRat",
-        "title": "Ginsenosides in the management of depression: a comprehensive pharmacological review.",
-        "summary": "Ginsenosides from ginseng show promise treating depression through multiple mechanisms including neurotransmitter modulation and reduced brain inflammation.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42141484/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-16"
       }
@@ -865,10 +865,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23740,
+    "archive_count": 23741,
     "archive_supplements": 2539,
     "archive_off_label": 787,
-    "archive_biomarkers": 14693,
+    "archive_biomarkers": 14694,
     "archive_trials": 4987,
     "archive_mind_body": 442
   }
