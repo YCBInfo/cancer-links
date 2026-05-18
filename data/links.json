@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-18T04:15:30.818Z",
+  "last_updated": "2026-05-18T04:15:40.453Z",
   "categories": {
     "supplements": [
       {
@@ -39,6 +39,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-18"
+      },
+      {
+        "id": "recMhdCaWiHCvGL4b",
+        "title": "Ginsenoside Rh2 inhibits non-small-cell lung cancer malignant progression through targeting AURKA.",
+        "summary": "Ginsenoside Rh2 inhibits lung cancer growth and improves chemotherapy by targeting the AURKA protein.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42142138/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -193,22 +207,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-16"
-      },
-      {
-        "id": "recrLc0ZqrCZdR988",
-        "title": "Anticancer activity of Hebesu extracts in cancer cell lines.",
-        "summary": "Hebesu citrus extract kills breast, liver, and lung cancer cells by triggering cell death and blocking cancer-promoting genes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42136225/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast",
-          "Lung",
-          "Liver"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -865,10 +863,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23749,
+    "archive_count": 23750,
     "archive_supplements": 2539,
     "archive_off_label": 787,
-    "archive_biomarkers": 14701,
+    "archive_biomarkers": 14702,
     "archive_trials": 4988,
     "archive_mind_body": 442
   }
