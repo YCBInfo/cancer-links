@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-18T04:22:11.057Z",
+  "last_updated": "2026-05-18T04:22:22.032Z",
   "categories": {
     "supplements": [
       {
@@ -101,6 +101,20 @@
         "added_date": "2026-05-18"
       },
       {
+        "id": "reckmHg6LyRipQN6C",
+        "title": "Emerging concepts, hot topics, and open questions in today's pancreatic cancer research.",
+        "summary": "Pancreatic cancer researchers identify emerging approaches—including microenvironment studies, immunotherapy, and microbiome research—to improve survival rates.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42142668/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Pancreatic"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-18"
+      },
+      {
         "id": "recGOXB3JrTVLpGWr",
         "title": "Integrating Network Pharmacology and Experimental Validation to Elucidate the Role of Huaier in Attenuating Liver Fibrosis via the AKT Signalling Pathway.",
         "summary": "Huaier, a natural compound, reduces liver fibrosis by blocking the AKT protein pathway that activates scar-forming cells.",
@@ -197,20 +211,6 @@
         "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-16"
-      },
-      {
-        "id": "recUGOiBYmChL0MfS",
-        "title": "Tauroursodeoxycholic acid (TUDCA) ameliorates age-related skeletal muscle loss.",
-        "summary": "TUDCA, a bile acid, restores muscle mass and function in aging mice by improving insulin sensitivity and reducing inflammation.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42139159/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-16"
       }
     ],
     "off_label": [
@@ -239,6 +239,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-18"
+      },
+      {
+        "id": "reckmHg6LyRipQN6C",
+        "title": "Emerging concepts, hot topics, and open questions in today's pancreatic cancer research.",
+        "summary": "Pancreatic cancer researchers identify emerging approaches—including microenvironment studies, immunotherapy, and microbiome research—to improve survival rates.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42142668/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Pancreatic"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-18"
       },
@@ -403,20 +417,6 @@
         "title": "Dopamine D2 Receptor Agonists as Modulators of VEGF-A-Driven Angiogenesis: Mechanisms, Clinical Evidence, and Translational Opportunities.",
         "summary": "Dopamine D2 receptor agonists suppress tumor blood vessel growth by blocking VEGF-A signaling, offering a potential new cancer treatment approach.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42117522/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-15"
-      },
-      {
-        "id": "rec47fBjWEqT6bylQ",
-        "title": "Simvastatin Restores Cisplatin Sensitivity by Suppressing the Caveolin-1-Mediated PI3K/AKT Signaling Pathway in Cisplatin-Resistant Cervical Cancer Cells.",
-        "summary": "Simvastatin restores cisplatin effectiveness in resistant cervical cancer by blocking a key resistance pathway, suggesting it could improve chemotherapy outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42087353/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -863,10 +863,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23786,
+    "archive_count": 23787,
     "archive_supplements": 2543,
     "archive_off_label": 787,
-    "archive_biomarkers": 14731,
+    "archive_biomarkers": 14732,
     "archive_trials": 4991,
     "archive_mind_body": 442
   }
