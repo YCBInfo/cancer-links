@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-18T04:04:35.437Z",
+  "last_updated": "2026-05-18T04:04:46.681Z",
   "categories": {
     "supplements": [
       {
@@ -743,6 +743,20 @@
         "added_date": "2026-05-18"
       },
       {
+        "id": "recDYN43UPtCk5KrP",
+        "title": "Response to trastuzumab deruxtecan in postoperative recurrent lung adenocarcinoma harboring concurrent EGFR and HER2 mutations after progression on adjuvant osimertinib.",
+        "summary": "Lung cancer patient with two gene mutations responded well to trastuzumab deruxtecan after other treatments failed.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42143548/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-18"
+      },
+      {
         "id": "recXnLELS277IpReF",
         "title": "Navigating false-positive outcomes after stool-based colorectal cancer screening tests: a scoping review.",
         "summary": "Stool-based colorectal cancer screening sometimes shows positive results despite negative colonoscopy, requiring clarification on appropriate follow-up management.",
@@ -839,20 +853,6 @@
         "quality_score": 21,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-17"
-      },
-      {
-        "id": "recGtoA3wLFv4cVza",
-        "title": "A phase II peri-operative study of pembrolizumab plus lenvatinib for mucosal melanoma.",
-        "summary": "Pembrolizumab plus lenvatinib before surgery showed modest response in mucosal melanoma, with immune cell activation predicting better outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42140948/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Melanoma"
-        ],
-        "quality_score": 21,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-17"
       }
     ],
     "mind_body": []
@@ -864,10 +864,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23690,
+    "archive_count": 23691,
     "archive_supplements": 2537,
     "archive_off_label": 785,
-    "archive_biomarkers": 14652,
+    "archive_biomarkers": 14653,
     "archive_trials": 4982,
     "archive_mind_body": 442
   }
