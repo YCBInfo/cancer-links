@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-18T04:19:54.089Z",
+  "last_updated": "2026-05-18T04:20:05.061Z",
   "categories": {
     "supplements": [
       {
@@ -67,6 +67,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Pancreatic"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-18"
+      },
+      {
+        "id": "recNcGzXPxnzQ72wr",
+        "title": "A novel hesperetin derivative DU12 targets cyclin-dependent kinase 17 (CDK17) to inhibit malignant progression of ovarian cancer.",
+        "summary": "A new compound called DU12, derived from a natural flavonoid, stops ovarian cancer growth by blocking a protein called CDK17.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42142764/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Ovarian"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -195,20 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-16"
-      },
-      {
-        "id": "recQdZkpvLjMVqSk8",
-        "title": "Lactucin inhibits growth and induces apoptosis in gastric cancer cells by targeting MAPK signaling.",
-        "summary": "Lactucin, a natural compound from chicory, stops gastric cancer cell growth and triggers cell death by blocking a key cellular pathway.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42138553/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Stomach"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-16"
       }
@@ -863,10 +863,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23773,
+    "archive_count": 23774,
     "archive_supplements": 2542,
     "archive_off_label": 787,
-    "archive_biomarkers": 14720,
+    "archive_biomarkers": 14721,
     "archive_trials": 4990,
     "archive_mind_body": 442
   }
