@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-05-18T04:06:54.088Z",
+  "last_updated": "2026-05-18T04:07:06.978Z",
   "categories": {
     "supplements": [
+      {
+        "id": "rec2oOWkic6e2Bvtb",
+        "title": "Berberine alleviates radiation-induced intestinal injury by inhibiting cellular senescence.",
+        "summary": "Berberine reduces intestinal damage from radiation therapy by preventing cells from aging prematurely.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42143338/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-18"
+      },
       {
         "id": "recGOXB3JrTVLpGWr",
         "title": "Integrating Network Pharmacology and Experimental Validation to Elucidate the Role of Huaier in Attenuating Liver Fibrosis via the AKT Signalling Pathway.",
@@ -197,20 +211,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-16"
-      },
-      {
-        "id": "reccqTYLIKB5qVyhv",
-        "title": "Interactions Between ADIPOQ rs1501299 Polymorphism, Dietary Macronutrient Composition, and Gastric Cancer Risk: Evidence from a Korean Case-Control Study.",
-        "summary": "A genetic variant in the ADIPOQ gene modified how diet's macronutrient balance affected gastric cancer risk in Korean adults.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42139631/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Stomach"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-16"
       }
@@ -786,6 +786,20 @@
         "added_date": "2026-05-18"
       },
       {
+        "id": "recBzDjvOewLBN0me",
+        "title": "Co-targeting CDK4/6 and MEK reverses mesenchymal transition in therapy-refractory BRAF-altered pediatric high-grade glioma.",
+        "summary": "Combining CDK4/6 and MEK inhibitors overcomes drug resistance in pediatric brain tumors with BRAF mutations.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42143334/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-18"
+      },
+      {
         "id": "recXnLELS277IpReF",
         "title": "Navigating false-positive outcomes after stool-based colorectal cancer screening tests: a scoping review.",
         "summary": "Stool-based colorectal cancer screening sometimes shows positive results despite negative colonoscopy, requiring clarification on appropriate follow-up management.",
@@ -840,20 +854,6 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-17"
-      },
-      {
-        "id": "rec5kEk586XFtRAQZ",
-        "title": "Feasibility study of the Four-Session Cognitive-Behavioral Therapy-based Psychological Intervention Program for women with HER2-positive metastatic breast cancer.",
-        "summary": "A brief four-session therapy program shows promise for reducing emotional distress in women with advanced HER2-positive breast cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42141145/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-17"
       }
     ],
     "mind_body": []
@@ -865,10 +865,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23702,
+    "archive_count": 23703,
     "archive_supplements": 2537,
     "archive_off_label": 785,
-    "archive_biomarkers": 14663,
+    "archive_biomarkers": 14664,
     "archive_trials": 4983,
     "archive_mind_body": 442
   }
