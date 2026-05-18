@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17T11:29:55.152Z",
+  "last_updated": "2026-05-18T02:34:37.251Z",
   "categories": {
     "supplements": [
       {
@@ -643,6 +643,20 @@
     ],
     "trials": [
       {
+        "id": "recLg96cjwqUplfSu",
+        "title": "Effects of yoga on depressive symptoms in breast cancer patients: a meta-analysis of randomized controlled trials.",
+        "summary": "Yoga reduces depression symptoms in breast cancer patients and should be used alongside standard cancer treatments.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42142147/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-18"
+      },
+      {
         "id": "recXnLELS277IpReF",
         "title": "Navigating false-positive outcomes after stool-based colorectal cancer screening tests: a scoping review.",
         "summary": "Stool-based colorectal cancer screening sometimes shows positive results despite negative colonoscopy, requiring clarification on appropriate follow-up management.",
@@ -837,20 +851,6 @@
         "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-17"
-      },
-      {
-        "id": "recfmxZaeKeanSBVh",
-        "title": "MRI- and report-based multimodal model with SHAP-based explanation for preoperative prediction of deep stromal invasion in early-stage cervical cancer.",
-        "summary": "Researchers developed an AI model using MRI scans and reports to predict how deep cervical cancer has invaded tissue before surgery.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42141332/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-17"
       }
     ],
     "mind_body": []
@@ -862,11 +862,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23685,
+    "archive_count": 23686,
     "archive_supplements": 2537,
     "archive_off_label": 785,
     "archive_biomarkers": 14648,
-    "archive_trials": 4981,
+    "archive_trials": 4982,
     "archive_mind_body": 442
   }
 }
