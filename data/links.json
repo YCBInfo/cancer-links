@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-18T04:05:21.284Z",
+  "last_updated": "2026-05-18T04:05:32.806Z",
   "categories": {
     "supplements": [
       {
@@ -772,6 +772,20 @@
         "added_date": "2026-05-18"
       },
       {
+        "id": "recVH2Tziv6OBfuru",
+        "title": "A RIPK2 activity signature in prostate cancer: Modulation by RIPK2 inhibition and clinical association.",
+        "summary": "Researchers identified a genetic signature that measures RIPK2 protein activity in prostate cancer, enabling better patient selection for RIPK2-targeted treatments.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42143470/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-18"
+      },
+      {
         "id": "recXnLELS277IpReF",
         "title": "Navigating false-positive outcomes after stool-based colorectal cancer screening tests: a scoping review.",
         "summary": "Stool-based colorectal cancer screening sometimes shows positive results despite negative colonoscopy, requiring clarification on appropriate follow-up management.",
@@ -840,20 +854,6 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-17"
-      },
-      {
-        "id": "rec7lIror5KWhK2HA",
-        "title": "Effects of activity pacing-related interventions on cancer-related fatigue and classification of behavior change techniques: A systematic review and meta-analysis.",
-        "summary": "Activity pacing interventions help reduce fatigue in cancer patients by balancing activity with rest periods.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42141128/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 19,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-17"
       }
     ],
     "mind_body": []
@@ -865,11 +865,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23694,
+    "archive_count": 23695,
     "archive_supplements": 2537,
     "archive_off_label": 785,
     "archive_biomarkers": 14656,
-    "archive_trials": 4982,
+    "archive_trials": 4983,
     "archive_mind_body": 442
   }
 }
