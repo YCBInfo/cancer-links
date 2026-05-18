@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-18T04:04:57.898Z",
+  "last_updated": "2026-05-18T04:05:10.219Z",
   "categories": {
     "supplements": [
       {
@@ -757,6 +757,21 @@
         "added_date": "2026-05-18"
       },
       {
+        "id": "recPUq4xZIuulrkGq",
+        "title": "The evolution of CAR therapies across oncology and autoimmunity: mechanistic insights and therapeutic innovations.",
+        "summary": "CAR-T cell therapies show deep remissions in blood cancers like leukemia and lymphoma, with emerging designs targeting solid tumors and autoimmune diseases.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42143506/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia",
+          "Lymphoma"
+        ],
+        "quality_score": 24,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-18"
+      },
+      {
         "id": "recXnLELS277IpReF",
         "title": "Navigating false-positive outcomes after stool-based colorectal cancer screening tests: a scoping review.",
         "summary": "Stool-based colorectal cancer screening sometimes shows positive results despite negative colonoscopy, requiring clarification on appropriate follow-up management.",
@@ -839,20 +854,6 @@
         "quality_score": 19,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-17"
-      },
-      {
-        "id": "recrrbnTWDNLe1Tkd",
-        "title": "Carboplatin with or without nivolumab in metastatic triple-negative breast cancer: a randomized phase II trial.",
-        "summary": "Adding nivolumab to carboplatin showed no overall survival benefit in metastatic triple-negative breast cancer, but improved outcomes in PD-L1-positive patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42140950/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 21,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-17"
       }
     ],
     "mind_body": []
@@ -864,10 +865,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23692,
+    "archive_count": 23693,
     "archive_supplements": 2537,
     "archive_off_label": 785,
-    "archive_biomarkers": 14654,
+    "archive_biomarkers": 14655,
     "archive_trials": 4982,
     "archive_mind_body": 442
   }
