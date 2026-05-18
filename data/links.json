@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-18T04:09:46.355Z",
+  "last_updated": "2026-05-18T04:09:56.679Z",
   "categories": {
     "supplements": [
       {
@@ -217,6 +217,20 @@
     ],
     "off_label": [
       {
+        "id": "recaAEU0TccM79PiX",
+        "title": "Pre-treatment of cabozantinib prior to hypofractionated radiotherapy increases immunomodulatory effects and tumor size reduction in a 4T1 breast cancer murine model.",
+        "summary": "Combining cabozantinib with radiotherapy reduces breast cancer tumors and boosts anti-tumor immune responses in mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42143109/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-18"
+      },
+      {
         "id": "recJ5DIw8gYidUuE1",
         "title": "Combination of ivermectin and metformin promotes autophagy in MCF‑7 cells by inhibiting phosphorylation of the PI3K/AKT/mTOR pathway.",
         "summary": "Combining ivermectin and metformin kills breast cancer cells by triggering autophagy through increased oxidative stress and pathway inhibition.",
@@ -411,20 +425,6 @@
           "Leukemia"
         ],
         "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-15"
-      },
-      {
-        "id": "recRxoiwjj0XCcmJJ",
-        "title": "Toremifene in desmoid fibromatosis: Prospective phase 2 study of two dose levels.",
-        "summary": "A study tested whether toremifene, an existing drug, safely and effectively treats desmoid fibromatosis at different dose levels.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41903360/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 18,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-15"
       }
@@ -842,18 +842,18 @@
         "added_date": "2026-05-18"
       },
       {
-        "id": "recXnLELS277IpReF",
-        "title": "Navigating false-positive outcomes after stool-based colorectal cancer screening tests: a scoping review.",
-        "summary": "Stool-based colorectal cancer screening sometimes shows positive results despite negative colonoscopy, requiring clarification on appropriate follow-up management.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42141388/",
+        "id": "recaAEU0TccM79PiX",
+        "title": "Pre-treatment of cabozantinib prior to hypofractionated radiotherapy increases immunomodulatory effects and tumor size reduction in a 4T1 breast cancer murine model.",
+        "summary": "Combining cabozantinib with radiotherapy reduces breast cancer tumors and boosts anti-tumor immune responses in mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42143109/",
         "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
+        "category": "Off-Label Medications",
         "cancer_types": [
-          "Colorectal"
+          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
-        "added_date": "2026-05-17"
+        "added_date": "2026-05-18"
       }
     ],
     "mind_body": []
@@ -865,10 +865,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23717,
+    "archive_count": 23718,
     "archive_supplements": 2538,
     "archive_off_label": 785,
-    "archive_biomarkers": 14677,
+    "archive_biomarkers": 14678,
     "archive_trials": 4983,
     "archive_mind_body": 442
   }
