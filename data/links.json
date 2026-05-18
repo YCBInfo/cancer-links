@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-18T04:09:16.756Z",
+  "last_updated": "2026-05-18T04:09:26.272Z",
   "categories": {
     "supplements": [
       {
@@ -828,6 +828,20 @@
         "added_date": "2026-05-18"
       },
       {
+        "id": "recE6TlfDXGuLuD1w",
+        "title": "Multi-task deep learning assists detection and diagnosis of gliomas and brain metastases.",
+        "summary": "AI system helps radiologists detect and diagnose brain gliomas and metastases more accurately and faster on MRI scans.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42143150/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-18"
+      },
+      {
         "id": "recXnLELS277IpReF",
         "title": "Navigating false-positive outcomes after stool-based colorectal cancer screening tests: a scoping review.",
         "summary": "Stool-based colorectal cancer screening sometimes shows positive results despite negative colonoscopy, requiring clarification on appropriate follow-up management.",
@@ -838,20 +852,6 @@
           "Colorectal"
         ],
         "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-17"
-      },
-      {
-        "id": "rec47FkmI23iEo9cA",
-        "title": "Estimation of split renal function on PET using the SSTR-targeting radioligands [18F]SiTATE, [68Ga]Ga-DOTA-TATE and [68Ga]Ga-DOTA-TOC in a theranostic setting.",
-        "summary": "SSTR-PET scans can predict kidney function and radiation dose in neuroendocrine cancer patients receiving targeted therapy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42141279/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-17"
       }
@@ -865,10 +865,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23714,
+    "archive_count": 23715,
     "archive_supplements": 2538,
     "archive_off_label": 785,
-    "archive_biomarkers": 14674,
+    "archive_biomarkers": 14675,
     "archive_trials": 4983,
     "archive_mind_body": 442
   }
