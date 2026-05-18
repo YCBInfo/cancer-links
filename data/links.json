@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-18T04:04:11.555Z",
+  "last_updated": "2026-05-18T04:04:24.225Z",
   "categories": {
     "supplements": [
       {
@@ -600,6 +600,34 @@
         "added_date": "2026-05-18"
       },
       {
+        "id": "recauVKCBimGlsQKv",
+        "title": "Assessing the suitability of automated registration and segmentation for dosimetry calculations in SIRT treatment planning.",
+        "summary": "Automated image registration and segmentation techniques are reliable for calculating radiation doses in liver cancer SIRT treatment planning.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42143172/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-18"
+      },
+      {
+        "id": "recuw1sfp2PBqndCp",
+        "title": "Assessing the Physiological Relevance of the Bioactivation of Tobacco Specific Carcinogen NNK and its Metabolite NNAL: Quantitative Analyses of Hydrolysis Products from Their Protein Adducts under Different Carcinogen Exposure Conditions.",
+        "summary": "Tobacco smoke exposure models better mimic human lung cancer carcinogen activation than injection-based models, improving preclinical research relevance.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42142878/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-18"
+      },
+      {
         "id": "recNmNOxTIis2z3pF",
         "title": "An orthotopic organoid-based model to study early CD8⁺ T cell dysfunction and immunotherapy response in colorectal cancer.",
         "summary": "Researchers developed a colorectal cancer model showing CD8+ T cell dysfunction and improved responses to immunotherapy treatment.",
@@ -608,34 +636,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-17"
-      },
-      {
-        "id": "recFnkmWRh0R7dbLz",
-        "title": "The germline landscape of pituitary adenomas: established and emerging predisposition genes.",
-        "summary": "Researchers identified genetic mutations that predispose people to pituitary adenomas, enabling personalized screening and family testing strategies.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42141904/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-17"
-      },
-      {
-        "id": "receBEBRB0xJgPUWi",
-        "title": "Dissecting acute neuronal responses to glioblastoma using a dual-interface human iPSC neuronal culture platform.",
-        "summary": "Researchers developed a lab model showing how glioblastoma tumors rapidly remodel neuronal connections through specific signaling pathways, suggesting potential drug targets.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42141486/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Brain"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -864,10 +864,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23688,
+    "archive_count": 23689,
     "archive_supplements": 2537,
     "archive_off_label": 785,
-    "archive_biomarkers": 14650,
+    "archive_biomarkers": 14651,
     "archive_trials": 4982,
     "archive_mind_body": 442
   }
