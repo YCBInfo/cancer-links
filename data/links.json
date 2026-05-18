@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-18T04:15:40.453Z",
+  "last_updated": "2026-05-18T04:15:51.632Z",
   "categories": {
     "supplements": [
       {
@@ -53,6 +53,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-18"
+      },
+      {
+        "id": "recZXL3Nu1gWHFgX5",
+        "title": "Integrative multi-omics analysis identifies a core ferroptosis signature and validates resveratrol as a novel inducer in pancreatic cancer.",
+        "summary": "Resveratrol induces ferroptosis in pancreatic cancer cells by targeting a key regulatory network involving six genes, offering a potential new treatment approach.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42142137/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Pancreatic"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -193,20 +207,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Stomach"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-16"
-      },
-      {
-        "id": "recHm2SkBPnoDPOO0",
-        "title": "Atractylenolide I Blocks Lung Metastasis of Triple-Negative Breast Cancer by Inhibiting SPP1-Mediated Extracellular Matrix Signaling Pathway.",
-        "summary": "Atractylenolide I, a plant compound, blocks triple-negative breast cancer spread to the lungs by disrupting a protein involved in metastasis.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42138273/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -863,10 +863,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23750,
+    "archive_count": 23751,
     "archive_supplements": 2539,
     "archive_off_label": 787,
-    "archive_biomarkers": 14702,
+    "archive_biomarkers": 14703,
     "archive_trials": 4988,
     "archive_mind_body": 442
   }
