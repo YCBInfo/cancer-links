@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19T04:05:26.840Z",
+  "last_updated": "2026-05-19T04:05:39.378Z",
   "categories": {
     "supplements": [
       {
@@ -767,6 +767,20 @@
         "added_date": "2026-05-19"
       },
       {
+        "id": "recWHVrWbX7ipCssx",
+        "title": "[Clinical practice guideline for integrated PET/MRI in brain gliomas(2026 edition)].",
+        "summary": "New guidelines standardize combined PET/MRI imaging for diagnosing and treating brain gliomas in China, improving precision care.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42135047/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-19"
+      },
+      {
         "id": "recLg96cjwqUplfSu",
         "title": "Effects of yoga on depressive symptoms in breast cancer patients: a meta-analysis of randomized controlled trials.",
         "summary": "Yoga reduces depression symptoms in breast cancer patients and should be used alongside standard cancer treatments.",
@@ -836,20 +850,6 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-18"
-      },
-      {
-        "id": "recfpykKx4Xrg8llh",
-        "title": "Rapid Exacerbation of Bilateral Hip Osteoarthritis Induced by Immune Checkpoint Inhibitor Therapy: A Case Report.",
-        "summary": "Immune checkpoint inhibitor nivolumab rapidly worsened hip osteoarthritis in a melanoma patient by triggering severe joint inflammation requiring surgery.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42143574/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Melanoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-18"
       }
     ],
     "mind_body": []
@@ -861,11 +861,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23840,
+    "archive_count": 23841,
     "archive_supplements": 2548,
     "archive_off_label": 788,
     "archive_biomarkers": 14766,
-    "archive_trials": 5004,
+    "archive_trials": 5005,
     "archive_mind_body": 442
   }
 }
