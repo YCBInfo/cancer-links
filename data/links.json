@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19T04:04:42.620Z",
+  "last_updated": "2026-05-19T04:04:54.428Z",
   "categories": {
     "supplements": [
       {
@@ -13,6 +13,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-19"
+      },
+      {
+        "id": "recGxIQpqrYnEJOBo",
+        "title": "Integrative bioinformatics and experimental validation reveal quercetin as a potential multi-target therapeutic agent in hepatocellular carcinoma.",
+        "summary": "Quercetin, a natural compound, reduces liver cancer cell growth by targeting five key genes involved in tumor development.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42145839/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-19"
       },
@@ -195,20 +209,6 @@
           "Liver"
         ],
         "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-17"
-      },
-      {
-        "id": "recsvFoeNlQ6iZv2U",
-        "title": "Mechanistic insights into 18β-glycyrrhetinic acid-induced apoptosis in SCC-9 cells revealed by TMT proteomics and network pharmacology.",
-        "summary": "Licorice compound 18β-GRA kills tongue cancer cells by triggering apoptosis, cell cycle arrest, and oxidative stress through PI3K/AKT pathway inhibition.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42140987/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-17"
       }
@@ -583,6 +583,34 @@
         "added_date": "2026-05-19"
       },
       {
+        "id": "recGxIQpqrYnEJOBo",
+        "title": "Integrative bioinformatics and experimental validation reveal quercetin as a potential multi-target therapeutic agent in hepatocellular carcinoma.",
+        "summary": "Quercetin, a natural compound, reduces liver cancer cell growth by targeting five key genes involved in tumor development.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42145839/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-19"
+      },
+      {
+        "id": "rec9Bh6Ea6uISzh7t",
+        "title": "Co-Culture of nasopharyngeal carcinoma cells and fibroblasts induces altered integrin expression associated with 3D structural formation.",
+        "summary": "Combining nasopharyngeal cancer cells with fibroblasts in 3D culture creates tumor models that better mimic real tumors and show altered integrin expression patterns.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42145838/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-19"
+      },
+      {
         "id": "recRihrcbQp4XX95d",
         "title": "PRX5 as a critical driver of colorectal cancer stemness and tumorigenicity.",
         "summary": "PRX5 protein drives colorectal cancer stem cell formation and tumor growth, offering a potential treatment target.",
@@ -607,34 +635,6 @@
           "Colorectal"
         ],
         "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-18"
-      },
-      {
-        "id": "recJB6TuvQDIz2162",
-        "title": "Screening for differentially expressed genes in retinoblastoma gene chips through the GEO database and validation in clinical settings.",
-        "summary": "Researchers identified genes with abnormal expression in retinoblastoma tumors and confirmed these findings in actual patient samples.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42039963/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-05-18"
-      },
-      {
-        "id": "reclAfwjyWjfJfjUW",
-        "title": "Mitochondria-Targeted Zwitterionic Nanogels Trigger Photopyroptosis for Enhanced Cancer Therapy.",
-        "summary": "Nanogels that naturally target mitochondria trigger cancer cell death when exposed to laser light, achieving 99.3% tumor inhibition with minimal toxicity.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42143709/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-18"
       }
@@ -861,11 +861,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23837,
+    "archive_count": 23838,
     "archive_supplements": 2548,
     "archive_off_label": 788,
     "archive_biomarkers": 14764,
-    "archive_trials": 5003,
+    "archive_trials": 5004,
     "archive_mind_body": 442
   }
 }
