@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19T04:11:34.097Z",
+  "last_updated": "2026-05-19T04:11:44.823Z",
   "categories": {
     "supplements": [
       {
@@ -67,6 +67,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Melanoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-19"
+      },
+      {
+        "id": "recOD4qYHHVZvkl6K",
+        "title": "Exploring the anticancer potential of Streptomyces sp. M4 extract: effects on apoptosis in gastric cancer ags cells.",
+        "summary": "Streptomyces sp. M4 extract kills gastric cancer cells by triggering apoptosis through the extrinsic death pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42149331/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Stomach"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -195,20 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-18"
-      },
-      {
-        "id": "recNlNN59ZZw6gtdw",
-        "title": "Multidimensional Proteomics Reveals the Pro-apoptotic Mechanism of Platycodin D: Targeting RFC4 to Regulate the Notch Signaling Axis in Non-Small Cell Lung Cancer.",
-        "summary": "Platycodin D, a plant compound, kills non-small cell lung cancer cells by targeting a protein that controls growth signals.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42142580/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-18"
       }
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23872,
+    "archive_count": 23873,
     "archive_supplements": 2551,
     "archive_off_label": 788,
-    "archive_biomarkers": 14788,
+    "archive_biomarkers": 14789,
     "archive_trials": 5011,
     "archive_mind_body": 442
   }
