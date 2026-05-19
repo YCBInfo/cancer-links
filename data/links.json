@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19T04:04:54.428Z",
+  "last_updated": "2026-05-19T04:05:06.697Z",
   "categories": {
     "supplements": [
       {
@@ -611,24 +611,24 @@
         "added_date": "2026-05-19"
       },
       {
+        "id": "recP1wqL97usnPzuA",
+        "title": "Role of genomic science in males with breast cancer.",
+        "summary": "Male breast cancer risk doubles with affected relatives; genomic science enables better risk assessment and personalized treatment through nursing education.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42144675/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-19"
+      },
+      {
         "id": "recRihrcbQp4XX95d",
         "title": "PRX5 as a critical driver of colorectal cancer stemness and tumorigenicity.",
         "summary": "PRX5 protein drives colorectal cancer stem cell formation and tumor growth, offering a potential treatment target.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42141998/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-18"
-      },
-      {
-        "id": "recs6PIdclS5oMNrf",
-        "title": "Statistical method for pooling categorical biomarker data from multi-center matched/nested case-control studies.",
-        "summary": "Researchers developed a statistical method to accurately combine categorical biomarker data from multiple studies while correcting for measurement differences between labs.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42141963/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -753,6 +753,20 @@
         "added_date": "2026-05-19"
       },
       {
+        "id": "recP1wqL97usnPzuA",
+        "title": "Role of genomic science in males with breast cancer.",
+        "summary": "Male breast cancer risk doubles with affected relatives; genomic science enables better risk assessment and personalized treatment through nursing education.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42144675/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-19"
+      },
+      {
         "id": "recLg96cjwqUplfSu",
         "title": "Effects of yoga on depressive symptoms in breast cancer patients: a meta-analysis of randomized controlled trials.",
         "summary": "Yoga reduces depression symptoms in breast cancer patients and should be used alongside standard cancer treatments.",
@@ -836,20 +850,6 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-18"
-      },
-      {
-        "id": "recV8ISEURv8aj3Ki",
-        "title": "Predictors of pathologic complete response in triple‑negative breast cancer treated with neoadjuvant chemotherapy: a systematic review and meta-analysis.",
-        "summary": "Study identifies tumor stage, Ki-67 expression, BRCA mutations, and immune markers as predictors of treatment success in triple-negative breast cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42143190/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 25,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-18"
       }
     ],
     "mind_body": []
@@ -861,10 +861,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23838,
+    "archive_count": 23839,
     "archive_supplements": 2548,
     "archive_off_label": 788,
-    "archive_biomarkers": 14764,
+    "archive_biomarkers": 14765,
     "archive_trials": 5004,
     "archive_mind_body": 442
   }
