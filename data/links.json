@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19T06:12:59.270Z",
+  "last_updated": "2026-05-19T09:03:24.116Z",
   "categories": {
     "supplements": [
       {
@@ -257,6 +257,48 @@
         "added_date": "2026-05-19"
       },
       {
+        "id": "reci8iAVo8t2ZvMyn",
+        "title": "Changes in metabolic and pulmonary outcomes after discontinuation of glucagon-like-peptide-1 receptor agonist therapy in people with cystic fibrosis.",
+        "summary": "Stopping GLP-1 drugs in cystic fibrosis patients reversed weight loss and worsened blood sugar control and lung function.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42151007/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-19"
+      },
+      {
+        "id": "recEb5XM0yAvzu2Un",
+        "title": "Canonical microRNA loss drives tumor development, implicating therapeutic efficacy of enoxacin in angiosarcoma.",
+        "summary": "Loss of microRNA processing drives angiosarcoma development, and the antibiotic enoxacin restores tumor-suppressive miRNAs to slow cancer growth.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41748289/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-19"
+      },
+      {
+        "id": "rec3n1K3jKQuf7bGB",
+        "title": "Novel statin derivatives as non-competitive inhibitors of human adenylate kinase 1: synthesis, enzyme inhibition, molecular docking, and biological studies.",
+        "summary": "Novel statin-based compounds selectively inhibit adenylate kinase 1, showing promise as therapeutic agents with potential applications in cancer and other diseases.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42150648/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-19"
+      },
+      {
         "id": "recaAEU0TccM79PiX",
         "title": "Pre-treatment of cabozantinib prior to hypofractionated radiotherapy increases immunomodulatory effects and tumor size reduction in a 4T1 breast cancer murine model.",
         "summary": "Combining cabozantinib with radiotherapy reduces breast cancer tumors and boosts anti-tumor immune responses in mice.",
@@ -378,48 +420,6 @@
         "cancer_types": [
           "Lymphoma",
           "Pancreatic"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-16"
-      },
-      {
-        "id": "recbU0m8Sxhym7y8c",
-        "title": "LKB1 Loss Sensitizes Lung Tumor Spheres to Mitomet-Induced Ferroptosis, and These Effects are Enhanced by mTOR Inhibition.",
-        "summary": "LKB1-mutant lung cancer stem cells die when treated with mitomet and mTOR inhibitors through ferroptosis, a new therapeutic approach.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42138621/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-16"
-      },
-      {
-        "id": "recgvIT1K7gi3dd1U",
-        "title": "Inhibition of ceramide synthesis ameliorates body wasting in a cancer cachexia model.",
-        "summary": "Blocking ceramide production in the liver reduces muscle wasting in cancer cachexia, offering a potential new treatment approach.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42138073/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-16"
-      },
-      {
-        "id": "recL6BSZhat5kHYsW",
-        "title": "Repurposing Resmetirom to Suppress MASLD/MASH-HCC in the Dysmetabolic Era.",
-        "summary": "Resmetirom, a drug approved for fatty liver disease, may help prevent or treat liver cancer by reducing inflammation and improving metabolic health.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42141212/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Liver"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 24046,
+    "archive_count": 24047,
     "archive_supplements": 2572,
     "archive_off_label": 791,
-    "archive_biomarkers": 14917,
+    "archive_biomarkers": 14918,
     "archive_trials": 5032,
     "archive_mind_body": 442
   }
