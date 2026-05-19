@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19T04:11:54.816Z",
+  "last_updated": "2026-05-19T04:12:04.709Z",
   "categories": {
     "supplements": [
       {
@@ -77,6 +77,20 @@
         "title": "Exploring the anticancer potential of Streptomyces sp. M4 extract: effects on apoptosis in gastric cancer ags cells.",
         "summary": "Streptomyces sp. M4 extract kills gastric cancer cells by triggering apoptosis through the extrinsic death pathway.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42149331/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-19"
+      },
+      {
+        "id": "recSIQ9Gq2rpSvXRc",
+        "title": "Platycodin D Overcomes Cisplatin Resistance in Gastric Cancer by Inducing Ferroptosis through TLK1-Dependent UHRF2/DNMT3A/ALOX15 Pathway.",
+        "summary": "Platycodin D helps overcome cisplatin resistance in gastric cancer by triggering a specific cell death pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42149324/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -195,20 +209,6 @@
           "Pancreatic"
         ],
         "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-18"
-      },
-      {
-        "id": "reccj98nWBZeb524T",
-        "title": "The effects of a powdered meal replacement intake on inflammation, gut microbiota, and metabolism compared to habitual diet in people with excess body weight - results from a randomized controlled trial.",
-        "summary": "A powdered meal replacement reduced inflammation and improved metabolism in overweight people compared to their regular diet.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42142662/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-18"
       }
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23874,
+    "archive_count": 23875,
     "archive_supplements": 2551,
     "archive_off_label": 788,
-    "archive_biomarkers": 14790,
+    "archive_biomarkers": 14791,
     "archive_trials": 5011,
     "archive_mind_body": 442
   }
