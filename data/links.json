@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19T04:25:36.870Z",
+  "last_updated": "2026-05-19T04:25:46.801Z",
   "categories": {
     "supplements": [
       {
@@ -143,6 +143,20 @@
         "added_date": "2026-05-19"
       },
       {
+        "id": "recg2wAZuwDTf83jv",
+        "title": "Integrated HPLC-ESI-QTOF-MS based characterization and biological evaluation of Alkanna orientalis and Alkanna verecunda roots.",
+        "summary": "Alkanna orientalis root extract showed mild cytotoxic activity against gastric, ovarian, colon, and cervical cancer cells while remaining non-toxic to normal cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42144431/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-19"
+      },
+      {
         "id": "rec2oOWkic6e2Bvtb",
         "title": "Berberine alleviates radiation-induced intestinal injury by inhibiting cellular senescence.",
         "summary": "Berberine reduces intestinal damage from radiation therapy by preventing cells from aging prematurely.",
@@ -193,20 +207,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-18"
-      },
-      {
-        "id": "recZXL3Nu1gWHFgX5",
-        "title": "Integrative multi-omics analysis identifies a core ferroptosis signature and validates resveratrol as a novel inducer in pancreatic cancer.",
-        "summary": "Resveratrol induces ferroptosis in pancreatic cancer cells by targeting a key regulatory network involving six genes, offering a potential new treatment approach.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42142137/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Pancreatic"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23949,
+    "archive_count": 23950,
     "archive_supplements": 2557,
     "archive_off_label": 788,
-    "archive_biomarkers": 14848,
+    "archive_biomarkers": 14849,
     "archive_trials": 5022,
     "archive_mind_body": 442
   }
