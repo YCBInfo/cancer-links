@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19T04:07:44.668Z",
+  "last_updated": "2026-05-19T04:07:51.490Z",
   "categories": {
     "supplements": [
       {
@@ -25,6 +25,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-19"
+      },
+      {
+        "id": "recQok8lsRmuFT0Sa",
+        "title": "ROS-mediated apoptosis in colon cancer cells induced by sulfated polysaccharides from Gracilaria corticata.",
+        "summary": "Sulfated polysaccharides from red algae trigger colon cancer cell death through oxidative stress mechanisms.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42149889/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -197,20 +211,6 @@
         "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-18"
-      },
-      {
-        "id": "recGOXB3JrTVLpGWr",
-        "title": "Integrating Network Pharmacology and Experimental Validation to Elucidate the Role of Huaier in Attenuating Liver Fibrosis via the AKT Signalling Pathway.",
-        "summary": "Huaier, a natural compound, reduces liver fibrosis by blocking the AKT protein pathway that activates scar-forming cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42141267/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-17"
       }
     ],
     "off_label": [
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23851,
+    "archive_count": 23852,
     "archive_supplements": 2549,
     "archive_off_label": 788,
-    "archive_biomarkers": 14773,
+    "archive_biomarkers": 14774,
     "archive_trials": 5007,
     "archive_mind_body": 442
   }
