@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-18T11:32:05.454Z",
+  "last_updated": "2026-05-19T02:34:37.852Z",
   "categories": {
     "supplements": [
       {
@@ -641,6 +641,34 @@
     ],
     "trials": [
       {
+        "id": "recd8fHTpenpLzNJQ",
+        "title": "Relationship between spiritual pain, physical pain, and existential wellbeing among cancer patients: a correlational study.",
+        "summary": "Spiritual pain strongly affects cancer patients' overall well-being alongside physical pain, revealing an important gap in supportive care.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42149325/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-19"
+      },
+      {
+        "id": "recVB8eSlnbZgdeJW",
+        "title": "Creative and Expressive Therapies in Head and Neck Cancer Nursing: A Scoping Review and Evidence Map.",
+        "summary": "Creative therapies like art and music may help improve quality of life and emotional well-being in head and neck cancer patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42144289/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-19"
+      },
+      {
         "id": "recLg96cjwqUplfSu",
         "title": "Effects of yoga on depressive symptoms in breast cancer patients: a meta-analysis of randomized controlled trials.",
         "summary": "Yoga reduces depression symptoms in breast cancer patients and should be used alongside standard cancer treatments.",
@@ -823,34 +851,6 @@
         "quality_score": 22,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-18"
-      },
-      {
-        "id": "recE6TlfDXGuLuD1w",
-        "title": "Multi-task deep learning assists detection and diagnosis of gliomas and brain metastases.",
-        "summary": "AI system helps radiologists detect and diagnose brain gliomas and metastases more accurately and faster on MRI scans.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42143150/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-18"
-      },
-      {
-        "id": "recaAEU0TccM79PiX",
-        "title": "Pre-treatment of cabozantinib prior to hypofractionated radiotherapy increases immunomodulatory effects and tumor size reduction in a 4T1 breast cancer murine model.",
-        "summary": "Combining cabozantinib with radiotherapy reduces breast cancer tumors and boosts anti-tumor immune responses in mice.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42143109/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-18"
       }
     ],
     "mind_body": []
@@ -862,11 +862,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23829,
+    "archive_count": 23830,
     "archive_supplements": 2547,
     "archive_off_label": 788,
     "archive_biomarkers": 14760,
-    "archive_trials": 5000,
+    "archive_trials": 5001,
     "archive_mind_body": 442
   }
 }
