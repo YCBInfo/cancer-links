@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19T04:07:51.490Z",
+  "last_updated": "2026-05-19T04:08:09.570Z",
   "categories": {
     "supplements": [
       {
@@ -39,6 +39,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-19"
+      },
+      {
+        "id": "recHu9iYE5ZuBxQ2d",
+        "title": "In-silico prediction of multi‑target mechanisms of Pinellia ternata phytochemicals in lung cancer: Evidence from a graph‑attention‑guided virtual screening and multi‑scale simulations.",
+        "summary": "Computational analysis identifies baicalein from Pinellia ternata as a promising multi-target compound against lung cancer by targeting key proteins like PTK2 and KDR.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42149884/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -195,20 +209,6 @@
           "Liver"
         ],
         "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-18"
-      },
-      {
-        "id": "rec6Kl323trw1J386",
-        "title": "Innovations in Obesity Treatment: Beyond Adipose Tissue Dysfunction.",
-        "summary": "Obesity drives cancer through chronic inflammation and insulin dysfunction; new treatments targeting appetite hormones and fat metabolism show promise.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42144264/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-18"
       }
@@ -860,11 +860,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23852,
+    "archive_count": 23853,
     "archive_supplements": 2549,
     "archive_off_label": 788,
     "archive_biomarkers": 14774,
-    "archive_trials": 5007,
+    "archive_trials": 5008,
     "archive_mind_body": 442
   }
 }
