@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19T04:31:07.683Z",
+  "last_updated": "2026-05-19T04:31:18.635Z",
   "categories": {
     "supplements": [
       {
@@ -215,6 +215,20 @@
     ],
     "off_label": [
       {
+        "id": "recjiwNo6BUgP0bCS",
+        "title": "A phenothiazine analog, PTF, suppresses breast cancer growth by inhibiting YAP signaling.",
+        "summary": "PTF, a modified phenothiazine compound, effectively kills breast cancer cells by blocking YAP signaling and triggering cell death.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42144082/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-19"
+      },
+      {
         "id": "recaAEU0TccM79PiX",
         "title": "Pre-treatment of cabozantinib prior to hypofractionated radiotherapy increases immunomodulatory effects and tumor size reduction in a 4T1 breast cancer murine model.",
         "summary": "Combining cabozantinib with radiotherapy reduces breast cancer tumors and boosts anti-tumor immune responses in mice.",
@@ -408,20 +422,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-16"
-      },
-      {
-        "id": "recH2S2xyoCm0CdkN",
-        "title": "Dose-Response Relationship of Niclosamide and Metformin Combination in ApcMin/+ Mice: An Integrated In Vivo and Pharmacokinetic Modeling Study.",
-        "summary": "Combining niclosamide and metformin reduces polyps in mice with familial adenomatous polyposis, a hereditary colorectal cancer condition.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41362256/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-16"
       }
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23979,
+    "archive_count": 23980,
     "archive_supplements": 2558,
     "archive_off_label": 788,
-    "archive_biomarkers": 14873,
+    "archive_biomarkers": 14874,
     "archive_trials": 5026,
     "archive_mind_body": 442
   }
