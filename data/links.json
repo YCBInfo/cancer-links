@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19T04:11:13.208Z",
+  "last_updated": "2026-05-19T04:11:24.226Z",
   "categories": {
     "supplements": [
       {
@@ -53,6 +53,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-19"
+      },
+      {
+        "id": "recbEul3PDrrXnZqA",
+        "title": "Phytosomes against melanoma: disrupting molecular pathways with targeted phytochemical delivery.",
+        "summary": "Phytosomes—nanoparticles delivering plant compounds—overcome poor absorption to effectively target melanoma through multiple cancer pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42149379/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Melanoma"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -193,20 +207,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-18"
-      },
-      {
-        "id": "recY7TrdhtCTRhXaH",
-        "title": "Acute and subchronic toxicity studies of polysaccharide components from Trametes robiniophila Murr (Huaier) in Sprague-Dawley rats.",
-        "summary": "Researchers tested purified polysaccharides from Huaier fungus for safety in rats, supporting its use against hepatocellular carcinoma.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42142550/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Liver"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23870,
+    "archive_count": 23871,
     "archive_supplements": 2551,
     "archive_off_label": 788,
-    "archive_biomarkers": 14786,
+    "archive_biomarkers": 14787,
     "archive_trials": 5011,
     "archive_mind_body": 442
   }
