@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19T04:06:34.967Z",
+  "last_updated": "2026-05-19T04:06:45.509Z",
   "categories": {
     "supplements": [
       {
@@ -823,6 +823,20 @@
         "added_date": "2026-05-19"
       },
       {
+        "id": "reclx1ix1M0LUTwbd",
+        "title": "Survival Analysis of the WSG TP-II Trial: Neoadjuvant Trastuzumab and Pertuzumab Plus Endocrine Therapy Versus Chemotherapy in Hormone Receptor-Positive/Human Epidermal Growth Factor Receptor 2-Positive Early Breast Cancer.",
+        "summary": "For HER2-positive breast cancer, chemotherapy with targeted drugs achieved higher complete response rates than hormone therapy with targeted drugs.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42150145/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-19"
+      },
+      {
         "id": "recLg96cjwqUplfSu",
         "title": "Effects of yoga on depressive symptoms in breast cancer patients: a meta-analysis of randomized controlled trials.",
         "summary": "Yoga reduces depression symptoms in breast cancer patients and should be used alongside standard cancer treatments.",
@@ -831,20 +845,6 @@
         "category": "Clinical Trials",
         "cancer_types": [
           "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-18"
-      },
-      {
-        "id": "recs6PIdclS5oMNrf",
-        "title": "Statistical method for pooling categorical biomarker data from multi-center matched/nested case-control studies.",
-        "summary": "Researchers developed a statistical method to accurately combine categorical biomarker data from multiple studies while correcting for measurement differences between labs.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42141963/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23845,
+    "archive_count": 23846,
     "archive_supplements": 2548,
     "archive_off_label": 788,
-    "archive_biomarkers": 14768,
+    "archive_biomarkers": 14769,
     "archive_trials": 5007,
     "archive_mind_body": 442
   }
