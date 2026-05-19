@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19T04:04:29.582Z",
+  "last_updated": "2026-05-19T04:04:42.620Z",
   "categories": {
     "supplements": [
       {
@@ -569,6 +569,20 @@
         "added_date": "2026-05-19"
       },
       {
+        "id": "recNynLX3AkAh02cK",
+        "title": "Metabolic crosstalk in the bladder tumor microenvironment: lactate shuttling, amino acid dependency, and immunosuppression.",
+        "summary": "Bladder cancer cells use lactate and amino acids to suppress immune responses, suggesting metabolic targeting could improve immunotherapy effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42145840/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Bladder"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-19"
+      },
+      {
         "id": "recRihrcbQp4XX95d",
         "title": "PRX5 as a critical driver of colorectal cancer stemness and tumorigenicity.",
         "summary": "PRX5 protein drives colorectal cancer stem cell formation and tumor growth, offering a potential treatment target.",
@@ -615,20 +629,6 @@
         "title": "Mitochondria-Targeted Zwitterionic Nanogels Trigger Photopyroptosis for Enhanced Cancer Therapy.",
         "summary": "Nanogels that naturally target mitochondria trigger cancer cell death when exposed to laser light, achieving 99.3% tumor inhibition with minimal toxicity.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42143709/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-18"
-      },
-      {
-        "id": "recC2YpGQhM5mAn3V",
-        "title": "[Testicular sex cord stromal tumors].",
-        "summary": "Testicular sex cord stromal tumors are rare cancers, mostly benign but some aggressive; better recognition helps appropriate treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42143686/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -861,8 +861,8 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 23836,
-    "archive_supplements": 2547,
+    "archive_count": 23837,
+    "archive_supplements": 2548,
     "archive_off_label": 788,
     "archive_biomarkers": 14764,
     "archive_trials": 5003,
