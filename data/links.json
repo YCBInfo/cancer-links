@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-20T04:05:58.797Z",
+  "last_updated": "2026-05-20T04:06:11.559Z",
   "categories": {
     "supplements": [
       {
@@ -215,6 +215,20 @@
     ],
     "off_label": [
       {
+        "id": "recjAqXsUSTkwM2lk",
+        "title": "Dyslipidaemias in cancer patients.",
+        "summary": "Cancer survivors face high heart disease risk from both cancer treatments and high cholesterol, requiring personalized monitoring and cholesterol-lowering therapy strategies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42155049/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 21,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-20"
+      },
+      {
         "id": "recjiwNo6BUgP0bCS",
         "title": "A phenothiazine analog, PTF, suppresses breast cancer growth by inhibiting YAP signaling.",
         "summary": "PTF, a modified phenothiazine compound, effectively kills breast cancer cells by blocking YAP signaling and triggering cell death.",
@@ -409,20 +423,6 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-18"
-      },
-      {
-        "id": "recJ5DIw8gYidUuE1",
-        "title": "Combination of ivermectin and metformin promotes autophagy in MCF‑7 cells by inhibiting phosphorylation of the PI3K/AKT/mTOR pathway.",
-        "summary": "Combining ivermectin and metformin kills breast cancer cells by triggering autophagy through increased oxidative stress and pathway inhibition.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42138203/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-16"
       }
     ],
     "biomarkers": [
@@ -858,10 +858,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 24079,
+    "archive_count": 24080,
     "archive_supplements": 2573,
     "archive_off_label": 795,
-    "archive_biomarkers": 14934,
+    "archive_biomarkers": 14935,
     "archive_trials": 5043,
     "archive_mind_body": 442
   }
