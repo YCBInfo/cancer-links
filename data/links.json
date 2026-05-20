@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-20T04:17:03.360Z",
+  "last_updated": "2026-05-20T04:17:16.929Z",
   "categories": {
     "supplements": [
       {
@@ -229,6 +229,20 @@
         "added_date": "2026-05-20"
       },
       {
+        "id": "recEGOcrJ4SvOuOIg",
+        "title": "Type 2 diabetes and gynecologic cancers: Immunometabolic convergence and translational implications.",
+        "summary": "Type 2 diabetes worsens outcomes in gynecologic cancers, particularly endometrial and cervical cancer, through shared metabolic pathways that metformin may help address.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42153964/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-20"
+      },
+      {
         "id": "recjiwNo6BUgP0bCS",
         "title": "A phenothiazine analog, PTF, suppresses breast cancer growth by inhibiting YAP signaling.",
         "summary": "PTF, a modified phenothiazine compound, effectively kills breast cancer cells by blocking YAP signaling and triggering cell death.",
@@ -401,20 +415,6 @@
         "title": "Discovery of novel anthraquinone-based P2X7R antagonist that reinvigorates anti-tumor immunity and overcomes PD-1 resistance in breast cancer.",
         "summary": "A new breast cancer drug candidate blocks P2X7R to shrink tumors and restore immune response, even overcoming resistance to existing immunotherapy.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42143940/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-18"
-      },
-      {
-        "id": "rec2hzv8TbLBpGsFB",
-        "title": "Emerging trends in implication of nanocarriers in repolarization of tumor associated macrophages for improved triple negative breast cancer therapy.",
-        "summary": "Nanocarriers can reprogram tumor-supporting immune cells to fight triple negative breast cancer more effectively.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42143910/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -858,10 +858,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 24141,
+    "archive_count": 24142,
     "archive_supplements": 2576,
     "archive_off_label": 796,
-    "archive_biomarkers": 14989,
+    "archive_biomarkers": 14990,
     "archive_trials": 5046,
     "archive_mind_body": 442
   }
