@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-20T04:03:45.680Z",
+  "last_updated": "2026-05-20T04:03:55.363Z",
   "categories": {
     "supplements": [
       {
@@ -581,6 +581,20 @@
         "added_date": "2026-05-20"
       },
       {
+        "id": "recfUHKalrbIp0hw0",
+        "title": "Performance of the permutation test approach with base calling errors for detecting changes in variant allele frequencies in ctDNA for a single patient.",
+        "summary": "Researchers developed a permutation test to reliably detect changes in circulating tumor DNA levels over time, accounting for sequencing errors.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42155062/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-20"
+      },
+      {
         "id": "recdEnRDOf3KaWVfu",
         "title": "Circular RNAs in tumorigenesis: an insight into recent research in biogenesis and targeted tumor therapy.",
         "summary": "Dysregulated circular RNAs show promise as cancer biomarkers and therapeutic targets across multiple tumor types.",
@@ -619,20 +633,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-19"
-      },
-      {
-        "id": "recJltQwVh7vtP2SY",
-        "title": "Chemiluminescence resonance energy transfer-based method to investigate the platelet surface molecule in acute myocardial infarction.",
-        "summary": "A new blood test method detects elevated platelet activation markers in acute heart attack patients, potentially improving diagnosis and risk assessment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42148472/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 21,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-19"
       }
@@ -858,10 +858,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 24070,
+    "archive_count": 24071,
     "archive_supplements": 2572,
     "archive_off_label": 795,
-    "archive_biomarkers": 14926,
+    "archive_biomarkers": 14927,
     "archive_trials": 5043,
     "archive_mind_body": 442
   }
