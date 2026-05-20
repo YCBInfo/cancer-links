@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-20T04:06:48.211Z",
+  "last_updated": "2026-05-20T04:06:59.286Z",
   "categories": {
     "supplements": [
       {
@@ -13,6 +13,20 @@
           "Breast"
         ],
         "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-20"
+      },
+      {
+        "id": "recaMFjjpEHbCGGCD",
+        "title": "Shaping Human Health and Nutrition Through Innovations in Spatial Metabolism.",
+        "summary": "Spatial imaging technology reveals how diet reshapes tissue metabolism in cancer, liver disease, and brain health at high resolution.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42154815/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-20"
       },
@@ -195,20 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-19"
-      },
-      {
-        "id": "rec22FNsuib34frVP",
-        "title": "Comprehensive scientific insights on plant inspired nano therapeutics as the missing piece of the breast cancer puzzle.",
-        "summary": "Plant-based nanoparticles show promise as a safer, less toxic alternative treatment for breast cancer compared to conventional chemotherapy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42151631/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-19"
       }
@@ -858,10 +858,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 24083,
+    "archive_count": 24084,
     "archive_supplements": 2573,
     "archive_off_label": 795,
-    "archive_biomarkers": 14938,
+    "archive_biomarkers": 14939,
     "archive_trials": 5043,
     "archive_mind_body": 442
   }
