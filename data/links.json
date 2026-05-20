@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-20T04:18:05.302Z",
+  "last_updated": "2026-05-20T04:18:17.138Z",
   "categories": {
     "supplements": [
       {
@@ -67,6 +67,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-20"
+      },
+      {
+        "id": "recSXt7IxwXu8Ewqo",
+        "title": "Ketogenic Diet Prevents Obesity-Associated Pancreatic Cancer Independent of Weight Loss and Induces Pancreatic Metabolic Reprogramming.",
+        "summary": "Ketogenic diet delays pancreatic cancer progression in obese mice through metabolic changes, independent of weight loss.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42153914/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Pancreatic"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -197,20 +211,6 @@
         "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-19"
-      },
-      {
-        "id": "rec87cqx9mOjMOjT5",
-        "title": "A comparative experimental study on the impact of radiotherapy dose rate and melatonin pretreatment in tongue and esophageal tissues.",
-        "summary": "Melatonin pretreatment reduced radiation damage in tongue and esophageal tissues when treated with different radiotherapy beam types.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42148872/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-19"
       }
     ],
     "off_label": [
@@ -235,6 +235,20 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/42153964/",
         "source": "PubMed",
         "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-20"
+      },
+      {
+        "id": "reckF8PiZcPiXYngU",
+        "title": "ETS1 Orchestrates a Hybrid EMT Program Driving Metastasis and Immune Evasion.",
+        "summary": "ETS1 protein drives metastasis and immune evasion in squamous cell carcinoma, and HSP90 inhibitors may block this process.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42153907/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
@@ -407,20 +421,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-18"
-      },
-      {
-        "id": "rec0k5NjBESdCdX1U",
-        "title": "Discovery of novel anthraquinone-based P2X7R antagonist that reinvigorates anti-tumor immunity and overcomes PD-1 resistance in breast cancer.",
-        "summary": "A new breast cancer drug candidate blocks P2X7R to shrink tumors and restore immune response, even overcoming resistance to existing immunotherapy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42143940/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-18"
       }
@@ -858,10 +858,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 24147,
+    "archive_count": 24148,
     "archive_supplements": 2576,
     "archive_off_label": 796,
-    "archive_biomarkers": 14995,
+    "archive_biomarkers": 14996,
     "archive_trials": 5046,
     "archive_mind_body": 442
   }
