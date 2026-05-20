@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-20T04:10:41.902Z",
+  "last_updated": "2026-05-20T04:10:50.919Z",
   "categories": {
     "supplements": [
       {
@@ -23,6 +23,20 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/42154815/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-20"
+      },
+      {
+        "id": "rec2G0stDK4u64lDH",
+        "title": "In Vitro and In Vivo Study of Green-Synthesized Zinc Oxide Nanoparticles as a Novel Anticoccidial Agent.",
+        "summary": "Green-synthesized zinc oxide nanoparticles show promise as a new treatment for coccidiosis parasites in animals.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42154384/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "General"
         ],
@@ -189,20 +203,6 @@
         "title": "Myricetin Attenuates Lipopolysaccharide-Induced Acute Lung Injury by Suppressing Pyroptosis via Activation of the Nrf2/HO-1/NQO1 Signaling Pathway.",
         "summary": "Myricetin reduces acute lung injury by suppressing cell death and oxidative stress through activation of protective cellular pathways.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42144067/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-19"
-      },
-      {
-        "id": "rec7sF7TTtRmafag7",
-        "title": "Physalis minima L.: A comprehensive review on phytochemistry, pharmacology, and food applications.",
-        "summary": "Physalis minima plant contains withanolides showing promise against cancer, inflammation, and neuroinflammatory conditions, requiring further research.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42151567/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -858,10 +858,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 24105,
+    "archive_count": 24106,
     "archive_supplements": 2573,
     "archive_off_label": 796,
-    "archive_biomarkers": 14957,
+    "archive_biomarkers": 14958,
     "archive_trials": 5045,
     "archive_mind_body": 442
   }
