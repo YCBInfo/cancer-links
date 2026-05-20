@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-20T04:25:21.393Z",
+  "last_updated": "2026-05-20T04:25:33.093Z",
   "categories": {
     "supplements": [
       {
@@ -271,6 +271,20 @@
         "added_date": "2026-05-20"
       },
       {
+        "id": "recXUlIUdDXX0ewGt",
+        "title": "FGFR1 but not S6K1/2 drives intrinsic BRAF inhibitor resistance in melanoma.",
+        "summary": "FGFR1, not S6K1/2 signaling, drives melanoma's resistance to BRAF inhibitors, suggesting FGFR inhibitors may overcome this resistance.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42151121/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Melanoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-20"
+      },
+      {
         "id": "recjiwNo6BUgP0bCS",
         "title": "A phenothiazine analog, PTF, suppresses breast cancer growth by inhibiting YAP signaling.",
         "summary": "PTF, a modified phenothiazine compound, effectively kills breast cancer cells by blocking YAP signaling and triggering cell death.",
@@ -405,20 +419,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Pancreatic"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-18"
-      },
-      {
-        "id": "recoHEFOSEmxyMaSY",
-        "title": "The retinol metabolizing enzyme DHRS3 coordinates antigen presentation, endothelial stability, and cholesterol metabolism to suppress hepatocellular carcinoma progression.",
-        "summary": "DHRS3 protein suppresses liver cancer growth by boosting immunity and blocking metastasis, with a drug combination showing promise.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42142584/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Liver"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -858,10 +858,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 24187,
+    "archive_count": 24188,
     "archive_supplements": 2577,
     "archive_off_label": 798,
-    "archive_biomarkers": 15028,
+    "archive_biomarkers": 15029,
     "archive_trials": 5050,
     "archive_mind_body": 442
   }
