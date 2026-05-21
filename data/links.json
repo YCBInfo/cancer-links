@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T04:28:39.607Z",
+  "last_updated": "2026-05-21T04:28:50.797Z",
   "categories": {
     "supplements": [
       {
@@ -271,6 +271,20 @@
         "added_date": "2026-05-21"
       },
       {
+        "id": "rechimzLWMjEEaToa",
+        "title": "Targeting cysteinyl leukotriene receptor 1 reprograms tumor-promoting myelopoiesis and overcomes immune checkpoint therapy resistance.",
+        "summary": "Blocking a receptor called CysLTR1 reprograms immune cells to fight tumors and overcomes resistance to checkpoint immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42156983/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-21"
+      },
+      {
         "id": "recjAqXsUSTkwM2lk",
         "title": "Dyslipidaemias in cancer patients.",
         "summary": "Cancer survivors face high heart disease risk from both cancer treatments and high cholesterol, requiring personalized monitoring and cholesterol-lowering therapy strategies.",
@@ -407,20 +421,6 @@
           "Liver"
         ],
         "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-20"
-      },
-      {
-        "id": "recWVfmS4aoToRIQ5",
-        "title": "ROLE OF STATINS IN CIRRHOTIC PORTAL HYPERTENSION: META-ANALYSIS OF RANDOMIZED STUDIES.",
-        "summary": "Statins appear safe and potentially beneficial for cirrhotic patients, contrary to previous concerns about liver damage.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42154843/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-20"
       }
@@ -858,10 +858,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 24456,
+    "archive_count": 24457,
     "archive_supplements": 2604,
     "archive_off_label": 803,
-    "archive_biomarkers": 15218,
+    "archive_biomarkers": 15219,
     "archive_trials": 5097,
     "archive_mind_body": 442
   }
