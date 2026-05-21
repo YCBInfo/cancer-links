@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T08:04:08.351Z",
+  "last_updated": "2026-05-21T09:03:34.674Z",
   "categories": {
     "supplements": [
       {
@@ -327,6 +327,20 @@
         "added_date": "2026-05-21"
       },
       {
+        "id": "recXe2PqGsvqBp5MK",
+        "title": "Itraconazole as a repurposed anti-cancer agent: focusing on synthesis, mechanisms of action and therapeutic insights.",
+        "summary": "Itraconazole, an existing antifungal drug, shows promise as a cancer treatment by blocking blood vessel growth and key cell pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42158746/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-21"
+      },
+      {
         "id": "recjAqXsUSTkwM2lk",
         "title": "Dyslipidaemias in cancer patients.",
         "summary": "Cancer survivors face high heart disease risk from both cancer treatments and high cholesterol, requiring personalized monitoring and cholesterol-lowering therapy strategies.",
@@ -407,20 +421,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-20"
-      },
-      {
-        "id": "recLLAbwUhmFuZiro",
-        "title": "Redox regulation of EGFR activation by thioredoxin reductase 3 drives resistance to EGFR inhibitors in triple-negative breast cancer.",
-        "summary": "Blocking the TXNRD3 enzyme with auranofin resensitizes triple-negative breast cancer to EGFR inhibitors by activating EGFR signaling.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42156718/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-20"
       }
@@ -858,10 +858,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 24554,
+    "archive_count": 24555,
     "archive_supplements": 2615,
     "archive_off_label": 806,
-    "archive_biomarkers": 15264,
+    "archive_biomarkers": 15265,
     "archive_trials": 5135,
     "archive_mind_body": 442
   }
