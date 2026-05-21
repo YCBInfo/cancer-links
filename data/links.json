@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-05-21T04:04:08.555Z",
+  "last_updated": "2026-05-21T04:04:20.843Z",
   "categories": {
     "supplements": [
+      {
+        "id": "recUmc9VvWR4LzQzS",
+        "title": "Elephantopus scaber L.: phytochemistry, pharmacology, nanoformulation, and synthetic modification - a review.",
+        "summary": "Elephantopus scaber, an Asian medicinal plant, contains compounds that kill cancer cells and reduce inflammation through multiple cellular pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42160537/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-21"
+      },
       {
         "id": "recYTltRfuARp6iv2",
         "title": "Dendrobine inhibits the growth and invasion of human breast cancer cells by regulating the NF-κB signaling pathway via the SLC6A9 target.",
@@ -191,20 +205,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/42156079/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-20"
-      },
-      {
-        "id": "rec4aoxXB2Zx8sWRp",
-        "title": "Multimodal detection of microplastics in human kidney stones and multi-omics exploration of renal cell metaflammation.",
-        "summary": "Microplastics found in kidney stones trigger inflammation and oxidative stress; curcumin treatment effectively reduces this damage.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42155926/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
@@ -581,6 +581,20 @@
         "added_date": "2026-05-21"
       },
       {
+        "id": "recUmc9VvWR4LzQzS",
+        "title": "Elephantopus scaber L.: phytochemistry, pharmacology, nanoformulation, and synthetic modification - a review.",
+        "summary": "Elephantopus scaber, an Asian medicinal plant, contains compounds that kill cancer cells and reduce inflammation through multiple cellular pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42160537/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-21"
+      },
+      {
         "id": "recM0IXbwCYEaYiR9",
         "title": "Developing a preliminarily validated competency-based integrative oncology training questionnaire.",
         "summary": "Researchers created a questionnaire to measure whether healthcare trainees have essential skills for providing integrative cancer care.",
@@ -619,20 +633,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-20"
-      },
-      {
-        "id": "rec3927jGOELjCrOV",
-        "title": "Polyploid giant cancer cells: the hidden players in ovarian cancer progression and prognosis.",
-        "summary": "Polyploid giant cancer cells in ovarian cancer generate aggressive, drug-resistant daughter cells, driving tumor relapse and therapy resistance.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42153639/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Ovarian"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-20"
       }
@@ -858,11 +858,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 24323,
+    "archive_count": 24324,
     "archive_supplements": 2596,
     "archive_off_label": 801,
     "archive_biomarkers": 15121,
-    "archive_trials": 5071,
+    "archive_trials": 5072,
     "archive_mind_body": 442
   }
 }
