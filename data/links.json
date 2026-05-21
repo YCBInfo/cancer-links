@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T04:20:48.026Z",
+  "last_updated": "2026-05-21T04:20:57.275Z",
   "categories": {
     "supplements": [
       {
@@ -81,6 +81,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-21"
+      },
+      {
+        "id": "recqvUt2eC2JvzUF5",
+        "title": "Synergistic therapeutic effect and mechanism of Cryptotanshinone combined with Matrine on ovarian cancer.",
+        "summary": "Cryptotanshinone and matrine combined inhibit ovarian cancer growth and reverse drug resistance by blocking a key cellular pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42091250/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Ovarian"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -195,20 +209,6 @@
           "General"
         ],
         "quality_score": 21,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-20"
-      },
-      {
-        "id": "rec3YyXxfWpY4477J",
-        "title": "Limosilactobacillus reuteri promotes melatonin release from human intestinal organoids via 5'ectonucleotidase activity.",
-        "summary": "A beneficial gut bacterium stimulates melatonin release from intestinal cells through enzyme activity, potentially explaining its health benefits.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42152463/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-20"
       }
@@ -858,11 +858,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 24413,
+    "archive_count": 24414,
     "archive_supplements": 2601,
     "archive_off_label": 803,
     "archive_biomarkers": 15186,
-    "archive_trials": 5089,
+    "archive_trials": 5090,
     "archive_mind_body": 442
   }
 }
