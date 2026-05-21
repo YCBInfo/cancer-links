@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T04:13:34.952Z",
+  "last_updated": "2026-05-21T04:13:43.844Z",
   "categories": {
     "supplements": [
       {
@@ -257,6 +257,20 @@
         "added_date": "2026-05-21"
       },
       {
+        "id": "rec1YAwQEYofI7pNP",
+        "title": "Integrated data-independent acquisition and thermal proteome profiling for proteomic characterization of lamotrigine-treated MCF-7 cells.",
+        "summary": "Lamotrigine disrupts mitochondrial function in breast cancer cells, potentially explaining its anticancer effects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42159682/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-21"
+      },
+      {
         "id": "recjAqXsUSTkwM2lk",
         "title": "Dyslipidaemias in cancer patients.",
         "summary": "Cancer survivors face high heart disease risk from both cancer treatments and high cholesterol, requiring personalized monitoring and cholesterol-lowering therapy strategies.",
@@ -409,20 +423,6 @@
         "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-20"
-      },
-      {
-        "id": "recjiwNo6BUgP0bCS",
-        "title": "A phenothiazine analog, PTF, suppresses breast cancer growth by inhibiting YAP signaling.",
-        "summary": "PTF, a modified phenothiazine compound, effectively kills breast cancer cells by blocking YAP signaling and triggering cell death.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42144082/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-19"
       }
     ],
     "biomarkers": [
@@ -858,11 +858,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 24373,
+    "archive_count": 24374,
     "archive_supplements": 2598,
     "archive_off_label": 802,
     "archive_biomarkers": 15162,
-    "archive_trials": 5077,
+    "archive_trials": 5078,
     "archive_mind_body": 442
   }
 }
