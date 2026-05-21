@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T04:12:07.735Z",
+  "last_updated": "2026-05-21T04:12:17.256Z",
   "categories": {
     "supplements": [
       {
@@ -25,6 +25,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-21"
+      },
+      {
+        "id": "recLBksPODXhZBDNL",
+        "title": "PFAS is associated with perineural invasion in triple-negative breast cancer with a potential role for Cathepsin D dysregulation: a multi-omics and experimental study.",
+        "summary": "PFAS pollutants may promote nerve invasion in triple-negative breast cancer through Cathepsin D dysregulation, with a natural compound showing promise as treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42159784/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -193,20 +207,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-20"
-      },
-      {
-        "id": "recutNkBhQcdTE3PM",
-        "title": "Association between preoperative vitamin D level and postoperative pain in patients undergoing breast cancer surgery: a prospective observational study.",
-        "summary": "Low preoperative vitamin D levels are associated with increased acute pain after breast cancer surgery.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42156166/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -858,10 +858,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 24365,
+    "archive_count": 24366,
     "archive_supplements": 2598,
     "archive_off_label": 802,
-    "archive_biomarkers": 15155,
+    "archive_biomarkers": 15156,
     "archive_trials": 5076,
     "archive_mind_body": 442
   }
