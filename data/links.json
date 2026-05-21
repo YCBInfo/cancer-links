@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T04:31:09.899Z",
+  "last_updated": "2026-05-21T04:31:22.469Z",
   "categories": {
     "supplements": [
       {
@@ -285,6 +285,20 @@
         "added_date": "2026-05-21"
       },
       {
+        "id": "recHOdWDNCqv75jcE",
+        "title": "Stattic enhances the anti-tumor activity of AZD4547 in LUSC by blocking STAT3/RRM2-mediated DNA repair and inducing ROS-driven mitochondrial dysfunction.",
+        "summary": "Combining FGFR and STAT3 inhibitors effectively kills lung squamous cell carcinoma cells by blocking DNA repair and damaging mitochondria.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42156709/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-21"
+      },
+      {
         "id": "recjAqXsUSTkwM2lk",
         "title": "Dyslipidaemias in cancer patients.",
         "summary": "Cancer survivors face high heart disease risk from both cancer treatments and high cholesterol, requiring personalized monitoring and cholesterol-lowering therapy strategies.",
@@ -407,20 +421,6 @@
           "Brain"
         ],
         "quality_score": 23,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-20"
-      },
-      {
-        "id": "recvSI58Bfi4fSe2F",
-        "title": "Association between antihypertensive medications and hepatocellular carcinoma risk in individuals with metabolic dysfunction-associated steatotic liver disease (MASLD) without cirrhosis.",
-        "summary": "Study examines whether blood pressure medications affect liver cancer risk in people with fatty liver disease without cirrhosis.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42155868/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Liver"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-20"
       }
@@ -858,10 +858,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 24470,
+    "archive_count": 24471,
     "archive_supplements": 2604,
     "archive_off_label": 803,
-    "archive_biomarkers": 15232,
+    "archive_biomarkers": 15233,
     "archive_trials": 5097,
     "archive_mind_body": 442
   }
