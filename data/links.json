@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T04:25:33.323Z",
+  "last_updated": "2026-05-21T04:25:44.830Z",
   "categories": {
     "supplements": [
       {
@@ -115,6 +115,20 @@
         "added_date": "2026-05-21"
       },
       {
+        "id": "rectTIqYGyNec8Jmt",
+        "title": "Lipid metabolism dysregulation in rheumatoid arthritis: from multi-omics discovery to adjunctive therapy with conjugated linoleic acid.",
+        "summary": "Researchers found that abnormal fat metabolism contributes to rheumatoid arthritis and propose conjugated linoleic acid as a potential additional treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42157273/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-21"
+      },
+      {
         "id": "recYTltRfuARp6iv2",
         "title": "Dendrobine inhibits the growth and invasion of human breast cancer cells by regulating the NF-κB signaling pathway via the SLC6A9 target.",
         "summary": "Dendrobine, a natural compound, stops breast cancer cell growth and spread by blocking the SLC6A9 protein and NF-κB signaling pathway.",
@@ -193,20 +207,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Pancreatic"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-20"
-      },
-      {
-        "id": "recB0RVyRptf4106V",
-        "title": "Effects of luteolin on proliferation and apoptosis of breast cancer cells by regulating EGFR/STAT3/AKt pathway.",
-        "summary": "Luteolin, a natural compound, reduces breast cancer cell growth and increases cell death by blocking a key protein signaling pathway.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42153154/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -858,11 +858,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 24439,
+    "archive_count": 24440,
     "archive_supplements": 2602,
     "archive_off_label": 803,
     "archive_biomarkers": 15205,
-    "archive_trials": 5095,
+    "archive_trials": 5096,
     "archive_mind_body": 442
   }
 }
