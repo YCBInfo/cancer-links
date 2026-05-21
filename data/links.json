@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T04:31:31.540Z",
+  "last_updated": "2026-05-21T04:31:50.038Z",
   "categories": {
     "supplements": [
       {
@@ -143,6 +143,20 @@
         "added_date": "2026-05-21"
       },
       {
+        "id": "recXggowbbXxsgvd3",
+        "title": "Methionine concentration regulates LSD1 acetylation in glioma cells.",
+        "summary": "Restricting methionine in glioma cells causes a protein called LSD1 to break down, slowing cancer growth and revealing a new treatment target.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42156569/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-21"
+      },
+      {
         "id": "recYTltRfuARp6iv2",
         "title": "Dendrobine inhibits the growth and invasion of human breast cancer cells by regulating the NF-κB signaling pathway via the SLC6A9 target.",
         "summary": "Dendrobine, a natural compound, stops breast cancer cell growth and spread by blocking the SLC6A9 protein and NF-κB signaling pathway.",
@@ -195,20 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-20"
-      },
-      {
-        "id": "recp1KFbIPMTatbJh",
-        "title": "From tumor reduction to behavioral improvement and cytokine balance: Therapeutic role of petroleum ether extract of Teucrium polium in a rat model of C6-induced glioblastoma.",
-        "summary": "Teucrium polium extract reduced glioblastoma tumors and improved anxiety and motor function in rats, suggesting potential as a complementary brain cancer treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42154095/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Brain"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-20"
       }
@@ -858,10 +858,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 24472,
+    "archive_count": 24473,
     "archive_supplements": 2604,
     "archive_off_label": 803,
-    "archive_biomarkers": 15234,
+    "archive_biomarkers": 15235,
     "archive_trials": 5097,
     "archive_mind_body": 442
   }
