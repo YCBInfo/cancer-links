@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T04:04:20.843Z",
+  "last_updated": "2026-05-21T04:04:33.609Z",
   "categories": {
     "supplements": [
       {
@@ -751,6 +751,20 @@
         "added_date": "2026-05-21"
       },
       {
+        "id": "recbAZSEcFi6JD1wt",
+        "title": "Carbon Fiber Implants in Spine Surgery.",
+        "summary": "Carbon fiber implants in spine surgery reduce imaging artifacts and may improve radiation therapy targeting for cancer patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42160467/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-21"
+      },
+      {
         "id": "recHstTlogHl5xoKo",
         "title": "Mind-Body Therapies for Depression and Anxiety Symptoms in People with Cancer: A Systematic Review with Network Meta-Analysis.",
         "summary": "Mind-body therapies effectively reduce depression and anxiety symptoms in cancer patients, with yoga and meditation showing the most promise.",
@@ -833,20 +847,6 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-20"
-      },
-      {
-        "id": "recFUJreYrZISdScR",
-        "title": "Biomarkers for Diagnosis, Risk Stratification, and Immunotherapy of Pediatric Solid Tumors.",
-        "summary": "Biomarkers help diagnose pediatric solid tumors and guide treatment selection, with emerging blood tests showing promise for predicting outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42155072/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-20"
       }
     ],
     "mind_body": []
@@ -858,10 +858,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 24324,
+    "archive_count": 24325,
     "archive_supplements": 2596,
     "archive_off_label": 801,
-    "archive_biomarkers": 15121,
+    "archive_biomarkers": 15122,
     "archive_trials": 5072,
     "archive_mind_body": 442
   }
