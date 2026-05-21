@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-20T11:31:31.835Z",
+  "last_updated": "2026-05-21T02:34:44.765Z",
   "categories": {
     "supplements": [
       {
@@ -639,6 +639,34 @@
     ],
     "trials": [
       {
+        "id": "recuFtlZQfHVFIizX",
+        "title": "Linking Qualitative Mindfulness Reflections During MBSR to Meaningful Improvement in PROMIS Scores in a Young Adult Cancer Survivor Sample: The Role of Bodily Awareness.",
+        "summary": "Mindfulness training helped young adult cancer survivors reduce depression, anxiety, fatigue, and pain through increased body awareness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42160166/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-21"
+      },
+      {
+        "id": "reckwNWIhUEAWElbu",
+        "title": "Pharmacological Interventions for Anxiety and Depression in Terminal Illness: A Scoping Review of Randomized Controlled Trials.",
+        "summary": "Medications like antidepressants and stimulants effectively reduce anxiety and depression in terminally ill patients, particularly those with advanced cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42159384/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 21,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-21"
+      },
+      {
         "id": "recHstTlogHl5xoKo",
         "title": "Mind-Body Therapies for Depression and Anxiety Symptoms in People with Cancer: A Systematic Review with Network Meta-Analysis.",
         "summary": "Mind-body therapies effectively reduce depression and anxiety symptoms in cancer patients, with yoga and meditation showing the most promise.",
@@ -819,34 +847,6 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-20"
-      },
-      {
-        "id": "recskdoSpk8WJYQkN",
-        "title": "Prostate cancer screening: Decision-making when MRI results are inconclusive for cancer (PI-RADS 3).",
-        "summary": "Researchers recommend against biopsies for inconclusive prostate MRI results when patients would choose monitoring anyway, due to low cancer death risk.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42155163/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Prostate"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-20"
-      },
-      {
-        "id": "recJWJI8eEdaLmI5F",
-        "title": "Interplay between viral oncolysis and host immunity in Newcastle disease virus-based cancer therapy.",
-        "summary": "Newcastle disease virus selectively kills cancer cells and activates immune responses, offering promise as a cancer therapy when genetically engineered.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42155154/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-20"
       }
     ],
     "mind_body": []
@@ -858,11 +858,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 24319,
+    "archive_count": 24320,
     "archive_supplements": 2596,
     "archive_off_label": 801,
     "archive_biomarkers": 15119,
-    "archive_trials": 5069,
+    "archive_trials": 5070,
     "archive_mind_body": 442
   }
 }
