@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T04:17:15.559Z",
+  "last_updated": "2026-05-21T04:17:25.164Z",
   "categories": {
     "supplements": [
       {
@@ -69,6 +69,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-21"
+      },
+      {
+        "id": "rec2oqc5ylksyAHaW",
+        "title": "Synergistic Chemoimmunotherapy of Hepatocellular Carcinoma via ROS-Responsive Carrier-Free Prodrug Nanoparticles.",
+        "summary": "Nanoparticles combining a resveratrol drug and immune activator effectively treat hepatocellular carcinoma by triggering both cancer cell death and immune activation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42159189/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-21"
       },
@@ -195,20 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-20"
-      },
-      {
-        "id": "recvXGQ27cshmNsSU",
-        "title": "Activation of PPARγ and CPT1A Mediates the Hepatoprotective Effect of Ginsenoside CK against NAFLD in Rats.",
-        "summary": "Ginsenoside CK, a natural compound, reduces fatty liver disease in rats by activating specific proteins that improve fat metabolism and liver function.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42157037/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Liver"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-20"
       }
@@ -858,11 +858,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 24393,
+    "archive_count": 24394,
     "archive_supplements": 2598,
     "archive_off_label": 803,
     "archive_biomarkers": 15176,
-    "archive_trials": 5082,
+    "archive_trials": 5083,
     "archive_mind_body": 442
   }
 }
