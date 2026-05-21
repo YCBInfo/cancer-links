@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T04:30:13.076Z",
+  "last_updated": "2026-05-21T04:30:25.311Z",
   "categories": {
     "supplements": [
       {
@@ -129,6 +129,20 @@
         "added_date": "2026-05-21"
       },
       {
+        "id": "recD5MdwkBXCSEq8J",
+        "title": "Synergistic activation of dendritic cells by Lycium barbarum polysaccharide and tumor endothelial progenitor cell lysate enhances anti-tumor responses.",
+        "summary": "A combination of Lycium barbarum extract and cell lysate boosts immune cell activation to suppress lung cancer growth in mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42156849/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-21"
+      },
+      {
         "id": "recYTltRfuARp6iv2",
         "title": "Dendrobine inhibits the growth and invasion of human breast cancer cells by regulating the NF-κB signaling pathway via the SLC6A9 target.",
         "summary": "Dendrobine, a natural compound, stops breast cancer cell growth and spread by blocking the SLC6A9 protein and NF-κB signaling pathway.",
@@ -193,20 +207,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-20"
-      },
-      {
-        "id": "recSXt7IxwXu8Ewqo",
-        "title": "Ketogenic Diet Prevents Obesity-Associated Pancreatic Cancer Independent of Weight Loss and Induces Pancreatic Metabolic Reprogramming.",
-        "summary": "Ketogenic diet delays pancreatic cancer progression in obese mice through metabolic changes, independent of weight loss.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42153914/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Pancreatic"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -858,10 +858,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 24465,
+    "archive_count": 24466,
     "archive_supplements": 2604,
     "archive_off_label": 803,
-    "archive_biomarkers": 15227,
+    "archive_biomarkers": 15228,
     "archive_trials": 5097,
     "archive_mind_body": 442
   }
