@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T02:34:52.891Z",
+  "last_updated": "2026-05-21T04:03:46.517Z",
   "categories": {
     "supplements": [
       {
@@ -215,6 +215,20 @@
     ],
     "off_label": [
       {
+        "id": "recS6Jaqy82R3cMzB",
+        "title": "Tumor-Platelet Crosstalk in Cancer: Mechanisms, Thrombotic Risk, and Translational Opportunities.",
+        "summary": "Platelets promote cancer growth and metastasis while increasing clot risk; targeting platelets may offer new therapeutic and diagnostic opportunities.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42160758/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-21"
+      },
+      {
         "id": "recjAqXsUSTkwM2lk",
         "title": "Dyslipidaemias in cancer patients.",
         "summary": "Cancer survivors face high heart disease risk from both cancer treatments and high cholesterol, requiring personalized monitoring and cholesterol-lowering therapy strategies.",
@@ -409,23 +423,135 @@
         "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-19"
+      }
+    ],
+    "biomarkers": [
+      {
+        "id": "recyIBBoTA74WdoVB",
+        "title": "UBE2C promotes pancreatic cancer progression through PI3K/Akt/mTOR signaling pathway.",
+        "summary": "UBE2C protein promotes pancreatic cancer growth through a specific cellular signaling pathway and may serve as a treatment target.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42157383/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Pancreatic"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-21"
       },
       {
-        "id": "reci8iAVo8t2ZvMyn",
-        "title": "Changes in metabolic and pulmonary outcomes after discontinuation of glucagon-like-peptide-1 receptor agonist therapy in people with cystic fibrosis.",
-        "summary": "Stopping GLP-1 drugs in cystic fibrosis patients reversed weight loss and worsened blood sugar control and lung function.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42151007/",
+        "id": "reckzXHCfGW8KctvV",
+        "title": "Apoptosis-related gene model predicts the prognosis in patients with acute myeloid leukemia.",
+        "summary": "Researchers identified five apoptosis-related genes that predict survival outcomes and treatment response in acute myeloid leukemia patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42158360/",
         "source": "PubMed",
-        "category": "Off-Label Medications",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-21"
+      },
+      {
+        "id": "recVwtPRZ1f9k4lBK",
+        "title": "Insulinoma after Roux-en-Y gastric bypass successfully treated by endoscopic ultrasound-guided radiofrequency ablation.",
+        "summary": "Doctors successfully treated a pancreatic insulinoma tumor in a gastric bypass patient using minimally invasive endoscopic ultrasound-guided radiofrequency ablation, resolving severe hypoglycemic episodes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42158163/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-21"
+      },
+      {
+        "id": "recdTSyFIXVg9rrww",
+        "title": "S100A4: A calcium-binding protein at the crossroads of cancer, fibrosis, and antiviral immunity.",
+        "summary": "S100A4 protein drives cancer metastasis and fibrosis, but also shows promise as a vaccine adjuvant to boost immune responses.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41875701/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-05-21"
+      },
+      {
+        "id": "recv9q8lHdbTmnlLN",
+        "title": "Explainable AI in Cancer Imaging: Scoping Review of Methods, Modalities, and Clinical Integration.",
+        "summary": "Researchers reviewed how explainable AI tools help doctors understand and trust cancer imaging diagnoses better.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42160781/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
         "quality_score": 12,
         "pub_date": "2026-05-01",
-        "added_date": "2026-05-19"
-      }
-    ],
-    "biomarkers": [
+        "added_date": "2026-05-21"
+      },
+      {
+        "id": "recnSoXR8TYNcfEp0",
+        "title": "Atezolizumab for relapsed/refractory extranodal NK/T-cell lymphoma: the phase II NCCH1903/ATTACK trial.",
+        "summary": "Atezolizumab showed promising results in treating relapsed/refractory NK/T-cell lymphoma, with 54% of patients responding to the immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42160759/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Lymphoma"
+        ],
+        "quality_score": 30,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-21"
+      },
+      {
+        "id": "recS6Jaqy82R3cMzB",
+        "title": "Tumor-Platelet Crosstalk in Cancer: Mechanisms, Thrombotic Risk, and Translational Opportunities.",
+        "summary": "Platelets promote cancer growth and metastasis while increasing clot risk; targeting platelets may offer new therapeutic and diagnostic opportunities.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42160758/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-21"
+      },
+      {
+        "id": "recDMIJbaZGqTg38r",
+        "title": "A PBD-dimer containing antibody drug conjugate targeting CCRL2 for high-risk MDS/AML including TP53-mutated disease.",
+        "summary": "Researchers developed a new antibody drug targeting CCRL2 protein that kills high-risk MDS/AML cancer cells, especially those with TP53 mutations.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42160756/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-21"
+      },
+      {
+        "id": "rec2U3Qcnkq2Yk0yl",
+        "title": "Cellular Therapies in Solid Tumors: Are We Ready for Primetime?",
+        "summary": "Cell therapies using engineered immune cells show promise for solid tumors like melanoma and sarcoma after recent FDA approvals.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42160700/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Melanoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-21"
+      },
       {
         "id": "recM0IXbwCYEaYiR9",
         "title": "Developing a preliminarily validated competency-based integrative oncology training questionnaire.",
@@ -509,132 +635,6 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-20"
-      },
-      {
-        "id": "recFUJreYrZISdScR",
-        "title": "Biomarkers for Diagnosis, Risk Stratification, and Immunotherapy of Pediatric Solid Tumors.",
-        "summary": "Biomarkers help diagnose pediatric solid tumors and guide treatment selection, with emerging blood tests showing promise for predicting outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42155072/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-20"
-      },
-      {
-        "id": "recYTltRfuARp6iv2",
-        "title": "Dendrobine inhibits the growth and invasion of human breast cancer cells by regulating the NF-κB signaling pathway via the SLC6A9 target.",
-        "summary": "Dendrobine, a natural compound, stops breast cancer cell growth and spread by blocking the SLC6A9 protein and NF-κB signaling pathway.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42153166/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-20"
-      },
-      {
-        "id": "recliP7OnajVvFPKR",
-        "title": "Pathologic and radiologic response to neoadjuvant therapy in advanced differentiated thyroid cancer.",
-        "summary": "Neoadjuvant therapy can shrink advanced thyroid cancer before surgery, potentially reducing the extent of surgical removal needed.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42048110/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Thyroid"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-20"
-      },
-      {
-        "id": "recjfJLZad3DO3OJS",
-        "title": "The Greenland shark genome: Insights into lifespan extremes and population dynamics.",
-        "summary": "Greenland shark genome reveals cancer resistance and enhanced DNA repair mechanisms associated with extreme longevity in this long-lived species.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42154556/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-20"
-      },
-      {
-        "id": "recALibBYyyV3BMc0",
-        "title": "Molecular insight into the interplay among heterogeneous plasmacytes and microenvironment cells and their clinical relevance in myeloma.",
-        "summary": "Researchers identified a specific myeloma cell subtype with high proliferation and developed a prognostic score to better predict multiple myeloma outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42154554/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-20"
-      },
-      {
-        "id": "recfUHKalrbIp0hw0",
-        "title": "Performance of the permutation test approach with base calling errors for detecting changes in variant allele frequencies in ctDNA for a single patient.",
-        "summary": "Researchers developed a permutation test to reliably detect changes in circulating tumor DNA levels over time, accounting for sequencing errors.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42155062/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-20"
-      },
-      {
-        "id": "recRwoK990zZFmPWS",
-        "title": "When Infection Masquerades as Metastasis: Tuberculous Spondylodiscitis with Fibrous Dysplasia and Capillary Hemangioma in a Patient with Newly Diagnosed Hepatic Mass.",
-        "summary": "Spinal tuberculosis can mimic cancer metastasis, especially when benign vertebral lesions and liver abnormalities coexist, requiring biopsy confirmation.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42152465/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-20"
-      },
-      {
-        "id": "rec8jH3MoDjri0MXC",
-        "title": "Tissue-specific factors that govern the sialoglycan-Siglec axis in cancer.",
-        "summary": "Cancer cells use sialylated molecules to suppress immune attacks through Siglec receptors, with patterns varying by tissue type and tumor composition.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42132142/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-20"
-      },
-      {
-        "id": "recr2UQZmzdi8bEJ4",
-        "title": "Transcriptomic and functional analysis of fibroid extracellular vesicles.",
-        "summary": "Fibroid-derived exosomes promote fibroid growth by reprogramming normal uterine cells toward a fibroid-like state with increased proliferation and inflammation.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42008339/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-20"
       }
     ],
     "trials": [
@@ -663,6 +663,76 @@
           "General"
         ],
         "quality_score": 21,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-21"
+      },
+      {
+        "id": "rec3SneYLwslJbUZH",
+        "title": "Prevalence of Low Bone Mineral Density Increases With Age in Sickle Cell Disease.",
+        "summary": "Low bone mineral density becomes more common as people with sickle cell disease get older, even accounting for height differences.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42158291/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-21"
+      },
+      {
+        "id": "recVwtPRZ1f9k4lBK",
+        "title": "Insulinoma after Roux-en-Y gastric bypass successfully treated by endoscopic ultrasound-guided radiofrequency ablation.",
+        "summary": "Doctors successfully treated a pancreatic insulinoma tumor in a gastric bypass patient using minimally invasive endoscopic ultrasound-guided radiofrequency ablation, resolving severe hypoglycemic episodes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42158163/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-21"
+      },
+      {
+        "id": "recnSoXR8TYNcfEp0",
+        "title": "Atezolizumab for relapsed/refractory extranodal NK/T-cell lymphoma: the phase II NCCH1903/ATTACK trial.",
+        "summary": "Atezolizumab showed promising results in treating relapsed/refractory NK/T-cell lymphoma, with 54% of patients responding to the immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42160759/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Lymphoma"
+        ],
+        "quality_score": 30,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-21"
+      },
+      {
+        "id": "recDMIJbaZGqTg38r",
+        "title": "A PBD-dimer containing antibody drug conjugate targeting CCRL2 for high-risk MDS/AML including TP53-mutated disease.",
+        "summary": "Researchers developed a new antibody drug targeting CCRL2 protein that kills high-risk MDS/AML cancer cells, especially those with TP53 mutations.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42160756/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-21"
+      },
+      {
+        "id": "rec2U3Qcnkq2Yk0yl",
+        "title": "Cellular Therapies in Solid Tumors: Are We Ready for Primetime?",
+        "summary": "Cell therapies using engineered immune cells show promise for solid tumors like melanoma and sarcoma after recent FDA approvals.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42160700/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Melanoma"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-21"
       },
@@ -777,76 +847,6 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-20"
-      },
-      {
-        "id": "recALibBYyyV3BMc0",
-        "title": "Molecular insight into the interplay among heterogeneous plasmacytes and microenvironment cells and their clinical relevance in myeloma.",
-        "summary": "Researchers identified a specific myeloma cell subtype with high proliferation and developed a prognostic score to better predict multiple myeloma outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42154554/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-20"
-      },
-      {
-        "id": "rec6E4kcySqGI6PFM",
-        "title": "Synergizing immunity: lipid nanoparticle-mediated mRNA and gene delivery as a next-gen paradigm in cancer immunotherapy.",
-        "summary": "Lipid nanoparticles effectively deliver mRNA-based treatments that boost the immune system's ability to fight cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41967593/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-20"
-      },
-      {
-        "id": "recC9Svy5ktbONTNy",
-        "title": "CLL1 polymeric nanoparticles loaded with PI3K/BRD4 dual inhibitor MDP5 and azacitidine as a novel treatment for TP53 mutated acute myeloid leukemia.",
-        "summary": "Novel nanoparticles targeting CLL1 deliver dual drugs to effectively treat TP53-mutated acute myeloid leukemia while sparing healthy blood cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41967591/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-20"
-      },
-      {
-        "id": "recc19StNoRaA2Kd0",
-        "title": "Tissue-Free Circulating Tumor DNA Assay and Patient Outcome in a Phase III Trial of FOLFOX-Based Adjuvant Chemotherapy (Alliance N0147).",
-        "summary": "A blood test detecting cancer DNA after surgery predicts which colon cancer patients will relapse and may guide future treatment decisions.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41616224/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 29,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-20"
-      },
-      {
-        "id": "recqXSklj7w0elG4r",
-        "title": "Cancer-associated fibroblast-derived protein S100-A11 influences the response to anti-HER2 therapies in HER2-positive breast cancer.",
-        "summary": "A protein called S100-A11, released by fibroblasts in HER2-positive breast cancer, reduces treatment effectiveness by activating a STAT3 signaling pathway.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42155177/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-20"
       }
     ],
     "mind_body": []
@@ -858,10 +858,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 24321,
+    "archive_count": 24322,
     "archive_supplements": 2596,
     "archive_off_label": 801,
-    "archive_biomarkers": 15119,
+    "archive_biomarkers": 15120,
     "archive_trials": 5071,
     "archive_mind_body": 442
   }
