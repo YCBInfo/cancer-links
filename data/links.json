@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T04:04:52.654Z",
+  "last_updated": "2026-05-21T04:05:05.336Z",
   "categories": {
     "supplements": [
       {
@@ -13,6 +13,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-21"
+      },
+      {
+        "id": "recsRAp2dbQbETxLj",
+        "title": "Inhibitory effects of mycosubtilin on proliferation of colon cancer SW480 cells.",
+        "summary": "Mycosubtilin, a natural compound, outperformed standard chemotherapy in stopping colon cancer cell growth by triggering apoptosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42160403/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-21"
       },
@@ -195,20 +209,6 @@
           "Breast"
         ],
         "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-20"
-      },
-      {
-        "id": "rec9ZerWgZmrnBYy3",
-        "title": "Vitamin C Deficiency Related Cytopenias in Hematology Practice: Revisiting Risk Factors of Access and Income.",
-        "summary": "Vitamin C deficiency causes reversible blood cell disorders in low-income patients, highlighting the need for dietary and socioeconomic screening.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42156079/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-20"
       }
@@ -623,18 +623,18 @@
         "added_date": "2026-05-21"
       },
       {
-        "id": "recM0IXbwCYEaYiR9",
-        "title": "Developing a preliminarily validated competency-based integrative oncology training questionnaire.",
-        "summary": "Researchers created a questionnaire to measure whether healthcare trainees have essential skills for providing integrative cancer care.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42150683/",
+        "id": "recsRAp2dbQbETxLj",
+        "title": "Inhibitory effects of mycosubtilin on proliferation of colon cancer SW480 cells.",
+        "summary": "Mycosubtilin, a natural compound, outperformed standard chemotherapy in stopping colon cancer cell growth by triggering apoptosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42160403/",
         "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
+        "category": "Supplements & Nutraceuticals",
         "cancer_types": [
-          "General"
+          "Colorectal"
         ],
-        "quality_score": 12,
+        "quality_score": 15,
         "pub_date": "2026-05-01",
-        "added_date": "2026-05-20"
+        "added_date": "2026-05-21"
       }
     ],
     "trials": [
@@ -858,10 +858,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 24326,
+    "archive_count": 24327,
     "archive_supplements": 2596,
     "archive_off_label": 801,
-    "archive_biomarkers": 15123,
+    "archive_biomarkers": 15124,
     "archive_trials": 5072,
     "archive_mind_body": 442
   }
