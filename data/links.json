@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T04:05:40.221Z",
+  "last_updated": "2026-05-21T04:05:53.909Z",
   "categories": {
     "supplements": [
       {
@@ -765,6 +765,34 @@
         "added_date": "2026-05-21"
       },
       {
+        "id": "rec0Y9MhoyoEvzT7K",
+        "title": "Clinical impact of molecular tumor board inclusion on treatment outcomes in neuroendocrine neoplasms.",
+        "summary": "Molecular tumor boards improved treatment outcomes for rare neuroendocrine cancers by helping doctors personalize therapy based on individual tumor genetics.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42160233/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-21"
+      },
+      {
+        "id": "reccDJeAvxHea5PvG",
+        "title": "Prognostic Significance of Nutritional and Inflammatory Factors in Gastric Cancer Surgery.",
+        "summary": "Nutritional and inflammatory biomarkers help predict survival outcomes in gastric cancer patients undergoing surgery.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42160221/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-21"
+      },
+      {
         "id": "recHstTlogHl5xoKo",
         "title": "Mind-Body Therapies for Depression and Anxiety Symptoms in People with Cancer: A Systematic Review with Network Meta-Analysis.",
         "summary": "Mind-body therapies effectively reduce depression and anxiety symptoms in cancer patients, with yoga and meditation showing the most promise.",
@@ -819,34 +847,6 @@
         "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-20"
-      },
-      {
-        "id": "rec5Jsnq1h7Egloua",
-        "title": "Novel bispecific T-cell engagers overcoming acquired EGFR resistance.",
-        "summary": "Researchers created new T-cell engaging drugs that overcome EGFR resistance mutations in cancer, showing improved tumor-killing in tests.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42152476/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-20"
-      },
-      {
-        "id": "recsSmJH1zlOAzKjs",
-        "title": "Evolving Treatment Paradigms in Hormone Receptor-Positive, Human Epidermal Growth Factor 2-Negative Metastatic Breast Cancer.",
-        "summary": "Hormone receptor-positive breast cancer treatment now emphasizes personalized approaches using targeted drugs and antibodies alongside hormone therapy, prioritizing patient quality of life.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42155073/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-20"
       }
     ],
     "mind_body": []
@@ -858,11 +858,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 24330,
+    "archive_count": 24331,
     "archive_supplements": 2596,
     "archive_off_label": 801,
     "archive_biomarkers": 15126,
-    "archive_trials": 5073,
+    "archive_trials": 5074,
     "archive_mind_body": 442
   }
 }
