@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T04:05:05.336Z",
+  "last_updated": "2026-05-21T04:05:16.274Z",
   "categories": {
     "supplements": [
       {
@@ -229,6 +229,20 @@
         "added_date": "2026-05-21"
       },
       {
+        "id": "rechoRXFF9Peyfqnt",
+        "title": "Orlistat Combined With Everolimus Suppresses Pancreatic Neuroendocrine Tumor Progression via Inhibiting PI3K/AKT/mTOR Signaling mediated by SLFN5.",
+        "summary": "Combining Orlistat with Everolimus effectively suppresses pancreatic neuroendocrine tumor growth by blocking a key cancer pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42160318/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-21"
+      },
+      {
         "id": "recjAqXsUSTkwM2lk",
         "title": "Dyslipidaemias in cancer patients.",
         "summary": "Cancer survivors face high heart disease risk from both cancer treatments and high cholesterol, requiring personalized monitoring and cholesterol-lowering therapy strategies.",
@@ -401,20 +415,6 @@
         "title": "GLP-1 receptor agonists in patients with cancer are associated with reduced all-cause mortality and hospitalization.",
         "summary": "GLP-1 receptor agonist drugs reduce death and hospital stays in cancer patients.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41482652/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-19"
-      },
-      {
-        "id": "rec71LfJT4ljKdbVj",
-        "title": "Equilibrium and non-equilibrium thermodynamics in drug repurposing: Machine learning-guided discovery of high-affinity WEE1 kinase inhibitors.",
-        "summary": "Machine learning identified existing drugs like acarbose that effectively inhibit WEE1 kinase, a cancer cell cycle target, through computational screening.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42150406/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -858,11 +858,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 24327,
+    "archive_count": 24328,
     "archive_supplements": 2596,
     "archive_off_label": 801,
     "archive_biomarkers": 15124,
-    "archive_trials": 5072,
+    "archive_trials": 5073,
     "archive_mind_body": 442
   }
 }
