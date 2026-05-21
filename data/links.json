@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T04:06:28.062Z",
+  "last_updated": "2026-05-21T04:06:37.943Z",
   "categories": {
     "supplements": [
       {
@@ -243,6 +243,20 @@
         "added_date": "2026-05-21"
       },
       {
+        "id": "recjYlx5RzP7eq9Dt",
+        "title": "Switchable Enzyme-Regulated ECM-Integrin-Cholesterol Signaling Orchestrate PD-L1 Dual Destabilization for Boosting Photo-Immunotherapy.",
+        "summary": "A switchable enzyme nanoplatform combining papain and simvastatin disrupts tumor immune evasion by degrading the extracellular matrix and reducing PD-L1 levels, enhancing immunotherapy effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42160111/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-21"
+      },
+      {
         "id": "recjAqXsUSTkwM2lk",
         "title": "Dyslipidaemias in cancer patients.",
         "summary": "Cancer survivors face high heart disease risk from both cancer treatments and high cholesterol, requiring personalized monitoring and cholesterol-lowering therapy strategies.",
@@ -407,20 +421,6 @@
           "Breast"
         ],
         "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-19"
-      },
-      {
-        "id": "recLwPpIfgoSwytZZ",
-        "title": "GLP-1 receptor agonists in patients with cancer are associated with reduced all-cause mortality and hospitalization.",
-        "summary": "GLP-1 receptor agonist drugs reduce death and hospital stays in cancer patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41482652/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-19"
       }
@@ -858,11 +858,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 24334,
+    "archive_count": 24335,
     "archive_supplements": 2597,
     "archive_off_label": 801,
     "archive_biomarkers": 15128,
-    "archive_trials": 5074,
+    "archive_trials": 5075,
     "archive_mind_body": 442
   }
 }
