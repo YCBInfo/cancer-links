@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T07:03:51.193Z",
+  "last_updated": "2026-05-21T07:04:05.415Z",
   "categories": {
     "supplements": [
       {
@@ -313,6 +313,20 @@
         "added_date": "2026-05-21"
       },
       {
+        "id": "recM3mw8ekQ3EKzxv",
+        "title": "Effectiveness Assessment of Riluzole in the Prevention of Oxaliplatin-induced Peripheral Neuropathy: A Phase II Randomized Study by UNICANCER With the Cooperation of AFSOS",
+        "summary": "Riluzole may prevent nerve damage caused by oxaliplatin chemotherapy in stage II/III colorectal cancer patients.",
+        "url": "https://clinicaltrials.gov/study/NCT03722680",
+        "source": "ClinicalTrials.gov",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 19,
+        "pub_date": "2026-05-20",
+        "added_date": "2026-05-21"
+      },
+      {
         "id": "recjAqXsUSTkwM2lk",
         "title": "Dyslipidaemias in cancer patients.",
         "summary": "Cancer survivors face high heart disease risk from both cancer treatments and high cholesterol, requiring personalized monitoring and cholesterol-lowering therapy strategies.",
@@ -401,20 +415,6 @@
         "title": "Redox regulation of EGFR activation by thioredoxin reductase 3 drives resistance to EGFR inhibitors in triple-negative breast cancer.",
         "summary": "Blocking the TXNRD3 enzyme with auranofin resensitizes triple-negative breast cancer to EGFR inhibitors by activating EGFR signaling.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42156718/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-20"
-      },
-      {
-        "id": "rec6hq46QXqCncv9q",
-        "title": "Unlocking new therapeutic horizons through integrative bioinformatics and transcriptomics for drug repositioning in breast cancer therapy.",
-        "summary": "Researchers used existing drugs repurposed through data analysis to find new treatment options for breast cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42156642/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -858,11 +858,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 24513,
+    "archive_count": 24514,
     "archive_supplements": 2610,
     "archive_off_label": 805,
     "archive_biomarkers": 15259,
-    "archive_trials": 5105,
+    "archive_trials": 5106,
     "archive_mind_body": 442
   }
 }
