@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T04:05:16.245Z",
+  "last_updated": "2026-05-22T04:05:28.892Z",
   "categories": {
     "supplements": [
       {
@@ -229,6 +229,20 @@
         "added_date": "2026-05-22"
       },
       {
+        "id": "recGbke8moRsGk0yN",
+        "title": "Interleukin-34 induced Arg1+ macrophages play a key role in breast cancer brain metastasis.",
+        "summary": "Breast cancer cells use interleukin-34 to recruit immune cells that promote brain metastasis, and blocking this pathway shrinks tumors in mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42166785/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-22"
+      },
+      {
         "id": "recS6Jaqy82R3cMzB",
         "title": "Tumor-Platelet Crosstalk in Cancer: Mechanisms, Thrombotic Risk, and Translational Opportunities.",
         "summary": "Platelets promote cancer growth and metastasis while increasing clot risk; targeting platelets may offer new therapeutic and diagnostic opportunities.",
@@ -407,20 +421,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-20"
-      },
-      {
-        "id": "recXUlIUdDXX0ewGt",
-        "title": "FGFR1 but not S6K1/2 drives intrinsic BRAF inhibitor resistance in melanoma.",
-        "summary": "FGFR1, not S6K1/2 signaling, drives melanoma's resistance to BRAF inhibitors, suggesting FGFR inhibitors may overcome this resistance.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42151121/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Melanoma"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-20"
       }
@@ -858,10 +858,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 24574,
+    "archive_count": 24575,
     "archive_supplements": 2617,
     "archive_off_label": 807,
-    "archive_biomarkers": 15277,
+    "archive_biomarkers": 15278,
     "archive_trials": 5139,
     "archive_mind_body": 442
   }
