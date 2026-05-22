@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T09:04:40.780Z",
+  "last_updated": "2026-05-22T09:04:53.158Z",
   "categories": {
     "supplements": [
       {
@@ -384,6 +384,20 @@
         "added_date": "2026-05-22"
       },
       {
+        "id": "recwaUFycFYx8gSm6",
+        "title": "Drug screening of sarcoma cells: finding shared sensitivities.",
+        "summary": "Researchers screened 1,387 drugs across sarcoma cells, identifying microtubule and aurora kinase inhibitors as most effective, with subtype-specific sensitivities revealing shared vulnerabilities.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42165630/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-22"
+      },
+      {
         "id": "recS6Jaqy82R3cMzB",
         "title": "Tumor-Platelet Crosstalk in Cancer: Mechanisms, Thrombotic Risk, and Translational Opportunities.",
         "summary": "Platelets promote cancer growth and metastasis while increasing clot risk; targeting platelets may offer new therapeutic and diagnostic opportunities.",
@@ -404,20 +418,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/42160318/",
         "source": "PubMed",
         "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-21"
-      },
-      {
-        "id": "recjYlx5RzP7eq9Dt",
-        "title": "Switchable Enzyme-Regulated ECM-Integrin-Cholesterol Signaling Orchestrate PD-L1 Dual Destabilization for Boosting Photo-Immunotherapy.",
-        "summary": "A switchable enzyme nanoplatform combining papain and simvastatin disrupts tumor immune evasion by degrading the extracellular matrix and reducing PD-L1 levels, enhancing immunotherapy effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42160111/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
@@ -859,9 +859,9 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 24758,
+    "archive_count": 24759,
     "archive_supplements": 2623,
-    "archive_off_label": 811,
+    "archive_off_label": 812,
     "archive_biomarkers": 15424,
     "archive_trials": 5166,
     "archive_mind_body": 442
