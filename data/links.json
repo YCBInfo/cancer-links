@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T04:04:20.047Z",
+  "last_updated": "2026-05-22T04:04:38.404Z",
   "categories": {
     "supplements": [
       {
@@ -595,6 +595,34 @@
         "added_date": "2026-05-22"
       },
       {
+        "id": "recshKiJSvASCs1NW",
+        "title": "Highly sensitive analysis of N-glycans via derivatization with quinoline hydrazide reagents.",
+        "summary": "Researchers developed chemical reagents that improve detection of abnormal blood sugar molecules, enabling better disease diagnosis through advanced testing methods.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41833420/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 10,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-05-22"
+      },
+      {
+        "id": "recqOqCiN7TeBR37U",
+        "title": "Tracer-assisted shotgun lipidomics (TASL): A quantitative workflow integrating stable-isotope tracing with global lipidome profiling.",
+        "summary": "Researchers developed TASL, a new method combining isotope tracing with lipid profiling to simultaneously track lipid production and measure total lipid levels in cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41833412/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 10,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-05-22"
+      },
+      {
         "id": "recyIBBoTA74WdoVB",
         "title": "UBE2C promotes pancreatic cancer progression through PI3K/Akt/mTOR signaling pathway.",
         "summary": "UBE2C protein promotes pancreatic cancer growth through a specific cellular signaling pathway and may serve as a treatment target.",
@@ -603,34 +631,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Pancreatic"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-21"
-      },
-      {
-        "id": "reckzXHCfGW8KctvV",
-        "title": "Apoptosis-related gene model predicts the prognosis in patients with acute myeloid leukemia.",
-        "summary": "Researchers identified five apoptosis-related genes that predict survival outcomes and treatment response in acute myeloid leukemia patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42158360/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-21"
-      },
-      {
-        "id": "recVwtPRZ1f9k4lBK",
-        "title": "Insulinoma after Roux-en-Y gastric bypass successfully treated by endoscopic ultrasound-guided radiofrequency ablation.",
-        "summary": "Doctors successfully treated a pancreatic insulinoma tumor in a gastric bypass patient using minimally invasive endoscopic ultrasound-guided radiofrequency ablation, resolving severe hypoglycemic episodes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42158163/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -858,10 +858,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 24570,
+    "archive_count": 24571,
     "archive_supplements": 2617,
     "archive_off_label": 807,
-    "archive_biomarkers": 15273,
+    "archive_biomarkers": 15274,
     "archive_trials": 5139,
     "archive_mind_body": 442
   }
