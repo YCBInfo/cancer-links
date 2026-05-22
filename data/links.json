@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T04:07:41.455Z",
+  "last_updated": "2026-05-22T04:07:53.059Z",
   "categories": {
     "supplements": [
       {
@@ -793,6 +793,20 @@
         "added_date": "2026-05-22"
       },
       {
+        "id": "recQjhbji9rJ5eNKo",
+        "title": "Disparities in prostate cancer screening practices among general practitioners and urologists (PROSHADE study): A cross-sectional study.",
+        "summary": "Spanish GPs and urologists differ in how they apply shared decision-making and PSA testing for prostate cancer screening.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42166422/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-22"
+      },
+      {
         "id": "recuFtlZQfHVFIizX",
         "title": "Linking Qualitative Mindfulness Reflections During MBSR to Meaningful Improvement in PROMIS Scores in a Young Adult Cancer Survivor Sample: The Role of Bodily Awareness.",
         "summary": "Mindfulness training helped young adult cancer survivors reduce depression, anxiety, fatigue, and pain through increased body awareness.",
@@ -833,20 +847,6 @@
         "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-21"
-      },
-      {
-        "id": "recVwtPRZ1f9k4lBK",
-        "title": "Insulinoma after Roux-en-Y gastric bypass successfully treated by endoscopic ultrasound-guided radiofrequency ablation.",
-        "summary": "Doctors successfully treated a pancreatic insulinoma tumor in a gastric bypass patient using minimally invasive endoscopic ultrasound-guided radiofrequency ablation, resolving severe hypoglycemic episodes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42158163/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-21"
       }
     ],
     "mind_body": []
@@ -858,10 +858,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 24586,
+    "archive_count": 24587,
     "archive_supplements": 2617,
     "archive_off_label": 807,
-    "archive_biomarkers": 15289,
+    "archive_biomarkers": 15290,
     "archive_trials": 5139,
     "archive_mind_body": 442
   }
