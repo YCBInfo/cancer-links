@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T04:10:25.844Z",
+  "last_updated": "2026-05-22T04:10:35.926Z",
   "categories": {
     "supplements": [
       {
@@ -25,6 +25,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-22"
+      },
+      {
+        "id": "rectHQ6fe8uvzUXcS",
+        "title": "Ungeremine suppresses colon cancer cell proliferation through inhibition of the PI3K/AKT/mTOR signaling pathway.",
+        "summary": "Ungeremine kills colon cancer cells by blocking a key growth pathway and triggering cell death through oxidative stress.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42166099/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -196,20 +210,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-04-01",
-        "added_date": "2026-05-21"
-      },
-      {
-        "id": "recG3Slbqgavr6Bhv",
-        "title": "Objective Evaluation of the Effects of Ramadan Fasting on Nasal Respiratory Function.",
-        "summary": "Ramadan fasting may improve nasal breathing function in healthy people, according to objective measurements.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42160037/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
         "added_date": "2026-05-21"
       }
     ],
@@ -858,10 +858,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 24601,
+    "archive_count": 24602,
     "archive_supplements": 2617,
     "archive_off_label": 808,
-    "archive_biomarkers": 15301,
+    "archive_biomarkers": 15302,
     "archive_trials": 5141,
     "archive_mind_body": 442
   }
