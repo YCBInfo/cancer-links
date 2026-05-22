@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T04:23:52.300Z",
+  "last_updated": "2026-05-22T04:24:04.764Z",
   "categories": {
     "supplements": [
       {
@@ -258,6 +258,20 @@
         "added_date": "2026-05-22"
       },
       {
+        "id": "rec71ASkCWBqUii2w",
+        "title": "RET signaling as a mediator of estrogen receptor positive breast cancer brain metastasis.",
+        "summary": "RET protein drives brain metastasis in estrogen receptor-positive breast cancer and can be blocked by the drug Pralsetinib.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42162219/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-22"
+      },
+      {
         "id": "recS6Jaqy82R3cMzB",
         "title": "Tumor-Platelet Crosstalk in Cancer: Mechanisms, Thrombotic Risk, and Translational Opportunities.",
         "summary": "Platelets promote cancer growth and metastasis while increasing clot risk; targeting platelets may offer new therapeutic and diagnostic opportunities.",
@@ -404,20 +418,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/42153964/",
         "source": "PubMed",
         "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-20"
-      },
-      {
-        "id": "reckF8PiZcPiXYngU",
-        "title": "ETS1 Orchestrates a Hybrid EMT Program Driving Metastasis and Immune Evasion.",
-        "summary": "ETS1 protein drives metastasis and immune evasion in squamous cell carcinoma, and HSP90 inhibitors may block this process.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42153907/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 24672,
+    "archive_count": 24673,
     "archive_supplements": 2620,
     "archive_off_label": 808,
-    "archive_biomarkers": 15355,
+    "archive_biomarkers": 15356,
     "archive_trials": 5155,
     "archive_mind_body": 442
   }
