@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T04:26:42.071Z",
+  "last_updated": "2026-05-22T04:26:52.112Z",
   "categories": {
     "supplements": [
       {
@@ -56,6 +56,20 @@
           "Lymphoma"
         ],
         "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-22"
+      },
+      {
+        "id": "rec4uh4xHEYhUl6II",
+        "title": "Microbial reprogramming of immunogenic cell death: a new paradigm in tumor immunotherapy.",
+        "summary": "Gut microbes can trigger immune-boosting tumor cell death, offering a new personalized cancer treatment approach with fewer side effects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42163550/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-22"
       },
@@ -196,20 +210,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-21"
-      },
-      {
-        "id": "recXggowbbXxsgvd3",
-        "title": "Methionine concentration regulates LSD1 acetylation in glioma cells.",
-        "summary": "Restricting methionine in glioma cells causes a protein called LSD1 to break down, slowing cancer growth and revealing a new treatment target.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42156569/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Brain"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-21"
       }
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 24688,
+    "archive_count": 24689,
     "archive_supplements": 2620,
     "archive_off_label": 808,
-    "archive_biomarkers": 15369,
+    "archive_biomarkers": 15370,
     "archive_trials": 5157,
     "archive_mind_body": 442
   }
