@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-05-21T11:31:06.042Z",
+  "last_updated": "2026-05-22T04:03:59.558Z",
   "categories": {
     "supplements": [
+      {
+        "id": "recufajbXhhhJ33xb",
+        "title": "Fatty Acid Metabolism in Health and Cancer: From Fundamental Mechanisms to Therapeutic Application.",
+        "summary": "Disrupted fatty acid metabolism drives cancer growth; targeting this process through drugs, gene therapy, and diet offers new treatment opportunities.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42164655/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-22"
+      },
       {
         "id": "recUmc9VvWR4LzQzS",
         "title": "Elephantopus scaber L.: phytochemistry, pharmacology, nanoformulation, and synthetic modification - a review.",
@@ -197,23 +211,23 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-21"
-      },
-      {
-        "id": "recE11r7wyYe5Vrr5",
-        "title": "Spiropatuols A-H: Polycyclic Polyprenylated Acylphloroglucinols from Hypericum patulum with Activity against Concanavalin A-Induced Autoimmune Hepatitis.",
-        "summary": "Eight new compounds from Hypericum patulum plant showed promise treating autoimmune liver disease by suppressing immune cell overactivity in mice.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42159586/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-21"
       }
     ],
     "off_label": [
+      {
+        "id": "recsJexu9ssf4OWnW",
+        "title": "In vitro screening of compounds for targeting gastric cancer with Y220C p53 mutation: a molecule combining zinc chelation and a Michael acceptor drives CDKN1 and BBC3 expression to restore a p53-dependent cytotoxicity.",
+        "summary": "A new compound called AG3 reactivates mutated p53 in gastric cancer cells, restoring cancer-killing ability while protecting healthy cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42163716/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-22"
+      },
       {
         "id": "recS6Jaqy82R3cMzB",
         "title": "Tumor-Platelet Crosstalk in Cancer: Mechanisms, Thrombotic Risk, and Translational Opportunities.",
@@ -409,23 +423,149 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-20"
+      }
+    ],
+    "biomarkers": [
+      {
+        "id": "recDIt47E3cCHlEoF",
+        "title": "Amplification of pro-proliferative genes adjacent to the F3 gene in pancreatic adenocarcinoma is associated with worse outcomes.",
+        "summary": "Gene amplification near F3 in pancreatic cancer is linked to worse survival and increased blood clot risk.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42165335/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Pancreatic"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-22"
       },
       {
-        "id": "recx3UMktKOwCb8Jy",
-        "title": "Neuroimmunomodulation of AMPA Receptors Through Combination of Medium-Chain Triglycerides and Perampanel to Treat Status Epilepticus in Anti-NMDA Receptor Encephalitis.",
-        "summary": "A combination of medium-chain triglycerides and perampanel stopped life-threatening seizures in a patient with anti-NMDA receptor encephalitis when other treatments failed.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42154348/",
+        "id": "recsJexu9ssf4OWnW",
+        "title": "In vitro screening of compounds for targeting gastric cancer with Y220C p53 mutation: a molecule combining zinc chelation and a Michael acceptor drives CDKN1 and BBC3 expression to restore a p53-dependent cytotoxicity.",
+        "summary": "A new compound called AG3 reactivates mutated p53 in gastric cancer cells, restoring cancer-killing ability while protecting healthy cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42163716/",
         "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-22"
+      },
+      {
+        "id": "recrmU83qz2Xsui7N",
+        "title": "Tebentafusp (IMCgp100), a first in class immune-mobilizing monoclonal T-cell receptors against cancer (ImmTAC) for HLA-A*02:01 positive uveal melanoma: Product review.",
+        "summary": "Tebentafusp, a new immunotherapy, significantly improved survival in patients with advanced uveal melanoma by activating immune cells to kill cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42163062/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Melanoma"
+        ],
+        "quality_score": 29,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-22"
+      },
+      {
+        "id": "recGaMbsXJAvP2qy2",
+        "title": "T-cell mechanobiology: How molecular forces shape immune function.",
+        "summary": "Physical forces in the immune environment shape T-cell function, suggesting that incorporating mechanics into cancer immunotherapies could improve treatment effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42165802/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
         "quality_score": 12,
         "pub_date": "2026-05-01",
-        "added_date": "2026-05-20"
-      }
-    ],
-    "biomarkers": [
+        "added_date": "2026-05-22"
+      },
+      {
+        "id": "recll5ZC4u2srGIwa",
+        "title": "Lung Cancer Screening and Prevention: Beyond Conventional Strategies in a Rapidly Changing Global Milieu.",
+        "summary": "Comprehensive lung cancer screening using AI and blood tests can detect cancer earlier in never-smokers, especially in East Asia.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42166705/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-22"
+      },
+      {
+        "id": "rec2nEzmpRe7wSl5H",
+        "title": "Decoding TCR specificity and T cell fate at the immunological synapse.",
+        "summary": "Researchers developed a method to identify immune-suppressing T cells in tumors that can be reactivated using existing immunotherapy drugs.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42165812/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-22"
+      },
+      {
+        "id": "recNGz9RL05MvNpOk",
+        "title": "Regulation of Immune Checkpoints: From Molecular Mechanisms to Clinical Therapies.",
+        "summary": "Immune checkpoint inhibitors block tumor escape pathways, but resistance and side effects limit effectiveness; combination strategies and biomarkers offer solutions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42164656/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-22"
+      },
+      {
+        "id": "recufajbXhhhJ33xb",
+        "title": "Fatty Acid Metabolism in Health and Cancer: From Fundamental Mechanisms to Therapeutic Application.",
+        "summary": "Disrupted fatty acid metabolism drives cancer growth; targeting this process through drugs, gene therapy, and diet offers new treatment opportunities.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42164655/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-22"
+      },
+      {
+        "id": "recbnd54SpJ99hvDt",
+        "title": "Light-controlled disruption of cancer cell dormancy via photoswitchable stress hormone receptor degraders.",
+        "summary": "Researchers developed light-controlled drugs that degrade a stress hormone receptor to wake dormant lung cancer cells, reducing relapse risk.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42166243/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-22"
+      },
+      {
+        "id": "recH55ExN2O0shD2p",
+        "title": "Autism-like phenotypes and increased NMDAR2D expression in mice with KDM5B histone lysine demethylase deficiency.",
+        "summary": "KDM5B gene loss causes autism-like behaviors in mice by increasing a brain receptor; blocking this receptor with memantine restores communication.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42160407/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-22"
+      },
       {
         "id": "recyIBBoTA74WdoVB",
         "title": "UBE2C promotes pancreatic cancer progression through PI3K/Akt/mTOR signaling pathway.",
@@ -495,149 +635,51 @@
         "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-21"
-      },
+      }
+    ],
+    "trials": [
       {
-        "id": "recnSoXR8TYNcfEp0",
-        "title": "Atezolizumab for relapsed/refractory extranodal NK/T-cell lymphoma: the phase II NCCH1903/ATTACK trial.",
-        "summary": "Atezolizumab showed promising results in treating relapsed/refractory NK/T-cell lymphoma, with 54% of patients responding to the immunotherapy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42160759/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Lymphoma"
-        ],
-        "quality_score": 30,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-21"
-      },
-      {
-        "id": "recS6Jaqy82R3cMzB",
-        "title": "Tumor-Platelet Crosstalk in Cancer: Mechanisms, Thrombotic Risk, and Translational Opportunities.",
-        "summary": "Platelets promote cancer growth and metastasis while increasing clot risk; targeting platelets may offer new therapeutic and diagnostic opportunities.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42160758/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-21"
-      },
-      {
-        "id": "recDMIJbaZGqTg38r",
-        "title": "A PBD-dimer containing antibody drug conjugate targeting CCRL2 for high-risk MDS/AML including TP53-mutated disease.",
-        "summary": "Researchers developed a new antibody drug targeting CCRL2 protein that kills high-risk MDS/AML cancer cells, especially those with TP53 mutations.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42160756/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-21"
-      },
-      {
-        "id": "rec2U3Qcnkq2Yk0yl",
-        "title": "Cellular Therapies in Solid Tumors: Are We Ready for Primetime?",
-        "summary": "Cell therapies using engineered immune cells show promise for solid tumors like melanoma and sarcoma after recent FDA approvals.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42160700/",
+        "id": "recrmU83qz2Xsui7N",
+        "title": "Tebentafusp (IMCgp100), a first in class immune-mobilizing monoclonal T-cell receptors against cancer (ImmTAC) for HLA-A*02:01 positive uveal melanoma: Product review.",
+        "summary": "Tebentafusp, a new immunotherapy, significantly improved survival in patients with advanced uveal melanoma by activating immune cells to kill cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42163062/",
         "source": "PubMed",
         "category": "Clinical Trials",
         "cancer_types": [
           "Melanoma"
         ],
-        "quality_score": 15,
+        "quality_score": 29,
         "pub_date": "2026-05-01",
-        "added_date": "2026-05-21"
+        "added_date": "2026-05-22"
       },
       {
-        "id": "recs2BvWGPCnJBUNO",
-        "title": "Urine tumor DNA testing identifies recurrence and monitors therapy response in patients with high-risk non-muscle-invasive bladder cancer receiving intravesical bacillus Calmette-Guérin.",
-        "summary": "Urine tumor DNA testing can identify bladder cancer patients who may relapse during BCG treatment, helping guide therapy decisions.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42160635/",
+        "id": "recll5ZC4u2srGIwa",
+        "title": "Lung Cancer Screening and Prevention: Beyond Conventional Strategies in a Rapidly Changing Global Milieu.",
+        "summary": "Comprehensive lung cancer screening using AI and blood tests can detect cancer earlier in never-smokers, especially in East Asia.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42166705/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
-          "Bladder"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-21"
-      },
-      {
-        "id": "recTyC9xik70Nimdz",
-        "title": "A CRISPR/Cas12a-MXene Nanozyme Platform for Universal Detection of Trace DNA.",
-        "summary": "Researchers developed a CRISPR-based colorimetric test that detects cancer-related DNA mutations with high sensitivity without requiring laboratory instruments.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42160542/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-21"
-      },
-      {
-        "id": "recUmc9VvWR4LzQzS",
-        "title": "Elephantopus scaber L.: phytochemistry, pharmacology, nanoformulation, and synthetic modification - a review.",
-        "summary": "Elephantopus scaber, an Asian medicinal plant, contains compounds that kill cancer cells and reduce inflammation through multiple cellular pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42160537/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-21"
-      },
-      {
-        "id": "rec8aXDmRTC6RoeMW",
-        "title": "Urinary fluorogenic reporters for noninvasive detection and staging of kidney fibrosis.",
-        "summary": "Researchers developed a urine test using fluorescent reporters to detect and stage kidney fibrosis, outperforming standard clinical tests.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42160448/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-21"
-      },
-      {
-        "id": "recrcR12mXJxGtvoK",
-        "title": "GDT-SwinKid: A hybrid model for precise renal lesion analysis.",
-        "summary": "A new AI model called GDT-SwinKid accurately detects and analyzes kidney lesions on CT scans with 95% precision.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42160406/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-21"
-      },
-      {
-        "id": "recsRAp2dbQbETxLj",
-        "title": "Inhibitory effects of mycosubtilin on proliferation of colon cancer SW480 cells.",
-        "summary": "Mycosubtilin, a natural compound, outperformed standard chemotherapy in stopping colon cancer cell growth by triggering apoptosis.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42160403/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal"
+          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
-        "added_date": "2026-05-21"
-      }
-    ],
-    "trials": [
+        "added_date": "2026-05-22"
+      },
+      {
+        "id": "recNGz9RL05MvNpOk",
+        "title": "Regulation of Immune Checkpoints: From Molecular Mechanisms to Clinical Therapies.",
+        "summary": "Immune checkpoint inhibitors block tumor escape pathways, but resistance and side effects limit effectiveness; combination strategies and biomarkers offer solutions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42164656/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-22"
+      },
       {
         "id": "recuFtlZQfHVFIizX",
         "title": "Linking Qualitative Mindfulness Reflections During MBSR to Meaningful Improvement in PROMIS Scores in a Young Adult Cancer Survivor Sample: The Role of Bodily Awareness.",
@@ -805,48 +847,6 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-21"
-      },
-      {
-        "id": "recaPTmDMSJqH8fOP",
-        "title": "Targeting oral squamous cell carcinoma with venom peptides: mechanisms, selectivity and translational potential.",
-        "summary": "Venom peptides show promise against oral cancer by targeting tumor cell membranes, triggering cell death, and boosting immune responses.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42159993/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-21"
-      },
-      {
-        "id": "recpBoWH5cBalSSwz",
-        "title": "The applicability of the 21-gene assay to inform chemotherapy benefit in lymph node positive hormone receptor positive male breast cancer.",
-        "summary": "A genetic test (Oncotype DX) successfully predicted which men with hormone receptor positive breast cancer benefited most from chemotherapy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42159964/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-21"
-      },
-      {
-        "id": "recClYzGK0dUgRNqd",
-        "title": "Predicting resistance to neoadjuvant chemotherapy in osteosarcoma using machine learning with clinical data and T2-weighted MRI radiomics.",
-        "summary": "Researchers developed a machine learning tool using MRI scans and patient data to identify osteosarcoma patients likely to resist chemotherapy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42159937/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-21"
       }
     ],
     "mind_body": []
@@ -858,10 +858,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 24567,
+    "archive_count": 24568,
     "archive_supplements": 2617,
     "archive_off_label": 807,
-    "archive_biomarkers": 15271,
+    "archive_biomarkers": 15272,
     "archive_trials": 5138,
     "archive_mind_body": 442
   }
