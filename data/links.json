@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T04:27:59.589Z",
+  "last_updated": "2026-05-22T04:28:10.030Z",
   "categories": {
     "supplements": [
       {
@@ -272,6 +272,20 @@
         "added_date": "2026-05-22"
       },
       {
+        "id": "recy3NkoEbmFiuxW0",
+        "title": "Cross-Species Transcriptomic and Network Analysis of Human and Canine Diffuse Large B-Cell Lymphoma Identifies a Conserved Replication-DNA Damage Module for Drug Repurposing.",
+        "summary": "Researchers identified shared DNA damage genes in human and canine lymphoma, suggesting existing drugs like PARP inhibitors could treat dogs with this cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42163424/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lymphoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-22"
+      },
+      {
         "id": "recS6Jaqy82R3cMzB",
         "title": "Tumor-Platelet Crosstalk in Cancer: Mechanisms, Thrombotic Risk, and Translational Opportunities.",
         "summary": "Platelets promote cancer growth and metastasis while increasing clot risk; targeting platelets may offer new therapeutic and diagnostic opportunities.",
@@ -408,20 +422,6 @@
           "General"
         ],
         "quality_score": 21,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-20"
-      },
-      {
-        "id": "recEGOcrJ4SvOuOIg",
-        "title": "Type 2 diabetes and gynecologic cancers: Immunometabolic convergence and translational implications.",
-        "summary": "Type 2 diabetes worsens outcomes in gynecologic cancers, particularly endometrial and cervical cancer, through shared metabolic pathways that metformin may help address.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42153964/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-20"
       }
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 24695,
+    "archive_count": 24696,
     "archive_supplements": 2620,
     "archive_off_label": 808,
-    "archive_biomarkers": 15375,
+    "archive_biomarkers": 15376,
     "archive_trials": 5158,
     "archive_mind_body": 442
   }
