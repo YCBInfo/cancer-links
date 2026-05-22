@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T04:39:01.208Z",
+  "last_updated": "2026-05-22T09:03:27.622Z",
   "categories": {
     "supplements": [
       {
@@ -92,6 +92,20 @@
         "title": "Odoribacter laneus protects intestinal barrier by bile acid-FXR axis in acute pancreatitis.",
         "summary": "A probiotic bacterium protects the intestinal barrier in acute pancreatitis by restoring healthy gut bacteria and bile acid metabolism.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42162499/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-22"
+      },
+      {
+        "id": "recNkUi5WBrN5xDhp",
+        "title": "Dihydroartemisinin alleviates dextran sulfate sodium-induced colitis in mice: Associations with gut microbiota, arachidonic acid metabolism, and the IL-17 signaling pathway.",
+        "summary": "Dihydroartemisinin reduces colon inflammation in mice by modifying gut bacteria and immune responses, suggesting potential for ulcerative colitis treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42166934/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -198,20 +212,6 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-21"
-      },
-      {
-        "id": "recZNwmnWpnk4sL2S",
-        "title": "Omega-3 fatty acids attenuate alterations in penile erectile response by enhancing sexual behavior, nitric oxide-mediated signaling, and penile antioxidant status in tamoxifen-exposed rats.",
-        "summary": "Omega-3 fatty acids restore sexual function in male rats treated with tamoxifen, a breast cancer drug that impairs erectile response.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42157322/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-21"
       }
     ],
     "off_label": [
@@ -300,6 +300,62 @@
         "added_date": "2026-05-22"
       },
       {
+        "id": "recoh9FcXaTc1PF8m",
+        "title": "Anticancer activity of fluoxetine Janus dendrimer against cancer cells.",
+        "summary": "Fluoxetine combined with Janus dendrimers shows strong anticancer activity against breast cancer cells in laboratory tests.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42167254/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-22"
+      },
+      {
+        "id": "recZEpPxQIFDBAZzc",
+        "title": "Simvastatin reprograms lipid metabolism in B16.F10 melanoma cells to favor an early resistant phenotype.",
+        "summary": "Simvastatin alters melanoma cell metabolism, but initially triggers survival mechanisms that could lead to drug resistance.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42168432/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Melanoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-22"
+      },
+      {
+        "id": "recN5p3IhctJBD94d",
+        "title": "Macrophage ALDH2 drives immunotherapy resistance by silencing CXCL9 through metabolic-epigenetic crosstalk.",
+        "summary": "Blocking ALDH2 in immune cells reprograms tumors to respond better to immunotherapy by reactivating anti-tumor immune responses.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42168200/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-22"
+      },
+      {
+        "id": "reclmkPZQeLfhSzzB",
+        "title": "Inhibition of the oncogenic GTPase dynamin-related protein 1 (DRP1) by the FDA-approved drug fosaprepitant: In silico, biophysical, and in vitro characterization of its anti-myeloma activity.",
+        "summary": "FDA-approved antiemetic fosaprepitant inhibits DRP1 protein, disrupts mitochondria, and kills multiple myeloma cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42167430/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-22"
+      },
+      {
         "id": "recS6Jaqy82R3cMzB",
         "title": "Tumor-Platelet Crosstalk in Cancer: Mechanisms, Thrombotic Risk, and Translational Opportunities.",
         "summary": "Platelets promote cancer growth and metastasis while increasing clot risk; targeting platelets may offer new therapeutic and diagnostic opportunities.",
@@ -362,62 +418,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/42156983/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-21"
-      },
-      {
-        "id": "recHOdWDNCqv75jcE",
-        "title": "Stattic enhances the anti-tumor activity of AZD4547 in LUSC by blocking STAT3/RRM2-mediated DNA repair and inducing ROS-driven mitochondrial dysfunction.",
-        "summary": "Combining FGFR and STAT3 inhibitors effectively kills lung squamous cell carcinoma cells by blocking DNA repair and damaging mitochondria.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42156709/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-21"
-      },
-      {
-        "id": "recqQ2azpMjqVqLD4",
-        "title": "Autophagy-Enhanced Nanoplatforms Eliminate Intracellular Bacteria and Block Bacteria-Driven Epithelial-Mesenchymal Transition for Tumor Metastasis Inhibition.",
-        "summary": "A nanoplatform enhances autophagy to eliminate intracellular bacteria and block tumor spread in metastatic cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42157648/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-21"
-      },
-      {
-        "id": "recM3mw8ekQ3EKzxv",
-        "title": "Effectiveness Assessment of Riluzole in the Prevention of Oxaliplatin-induced Peripheral Neuropathy: A Phase II Randomized Study by UNICANCER With the Cooperation of AFSOS",
-        "summary": "Riluzole may prevent nerve damage caused by oxaliplatin chemotherapy in stage II/III colorectal cancer patients.",
-        "url": "https://clinicaltrials.gov/study/NCT03722680",
-        "source": "ClinicalTrials.gov",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 19,
-        "pub_date": "2026-05-20",
-        "added_date": "2026-05-21"
-      },
-      {
-        "id": "recXe2PqGsvqBp5MK",
-        "title": "Itraconazole as a repurposed anti-cancer agent: focusing on synthesis, mechanisms of action and therapeutic insights.",
-        "summary": "Itraconazole, an existing antifungal drug, shows promise as a cancer treatment by blocking blood vessel growth and key cell pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42158746/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
         "cancer_types": [
           "General"
         ],
@@ -859,9 +859,9 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 24751,
+    "archive_count": 24752,
     "archive_supplements": 2623,
-    "archive_off_label": 809,
+    "archive_off_label": 810,
     "archive_biomarkers": 15423,
     "archive_trials": 5162,
     "archive_mind_body": 442
