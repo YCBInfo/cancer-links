@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T04:07:19.958Z",
+  "last_updated": "2026-05-22T04:07:30.928Z",
   "categories": {
     "supplements": [
       {
@@ -243,6 +243,20 @@
         "added_date": "2026-05-22"
       },
       {
+        "id": "rect6exOs9XOywaRU",
+        "title": "Comprehensive quantum chemical analysis, vibrational spectroscopy, molecular docking, ADMET, and in vitro validation studies of hydroxychloroquine-MRGPRX2 complex in IDH-wildtype glioblastoma.",
+        "summary": "Hydroxychloroquine shows strong binding to a mast cell receptor and reduces glioblastoma cell viability, suggesting potential as a new glioblastoma treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42166475/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-22"
+      },
+      {
         "id": "recS6Jaqy82R3cMzB",
         "title": "Tumor-Platelet Crosstalk in Cancer: Mechanisms, Thrombotic Risk, and Translational Opportunities.",
         "summary": "Platelets promote cancer growth and metastasis while increasing clot risk; targeting platelets may offer new therapeutic and diagnostic opportunities.",
@@ -403,20 +417,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/42153907/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-20"
-      },
-      {
-        "id": "recltbirlQr3qr7ZZ",
-        "title": "Imatinib-Induced Hemorrhage in the Corpus Luteum Is Attenuated in Pseudopregnant and Hypophysectomized Rats.",
-        "summary": "Imatinib causes ovarian bleeding in normal rats but not when estrous cycles are halted, suggesting ovulation suppression may prevent this side effect.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42153279/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
         "cancer_types": [
           "General"
         ],
@@ -858,10 +858,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 24584,
+    "archive_count": 24585,
     "archive_supplements": 2617,
     "archive_off_label": 807,
-    "archive_biomarkers": 15287,
+    "archive_biomarkers": 15288,
     "archive_trials": 5139,
     "archive_mind_body": 442
   }
