@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T04:30:19.698Z",
+  "last_updated": "2026-05-22T04:30:32.065Z",
   "categories": {
     "supplements": [
       {
@@ -286,6 +286,20 @@
         "added_date": "2026-05-22"
       },
       {
+        "id": "rec3mQkXb73Gmi1FI",
+        "title": "The insulin receptor inhibitor BMS-754807 alleviates neuroinflammation and Alzheimer's disease pathologies across human cellular and mouse models.",
+        "summary": "BMS-754807, a drug tested for breast cancer, reduces brain inflammation and Alzheimer's disease symptoms in laboratory and mouse studies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42163277/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 21,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-22"
+      },
+      {
         "id": "recS6Jaqy82R3cMzB",
         "title": "Tumor-Platelet Crosstalk in Cancer: Mechanisms, Thrombotic Risk, and Translational Opportunities.",
         "summary": "Platelets promote cancer growth and metastasis while increasing clot risk; targeting platelets may offer new therapeutic and diagnostic opportunities.",
@@ -410,20 +424,6 @@
         "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-21"
-      },
-      {
-        "id": "recjAqXsUSTkwM2lk",
-        "title": "Dyslipidaemias in cancer patients.",
-        "summary": "Cancer survivors face high heart disease risk from both cancer treatments and high cholesterol, requiring personalized monitoring and cholesterol-lowering therapy strategies.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42155049/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 21,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-20"
       }
     ],
     "biomarkers": [
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 24708,
+    "archive_count": 24709,
     "archive_supplements": 2621,
     "archive_off_label": 808,
-    "archive_biomarkers": 15386,
+    "archive_biomarkers": 15387,
     "archive_trials": 5159,
     "archive_mind_body": 442
   }
