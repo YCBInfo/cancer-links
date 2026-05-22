@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T04:14:31.871Z",
+  "last_updated": "2026-05-22T04:14:41.862Z",
   "categories": {
     "supplements": [
       {
@@ -39,6 +39,21 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-22"
+      },
+      {
+        "id": "recpk0BooFk3d3vTV",
+        "title": "Molecular insights into induction of apoptosis and regulation of cell cycle proliferation by cycloartane triterpenoids from Dysoxylum malabaricum in breast cancer cells.",
+        "summary": "Natural compounds from Dysoxylum malabaricum kill breast cancer cells by triggering mitochondrial dysfunction and programmed cell death.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42165934/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast",
+          "Lymphoma"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -196,20 +211,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
-        "added_date": "2026-05-21"
-      },
-      {
-        "id": "recvQnOaCAJkg0tJL",
-        "title": "Natural polyphenols that selectively inhibit CaM kinase phosphatase (CaMKP/PPM1F/POPX2) suppress cancer cell migration.",
-        "summary": "Natural plant compounds called polyphenols inhibit a cancer protein, reducing breast cancer cell migration without killing cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41887078/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
         "added_date": "2026-05-21"
       }
     ],
@@ -858,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 24624,
+    "archive_count": 24625,
     "archive_supplements": 2619,
     "archive_off_label": 808,
-    "archive_biomarkers": 15318,
+    "archive_biomarkers": 15319,
     "archive_trials": 5145,
     "archive_mind_body": 442
   }
