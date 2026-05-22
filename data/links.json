@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T04:05:06.574Z",
+  "last_updated": "2026-05-22T04:05:16.245Z",
   "categories": {
     "supplements": [
       {
@@ -709,6 +709,20 @@
         "added_date": "2026-05-22"
       },
       {
+        "id": "recoJBdc98ofdXBVp",
+        "title": "Large Language Models in Colorectal Cancer Care and Clinical Decision Support: Systematic Review.",
+        "summary": "Large language models show promise for improving colorectal cancer care by processing clinical data and supporting treatment decisions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42166797/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-22"
+      },
+      {
         "id": "recuFtlZQfHVFIizX",
         "title": "Linking Qualitative Mindfulness Reflections During MBSR to Meaningful Improvement in PROMIS Scores in a Young Adult Cancer Survivor Sample: The Role of Bodily Awareness.",
         "summary": "Mindfulness training helped young adult cancer survivors reduce depression, anxiety, fatigue, and pain through increased body awareness.",
@@ -833,20 +847,6 @@
         "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-21"
-      },
-      {
-        "id": "rec0Y9MhoyoEvzT7K",
-        "title": "Clinical impact of molecular tumor board inclusion on treatment outcomes in neuroendocrine neoplasms.",
-        "summary": "Molecular tumor boards improved treatment outcomes for rare neuroendocrine cancers by helping doctors personalize therapy based on individual tumor genetics.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42160233/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-21"
       }
     ],
     "mind_body": []
@@ -858,10 +858,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 24573,
+    "archive_count": 24574,
     "archive_supplements": 2617,
     "archive_off_label": 807,
-    "archive_biomarkers": 15276,
+    "archive_biomarkers": 15277,
     "archive_trials": 5139,
     "archive_mind_body": 442
   }
