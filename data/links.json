@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T04:06:57.758Z",
+  "last_updated": "2026-05-22T04:07:07.572Z",
   "categories": {
     "supplements": [
       {
@@ -779,6 +779,20 @@
         "added_date": "2026-05-22"
       },
       {
+        "id": "recWEji9JWm9amrMR",
+        "title": "Neutrophil-Macrophage Interactions Shape Inflammatory Macrophage Remodeling in Gastric Cancer During Chemo-Immunotherapy.",
+        "summary": "Neutrophils communicate with macrophages to boost immune responses in gastric cancer treated with chemotherapy plus immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42166533/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-22"
+      },
+      {
         "id": "recuFtlZQfHVFIizX",
         "title": "Linking Qualitative Mindfulness Reflections During MBSR to Meaningful Improvement in PROMIS Scores in a Young Adult Cancer Survivor Sample: The Role of Bodily Awareness.",
         "summary": "Mindfulness training helped young adult cancer survivors reduce depression, anxiety, fatigue, and pain through increased body awareness.",
@@ -833,20 +847,6 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-21"
-      },
-      {
-        "id": "recnSoXR8TYNcfEp0",
-        "title": "Atezolizumab for relapsed/refractory extranodal NK/T-cell lymphoma: the phase II NCCH1903/ATTACK trial.",
-        "summary": "Atezolizumab showed promising results in treating relapsed/refractory NK/T-cell lymphoma, with 54% of patients responding to the immunotherapy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42160759/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Lymphoma"
-        ],
-        "quality_score": 30,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-21"
       }
     ],
     "mind_body": []
@@ -858,10 +858,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 24582,
+    "archive_count": 24583,
     "archive_supplements": 2617,
     "archive_off_label": 807,
-    "archive_biomarkers": 15285,
+    "archive_biomarkers": 15286,
     "archive_trials": 5139,
     "archive_mind_body": 442
   }
