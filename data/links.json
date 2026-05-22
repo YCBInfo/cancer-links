@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T04:10:01.926Z",
+  "last_updated": "2026-05-22T04:10:14.365Z",
   "categories": {
     "supplements": [
       {
@@ -13,6 +13,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-22"
+      },
+      {
+        "id": "receSSd1jjxuLJjNT",
+        "title": "Chk1-Targeted Hesperidin Liposomes for Breast Cancer Therapy: An Integrated In Silico, In Vitro, and In Vivo Evaluation.",
+        "summary": "Hesperidin-loaded liposomes targeting Chk1 protein effectively killed breast cancer cells and reduced tumors in animal models.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42166124/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-22"
       },
@@ -195,20 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-21"
-      },
-      {
-        "id": "recBr9JcahPFRDCyj",
-        "title": "A microfluidic lung cancer-vascular tumor-on-a-chip model for precise evaluation of anti-invasion therapeutics.",
-        "summary": "Researchers created a lung cancer chip model that effectively tests anti-invasion drugs, finding gemcitabine most promising for blocking tumor spread.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42159639/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-21"
       }
@@ -858,11 +858,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 24599,
+    "archive_count": 24600,
     "archive_supplements": 2617,
     "archive_off_label": 808,
     "archive_biomarkers": 15300,
-    "archive_trials": 5140,
+    "archive_trials": 5141,
     "archive_mind_body": 442
   }
 }
