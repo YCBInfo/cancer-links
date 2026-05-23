@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T04:03:43.829Z",
+  "last_updated": "2026-05-23T04:04:02.091Z",
   "categories": {
     "supplements": [
       {
@@ -597,6 +597,20 @@
         "added_date": "2026-05-23"
       },
       {
+        "id": "recOeGcvsXqvdhSih",
+        "title": "[LncRNA BCYRN1 regulates the miR-125a-5p/HK2 axis to influence radiosensitivity in glioma cells].",
+        "summary": "Blocking BCYRN1 in glioma cells increases radiation sensitivity by reducing a protein that promotes cell survival.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42151085/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-23"
+      },
+      {
         "id": "recDIt47E3cCHlEoF",
         "title": "Amplification of pro-proliferative genes adjacent to the F3 gene in pancreatic adenocarcinoma is associated with worse outcomes.",
         "summary": "Gene amplification near F3 in pancreatic cancer is linked to worse survival and increased blood clot risk.",
@@ -621,20 +635,6 @@
           "Stomach"
         ],
         "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-22"
-      },
-      {
-        "id": "recrmU83qz2Xsui7N",
-        "title": "Tebentafusp (IMCgp100), a first in class immune-mobilizing monoclonal T-cell receptors against cancer (ImmTAC) for HLA-A*02:01 positive uveal melanoma: Product review.",
-        "summary": "Tebentafusp, a new immunotherapy, significantly improved survival in patients with advanced uveal melanoma by activating immune cells to kill cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42163062/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Melanoma"
-        ],
-        "quality_score": 29,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-22"
       }
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 24787,
+    "archive_count": 24788,
     "archive_supplements": 2627,
     "archive_off_label": 815,
-    "archive_biomarkers": 15438,
+    "archive_biomarkers": 15439,
     "archive_trials": 5173,
     "archive_mind_body": 442
   }
