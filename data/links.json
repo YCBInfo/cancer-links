@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T04:03:32.290Z",
+  "last_updated": "2026-05-23T04:03:43.829Z",
   "categories": {
     "supplements": [
       {
@@ -583,6 +583,20 @@
         "added_date": "2026-05-23"
       },
       {
+        "id": "recniD2h0SSIXYD5g",
+        "title": "[Predictive value of 18F-FDG PET-CT for the major pathologic response to neoadjuvant immunotherapy in non-small cell lung cancer].",
+        "summary": "PET-CT scans can accurately predict treatment response in lung cancer patients receiving immunotherapy, with metabolic changes being more predictive than tumor markers.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42151090/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-23"
+      },
+      {
         "id": "recDIt47E3cCHlEoF",
         "title": "Amplification of pro-proliferative genes adjacent to the F3 gene in pancreatic adenocarcinoma is associated with worse outcomes.",
         "summary": "Gene amplification near F3 in pancreatic cancer is linked to worse survival and increased blood clot risk.",
@@ -621,20 +635,6 @@
           "Melanoma"
         ],
         "quality_score": 29,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-22"
-      },
-      {
-        "id": "recGaMbsXJAvP2qy2",
-        "title": "T-cell mechanobiology: How molecular forces shape immune function.",
-        "summary": "Physical forces in the immune environment shape T-cell function, suggesting that incorporating mechanics into cancer immunotherapies could improve treatment effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42165802/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-22"
       }
@@ -719,6 +719,20 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-23"
+      },
+      {
+        "id": "recniD2h0SSIXYD5g",
+        "title": "[Predictive value of 18F-FDG PET-CT for the major pathologic response to neoadjuvant immunotherapy in non-small cell lung cancer].",
+        "summary": "PET-CT scans can accurately predict treatment response in lung cancer patients receiving immunotherapy, with metabolic changes being more predictive than tumor markers.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42151090/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -835,20 +849,6 @@
         "quality_score": 26,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-22"
-      },
-      {
-        "id": "rec5NQGqeXXhO3zlj",
-        "title": "Intrapericardially injected hydrogel loaded with stromal cell secretome microparticles improves post-infarction myocardial repair in pigs.",
-        "summary": "A hydrogel containing cell secretome microparticles, injected around the heart, improved heart repair after heart attack in pigs.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42166700/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 21,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-22"
       }
     ],
     "mind_body": []
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 24786,
+    "archive_count": 24787,
     "archive_supplements": 2627,
     "archive_off_label": 815,
-    "archive_biomarkers": 15437,
+    "archive_biomarkers": 15438,
     "archive_trials": 5173,
     "archive_mind_body": 442
   }
