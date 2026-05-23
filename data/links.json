@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T04:08:48.003Z",
+  "last_updated": "2026-05-23T04:08:57.678Z",
   "categories": {
     "supplements": [
       {
@@ -244,6 +244,20 @@
         "added_date": "2026-05-23"
       },
       {
+        "id": "recLX19tnJIf7TPOL",
+        "title": "NAT10-Mediated ac4C Modification of circANKRD12 Reprograms the Tumor Microenvironment.",
+        "summary": "NAT10 modification of circANKRD12 promotes multiple myeloma growth and immune suppression; desloratadine reverses both effects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42172090/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-23"
+      },
+      {
         "id": "recsJexu9ssf4OWnW",
         "title": "In vitro screening of compounds for targeting gastric cancer with Y220C p53 mutation: a molecule combining zinc chelation and a Michael acceptor drives CDKN1 and BBC3 expression to restore a p53-dependent cytotoxicity.",
         "summary": "A new compound called AG3 reactivates mutated p53 in gastric cancer cells, restoring cancer-killing ability while protecting healthy cells.",
@@ -402,20 +416,6 @@
         "title": "Pharmacokinetics of Dexamethasone in Tuberculous Meningitis.",
         "summary": "Rifampicin reduces dexamethasone levels in tuberculosis meningitis patients, potentially decreasing the steroid's effectiveness when used together.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41408415/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-22"
-      },
-      {
-        "id": "recwaUFycFYx8gSm6",
-        "title": "Drug screening of sarcoma cells: finding shared sensitivities.",
-        "summary": "Researchers screened 1,387 drugs across sarcoma cells, identifying microtubule and aurora kinase inhibitors as most effective, with subtype-specific sensitivities revealing shared vulnerabilities.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42165630/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 24811,
+    "archive_count": 24812,
     "archive_supplements": 2632,
     "archive_off_label": 815,
-    "archive_biomarkers": 15456,
+    "archive_biomarkers": 15457,
     "archive_trials": 5174,
     "archive_mind_body": 442
   }
