@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T04:09:41.606Z",
+  "last_updated": "2026-05-23T04:09:53.383Z",
   "categories": {
     "supplements": [
       {
@@ -258,6 +258,20 @@
         "added_date": "2026-05-23"
       },
       {
+        "id": "rec8QslwL5CiX6c9w",
+        "title": "Repurposing Syrosingopine for Cancer Therapy: Lactate Trapping and ISR Sensitization as Metabolic Vulnerabilities.",
+        "summary": "Syrosingopine, a repurposed blood pressure drug, blocks lactate transporters in cancer cells, forcing toxic lactate buildup and potentially slowing tumor growth.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42171986/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-23"
+      },
+      {
         "id": "recsJexu9ssf4OWnW",
         "title": "In vitro screening of compounds for targeting gastric cancer with Y220C p53 mutation: a molecule combining zinc chelation and a Michael acceptor drives CDKN1 and BBC3 expression to restore a p53-dependent cytotoxicity.",
         "summary": "A new compound called AG3 reactivates mutated p53 in gastric cancer cells, restoring cancer-killing ability while protecting healthy cells.",
@@ -408,20 +422,6 @@
           "Breast"
         ],
         "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-22"
-      },
-      {
-        "id": "recjKoVpq7nJkWv9L",
-        "title": "Pharmacokinetics of Dexamethasone in Tuberculous Meningitis.",
-        "summary": "Rifampicin reduces dexamethasone levels in tuberculosis meningitis patients, potentially decreasing the steroid's effectiveness when used together.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41408415/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-22"
       }
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 24816,
+    "archive_count": 24817,
     "archive_supplements": 2632,
     "archive_off_label": 815,
-    "archive_biomarkers": 15461,
+    "archive_biomarkers": 15462,
     "archive_trials": 5174,
     "archive_mind_body": 442
   }
