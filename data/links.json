@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T04:04:26.080Z",
+  "last_updated": "2026-05-23T04:04:38.448Z",
   "categories": {
     "supplements": [
       {
@@ -21,6 +21,20 @@
         "title": "Multi-omics dissection of lignan diversity and therapeutic potential in Ocimum: Identification of diphyllin as an anti-inflammatory agent targeting TNF-α signaling.",
         "summary": "Researchers identified diphyllin from Ocimum plants as a compound that reduces inflammation by blocking TNF-α signaling pathways.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41730398/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 10,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-05-23"
+      },
+      {
+        "id": "recbWbaaz0pljps85",
+        "title": "Banxia Xiexin decoction alleviates N-methyl-N'-nitro-N-nitrosoguanidine-induced gastric precancerous lesions by modulating the gastric microbiota.",
+        "summary": "Traditional herbal formula Banxia Xiexin decoction reduces gastric precancerous lesions by changing stomach bacteria composition.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41722877/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -197,20 +211,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-21"
-      },
-      {
-        "id": "recsRAp2dbQbETxLj",
-        "title": "Inhibitory effects of mycosubtilin on proliferation of colon cancer SW480 cells.",
-        "summary": "Mycosubtilin, a natural compound, outperformed standard chemotherapy in stopping colon cancer cell growth by triggering apoptosis.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42160403/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-21"
       }
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 24790,
+    "archive_count": 24791,
     "archive_supplements": 2628,
     "archive_off_label": 815,
-    "archive_biomarkers": 15440,
+    "archive_biomarkers": 15441,
     "archive_trials": 5173,
     "archive_mind_body": 442
   }
