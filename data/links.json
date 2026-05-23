@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T04:04:14.714Z",
+  "last_updated": "2026-05-23T04:04:26.080Z",
   "categories": {
     "supplements": [
       {
@@ -14,6 +14,20 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
+        "added_date": "2026-05-23"
+      },
+      {
+        "id": "reclQNwhjp88JvicC",
+        "title": "Multi-omics dissection of lignan diversity and therapeutic potential in Ocimum: Identification of diphyllin as an anti-inflammatory agent targeting TNF-α signaling.",
+        "summary": "Researchers identified diphyllin from Ocimum plants as a compound that reduces inflammation by blocking TNF-α signaling pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41730398/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 10,
+        "pub_date": "2026-03-01",
         "added_date": "2026-05-23"
       },
       {
@@ -195,20 +209,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-21"
-      },
-      {
-        "id": "recLBksPODXhZBDNL",
-        "title": "PFAS is associated with perineural invasion in triple-negative breast cancer with a potential role for Cathepsin D dysregulation: a multi-omics and experimental study.",
-        "summary": "PFAS pollutants may promote nerve invasion in triple-negative breast cancer through Cathepsin D dysregulation, with a natural compound showing promise as treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42159784/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -625,18 +625,18 @@
         "added_date": "2026-05-23"
       },
       {
-        "id": "recDIt47E3cCHlEoF",
-        "title": "Amplification of pro-proliferative genes adjacent to the F3 gene in pancreatic adenocarcinoma is associated with worse outcomes.",
-        "summary": "Gene amplification near F3 in pancreatic cancer is linked to worse survival and increased blood clot risk.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42165335/",
+        "id": "reclQNwhjp88JvicC",
+        "title": "Multi-omics dissection of lignan diversity and therapeutic potential in Ocimum: Identification of diphyllin as an anti-inflammatory agent targeting TNF-α signaling.",
+        "summary": "Researchers identified diphyllin from Ocimum plants as a compound that reduces inflammation by blocking TNF-α signaling pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41730398/",
         "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
+        "category": "Supplements & Nutraceuticals",
         "cancer_types": [
-          "Pancreatic"
+          "General"
         ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-22"
+        "quality_score": 10,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-05-23"
       }
     ],
     "trials": [
@@ -860,8 +860,8 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 24789,
-    "archive_supplements": 2627,
+    "archive_count": 24790,
+    "archive_supplements": 2628,
     "archive_off_label": 815,
     "archive_biomarkers": 15440,
     "archive_trials": 5173,
