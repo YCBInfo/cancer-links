@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T04:07:40.008Z",
+  "last_updated": "2026-05-23T04:07:49.851Z",
   "categories": {
     "supplements": [
       {
@@ -70,6 +70,20 @@
         ],
         "quality_score": 10,
         "pub_date": "2026-03-01",
+        "added_date": "2026-05-23"
+      },
+      {
+        "id": "recSYCn8Lj9jDkE5N",
+        "title": "Integrated computational and experimental analysis explores FOLH1 expression patterns across cancers and nominates melatonin as a potential modulator in prostate cancer models.",
+        "summary": "Researchers found that melatonin may help regulate FOLH1 protein expression in prostate cancer cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42172245/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
         "added_date": "2026-05-23"
       },
       {
@@ -197,20 +211,6 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-05-01",
-        "added_date": "2026-05-22"
-      },
-      {
-        "id": "recUnSUr2yLesAdmu",
-        "title": "Elucidation of the anti-inflammatory mechanism of isoliquiritigenin from Glycyrrhiza uralensis using activity-based protein profiling",
-        "summary": "Isoliquiritigenin from licorice root reduces inflammation by blocking an enzyme that produces inflammatory molecules.",
-        "url": "https://www.biorxiv.org/content/10.64898/2026.05.05.722967",
-        "source": "bioRxiv",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 9,
-        "pub_date": "2026-05-08",
         "added_date": "2026-05-22"
       }
     ],
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 24805,
+    "archive_count": 24806,
     "archive_supplements": 2632,
     "archive_off_label": 815,
-    "archive_biomarkers": 15451,
+    "archive_biomarkers": 15452,
     "archive_trials": 5173,
     "archive_mind_body": 442
   }
