@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T10:03:17.493Z",
+  "last_updated": "2026-05-23T11:30:03.799Z",
   "categories": {
     "supplements": [
       {
@@ -355,6 +355,34 @@
         "added_date": "2026-05-23"
       },
       {
+        "id": "recvHi20TmT1eKd39",
+        "title": "Temporal regulation of G2 phase avoids therapy-induced senescence caused by DNA replication stress-inducing drugs and provides synergistic cytotoxicity",
+        "summary": "Shortening G2 phase with checkpoint inhibitors converts cancer cells from survival to death when combined with DNA-damaging drugs, regardless of p53 status.",
+        "url": "https://www.biorxiv.org/content/10.64898/2026.05.06.723184",
+        "source": "bioRxiv",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 9,
+        "pub_date": "2026-05-09",
+        "added_date": "2026-05-23"
+      },
+      {
+        "id": "reclCtDcCfBlwefWR",
+        "title": "NFIC-mediated CaSR endocytosis defines a hyperactive TOMM20highCHGAhigh oxyphil cell state as a pathological driver of autonomous secondary hyperparathyroidism",
+        "summary": "Researchers identified how a protein called NFIC causes calcium-sensing receptor breakdown in kidney disease-related parathyroid disease, and found that combining an existing drug with standard treatment restores the receptor and improves outcomes.",
+        "url": "https://www.biorxiv.org/content/10.64898/2026.05.06.723114",
+        "source": "bioRxiv",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 9,
+        "pub_date": "2026-05-09",
+        "added_date": "2026-05-23"
+      },
+      {
         "id": "recsJexu9ssf4OWnW",
         "title": "In vitro screening of compounds for targeting gastric cancer with Y220C p53 mutation: a molecule combining zinc chelation and a Michael acceptor drives CDKN1 and BBC3 expression to restore a p53-dependent cytotoxicity.",
         "summary": "A new compound called AG3 reactivates mutated p53 in gastric cancer cells, restoring cancer-killing ability while protecting healthy cells.",
@@ -391,34 +419,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-22"
-      },
-      {
-        "id": "rec71ASkCWBqUii2w",
-        "title": "RET signaling as a mediator of estrogen receptor positive breast cancer brain metastasis.",
-        "summary": "RET protein drives brain metastasis in estrogen receptor-positive breast cancer and can be blocked by the drug Pralsetinib.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42162219/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-22"
-      },
-      {
-        "id": "recy3NkoEbmFiuxW0",
-        "title": "Cross-Species Transcriptomic and Network Analysis of Human and Canine Diffuse Large B-Cell Lymphoma Identifies a Conserved Replication-DNA Damage Module for Drug Repurposing.",
-        "summary": "Researchers identified shared DNA damage genes in human and canine lymphoma, suggesting existing drugs like PARP inhibitors could treat dogs with this cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42163424/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lymphoma"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -858,10 +858,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25096,
+    "archive_count": 25097,
     "archive_supplements": 2664,
     "archive_off_label": 820,
-    "archive_biomarkers": 15648,
+    "archive_biomarkers": 15649,
     "archive_trials": 5230,
     "archive_mind_body": 442
   }
