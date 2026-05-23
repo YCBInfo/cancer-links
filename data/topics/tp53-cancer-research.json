@@ -11,6 +11,22 @@
   },
   "articles": [
     {
+      "title": "Selective Elimination of TP53 Mutant Cells by Transcript-Activated Chromatin Shredding",
+      "hook": "CRISPR-Cas12a selectively kills TP53 mutant cancer cells via RNA detection",
+      "summary": "Researchers engineered CRISPR-Cas12a to selectively kill cancer cells with TP53 mutations by detecting abnormal RNA and triggering DNA damage.",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.05.08.723607",
+      "source": "bioRxiv",
+      "pub_date": "2026-05-09",
+      "category": [
+        "Biomarkers & Diagnostics",
+        "Clinical Trials"
+      ],
+      "cancer_types": [
+        "General"
+      ],
+      "biomarkers": "TP53"
+    },
+    {
       "title": "A potential mutation-defined POLE/MMR/TP53 group classifications to stratify BRCA wild type epithelial ovarian cancer.",
       "hook": "POLE/MMR/TP53 mutations stratify outcomes in BRCA wild-type ovarian cancer",
       "summary": "Researchers propose new genetic classification system to better predict outcomes in ovarian cancer patients without BRCA mutations.",
@@ -148,24 +164,8 @@
         "Breast"
       ],
       "biomarkers": "BRCA1, HER2, TP53, PIK3CA"
-    },
-    {
-      "title": "TP53-mutant AML with ribosomal gene loss exhibits impaired protein translation and sensitivity to HSP90 inhibition.",
-      "hook": "TP53-mutant AML with ribosomal loss shows HSP90 inhibitor sensitivity",
-      "summary": "TP53-mutant AML with ribosomal gene loss becomes vulnerable to HSP90 inhibitor treatment through impaired protein production.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42139355/",
-      "source": "PubMed",
-      "pub_date": "2026-05-01",
-      "category": [
-        "Biomarkers & Diagnostics",
-        "Clinical Trials"
-      ],
-      "cancer_types": [
-        "Leukemia"
-      ],
-      "biomarkers": "TP53"
     }
   ],
   "article_count": 10,
-  "last_updated": "2026-05-22T13:02:15.977Z"
+  "last_updated": "2026-05-23T13:01:46.069Z"
 }
