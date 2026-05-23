@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T04:04:02.091Z",
+  "last_updated": "2026-05-23T04:04:14.714Z",
   "categories": {
     "supplements": [
       {
@@ -217,6 +217,20 @@
     ],
     "off_label": [
       {
+        "id": "recfjV22oITSkrRSu",
+        "title": "[Establishment of pediatric neuroblastoma cell line and its resistance mechanism to lorlatinib].",
+        "summary": "Researchers found that neuroblastoma cells resistant to lorlatinib activate EGFR as an escape mechanism, and combining EGFR and ALK inhibitors effectively overcomes this resistance.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42151084/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lymphoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-23"
+      },
+      {
         "id": "recsJexu9ssf4OWnW",
         "title": "In vitro screening of compounds for targeting gastric cancer with Y220C p53 mutation: a molecule combining zinc chelation and a Michael acceptor drives CDKN1 and BBC3 expression to restore a p53-dependent cytotoxicity.",
         "summary": "A new compound called AG3 reactivates mutated p53 in gastric cancer cells, restoring cancer-killing ability while protecting healthy cells.",
@@ -411,20 +425,6 @@
         "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-22"
-      },
-      {
-        "id": "recr7ci1ba0f8F0bV",
-        "title": "Conserved hydrophobic gatekeeper mechanisms in COX-1-like pockets revealed by AI-driven pocket similarity and molecular dynamics simulations of mofezolac.",
-        "summary": "AI analysis reveals mofezolac, a COX-1 inhibitor, may work against multiple proteins through conserved binding pockets, suggesting potential for ovarian cancer treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42160909/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Ovarian"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-22"
       }
     ],
     "biomarkers": [
@@ -611,6 +611,20 @@
         "added_date": "2026-05-23"
       },
       {
+        "id": "recfjV22oITSkrRSu",
+        "title": "[Establishment of pediatric neuroblastoma cell line and its resistance mechanism to lorlatinib].",
+        "summary": "Researchers found that neuroblastoma cells resistant to lorlatinib activate EGFR as an escape mechanism, and combining EGFR and ALK inhibitors effectively overcomes this resistance.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42151084/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lymphoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-23"
+      },
+      {
         "id": "recDIt47E3cCHlEoF",
         "title": "Amplification of pro-proliferative genes adjacent to the F3 gene in pancreatic adenocarcinoma is associated with worse outcomes.",
         "summary": "Gene amplification near F3 in pancreatic cancer is linked to worse survival and increased blood clot risk.",
@@ -619,20 +633,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Pancreatic"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-22"
-      },
-      {
-        "id": "recsJexu9ssf4OWnW",
-        "title": "In vitro screening of compounds for targeting gastric cancer with Y220C p53 mutation: a molecule combining zinc chelation and a Michael acceptor drives CDKN1 and BBC3 expression to restore a p53-dependent cytotoxicity.",
-        "summary": "A new compound called AG3 reactivates mutated p53 in gastric cancer cells, restoring cancer-killing ability while protecting healthy cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42163716/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Stomach"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 24788,
+    "archive_count": 24789,
     "archive_supplements": 2627,
     "archive_off_label": 815,
-    "archive_biomarkers": 15439,
+    "archive_biomarkers": 15440,
     "archive_trials": 5173,
     "archive_mind_body": 442
   }
