@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T08:04:28.453Z",
+  "last_updated": "2026-05-23T09:03:15.848Z",
   "categories": {
     "supplements": [
       {
@@ -313,6 +313,48 @@
         "added_date": "2026-05-23"
       },
       {
+        "id": "recGZBwjRaTAh1hFF",
+        "title": "The impact of mineralocorticoid receptor antagonists on fat mass and fat metabolism.",
+        "summary": "Mineralocorticoid receptor antagonists may reduce fat accumulation and improve fat metabolism, potentially lowering obesity-related cancer risk.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42171670/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-23"
+      },
+      {
+        "id": "recRDrclV9G58UFxn",
+        "title": "Life-threatening neurotoxicity following off-label ivermectin use in metastatic breast cancer: a case report.",
+        "summary": "Off-label ivermectin use for breast cancer caused life-threatening nerve damage in a patient, highlighting risks of online misinformation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42170801/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-23"
+      },
+      {
+        "id": "reczEfE1xfSIYVUoc",
+        "title": "Propranolol in the Treatment of Infantile Hemangiomas: A Single-Center Experience.",
+        "summary": "Propranolol is an effective first-line treatment for infantile hemangiomas, offering good safety and efficacy outcomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42169604/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-23"
+      },
+      {
         "id": "recsJexu9ssf4OWnW",
         "title": "In vitro screening of compounds for targeting gastric cancer with Y220C p53 mutation: a molecule combining zinc chelation and a Michael acceptor drives CDKN1 and BBC3 expression to restore a p53-dependent cytotoxicity.",
         "summary": "A new compound called AG3 reactivates mutated p53 in gastric cancer cells, restoring cancer-killing ability while protecting healthy cells.",
@@ -377,48 +419,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Lymphoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-22"
-      },
-      {
-        "id": "rec3mQkXb73Gmi1FI",
-        "title": "The insulin receptor inhibitor BMS-754807 alleviates neuroinflammation and Alzheimer's disease pathologies across human cellular and mouse models.",
-        "summary": "BMS-754807, a drug tested for breast cancer, reduces brain inflammation and Alzheimer's disease symptoms in laboratory and mouse studies.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42163277/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 21,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-22"
-      },
-      {
-        "id": "recoh9FcXaTc1PF8m",
-        "title": "Anticancer activity of fluoxetine Janus dendrimer against cancer cells.",
-        "summary": "Fluoxetine combined with Janus dendrimers shows strong anticancer activity against breast cancer cells in laboratory tests.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42167254/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-22"
-      },
-      {
-        "id": "recZEpPxQIFDBAZzc",
-        "title": "Simvastatin reprograms lipid metabolism in B16.F10 melanoma cells to favor an early resistant phenotype.",
-        "summary": "Simvastatin alters melanoma cell metabolism, but initially triggers survival mechanisms that could lead to drug resistance.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42168432/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Melanoma"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -858,10 +858,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25089,
+    "archive_count": 25090,
     "archive_supplements": 2664,
     "archive_off_label": 817,
-    "archive_biomarkers": 15647,
+    "archive_biomarkers": 15648,
     "archive_trials": 5227,
     "archive_mind_body": 442
   }
