@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T06:12:05.464Z",
+  "last_updated": "2026-05-23T06:12:17.770Z",
   "categories": {
     "supplements": [
       {
@@ -285,6 +285,20 @@
         "added_date": "2026-05-23"
       },
       {
+        "id": "recNzco8f3qbI55JX",
+        "title": "Synthesis and preliminary enzymatic evaluation of polyol-based 4-phenylbutyrate derivatives.",
+        "summary": "Researchers created new drug derivatives combining 4-phenylbutyrate with polyols to potentially treat cancer by targeting cellular stress and energy metabolism.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42167552/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-23"
+      },
+      {
         "id": "recsJexu9ssf4OWnW",
         "title": "In vitro screening of compounds for targeting gastric cancer with Y220C p53 mutation: a molecule combining zinc chelation and a Michael acceptor drives CDKN1 and BBC3 expression to restore a p53-dependent cytotoxicity.",
         "summary": "A new compound called AG3 reactivates mutated p53 in gastric cancer cells, restoring cancer-killing ability while protecting healthy cells.",
@@ -403,20 +417,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/42168200/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-22"
-      },
-      {
-        "id": "reclmkPZQeLfhSzzB",
-        "title": "Inhibition of the oncogenic GTPase dynamin-related protein 1 (DRP1) by the FDA-approved drug fosaprepitant: In silico, biophysical, and in vitro characterization of its anti-myeloma activity.",
-        "summary": "FDA-approved antiemetic fosaprepitant inhibits DRP1 protein, disrupts mitochondria, and kills multiple myeloma cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42167430/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
         "cancer_types": [
           "General"
         ],
@@ -858,8 +858,8 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25005,
-    "archive_supplements": 2649,
+    "archive_count": 25006,
+    "archive_supplements": 2650,
     "archive_off_label": 816,
     "archive_biomarkers": 15608,
     "archive_trials": 5198,
