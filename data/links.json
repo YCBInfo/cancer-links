@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T04:28:32.812Z",
+  "last_updated": "2026-05-23T04:28:45.198Z",
   "categories": {
     "supplements": [
       {
@@ -271,6 +271,20 @@
         "added_date": "2026-05-23"
       },
       {
+        "id": "recljHXG4LLe13VHW",
+        "title": "Ablation of the adhesion G protein-coupled receptor ADGRL1 activates anti-tumor immune response via cDC1-T cell hub formation.",
+        "summary": "Removing ADGRL1 protein activates immune cells to fight tumors and works better when combined with immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42172123/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-23"
+      },
+      {
         "id": "recsJexu9ssf4OWnW",
         "title": "In vitro screening of compounds for targeting gastric cancer with Y220C p53 mutation: a molecule combining zinc chelation and a Michael acceptor drives CDKN1 and BBC3 expression to restore a p53-dependent cytotoxicity.",
         "summary": "A new compound called AG3 reactivates mutated p53 in gastric cancer cells, restoring cancer-killing ability while protecting healthy cells.",
@@ -407,20 +421,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-22"
-      },
-      {
-        "id": "rec6trGvE3fj1oQS4",
-        "title": "AI-genomics synergy for drug repurposing in breast cancer: an interpretability-driven framework.",
-        "summary": "AI tools help identify existing drugs that could treat different breast cancer types by analyzing genetic data and making predictions transparent for clinical use.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42162002/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-22"
       }
@@ -858,10 +858,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 24919,
+    "archive_count": 24920,
     "archive_supplements": 2637,
     "archive_off_label": 816,
-    "archive_biomarkers": 15546,
+    "archive_biomarkers": 15547,
     "archive_trials": 5186,
     "archive_mind_body": 442
   }
