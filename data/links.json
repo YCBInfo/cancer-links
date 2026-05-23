@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T11:31:03.840Z",
+  "last_updated": "2026-05-23T02:34:39.432Z",
   "categories": {
     "supplements": [
       {
@@ -429,6 +429,20 @@
     ],
     "biomarkers": [
       {
+        "id": "recwncSmxEb1w90K4",
+        "title": "Exploring the relationship between Ayurgenomics and bio-psycho-social symptoms in cancer care.",
+        "summary": "Researchers combined ancient Ayurvedic medicine with genetic analysis to personalize yoga treatments for cancer patients based on individual constitution.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42167008/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-23"
+      },
+      {
         "id": "recDIt47E3cCHlEoF",
         "title": "Amplification of pro-proliferative genes adjacent to the F3 gene in pancreatic adenocarcinoma is associated with worse outcomes.",
         "summary": "Gene amplification near F3 in pancreatic cancer is linked to worse survival and increased blood clot risk.",
@@ -623,23 +637,37 @@
         "quality_score": 10,
         "pub_date": "2026-03-01",
         "added_date": "2026-05-22"
-      },
-      {
-        "id": "recuIWAyHhqfdlZJl",
-        "title": "Label-free and isothermal multiplex detection of miRNAs using self-priming hairpin probes and light-up aptamer transcription.",
-        "summary": "Researchers developed a simple, rapid method to simultaneously detect multiple cancer-related microRNAs using hairpin probes and glowing aptamers.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41833409/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-05-22"
       }
     ],
     "trials": [
+      {
+        "id": "recQsxvcAwh2d7CHH",
+        "title": "Comparative efficacy and safety of different acupuncture therapies for insomnia in breast cancer patients: A systematic review and Bayesian network meta-analysis.",
+        "summary": "Acupuncture therapies effectively improve sleep quality in breast cancer patients with minimal side effects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42172705/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-23"
+      },
+      {
+        "id": "recrJHIaArppecDMr",
+        "title": "Role Perceptions and Workplace Challenges Among Oncology Nurses: A Comparative Study of Türkiye and Australia.",
+        "summary": "Oncology nurses in Australia and Türkiye report different perceptions of their roles and face varying workplace challenges.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42167961/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-23"
+      },
       {
         "id": "recrmU83qz2Xsui7N",
         "title": "Tebentafusp (IMCgp100), a first in class immune-mobilizing monoclonal T-cell receptors against cancer (ImmTAC) for HLA-A*02:01 positive uveal melanoma: Product review.",
@@ -821,34 +849,6 @@
         "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-22"
-      },
-      {
-        "id": "recUtb2gjszU8CCO1",
-        "title": "Engineered GelMA Microgels for Locoregional Doxorubicin Release and Apoptosis Induction in Oral Squamous Cell Carcinoma.",
-        "summary": "Engineered microgels deliver doxorubicin directly to oral cancer tumors, reducing systemic toxicity while effectively triggering cancer cell death.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42166363/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-22"
-      },
-      {
-        "id": "rec8e6bDUc9NwgCpE",
-        "title": "Prognostic impact of FLT3-ITD microclones in young adults with acute myeloid leukemia treated with intensive chemotherapy.",
-        "summary": "Small FLT3-ITD mutations in acute myeloid leukemia significantly increase relapse risk and should be monitored using advanced genetic testing.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42166362/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-22"
       }
     ],
     "mind_body": []
@@ -860,11 +860,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 24782,
+    "archive_count": 24783,
     "archive_supplements": 2627,
     "archive_off_label": 815,
     "archive_biomarkers": 15435,
-    "archive_trials": 5171,
+    "archive_trials": 5172,
     "archive_mind_body": 442
   }
 }
