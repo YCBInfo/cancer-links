@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24T04:22:20.262Z",
+  "last_updated": "2026-05-24T04:22:32.472Z",
   "categories": {
     "supplements": [
       {
@@ -79,6 +79,20 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/42174008/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-24"
+      },
+      {
+        "id": "recK2jDimMn5pII5C",
+        "title": "Antibiotics treatment promotes squamocolumnar junction tumor progression via tumor immune evasion in K19-Wnt1/C2mE mice fed high-fat diet and acidic bile salts.",
+        "summary": "Antibiotics combined with high-fat diet promote esophageal junction cancer through immune evasion pathways in mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42173516/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
@@ -189,20 +203,6 @@
         "title": "Berberine and its structural diversity: structure-activity relationships, molecular mechanisms, and drug discovery opportunities.",
         "summary": "Berberine, a natural compound, shows promise against cancer and other diseases, but researchers are redesigning its structure to improve effectiveness and drugability.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42171866/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-23"
-      },
-      {
-        "id": "recK61BciO6YrZJEP",
-        "title": "Thymoquinone inhibits proliferation and impairs wound closure dynamics via apoptosis and autophagy-related pathways in multiple cancer cell lines.",
-        "summary": "Thymoquinone, a compound from nigella seeds, stops cancer cell growth by triggering cell death across multiple cancer types.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42171850/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25205,
+    "archive_count": 25206,
     "archive_supplements": 2670,
     "archive_off_label": 822,
-    "archive_biomarkers": 15737,
+    "archive_biomarkers": 15738,
     "archive_trials": 5242,
     "archive_mind_body": 442
   }
