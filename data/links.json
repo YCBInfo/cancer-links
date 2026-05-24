@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24T04:08:55.693Z",
+  "last_updated": "2026-05-24T04:09:05.933Z",
   "categories": {
     "supplements": [
       {
@@ -25,6 +25,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-24"
+      },
+      {
+        "id": "recq3qKlZr6qYzKff",
+        "title": "Dietary inflammatory index and quality of life in patients with breast cancer: a cross-sectional study.",
+        "summary": "Breast cancer survivors eating more inflammatory foods reported worse quality of life than those eating anti-inflammatory diets.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42174723/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -195,20 +209,6 @@
           "General"
         ],
         "quality_score": 19,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-23"
-      },
-      {
-        "id": "reczrt2eEBVfZTK4E",
-        "title": "Identification of Hoiamide A as an Inducer of Oxidative and Endoplasmic Reticulum Secretory Pathway Stress.",
-        "summary": "Hoiamide A, a compound from cyanobacteria, triggers oxidative stress in glioblastoma and neuroblastoma cancer cells by disrupting cellular protein pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42080225/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Brain"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-23"
       }
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25132,
+    "archive_count": 25133,
     "archive_supplements": 2665,
     "archive_off_label": 821,
-    "archive_biomarkers": 15677,
+    "archive_biomarkers": 15678,
     "archive_trials": 5235,
     "archive_mind_body": 442
   }
