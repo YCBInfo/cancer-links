@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24T04:23:43.208Z",
+  "last_updated": "2026-05-24T04:23:53.585Z",
   "categories": {
     "supplements": [
       {
@@ -101,6 +101,20 @@
         "added_date": "2026-05-24"
       },
       {
+        "id": "recWoT0C4eRyHyhgw",
+        "title": "Fungal metabolite-based immunotherapy overcomes tumor-associated macrophage immunosuppression.",
+        "summary": "A fungal metabolite called IM502 reprograms tumor-supporting immune cells, enhancing cancer-fighting T cells and shrinking tumors across multiple cancer types.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42173096/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-24"
+      },
+      {
         "id": "rec4FXAthwfu4biPC",
         "title": "Ginsenoside Rg3 potentiates cisplatin antitumor activity while mitigating nephrotoxicity through SIRT1‑mediated suppression of the NLRP3 inflammasome.",
         "summary": "Ginsenoside Rg3 enhances cisplatin's effectiveness against lung cancer while protecting kidneys from drug damage.",
@@ -195,20 +209,6 @@
           "Colorectal"
         ],
         "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-23"
-      },
-      {
-        "id": "recEjMkpfwUjziSB8",
-        "title": "Berberine and its structural diversity: structure-activity relationships, molecular mechanisms, and drug discovery opportunities.",
-        "summary": "Berberine, a natural compound, shows promise against cancer and other diseases, but researchers are redesigning its structure to improve effectiveness and drugability.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42171866/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-23"
       }
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25213,
+    "archive_count": 25214,
     "archive_supplements": 2670,
     "archive_off_label": 822,
-    "archive_biomarkers": 15744,
+    "archive_biomarkers": 15745,
     "archive_trials": 5243,
     "archive_mind_body": 442
   }
