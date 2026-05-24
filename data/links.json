@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24T04:07:59.447Z",
+  "last_updated": "2026-05-24T04:08:11.465Z",
   "categories": {
     "supplements": [
       {
@@ -13,6 +13,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-24"
+      },
+      {
+        "id": "rece8SyyQ04puK0rU",
+        "title": "MAP30, a type Ⅰ ribosome-inactivating protein, inhibits hepatocellular carcinoma by inducing apoptosis through mitochondria.",
+        "summary": "MAP30, a natural protein from bitter melon, kills liver cancer cells by triggering mitochondria-based cell death.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42175419/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-24"
       },
@@ -195,20 +209,6 @@
           "Brain"
         ],
         "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-23"
-      },
-      {
-        "id": "recPTVCu5l9C7fmwT",
-        "title": "Associations of dietary diversity with type 2 diabetes in two Chinese cohorts: a multi-omics study.",
-        "summary": "Eating a diverse diet reduces type 2 diabetes risk by promoting beneficial gut bacteria and protective metabolites.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42171301/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-23"
       }
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25127,
+    "archive_count": 25128,
     "archive_supplements": 2665,
     "archive_off_label": 821,
-    "archive_biomarkers": 15672,
+    "archive_biomarkers": 15673,
     "archive_trials": 5235,
     "archive_mind_body": 442
   }
