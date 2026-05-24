@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24T04:15:38.433Z",
+  "last_updated": "2026-05-24T04:15:59.006Z",
   "categories": {
     "supplements": [
       {
@@ -215,6 +215,20 @@
     ],
     "off_label": [
       {
+        "id": "recAG2RzaTbdgC5uV",
+        "title": "GPX8+ cancer-associated fibroblast-derived lactate contributes to lenvatinib resistance by facilitating BRPF1 expression through histone H3 lysine 18 lactylation in hepatocellular carcinoma.",
+        "summary": "Certain fibroblasts produce lactate that helps hepatocellular carcinoma resist lenvatinib treatment; blocking lactate transport or a protein called BRPF1 can restore drug sensitivity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42174112/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-24"
+      },
+      {
         "id": "recfjV22oITSkrRSu",
         "title": "[Establishment of pediatric neuroblastoma cell line and its resistance mechanism to lorlatinib].",
         "summary": "Researchers found that neuroblastoma cells resistant to lorlatinib activate EGFR as an escape mechanism, and combining EGFR and ALK inhibitors effectively overcomes this resistance.",
@@ -405,20 +419,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-22"
-      },
-      {
-        "id": "rect6exOs9XOywaRU",
-        "title": "Comprehensive quantum chemical analysis, vibrational spectroscopy, molecular docking, ADMET, and in vitro validation studies of hydroxychloroquine-MRGPRX2 complex in IDH-wildtype glioblastoma.",
-        "summary": "Hydroxychloroquine shows strong binding to a mast cell receptor and reduces glioblastoma cell viability, suggesting potential as a new glioblastoma treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42166475/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Brain"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25169,
+    "archive_count": 25170,
     "archive_supplements": 2668,
     "archive_off_label": 821,
-    "archive_biomarkers": 15708,
+    "archive_biomarkers": 15709,
     "archive_trials": 5238,
     "archive_mind_body": 442
   }
