@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24T04:05:54.563Z",
+  "last_updated": "2026-05-24T04:06:06.332Z",
   "categories": {
     "supplements": [
       {
@@ -752,6 +752,20 @@
         "added_date": "2026-05-24"
       },
       {
+        "id": "recrofLEh9zQLYcSo",
+        "title": "Association of Absolute Neutrophil Count With Outcomes in Patients With Head and Neck Cancer Receiving Definitive Chemoradiation.",
+        "summary": "High neutrophil counts predict worse outcomes in head and neck cancer patients receiving chemoradiation therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42175580/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-24"
+      },
+      {
         "id": "recQsxvcAwh2d7CHH",
         "title": "Comparative efficacy and safety of different acupuncture therapies for insomnia in breast cancer patients: A systematic review and Bayesian network meta-analysis.",
         "summary": "Acupuncture therapies effectively improve sleep quality in breast cancer patients with minimal side effects.",
@@ -834,20 +848,6 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-23"
-      },
-      {
-        "id": "recniD2h0SSIXYD5g",
-        "title": "[Predictive value of 18F-FDG PET-CT for the major pathologic response to neoadjuvant immunotherapy in non-small cell lung cancer].",
-        "summary": "PET-CT scans can accurately predict treatment response in lung cancer patients receiving immunotherapy, with metabolic changes being more predictive than tumor markers.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42151090/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-23"
       }
     ],
     "mind_body": []
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25116,
+    "archive_count": 25117,
     "archive_supplements": 2665,
     "archive_off_label": 821,
-    "archive_biomarkers": 15664,
+    "archive_biomarkers": 15665,
     "archive_trials": 5232,
     "archive_mind_body": 442
   }
