@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24T04:19:16.023Z",
+  "last_updated": "2026-05-24T04:19:29.341Z",
   "categories": {
     "supplements": [
       {
@@ -229,6 +229,20 @@
         "added_date": "2026-05-24"
       },
       {
+        "id": "recY75bPcBkDjliKA",
+        "title": "Mitochondria-targeted metformin analogs activate the ER stress-unfolded protein response pathway to drive apoptosis in pancreatic cancer.",
+        "summary": "A modified metformin drug targeting pancreatic cancer cell mitochondria triggers cell death by activating stress response pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42173830/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Pancreatic"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-24"
+      },
+      {
         "id": "recfjV22oITSkrRSu",
         "title": "[Establishment of pediatric neuroblastoma cell line and its resistance mechanism to lorlatinib].",
         "summary": "Researchers found that neuroblastoma cells resistant to lorlatinib activate EGFR as an escape mechanism, and combining EGFR and ALK inhibitors effectively overcomes this resistance.",
@@ -405,20 +419,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Stomach"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-22"
-      },
-      {
-        "id": "recGbke8moRsGk0yN",
-        "title": "Interleukin-34 induced Arg1+ macrophages play a key role in breast cancer brain metastasis.",
-        "summary": "Breast cancer cells use interleukin-34 to recruit immune cells that promote brain metastasis, and blocking this pathway shrinks tumors in mice.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42166785/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25188,
+    "archive_count": 25189,
     "archive_supplements": 2670,
     "archive_off_label": 821,
-    "archive_biomarkers": 15723,
+    "archive_biomarkers": 15724,
     "archive_trials": 5240,
     "archive_mind_body": 442
   }
