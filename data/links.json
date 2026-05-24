@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24T06:06:40.740Z",
+  "last_updated": "2026-05-24T06:06:52.610Z",
   "categories": {
     "supplements": [
       {
@@ -171,6 +171,20 @@
         "added_date": "2026-05-24"
       },
       {
+        "id": "recdHCeliCykXRKQ3",
+        "title": "Hepatic SNHG9 links gut microbiota to liver protection in drug-induced liver injury.",
+        "summary": "A gut microbiota metabolite activates a liver RNA that protects against acetaminophen-induced liver damage.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42161960/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-24"
+      },
+      {
         "id": "rec4FXAthwfu4biPC",
         "title": "Ginsenoside Rg3 potentiates cisplatin antitumor activity while mitigating nephrotoxicity through SIRT1‑mediated suppression of the NLRP3 inflammasome.",
         "summary": "Ginsenoside Rg3 enhances cisplatin's effectiveness against lung cancer while protecting kidneys from drug damage.",
@@ -189,20 +203,6 @@
         "title": "Multi-omics dissection of lignan diversity and therapeutic potential in Ocimum: Identification of diphyllin as an anti-inflammatory agent targeting TNF-α signaling.",
         "summary": "Researchers identified diphyllin from Ocimum plants as a compound that reduces inflammation by blocking TNF-α signaling pathways.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41730398/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-05-23"
-      },
-      {
-        "id": "recbWbaaz0pljps85",
-        "title": "Banxia Xiexin decoction alleviates N-methyl-N'-nitro-N-nitrosoguanidine-induced gastric precancerous lesions by modulating the gastric microbiota.",
-        "summary": "Traditional herbal formula Banxia Xiexin decoction reduces gastric precancerous lesions by changing stomach bacteria composition.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41722877/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -859,11 +859,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25246,
+    "archive_count": 25247,
     "archive_supplements": 2674,
     "archive_off_label": 822,
     "archive_biomarkers": 15769,
-    "archive_trials": 5247,
+    "archive_trials": 5248,
     "archive_mind_body": 442
   }
 }
