@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24T08:04:02.026Z",
+  "last_updated": "2026-05-24T09:03:13.520Z",
   "categories": {
     "supplements": [
       {
@@ -243,6 +243,48 @@
         "added_date": "2026-05-24"
       },
       {
+        "id": "recTcGOYt6bfBlD83",
+        "title": "Repurposing melatonin for its potential roles in gastrointestinal cancers: highlighting the molecular mechanisms.",
+        "summary": "Melatonin could boost gastrointestinal cancer treatment effectiveness while reducing chemotherapy toxicity through multiple anti-tumor mechanisms.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42177485/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-24"
+      },
+      {
+        "id": "recneX6uEAyXtHzzy",
+        "title": "Beyond glycemic control: differential effects of empagliflozin and sitagliptin on insulin sensitivity and a shared increase in adropin in type 2 diabetes.",
+        "summary": "Both empagliflozin and sitagliptin increase a beneficial protein called adropin in type 2 diabetes patients, though with different metabolic effects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42177445/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-24"
+      },
+      {
+        "id": "recGHhKkDa35ea8nL",
+        "title": "Repurposing monepantel in oncology: A conceptual mini-review of proposed mechanisms.",
+        "summary": "Monepantel, an antiparasitic drug, shows promise against cancer by blocking cell growth pathways and triggering stress responses in tumor cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42176570/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-24"
+      },
+      {
         "id": "recfjV22oITSkrRSu",
         "title": "[Establishment of pediatric neuroblastoma cell line and its resistance mechanism to lorlatinib].",
         "summary": "Researchers found that neuroblastoma cells resistant to lorlatinib activate EGFR as an escape mechanism, and combining EGFR and ALK inhibitors effectively overcomes this resistance.",
@@ -381,48 +423,6 @@
         "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-23"
-      },
-      {
-        "id": "recvHi20TmT1eKd39",
-        "title": "Temporal regulation of G2 phase avoids therapy-induced senescence caused by DNA replication stress-inducing drugs and provides synergistic cytotoxicity",
-        "summary": "Shortening G2 phase with checkpoint inhibitors converts cancer cells from survival to death when combined with DNA-damaging drugs, regardless of p53 status.",
-        "url": "https://www.biorxiv.org/content/10.64898/2026.05.06.723184",
-        "source": "bioRxiv",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 9,
-        "pub_date": "2026-05-09",
-        "added_date": "2026-05-23"
-      },
-      {
-        "id": "reclCtDcCfBlwefWR",
-        "title": "NFIC-mediated CaSR endocytosis defines a hyperactive TOMM20highCHGAhigh oxyphil cell state as a pathological driver of autonomous secondary hyperparathyroidism",
-        "summary": "Researchers identified how a protein called NFIC causes calcium-sensing receptor breakdown in kidney disease-related parathyroid disease, and found that combining an existing drug with standard treatment restores the receptor and improves outcomes.",
-        "url": "https://www.biorxiv.org/content/10.64898/2026.05.06.723114",
-        "source": "bioRxiv",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 9,
-        "pub_date": "2026-05-09",
-        "added_date": "2026-05-23"
-      },
-      {
-        "id": "recsJexu9ssf4OWnW",
-        "title": "In vitro screening of compounds for targeting gastric cancer with Y220C p53 mutation: a molecule combining zinc chelation and a Michael acceptor drives CDKN1 and BBC3 expression to restore a p53-dependent cytotoxicity.",
-        "summary": "A new compound called AG3 reactivates mutated p53 in gastric cancer cells, restoring cancer-killing ability while protecting healthy cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42163716/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Stomach"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-22"
       }
     ],
     "biomarkers": [
@@ -859,11 +859,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25257,
+    "archive_count": 25258,
     "archive_supplements": 2675,
     "archive_off_label": 822,
     "archive_biomarkers": 15777,
-    "archive_trials": 5249,
+    "archive_trials": 5250,
     "archive_mind_body": 442
   }
 }
