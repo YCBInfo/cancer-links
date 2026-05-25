@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-25T04:18:01.545Z",
+  "last_updated": "2026-05-25T04:18:13.465Z",
   "categories": {
     "supplements": [
       {
@@ -84,6 +84,20 @@
           "Leukemia"
         ],
         "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-25"
+      },
+      {
+        "id": "recxlpw9RqbV22NZz",
+        "title": "Exploring the renoprotective potential of Beta vulgaris in diabetic nephropathy: an integrated network pharmacology, molecular docking and dynamics simulation study.",
+        "summary": "Beetroot compounds show promise in protecting kidneys from diabetes-related damage through multiple cellular pathways, according to computational analysis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42176188/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-25"
       },
@@ -194,20 +208,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-24"
-      },
-      {
-        "id": "recRyzKRVMBZp60hm",
-        "title": "Pomegranate in Cancer Therapy: A Review of Anticancer Potential, Mechanisms and Clinical Challenges in Breast, Colon and Prostate Cancers.",
-        "summary": "Pomegranate shows promise against breast, colon, and prostate cancers, but researchers need to identify which compounds drive these anticancer effects.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42174764/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Prostate"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25359,
+    "archive_count": 25360,
     "archive_supplements": 2680,
     "archive_off_label": 826,
-    "archive_biomarkers": 15853,
+    "archive_biomarkers": 15854,
     "archive_trials": 5266,
     "archive_mind_body": 442
   }
