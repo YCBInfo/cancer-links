@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-25T04:04:16.651Z",
+  "last_updated": "2026-05-25T04:04:27.746Z",
   "categories": {
     "supplements": [
       {
@@ -597,6 +597,20 @@
         "added_date": "2026-05-25"
       },
       {
+        "id": "recpKLcn3KMb3LE81",
+        "title": "The GigaAssay: A combined high throughput and highly accurate platform for variant classification.",
+        "summary": "Researchers developed the GigaAssay, a high-throughput test that accurately classifies HER2 cancer gene variants by measuring their activity levels.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41448537/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 10,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-05-25"
+      },
+      {
         "id": "recQjRQByWRSgSAvc",
         "title": "Reprogramming the Immune Landscape of Inflammatory Breast Cancer.",
         "summary": "Researchers are working to reprogram inflammatory breast cancer's immune-suppressive environment to improve immunotherapy effectiveness and patient outcomes.",
@@ -621,20 +635,6 @@
           "General"
         ],
         "quality_score": 21,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-24"
-      },
-      {
-        "id": "recFhSzUKCvnDyq27",
-        "title": "FARP1 Mediates cMET-Driven Motility in Androgen-Independent Prostate Cancer Cells.",
-        "summary": "Researchers identified FARP1 as a key protein enabling prostate cancer cells to spread by activating movement pathways triggered by the cMET receptor.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42175718/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Prostate"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-24"
       }
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25285,
+    "archive_count": 25286,
     "archive_supplements": 2676,
     "archive_off_label": 825,
-    "archive_biomarkers": 15791,
+    "archive_biomarkers": 15792,
     "archive_trials": 5259,
     "archive_mind_body": 442
   }
