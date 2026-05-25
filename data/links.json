@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-25T04:24:14.632Z",
+  "last_updated": "2026-05-25T04:24:20.799Z",
   "categories": {
     "supplements": [
       {
@@ -230,6 +230,20 @@
         "added_date": "2026-05-25"
       },
       {
+        "id": "recSLChNgBy3nCPjN",
+        "title": "A Phase 2 Multi-Center, Prospective, Randomized, Double-Blind Study to Assess the Clinical and Antiviral Efficacy and Safety of Nitazoxanide for the Treatment of Norovirus in Hematopoietic Stem Cell and Solid Organ Transplant Recipients.",
+        "summary": "Nitazoxanide was safe but did not effectively treat norovirus in transplant patients, failing to reduce symptom duration or viral shedding.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42177030/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-25"
+      },
+      {
         "id": "recAG2RzaTbdgC5uV",
         "title": "GPX8+ cancer-associated fibroblast-derived lactate contributes to lenvatinib resistance by facilitating BRPF1 expression through histone H3 lysine 18 lactylation in hepatocellular carcinoma.",
         "summary": "Certain fibroblasts produce lactate that helps hepatocellular carcinoma resist lenvatinib treatment; blocking lactate transport or a protein called BRPF1 can restore drug sensitivity.",
@@ -408,20 +422,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-23"
-      },
-      {
-        "id": "recRDrclV9G58UFxn",
-        "title": "Life-threatening neurotoxicity following off-label ivermectin use in metastatic breast cancer: a case report.",
-        "summary": "Off-label ivermectin use for breast cancer caused life-threatening nerve damage in a patient, highlighting risks of online misinformation.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42170801/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-23"
       }
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25393,
+    "archive_count": 25394,
     "archive_supplements": 2685,
     "archive_off_label": 826,
-    "archive_biomarkers": 15878,
+    "archive_biomarkers": 15879,
     "archive_trials": 5270,
     "archive_mind_body": 442
   }
