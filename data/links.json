@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-05-25T02:34:46.283Z",
+  "last_updated": "2026-05-25T04:03:33.562Z",
   "categories": {
     "supplements": [
+      {
+        "id": "recthScUKWsHQmBKl",
+        "title": "Reducing exposure to non-persistent endocrine-disrupting chemicals and their impact on human health: Evidence from dietary, behavioral, and residential interventions.",
+        "summary": "Reducing exposure to hormone-disrupting chemicals through diet, consumer products, and home changes may improve reproductive, metabolic, and thyroid health.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42150468/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-25"
+      },
       {
         "id": "recP1mOtmbY1AET9H",
         "title": "Anticancer effects of bisabolol oxide A-Loaded Micellar/Liposomal nanoparticles on DU-145 cells with deregulation of miR-34a and miR-181a: in silico and in vitro studies.",
@@ -196,20 +210,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
-        "added_date": "2026-05-23"
-      },
-      {
-        "id": "reclQNwhjp88JvicC",
-        "title": "Multi-omics dissection of lignan diversity and therapeutic potential in Ocimum: Identification of diphyllin as an anti-inflammatory agent targeting TNF-α signaling.",
-        "summary": "Researchers identified diphyllin from Ocimum plants as a compound that reduces inflammation by blocking TNF-α signaling pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41730398/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
-        "pub_date": "2026-03-01",
         "added_date": "2026-05-23"
       }
     ],
@@ -427,6 +427,118 @@
     ],
     "biomarkers": [
       {
+        "id": "reczI3A12MAq0aVTv",
+        "title": "Integrated transcriptomic and metabolomic analyses provide mechanistic insights into the pro-proliferative role of DARS in human MPN cell models.",
+        "summary": "Removing DARS protein stops myeloproliferative neoplasm cancer cells from growing by disrupting key metabolic and signaling pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42177774/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-25"
+      },
+      {
+        "id": "recliGUNZpHVNE3kf",
+        "title": "[Research advances in the value of tertiary lymphoid structures for gastrointestinal tumors during the immunotherapy era].",
+        "summary": "Tertiary lymphoid structures in tumors better predict immunotherapy response in gastrointestinal cancers than current biomarkers.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42161652/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-25"
+      },
+      {
+        "id": "rec4fDdJZnD6vjouW",
+        "title": "[Construction of a predictive model for the efficacy of immune checkpoint inhibitors in locally advanced or metastatic gastric cancer and esophagogastric junction cancer].",
+        "summary": "Researchers developed a predictive model using tumor characteristics and biomarkers to identify gastric cancer patients likely to benefit from immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42161649/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-25"
+      },
+      {
+        "id": "recoXfMnWtdLhhY39",
+        "title": "[Conversion efficacy and safety analysis of PD-1 inhibitor combined with albumin-bound paclitaxel and SOX chemotherapy regimen in initially unresectable advanced gastric cancer].",
+        "summary": "Adding albumin-bound paclitaxel to immunotherapy and chemotherapy significantly improves surgical conversion rates in advanced gastric cancer, despite increased side effects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42161648/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-25"
+      },
+      {
+        "id": "recSOvLy8ET05rpYw",
+        "title": "[Efficacy of conversion therapy and prognostic factors in patients with synchronous gastric cancer liver metastasis].",
+        "summary": "Surgery after chemotherapy significantly improves survival in gastric cancer patients with liver metastasis, with disease classification predicting treatment success.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42161647/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-25"
+      },
+      {
+        "id": "recq1MnyF8qt7huG5",
+        "title": "Integrative genomic and metabolomic analyses identify novel associations between mQTLs and common diseases in Han Chinese.",
+        "summary": "Researchers identified genetic variants controlling metabolite levels in Han Chinese people, discovering new links to asthma, type 2 diabetes, and inflammatory bowel disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42135028/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-25"
+      },
+      {
+        "id": "reczby5d8VKrJI3vp",
+        "title": "Oral antibiotics promote triple-negative breast cancer progression by inducing gut microbiota dysbiosis and taurocholic acid accumulation.",
+        "summary": "Oral antibiotics accelerate triple-negative breast cancer growth by disrupting gut bacteria and increasing a metabolite that suppresses immune response.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42124500/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-25"
+      },
+      {
+        "id": "rec7UbxpR6W9txyqP",
+        "title": "Non-canonical apoptosis mediates oxaliplatin-induced disruption of spermatogenic cells: implications for male fertility.",
+        "summary": "Oxaliplatin chemotherapy damages sperm-producing cells through oxidative stress and a non-standard form of cell death, threatening male fertility.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41812756/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-05-25"
+      },
+      {
         "id": "recQjRQByWRSgSAvc",
         "title": "Reprogramming the Immune Landscape of Inflammatory Breast Cancer.",
         "summary": "Researchers are working to reprogram inflammatory breast cancer's immune-suppressive environment to improve immunotherapy effectiveness and patient outcomes.",
@@ -523,119 +635,6 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-24"
-      },
-      {
-        "id": "recP1mOtmbY1AET9H",
-        "title": "Anticancer effects of bisabolol oxide A-Loaded Micellar/Liposomal nanoparticles on DU-145 cells with deregulation of miR-34a and miR-181a: in silico and in vitro studies.",
-        "summary": "Nanoparticles containing bisabolol oxide A kill prostate cancer cells by triggering apoptosis and blocking migration through altered microRNA expression.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42174494/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-24"
-      },
-      {
-        "id": "recHesnKrKlnLtCQk",
-        "title": "IL20RB as a potential biomarker for prognosis in clear cell renal cell carcinoma.",
-        "summary": "IL20RB protein shows promise as a tool to predict outcomes and guide treatment in clear cell kidney cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42174479/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal",
-          "Kidney"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-24"
-      },
-      {
-        "id": "recnI1n5k0nJMhicj",
-        "title": "Prognostic role of HSPs in human colorectal cancer: a systematic review and meta-analysis.",
-        "summary": "High levels of heat shock proteins predict worse outcomes in colorectal cancer patients, according to this meta-analysis review.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42174474/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 25,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-24"
-      },
-      {
-        "id": "recYaErPmob7Gm1mS",
-        "title": "Prognostic model for patients with hepatoid adenocarcinoma of the stomach.",
-        "summary": "Researchers developed a predictive tool to better forecast survival outcomes for patients with rare stomach cancer hepatoid adenocarcinoma.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42174453/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Stomach"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-24"
-      },
-      {
-        "id": "recJK8jK2wvSum9s9",
-        "title": "Association of metabolic markers, inflammatory biomarkers, and sedentary time with comorbidities among cancer patients: Results from NHANES 2021-2023.",
-        "summary": "Cancer patients who sit more and have poor metabolic health face higher risks of dangerous heart and metabolic complications.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42174264/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-24"
-      },
-      {
-        "id": "recppAPhpdv7Ly6Hp",
-        "title": "Tissue factor promotes vascular invasion and metastasis in hepatocellular carcinoma via combined activation of β-catenin/STAT3 signaling.",
-        "summary": "Tissue factor protein promotes hepatocellular carcinoma spread through blood vessels; blocking it combined with other inhibitors reduces tumor growth and metastasis.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42174233/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-24"
-      },
-      {
-        "id": "recI1e3Rv5EdSTvtB",
-        "title": "Development and validation of a multiplexed targeted HILIC-HRMS assay for quantitative analysis of hepatocellular carcinoma circulating biomarkers.",
-        "summary": "Researchers developed a fast, accurate blood test measuring specific lipid biomarkers to improve early detection of hepatocellular carcinoma, outperforming standard markers.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42174192/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-24"
-      },
-      {
-        "id": "rec8NO7gNX7Hu7PQ9",
-        "title": "The role of preoperative thrombocytic factors on survival in patients with glioblastoma: a meta-analysis and synopsis of the literature.",
-        "summary": "High platelet-to-lymphocyte ratio before surgery predicts worse survival in glioblastoma patients, offering a potential prognostic marker.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42174189/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Brain"
-        ],
-        "quality_score": 32,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-24"
       }
     ],
     "trials": [
@@ -650,6 +649,76 @@
           "General"
         ],
         "quality_score": 22,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-25"
+      },
+      {
+        "id": "recliGUNZpHVNE3kf",
+        "title": "[Research advances in the value of tertiary lymphoid structures for gastrointestinal tumors during the immunotherapy era].",
+        "summary": "Tertiary lymphoid structures in tumors better predict immunotherapy response in gastrointestinal cancers than current biomarkers.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42161652/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-25"
+      },
+      {
+        "id": "rec4fDdJZnD6vjouW",
+        "title": "[Construction of a predictive model for the efficacy of immune checkpoint inhibitors in locally advanced or metastatic gastric cancer and esophagogastric junction cancer].",
+        "summary": "Researchers developed a predictive model using tumor characteristics and biomarkers to identify gastric cancer patients likely to benefit from immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42161649/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-25"
+      },
+      {
+        "id": "recoXfMnWtdLhhY39",
+        "title": "[Conversion efficacy and safety analysis of PD-1 inhibitor combined with albumin-bound paclitaxel and SOX chemotherapy regimen in initially unresectable advanced gastric cancer].",
+        "summary": "Adding albumin-bound paclitaxel to immunotherapy and chemotherapy significantly improves surgical conversion rates in advanced gastric cancer, despite increased side effects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42161648/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-25"
+      },
+      {
+        "id": "recSOvLy8ET05rpYw",
+        "title": "[Efficacy of conversion therapy and prognostic factors in patients with synchronous gastric cancer liver metastasis].",
+        "summary": "Surgery after chemotherapy significantly improves survival in gastric cancer patients with liver metastasis, with disease classification predicting treatment success.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42161647/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-25"
+      },
+      {
+        "id": "rec5r3WyLmt56sB62",
+        "title": "[Surgical strategies of radical gastrectomy for gastric cancer in the era of immunotherapy].",
+        "summary": "Immunotherapy combined with chemotherapy improves gastric cancer outcomes and may reduce the need for extensive lymph node removal during surgery.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42161639/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Stomach"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-25"
       },
@@ -778,76 +847,6 @@
         "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-24"
-      },
-      {
-        "id": "rec6vK0jwI2elncWF",
-        "title": "NUT Midline Carcinoma of the Head and Neck: A Systematic Review and Pooled Survival Analysis.",
-        "summary": "Head and neck NUT midline carcinoma survival rates vary significantly depending on where the tumor originates in the body.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42175568/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-24"
-      },
-      {
-        "id": "recvSBzTRYvxEZEou",
-        "title": "Multiple endocrine adverse reactions and pituitary axis dysfunction induced by PD-1 immunotherapy in an esophageal cancer patient: Case report.",
-        "summary": "PD-1 immunotherapy for esophageal cancer caused rare, severe damage to multiple hormone-producing glands, including the pituitary.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42175425/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-24"
-      },
-      {
-        "id": "reciPLjryjRlmWU1I",
-        "title": "Case report: Forced walking for treating lower limb paralysis after corpus callosum injury.",
-        "summary": "Forced walking rehabilitation successfully restored lower limb function in a patient with paralysis caused by corpus callosum brain damage.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42175411/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 21,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-24"
-      },
-      {
-        "id": "recfW0L1FBt69k2Io",
-        "title": "Late-onset Graves' disease after hemithyroidectomy: a case report.",
-        "summary": "Graves' disease can unexpectedly develop in elderly patients years after partial thyroid removal surgery.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42174732/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-24"
-      },
-      {
-        "id": "recFZGBUUi1MgGdZd",
-        "title": "TP53 mutation is associated with shorter treatment duration with CDK4/6 inhibitors, but not with immune checkpoint inhibitors, in ER-positive/HER2-negative breast cancer: real-world perspective.",
-        "summary": "TP53 mutations in breast cancer patients respond poorly to CDK4/6 inhibitor treatment but show normal response to immunotherapy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42174712/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-24"
       }
     ],
     "mind_body": []
@@ -859,10 +858,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25282,
+    "archive_count": 25283,
     "archive_supplements": 2675,
     "archive_off_label": 825,
-    "archive_biomarkers": 15789,
+    "archive_biomarkers": 15790,
     "archive_trials": 5259,
     "archive_mind_body": 442
   }
