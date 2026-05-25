@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-25T04:12:11.507Z",
+  "last_updated": "2026-05-25T04:12:20.099Z",
   "categories": {
     "supplements": [
       {
@@ -56,6 +56,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-25"
+      },
+      {
+        "id": "rec23kxJNBkUoP6vl",
+        "title": "A natural coumarin, benjaminin, suppresses proliferation and migration and induces apoptosis in MCF-7 breast cancer cells.",
+        "summary": "Benjaminin, a natural compound, stops breast cancer cell growth and kills cancer cells while leaving normal cells unharmed.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42177275/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-25"
       },
@@ -190,20 +204,6 @@
         "title": "Naringin and hesperidin protect ovarian granulosa cells from cisplatin-induced mitochondrial dysfunction by enhancing bioenergetics and mitophagy.",
         "summary": "Natural citrus compounds naringin and hesperidin protect ovarian cells from cisplatin chemotherapy damage by preserving mitochondrial health.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42174625/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-24"
-      },
-      {
-        "id": "recgdIccuLclWa33c",
-        "title": "Bioactivity assessment and LC-MS/MS-based phenolic characterization of Gypsophila pilosa.",
-        "summary": "Gypsophila pilosa extract shows strong antioxidant activity and selectively reduces lung and breast cancer cell viability through phenolic compounds.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42174022/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25326,
+    "archive_count": 25327,
     "archive_supplements": 2679,
     "archive_off_label": 826,
-    "archive_biomarkers": 15824,
+    "archive_biomarkers": 15825,
     "archive_trials": 5263,
     "archive_mind_body": 442
   }
