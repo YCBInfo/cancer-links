@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-25T06:03:32.468Z",
+  "last_updated": "2026-05-25T06:03:45.740Z",
   "categories": {
     "supplements": [
       {
@@ -244,6 +244,20 @@
         "added_date": "2026-05-25"
       },
       {
+        "id": "recrmsV3bAbbvvQgG",
+        "title": "Trifluoperazine induces ferroptosis in acute myeloid leukemia by suppressing the Nrf2/SLC7A11/GPX4 axis.",
+        "summary": "Trifluoperazine, an existing antipsychotic drug, kills acute myeloid leukemia cells by triggering iron-dependent cell death and works better combined with venetoclax.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42178012/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-25"
+      },
+      {
         "id": "recAG2RzaTbdgC5uV",
         "title": "GPX8+ cancer-associated fibroblast-derived lactate contributes to lenvatinib resistance by facilitating BRPF1 expression through histone H3 lysine 18 lactylation in hepatocellular carcinoma.",
         "summary": "Certain fibroblasts produce lactate that helps hepatocellular carcinoma resist lenvatinib treatment; blocking lactate transport or a protein called BRPF1 can restore drug sensitivity.",
@@ -409,20 +423,6 @@
         ],
         "quality_score": 10,
         "pub_date": "2026-05-22",
-        "added_date": "2026-05-23"
-      },
-      {
-        "id": "recGZBwjRaTAh1hFF",
-        "title": "The impact of mineralocorticoid receptor antagonists on fat mass and fat metabolism.",
-        "summary": "Mineralocorticoid receptor antagonists may reduce fat accumulation and improve fat metabolism, potentially lowering obesity-related cancer risk.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42171670/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
         "added_date": "2026-05-23"
       }
     ],
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25437,
+    "archive_count": 25438,
     "archive_supplements": 2688,
     "archive_off_label": 827,
-    "archive_biomarkers": 15912,
+    "archive_biomarkers": 15913,
     "archive_trials": 5276,
     "archive_mind_body": 442
   }
