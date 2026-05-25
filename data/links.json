@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-25T04:03:33.562Z",
+  "last_updated": "2026-05-25T04:03:56.432Z",
   "categories": {
     "supplements": [
       {
@@ -14,6 +14,21 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-05-01",
+        "added_date": "2026-05-25"
+      },
+      {
+        "id": "recEJEU9pmEoSFjVL",
+        "title": "Novel insights into skyrin action in cancer cells.",
+        "summary": "Skyrin kills cancer cells by triggering stress-induced cell death through CHOP, acts as an antioxidant, and is pumped out by BCRP resistance protein.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41794316/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast",
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
         "added_date": "2026-05-25"
       },
       {
@@ -197,20 +212,6 @@
         "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-24"
-      },
-      {
-        "id": "rec4FXAthwfu4biPC",
-        "title": "Ginsenoside Rg3 potentiates cisplatin antitumor activity while mitigating nephrotoxicity through SIRT1‑mediated suppression of the NLRP3 inflammasome.",
-        "summary": "Ginsenoside Rg3 enhances cisplatin's effectiveness against lung cancer while protecting kidneys from drug damage.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42169649/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-23"
       }
     ],
     "off_label": [
@@ -539,6 +540,35 @@
         "added_date": "2026-05-25"
       },
       {
+        "id": "recAw4Y3bLxdc1Afw",
+        "title": "Seneciphylline induces hepatotoxicity through mitochondrial apoptosis: mechanistic elucidation and in vitro-to-in vivo prediction via physiologically based pharmacokinetic modeling-facilitated reverse dosimetry.",
+        "summary": "Seneciphylline from medicinal plants causes liver toxicity by damaging mitochondria and triggering cell death through the P53 pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41806462/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-05-25"
+      },
+      {
+        "id": "recEJEU9pmEoSFjVL",
+        "title": "Novel insights into skyrin action in cancer cells.",
+        "summary": "Skyrin kills cancer cells by triggering stress-induced cell death through CHOP, acts as an antioxidant, and is pumped out by BCRP resistance protein.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41794316/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast",
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-05-25"
+      },
+      {
         "id": "recQjRQByWRSgSAvc",
         "title": "Reprogramming the Immune Landscape of Inflammatory Breast Cancer.",
         "summary": "Researchers are working to reprogram inflammatory breast cancer's immune-suppressive environment to improve immunotherapy effectiveness and patient outcomes.",
@@ -605,34 +635,6 @@
           "Breast"
         ],
         "quality_score": 25,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-24"
-      },
-      {
-        "id": "recXynHxRyOntpVkW",
-        "title": "Comprehensive characterization of MET exon 14 skipping mutations in non-small cell lung cancer.",
-        "summary": "MET exon 14 skipping mutations drive non-small cell lung cancer and emerge as resistance to common targeted drug treatments.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42174600/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-24"
-      },
-      {
-        "id": "recMGnWE6m5Ugh0Cr",
-        "title": "Potentially functional variants of CYP2A6 and ABHD12 in the arachidonic acid metabolism pathway genes predict the survival of HBV-related hepatocellular carcinoma patients.",
-        "summary": "Genetic variants in CYP2A6 and ABHD12 genes predict survival outcomes in hepatitis B-related liver cancer patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42174523/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Liver"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-24"
       }
@@ -858,8 +860,8 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25283,
-    "archive_supplements": 2675,
+    "archive_count": 25284,
+    "archive_supplements": 2676,
     "archive_off_label": 825,
     "archive_biomarkers": 15790,
     "archive_trials": 5259,
