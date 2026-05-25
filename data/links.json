@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24T11:31:56.803Z",
+  "last_updated": "2026-05-25T02:34:46.283Z",
   "categories": {
     "supplements": [
       {
@@ -640,6 +640,20 @@
     ],
     "trials": [
       {
+        "id": "recdY2Us8JnuE0u7b",
+        "title": "The impact of complementary interventions on pain and disability in patients with chronic non-cancer pain: A network meta-analysis.",
+        "summary": "Network analysis finds complementary therapies effective for reducing chronic non-cancer pain and disability compared to standard pharmaceutical treatments.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42176603/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 22,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-25"
+      },
+      {
         "id": "recQjRQByWRSgSAvc",
         "title": "Reprogramming the Immune Landscape of Inflammatory Breast Cancer.",
         "summary": "Researchers are working to reprogram inflammatory breast cancer's immune-suppressive environment to improve immunotherapy effectiveness and patient outcomes.",
@@ -834,20 +848,6 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-24"
-      },
-      {
-        "id": "recXYuTfW841SawT0",
-        "title": "Organoids: generation strategies, applications, and future challenges.",
-        "summary": "Scientists developed 3D miniature organ models from stem cells that better mimic real organs for disease research and drug testing.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42174698/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-24"
       }
     ],
     "mind_body": []
@@ -859,11 +859,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25281,
+    "archive_count": 25282,
     "archive_supplements": 2675,
     "archive_off_label": 825,
     "archive_biomarkers": 15789,
-    "archive_trials": 5258,
+    "archive_trials": 5259,
     "archive_mind_body": 442
   }
 }
