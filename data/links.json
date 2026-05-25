@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-25T04:18:45.288Z",
+  "last_updated": "2026-05-25T04:18:53.730Z",
   "categories": {
     "supplements": [
       {
@@ -102,6 +102,20 @@
         "added_date": "2026-05-25"
       },
       {
+        "id": "recY3lmIsOZtbpzZb",
+        "title": "Gut microbiome-mediated bioactive ingredients and health benefits of medicinal and edible fermented products: A comprehensive review.",
+        "summary": "Fermented foods like yogurt and kimchi reduce colorectal cancer risk and improve metabolic health through beneficial gut bacteria and bioactive compounds.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42176172/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-25"
+      },
+      {
         "id": "recP1mOtmbY1AET9H",
         "title": "Anticancer effects of bisabolol oxide A-Loaded Micellar/Liposomal nanoparticles on DU-145 cells with deregulation of miR-34a and miR-181a: in silico and in vitro studies.",
         "summary": "Nanoparticles containing bisabolol oxide A kill prostate cancer cells by triggering apoptosis and blocking migration through altered microRNA expression.",
@@ -196,20 +210,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-24"
-      },
-      {
-        "id": "recWoT0C4eRyHyhgw",
-        "title": "Fungal metabolite-based immunotherapy overcomes tumor-associated macrophage immunosuppression.",
-        "summary": "A fungal metabolite called IM502 reprograms tumor-supporting immune cells, enhancing cancer-fighting T cells and shrinking tumors across multiple cancer types.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42173096/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-24"
       }
@@ -860,11 +860,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25363,
+    "archive_count": 25364,
     "archive_supplements": 2681,
     "archive_off_label": 826,
     "archive_biomarkers": 15855,
-    "archive_trials": 5267,
+    "archive_trials": 5268,
     "archive_mind_body": 442
   }
 }
