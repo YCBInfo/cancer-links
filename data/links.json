@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-25T04:07:46.604Z",
+  "last_updated": "2026-05-25T04:07:56.297Z",
   "categories": {
     "supplements": [
       {
@@ -809,6 +809,20 @@
         "added_date": "2026-05-25"
       },
       {
+        "id": "recGF7Tqqgf7gjFwX",
+        "title": "Application Value of a nomogram integrating contrast-enhanced CT radiomics and clinical indicators in evaluating lymph node metastasis in pediatric peripheral neuroblastoma.",
+        "summary": "Researchers developed a machine learning tool using CT scans and clinical data to better predict lymph node spread in children with neuroblastoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42177597/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-25"
+      },
+      {
         "id": "recQjRQByWRSgSAvc",
         "title": "Reprogramming the Immune Landscape of Inflammatory Breast Cancer.",
         "summary": "Researchers are working to reprogram inflammatory breast cancer's immune-suppressive environment to improve immunotherapy effectiveness and patient outcomes.",
@@ -835,20 +849,6 @@
         "quality_score": 21,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-24"
-      },
-      {
-        "id": "recyLICrNUyhT5ggG",
-        "title": "Efficacy of endocrine therapy alone versus endocrine therapy combined with radiotherapy after breast-conserving surgery in older patients with early-stage estrogen receptor-positive breast cancer: a meta-analysis.",
-        "summary": "For older women with early-stage ER-positive breast cancer, adding radiation to hormone therapy after surgery may not significantly improve outcomes compared to hormone therapy alone.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42174618/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 25,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-24"
       }
     ],
     "mind_body": []
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25303,
+    "archive_count": 25304,
     "archive_supplements": 2678,
     "archive_off_label": 826,
-    "archive_biomarkers": 15803,
+    "archive_biomarkers": 15804,
     "archive_trials": 5262,
     "archive_mind_body": 442
   }
