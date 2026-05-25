@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-25T04:04:51.089Z",
+  "last_updated": "2026-05-25T04:05:02.424Z",
   "categories": {
     "supplements": [
       {
@@ -216,6 +216,20 @@
     ],
     "off_label": [
       {
+        "id": "recrJ0jwIONSpwCQu",
+        "title": "A Combination of the Tryptophan Hydroxylase Inhibitor Telotristat with the mTOR Inhibitor Everolimus as an Effective Strategy Against Neuroendocrine Tumors.",
+        "summary": "Combining two drugs—telotristat and everolimus—effectively fights neuroendocrine tumors better than either treatment alone.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42177741/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-25"
+      },
+      {
         "id": "recAG2RzaTbdgC5uV",
         "title": "GPX8+ cancer-associated fibroblast-derived lactate contributes to lenvatinib resistance by facilitating BRPF1 expression through histone H3 lysine 18 lactylation in hepatocellular carcinoma.",
         "summary": "Certain fibroblasts produce lactate that helps hepatocellular carcinoma resist lenvatinib treatment; blocking lactate transport or a protein called BRPF1 can restore drug sensitivity.",
@@ -408,20 +422,6 @@
           "Breast"
         ],
         "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-23"
-      },
-      {
-        "id": "reczEfE1xfSIYVUoc",
-        "title": "Propranolol in the Treatment of Infantile Hemangiomas: A Single-Center Experience.",
-        "summary": "Propranolol is an effective first-line treatment for infantile hemangiomas, offering good safety and efficacy outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42169604/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-23"
       }
@@ -625,18 +625,18 @@
         "added_date": "2026-05-25"
       },
       {
-        "id": "recQjRQByWRSgSAvc",
-        "title": "Reprogramming the Immune Landscape of Inflammatory Breast Cancer.",
-        "summary": "Researchers are working to reprogram inflammatory breast cancer's immune-suppressive environment to improve immunotherapy effectiveness and patient outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42175736/",
+        "id": "recrJ0jwIONSpwCQu",
+        "title": "A Combination of the Tryptophan Hydroxylase Inhibitor Telotristat with the mTOR Inhibitor Everolimus as an Effective Strategy Against Neuroendocrine Tumors.",
+        "summary": "Combining two drugs—telotristat and everolimus—effectively fights neuroendocrine tumors better than either treatment alone.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42177741/",
         "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
+        "category": "Off-Label Medications",
         "cancer_types": [
-          "Breast"
+          "General"
         ],
-        "quality_score": 15,
+        "quality_score": 12,
         "pub_date": "2026-05-01",
-        "added_date": "2026-05-24"
+        "added_date": "2026-05-25"
       }
     ],
     "trials": [
@@ -860,11 +860,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25288,
+    "archive_count": 25289,
     "archive_supplements": 2676,
     "archive_off_label": 825,
     "archive_biomarkers": 15793,
-    "archive_trials": 5260,
+    "archive_trials": 5261,
     "archive_mind_body": 442
   }
 }
