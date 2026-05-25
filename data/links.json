@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-25T04:03:56.432Z",
+  "last_updated": "2026-05-25T04:04:16.651Z",
   "categories": {
     "supplements": [
       {
@@ -569,6 +569,34 @@
         "added_date": "2026-05-25"
       },
       {
+        "id": "recfXBSNUz5WA68WY",
+        "title": "Di-(2-ethylhexyl) terephthalate promotes breast cancer progression: Multi-omics integrated experimental validation.",
+        "summary": "DOTP, a plastic chemical used in food packaging, promotes breast cancer cell growth by activating key cancer-related genes and signaling pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41780785/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-05-25"
+      },
+      {
+        "id": "reckSj6OOESgrjcAM",
+        "title": "Cell-type-specific killing by black phosphorus nanosheets in colorectal cancer: Unraveling the ADIPOQ-redox homeostasis axis.",
+        "summary": "Black phosphorus nanosheets selectively kill colorectal cancer cells by disrupting a protein complex that triggers harmful oxidative stress and DNA damage.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41763508/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-05-25"
+      },
+      {
         "id": "recQjRQByWRSgSAvc",
         "title": "Reprogramming the Immune Landscape of Inflammatory Breast Cancer.",
         "summary": "Researchers are working to reprogram inflammatory breast cancer's immune-suppressive environment to improve immunotherapy effectiveness and patient outcomes.",
@@ -607,34 +635,6 @@
           "Prostate"
         ],
         "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-24"
-      },
-      {
-        "id": "recc9YCZxhqsllAEq",
-        "title": "Spatial transcriptomics reveals influence of microenvironment on intrinsic fates in melanoma therapy resistance.",
-        "summary": "Melanoma's therapy resistance stems from both cancer cell properties and surrounding tumor environment, which together determine which resistant cell fate develops.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42174697/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Melanoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-24"
-      },
-      {
-        "id": "recyLICrNUyhT5ggG",
-        "title": "Efficacy of endocrine therapy alone versus endocrine therapy combined with radiotherapy after breast-conserving surgery in older patients with early-stage estrogen receptor-positive breast cancer: a meta-analysis.",
-        "summary": "For older women with early-stage ER-positive breast cancer, adding radiation to hormone therapy after surgery may not significantly improve outcomes compared to hormone therapy alone.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42174618/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 25,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-24"
       }
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25284,
+    "archive_count": 25285,
     "archive_supplements": 2676,
     "archive_off_label": 825,
-    "archive_biomarkers": 15790,
+    "archive_biomarkers": 15791,
     "archive_trials": 5259,
     "archive_mind_body": 442
   }
