@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-25T04:16:15.019Z",
+  "last_updated": "2026-05-25T04:16:25.656Z",
   "categories": {
     "supplements": [
       {
@@ -68,6 +68,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-25"
+      },
+      {
+        "id": "rec9gRjZFblct0Zpq",
+        "title": "Epigenetic Reactivation of SOCS-3 and Inhibition of ERK1/2 Underlie Thymoquinone-Induced Apoptosis in a Chronic Myeloid Leukemia Xenograft Model.",
+        "summary": "Thymoquinone reactivates a suppressed gene and blocks a growth pathway to trigger cell death in chronic myeloid leukemia.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42176292/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -196,20 +210,6 @@
           "Prostate"
         ],
         "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-24"
-      },
-      {
-        "id": "recq3L4K11L7KWJIS",
-        "title": "Naringin and hesperidin protect ovarian granulosa cells from cisplatin-induced mitochondrial dysfunction by enhancing bioenergetics and mitophagy.",
-        "summary": "Natural citrus compounds naringin and hesperidin protect ovarian cells from cisplatin chemotherapy damage by preserving mitochondrial health.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42174625/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-24"
       }
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25349,
+    "archive_count": 25350,
     "archive_supplements": 2680,
     "archive_off_label": 826,
-    "archive_biomarkers": 15845,
+    "archive_biomarkers": 15846,
     "archive_trials": 5264,
     "archive_mind_body": 442
   }
