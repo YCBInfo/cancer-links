@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-25T04:07:01.790Z",
+  "last_updated": "2026-05-25T04:07:13.720Z",
   "categories": {
     "supplements": [
       {
@@ -42,6 +42,20 @@
           "Liver"
         ],
         "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-25"
+      },
+      {
+        "id": "recbwoKC2Tbk2qfUY",
+        "title": "Associations of coffee, alcohol, medication and supplement use with the metabolome and lipidome: an observational study of premenopausal women.",
+        "summary": "The study examined how coffee, alcohol, medications, and supplements affect metabolic and fat profiles in premenopausal women.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42177689/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-25"
       },
@@ -196,20 +210,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-24"
-      },
-      {
-        "id": "rec6iXfOf6O7xXM2M",
-        "title": "Alcimaphenols A and B, oligomeric denudaquinols with antiproliferative and antimigratory activities from the endangered plant Alcimandra cathcartii.",
-        "summary": "Compound 2 from an endangered plant inhibits growth and migration of liver, cervical, and colon cancer cells in laboratory tests.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42172793/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Liver"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-24"
       }
@@ -860,9 +860,9 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25299,
+    "archive_count": 25300,
     "archive_supplements": 2678,
-    "archive_off_label": 825,
+    "archive_off_label": 826,
     "archive_biomarkers": 15800,
     "archive_trials": 5262,
     "archive_mind_body": 442
