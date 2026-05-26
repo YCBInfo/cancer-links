@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-05-25T11:31:31.454Z",
+  "last_updated": "2026-05-26T04:04:06.744Z",
   "categories": {
     "supplements": [
+      {
+        "id": "recDNEi7mVEHzXeH1",
+        "title": "Design, synthesis, anticancer, antioxidant and computational evaluation of curcumin-benzodiazepine derivatives.",
+        "summary": "Researchers created curcumin-benzodiazepine compounds that showed strong anticancer activity against breast cancer cells and antioxidant properties.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42179931/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-26"
+      },
       {
         "id": "recthScUKWsHQmBKl",
         "title": "Reducing exposure to non-persistent endocrine-disrupting chemicals and their impact on human health: Evidence from dietary, behavioral, and residential interventions.",
@@ -194,20 +208,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-25"
-      },
-      {
-        "id": "receKgx9C4mytBFxA",
-        "title": "Attenuation of LPS-induced inflammatory responses in J774A.1 macrophages by phenylpropanoids and ursane triterpenes from Lavandula coronopifolia Poir.",
-        "summary": "A lavender compound showed promise against lung cancer cells, while three others reduced inflammation in immune cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42178365/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -428,6 +428,146 @@
     ],
     "biomarkers": [
       {
+        "id": "recWhjvE0QTxGVqMj",
+        "title": "Design and Pictet-Spengler enabled synthesis of carboxamide-substituted imidazo[1,2-a]quinoxalines as dual EGFR and tubulin targeting anticancer agents.",
+        "summary": "Researchers designed new compounds targeting breast cancer cells by simultaneously blocking EGFR and tubulin, with two compounds outperforming the drug erlotinib.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42179048/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-26"
+      },
+      {
+        "id": "rechgR0HcRnvApHX1",
+        "title": "Biomolecular and cellular chirality: Novel diagnostic perspectives for diseases.",
+        "summary": "Abnormal molecular chirality, particularly excessive D-amino acids and left-handed DNA, may serve as early biomarkers for cancer and other diseases.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42180263/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-26"
+      },
+      {
+        "id": "recuZIPnGLfTX7Cde",
+        "title": "Design, synthesis, and in-vitro evaluation of 2-(heteroarylthio)acetamido-1H-benzo[d]imidazole derivatives as PTP1B inhibitors for the treatment of type 2 diabetes.",
+        "summary": "Researchers designed new compounds that inhibit PTP1B enzyme, with compound PD22-10 showing the strongest activity and potential for treating type 2 diabetes by improving insulin sensitivity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42179932/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-26"
+      },
+      {
+        "id": "recDNEi7mVEHzXeH1",
+        "title": "Design, synthesis, anticancer, antioxidant and computational evaluation of curcumin-benzodiazepine derivatives.",
+        "summary": "Researchers created curcumin-benzodiazepine compounds that showed strong anticancer activity against breast cancer cells and antioxidant properties.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42179931/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-26"
+      },
+      {
+        "id": "recgoDubw5GD9PeVF",
+        "title": "Quantifying neuron-specific enolase on TiO2-goldurchin-modified electrodes for lung cancer diagnosis.",
+        "summary": "Researchers developed a biosensor using modified electrodes that can detect a lung cancer marker (NSE) at very low levels for improved diagnosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42179930/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-26"
+      },
+      {
+        "id": "recI0zvxUD8VlbZSE",
+        "title": "Bioinformatic and experimental analysis reveals ITGA5 as a driver of ovarian clear cell carcinoma progression and platinum resistance.",
+        "summary": "ITGA5 protein drives ovarian clear cell carcinoma growth and resistance to platinum chemotherapy through a specific cellular signaling pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42179928/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Ovarian"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-26"
+      },
+      {
+        "id": "recOq319QMsYVhzgi",
+        "title": "Lung Cancer Yield by Baseline Screening Lung CT Screening Reporting and Data System (Lung-RADS) Assignment and Patient Factors: The Population-Based Research to Optimize the Screening Process Lung Consortium.",
+        "summary": "Lung cancer screening effectiveness varies between clinical trials and real-world community settings.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42179649/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-26"
+      },
+      {
+        "id": "recykNEE1PQIxTy08",
+        "title": "Early adjunct anti-PD-L1 immunotherapy improves outcomes and restores infection-induced immune paralysis in mice with invasive pulmonary mucormycosis.",
+        "summary": "Early anti-PD-L1 immunotherapy combined with antifungal treatment improves survival in mice with invasive pulmonary mucormycosis by reversing infection-induced immune failure.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42160348/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-26"
+      },
+      {
+        "id": "rec9gTdh1xxPy8BSo",
+        "title": "Advances in the diagnosis and classification of B-ALL: comparative insights from updated guidelines.",
+        "summary": "Updated genetic classification methods reduce unclassifiable B-ALL cases and better predict survival, enabling more precise treatment selection.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41886641/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-26"
+      },
+      {
+        "id": "rec9H5UUjvyiycms8",
+        "title": "Early steroid and anakinra use to manage axicabtagene ciloleucel toxicity reduces the total duration of CRS and ICANS.",
+        "summary": "Early steroids and anakinra reduce symptom duration in lymphoma patients receiving CAR-T cell therapy without compromising treatment effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41855506/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Lymphoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-26"
+      },
+      {
         "id": "reczI3A12MAq0aVTv",
         "title": "Integrated transcriptomic and metabolomic analyses provide mechanistic insights into the pro-proliferative role of DARS in human MPN cell models.",
         "summary": "Removing DARS protein stops myeloproliferative neoplasm cancer cells from growing by disrupting key metabolic and signaling pathways.",
@@ -496,150 +636,65 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-25"
-      },
-      {
-        "id": "recq1MnyF8qt7huG5",
-        "title": "Integrative genomic and metabolomic analyses identify novel associations between mQTLs and common diseases in Han Chinese.",
-        "summary": "Researchers identified genetic variants controlling metabolite levels in Han Chinese people, discovering new links to asthma, type 2 diabetes, and inflammatory bowel disease.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42135028/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-25"
-      },
-      {
-        "id": "reczby5d8VKrJI3vp",
-        "title": "Oral antibiotics promote triple-negative breast cancer progression by inducing gut microbiota dysbiosis and taurocholic acid accumulation.",
-        "summary": "Oral antibiotics accelerate triple-negative breast cancer growth by disrupting gut bacteria and increasing a metabolite that suppresses immune response.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42124500/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-25"
-      },
-      {
-        "id": "rec7UbxpR6W9txyqP",
-        "title": "Non-canonical apoptosis mediates oxaliplatin-induced disruption of spermatogenic cells: implications for male fertility.",
-        "summary": "Oxaliplatin chemotherapy damages sperm-producing cells through oxidative stress and a non-standard form of cell death, threatening male fertility.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41812756/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-05-25"
-      },
-      {
-        "id": "recAw4Y3bLxdc1Afw",
-        "title": "Seneciphylline induces hepatotoxicity through mitochondrial apoptosis: mechanistic elucidation and in vitro-to-in vivo prediction via physiologically based pharmacokinetic modeling-facilitated reverse dosimetry.",
-        "summary": "Seneciphylline from medicinal plants causes liver toxicity by damaging mitochondria and triggering cell death through the P53 pathway.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41806462/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-05-25"
-      },
-      {
-        "id": "recEJEU9pmEoSFjVL",
-        "title": "Novel insights into skyrin action in cancer cells.",
-        "summary": "Skyrin kills cancer cells by triggering stress-induced cell death through CHOP, acts as an antioxidant, and is pumped out by BCRP resistance protein.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41794316/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast",
-          "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-05-25"
-      },
-      {
-        "id": "recfXBSNUz5WA68WY",
-        "title": "Di-(2-ethylhexyl) terephthalate promotes breast cancer progression: Multi-omics integrated experimental validation.",
-        "summary": "DOTP, a plastic chemical used in food packaging, promotes breast cancer cell growth by activating key cancer-related genes and signaling pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41780785/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-05-25"
-      },
-      {
-        "id": "reckSj6OOESgrjcAM",
-        "title": "Cell-type-specific killing by black phosphorus nanosheets in colorectal cancer: Unraveling the ADIPOQ-redox homeostasis axis.",
-        "summary": "Black phosphorus nanosheets selectively kill colorectal cancer cells by disrupting a protein complex that triggers harmful oxidative stress and DNA damage.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41763508/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-05-25"
-      },
-      {
-        "id": "recpKLcn3KMb3LE81",
-        "title": "The GigaAssay: A combined high throughput and highly accurate platform for variant classification.",
-        "summary": "Researchers developed the GigaAssay, a high-throughput test that accurately classifies HER2 cancer gene variants by measuring their activity levels.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41448537/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-05-25"
-      },
-      {
-        "id": "recMHfcIpv6rgudL0",
-        "title": "Pyranobutflavin: a butoxy-bridged pyranone-flavonoid hybrid from baicalin, and its anti-hepatocellular carcinoma activity.",
-        "summary": "Pyranobutflavin, a modified compound from baicalin, effectively kills hepatocellular carcinoma cells while sparing normal cells through multiple cancer-fighting mechanisms.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42177785/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-25"
-      },
-      {
-        "id": "recrJ0jwIONSpwCQu",
-        "title": "A Combination of the Tryptophan Hydroxylase Inhibitor Telotristat with the mTOR Inhibitor Everolimus as an Effective Strategy Against Neuroendocrine Tumors.",
-        "summary": "Combining two drugs—telotristat and everolimus—effectively fights neuroendocrine tumors better than either treatment alone.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42177741/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-25"
       }
     ],
     "trials": [
+      {
+        "id": "recOq319QMsYVhzgi",
+        "title": "Lung Cancer Yield by Baseline Screening Lung CT Screening Reporting and Data System (Lung-RADS) Assignment and Patient Factors: The Population-Based Research to Optimize the Screening Process Lung Consortium.",
+        "summary": "Lung cancer screening effectiveness varies between clinical trials and real-world community settings.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42179649/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-26"
+      },
+      {
+        "id": "recykNEE1PQIxTy08",
+        "title": "Early adjunct anti-PD-L1 immunotherapy improves outcomes and restores infection-induced immune paralysis in mice with invasive pulmonary mucormycosis.",
+        "summary": "Early anti-PD-L1 immunotherapy combined with antifungal treatment improves survival in mice with invasive pulmonary mucormycosis by reversing infection-induced immune failure.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42160348/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-26"
+      },
+      {
+        "id": "rec9gTdh1xxPy8BSo",
+        "title": "Advances in the diagnosis and classification of B-ALL: comparative insights from updated guidelines.",
+        "summary": "Updated genetic classification methods reduce unclassifiable B-ALL cases and better predict survival, enabling more precise treatment selection.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41886641/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-26"
+      },
+      {
+        "id": "rec9H5UUjvyiycms8",
+        "title": "Early steroid and anakinra use to manage axicabtagene ciloleucel toxicity reduces the total duration of CRS and ICANS.",
+        "summary": "Early steroids and anakinra reduce symptom duration in lymphoma patients receiving CAR-T cell therapy without compromising treatment effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41855506/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Lymphoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-26"
+      },
       {
         "id": "recdY2Us8JnuE0u7b",
         "title": "The impact of complementary interventions on pain and disability in patients with chronic non-cancer pain: A network meta-analysis.",
@@ -793,62 +848,6 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-25"
-      },
-      {
-        "id": "recLQ87SqhyBZP3kX",
-        "title": "WISDOM randomized trial comparing risk-based versus annual breast cancer screening: study cohort characteristics and design.",
-        "summary": "WISDOM trial tests whether personalized breast cancer risk assessment can guide screening frequency and timing better than standard annual screening.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42177197/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 24,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-25"
-      },
-      {
-        "id": "recGF7Tqqgf7gjFwX",
-        "title": "Application Value of a nomogram integrating contrast-enhanced CT radiomics and clinical indicators in evaluating lymph node metastasis in pediatric peripheral neuroblastoma.",
-        "summary": "Researchers developed a machine learning tool using CT scans and clinical data to better predict lymph node spread in children with neuroblastoma.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42177597/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-25"
-      },
-      {
-        "id": "recSJE5oZxzDwHNor",
-        "title": "Vaccine-expanded plasmablast-like B cells are associated with response to dendritic cell therapy in metastatic melanoma.",
-        "summary": "A specific type of immune cell in dendritic cell vaccines predicts which melanoma patients will respond to treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42177548/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Melanoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-25"
-      },
-      {
-        "id": "recJxxlYLMIXCRn0q",
-        "title": "WT1-pulsed dendritic cell vaccination for neovascular age-related macular degeneration: a phase I pilot feasibility study.",
-        "summary": "A vaccine using immune cells targeting WT1 protein shows promise as a potential treatment for age-related macular degeneration vision loss.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42177462/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-25"
       }
     ],
     "mind_body": []
@@ -860,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25476,
+    "archive_count": 25477,
     "archive_supplements": 2699,
     "archive_off_label": 828,
-    "archive_biomarkers": 15932,
+    "archive_biomarkers": 15933,
     "archive_trials": 5283,
     "archive_mind_body": 442
   }
