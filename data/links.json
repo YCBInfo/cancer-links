@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-26T04:07:45.612Z",
+  "last_updated": "2026-05-26T04:07:55.503Z",
   "categories": {
     "supplements": [
       {
@@ -41,6 +41,20 @@
           "Liver"
         ],
         "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-26"
+      },
+      {
+        "id": "recvrH9bngduSG5wl",
+        "title": "Green tea polyphenol-iron oxide chitosan nanoparticles modulate gut microbiota and regulate metabolic pathways.",
+        "summary": "Green tea nanoparticles improved absorption and altered gut bacteria and liver metabolism in ways that may reduce inflammation and cancer risk.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42184066/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-26"
       },
@@ -196,20 +210,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-25"
-      },
-      {
-        "id": "rechGTOYKpSYPaPrK",
-        "title": "Arginine restriction exploits DNMT3B-ASS1-driven arginine auxotrophy and mTORC1-suppressed autophagy to overcome niraparib resistance in ovarian cancer.",
-        "summary": "Restricting dietary arginine resensitizes niraparib-resistant ovarian cancer by exploiting tumor cells' arginine dependency and blocking DNA repair.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42176791/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Ovarian"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-25"
       }
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25494,
+    "archive_count": 25495,
     "archive_supplements": 2702,
     "archive_off_label": 828,
-    "archive_biomarkers": 15943,
+    "archive_biomarkers": 15944,
     "archive_trials": 5287,
     "archive_mind_body": 442
   }
