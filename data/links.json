@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-26T04:07:55.503Z",
+  "last_updated": "2026-05-26T04:08:06.807Z",
   "categories": {
     "supplements": [
       {
@@ -49,6 +49,20 @@
         "title": "Green tea polyphenol-iron oxide chitosan nanoparticles modulate gut microbiota and regulate metabolic pathways.",
         "summary": "Green tea nanoparticles improved absorption and altered gut bacteria and liver metabolism in ways that may reduce inflammation and cancer risk.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42184066/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-26"
+      },
+      {
+        "id": "recR19wbxbgrkbhq7",
+        "title": "Modulation of Oxidative Stress, Inflammatory Cytokines, and Mucosal Immunity by Green Synthesized Zinc Nanoparticles in Giardia Infection in Mice.",
+        "summary": "Green-synthesized zinc nanoparticles show promise as an alternative treatment for giardia infections, potentially reducing side effects compared to standard drugs.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42184062/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -190,20 +204,6 @@
         "title": "2-Butanone 4-glucopyranoside 6'-O-gallate isolated from Memecylon scutellatum exhibits anti-inflammatory activity via modulation of the NF-κB and MAPK signaling pathways in LPS-stimulated RAW 264.7 macrophages.",
         "summary": "A compound from Memecylon scutellatum plant reduces inflammation by blocking two key cellular signaling pathways involved in cancer and chronic disease.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42176149/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-25"
-      },
-      {
-        "id": "rec4CsYHYkMlgCQum",
-        "title": "Multi-metabolite scores of alignment with the 2018 World Cancer Research Fund (WCRF)/ American Institute for Cancer Research (AICR) Cancer Prevention Recommendations in the Interactive Diet and Activity Tracking in AARP (IDATA) Study.",
-        "summary": "Following cancer prevention diet and exercise guidelines may reduce cancer risk by changing body metabolites that influence health.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42176992/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -859,11 +859,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25495,
+    "archive_count": 25496,
     "archive_supplements": 2702,
     "archive_off_label": 828,
     "archive_biomarkers": 15944,
-    "archive_trials": 5287,
+    "archive_trials": 5288,
     "archive_mind_body": 442
   }
 }
