@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-26T04:13:30.207Z",
+  "last_updated": "2026-05-26T04:13:40.012Z",
   "categories": {
     "supplements": [
       {
@@ -216,6 +216,20 @@
     ],
     "off_label": [
       {
+        "id": "recEOfTseSndy7c6X",
+        "title": "MEK inhibitor cobimetinib increases calreticulin and induces immune modulation in TNBC.",
+        "summary": "Cobimetinib, a MEK inhibitor, triggers immune-activating cell death and boosts anti-tumor immunity in triple-negative breast cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42183887/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-26"
+      },
+      {
         "id": "recrJ0jwIONSpwCQu",
         "title": "A Combination of the Tryptophan Hydroxylase Inhibitor Telotristat with the mTOR Inhibitor Everolimus as an Effective Strategy Against Neuroendocrine Tumors.",
         "summary": "Combining two drugs—telotristat and everolimus—effectively fights neuroendocrine tumors better than either treatment alone.",
@@ -409,20 +423,6 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-05-01",
-        "added_date": "2026-05-23"
-      },
-      {
-        "id": "recsZ49Mk0d9Bg4Kn",
-        "title": "Phase Ib Study of Imatinib to Increase RUNX1 Activity in Participants With Germline RUNX1 Deficiency",
-        "summary": "Researchers test imatinib to boost RUNX1 activity in people with RUNX1 gene mutations who have increased blood cancer risk.",
-        "url": "https://clinicaltrials.gov/study/NCT06090669",
-        "source": "ClinicalTrials.gov",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
-        "pub_date": "2026-05-22",
         "added_date": "2026-05-23"
       }
     ],
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25524,
+    "archive_count": 25525,
     "archive_supplements": 2707,
     "archive_off_label": 828,
-    "archive_biomarkers": 15963,
+    "archive_biomarkers": 15964,
     "archive_trials": 5292,
     "archive_mind_body": 442
   }
