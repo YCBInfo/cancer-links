@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-26T04:04:06.744Z",
+  "last_updated": "2026-05-26T04:04:24.298Z",
   "categories": {
     "supplements": [
       {
@@ -568,6 +568,20 @@
         "added_date": "2026-05-26"
       },
       {
+        "id": "reccTLcI5UJ2kPJLE",
+        "title": "Low flow cytometry events in detecting CNS involvement in pediatric B-cell precursor ALL: NGS validation and prognostic significance.",
+        "summary": "Lowering flow cytometry detection thresholds to 3 events improves identification of CNS involvement in pediatric ALL, predicting higher relapse risk.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41719456/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-26"
+      },
+      {
         "id": "reczI3A12MAq0aVTv",
         "title": "Integrated transcriptomic and metabolomic analyses provide mechanistic insights into the pro-proliferative role of DARS in human MPN cell models.",
         "summary": "Removing DARS protein stops myeloproliferative neoplasm cancer cells from growing by disrupting key metabolic and signaling pathways.",
@@ -616,20 +630,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/42161648/",
         "source": "PubMed",
         "category": "Clinical Trials",
-        "cancer_types": [
-          "Stomach"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-25"
-      },
-      {
-        "id": "recSOvLy8ET05rpYw",
-        "title": "[Efficacy of conversion therapy and prognostic factors in patients with synchronous gastric cancer liver metastasis].",
-        "summary": "Surgery after chemotherapy significantly improves survival in gastric cancer patients with liver metastasis, with disease classification predicting treatment success.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42161647/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Stomach"
         ],
@@ -690,6 +690,34 @@
         "category": "Clinical Trials",
         "cancer_types": [
           "Lymphoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-26"
+      },
+      {
+        "id": "rec47dIrTP5CB2qv2",
+        "title": "Safety, efficacy, and patient-reported outcomes 6 years after fidanacogene elaparvovec in adults with hemophilia B.",
+        "summary": "A single-dose gene therapy for hemophilia B maintained effectiveness and safety over six years, eliminating bleeding in most patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41734390/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-26"
+      },
+      {
+        "id": "reccTLcI5UJ2kPJLE",
+        "title": "Low flow cytometry events in detecting CNS involvement in pediatric B-cell precursor ALL: NGS validation and prognostic significance.",
+        "summary": "Lowering flow cytometry detection thresholds to 3 events improves identification of CNS involvement in pediatric ALL, predicting higher relapse risk.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41719456/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -820,34 +848,6 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-25"
-      },
-      {
-        "id": "recdcQpm8ta5C4qSa",
-        "title": "A pH-responsive silver nanoparticle platform overcomes MEK inhibitor resistance in neurofibroma via triacsin C-mediated lipid metabolic reprogramming.",
-        "summary": "Silver nanoparticles delivering Triacsin C overcome drug resistance in neurofibroma by disrupting tumor lipid metabolism and restoring MEK inhibitor effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42177691/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-25"
-      },
-      {
-        "id": "rec4tblLM4BqzHeGL",
-        "title": "Tumor-Derived Extracellular Vesicles in Plasma for Predicting Anti-PD-1 Antibody Efficacy in Non-Small Cell Lung Cancer.",
-        "summary": "Researchers identified plasma extracellular vesicles that predict lung cancer detection, surgical outcomes, and response to immunotherapy treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42177635/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-25"
       }
     ],
     "mind_body": []
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25477,
+    "archive_count": 25478,
     "archive_supplements": 2699,
     "archive_off_label": 828,
-    "archive_biomarkers": 15933,
+    "archive_biomarkers": 15934,
     "archive_trials": 5283,
     "archive_mind_body": 442
   }
