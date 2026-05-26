@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-26T04:06:49.826Z",
+  "last_updated": "2026-05-26T04:07:03.802Z",
   "categories": {
     "supplements": [
       {
@@ -808,6 +808,20 @@
         "added_date": "2026-05-26"
       },
       {
+        "id": "recd8fIxMihIF2mOX",
+        "title": "The Landscape of Clinical Trials for TCR-T Cell Therapy.",
+        "summary": "TCR-T cell therapy, which targets tumor-specific antigens, shows promise across solid and blood cancers, with most trials in early phases focusing on lung and head/neck cancers.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42184246/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-26"
+      },
+      {
         "id": "recdY2Us8JnuE0u7b",
         "title": "The impact of complementary interventions on pain and disability in patients with chronic non-cancer pain: A network meta-analysis.",
         "summary": "Network analysis finds complementary therapies effective for reducing chronic non-cancer pain and disability compared to standard pharmaceutical treatments.",
@@ -834,20 +848,6 @@
         "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-25"
-      },
-      {
-        "id": "rec4fDdJZnD6vjouW",
-        "title": "[Construction of a predictive model for the efficacy of immune checkpoint inhibitors in locally advanced or metastatic gastric cancer and esophagogastric junction cancer].",
-        "summary": "Researchers developed a predictive model using tumor characteristics and biomarkers to identify gastric cancer patients likely to benefit from immunotherapy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42161649/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Stomach"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-25"
       }
     ],
     "mind_body": []
@@ -859,11 +859,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25489,
+    "archive_count": 25490,
     "archive_supplements": 2700,
     "archive_off_label": 828,
     "archive_biomarkers": 15942,
-    "archive_trials": 5285,
+    "archive_trials": 5286,
     "archive_mind_body": 442
   }
 }
