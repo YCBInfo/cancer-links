@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-26T04:05:25.236Z",
+  "last_updated": "2026-05-26T04:05:43.317Z",
   "categories": {
     "supplements": [
       {
@@ -27,6 +27,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-26"
+      },
+      {
+        "id": "rectFybm2VBLFdJbq",
+        "title": "Exploring the chemical composition and anti-cancer potential of Matricaria recutita L. essential oil.",
+        "summary": "Chamomile essential oil shows strong cancer-fighting potential against lung, liver, and breast cancer cells in laboratory tests.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40966193/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-26"
       },
@@ -196,20 +210,6 @@
           "Ovarian"
         ],
         "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-25"
-      },
-      {
-        "id": "recolrhbPWENO3EYS",
-        "title": "Targeting the SOX11/GPX4/SLC7A11 Axis: A Novel Mechanism for Boric Acid-Induced Ferroptosis in Endometrial Cancer.",
-        "summary": "Boric acid kills endometrial cancer cells by triggering ferroptosis through suppression of SOX11 and related protective pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42178444/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-25"
       }
@@ -624,18 +624,18 @@
         "added_date": "2026-05-26"
       },
       {
-        "id": "reczI3A12MAq0aVTv",
-        "title": "Integrated transcriptomic and metabolomic analyses provide mechanistic insights into the pro-proliferative role of DARS in human MPN cell models.",
-        "summary": "Removing DARS protein stops myeloproliferative neoplasm cancer cells from growing by disrupting key metabolic and signaling pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42177774/",
+        "id": "rectFybm2VBLFdJbq",
+        "title": "Exploring the chemical composition and anti-cancer potential of Matricaria recutita L. essential oil.",
+        "summary": "Chamomile essential oil shows strong cancer-fighting potential against lung, liver, and breast cancer cells in laboratory tests.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40966193/",
         "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
+        "category": "Supplements & Nutraceuticals",
         "cancer_types": [
-          "General"
+          "Liver"
         ],
-        "quality_score": 12,
+        "quality_score": 15,
         "pub_date": "2026-05-01",
-        "added_date": "2026-05-25"
+        "added_date": "2026-05-26"
       }
     ],
     "trials": [
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25483,
+    "archive_count": 25484,
     "archive_supplements": 2700,
     "archive_off_label": 828,
-    "archive_biomarkers": 15938,
+    "archive_biomarkers": 15939,
     "archive_trials": 5283,
     "archive_mind_body": 442
   }
