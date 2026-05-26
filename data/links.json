@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-26T04:04:24.298Z",
+  "last_updated": "2026-05-26T04:04:35.988Z",
   "categories": {
     "supplements": [
       {
@@ -582,6 +582,20 @@
         "added_date": "2026-05-26"
       },
       {
+        "id": "recXzYpVR5exGmJwc",
+        "title": "T-cell receptor beta constant 1 flow cytometry for diagnosing clonality in mature T-cell neoplasms: a systematic review and meta-analysis of diagnostic accuracy.",
+        "summary": "TRBC1 flow cytometry accurately and efficiently detects clonal T-cell patterns to diagnose mature T-cell cancers.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41712312/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 29,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-26"
+      },
+      {
         "id": "reczI3A12MAq0aVTv",
         "title": "Integrated transcriptomic and metabolomic analyses provide mechanistic insights into the pro-proliferative role of DARS in human MPN cell models.",
         "summary": "Removing DARS protein stops myeloproliferative neoplasm cancer cells from growing by disrupting key metabolic and signaling pathways.",
@@ -616,20 +630,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/42161649/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Stomach"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-25"
-      },
-      {
-        "id": "recoXfMnWtdLhhY39",
-        "title": "[Conversion efficacy and safety analysis of PD-1 inhibitor combined with albumin-bound paclitaxel and SOX chemotherapy regimen in initially unresectable advanced gastric cancer].",
-        "summary": "Adding albumin-bound paclitaxel to immunotherapy and chemotherapy significantly improves surgical conversion rates in advanced gastric cancer, despite increased side effects.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42161648/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
         "cancer_types": [
           "Stomach"
         ],
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25478,
+    "archive_count": 25479,
     "archive_supplements": 2699,
     "archive_off_label": 828,
-    "archive_biomarkers": 15934,
+    "archive_biomarkers": 15935,
     "archive_trials": 5283,
     "archive_mind_body": 442
   }
