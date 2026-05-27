@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-27T09:03:53.432Z",
+  "last_updated": "2026-05-27T09:04:03.877Z",
   "categories": {
     "supplements": [
       {
@@ -27,6 +27,20 @@
           "Lung"
         ],
         "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-27"
+      },
+      {
+        "id": "recFvYxkaMJe4tQIj",
+        "title": "A sweet danger: the silent link between hyperinsulinemia and gastric cancer.",
+        "summary": "High insulin levels increase gastric cancer risk and progression, but metformin treatment significantly reduces cancer recurrence and mortality.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42185920/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Stomach"
+        ],
+        "quality_score": 25,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-27"
       },
@@ -189,20 +203,6 @@
         "title": "Oroxylum indicum root bark extract mitigates hepato-renal damage induced by acetaminophen and cisplatin.",
         "summary": "Oroxylum indicum plant extract protected rat livers and kidneys from damage caused by acetaminophen and cisplatin chemotherapy.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/40991455/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-26"
-      },
-      {
-        "id": "rec29qNJXxKWNDZg3",
-        "title": "Utilizing olive leaves as a rich source of multifunctional bioactive compounds to fight oxidative stress, Alzheimer's disease, diabetes, and cancer using in vitro, in silico, and bioinformatics techniques.",
-        "summary": "Olive leaf extracts, especially arbequina variety, showed strong anticancer effects against cervical cancer cells and induced cell death in laboratory tests.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/40960191/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -861,9 +861,9 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25650,
+    "archive_count": 25651,
     "archive_supplements": 2723,
-    "archive_off_label": 832,
+    "archive_off_label": 833,
     "archive_biomarkers": 16037,
     "archive_trials": 5324,
     "archive_mind_body": 442
