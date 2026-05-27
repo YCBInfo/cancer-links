@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-27T09:06:59.308Z",
+  "last_updated": "2026-05-27T09:07:10.247Z",
   "categories": {
     "supplements": [
       {
@@ -341,6 +341,20 @@
         "added_date": "2026-05-27"
       },
       {
+        "id": "recNLZmJ763cIW66z",
+        "title": "Adverse events associated with statin co-use in breast cancer patients: a disproportionality analysis based on the FDA Adverse Event Reporting System.",
+        "summary": "Statins used alongside breast cancer treatment may increase adverse events, requiring closer safety monitoring in these patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42182858/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-27"
+      },
+      {
         "id": "recEOfTseSndy7c6X",
         "title": "MEK inhibitor cobimetinib increases calreticulin and induces immune modulation in TNBC.",
         "summary": "Cobimetinib, a MEK inhibitor, triggers immune-activating cell death and boosts anti-tumor immunity in triple-negative breast cancer.",
@@ -407,20 +421,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-25"
-      },
-      {
-        "id": "recrmsV3bAbbvvQgG",
-        "title": "Trifluoperazine induces ferroptosis in acute myeloid leukemia by suppressing the Nrf2/SLC7A11/GPX4 axis.",
-        "summary": "Trifluoperazine, an existing antipsychotic drug, kills acute myeloid leukemia cells by triggering iron-dependent cell death and works better combined with venetoclax.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42178012/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-25"
       }
@@ -861,10 +861,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25665,
+    "archive_count": 25666,
     "archive_supplements": 2723,
     "archive_off_label": 834,
-    "archive_biomarkers": 16044,
+    "archive_biomarkers": 16045,
     "archive_trials": 5330,
     "archive_mind_body": 442
   }
