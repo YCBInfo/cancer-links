@@ -11,6 +11,22 @@
   },
   "articles": [
     {
+      "title": "A Phase 1a/b Study to Investigate the Safety, Tolerability, Pharmacokinetics, Pharmacodynamics, and Preliminary Antitumor Activity of BG-C0902, an Antibody-Drug Conjugate Targeting Epidermal Growth Factor Receptor (EGFR) × Mesenchymal-Epithelial Transition (MET), Alone and in Combination With Other Therapeutic Agents in Patients With Advanced Solid Tumors",
+      "hook": "BG-C0902 antibody-drug conjugate targets dual EGFR-MET proteins in solid tumors",
+      "summary": "BG-C0902, a new antibody-drug combination targeting two cancer proteins, is being tested for safety and effectiveness in advanced solid tumors.",
+      "url": "https://clinicaltrials.gov/study/NCT07181681",
+      "source": "ClinicalTrials.gov",
+      "pub_date": "2026-05-26",
+      "category": [
+        "Clinical Trials",
+        "Biomarkers & Diagnostics"
+      ],
+      "cancer_types": [
+        "General"
+      ],
+      "biomarkers": "EGFR"
+    },
+    {
       "title": "A Randomized, Open-label, Phase 3 Study of MK-2870 vs. Platinum Doublets in Participants With EGFR-mutated, Advanced Nonsquamous Non-small Cell Lung Cancer (NSCLC) Who Have Progressed on Prior EGFR Tyrosine Kinase Inhibitors",
       "hook": "MK-2870 outperforms platinum chemotherapy in EGFR-mutated lung cancer",
       "summary": "MK-2870 is tested against standard chemotherapy in advanced lung cancer patients whose tumors have EGFR mutations and progressed on prior treatments.",
@@ -56,6 +72,21 @@
         "Lung"
       ],
       "biomarkers": "EGFR"
+    },
+    {
+      "title": "FragDockRL: A Reinforcement Learning Method for Fragment-Based Ligand Design via Building Block Assembly and Tethered Docking",
+      "hook": "FragDockRL reinforcement learning designs ligands targeting CSF1R and VEGFR2 proteins",
+      "summary": "FragDockRL uses reinforcement learning to design drug molecules by assembling building blocks and predicting binding to protein targets like CSF1R and VEGFR2.",
+      "url": "https://www.biorxiv.org/content/10.1101/2025.08.12.670002",
+      "source": "bioRxiv",
+      "pub_date": "2026-05-13",
+      "category": [
+        "Biomarkers & Diagnostics"
+      ],
+      "cancer_types": [
+        "General"
+      ],
+      "biomarkers": ""
     },
     {
       "title": "A Phase 1, First in Human, Open-Label Multicenter Study to Evaluate ALX2004, an Antibody Drug Conjugate Targeting EGFR in Participants With Advanced or Metastatic Select Solid Tumors",
@@ -137,40 +168,8 @@
         "Lung"
       ],
       "biomarkers": "EGFR"
-    },
-    {
-      "title": "Prospective Evaluation of VEGFR-2 rs11133360/IL-8 rs4073 Genetic Interaction in Metastatic Breast Cancer Patients Treated With Paclitaxel and Bevacizumab vs. Chemotherapy Alone (BEVAPROS)",
-      "hook": "VEGFR-2 and IL-8 genetic variants predict bevacizumab benefit in metastatic breast cancer",
-      "summary": "Study examined genetic markers to predict which metastatic breast cancer patients benefit most from adding bevacizumab to paclitaxel chemotherapy.",
-      "url": "https://clinicaltrials.gov/study/NCT02329639",
-      "source": "ClinicalTrials.gov",
-      "pub_date": "2026-05-05",
-      "category": [
-        "Biomarkers & Diagnostics",
-        "Clinical Trials"
-      ],
-      "cancer_types": [
-        "Breast"
-      ],
-      "biomarkers": ""
-    },
-    {
-      "title": "An Open-label, Two-arm, Multicenter, Phase II Randomized Controlled Trial Assessing the Impact of Olanzapine on the Efficacy of First-line Immunotherapy in Patients With Advanced EGFR Mutation-negative Non-small Cell Lung Cancer (NSCLC).",
-      "hook": "Olanzapine combined with immunotherapy improves outcomes in advanced lung cancer",
-      "summary": "Study tests whether adding olanzapine to immunotherapy improves outcomes in advanced lung cancer patients compared to immunotherapy alone.",
-      "url": "https://clinicaltrials.gov/study/NCT06554613",
-      "source": "ClinicalTrials.gov",
-      "pub_date": "2026-05-05",
-      "category": [
-        "Clinical Trials",
-        "Off-Label Medications"
-      ],
-      "cancer_types": [
-        "Lung"
-      ],
-      "biomarkers": "EGFR"
     }
   ],
   "article_count": 10,
-  "last_updated": "2026-05-26T13:04:57.842Z"
+  "last_updated": "2026-05-27T13:04:30.633Z"
 }
