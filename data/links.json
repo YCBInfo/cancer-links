@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-27T09:05:41.374Z",
+  "last_updated": "2026-05-27T09:05:55.970Z",
   "categories": {
     "supplements": [
       {
@@ -299,6 +299,34 @@
         "added_date": "2026-05-27"
       },
       {
+        "id": "rectv4700wZu43uWp",
+        "title": "Repurposing the Neurokinin-1 Receptor Antagonist Aprepitant to Eradicate Relapsed/Refractory Acute Lymphoblastic Leukemia via Mitochondria-Driven Necroptosis.",
+        "summary": "Aprepitant, an FDA-approved drug, kills drug-resistant acute lymphoblastic leukemia cells by triggering mitochondrial cell death.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42184918/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-27"
+      },
+      {
+        "id": "recvgMACLmODNBUKk",
+        "title": "Cilostazol inhibits TGF-α-induced migration of hepatocellular carcinoma cells by activating PPARγ.",
+        "summary": "Cilostazol blocks hepatocellular carcinoma cell migration by activating PPARγ, which suppresses the AKT signaling pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42190601/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-27"
+      },
+      {
         "id": "recEOfTseSndy7c6X",
         "title": "MEK inhibitor cobimetinib increases calreticulin and induces immune modulation in TNBC.",
         "summary": "Cobimetinib, a MEK inhibitor, triggers immune-activating cell death and boosts anti-tumor immunity in triple-negative breast cancer.",
@@ -393,34 +421,6 @@
           "Liver"
         ],
         "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-24"
-      },
-      {
-        "id": "recY75bPcBkDjliKA",
-        "title": "Mitochondria-targeted metformin analogs activate the ER stress-unfolded protein response pathway to drive apoptosis in pancreatic cancer.",
-        "summary": "A modified metformin drug targeting pancreatic cancer cell mitochondria triggers cell death by activating stress response pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42173830/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Pancreatic"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-24"
-      },
-      {
-        "id": "recTcGOYt6bfBlD83",
-        "title": "Repurposing melatonin for its potential roles in gastrointestinal cancers: highlighting the molecular mechanisms.",
-        "summary": "Melatonin could boost gastrointestinal cancer treatment effectiveness while reducing chemotherapy toxicity through multiple anti-tumor mechanisms.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42177485/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-24"
       }
@@ -861,11 +861,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25659,
+    "archive_count": 25660,
     "archive_supplements": 2723,
     "archive_off_label": 833,
     "archive_biomarkers": 16041,
-    "archive_trials": 5328,
+    "archive_trials": 5329,
     "archive_mind_body": 442
   }
 }
