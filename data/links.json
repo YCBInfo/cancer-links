@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-27T09:04:37.445Z",
+  "last_updated": "2026-05-27T09:04:51.577Z",
   "categories": {
     "supplements": [
       {
@@ -271,6 +271,20 @@
         "added_date": "2026-05-27"
       },
       {
+        "id": "recRvpIT7oXhGdXTz",
+        "title": "In silico discovery of novel small-molecule PD-L1 inhibitors through a multi-stage computational workflow integrating machine learning and molecular dynamics.",
+        "summary": "Researchers used artificial intelligence and computer simulations to discover a new drug candidate that could block PD-L1 and treat cancer immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42185552/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-27"
+      },
+      {
         "id": "recEOfTseSndy7c6X",
         "title": "MEK inhibitor cobimetinib increases calreticulin and induces immune modulation in TNBC.",
         "summary": "Cobimetinib, a MEK inhibitor, triggers immune-activating cell death and boosts anti-tumor immunity in triple-negative breast cancer.",
@@ -401,20 +415,6 @@
         "title": "Beyond glycemic control: differential effects of empagliflozin and sitagliptin on insulin sensitivity and a shared increase in adropin in type 2 diabetes.",
         "summary": "Both empagliflozin and sitagliptin increase a beneficial protein called adropin in type 2 diabetes patients, though with different metabolic effects.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42177445/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-24"
-      },
-      {
-        "id": "recGHhKkDa35ea8nL",
-        "title": "Repurposing monepantel in oncology: A conceptual mini-review of proposed mechanisms.",
-        "summary": "Monepantel, an antiparasitic drug, shows promise against cancer by blocking cell growth pathways and triggering stress responses in tumor cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42176570/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -861,10 +861,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25654,
+    "archive_count": 25655,
     "archive_supplements": 2723,
     "archive_off_label": 833,
-    "archive_biomarkers": 16038,
+    "archive_biomarkers": 16039,
     "archive_trials": 5326,
     "archive_mind_body": 442
   }
