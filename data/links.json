@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-27T08:04:54.381Z",
+  "last_updated": "2026-05-27T09:03:41.689Z",
   "categories": {
     "supplements": [
       {
@@ -215,6 +215,34 @@
     ],
     "off_label": [
       {
+        "id": "recMdmLWkPdzKyt8y",
+        "title": "YK-4-250 mitigates gastrointestinal radiation syndrome and promotes overall survival following partial body radiation injury.",
+        "summary": "YK-4-250 drug improves survival and gut function in mice exposed to lethal radiation doses by blocking harmful inflammatory signals and reducing oxidative damage.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42192183/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-27"
+      },
+      {
+        "id": "recG8Gk0y2AcDP3O3",
+        "title": "AI-driven multi-omics drug repurposing nominates AZD7762 as a multitarget inhibitor of IL22RA1 and FAM221A in esophageal squamous cell carcinoma.",
+        "summary": "AI analysis identified AZD7762 as a promising repurposed drug targeting two key genes that drive esophageal squamous cell carcinoma growth.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42191940/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-27"
+      },
+      {
         "id": "recEOfTseSndy7c6X",
         "title": "MEK inhibitor cobimetinib increases calreticulin and induces immune modulation in TNBC.",
         "summary": "Cobimetinib, a MEK inhibitor, triggers immune-activating cell death and boosts anti-tumor immunity in triple-negative breast cancer.",
@@ -389,34 +417,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/42172317/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-23"
-      },
-      {
-        "id": "recLX19tnJIf7TPOL",
-        "title": "NAT10-Mediated ac4C Modification of circANKRD12 Reprograms the Tumor Microenvironment.",
-        "summary": "NAT10 modification of circANKRD12 promotes multiple myeloma growth and immune suppression; desloratadine reverses both effects.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42172090/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-23"
-      },
-      {
-        "id": "rec8QslwL5CiX6c9w",
-        "title": "Repurposing Syrosingopine for Cancer Therapy: Lactate Trapping and ISR Sensitization as Metabolic Vulnerabilities.",
-        "summary": "Syrosingopine, a repurposed blood pressure drug, blocks lactate transporters in cancer cells, forcing toxic lactate buildup and potentially slowing tumor growth.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42171986/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
         "cancer_types": [
           "General"
         ],
@@ -861,9 +861,9 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25648,
+    "archive_count": 25649,
     "archive_supplements": 2723,
-    "archive_off_label": 831,
+    "archive_off_label": 832,
     "archive_biomarkers": 16036,
     "archive_trials": 5324,
     "archive_mind_body": 442
