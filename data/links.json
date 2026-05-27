@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-27T09:05:55.970Z",
+  "last_updated": "2026-05-27T09:06:08.814Z",
   "categories": {
     "supplements": [
       {
@@ -327,6 +327,20 @@
         "added_date": "2026-05-27"
       },
       {
+        "id": "reck9Xf14xmGAvEJc",
+        "title": "Metformin use and the risk of liver cancer in a Swedish population-based cohort study.",
+        "summary": "Study examined whether metformin use reduces liver cancer risk in Swedish patients with both hepatocellular carcinoma and intrahepatic cholangiocarcinoma.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42184304/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-27"
+      },
+      {
         "id": "recEOfTseSndy7c6X",
         "title": "MEK inhibitor cobimetinib increases calreticulin and induces immune modulation in TNBC.",
         "summary": "Cobimetinib, a MEK inhibitor, triggers immune-activating cell death and boosts anti-tumor immunity in triple-negative breast cancer.",
@@ -409,20 +423,6 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-25"
-      },
-      {
-        "id": "recAG2RzaTbdgC5uV",
-        "title": "GPX8+ cancer-associated fibroblast-derived lactate contributes to lenvatinib resistance by facilitating BRPF1 expression through histone H3 lysine 18 lactylation in hepatocellular carcinoma.",
-        "summary": "Certain fibroblasts produce lactate that helps hepatocellular carcinoma resist lenvatinib treatment; blocking lactate transport or a protein called BRPF1 can restore drug sensitivity.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42174112/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-24"
       }
     ],
     "biomarkers": [
@@ -861,10 +861,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25660,
+    "archive_count": 25661,
     "archive_supplements": 2723,
     "archive_off_label": 833,
-    "archive_biomarkers": 16041,
+    "archive_biomarkers": 16042,
     "archive_trials": 5329,
     "archive_mind_body": 442
   }
