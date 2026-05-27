@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-27T09:07:28.977Z",
+  "last_updated": "2026-05-27T09:07:40.800Z",
   "categories": {
     "supplements": [
       {
@@ -355,6 +355,20 @@
         "added_date": "2026-05-27"
       },
       {
+        "id": "rechsjVYn0dQmRH1a",
+        "title": "Modulation of Oxidative Stress and Nuclear Factor-κB- Associated Inflammatory Signaling by Rabeprazole in Acetic Acid-Induced Colonic Injury.",
+        "summary": "Rabeprazole reduces inflammation and oxidative stress in colon injury models, potentially offering benefits beyond its acid-suppressing effects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42186949/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-27"
+      },
+      {
         "id": "recEOfTseSndy7c6X",
         "title": "MEK inhibitor cobimetinib increases calreticulin and induces immune modulation in TNBC.",
         "summary": "Cobimetinib, a MEK inhibitor, triggers immune-activating cell death and boosts anti-tumor immunity in triple-negative breast cancer.",
@@ -401,20 +415,6 @@
         "title": "A Combination of the Tryptophan Hydroxylase Inhibitor Telotristat with the mTOR Inhibitor Everolimus as an Effective Strategy Against Neuroendocrine Tumors.",
         "summary": "Combining two drugs—telotristat and everolimus—effectively fights neuroendocrine tumors better than either treatment alone.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42177741/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-25"
-      },
-      {
-        "id": "recSLChNgBy3nCPjN",
-        "title": "A Phase 2 Multi-Center, Prospective, Randomized, Double-Blind Study to Assess the Clinical and Antiviral Efficacy and Safety of Nitazoxanide for the Treatment of Norovirus in Hematopoietic Stem Cell and Solid Organ Transplant Recipients.",
-        "summary": "Nitazoxanide was safe but did not effectively treat norovirus in transplant patients, failing to reduce symptom duration or viral shedding.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42177030/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -861,11 +861,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25668,
+    "archive_count": 25669,
     "archive_supplements": 2723,
     "archive_off_label": 836,
     "archive_biomarkers": 16045,
-    "archive_trials": 5330,
+    "archive_trials": 5331,
     "archive_mind_body": 442
   }
 }
