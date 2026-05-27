@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-27T09:04:03.877Z",
+  "last_updated": "2026-05-27T09:04:11.228Z",
   "categories": {
     "supplements": [
       {
@@ -257,6 +257,20 @@
         "added_date": "2026-05-27"
       },
       {
+        "id": "recgxSeIVtsyt12GY",
+        "title": "Penfluridol directly targets PDPK1 to suppress AKT1 phosphorylation and stabilize CTR1, inducing cuproptosis in colorectal cancer.",
+        "summary": "Penfluridol, an antipsychotic drug, kills colorectal cancer cells by blocking a protein that allows copper buildup inside tumor cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42185682/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-27"
+      },
+      {
         "id": "recEOfTseSndy7c6X",
         "title": "MEK inhibitor cobimetinib increases calreticulin and induces immune modulation in TNBC.",
         "summary": "Cobimetinib, a MEK inhibitor, triggers immune-activating cell death and boosts anti-tumor immunity in triple-negative breast cancer.",
@@ -409,20 +423,6 @@
         "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-24"
-      },
-      {
-        "id": "recfjV22oITSkrRSu",
-        "title": "[Establishment of pediatric neuroblastoma cell line and its resistance mechanism to lorlatinib].",
-        "summary": "Researchers found that neuroblastoma cells resistant to lorlatinib activate EGFR as an escape mechanism, and combining EGFR and ALK inhibitors effectively overcomes this resistance.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42151084/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lymphoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-23"
       }
     ],
     "biomarkers": [
@@ -861,11 +861,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25651,
+    "archive_count": 25652,
     "archive_supplements": 2723,
     "archive_off_label": 833,
     "archive_biomarkers": 16037,
-    "archive_trials": 5324,
+    "archive_trials": 5325,
     "archive_mind_body": 442
   }
 }
