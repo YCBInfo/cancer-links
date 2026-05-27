@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-27T09:03:41.689Z",
+  "last_updated": "2026-05-27T09:03:53.432Z",
   "categories": {
     "supplements": [
       {
@@ -243,6 +243,20 @@
         "added_date": "2026-05-27"
       },
       {
+        "id": "recFvYxkaMJe4tQIj",
+        "title": "A sweet danger: the silent link between hyperinsulinemia and gastric cancer.",
+        "summary": "High insulin levels increase gastric cancer risk and progression, but metformin treatment significantly reduces cancer recurrence and mortality.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42185920/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Stomach"
+        ],
+        "quality_score": 25,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-27"
+      },
+      {
         "id": "recEOfTseSndy7c6X",
         "title": "MEK inhibitor cobimetinib increases calreticulin and induces immune modulation in TNBC.",
         "summary": "Cobimetinib, a MEK inhibitor, triggers immune-activating cell death and boosts anti-tumor immunity in triple-negative breast cancer.",
@@ -407,20 +421,6 @@
           "Lymphoma"
         ],
         "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-23"
-      },
-      {
-        "id": "recuOnv0KAugEcdRW",
-        "title": "Noncanonical PI(4,5)P2 coordinates lysosome positioning through cholesterol trafficking.",
-        "summary": "Blocking PI5P4K enzymes disrupts cholesterol transport in p53-deficient cancers, stopping tumor growth through mTOR pathway inhibition.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42172317/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-23"
       }
@@ -861,10 +861,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25649,
+    "archive_count": 25650,
     "archive_supplements": 2723,
     "archive_off_label": 832,
-    "archive_biomarkers": 16036,
+    "archive_biomarkers": 16037,
     "archive_trials": 5324,
     "archive_mind_body": 442
   }
