@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-27T07:04:26.141Z",
+  "last_updated": "2026-05-27T07:04:50.848Z",
   "categories": {
     "supplements": [
       {
@@ -511,6 +511,20 @@
         "added_date": "2026-05-27"
       },
       {
+        "id": "recizd9Rtpsv4UKvQ",
+        "title": "A Randomized, Double-blind, Placebo-controlled Phase 3 Study to Evaluate Dostarlimab as Sequential Therapy After Chemoradiation in Participants With Locally Advanced Unresected Head and Neck Squamous Cell Carcinoma",
+        "summary": "Dostarlimab, given after chemotherapy and radiation, is being tested to improve survival in advanced head and neck cancer patients.",
+        "url": "https://clinicaltrials.gov/study/NCT06256588",
+        "source": "ClinicalTrials.gov",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 10,
+        "pub_date": "2026-05-26",
+        "added_date": "2026-05-27"
+      },
+      {
         "id": "recWhjvE0QTxGVqMj",
         "title": "Design and Pictet-Spengler enabled synthesis of carboxamide-substituted imidazo[1,2-a]quinoxalines as dual EGFR and tubulin targeting anticancer agents.",
         "summary": "Researchers designed new compounds targeting breast cancer cells by simultaneously blocking EGFR and tubulin, with two compounds outperforming the drug erlotinib.",
@@ -617,20 +631,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-26"
-      },
-      {
-        "id": "rec9gTdh1xxPy8BSo",
-        "title": "Advances in the diagnosis and classification of B-ALL: comparative insights from updated guidelines.",
-        "summary": "Updated genetic classification methods reduce unclassifiable B-ALL cases and better predict survival, enabling more precise treatment selection.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41886641/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -807,6 +807,34 @@
         "added_date": "2026-05-27"
       },
       {
+        "id": "recizd9Rtpsv4UKvQ",
+        "title": "A Randomized, Double-blind, Placebo-controlled Phase 3 Study to Evaluate Dostarlimab as Sequential Therapy After Chemoradiation in Participants With Locally Advanced Unresected Head and Neck Squamous Cell Carcinoma",
+        "summary": "Dostarlimab, given after chemotherapy and radiation, is being tested to improve survival in advanced head and neck cancer patients.",
+        "url": "https://clinicaltrials.gov/study/NCT06256588",
+        "source": "ClinicalTrials.gov",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 10,
+        "pub_date": "2026-05-26",
+        "added_date": "2026-05-27"
+      },
+      {
+        "id": "recfE4M1gYgPM6HLx",
+        "title": "Functional Radiosurgery for Easing or Eliminating Debilitating Oncologic Morbidity (FREEDOM)",
+        "summary": "Radiosurgery targeting the pituitary gland and thalamus aims to relieve severe cancer pain unresponsive to opioids and other treatments.",
+        "url": "https://clinicaltrials.gov/study/NCT07605546",
+        "source": "ClinicalTrials.gov",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 10,
+        "pub_date": "2026-05-26",
+        "added_date": "2026-05-27"
+      },
+      {
         "id": "recOq319QMsYVhzgi",
         "title": "Lung Cancer Yield by Baseline Screening Lung CT Screening Reporting and Data System (Lung-RADS) Assignment and Patient Factors: The Population-Based Research to Optimize the Screening Process Lung Consortium.",
         "summary": "Lung cancer screening effectiveness varies between clinical trials and real-world community settings.",
@@ -815,34 +843,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-26"
-      },
-      {
-        "id": "recykNEE1PQIxTy08",
-        "title": "Early adjunct anti-PD-L1 immunotherapy improves outcomes and restores infection-induced immune paralysis in mice with invasive pulmonary mucormycosis.",
-        "summary": "Early anti-PD-L1 immunotherapy combined with antifungal treatment improves survival in mice with invasive pulmonary mucormycosis by reversing infection-induced immune failure.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42160348/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-26"
-      },
-      {
-        "id": "rec9gTdh1xxPy8BSo",
-        "title": "Advances in the diagnosis and classification of B-ALL: comparative insights from updated guidelines.",
-        "summary": "Updated genetic classification methods reduce unclassifiable B-ALL cases and better predict survival, enabling more precise treatment selection.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41886641/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -858,11 +858,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25615,
+    "archive_count": 25616,
     "archive_supplements": 2721,
     "archive_off_label": 831,
     "archive_biomarkers": 16025,
-    "archive_trials": 5304,
+    "archive_trials": 5305,
     "archive_mind_body": 442
   }
 }
