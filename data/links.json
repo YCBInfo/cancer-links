@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-26T11:30:05.886Z",
+  "last_updated": "2026-05-27T02:34:47.167Z",
   "categories": {
     "supplements": [
       {
@@ -639,6 +639,20 @@
     ],
     "trials": [
       {
+        "id": "recHg7dfCNcKDOpOj",
+        "title": "Exploring Oncology Referral Practices for Complementary and Alternative Medicine: A Scoping Review.",
+        "summary": "Oncologists rarely refer cancer patients to complementary therapies, despite growing patient interest in these alternative treatments.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42189108/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-27"
+      },
+      {
         "id": "recOq319QMsYVhzgi",
         "title": "Lung Cancer Yield by Baseline Screening Lung CT Screening Reporting and Data System (Lung-RADS) Assignment and Patient Factors: The Population-Based Research to Optimize the Screening Process Lung Consortium.",
         "summary": "Lung cancer screening effectiveness varies between clinical trials and real-world community settings.",
@@ -833,20 +847,6 @@
         "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-26"
-      },
-      {
-        "id": "recHs0tc9cKCz8JkT",
-        "title": "Unveiling the invisible: the role of multimodality imaging in diagnosing primary cardiac lymphoma.",
-        "summary": "Multimodality imaging—combining echocardiography, CT, MRI, and PET—was essential for diagnosing primary cardiac lymphoma and guiding treatment in this patient.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42184056/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lymphoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-26"
       }
     ],
     "mind_body": []
@@ -858,11 +858,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25611,
+    "archive_count": 25612,
     "archive_supplements": 2721,
     "archive_off_label": 831,
     "archive_biomarkers": 16023,
-    "archive_trials": 5302,
+    "archive_trials": 5303,
     "archive_mind_body": 442
   }
 }
