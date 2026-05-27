@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-27T09:04:51.577Z",
+  "last_updated": "2026-05-27T09:05:06.071Z",
   "categories": {
     "supplements": [
       {
@@ -285,6 +285,20 @@
         "added_date": "2026-05-27"
       },
       {
+        "id": "recIVbpTEtvVyiJnO",
+        "title": "Identification of drug repurposing candidates for the treatment of polycystic kidney disease.",
+        "summary": "Researchers identified existing drugs that could be repurposed to treat polycystic kidney disease, offering new treatment options for this serious condition.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42184822/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-27"
+      },
+      {
         "id": "recEOfTseSndy7c6X",
         "title": "MEK inhibitor cobimetinib increases calreticulin and induces immune modulation in TNBC.",
         "summary": "Cobimetinib, a MEK inhibitor, triggers immune-activating cell death and boosts anti-tumor immunity in triple-negative breast cancer.",
@@ -401,20 +415,6 @@
         "title": "Repurposing melatonin for its potential roles in gastrointestinal cancers: highlighting the molecular mechanisms.",
         "summary": "Melatonin could boost gastrointestinal cancer treatment effectiveness while reducing chemotherapy toxicity through multiple anti-tumor mechanisms.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42177485/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-24"
-      },
-      {
-        "id": "recneX6uEAyXtHzzy",
-        "title": "Beyond glycemic control: differential effects of empagliflozin and sitagliptin on insulin sensitivity and a shared increase in adropin in type 2 diabetes.",
-        "summary": "Both empagliflozin and sitagliptin increase a beneficial protein called adropin in type 2 diabetes patients, though with different metabolic effects.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42177445/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -861,11 +861,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25655,
+    "archive_count": 25656,
     "archive_supplements": 2723,
     "archive_off_label": 833,
     "archive_biomarkers": 16039,
-    "archive_trials": 5326,
+    "archive_trials": 5327,
     "archive_mind_body": 442
   }
 }
