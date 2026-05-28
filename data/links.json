@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-28T06:03:26.676Z",
+  "last_updated": "2026-05-28T06:03:35.980Z",
   "categories": {
     "supplements": [
       {
@@ -610,6 +610,20 @@
         "added_date": "2026-05-28"
       },
       {
+        "id": "recreXPeVcGq2Ahdc",
+        "title": "αKG-mediated carnitine synthesis drives DNA repair via histone acetylation.",
+        "summary": "A metabolic pathway involving alpha-ketoglutarate and carnitine synthesis enables cancer cells to repair DNA damage through histone acetylation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42203879/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-28"
+      },
+      {
         "id": "reckbc2w5o4GiMWNv",
         "title": "Improving Uptake of Bowel Cancer Screening Among South Asian Adults in Bradford",
         "summary": "A culturally tailored bowel cancer screening kit may increase screening uptake among South Asian adults in Bradford.",
@@ -620,20 +634,6 @@
           "General"
         ],
         "quality_score": 10,
-        "pub_date": "2026-05-26",
-        "added_date": "2026-05-27"
-      },
-      {
-        "id": "recyImWyvboQTt3LB",
-        "title": "Immunomonitoring After Hematopoietic Stem Cell Transplantation for Hematological Malignancies Using Cytokines Profiling and Flow Cytometry",
-        "summary": "Researchers tracked immune cell function after stem cell transplants for blood cancers to predict infections, relapse, and complications.",
-        "url": "https://clinicaltrials.gov/study/NCT04635397",
-        "source": "ClinicalTrials.gov",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 13,
         "pub_date": "2026-05-26",
         "added_date": "2026-05-27"
       }
@@ -693,6 +693,20 @@
           "Brain"
         ],
         "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-28"
+      },
+      {
+        "id": "recreXPeVcGq2Ahdc",
+        "title": "αKG-mediated carnitine synthesis drives DNA repair via histone acetylation.",
+        "summary": "A metabolic pathway involving alpha-ketoglutarate and carnitine synthesis enables cancer cells to repair DNA damage through histone acetylation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42203879/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-28"
       },
@@ -835,20 +849,6 @@
         "quality_score": 13,
         "pub_date": "2026-05-26",
         "added_date": "2026-05-27"
-      },
-      {
-        "id": "recQwHe5vFV74o8jI",
-        "title": "an AI-Driven Four-Tier Invasion Depth Classification for Early Esophageal Cancer",
-        "summary": "AI system accurately classifies invasion depth in early esophageal cancer using preoperative endoscopic imaging to guide treatment.",
-        "url": "https://clinicaltrials.gov/study/NCT07605663",
-        "source": "ClinicalTrials.gov",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
-        "pub_date": "2026-05-26",
-        "added_date": "2026-05-27"
       }
     ],
     "mind_body": []
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25694,
+    "archive_count": 25695,
     "archive_supplements": 2725,
     "archive_off_label": 840,
-    "archive_biomarkers": 16059,
+    "archive_biomarkers": 16060,
     "archive_trials": 5336,
     "archive_mind_body": 442
   }
