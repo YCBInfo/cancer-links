@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-28T06:03:02.191Z",
+  "last_updated": "2026-05-28T06:03:13.584Z",
   "categories": {
     "supplements": [
       {
@@ -215,6 +215,20 @@
     ],
     "off_label": [
       {
+        "id": "rec6yrOYiXCALdWTs",
+        "title": "Exploring Synergistic Potential of Sorafenib and Atorvastatin to Launch Apoptosis and Ferroptosis-driven Mixed Cell Death Mechanism in Colorectal Cancer.",
+        "summary": "Combining sorafenib and atorvastatin triggers dual cell death in colorectal cancer cells, achieving 80% tumor reduction but requiring safer delivery methods.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42204072/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-28"
+      },
+      {
         "id": "recMdmLWkPdzKyt8y",
         "title": "YK-4-250 mitigates gastrointestinal radiation syndrome and promotes overall survival following partial body radiation injury.",
         "summary": "YK-4-250 drug improves survival and gut function in mice exposed to lethal radiation doses by blocking harmful inflammatory signals and reducing oxidative damage.",
@@ -409,20 +423,6 @@
         "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-26"
-      },
-      {
-        "id": "recrJ0jwIONSpwCQu",
-        "title": "A Combination of the Tryptophan Hydroxylase Inhibitor Telotristat with the mTOR Inhibitor Everolimus as an Effective Strategy Against Neuroendocrine Tumors.",
-        "summary": "Combining two drugs—telotristat and everolimus—effectively fights neuroendocrine tumors better than either treatment alone.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42177741/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-25"
       }
     ],
     "biomarkers": [
@@ -582,6 +582,20 @@
         "added_date": "2026-05-28"
       },
       {
+        "id": "rec6yrOYiXCALdWTs",
+        "title": "Exploring Synergistic Potential of Sorafenib and Atorvastatin to Launch Apoptosis and Ferroptosis-driven Mixed Cell Death Mechanism in Colorectal Cancer.",
+        "summary": "Combining sorafenib and atorvastatin triggers dual cell death in colorectal cancer cells, achieving 80% tumor reduction but requiring safer delivery methods.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42204072/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-28"
+      },
+      {
         "id": "reckbc2w5o4GiMWNv",
         "title": "Improving Uptake of Bowel Cancer Screening Among South Asian Adults in Bradford",
         "summary": "A culturally tailored bowel cancer screening kit may increase screening uptake among South Asian adults in Bradford.",
@@ -620,20 +634,6 @@
           "General"
         ],
         "quality_score": 24,
-        "pub_date": "2026-05-26",
-        "added_date": "2026-05-27"
-      },
-      {
-        "id": "recxIbAYGmB3AiWP6",
-        "title": "Tissue Procurement Protocol for the Developmental Therapeutics Clinic, National Cancer Institute (NCI)",
-        "summary": "NCI protocol collects tissue and fluid samples from cancer patients undergoing treatment to support cancer research studies.",
-        "url": "https://clinicaltrials.gov/study/NCT00900198",
-        "source": "ClinicalTrials.gov",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
         "pub_date": "2026-05-26",
         "added_date": "2026-05-27"
       }
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25692,
+    "archive_count": 25693,
     "archive_supplements": 2724,
     "archive_off_label": 840,
-    "archive_biomarkers": 16058,
+    "archive_biomarkers": 16059,
     "archive_trials": 5336,
     "archive_mind_body": 442
   }
