@@ -1,7 +1,63 @@
 {
-  "last_updated": "2026-05-28T02:34:50.090Z",
+  "last_updated": "2026-05-28T06:03:02.191Z",
   "categories": {
     "supplements": [
+      {
+        "id": "recs0yG2LwJciiGof",
+        "title": "Multiplex gene editing enables the multibiofortification of essential vitamins and other health-promoting phytonutrients in tomato.",
+        "summary": "Scientists used gene editing to create tomatoes enriched with seven health-promoting nutrients that inhibited colorectal cancer cell growth in mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42201953/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-28"
+      },
+      {
+        "id": "recjzdRDhsvdoJe6g",
+        "title": "In silico and in vitro analysis: Unveiling the therapeutic potential of flavonoids against KLF7 in ovarian cancer.",
+        "summary": "Flavonoids show promise as a potential treatment for ovarian cancer by targeting the KLF7 protein.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41930827/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Ovarian"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-05-28"
+      },
+      {
+        "id": "recgGIpjIrJAvTy3Y",
+        "title": "First evidence for isolation and characterization of Bacopa monnieri (L.) Wettst-derived nanovesicles with anti-neuroblastoma potential.",
+        "summary": "Plant-derived nanovesicles from Bacopa monnieri effectively suppress neuroblastoma cell growth through free radical scavenging.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42204341/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-28"
+      },
+      {
+        "id": "recB5l2ycdnn3Z4X4",
+        "title": "Nuclear OXCT1 attenuates histone β-hydroxybutyrylation-mediated MHC-I transcription.",
+        "summary": "Nuclear OXCT1 suppresses immune genes in hepatocellular carcinoma, reducing immunotherapy effectiveness; blocking this pathway with ketogenic diet restores treatment response.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42204309/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-28"
+      },
       {
         "id": "recZLkuwJlaJNgPXt",
         "title": "Malnutrition Screening and Nutrition Optimization to Improve Outcomes in Patients With Unresectable Pancreatic Cancer",
@@ -153,62 +209,6 @@
           "Brain"
         ],
         "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-26"
-      },
-      {
-        "id": "rec1QQoGZB8Q019t4",
-        "title": "Deciphering the anticancer potential of an entomopathogenic fungus, Cordyceps militaris in Dalton's Lymphoma transplanted murine model: a multidimensional approach involving computational methods and in vivo validation.",
-        "summary": "Cordyceps militaris mushroom extract reduces Dalton's Lymphoma tumors in mice by triggering apoptosis through DNA damage and cell cycle arrest.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42183983/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Lymphoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-26"
-      },
-      {
-        "id": "recbff2gbXwCFV6np",
-        "title": "3'-sialyllactose inhibits the migration and invasion of LPS-induced B16F10 mouse melanoma cells through inactivation of the NF-KB signaling pathway.",
-        "summary": "A compound called 3'-sialyllactose reduces melanoma cell migration and invasion by blocking key signaling pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42183904/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Melanoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-26"
-      },
-      {
-        "id": "recnh0pdJaAUVxmrZ",
-        "title": "In vitro study of biologically synthesized MgO nanoparticles cytotoxicity in cancer cell lines.",
-        "summary": "Magnesium oxide nanoparticles made from plant extract kill esophageal and pancreatic cancer cells effectively in laboratory tests.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42179919/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-26"
-      },
-      {
-        "id": "reci1yZvsJEnoV78i",
-        "title": "The Role of Boron in the Diet and as a Dietary Supplement.",
-        "summary": "Boron supplementation may support bone health, reduce inflammation, and potentially aid cancer prevention, though more research is needed.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42185672/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-26"
       }
@@ -427,6 +427,161 @@
     ],
     "biomarkers": [
       {
+        "id": "reclTkKZ6Jby0ZQV2",
+        "title": "Mitophagy in cisplatin-induced kidney injury: regulatory mechanisms and therapeutic targets.",
+        "summary": "Researchers identified mitophagy as a key mechanism in cisplatin chemotherapy's kidney damage, offering potential therapeutic targets.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42199066/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-28"
+      },
+      {
+        "id": "recFTaxaCAmuQdxU5",
+        "title": "NF1 and SPRED1/2 cooperate through RAS-MAPK-independent functions.",
+        "summary": "NF1 and SPRED proteins work together to control cell growth through pathways independent of the RAS-MAPK mechanism in neurofibromatosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42201959/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-28"
+      },
+      {
+        "id": "recs0yG2LwJciiGof",
+        "title": "Multiplex gene editing enables the multibiofortification of essential vitamins and other health-promoting phytonutrients in tomato.",
+        "summary": "Scientists used gene editing to create tomatoes enriched with seven health-promoting nutrients that inhibited colorectal cancer cell growth in mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42201953/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-28"
+      },
+      {
+        "id": "recEgyjtVD1rNdQCH",
+        "title": "Transition-state analysis of the arginine-specific human ADP-ribosyltransferase 1.",
+        "summary": "Researchers mapped the molecular mechanism of hsART1 enzyme in lung cancer, enabling future development of targeted inhibitors to restore immune cell function.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42201951/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-28"
+      },
+      {
+        "id": "recX9kuJMMCmlwyGl",
+        "title": "Anti-CRISPR-mediated continuous directed evolution of CRISPR-Cas9 in human cells.",
+        "summary": "Researchers developed CRISPR-MACE, a method to improve CRISPR-Cas9 directly in human cells, creating variants with enhanced resistance and altered DNA-binding capacity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42189993/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-28"
+      },
+      {
+        "id": "recjzdRDhsvdoJe6g",
+        "title": "In silico and in vitro analysis: Unveiling the therapeutic potential of flavonoids against KLF7 in ovarian cancer.",
+        "summary": "Flavonoids show promise as a potential treatment for ovarian cancer by targeting the KLF7 protein.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41930827/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Ovarian"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-05-28"
+      },
+      {
+        "id": "recgGIpjIrJAvTy3Y",
+        "title": "First evidence for isolation and characterization of Bacopa monnieri (L.) Wettst-derived nanovesicles with anti-neuroblastoma potential.",
+        "summary": "Plant-derived nanovesicles from Bacopa monnieri effectively suppress neuroblastoma cell growth through free radical scavenging.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42204341/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-28"
+      },
+      {
+        "id": "recB5l2ycdnn3Z4X4",
+        "title": "Nuclear OXCT1 attenuates histone β-hydroxybutyrylation-mediated MHC-I transcription.",
+        "summary": "Nuclear OXCT1 suppresses immune genes in hepatocellular carcinoma, reducing immunotherapy effectiveness; blocking this pathway with ketogenic diet restores treatment response.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42204309/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-28"
+      },
+      {
+        "id": "recU0fDCEkz4GqYWh",
+        "title": "Open-channel block of human TRPV6 by polyamine spermine.",
+        "summary": "Spermine blocks the TRPV6 calcium channel by binding inside its pore, revealing a potential target for treating diseases where this channel is overactive.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42204171/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-28"
+      },
+      {
+        "id": "recgRRW0mzBGvIvIR",
+        "title": "Inhibition of RNA polymerase II-activating CDK9 and CDK12/13, but not of cell cycle relevant CDKs, induces apoptosis by downregulating the short-lived Bcl-2 proteins Mcl1 and Bfl1/A1.",
+        "summary": "Blocking CDK9 and CDK12/13 kills leukemia and lymphoma cells by reducing anti-apoptotic proteins Mcl1 and Bfl1, offering a promising new cancer treatment approach.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42204137/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia",
+          "Lymphoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-28"
+      },
+      {
+        "id": "rec3FhLkLXHKKMrqa",
+        "title": "Autophagy-centered gene networks reveal prognostic biomarkers and therapeutic targets in esophageal cancer.",
+        "summary": "Researchers identified three autophagy genes (ATG4A, GABARAPL2, GAPDH) as prognostic markers and potential drug targets in esophageal cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42204123/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-28"
+      },
+      {
         "id": "reckbc2w5o4GiMWNv",
         "title": "Improving Uptake of Bowel Cancer Screening Among South Asian Adults in Bradford",
         "summary": "A culturally tailored bowel cancer screening kit may increase screening uptake among South Asian adults in Bradford.",
@@ -481,163 +636,6 @@
         "quality_score": 10,
         "pub_date": "2026-05-26",
         "added_date": "2026-05-27"
-      },
-      {
-        "id": "receeSxZr5Tr7NqlE",
-        "title": "A Phase 1a/b Study to Investigate the Safety, Tolerability, Pharmacokinetics, Pharmacodynamics, and Preliminary Antitumor Activity of BG-C0902, an Antibody-Drug Conjugate Targeting Epidermal Growth Factor Receptor (EGFR) × Mesenchymal-Epithelial Transition (MET), Alone and in Combination With Other Therapeutic Agents in Patients With Advanced Solid Tumors",
-        "summary": "BG-C0902, a new antibody-drug combination targeting two cancer proteins, is being tested for safety and effectiveness in advanced solid tumors.",
-        "url": "https://clinicaltrials.gov/study/NCT07181681",
-        "source": "ClinicalTrials.gov",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
-        "pub_date": "2026-05-26",
-        "added_date": "2026-05-27"
-      },
-      {
-        "id": "recQwHe5vFV74o8jI",
-        "title": "an AI-Driven Four-Tier Invasion Depth Classification for Early Esophageal Cancer",
-        "summary": "AI system accurately classifies invasion depth in early esophageal cancer using preoperative endoscopic imaging to guide treatment.",
-        "url": "https://clinicaltrials.gov/study/NCT07605663",
-        "source": "ClinicalTrials.gov",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
-        "pub_date": "2026-05-26",
-        "added_date": "2026-05-27"
-      },
-      {
-        "id": "recizd9Rtpsv4UKvQ",
-        "title": "A Randomized, Double-blind, Placebo-controlled Phase 3 Study to Evaluate Dostarlimab as Sequential Therapy After Chemoradiation in Participants With Locally Advanced Unresected Head and Neck Squamous Cell Carcinoma",
-        "summary": "Dostarlimab, given after chemotherapy and radiation, is being tested to improve survival in advanced head and neck cancer patients.",
-        "url": "https://clinicaltrials.gov/study/NCT06256588",
-        "source": "ClinicalTrials.gov",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
-        "pub_date": "2026-05-26",
-        "added_date": "2026-05-27"
-      },
-      {
-        "id": "rectWiICMzfifkLxw",
-        "title": "Prospective Pilot Study of Salivary Bile Acids and Pepsin as Predictive Biomarkers of Reflux Disease and Esophageal Injury After Sleeve Gastrectomy",
-        "summary": "Researchers are testing whether saliva bile acids and pepsin can predict esophageal injury and Barrett's esophagus after sleeve gastrectomy weight loss surgery.",
-        "url": "https://clinicaltrials.gov/study/NCT07607067",
-        "source": "ClinicalTrials.gov",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
-        "pub_date": "2026-05-26",
-        "added_date": "2026-05-27"
-      },
-      {
-        "id": "rec22PpXE1gpUTQTV",
-        "title": "A Phase I Clinical Study to Evaluate the Safety, Tolerability, Pharmacokinetic Characteristics and Preliminary Efficacy of SI-B036 Bispecific Antibody Injection in Patients With Locally Advanced or Metastatic Solid Tumors",
-        "summary": "A Phase I trial tests SI-B036, a new bispecific antibody, for safety and effectiveness in advanced solid tumor patients.",
-        "url": "https://clinicaltrials.gov/study/NCT07606612",
-        "source": "ClinicalTrials.gov",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
-        "pub_date": "2026-05-26",
-        "added_date": "2026-05-27"
-      },
-      {
-        "id": "recIfnMjTDuoCEj7Z",
-        "title": "Evaluating an Evidence-Based Family History Screening Program Adapted to Increase Reach and Uptake of Screening for BRCA-Associated Cancers in Rural Public Health Clinics",
-        "summary": "Study adapts family history screening program to increase BRCA genetic testing uptake among rural women in Georgia public health clinics.",
-        "url": "https://clinicaltrials.gov/study/NCT06760507",
-        "source": "ClinicalTrials.gov",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
-        "pub_date": "2026-05-26",
-        "added_date": "2026-05-27"
-      },
-      {
-        "id": "recX5NxhGlKV9ESra",
-        "title": "A Phase 3, Open-label, Multicenter, Randomized Trial of Trastuzumab Deruxtecan With Bevacizumab Versus Bevacizumab Monotherapy as First-line Maintenance Therapy in HER2-Expressing Ovarian Cancer (DESTINY-Ovarian01/ENGOT-ov89/GEICO144- O/GOG-3112/APGOT-OV13)",
-        "summary": "A drug combination of trastuzumab deruxtecan and bevacizumab improved outcomes versus bevacizumab alone as first-line maintenance therapy for HER2-expressing advanced ovarian cancer.",
-        "url": "https://clinicaltrials.gov/study/NCT06819007",
-        "source": "ClinicalTrials.gov",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Ovarian"
-        ],
-        "quality_score": 13,
-        "pub_date": "2026-05-26",
-        "added_date": "2026-05-27"
-      },
-      {
-        "id": "rec3FKqDMYnQWo0tC",
-        "title": "Follow-up of a French National Cohort of Patients With Cutaneous Squamous Cell Carcinoma Requiring Systemic Treatment.",
-        "summary": "French researchers are tracking long-term outcomes and safety of systemic treatments in advanced skin squamous cell carcinoma patients.",
-        "url": "https://clinicaltrials.gov/study/NCT07606508",
-        "source": "ClinicalTrials.gov",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
-        "pub_date": "2026-05-26",
-        "added_date": "2026-05-27"
-      },
-      {
-        "id": "rec8tPx4w8JwyW2mI",
-        "title": "A Phase II, Multi-Center Study to Evaluate the Efficacy and Safety of Volrustomig as Monotherapy or in Combination With Anti-cancer Agents in Participants With Advanced/Metastatic Solid Tumors",
-        "summary": "A clinical trial is testing volrustomig, alone or combined with other cancer drugs, in patients with advanced solid tumors.",
-        "url": "https://clinicaltrials.gov/study/NCT06535607",
-        "source": "ClinicalTrials.gov",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
-        "pub_date": "2026-05-26",
-        "added_date": "2026-05-27"
-      },
-      {
-        "id": "rectWdGYmkm1Lrto4",
-        "title": "A Seamless Phase 1/2 Study to Evaluate the Safety and Efficacy of Mesothelin-Targeting Autologous Logic-gated Tmod™ CAR T Products, in Heterozygous HLA-A*02 Adults With Recurrent Unresectable, Locally Advanced, or Metastatic Solid Tumors That Express MSLN and Have Lost HLA-A*02 Expression",
-        "summary": "Study tests engineered CAR T cells targeting mesothelin in solid tumors including colorectal, pancreatic, and lung cancer.",
-        "url": "https://clinicaltrials.gov/study/NCT06051695",
-        "source": "ClinicalTrials.gov",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Lung",
-          "Colorectal",
-          "Pancreatic",
-          "Ovarian"
-        ],
-        "quality_score": 19,
-        "pub_date": "2026-05-26",
-        "added_date": "2026-05-27"
-      },
-      {
-        "id": "rec91E87W5FEZCyhX",
-        "title": "A Phase III, Randomized Clinical Trial of Standard Adjuvant Endocrine Therapy +/- Chemotherapy in Patients With 1-3 Positive Nodes, Hormone Receptor-Positive and HER2-Negative Breast Cancer With Recurrence Score (RS) of 25 or Less. RxPONDER: A Clinical Trial Rx for Positive Node, Endocrine Responsive Breast Cancer",
-        "summary": "Hormone therapy alone works as well as hormone therapy plus chemotherapy for early-stage hormone-responsive breast cancer with low recurrence risk.",
-        "url": "https://clinicaltrials.gov/study/NCT01272037",
-        "source": "ClinicalTrials.gov",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 27,
-        "pub_date": "2026-05-26",
-        "added_date": "2026-05-27"
       }
     ],
     "trials": [
@@ -652,6 +650,35 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-28"
+      },
+      {
+        "id": "recsWw06M3kfpvIR5",
+        "title": "New paradigm in robotic partial nephrectomy: planned outpatient surgery in all patients.",
+        "summary": "Experienced surgeons can safely perform robotic kidney cancer surgery as planned outpatient procedures with same-day discharge in all patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42204054/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-28"
+      },
+      {
+        "id": "recgRRW0mzBGvIvIR",
+        "title": "Inhibition of RNA polymerase II-activating CDK9 and CDK12/13, but not of cell cycle relevant CDKs, induces apoptosis by downregulating the short-lived Bcl-2 proteins Mcl1 and Bfl1/A1.",
+        "summary": "Blocking CDK9 and CDK12/13 kills leukemia and lymphoma cells by reducing anti-apoptotic proteins Mcl1 and Bfl1, offering a promising new cancer treatment approach.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42204137/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia",
+          "Lymphoma"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-28"
       },
@@ -822,34 +849,6 @@
         "quality_score": 13,
         "pub_date": "2026-05-26",
         "added_date": "2026-05-27"
-      },
-      {
-        "id": "recizd9Rtpsv4UKvQ",
-        "title": "A Randomized, Double-blind, Placebo-controlled Phase 3 Study to Evaluate Dostarlimab as Sequential Therapy After Chemoradiation in Participants With Locally Advanced Unresected Head and Neck Squamous Cell Carcinoma",
-        "summary": "Dostarlimab, given after chemotherapy and radiation, is being tested to improve survival in advanced head and neck cancer patients.",
-        "url": "https://clinicaltrials.gov/study/NCT06256588",
-        "source": "ClinicalTrials.gov",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
-        "pub_date": "2026-05-26",
-        "added_date": "2026-05-27"
-      },
-      {
-        "id": "recfE4M1gYgPM6HLx",
-        "title": "Functional Radiosurgery for Easing or Eliminating Debilitating Oncologic Morbidity (FREEDOM)",
-        "summary": "Radiosurgery targeting the pituitary gland and thalamus aims to relieve severe cancer pain unresponsive to opioids and other treatments.",
-        "url": "https://clinicaltrials.gov/study/NCT07605546",
-        "source": "ClinicalTrials.gov",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
-        "pub_date": "2026-05-26",
-        "added_date": "2026-05-27"
       }
     ],
     "mind_body": []
@@ -861,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25691,
+    "archive_count": 25692,
     "archive_supplements": 2724,
     "archive_off_label": 840,
-    "archive_biomarkers": 16057,
+    "archive_biomarkers": 16058,
     "archive_trials": 5336,
     "archive_mind_body": 442
   }
