@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-28T09:07:46.563Z",
+  "last_updated": "2026-05-28T11:29:48.733Z",
   "categories": {
     "supplements": [
       {
@@ -355,6 +355,20 @@
         "added_date": "2026-05-28"
       },
       {
+        "id": "recg5ofYnGHLr1O2H",
+        "title": "Histone quality control by prokaryotic ClpP/ClpR regulates the eukaryotic mitotic cell cycle in malaria parasites",
+        "summary": "Blocking fatty acid import triggers histone degradation in malaria parasites and cancer cells, preventing cell division through a bacterial-like protein-cutting mechanism.",
+        "url": "https://www.biorxiv.org/content/10.64898/2026.05.13.718385",
+        "source": "bioRxiv",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 9,
+        "pub_date": "2026-05-14",
+        "added_date": "2026-05-28"
+      },
+      {
         "id": "recMdmLWkPdzKyt8y",
         "title": "YK-4-250 mitigates gastrointestinal radiation syndrome and promotes overall survival following partial body radiation injury.",
         "summary": "YK-4-250 drug improves survival and gut function in mice exposed to lethal radiation doses by blocking harmful inflammatory signals and reducing oxidative damage.",
@@ -407,20 +421,6 @@
           "Colorectal"
         ],
         "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-27"
-      },
-      {
-        "id": "recRvpIT7oXhGdXTz",
-        "title": "In silico discovery of novel small-molecule PD-L1 inhibitors through a multi-stage computational workflow integrating machine learning and molecular dynamics.",
-        "summary": "Researchers used artificial intelligence and computer simulations to discover a new drug candidate that could block PD-L1 and treat cancer immunotherapy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42185552/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-27"
       }
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25878,
+    "archive_count": 25879,
     "archive_supplements": 2767,
     "archive_off_label": 848,
-    "archive_biomarkers": 16151,
+    "archive_biomarkers": 16152,
     "archive_trials": 5378,
     "archive_mind_body": 442
   }
