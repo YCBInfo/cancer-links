@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-28T06:05:41.845Z",
+  "last_updated": "2026-05-28T06:05:52.428Z",
   "categories": {
     "supplements": [
       {
@@ -63,6 +63,20 @@
         "title": "Gut microbial metabolites for potentiating cancer therapy.",
         "summary": "Boosting beneficial gut bacteria metabolites through prebiotics and probiotics may enhance cancer treatment effectiveness across multiple cancer types.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42203551/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-28"
+      },
+      {
+        "id": "recoktwws6h7mgR71",
+        "title": "Gut microbiota and cancer immunotherapy: from dysbiosis to personalized immune checkpoint blockade optimization.",
+        "summary": "Modifying gut bacteria through transplants or diet can improve cancer immunotherapy response by enhancing the immune system's tumor-fighting ability.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42201625/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -189,20 +203,6 @@
         "title": "Modulation of Oxidative Stress, Inflammatory Cytokines, and Mucosal Immunity by Green Synthesized Zinc Nanoparticles in Giardia Infection in Mice.",
         "summary": "Green-synthesized zinc nanoparticles show promise as an alternative treatment for giardia infections, potentially reducing side effects compared to standard drugs.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42184062/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-26"
-      },
-      {
-        "id": "recPbaCIUAglNBWef",
-        "title": "Exploring the immunomodulatory mechanisms of Astragalus membranaceus in esophageal cancer treatment through network pharmacology, molecular docking, and molecular dynamics simulation.",
-        "summary": "Astragalus membranaceus, a traditional herb, targets multiple immune pathways in esophageal cancer through compounds like isorhamnetin, offering new treatment possibilities.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42184060/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -781,6 +781,20 @@
         "added_date": "2026-05-28"
       },
       {
+        "id": "recoktwws6h7mgR71",
+        "title": "Gut microbiota and cancer immunotherapy: from dysbiosis to personalized immune checkpoint blockade optimization.",
+        "summary": "Modifying gut bacteria through transplants or diet can improve cancer immunotherapy response by enhancing the immune system's tumor-fighting ability.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42201625/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-28"
+      },
+      {
         "id": "recHg7dfCNcKDOpOj",
         "title": "Exploring Oncology Referral Practices for Complementary and Alternative Medicine: A Scoping Review.",
         "summary": "Oncologists rarely refer cancer patients to complementary therapies, despite growing patient interest in these alternative treatments.",
@@ -835,20 +849,6 @@
         "quality_score": 13,
         "pub_date": "2026-05-26",
         "added_date": "2026-05-27"
-      },
-      {
-        "id": "reczVWrkDFSzqlB7A",
-        "title": "PARa-aOrtic LymphAdenectomy in Locally Advanced Cervical Cancer",
-        "summary": "Study tests whether removing para-aortic lymph nodes before chemoradiation improves survival in stage IIIC1 cervical cancer patients.",
-        "url": "https://clinicaltrials.gov/study/NCT05581121",
-        "source": "ClinicalTrials.gov",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 24,
-        "pub_date": "2026-05-26",
-        "added_date": "2026-05-27"
       }
     ],
     "mind_body": []
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25704,
+    "archive_count": 25705,
     "archive_supplements": 2727,
     "archive_off_label": 841,
-    "archive_biomarkers": 16065,
+    "archive_biomarkers": 16066,
     "archive_trials": 5337,
     "archive_mind_body": 442
   }
