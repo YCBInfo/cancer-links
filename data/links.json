@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-27T11:33:02.455Z",
+  "last_updated": "2026-05-28T02:34:50.090Z",
   "categories": {
     "supplements": [
       {
@@ -642,6 +642,20 @@
     ],
     "trials": [
       {
+        "id": "recG4jj91KMDZOINl",
+        "title": "Structured yoga program as supportive care to enhance quality of life in head and neck cancer patients undergoing radiotherapy: a prospective matched controlled study.",
+        "summary": "A structured yoga program improved quality of life in head and neck cancer patients undergoing radiotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42201419/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-28"
+      },
+      {
         "id": "recHg7dfCNcKDOpOj",
         "title": "Exploring Oncology Referral Practices for Complementary and Alternative Medicine: A Scoping Review.",
         "summary": "Oncologists rarely refer cancer patients to complementary therapies, despite growing patient interest in these alternative treatments.",
@@ -836,20 +850,6 @@
         "quality_score": 10,
         "pub_date": "2026-05-26",
         "added_date": "2026-05-27"
-      },
-      {
-        "id": "rec22PpXE1gpUTQTV",
-        "title": "A Phase I Clinical Study to Evaluate the Safety, Tolerability, Pharmacokinetic Characteristics and Preliminary Efficacy of SI-B036 Bispecific Antibody Injection in Patients With Locally Advanced or Metastatic Solid Tumors",
-        "summary": "A Phase I trial tests SI-B036, a new bispecific antibody, for safety and effectiveness in advanced solid tumor patients.",
-        "url": "https://clinicaltrials.gov/study/NCT07606612",
-        "source": "ClinicalTrials.gov",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
-        "pub_date": "2026-05-26",
-        "added_date": "2026-05-27"
       }
     ],
     "mind_body": []
@@ -861,11 +861,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25690,
+    "archive_count": 25691,
     "archive_supplements": 2724,
     "archive_off_label": 840,
     "archive_biomarkers": 16057,
-    "archive_trials": 5335,
+    "archive_trials": 5336,
     "archive_mind_body": 442
   }
 }
