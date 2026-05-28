@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-28T06:15:39.290Z",
+  "last_updated": "2026-05-28T06:15:53.172Z",
   "categories": {
     "supplements": [
       {
@@ -243,6 +243,20 @@
         "added_date": "2026-05-28"
       },
       {
+        "id": "rec8brRWsRTJDxm4v",
+        "title": "Dual targeting of glutamine metabolism and lysosomal function in eliminating drug-tolerant KRAS-mutant cancer cells.",
+        "summary": "Combining glutamine and lysosome inhibitors eliminates drug-resistant KRAS-mutant pancreatic and lung cancer cells that survive initial treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42191797/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-28"
+      },
+      {
         "id": "recMdmLWkPdzKyt8y",
         "title": "YK-4-250 mitigates gastrointestinal radiation syndrome and promotes overall survival following partial body radiation injury.",
         "summary": "YK-4-250 drug improves survival and gut function in mice exposed to lethal radiation doses by blocking harmful inflammatory signals and reducing oxidative damage.",
@@ -407,20 +421,6 @@
           "Breast"
         ],
         "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-26"
-      },
-      {
-        "id": "recu71lykWAqjhrzp",
-        "title": "Glucagon-Like Peptide 1 Receptor Agonists are Associated With Reduced Risk of Hepatic Encephalopathy in Cirrhosis.",
-        "summary": "GLP-1 receptor agonists, used for weight loss, reduced hepatic encephalopathy risk in cirrhosis patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42183591/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-26"
       }
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25758,
+    "archive_count": 25759,
     "archive_supplements": 2743,
     "archive_off_label": 842,
-    "archive_biomarkers": 16097,
+    "archive_biomarkers": 16098,
     "archive_trials": 5342,
     "archive_mind_body": 442
   }
