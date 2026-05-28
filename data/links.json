@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-28T09:04:39.602Z",
+  "last_updated": "2026-05-28T09:04:50.858Z",
   "categories": {
     "supplements": [
       {
@@ -341,6 +341,20 @@
         "added_date": "2026-05-28"
       },
       {
+        "id": "rec7USyFSbAWXgZxW",
+        "title": "Angiotensin inhibitors during neoadjuvant chemotherapy improve esophageal squamous cell carcinoma outcomes.",
+        "summary": "Adding angiotensin inhibitors to chemotherapy improves treatment outcomes for esophageal squamous cell carcinoma patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42199486/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-28"
+      },
+      {
         "id": "recMdmLWkPdzKyt8y",
         "title": "YK-4-250 mitigates gastrointestinal radiation syndrome and promotes overall survival following partial body radiation injury.",
         "summary": "YK-4-250 drug improves survival and gut function in mice exposed to lethal radiation doses by blocking harmful inflammatory signals and reducing oxidative damage.",
@@ -401,20 +415,6 @@
         "title": "In silico discovery of novel small-molecule PD-L1 inhibitors through a multi-stage computational workflow integrating machine learning and molecular dynamics.",
         "summary": "Researchers used artificial intelligence and computer simulations to discover a new drug candidate that could block PD-L1 and treat cancer immunotherapy.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42185552/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-27"
-      },
-      {
-        "id": "recIVbpTEtvVyiJnO",
-        "title": "Identification of drug repurposing candidates for the treatment of polycystic kidney disease.",
-        "summary": "Researchers identified existing drugs that could be repurposed to treat polycystic kidney disease, offering new treatment options for this serious condition.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42184822/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -860,11 +860,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25865,
+    "archive_count": 25866,
     "archive_supplements": 2764,
     "archive_off_label": 844,
     "archive_biomarkers": 16149,
-    "archive_trials": 5374,
+    "archive_trials": 5375,
     "archive_mind_body": 442
   }
 }
