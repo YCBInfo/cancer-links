@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-29T04:27:38.953Z",
+  "last_updated": "2026-05-29T04:27:51.474Z",
   "categories": {
     "supplements": [
       {
@@ -299,6 +299,20 @@
         "added_date": "2026-05-29"
       },
       {
+        "id": "recXtniAjZ0uyV35n",
+        "title": "tRF-1432 orchestrates RBMS1-IMPDH2 regulatory control to drive purine-dependent chemoresistance in breast cancer.",
+        "summary": "tRF-1432 promotes breast cancer chemoresistance by boosting purine metabolism, and blocking this pathway with an FDA-approved drug reverses drug resistance.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41791644/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-05-29"
+      },
+      {
         "id": "rec6yrOYiXCALdWTs",
         "title": "Exploring Synergistic Potential of Sorafenib and Atorvastatin to Launch Apoptosis and Ferroptosis-driven Mixed Cell Death Mechanism in Colorectal Cancer.",
         "summary": "Combining sorafenib and atorvastatin triggers dual cell death in colorectal cancer cells, achieving 80% tumor reduction but requiring safer delivery methods.",
@@ -401,20 +415,6 @@
         "title": "Breaking bone-associated tumor vicious cycle through macrophage membrane-camouflaged nanodecoys for sonodynamic/epigenetic therapeutics of oral squamous cell carcinoma.",
         "summary": "Researchers developed a nanoparticle wrapped in immune cell membranes to treat oral cancer and prevent jaw bone invasion using two repurposed drugs.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42192429/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-28"
-      },
-      {
-        "id": "recEQ7MTDISVZK1C9",
-        "title": "Guidance on JAK inhibitor treatment for inborn errors of JAK-STAT signaling (2026). An international consensus statement on behalf of the ESID/EBMT-IEWP and ERN-RITA.",
-        "summary": "JAK inhibitors show promise for treating rare immune disorders caused by JAK-STAT pathway problems, but treatment guidelines are needed.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42203177/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -858,8 +858,8 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 26014,
-    "archive_supplements": 2771,
+    "archive_count": 26015,
+    "archive_supplements": 2772,
     "archive_off_label": 853,
     "archive_biomarkers": 16267,
     "archive_trials": 5389,
