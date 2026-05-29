@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-29T04:24:09.869Z",
+  "last_updated": "2026-05-29T04:24:24.082Z",
   "categories": {
     "supplements": [
       {
@@ -285,6 +285,20 @@
         "added_date": "2026-05-29"
       },
       {
+        "id": "recZ6XNAqmZnlYZYq",
+        "title": "Polypharmacologic phosphoinositide modulation by FTY720 triggers endomembrane trafficking collapse and metabolic starvation in cancer cells.",
+        "summary": "FTY720 kills cancer cells by disrupting nutrient transport, causing metabolic starvation even in nutrient-rich environments.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41924780/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-05-29"
+      },
+      {
         "id": "rec6yrOYiXCALdWTs",
         "title": "Exploring Synergistic Potential of Sorafenib and Atorvastatin to Launch Apoptosis and Ferroptosis-driven Mixed Cell Death Mechanism in Colorectal Cancer.",
         "summary": "Combining sorafenib and atorvastatin triggers dual cell death in colorectal cancer cells, achieving 80% tumor reduction but requiring safer delivery methods.",
@@ -401,20 +415,6 @@
         "title": "Guidance on JAK inhibitor treatment for inborn errors of JAK-STAT signaling (2026). An international consensus statement on behalf of the ESID/EBMT-IEWP and ERN-RITA.",
         "summary": "JAK inhibitors show promise for treating rare immune disorders caused by JAK-STAT pathway problems, but treatment guidelines are needed.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42203177/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-28"
-      },
-      {
-        "id": "rec7USyFSbAWXgZxW",
-        "title": "Angiotensin inhibitors during neoadjuvant chemotherapy improve esophageal squamous cell carcinoma outcomes.",
-        "summary": "Adding angiotensin inhibitors to chemotherapy improves treatment outcomes for esophageal squamous cell carcinoma patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42199486/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -858,10 +858,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25996,
+    "archive_count": 25997,
     "archive_supplements": 2771,
     "archive_off_label": 850,
-    "archive_biomarkers": 16252,
+    "archive_biomarkers": 16253,
     "archive_trials": 5389,
     "archive_mind_body": 442
   }
