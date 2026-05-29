@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-29T04:08:33.524Z",
+  "last_updated": "2026-05-29T04:08:58.478Z",
   "categories": {
     "supplements": [
       {
@@ -229,6 +229,20 @@
         "added_date": "2026-05-29"
       },
       {
+        "id": "recRqG1WCAzUotXaA",
+        "title": "Bilateral temporal arteritis with multiorgan eosinophilic infiltration treated with IL-5 targeted antibody.",
+        "summary": "IL-5 antibody treatment achieved sustained remission in a patient with rare eosinophilic temporal arteritis resistant to steroids and methotrexate.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42207305/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-29"
+      },
+      {
         "id": "rec6yrOYiXCALdWTs",
         "title": "Exploring Synergistic Potential of Sorafenib and Atorvastatin to Launch Apoptosis and Ferroptosis-driven Mixed Cell Death Mechanism in Colorectal Cancer.",
         "summary": "Combining sorafenib and atorvastatin triggers dual cell death in colorectal cancer cells, achieving 80% tumor reduction but requiring safer delivery methods.",
@@ -407,20 +421,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-27"
-      },
-      {
-        "id": "recFvYxkaMJe4tQIj",
-        "title": "A sweet danger: the silent link between hyperinsulinemia and gastric cancer.",
-        "summary": "High insulin levels increase gastric cancer risk and progression, but metformin treatment significantly reduces cancer recurrence and mortality.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42185920/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Stomach"
-        ],
-        "quality_score": 25,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-27"
       }
@@ -858,10 +858,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25913,
+    "archive_count": 25914,
     "archive_supplements": 2767,
     "archive_off_label": 848,
-    "archive_biomarkers": 16182,
+    "archive_biomarkers": 16183,
     "archive_trials": 5382,
     "archive_mind_body": 442
   }
