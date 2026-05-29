@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-29T04:23:29.525Z",
+  "last_updated": "2026-05-29T04:23:38.049Z",
   "categories": {
     "supplements": [
       {
@@ -257,6 +257,20 @@
         "added_date": "2026-05-29"
       },
       {
+        "id": "recHX9e7q2FgphOb9",
+        "title": "Elotuzumab enhances the anti-tumor activity of Vγ9Vδ2 T cells against primary effusion lymphoma.",
+        "summary": "Elotuzumab enhances immune T cells to kill primary effusion lymphoma cells, suggesting a new combination treatment approach.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42081990/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Lymphoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-29"
+      },
+      {
         "id": "rec6yrOYiXCALdWTs",
         "title": "Exploring Synergistic Potential of Sorafenib and Atorvastatin to Launch Apoptosis and Ferroptosis-driven Mixed Cell Death Mechanism in Colorectal Cancer.",
         "summary": "Combining sorafenib and atorvastatin triggers dual cell death in colorectal cancer cells, achieving 80% tumor reduction but requiring safer delivery methods.",
@@ -409,20 +423,6 @@
         "quality_score": 9,
         "pub_date": "2026-05-14",
         "added_date": "2026-05-28"
-      },
-      {
-        "id": "recMdmLWkPdzKyt8y",
-        "title": "YK-4-250 mitigates gastrointestinal radiation syndrome and promotes overall survival following partial body radiation injury.",
-        "summary": "YK-4-250 drug improves survival and gut function in mice exposed to lethal radiation doses by blocking harmful inflammatory signals and reducing oxidative damage.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42192183/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-27"
       }
     ],
     "biomarkers": [
@@ -858,10 +858,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25992,
+    "archive_count": 25993,
     "archive_supplements": 2771,
     "archive_off_label": 850,
-    "archive_biomarkers": 16248,
+    "archive_biomarkers": 16249,
     "archive_trials": 5389,
     "archive_mind_body": 442
   }
