@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-29T04:16:04.947Z",
+  "last_updated": "2026-05-29T04:16:16.159Z",
   "categories": {
     "supplements": [
       {
@@ -243,6 +243,20 @@
         "added_date": "2026-05-29"
       },
       {
+        "id": "rec8noSOJiAeb3ysT",
+        "title": "Epigenetic Silencing of RFX7 Defines a Transcriptional Axis Linking Lactate Metabolism to Immune Checkpoint Therapy in Glioblastoma.",
+        "summary": "Restoring RFX7 in glioblastoma reduces lactate production and improves immunotherapy response by suppressing immune-suppressive signals.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42206447/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-29"
+      },
+      {
         "id": "rec6yrOYiXCALdWTs",
         "title": "Exploring Synergistic Potential of Sorafenib and Atorvastatin to Launch Apoptosis and Ferroptosis-driven Mixed Cell Death Mechanism in Colorectal Cancer.",
         "summary": "Combining sorafenib and atorvastatin triggers dual cell death in colorectal cancer cells, achieving 80% tumor reduction but requiring safer delivery methods.",
@@ -401,20 +415,6 @@
         "title": "YK-4-250 mitigates gastrointestinal radiation syndrome and promotes overall survival following partial body radiation injury.",
         "summary": "YK-4-250 drug improves survival and gut function in mice exposed to lethal radiation doses by blocking harmful inflammatory signals and reducing oxidative damage.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42192183/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-27"
-      },
-      {
-        "id": "recG8Gk0y2AcDP3O3",
-        "title": "AI-driven multi-omics drug repurposing nominates AZD7762 as a multitarget inhibitor of IL22RA1 and FAM221A in esophageal squamous cell carcinoma.",
-        "summary": "AI analysis identified AZD7762 as a promising repurposed drug targeting two key genes that drive esophageal squamous cell carcinoma growth.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42191940/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -858,10 +858,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25953,
+    "archive_count": 25954,
     "archive_supplements": 2769,
     "archive_off_label": 850,
-    "archive_biomarkers": 16215,
+    "archive_biomarkers": 16216,
     "archive_trials": 5385,
     "archive_mind_body": 442
   }
