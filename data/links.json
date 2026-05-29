@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-29T04:07:13.640Z",
+  "last_updated": "2026-05-29T04:07:24.974Z",
   "categories": {
     "supplements": [
       {
@@ -215,6 +215,20 @@
     ],
     "off_label": [
       {
+        "id": "recpyGyQKKarfPN6D",
+        "title": "Development of metformin-encapsulated poly(lactic-co-glycolic acid)-polyethylene glycol nanoparticles.",
+        "summary": "Researchers developed nanoparticles carrying metformin to treat thyroid cancer with potentially fewer side effects than conventional therapies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42207379/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Thyroid"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-29"
+      },
+      {
         "id": "rec6yrOYiXCALdWTs",
         "title": "Exploring Synergistic Potential of Sorafenib and Atorvastatin to Launch Apoptosis and Ferroptosis-driven Mixed Cell Death Mechanism in Colorectal Cancer.",
         "summary": "Combining sorafenib and atorvastatin triggers dual cell death in colorectal cancer cells, achieving 80% tumor reduction but requiring safer delivery methods.",
@@ -407,20 +421,6 @@
           "Stomach"
         ],
         "quality_score": 25,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-27"
-      },
-      {
-        "id": "recgxSeIVtsyt12GY",
-        "title": "Penfluridol directly targets PDPK1 to suppress AKT1 phosphorylation and stabilize CTR1, inducing cuproptosis in colorectal cancer.",
-        "summary": "Penfluridol, an antipsychotic drug, kills colorectal cancer cells by blocking a protein that allows copper buildup inside tumor cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42185682/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-27"
       }
@@ -859,11 +859,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25906,
+    "archive_count": 25907,
     "archive_supplements": 2767,
     "archive_off_label": 848,
     "archive_biomarkers": 16176,
-    "archive_trials": 5381,
+    "archive_trials": 5382,
     "archive_mind_body": 442
   }
 }
