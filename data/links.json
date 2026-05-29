@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-29T06:05:01.258Z",
+  "last_updated": "2026-05-29T06:05:12.465Z",
   "categories": {
     "supplements": [
       {
@@ -328,6 +328,20 @@
         "added_date": "2026-05-29"
       },
       {
+        "id": "rechUBU2sKAZFz4XF",
+        "title": "Redefining the role of the thiol-based agent N-acetylcysteine in human health and disease and elucidating potential advantages of its amide derivative.",
+        "summary": "N-acetylcysteine and its derivative NACA modulate cellular redox biology with potential therapeutic benefits across multiple diseases including cancer immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41953516/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-29"
+      },
+      {
         "id": "rec6yrOYiXCALdWTs",
         "title": "Exploring Synergistic Potential of Sorafenib and Atorvastatin to Launch Apoptosis and Ferroptosis-driven Mixed Cell Death Mechanism in Colorectal Cancer.",
         "summary": "Combining sorafenib and atorvastatin triggers dual cell death in colorectal cancer cells, achieving 80% tumor reduction but requiring safer delivery methods.",
@@ -406,20 +420,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-28"
-      },
-      {
-        "id": "recuPkKC4ZswUlKGN",
-        "title": "Integrated Bioinformatics and Structural Assessment Suggest Doxycycline as a Potential Candidate Targeting MMP7 in Lung Cancer and SSc-Associated ILD.",
-        "summary": "Doxycycline may target MMP7 protein to treat lung cancer and a lung disease associated with systemic sclerosis.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42201688/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 26100,
+    "archive_count": 26101,
     "archive_supplements": 2778,
     "archive_off_label": 853,
-    "archive_biomarkers": 16339,
+    "archive_biomarkers": 16340,
     "archive_trials": 5396,
     "archive_mind_body": 442
   }
