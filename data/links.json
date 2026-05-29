@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-28T11:33:11.314Z",
+  "last_updated": "2026-05-29T02:34:47.629Z",
   "categories": {
     "supplements": [
       {
@@ -640,6 +640,20 @@
     ],
     "trials": [
       {
+        "id": "recKzD9oRj3JY930m",
+        "title": "An integrative literature review to develop a conceptual framework for spiritual nursing care in pediatric oncology.",
+        "summary": "Spiritual support significantly affects children with cancer's emotional health and treatment outcomes, but remains inconsistently provided in pediatric oncology settings.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42204486/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-29"
+      },
+      {
         "id": "recG4jj91KMDZOINl",
         "title": "Structured yoga program as supportive care to enhance quality of life in head and neck cancer patients undergoing radiotherapy: a prospective matched controlled study.",
         "summary": "A structured yoga program improved quality of life in head and neck cancer patients undergoing radiotherapy.",
@@ -835,20 +849,6 @@
         "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-28"
-      },
-      {
-        "id": "recqAizvyXVV0zfWy",
-        "title": "Membrane-Permeable Nucleoside T-1106 Diphosphate and Triphosphate Analogues as Antiviral Pronucleotides.",
-        "summary": "Modified nucleotide prodrugs improved antiviral activity against influenza and coronavirus by enabling efficient cellular delivery and activation.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42199163/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-28"
       }
     ],
     "mind_body": []
@@ -860,11 +860,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25888,
+    "archive_count": 25889,
     "archive_supplements": 2767,
     "archive_off_label": 848,
     "archive_biomarkers": 16160,
-    "archive_trials": 5379,
+    "archive_trials": 5380,
     "archive_mind_body": 442
   }
 }
