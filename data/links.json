@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-29T04:23:49.203Z",
+  "last_updated": "2026-05-29T04:23:59.346Z",
   "categories": {
     "supplements": [
       {
@@ -271,6 +271,20 @@
         "added_date": "2026-05-29"
       },
       {
+        "id": "recgVfjhYFDUiEHJQ",
+        "title": "Biologic and targeted synthetic treatment of SAPHO syndrome: systematic literature review.",
+        "summary": "SAPHO syndrome, a rare autoimmune disorder, may be effectively treated with biologic drugs used off-label, though approved therapies remain unavailable.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42059890/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-29"
+      },
+      {
         "id": "rec6yrOYiXCALdWTs",
         "title": "Exploring Synergistic Potential of Sorafenib and Atorvastatin to Launch Apoptosis and Ferroptosis-driven Mixed Cell Death Mechanism in Colorectal Cancer.",
         "summary": "Combining sorafenib and atorvastatin triggers dual cell death in colorectal cancer cells, achieving 80% tumor reduction but requiring safer delivery methods.",
@@ -408,20 +422,6 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-05-01",
-        "added_date": "2026-05-28"
-      },
-      {
-        "id": "recg5ofYnGHLr1O2H",
-        "title": "Histone quality control by prokaryotic ClpP/ClpR regulates the eukaryotic mitotic cell cycle in malaria parasites",
-        "summary": "Blocking fatty acid import triggers histone degradation in malaria parasites and cancer cells, preventing cell division through a bacterial-like protein-cutting mechanism.",
-        "url": "https://www.biorxiv.org/content/10.64898/2026.05.13.718385",
-        "source": "bioRxiv",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 9,
-        "pub_date": "2026-05-14",
         "added_date": "2026-05-28"
       }
     ],
@@ -858,10 +858,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25994,
+    "archive_count": 25995,
     "archive_supplements": 2771,
     "archive_off_label": 850,
-    "archive_biomarkers": 16250,
+    "archive_biomarkers": 16251,
     "archive_trials": 5389,
     "archive_mind_body": 442
   }
