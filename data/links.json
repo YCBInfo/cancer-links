@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-29T04:03:54.337Z",
+  "last_updated": "2026-05-29T04:04:06.507Z",
   "categories": {
     "supplements": [
       {
@@ -595,6 +595,20 @@
         "added_date": "2026-05-29"
       },
       {
+        "id": "recZ4YcTL2DVAvWCi",
+        "title": "USP39 reduces BRCA1 methylation to promote mitochondrial biogenesis and lower drug sensitivity in ovarian cancer through deubiquitinating ZC3H18.",
+        "summary": "USP39 stabilizes ZC3H18 to reduce BRCA1 methylation, boost mitochondrial function, and increase chemotherapy resistance in ovarian cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42205906/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Ovarian"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-29"
+      },
+      {
         "id": "reclTkKZ6Jby0ZQV2",
         "title": "Mitophagy in cisplatin-induced kidney injury: regulatory mechanisms and therapeutic targets.",
         "summary": "Researchers identified mitophagy as a key mechanism in cisplatin chemotherapy's kidney damage, offering potential therapeutic targets.",
@@ -619,20 +633,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-28"
-      },
-      {
-        "id": "recs0yG2LwJciiGof",
-        "title": "Multiplex gene editing enables the multibiofortification of essential vitamins and other health-promoting phytonutrients in tomato.",
-        "summary": "Scientists used gene editing to create tomatoes enriched with seven health-promoting nutrients that inhibited colorectal cancer cell growth in mice.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42201953/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-28"
       }
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25890,
+    "archive_count": 25891,
     "archive_supplements": 2767,
     "archive_off_label": 848,
-    "archive_biomarkers": 16161,
+    "archive_biomarkers": 16162,
     "archive_trials": 5380,
     "archive_mind_body": 442
   }
