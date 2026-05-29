@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-29T04:17:53.377Z",
+  "last_updated": "2026-05-29T04:18:01.559Z",
   "categories": {
     "supplements": [
       {
@@ -41,6 +41,20 @@
           "Stomach"
         ],
         "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-29"
+      },
+      {
+        "id": "reccPbXADdwgnG9KU",
+        "title": "Microbiota-derived indole derivatives as anticancer agents: mechanistic insights and major perspectives.",
+        "summary": "Gut bacteria-derived indole compounds show promise as anticancer agents by boosting immune responses and triggering cancer cell death through multiple pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42204951/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-29"
       },
@@ -193,20 +207,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Prostate"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-28"
-      },
-      {
-        "id": "recrcbHUcPIswXgsZ",
-        "title": "Mitochondrial oxidative phosphorylation inhibition by 9α,11α-dihydroxy-kaurenoic acid promotes ROS-associated apoptosis and suppresses cancer stemness in non-small cell lung cancer.",
-        "summary": "A natural plant compound kills lung cancer cells by damaging mitochondria and reducing cancer stem cell properties.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42191811/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -858,10 +858,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 25962,
+    "archive_count": 25963,
     "archive_supplements": 2769,
     "archive_off_label": 850,
-    "archive_biomarkers": 16224,
+    "archive_biomarkers": 16225,
     "archive_trials": 5385,
     "archive_mind_body": 442
   }
