@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-30T04:25:26.283Z",
+  "last_updated": "2026-05-30T04:25:37.490Z",
   "categories": {
     "supplements": [
       {
@@ -83,6 +83,20 @@
           "Liver"
         ],
         "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-30"
+      },
+      {
+        "id": "recVFgtrtET7CtxFG",
+        "title": "Label-free cell phenotypic profiling of sphingosine-1-phosphate receptor 1 and discovery of its agonist from natural products.",
+        "summary": "Researchers discovered corylin, a natural compound, as a novel S1PR1 agonist with potential therapeutic applications for autoimmune diseases and cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42209736/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-30"
       },
@@ -190,20 +204,6 @@
         "title": "Phytochemical engineering of vanadium pentoxide nanoparticles via neem extract: a sustainable platform for dual in vitro antidiabetic and anticancer activity.",
         "summary": "Neem-based vanadium nanoparticles killed cervical and breast cancer cells while showing potential antidiabetic effects.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42207413/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-29"
-      },
-      {
-        "id": "recTUCSjO8bX2ZJ2g",
-        "title": "Selenium-enriched probiotics improve growth performance in PCV2-infected weaned piglets by regulating antioxidant systems and immune responses.",
-        "summary": "Selenium-enriched probiotics improved growth, immune function, and reduced viral levels in piglets infected with porcine circovirus type 2.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42207408/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -861,10 +861,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 26283,
+    "archive_count": 26284,
     "archive_supplements": 2786,
     "archive_off_label": 858,
-    "archive_biomarkers": 16459,
+    "archive_biomarkers": 16460,
     "archive_trials": 5446,
     "archive_mind_body": 442
   }
