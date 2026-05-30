@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-30T09:04:30.347Z",
+  "last_updated": "2026-05-30T09:04:45.378Z",
   "categories": {
     "supplements": [
       {
@@ -369,6 +369,20 @@
         "added_date": "2026-05-30"
       },
       {
+        "id": "recLbByFJ5z1brqdc",
+        "title": "RGD-Functionalized ZIF-8 Nanocarriers Enable Highly Selective Delivery of Repurposed Gliclazide in Breast Cancer.",
+        "summary": "Researchers created targeted nanoparticles using an antidiabetic drug to selectively kill breast cancer cells while sparing healthy cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42212674/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-30"
+      },
+      {
         "id": "recpyGyQKKarfPN6D",
         "title": "Development of metformin-encapsulated poly(lactic-co-glycolic acid)-polyethylene glycol nanoparticles.",
         "summary": "Researchers developed nanoparticles carrying metformin to treat thyroid cancer with potentially fewer side effects than conventional therapies.",
@@ -405,20 +419,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-29"
-      },
-      {
-        "id": "recHX9e7q2FgphOb9",
-        "title": "Elotuzumab enhances the anti-tumor activity of Vγ9Vδ2 T cells against primary effusion lymphoma.",
-        "summary": "Elotuzumab enhances immune T cells to kill primary effusion lymphoma cells, suggesting a new combination treatment approach.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42081990/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Lymphoma"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 26436,
+    "archive_count": 26437,
     "archive_supplements": 2797,
     "archive_off_label": 859,
-    "archive_biomarkers": 16571,
+    "archive_biomarkers": 16572,
     "archive_trials": 5475,
     "archive_mind_body": 442
   }
