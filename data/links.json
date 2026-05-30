@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-30T09:03:52.957Z",
+  "last_updated": "2026-05-30T09:04:04.993Z",
   "categories": {
     "supplements": [
       {
@@ -341,6 +341,34 @@
         "added_date": "2026-05-30"
       },
       {
+        "id": "recqvmrjhLbRlFlYb",
+        "title": "A prototype-augmented graph representation learning framework for identifying brain disorder-associated genes and facilitating drug repurposing.",
+        "summary": "A new AI method identifies genes linked to brain disorders like Parkinson's disease and discovers potential drug treatments.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42213730/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-30"
+      },
+      {
+        "id": "reccCUqUS4SiWeyf7",
+        "title": "Statins and risk of cardiovascular disease: Emulating a primary prevention trial in breast cancer survivors.",
+        "summary": "Study evaluates whether statins reduce heart disease risk in breast cancer survivors using real-world patient data.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42213587/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-30"
+      },
+      {
         "id": "recpyGyQKKarfPN6D",
         "title": "Development of metformin-encapsulated poly(lactic-co-glycolic acid)-polyethylene glycol nanoparticles.",
         "summary": "Researchers developed nanoparticles carrying metformin to treat thyroid cancer with potentially fewer side effects than conventional therapies.",
@@ -394,34 +422,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
-        "added_date": "2026-05-29"
-      },
-      {
-        "id": "recgVfjhYFDUiEHJQ",
-        "title": "Biologic and targeted synthetic treatment of SAPHO syndrome: systematic literature review.",
-        "summary": "SAPHO syndrome, a rare autoimmune disorder, may be effectively treated with biologic drugs used off-label, though approved therapies remain unavailable.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42059890/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-29"
-      },
-      {
-        "id": "recZ6XNAqmZnlYZYq",
-        "title": "Polypharmacologic phosphoinositide modulation by FTY720 triggers endomembrane trafficking collapse and metabolic starvation in cancer cells.",
-        "summary": "FTY720 kills cancer cells by disrupting nutrient transport, causing metabolic starvation even in nutrient-rich environments.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41924780/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-04-01",
         "added_date": "2026-05-29"
       }
     ],
@@ -860,11 +860,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 26433,
+    "archive_count": 26434,
     "archive_supplements": 2797,
     "archive_off_label": 859,
     "archive_biomarkers": 16570,
-    "archive_trials": 5473,
+    "archive_trials": 5474,
     "archive_mind_body": 442
   }
 }
