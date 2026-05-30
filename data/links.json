@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-30T04:04:36.864Z",
+  "last_updated": "2026-05-30T04:04:46.589Z",
   "categories": {
     "supplements": [
       {
@@ -625,18 +625,18 @@
         "added_date": "2026-05-30"
       },
       {
-        "id": "recPdgOkPb390H3B4",
-        "title": "Diagnostic and prognostic value of lncSPATA8-AS1 in prostate cancer and its regulatory effect on tumor progression.",
-        "summary": "Researchers identified a new RNA molecule called lncSPATA8-AS1 that affects prostate cancer growth and progression.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42187002/",
+        "id": "recZc3kRQacwmmI5E",
+        "title": "Navigating Treatment Decisions in Early-Stage Hormone Receptor-Positive Breast Cancer.",
+        "summary": "Genomic assays help personalize treatment decisions in early-stage hormone receptor-positive breast cancer by identifying patients who benefit most from chemotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42208010/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
-          "Prostate"
+          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
-        "added_date": "2026-05-29"
+        "added_date": "2026-05-30"
       }
     ],
     "trials": [
@@ -706,6 +706,20 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-30"
+      },
+      {
+        "id": "recZc3kRQacwmmI5E",
+        "title": "Navigating Treatment Decisions in Early-Stage Hormone Receptor-Positive Breast Cancer.",
+        "summary": "Genomic assays help personalize treatment decisions in early-stage hormone receptor-positive breast cancer by identifying patients who benefit most from chemotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42208010/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -836,20 +850,6 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-29"
-      },
-      {
-        "id": "recvMNqjjFgm1ym8s",
-        "title": "Current patterns of next-generation sequencing testing in biliary tract cancer patients in Spain.",
-        "summary": "Spanish hospitals vary widely in using genetic sequencing to identify targeted treatments for biliary tract cancer patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42207430/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Bladder"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-29"
       }
     ],
     "mind_body": []
@@ -861,10 +861,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 26171,
+    "archive_count": 26172,
     "archive_supplements": 2783,
     "archive_off_label": 856,
-    "archive_biomarkers": 16368,
+    "archive_biomarkers": 16369,
     "archive_trials": 5430,
     "archive_mind_body": 442
   }
