@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-30T04:06:42.370Z",
+  "last_updated": "2026-05-30T04:06:53.206Z",
   "categories": {
     "supplements": [
       {
@@ -216,6 +216,20 @@
     ],
     "off_label": [
       {
+        "id": "recTIzFbTfieHmpdt",
+        "title": "Alcohol-Induced Metabolic Stress Sensed by m6A-Modified ChREBP Drives Immune Evasion in Esophageal Carcinogenesis.",
+        "summary": "Alcohol-induced changes to a protein called ChREBP help esophageal cancer cells evade the immune system, and blocking this process could prevent or treat the disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42214005/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 22,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-30"
+      },
+      {
         "id": "recpyGyQKKarfPN6D",
         "title": "Development of metformin-encapsulated poly(lactic-co-glycolic acid)-polyethylene glycol nanoparticles.",
         "summary": "Researchers developed nanoparticles carrying metformin to treat thyroid cancer with potentially fewer side effects than conventional therapies.",
@@ -408,20 +422,6 @@
           "Lung"
         ],
         "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-28"
-      },
-      {
-        "id": "recBJ75C4sOrsw92U",
-        "title": "A systematic review of pregnancy outcomes and management in polycystic ovary syndrome.",
-        "summary": "PCOS significantly increases pregnancy complications including miscarriage, gestational diabetes, and pre-eclampsia; personalized care with letrozole and metformin improves outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42202883/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 19,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-28"
       }
@@ -861,10 +861,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 26181,
+    "archive_count": 26182,
     "archive_supplements": 2783,
     "archive_off_label": 856,
-    "archive_biomarkers": 16377,
+    "archive_biomarkers": 16378,
     "archive_trials": 5431,
     "archive_mind_body": 442
   }
