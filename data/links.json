@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-30T04:15:05.344Z",
+  "last_updated": "2026-05-30T04:15:17.573Z",
   "categories": {
     "supplements": [
       {
@@ -37,6 +37,20 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/42213212/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-30"
+      },
+      {
+        "id": "rec6pMckN6kVAuw8w",
+        "title": "Cholesterol as a metabolic integrator of oncogenic signaling, immune evasion, and therapy resistance.",
+        "summary": "Cholesterol fuels tumor growth and immune evasion; targeting cholesterol metabolism may restore cancer treatment sensitivity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42213193/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
@@ -198,20 +212,6 @@
         "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-29"
-      },
-      {
-        "id": "recvzzE16UPk5QHd0",
-        "title": "Decoding the microbiome-immune crosstalk in cancer: from mechanisms to therapeutic translation.",
-        "summary": "Gut microbiome modifications through transplants and engineered bacteria enhance cancer immunotherapy effectiveness by reprogramming tumor immunity.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42204645/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-29"
       }
     ],
     "off_label": [
@@ -268,6 +268,20 @@
           "General"
         ],
         "quality_score": 28,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-30"
+      },
+      {
+        "id": "rec6pMckN6kVAuw8w",
+        "title": "Cholesterol as a metabolic integrator of oncogenic signaling, immune evasion, and therapy resistance.",
+        "summary": "Cholesterol fuels tumor growth and immune evasion; targeting cholesterol metabolism may restore cancer treatment sensitivity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42213193/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-30"
       },
@@ -408,20 +422,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-29"
-      },
-      {
-        "id": "rec0LEto4acPkTT6J",
-        "title": "A QbD optimization of a pH-responsive Eudragit S100-chitosan nanoformulation for the co-delivery of pentoxifylline and simvastatin in colorectal cancer therapy.",
-        "summary": "Researchers developed smart nanoparticles delivering two repurposed drugs to colorectal cancer cells, showing stronger cancer-killing effects than drugs alone.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42205285/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-29"
       }
@@ -861,10 +861,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 26225,
+    "archive_count": 26226,
     "archive_supplements": 2784,
     "archive_off_label": 858,
-    "archive_biomarkers": 16411,
+    "archive_biomarkers": 16412,
     "archive_trials": 5438,
     "archive_mind_body": 442
   }
