@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-30T09:06:13.110Z",
+  "last_updated": "2026-05-30T09:06:23.867Z",
   "categories": {
     "supplements": [
       {
@@ -397,6 +397,20 @@
         "added_date": "2026-05-30"
       },
       {
+        "id": "rec1MokdD48umlsWa",
+        "title": "Targeting promoter G-quadruplex of SIRT3 with valsartan and candesartan as a therapeutic strategy to downregulate its expression in lung cancer.",
+        "summary": "Two blood pressure drugs reduce lung cancer cell survival by targeting a DNA structure that controls a cancer-promoting protein.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42208839/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-30"
+      },
+      {
         "id": "recpyGyQKKarfPN6D",
         "title": "Development of metformin-encapsulated poly(lactic-co-glycolic acid)-polyethylene glycol nanoparticles.",
         "summary": "Researchers developed nanoparticles carrying metformin to treat thyroid cancer with potentially fewer side effects than conventional therapies.",
@@ -407,20 +421,6 @@
           "Thyroid"
         ],
         "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-29"
-      },
-      {
-        "id": "recRqG1WCAzUotXaA",
-        "title": "Bilateral temporal arteritis with multiorgan eosinophilic infiltration treated with IL-5 targeted antibody.",
-        "summary": "IL-5 antibody treatment achieved sustained remission in a patient with rare eosinophilic temporal arteritis resistant to steroids and methotrexate.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42207305/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-29"
       }
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 26443,
+    "archive_count": 26444,
     "archive_supplements": 2797,
     "archive_off_label": 862,
-    "archive_biomarkers": 16574,
+    "archive_biomarkers": 16575,
     "archive_trials": 5476,
     "archive_mind_body": 442
   }
