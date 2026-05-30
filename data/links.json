@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-30T04:07:14.542Z",
+  "last_updated": "2026-05-30T04:07:37.406Z",
   "categories": {
     "supplements": [
       {
@@ -230,6 +230,20 @@
         "added_date": "2026-05-30"
       },
       {
+        "id": "recinqaSaKqgiMnrM",
+        "title": "A STAT1/ETC/GBP1 axis represents a potential therapeutic target for noncommunicable granulomatous skin disease.",
+        "summary": "Researchers identified that blocking a metabolic pathway and protein called GBP1 can reduce granuloma formation in skin diseases, suggesting metformin as a potential treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42213834/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-30"
+      },
+      {
         "id": "recpyGyQKKarfPN6D",
         "title": "Development of metformin-encapsulated poly(lactic-co-glycolic acid)-polyethylene glycol nanoparticles.",
         "summary": "Researchers developed nanoparticles carrying metformin to treat thyroid cancer with potentially fewer side effects than conventional therapies.",
@@ -406,20 +420,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-28"
-      },
-      {
-        "id": "rec8brRWsRTJDxm4v",
-        "title": "Dual targeting of glutamine metabolism and lysosomal function in eliminating drug-tolerant KRAS-mutant cancer cells.",
-        "summary": "Combining glutamine and lysosome inhibitors eliminates drug-resistant KRAS-mutant pancreatic and lung cancer cells that survive initial treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42191797/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -861,10 +861,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 26184,
+    "archive_count": 26185,
     "archive_supplements": 2783,
     "archive_off_label": 856,
-    "archive_biomarkers": 16380,
+    "archive_biomarkers": 16381,
     "archive_trials": 5431,
     "archive_mind_body": 442
   }
