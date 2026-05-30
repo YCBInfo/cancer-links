@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-30T04:07:37.406Z",
+  "last_updated": "2026-05-30T04:07:55.820Z",
   "categories": {
     "supplements": [
       {
@@ -244,6 +244,20 @@
         "added_date": "2026-05-30"
       },
       {
+        "id": "rec8TPrC6WOx40qep",
+        "title": "EZH2 inhibition via GSK-126 mitigates EndMT and atherosclerosis in diabetes: A translational epigenetic approach.",
+        "summary": "GSK-126 drug blocks EZH2 protein to reduce atherosclerosis and vessel damage in diabetic patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42213823/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-30"
+      },
+      {
         "id": "recpyGyQKKarfPN6D",
         "title": "Development of metformin-encapsulated poly(lactic-co-glycolic acid)-polyethylene glycol nanoparticles.",
         "summary": "Researchers developed nanoparticles carrying metformin to treat thyroid cancer with potentially fewer side effects than conventional therapies.",
@@ -406,20 +420,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-28"
-      },
-      {
-        "id": "recNGvsdtadUmoEzS",
-        "title": "Syrosingopine enhances immune checkpoint blockade efficacy by inhibition of MCTs and metabolic reprogramming in triple-negative breast cancer.",
-        "summary": "Syrosingopine, a drug that blocks lactate transporters, enhances immune therapy effectiveness in triple-negative breast cancer by reducing tumor immunosuppression.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42202910/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -861,11 +861,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 26185,
+    "archive_count": 26186,
     "archive_supplements": 2783,
     "archive_off_label": 856,
     "archive_biomarkers": 16381,
-    "archive_trials": 5431,
+    "archive_trials": 5432,
     "archive_mind_body": 442
   }
 }
