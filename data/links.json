@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-31T04:10:03.103Z",
+  "last_updated": "2026-05-31T04:10:14.325Z",
   "categories": {
     "supplements": [
       {
@@ -232,6 +232,20 @@
         "added_date": "2026-05-31"
       },
       {
+        "id": "recXhHJrC6g9TPO1N",
+        "title": "Midodrine to facilitate cardioprotective therapy in hypotensive HER2-positive breast cancer patients with cancer-therapy-related cardiac dysfunction-multicenter case experience.",
+        "summary": "Midodrine helps HER2-positive breast cancer patients tolerate heart-protective medications by raising blood pressure during cancer treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42216214/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-31"
+      },
+      {
         "id": "recTIzFbTfieHmpdt",
         "title": "Alcohol-Induced Metabolic Stress Sensed by m6A-Modified ChREBP Drives Immune Evasion in Esophageal Carcinogenesis.",
         "summary": "Alcohol-induced changes to a protein called ChREBP help esophageal cancer cells evade the immune system, and blocking this process could prevent or treat the disease.",
@@ -408,20 +422,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Lymphoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-30"
-      },
-      {
-        "id": "rec1MokdD48umlsWa",
-        "title": "Targeting promoter G-quadruplex of SIRT3 with valsartan and candesartan as a therapeutic strategy to downregulate its expression in lung cancer.",
-        "summary": "Two blood pressure drugs reduce lung cancer cell survival by targeting a DNA structure that controls a cancer-promoting protein.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42208839/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -862,10 +862,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 26497,
+    "archive_count": 26498,
     "archive_supplements": 2799,
     "archive_off_label": 866,
-    "archive_biomarkers": 16613,
+    "archive_biomarkers": 16614,
     "archive_trials": 5485,
     "archive_mind_body": 442
   }
