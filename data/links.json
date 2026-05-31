@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-05-30T11:32:22.671Z",
+  "last_updated": "2026-05-31T02:34:56.372Z",
   "categories": {
     "supplements": [
+      {
+        "id": "recxSQvgGhRsTarDk",
+        "title": "Assessment and Management of Cancer-Related Cognitive Impairment.",
+        "summary": "Cancer survivors commonly experience cognitive impairment affecting memory and attention, managed through neuropsychological testing, brain training, rehabilitation, and lifestyle modifications.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42208004/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-31"
+      },
       {
         "id": "reckDBY0egGCkihsr",
         "title": "The effect of moderate physical activity on NK cells populations and cytotoxic T lymphocytes in young, healthy women.",
@@ -196,20 +210,6 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-05-01",
-        "added_date": "2026-05-30"
-      },
-      {
-        "id": "rec2scNKvQCsO753l",
-        "title": "Nutritional Intervention Trials in Linxian China- Continued Follow-up",
-        "summary": "Beta-carotene, vitamin E, and selenium reduced stomach cancer and total mortality in a high-risk Chinese population.",
-        "url": "https://clinicaltrials.gov/study/NCT00342654",
-        "source": "ClinicalTrials.gov",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Stomach"
-        ],
-        "quality_score": 13,
-        "pub_date": "2026-05-29",
         "added_date": "2026-05-30"
       }
     ],
@@ -427,6 +427,20 @@
     ],
     "biomarkers": [
       {
+        "id": "recxSQvgGhRsTarDk",
+        "title": "Assessment and Management of Cancer-Related Cognitive Impairment.",
+        "summary": "Cancer survivors commonly experience cognitive impairment affecting memory and attention, managed through neuropsychological testing, brain training, rehabilitation, and lifestyle modifications.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42208004/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-31"
+      },
+      {
         "id": "recCGFPSrnyPU5e4q",
         "title": "Decoding the microbiome: artificial intelligence-targeted gut microenvironment breakthroughs in personalized cancer therapy.",
         "summary": "AI analyzes gut microbiome data to personalize cancer therapy, improving treatment outcomes and reducing chemotherapy resistance in colorectal cancer.",
@@ -618,20 +632,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-30"
-      },
-      {
-        "id": "recZc3kRQacwmmI5E",
-        "title": "Navigating Treatment Decisions in Early-Stage Hormone Receptor-Positive Breast Cancer.",
-        "summary": "Genomic assays help personalize treatment decisions in early-stage hormone receptor-positive breast cancer by identifying patients who benefit most from chemotherapy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42208010/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 26465,
+    "archive_count": 26466,
     "archive_supplements": 2797,
     "archive_off_label": 866,
-    "archive_biomarkers": 16586,
+    "archive_biomarkers": 16587,
     "archive_trials": 5482,
     "archive_mind_body": 442
   }
