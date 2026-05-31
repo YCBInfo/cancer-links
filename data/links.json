@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-31T04:04:16.521Z",
+  "last_updated": "2026-05-31T04:04:30.559Z",
   "categories": {
     "supplements": [
       {
@@ -28,6 +28,20 @@
         ],
         "quality_score": 21,
         "pub_date": "2026-05-01",
+        "added_date": "2026-05-31"
+      },
+      {
+        "id": "recspyGDpherNZh8u",
+        "title": "Therapeutic potential of Lactobacillus kefiranofaciens ZW18 postbiotic in alleviating hepatocellular carcinoma.",
+        "summary": "A bacterial supplement called Post18 slows hepatocellular carcinoma growth by boosting immune cells and beneficial gut bacteria in mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41895984/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 13,
+        "pub_date": "2026-03-01",
         "added_date": "2026-05-31"
       },
       {
@@ -195,20 +209,6 @@
           "Breast"
         ],
         "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-30"
-      },
-      {
-        "id": "rec0ghcflaqMseKuI",
-        "title": "Polyclonal antibodies and probiotics improve immune dysfunction in a mouse model of inflammatory bowel disease.",
-        "summary": "Probiotics and polyclonal antibodies together effectively reduce inflammation and improve immune function in mice with inflammatory bowel disease.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42209572/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-30"
       }
@@ -609,32 +609,32 @@
         "added_date": "2026-05-31"
       },
       {
-        "id": "recCGFPSrnyPU5e4q",
-        "title": "Decoding the microbiome: artificial intelligence-targeted gut microenvironment breakthroughs in personalized cancer therapy.",
-        "summary": "AI analyzes gut microbiome data to personalize cancer therapy, improving treatment outcomes and reducing chemotherapy resistance in colorectal cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42212684/",
+        "id": "recVbbjxWkBXQcAlL",
+        "title": "Development of Immunoelectron Microscopy for VASN Detection Using Multiple Models and Identification of VASN as a Key Regulator of Mitochondrial Homeostasis in Hepatocellular Carcinoma Cells.",
+        "summary": "Researchers identified VASN protein in liver cancer cell mitochondria, showing it regulates mitochondrial health and cancer cell growth.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42118142/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
-          "Colorectal"
+          "Liver"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
-        "added_date": "2026-05-30"
+        "added_date": "2026-05-31"
       },
       {
-        "id": "recgl18XqeXhcKP0i",
-        "title": "Dynamic central-peripheral balance in brain-muscle interactions reveals motor impairment in post-stroke hemiplegia: an exploratory study.",
-        "summary": "Study reveals brain-muscle communication imbalance in stroke patients may predict motor recovery and guide personalized rehabilitation strategies.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42212280/",
+        "id": "recspyGDpherNZh8u",
+        "title": "Therapeutic potential of Lactobacillus kefiranofaciens ZW18 postbiotic in alleviating hepatocellular carcinoma.",
+        "summary": "A bacterial supplement called Post18 slows hepatocellular carcinoma growth by boosting immune cells and beneficial gut bacteria in mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41895984/",
         "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
+        "category": "Supplements & Nutraceuticals",
         "cancer_types": [
-          "General"
+          "Liver"
         ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-30"
+        "quality_score": 13,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-05-31"
       }
     ],
     "trials": [
@@ -859,8 +859,8 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 26467,
-    "archive_supplements": 2797,
+    "archive_count": 26468,
+    "archive_supplements": 2798,
     "archive_off_label": 866,
     "archive_biomarkers": 16588,
     "archive_trials": 5482,
