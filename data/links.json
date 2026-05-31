@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-31T04:23:06.932Z",
+  "last_updated": "2026-05-31T04:23:17.714Z",
   "categories": {
     "supplements": [
       {
@@ -53,6 +53,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-31"
+      },
+      {
+        "id": "recasKT2ogFRajqny",
+        "title": "Oat-β-glucan potentiates anti-PD-1 efficacy through Faecalibacterium prausnitzii-derived butyrate and indole-3-propionic acid.",
+        "summary": "Oat-β-glucan enhances anti-PD-1 immunotherapy for colorectal cancer by boosting beneficial gut bacteria that produce immune-activating compounds.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42214334/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -189,20 +203,6 @@
         "title": "Vitamin D deficiency and pain severity in endometriosis: a phenotype-based retrospective observational study.",
         "summary": "Low vitamin D levels are linked to worse pain in women with endometriosis, particularly in deep infiltrating cases.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42210340/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-30"
-      },
-      {
-        "id": "rec1yBIUAVXSN37xX",
-        "title": "Solubility-improved and antitumor activity of (-)-cannabidiol conjugates.",
-        "summary": "Scientists improved cannabidiol's effectiveness against tumors by making it more soluble in water, overcoming a major limitation of the natural compound.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42210316/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -861,10 +861,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 26568,
+    "archive_count": 26569,
     "archive_supplements": 2800,
     "archive_off_label": 868,
-    "archive_biomarkers": 16675,
+    "archive_biomarkers": 16676,
     "archive_trials": 5491,
     "archive_mind_body": 442
   }
