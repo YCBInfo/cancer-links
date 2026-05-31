@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-31T10:03:29.127Z",
+  "last_updated": "2026-05-31T11:30:32.672Z",
   "categories": {
     "supplements": [
       {
@@ -302,6 +302,34 @@
         "added_date": "2026-05-31"
       },
       {
+        "id": "recSbvqYNHPyD5VZf",
+        "title": "Targeting therapy-induced senescence across multiple breast cancer subtypes in a metastatic bone-like microenvironment",
+        "summary": "Combining chemotherapy with senolytic drugs improved breast cancer treatment by eliminating senescent cells and reducing metastatic spread.",
+        "url": "https://www.biorxiv.org/content/10.64898/2026.05.12.724653",
+        "source": "bioRxiv",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-17",
+        "added_date": "2026-05-31"
+      },
+      {
+        "id": "recr9f9oJp7tQGRvD",
+        "title": "Reprogramming tumour-associated macrophages from immune suppressive to inflammatory state by Checkpoint kinase 1 inhibitor combination treatment",
+        "summary": "A drug combination shifts tumor-fighting immune cells from suppressive to inflammatory, potentially enhancing cancer treatment effectiveness.",
+        "url": "https://www.biorxiv.org/content/10.64898/2026.05.13.724422",
+        "source": "bioRxiv",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 9,
+        "pub_date": "2026-05-17",
+        "added_date": "2026-05-31"
+      },
+      {
         "id": "recTIzFbTfieHmpdt",
         "title": "Alcohol-Induced Metabolic Stress Sensed by m6A-Modified ChREBP Drives Immune Evasion in Esophageal Carcinogenesis.",
         "summary": "Alcohol-induced changes to a protein called ChREBP help esophageal cancer cells evade the immune system, and blocking this process could prevent or treat the disease.",
@@ -394,34 +422,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-30"
-      },
-      {
-        "id": "rec6Eo1ywC6UpSuSn",
-        "title": "Causal relationship between aspirin use and age-related macular degeneration.",
-        "summary": "Aspirin use may genetically increase the risk of age-related macular degeneration, a common eye disease affecting older adults.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42215633/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-30"
-      },
-      {
-        "id": "receKSqJpPcgV6Q02",
-        "title": "Ferroptosis vulnerability of enzalutamide resistant prostate cancer conferred by ACSL4 overexpression and GPX4 antagonism.",
-        "summary": "Enzalutamide-resistant prostate cancer becomes vulnerable to ferroptosis when GPX4 is blocked, offering a new treatment approach using the drug Auranofin.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42215431/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Prostate"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -861,10 +861,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 26657,
+    "archive_count": 26659,
     "archive_supplements": 2819,
     "archive_off_label": 869,
-    "archive_biomarkers": 16724,
+    "archive_biomarkers": 16726,
     "archive_trials": 5511,
     "archive_mind_body": 442
   }
