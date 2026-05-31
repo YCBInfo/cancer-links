@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-31T06:04:09.180Z",
+  "last_updated": "2026-05-31T06:04:22.187Z",
   "categories": {
     "supplements": [
       {
@@ -260,6 +260,20 @@
         "added_date": "2026-05-31"
       },
       {
+        "id": "recibLH2HxtMNZg5g",
+        "title": "Pirfenidone Inhibits Inflammatory Mediators in Human Cornea In Vitro.",
+        "summary": "Pirfenidone, an FDA-approved drug, reduces inflammation in human cornea cells in laboratory tests.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42213528/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-31"
+      },
+      {
         "id": "recTIzFbTfieHmpdt",
         "title": "Alcohol-Induced Metabolic Stress Sensed by m6A-Modified ChREBP Drives Immune Evasion in Esophageal Carcinogenesis.",
         "summary": "Alcohol-induced changes to a protein called ChREBP help esophageal cancer cells evade the immune system, and blocking this process could prevent or treat the disease.",
@@ -404,20 +418,6 @@
         "title": "Statins and risk of cardiovascular disease: Emulating a primary prevention trial in breast cancer survivors.",
         "summary": "Study evaluates whether statins reduce heart disease risk in breast cancer survivors using real-world patient data.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42213587/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-30"
-      },
-      {
-        "id": "recLbByFJ5z1brqdc",
-        "title": "RGD-Functionalized ZIF-8 Nanocarriers Enable Highly Selective Delivery of Repurposed Gliclazide in Breast Cancer.",
-        "summary": "Researchers created targeted nanoparticles using an antidiabetic drug to selectively kill breast cancer cells while sparing healthy cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42212674/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -861,11 +861,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 26594,
+    "archive_count": 26595,
     "archive_supplements": 2802,
     "archive_off_label": 868,
     "archive_biomarkers": 16696,
-    "archive_trials": 5494,
+    "archive_trials": 5495,
     "archive_mind_body": 442
   }
 }
