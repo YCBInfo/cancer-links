@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-31T04:15:10.526Z",
+  "last_updated": "2026-05-31T04:15:22.916Z",
   "categories": {
     "supplements": [
       {
@@ -246,6 +246,20 @@
         "added_date": "2026-05-31"
       },
       {
+        "id": "recQ6a2TwTha44Pk6",
+        "title": "Cyclosporine in hematological disorders: mechanisms, clinical practice and emerging advances.",
+        "summary": "Cyclosporine effectively treats blood disorders like aplastic anemia and myelodysplastic neoplasms by suppressing harmful T cell activation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42215807/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-31"
+      },
+      {
         "id": "recTIzFbTfieHmpdt",
         "title": "Alcohol-Induced Metabolic Stress Sensed by m6A-Modified ChREBP Drives Immune Evasion in Esophageal Carcinogenesis.",
         "summary": "Alcohol-induced changes to a protein called ChREBP help esophageal cancer cells evade the immune system, and blocking this process could prevent or treat the disease.",
@@ -408,20 +422,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-30"
-      },
-      {
-        "id": "recGVpRShw2hM3z9N",
-        "title": "Lorlatinib protects dopaminergic neurons by inhibiting ALK-mediated neuroinflammation in a mouse model of Parkinson's disease.",
-        "summary": "Lorlatinib, an approved cancer drug, protects dopamine-producing brain cells in Parkinson's disease by reducing neuroinflammation through ALK inhibition.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42208344/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Lymphoma"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -861,10 +861,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 26524,
+    "archive_count": 26525,
     "archive_supplements": 2800,
     "archive_off_label": 867,
-    "archive_biomarkers": 16637,
+    "archive_biomarkers": 16638,
     "archive_trials": 5486,
     "archive_mind_body": 442
   }
