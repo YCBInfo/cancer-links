@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-31T04:10:48.095Z",
+  "last_updated": "2026-05-31T04:10:59.681Z",
   "categories": {
     "supplements": [
       {
@@ -42,6 +42,20 @@
         ],
         "quality_score": 13,
         "pub_date": "2026-03-01",
+        "added_date": "2026-05-31"
+      },
+      {
+        "id": "recSRUqW65oid1SEI",
+        "title": "The anti-leukemic effects of vitamin K4 by modulating the JAK/STAT signaling pathway.",
+        "summary": "Vitamin K4 slows leukemia cell growth by blocking a key cellular signaling pathway involved in cancer development.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42216158/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
         "added_date": "2026-05-31"
       },
       {
@@ -195,20 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-30"
-      },
-      {
-        "id": "recLHfbi5YlIlxC4m",
-        "title": "Polymerized Polyphenol-Decorated Cationic Hydroxyethylcellulose Nanocomplexes for Enhanced Breast Cancer Cell Killing Effects.",
-        "summary": "Researchers developed nanoparticles combining drug and gene therapy to kill breast cancer cells more effectively, even in drug-resistant cases.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42210019/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-30"
       }
@@ -796,6 +796,20 @@
         "added_date": "2026-05-31"
       },
       {
+        "id": "reckyBSNRn54Y9veT",
+        "title": "Early radiological response pattern predicts long-term response in patients with non-small cell lung cancer treated with immune-checkpoint inhibitors.",
+        "summary": "Early imaging changes predict which lung cancer patients will benefit long-term from immunotherapy treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42216080/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-31"
+      },
+      {
         "id": "rec27jvWVYZUTjBjD",
         "title": "Clinical Manifestations, Tumor Associations, and Long-Term Outcomes of Anti-KLHL11 Encephalitis.",
         "summary": "Anti-KLHL11 encephalitis, a newly identified brain inflammation linked to testicular cancer in men, requires better understanding of symptoms and treatment outcomes.",
@@ -837,20 +851,6 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-30"
-      },
-      {
-        "id": "rec72Ap7tseKqN0tX",
-        "title": "Updates on Management of Anal Cancer: A New Era Has Begun.",
-        "summary": "Immunotherapy combined with chemotherapy improves outcomes for metastatic anal cancer, while chemoradiotherapy remains standard for early-stage disease.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42208017/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-30"
       }
     ],
     "mind_body": []
@@ -862,10 +862,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 26501,
+    "archive_count": 26502,
     "archive_supplements": 2799,
     "archive_off_label": 866,
-    "archive_biomarkers": 16617,
+    "archive_biomarkers": 16618,
     "archive_trials": 5485,
     "archive_mind_body": 442
   }
