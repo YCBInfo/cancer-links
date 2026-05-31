@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-31T04:05:58.407Z",
+  "last_updated": "2026-05-31T04:06:09.168Z",
   "categories": {
     "supplements": [
       {
@@ -695,6 +695,20 @@
         "added_date": "2026-05-31"
       },
       {
+        "id": "recWIGRazp8roDb8j",
+        "title": "Apatinib enhances anti-PD-1 efficacy by inhibiting Exo70-mediated exosome secretion in pMMR/MSS colorectal cancer.",
+        "summary": "Apatinib combined with immunotherapy improves outcomes for hard-to-treat colorectal cancer by reducing tumor exosomes that block immune response.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42215704/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-05-31"
+      },
+      {
         "id": "rec27jvWVYZUTjBjD",
         "title": "Clinical Manifestations, Tumor Associations, and Long-Term Outcomes of Anti-KLHL11 Encephalitis.",
         "summary": "Anti-KLHL11 encephalitis, a newly identified brain inflammation linked to testicular cancer in men, requires better understanding of symptoms and treatment outcomes.",
@@ -834,20 +848,6 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-30"
-      },
-      {
-        "id": "recT8LfhjWQxCKJAO",
-        "title": "Development and Application of an LC-MS/MS Assay for Plasma Propofol Quantification in Major Noncardiac Surgical Patients to Evaluate Target-Controlled Infusion Algorithms.",
-        "summary": "Researchers developed a new laboratory test to measure propofol levels in blood, enabling better dosing algorithms for this common surgical anesthetic.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42214089/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-30"
       }
     ],
     "mind_body": []
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 26475,
+    "archive_count": 26476,
     "archive_supplements": 2798,
     "archive_off_label": 866,
-    "archive_biomarkers": 16595,
+    "archive_biomarkers": 16596,
     "archive_trials": 5482,
     "archive_mind_body": 442
   }
