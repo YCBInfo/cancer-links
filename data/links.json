@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-01T04:04:39.921Z",
+  "last_updated": "2026-06-01T04:04:50.616Z",
   "categories": {
     "supplements": [
       {
@@ -55,6 +55,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-06-01"
+      },
+      {
+        "id": "recWZ5a5iGqgc85X8",
+        "title": "Resveratrol's hepatic symphony: conducting a multi-stage intervention in liver cancer's progression.",
+        "summary": "Resveratrol, a natural plant compound, shows promise fighting liver cancer by blocking multiple disease stages from inflammation to tumor growth.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42215151/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-06-01"
       },
@@ -189,20 +203,6 @@
         "title": "The reinforcing effect of anti-caries treatments on acidic challenge resistance of irradiated enamel.",
         "summary": "Anti-caries treatments like nanohydroxyapatite and resin infiltration strengthen irradiated tooth enamel against acid damage.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42213744/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-31"
-      },
-      {
-        "id": "reczDnRk5TjFY7dC1",
-        "title": "Spirulina, a dietary supplement, attenuates streptozotocin-induced diabetes by improving cognitive function through anti-inflammatory and antioxidant effects in rats.",
-        "summary": "Spirulina supplement improved memory and learning in diabetic rats by reducing inflammation and oxidative stress.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42213649/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -626,18 +626,18 @@
         "added_date": "2026-06-01"
       },
       {
-        "id": "recxSQvgGhRsTarDk",
-        "title": "Assessment and Management of Cancer-Related Cognitive Impairment.",
-        "summary": "Cancer survivors commonly experience cognitive impairment affecting memory and attention, managed through neuropsychological testing, brain training, rehabilitation, and lifestyle modifications.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42208004/",
+        "id": "recWZ5a5iGqgc85X8",
+        "title": "Resveratrol's hepatic symphony: conducting a multi-stage intervention in liver cancer's progression.",
+        "summary": "Resveratrol, a natural plant compound, shows promise fighting liver cancer by blocking multiple disease stages from inflammation to tumor growth.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42215151/",
         "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
+        "category": "Supplements & Nutraceuticals",
         "cancer_types": [
-          "Colorectal"
+          "Liver"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
-        "added_date": "2026-05-31"
+        "added_date": "2026-06-01"
       }
     ],
     "trials": [
@@ -861,8 +861,8 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 26666,
-    "archive_supplements": 2820,
+    "archive_count": 26667,
+    "archive_supplements": 2821,
     "archive_off_label": 869,
     "archive_biomarkers": 16732,
     "archive_trials": 5511,
