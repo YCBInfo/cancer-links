@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-01T04:09:56.824Z",
+  "last_updated": "2026-06-01T04:10:08.893Z",
   "categories": {
     "supplements": [
       {
@@ -215,6 +215,20 @@
     ],
     "off_label": [
       {
+        "id": "recRsPdiGOfgb5DJg",
+        "title": "Unveiling Remyelinating Properties of Roflumilast in CPZ-Induced Neuronal Demyelination in Mice.",
+        "summary": "Roflumilast, a PDE-4 inhibitor, promotes remyelination and reduces inflammation in a mouse multiple sclerosis model.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42207934/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-06-01"
+      },
+      {
         "id": "receKltsrJkh78DJq",
         "title": "Polypharmacy, polypharmacology, and polypharmacotherapy: clarifying definitions and complementary roles in cancer treatment - a narrative review.",
         "summary": "While targeted cancer drugs work well for specific cancers, they have limited overall success; combining multiple drugs may offer better treatment strategies.",
@@ -410,20 +424,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-30"
-      },
-      {
-        "id": "rec18L3UqqOcaUsQp",
-        "title": "Effects of metformin on head and neck cancer: an umbrella review.",
-        "summary": "Metformin's effectiveness against head and neck cancer remains unclear despite showing promise in other cancer types.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42215897/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-30"
       }
@@ -861,10 +861,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 26693,
+    "archive_count": 26694,
     "archive_supplements": 2825,
     "archive_off_label": 869,
-    "archive_biomarkers": 16748,
+    "archive_biomarkers": 16749,
     "archive_trials": 5517,
     "archive_mind_body": 442
   }
