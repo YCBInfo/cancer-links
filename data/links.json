@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-01T04:36:40.091Z",
+  "last_updated": "2026-06-01T06:04:04.797Z",
   "categories": {
     "supplements": [
       {
@@ -285,6 +285,20 @@
         "added_date": "2026-06-01"
       },
       {
+        "id": "recwmetoBzEIEkIWk",
+        "title": "Real-world Clinical Outcomes of Ivermectin and Mebendazole in Cancer Patients: Results from a Prospective Observational Cohort.",
+        "summary": "Antiparasitic drugs ivermectin and mebendazole show promise as accessible, low-toxicity cancer treatments in real-world patient use.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42203321/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-06-01"
+      },
+      {
         "id": "receKltsrJkh78DJq",
         "title": "Polypharmacy, polypharmacology, and polypharmacotherapy: clarifying definitions and complementary roles in cancer treatment - a narrative review.",
         "summary": "While targeted cancer drugs work well for specific cancers, they have limited overall success; combining multiple drugs may offer better treatment strategies.",
@@ -410,20 +424,6 @@
           "General"
         ],
         "quality_score": 22,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-30"
-      },
-      {
-        "id": "recinqaSaKqgiMnrM",
-        "title": "A STAT1/ETC/GBP1 axis represents a potential therapeutic target for noncommunicable granulomatous skin disease.",
-        "summary": "Researchers identified that blocking a metabolic pathway and protein called GBP1 can reduce granuloma formation in skin diseases, suggesting metformin as a potential treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42213834/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-30"
       }
@@ -861,10 +861,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 26838,
+    "archive_count": 26839,
     "archive_supplements": 2837,
     "archive_off_label": 872,
-    "archive_biomarkers": 16855,
+    "archive_biomarkers": 16856,
     "archive_trials": 5540,
     "archive_mind_body": 442
   }
