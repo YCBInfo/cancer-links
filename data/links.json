@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-01T04:32:08.448Z",
+  "last_updated": "2026-06-01T04:32:19.890Z",
   "categories": {
     "supplements": [
       {
@@ -271,6 +271,20 @@
         "added_date": "2026-06-01"
       },
       {
+        "id": "rectfSztbYWQD4jp5",
+        "title": "The GLP-1 Receptor Agonist Liraglutide Promotes Anticancer Activities in MCF7 Breast and PC-3 Prostate Cancer Cells by Modulating Glycolysis, Oxidative Stress and Adipokines.",
+        "summary": "Liraglutide, a diabetes drug, kills breast and prostate cancer cells by increasing oxidative stress and triggering cell death pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42152582/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-06-01"
+      },
+      {
         "id": "receKltsrJkh78DJq",
         "title": "Polypharmacy, polypharmacology, and polypharmacotherapy: clarifying definitions and complementary roles in cancer treatment - a narrative review.",
         "summary": "While targeted cancer drugs work well for specific cancers, they have limited overall success; combining multiple drugs may offer better treatment strategies.",
@@ -406,20 +420,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/42213834/",
         "source": "PubMed",
         "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-30"
-      },
-      {
-        "id": "rec8TPrC6WOx40qep",
-        "title": "EZH2 inhibition via GSK-126 mitigates EndMT and atherosclerosis in diabetes: A translational epigenetic approach.",
-        "summary": "GSK-126 drug blocks EZH2 protein to reduce atherosclerosis and vessel damage in diabetic patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42213823/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
@@ -861,11 +861,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 26814,
+    "archive_count": 26815,
     "archive_supplements": 2835,
     "archive_off_label": 871,
     "archive_biomarkers": 16839,
-    "archive_trials": 5535,
+    "archive_trials": 5536,
     "archive_mind_body": 442
   }
 }
