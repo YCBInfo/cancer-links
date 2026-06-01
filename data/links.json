@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-01T09:05:02.188Z",
+  "last_updated": "2026-06-01T09:05:16.785Z",
   "categories": {
     "supplements": [
       {
@@ -398,6 +398,20 @@
         "added_date": "2026-06-01"
       },
       {
+        "id": "rechiBIuu0fnYhyxB",
+        "title": "Low-dose dihydroartemisinin resensitizes lung cancer cells to cisplatin by suppressing interleukin-6 release by macrophages.",
+        "summary": "Low-dose artemisinin compound helps lung cancer cells respond better to cisplatin by reducing immune cell inflammation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42001292/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 13,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-06-01"
+      },
+      {
         "id": "receKltsrJkh78DJq",
         "title": "Polypharmacy, polypharmacology, and polypharmacotherapy: clarifying definitions and complementary roles in cancer treatment - a narrative review.",
         "summary": "While targeted cancer drugs work well for specific cancers, they have limited overall success; combining multiple drugs may offer better treatment strategies.",
@@ -409,20 +423,6 @@
           "Melanoma",
           "Leukemia",
           "Kidney"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-31"
-      },
-      {
-        "id": "recXhHJrC6g9TPO1N",
-        "title": "Midodrine to facilitate cardioprotective therapy in hypotensive HER2-positive breast cancer patients with cancer-therapy-related cardiac dysfunction-multicenter case experience.",
-        "summary": "Midodrine helps HER2-positive breast cancer patients tolerate heart-protective medications by raising blood pressure during cancer treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42216214/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -862,8 +862,8 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 26943,
-    "archive_supplements": 2865,
+    "archive_count": 26944,
+    "archive_supplements": 2866,
     "archive_off_label": 878,
     "archive_biomarkers": 16909,
     "archive_trials": 5556,
