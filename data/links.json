@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-01T04:17:46.021Z",
+  "last_updated": "2026-06-01T04:17:58.083Z",
   "categories": {
     "supplements": [
       {
@@ -143,6 +143,20 @@
         "added_date": "2026-06-01"
       },
       {
+        "id": "rec2M6iQvyo51bX1j",
+        "title": "Unveiling the Anti-tumor Actions and Therapeutic Potential of Calcitriol in Colorectal Cancer.",
+        "summary": "Vitamin D (calcitriol) reduces colorectal cancer growth by suppressing tumor cells and dampening pro-inflammatory immune responses, though optimal dosing remains unclear.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42203331/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-06-01"
+      },
+      {
         "id": "recxSQvgGhRsTarDk",
         "title": "Assessment and Management of Cancer-Related Cognitive Impairment.",
         "summary": "Cancer survivors commonly experience cognitive impairment affecting memory and attention, managed through neuropsychological testing, brain training, rehabilitation, and lifestyle modifications.",
@@ -193,20 +207,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-31"
-      },
-      {
-        "id": "recasKT2ogFRajqny",
-        "title": "Oat-β-glucan potentiates anti-PD-1 efficacy through Faecalibacterium prausnitzii-derived butyrate and indole-3-propionic acid.",
-        "summary": "Oat-β-glucan enhances anti-PD-1 immunotherapy for colorectal cancer by boosting beneficial gut bacteria that produce immune-activating compounds.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42214334/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -861,10 +861,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 26736,
+    "archive_count": 26737,
     "archive_supplements": 2826,
     "archive_off_label": 870,
-    "archive_biomarkers": 16780,
+    "archive_biomarkers": 16781,
     "archive_trials": 5526,
     "archive_mind_body": 442
   }
