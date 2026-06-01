@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-01T04:04:26.900Z",
+  "last_updated": "2026-06-01T04:04:39.921Z",
   "categories": {
     "supplements": [
       {
@@ -35,6 +35,20 @@
         "title": "Integrative Database-Driven In Silico and In Vitro Study of Anemarrhena asphodeloides Bunge Highlighting Hippeastrine as a Regulator of the HSP90/PI3K/Akt/mTOR Axis in Oral Squamous Cell Carcinoma.",
         "summary": "Hippeastrine, a compound from a plant extract, kills oral cancer cells by blocking a key growth pathway called HSP90/PI3K/Akt/mTOR.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42216572/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-06-01"
+      },
+      {
+        "id": "recWjvmxMzBkudvbq",
+        "title": "Advances in extraction, purification, and pharmacological mechanisms of calycosin: a comprehensive review.",
+        "summary": "Calycosin from Astragalus shows promise against cancer and inflammation through multiple cellular pathways with low toxicity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42215152/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -191,20 +205,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/42213649/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-31"
-      },
-      {
-        "id": "recuMJJDEHKuWa0a1",
-        "title": "Plasminogen Activation System and Fibroblasts: Impact on Tissue Remodeling, Disease, and Organ Homeostasis.",
-        "summary": "Fibroblasts and the plasminogen system regulate tissue remodeling and cancer progression, offering potential drug targets to treat fibrosis and cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42209880/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
@@ -612,6 +612,20 @@
         "added_date": "2026-06-01"
       },
       {
+        "id": "recWjvmxMzBkudvbq",
+        "title": "Advances in extraction, purification, and pharmacological mechanisms of calycosin: a comprehensive review.",
+        "summary": "Calycosin from Astragalus shows promise against cancer and inflammation through multiple cellular pathways with low toxicity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42215152/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-06-01"
+      },
+      {
         "id": "recxSQvgGhRsTarDk",
         "title": "Assessment and Management of Cancer-Related Cognitive Impairment.",
         "summary": "Cancer survivors commonly experience cognitive impairment affecting memory and attention, managed through neuropsychological testing, brain training, rehabilitation, and lifestyle modifications.",
@@ -622,20 +636,6 @@
           "Colorectal"
         ],
         "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-31"
-      },
-      {
-        "id": "recubxc5dRXv3Lh34",
-        "title": "Breaking the Immune Sanctuary: Targeting Metastatic Niches.",
-        "summary": "Researchers identify how cancer spreads to safe zones in organs and propose targeted local therapies combined with immunotherapy to destroy hidden cancer cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42208002/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-31"
       }
@@ -861,10 +861,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 26665,
+    "archive_count": 26666,
     "archive_supplements": 2820,
     "archive_off_label": 869,
-    "archive_biomarkers": 16731,
+    "archive_biomarkers": 16732,
     "archive_trials": 5511,
     "archive_mind_body": 442
   }
