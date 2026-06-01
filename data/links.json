@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-01T04:10:39.312Z",
+  "last_updated": "2026-06-01T04:10:50.722Z",
   "categories": {
     "supplements": [
       {
@@ -229,6 +229,20 @@
         "added_date": "2026-06-01"
       },
       {
+        "id": "recbLr6xaJ598Wock",
+        "title": "Bevacizumab for Radiation-Induced (Radiculo)plexopathy.",
+        "summary": "Bevacizumab shows promise as the first potential treatment for nerve damage that develops years after cancer radiation therapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42206990/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-06-01"
+      },
+      {
         "id": "receKltsrJkh78DJq",
         "title": "Polypharmacy, polypharmacology, and polypharmacotherapy: clarifying definitions and complementary roles in cancer treatment - a narrative review.",
         "summary": "While targeted cancer drugs work well for specific cancers, they have limited overall success; combining multiple drugs may offer better treatment strategies.",
@@ -406,20 +420,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/42213193/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-30"
-      },
-      {
-        "id": "rec1AffmTJdKmBkFT",
-        "title": "Metformin versus DPP-4 inhibitors and risk of parkinsonism in type 2 diabetes: an active-comparator cohort study with a landmark design.",
-        "summary": "Metformin use in type 2 diabetes patients may reduce Parkinson's disease risk compared to DPP-4 inhibitors.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42216231/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
         "cancer_types": [
           "General"
         ],
@@ -861,10 +861,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 26697,
+    "archive_count": 26698,
     "archive_supplements": 2825,
     "archive_off_label": 869,
-    "archive_biomarkers": 16752,
+    "archive_biomarkers": 16753,
     "archive_trials": 5517,
     "archive_mind_body": 442
   }
