@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-01T09:04:32.235Z",
+  "last_updated": "2026-06-01T09:04:47.607Z",
   "categories": {
     "supplements": [
       {
@@ -383,6 +383,21 @@
         "added_date": "2026-06-01"
       },
       {
+        "id": "recS2KjK8adbz7Dux",
+        "title": "Metformin as a Multifaceted Therapeutic Agent for Gastrointestinal Diseases: Mechanisms, Clinical Efficacy, and Future Directions.",
+        "summary": "Metformin shows promise for treating multiple gastrointestinal diseases, including colorectal cancer and hepatocellular carcinoma, through anti-inflammatory and growth-inhibiting mechanisms.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42010803/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Colorectal",
+          "Liver"
+        ],
+        "quality_score": 13,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-06-01"
+      },
+      {
         "id": "receKltsrJkh78DJq",
         "title": "Polypharmacy, polypharmacology, and polypharmacotherapy: clarifying definitions and complementary roles in cancer treatment - a narrative review.",
         "summary": "While targeted cancer drugs work well for specific cancers, they have limited overall success; combining multiple drugs may offer better treatment strategies.",
@@ -410,20 +425,6 @@
           "Breast"
         ],
         "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-31"
-      },
-      {
-        "id": "recQ6a2TwTha44Pk6",
-        "title": "Cyclosporine in hematological disorders: mechanisms, clinical practice and emerging advances.",
-        "summary": "Cyclosporine effectively treats blood disorders like aplastic anemia and myelodysplastic neoplasms by suppressing harmful T cell activation.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42215807/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-31"
       }
@@ -861,9 +862,9 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 26941,
+    "archive_count": 26942,
     "archive_supplements": 2865,
-    "archive_off_label": 876,
+    "archive_off_label": 877,
     "archive_biomarkers": 16909,
     "archive_trials": 5556,
     "archive_mind_body": 443
