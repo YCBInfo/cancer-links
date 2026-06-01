@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-01T04:13:19.219Z",
+  "last_updated": "2026-06-01T04:13:30.636Z",
   "categories": {
     "supplements": [
       {
@@ -101,6 +101,20 @@
         "added_date": "2026-06-01"
       },
       {
+        "id": "rec8R32TcBTfcnKV6",
+        "title": "Bio-inspired self-assembly of omega-3 fatty acids and peptides for responsive drug delivery.",
+        "summary": "Omega-3 fatty acid nanoparticles deliver cancer drugs on-demand when they encounter tumor-specific enzymes, reducing toxicity to healthy cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42205116/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-06-01"
+      },
+      {
         "id": "recxSQvgGhRsTarDk",
         "title": "Assessment and Management of Cancer-Related Cognitive Impairment.",
         "summary": "Cancer survivors commonly experience cognitive impairment affecting memory and attention, managed through neuropsychological testing, brain training, rehabilitation, and lifestyle modifications.",
@@ -189,20 +203,6 @@
         "title": "Synergistic modification of phycocyanin by Lactobacillus plantarum and protease: Physicochemical properties, structural characteristics, and flavor profiles.",
         "summary": "Researchers enhanced phycocyanin's antioxidant and anti-inflammatory effects through fermentation and enzyme treatment, improving its stability and taste for food use.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41875775/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-31"
-      },
-      {
-        "id": "recqeUEr3q6Nwr2XF",
-        "title": "Soy-isoflavone to remedy induced or post-gamma-irradiation periodontitis in rat model.",
-        "summary": "Soy isoflavones may protect teeth and bone from damage caused by cancer radiation therapy in rats.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42216008/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -861,10 +861,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 26711,
+    "archive_count": 26712,
     "archive_supplements": 2825,
     "archive_off_label": 870,
-    "archive_biomarkers": 16764,
+    "archive_biomarkers": 16765,
     "archive_trials": 5518,
     "archive_mind_body": 442
   }
