@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-01T04:25:40.795Z",
+  "last_updated": "2026-06-01T04:25:49.523Z",
   "categories": {
     "supplements": [
       {
@@ -257,6 +257,20 @@
         "added_date": "2026-06-01"
       },
       {
+        "id": "rec9q9AECjudulgKS",
+        "title": "Potential Benefit of Sodium-Glucose Cotransporter 2-Inhibitors in Cisplatin-Associated Nephrotoxicity Among Patients With Cancer Having Diabetes Mellitus.",
+        "summary": "SGLT2 inhibitors may protect kidneys from cisplatin damage in cancer patients with diabetes by reducing drug uptake in kidney cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42179813/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-06-01"
+      },
+      {
         "id": "receKltsrJkh78DJq",
         "title": "Polypharmacy, polypharmacology, and polypharmacotherapy: clarifying definitions and complementary roles in cancer treatment - a narrative review.",
         "summary": "While targeted cancer drugs work well for specific cancers, they have limited overall success; combining multiple drugs may offer better treatment strategies.",
@@ -410,20 +424,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-05-30"
-      },
-      {
-        "id": "recsOUvRQpkBUL2AX",
-        "title": "The Use of Ketamine for Depression in Cancer Patients: A Systematic Review of Efficacy, Safety, and Clinical Applications.",
-        "summary": "Ketamine rapidly relieves depression in cancer patients within hours to days, offering a promising alternative to traditional antidepressants.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42213692/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 28,
         "pub_date": "2026-05-01",
         "added_date": "2026-05-30"
       }
@@ -861,10 +861,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 26779,
+    "archive_count": 26780,
     "archive_supplements": 2834,
     "archive_off_label": 870,
-    "archive_biomarkers": 16811,
+    "archive_biomarkers": 16812,
     "archive_trials": 5530,
     "archive_mind_body": 442
   }
