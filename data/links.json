@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02T10:03:50.604Z",
+  "last_updated": "2026-06-02T11:30:11.582Z",
   "categories": {
     "supplements": [
       {
@@ -313,6 +313,20 @@
         "added_date": "2026-06-02"
       },
       {
+        "id": "reco35yMGDYAkqNYB",
+        "title": "Non-enzymatic RNA Glycation is a Metabolic Sensor of Cellular Stress",
+        "summary": "RNA glycation from metabolic stress impairs protein production and insulin secretion in pancreatic cells, but metformin reverses this effect.",
+        "url": "https://www.biorxiv.org/content/10.64898/2026.05.18.725511",
+        "source": "bioRxiv",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 9,
+        "pub_date": "2026-05-19",
+        "added_date": "2026-06-02"
+      },
+      {
         "id": "recRsPdiGOfgb5DJg",
         "title": "Unveiling Remyelinating Properties of Roflumilast in CPZ-Induced Neuronal Demyelination in Mice.",
         "summary": "Roflumilast, a PDE-4 inhibitor, promotes remyelination and reduces inflammation in a mouse multiple sclerosis model.",
@@ -408,20 +422,6 @@
         ],
         "quality_score": 10,
         "pub_date": "2026-04-01",
-        "added_date": "2026-06-01"
-      },
-      {
-        "id": "reco7pXHAzDHMkpdO",
-        "title": "Protocol for Neuro-Oncology Anywhere: Deploying Mayo Clinic's remote cognitive assessment battery and wearable device monitoring platform while assessing the impact of metformin on cognition and quality of life in patients with history of cranial radiation.",
-        "summary": "Remote cognitive testing and metformin may help prevent cognitive decline in brain tumor patients treated with cranial radiation.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42211793/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
         "added_date": "2026-06-01"
       }
     ],
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27257,
+    "archive_count": 27258,
     "archive_supplements": 2894,
     "archive_off_label": 901,
-    "archive_biomarkers": 17094,
+    "archive_biomarkers": 17095,
     "archive_trials": 5632,
     "archive_mind_body": 444
   }
