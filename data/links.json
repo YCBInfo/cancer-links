@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02T07:06:09.466Z",
+  "last_updated": "2026-06-02T07:06:20.330Z",
   "categories": {
     "supplements": [
       {
@@ -271,6 +271,20 @@
         "added_date": "2026-06-02"
       },
       {
+        "id": "recpk61sCPS5klV6I",
+        "title": "Effect of Olanzapine on Opioid Craving and Misuse Among Patients Receiving Opioids for Cancer-related Pain: A Pilot Double-Blind, Randomized Control Trial",
+        "summary": "Olanzapine may reduce opioid craving and misuse in cancer patients taking long-term pain medications.",
+        "url": "https://clinicaltrials.gov/study/NCT06200181",
+        "source": "ClinicalTrials.gov",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 10,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-02"
+      },
+      {
         "id": "recRsPdiGOfgb5DJg",
         "title": "Unveiling Remyelinating Properties of Roflumilast in CPZ-Induced Neuronal Demyelination in Mice.",
         "summary": "Roflumilast, a PDE-4 inhibitor, promotes remyelination and reduces inflammation in a mouse multiple sclerosis model.",
@@ -401,20 +415,6 @@
         "title": "Repurposing Purine Analog Antivirals to Modulate Serum Uric Acid: Evidence From Real-World Data.",
         "summary": "Common antiviral drugs may lower uric acid levels by blocking an enzyme involved in purine breakdown, offering a potential new treatment approach.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42203193/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-06-01"
-      },
-      {
-        "id": "receiFIKOTa8FwoA5",
-        "title": "Combined Bisoprolol and Megestrol Acetate Improves Survival and Preserves Cardiac Performance in a Rat Model of Cancer Cachexia.",
-        "summary": "A combination of two drugs improved survival and heart function in rats with cancer-related body wasting.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42173682/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -859,11 +859,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27218,
+    "archive_count": 27219,
     "archive_supplements": 2892,
     "archive_off_label": 898,
     "archive_biomarkers": 17084,
-    "archive_trials": 5608,
+    "archive_trials": 5609,
     "archive_mind_body": 444
   }
 }
