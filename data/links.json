@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02T04:22:40.277Z",
+  "last_updated": "2026-06-02T04:22:45.515Z",
   "categories": {
     "supplements": [
       {
@@ -67,6 +67,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Bladder"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-02"
+      },
+      {
+        "id": "rec2PhtigmdXqRztv",
+        "title": "Integrated Network Pharmacology and Machine Learning to Reveal the Mechanisms of Schisandrin A Against Triple-Negative Breast Cancer.",
+        "summary": "Schisandrin A inhibits triple-negative breast cancer cell growth by targeting GSK3B and IDO1 proteins, blocking cell cycle progression and triggering cell death.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42220063/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-06-01",
@@ -189,20 +203,6 @@
         "title": "Low-dose Andrographolide Synergizes With Cytarabine or Vincristine in Plasma Cell Neoplasm Cell Lines.",
         "summary": "Low-dose andrographolide boosts the cancer-killing effects of two standard drugs in plasma cell neoplasm cells.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42203354/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-06-01"
-      },
-      {
-        "id": "recDiFwaEW8NnDg0q",
-        "title": "Scutellarein Induces Apoptosis in SCC-25 Oral Squamous Cell Carcinoma Cells Through Suppression of the PI3K/Akt Pathway.",
-        "summary": "Scutellarein, a natural compound, kills oral cancer cells by blocking a protein pathway that normally helps tumors survive.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42203337/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -859,9 +859,9 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27142,
+    "archive_count": 27143,
     "archive_supplements": 2883,
-    "archive_off_label": 897,
+    "archive_off_label": 898,
     "archive_biomarkers": 17032,
     "archive_trials": 5595,
     "archive_mind_body": 443
