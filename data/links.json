@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02T04:28:13.633Z",
+  "last_updated": "2026-06-02T06:03:55.201Z",
   "categories": {
     "supplements": [
       {
@@ -115,6 +115,20 @@
         "added_date": "2026-06-02"
       },
       {
+        "id": "rec20GT6kHhe7UgUw",
+        "title": "Clinacanthus nutans in modern therapeutics: pharmacological insights and emerging clinical applications.",
+        "summary": "Clinacanthus nutans, a Southeast Asian plant, shows promise against cancer through anti-inflammatory and antioxidant mechanisms, requiring further clinical testing.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42224441/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-02"
+      },
+      {
         "id": "recHwcRw1NCCHNDyZ",
         "title": "12‑weeks fisetin supplementation and interval resistance with aerobic training: changes in Maresin‑1 and inflammatory markers in men with obesity: a randomized controlled trial.",
         "summary": "Fisetin supplements combined with exercise training increased inflammation-resolving molecules and improved metabolic health in obese men.",
@@ -197,20 +211,6 @@
         "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-06-01"
-      },
-      {
-        "id": "recJNaCUiqBsMCo0U",
-        "title": "Zerumbone Induces Apoptosis and Inhibits Migration of A2058 Melanoma stem-like Cells by Producing Reactive Oxygen Species, Causing G2/M Cell Cycle Arrest, and Controlling the Expression of Genes Linked to Metastasis.",
-        "summary": "Zerumbone kills melanoma cancer cells by triggering cell death, stopping cell division, and reducing cancer spread through reactive oxygen species production.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42205222/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Melanoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-06-01"
       }
     ],
     "off_label": [
@@ -253,6 +253,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-02"
+      },
+      {
+        "id": "recBUqIJ4O0RBeSX9",
+        "title": "Fuzuloparib enhances radiosensitivity of gain-of-function mutant p53 R273H NSCLC by promoting SLC7A11/GSH/GPX4 axis mediated ferroptosis.",
+        "summary": "Fuzuloparib enhances radiation therapy effectiveness in mutant p53 lung cancer by triggering cell death through ferroptosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42225931/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-02"
       },
@@ -407,20 +421,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-06-01"
-      },
-      {
-        "id": "recjab8YFfXVxAyYJ",
-        "title": "The Antipsychotic Aripiprazole Induces Cytotoxicity in Bladder Cancer Cells While Preserving Urothelial and Bladder Function.",
-        "summary": "Aripiprazole, an antipsychotic drug, kills bladder cancer cells while preserving normal bladder structure and function in laboratory and animal tests.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42087358/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Bladder"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-06-01"
       }
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27173,
+    "archive_count": 27174,
     "archive_supplements": 2885,
     "archive_off_label": 898,
-    "archive_biomarkers": 17059,
+    "archive_biomarkers": 17060,
     "archive_trials": 5596,
     "archive_mind_body": 443
   }
