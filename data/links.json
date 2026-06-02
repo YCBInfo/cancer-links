@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02T04:06:47.124Z",
+  "last_updated": "2026-06-02T04:06:56.639Z",
   "categories": {
     "supplements": [
       {
@@ -795,6 +795,20 @@
         "added_date": "2026-06-02"
       },
       {
+        "id": "recK3AricRLi00ISt",
+        "title": "Dynamic genetic and nongenetic RAS pathway activation drives resistance to FLT3 and BCL2 inhibitor therapy.",
+        "summary": "AML patients develop resistance to leukemia drugs through RAS pathway activation via genetic mutations or non-genetic mechanisms, reversible by adding RAS inhibitors.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42224378/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-02"
+      },
+      {
         "id": "recHwcRw1NCCHNDyZ",
         "title": "12‑weeks fisetin supplementation and interval resistance with aerobic training: changes in Maresin‑1 and inflammatory markers in men with obesity: a randomized controlled trial.",
         "summary": "Fisetin supplements combined with exercise training increased inflammation-resolving molecules and improved metabolic health in obese men.",
@@ -835,20 +849,6 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-06-01"
-      },
-      {
-        "id": "recf2vFMF1rsym8CL",
-        "title": "Bayesian Evaluation of Treatment Effect of Avelumab Plus Axitinib for Advanced Renal Cell Carcinoma.",
-        "summary": "Avelumab plus axitinib showed promising survival benefits over sunitinib for advanced kidney cancer, despite missing traditional statistical significance.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42216439/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Kidney"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-06-01"
       }
     ],
     "mind_body": []
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27057,
+    "archive_count": 27058,
     "archive_supplements": 2879,
     "archive_off_label": 896,
-    "archive_biomarkers": 16965,
+    "archive_biomarkers": 16966,
     "archive_trials": 5582,
     "archive_mind_body": 443
   }
