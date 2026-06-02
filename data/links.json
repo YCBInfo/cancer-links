@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02T07:07:51.787Z",
+  "last_updated": "2026-06-02T07:08:01.223Z",
   "categories": {
     "supplements": [
       {
@@ -285,6 +285,20 @@
         "added_date": "2026-06-02"
       },
       {
+        "id": "recS6pSMTIiCfefhH",
+        "title": "Double Blind, Randomised, Placebo-controlled Study of Propranolol in Infantile Capillary Hemangiomas",
+        "summary": "Propranolol, a common blood pressure medication, effectively slows growth of facial hemangiomas in infants under four months old.",
+        "url": "https://clinicaltrials.gov/study/NCT00744185",
+        "source": "ClinicalTrials.gov",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 10,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-02"
+      },
+      {
         "id": "recRsPdiGOfgb5DJg",
         "title": "Unveiling Remyelinating Properties of Roflumilast in CPZ-Induced Neuronal Demyelination in Mice.",
         "summary": "Roflumilast, a PDE-4 inhibitor, promotes remyelination and reduces inflammation in a mouse multiple sclerosis model.",
@@ -407,20 +421,6 @@
           "Prostate"
         ],
         "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-06-01"
-      },
-      {
-        "id": "rec8XHRCySJ3fI0iq",
-        "title": "Repurposing Purine Analog Antivirals to Modulate Serum Uric Acid: Evidence From Real-World Data.",
-        "summary": "Common antiviral drugs may lower uric acid levels by blocking an enzyme involved in purine breakdown, offering a potential new treatment approach.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42203193/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-06-01"
       }
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27226,
+    "archive_count": 27227,
     "archive_supplements": 2892,
     "archive_off_label": 898,
-    "archive_biomarkers": 17085,
+    "archive_biomarkers": 17086,
     "archive_trials": 5615,
     "archive_mind_body": 444
   }
