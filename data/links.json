@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02T04:13:29.116Z",
+  "last_updated": "2026-06-02T04:13:37.716Z",
   "categories": {
     "supplements": [
       {
@@ -27,6 +27,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-02"
+      },
+      {
+        "id": "recYgDOkJjQ4fBySF",
+        "title": "A bioactive pigment from violet-hued bacteria: a dual approach against prostate cancer and bacterial infections.",
+        "summary": "A purple pigment from soil bacteria kills prostate cancer cells and fights bacterial infections effectively.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42223688/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-02"
       },
@@ -195,20 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-06-01"
-      },
-      {
-        "id": "recLnBWoOI5Iuf3pp",
-        "title": "Enzalutamide Enhanced Honokiol-induced Apoptotic Insults to Drug-resistant Glioblastoma Cells via an Intrinsic Bak-mitochondrion-caspase Cascade Mechanism.",
-        "summary": "Combining enzalutamide with honokiol kills drug-resistant glioblastoma cells by triggering programmed cell death through mitochondrial pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42203314/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Brain"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-06-01"
       }
@@ -860,11 +860,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27093,
+    "archive_count": 27094,
     "archive_supplements": 2880,
     "archive_off_label": 897,
     "archive_biomarkers": 16994,
-    "archive_trials": 5587,
+    "archive_trials": 5588,
     "archive_mind_body": 443
   }
 }
