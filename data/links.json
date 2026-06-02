@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02T08:04:36.403Z",
+  "last_updated": "2026-06-02T09:03:54.167Z",
   "categories": {
     "supplements": [
       {
@@ -299,6 +299,20 @@
         "added_date": "2026-06-02"
       },
       {
+        "id": "recMTXblbwRmOb1BR",
+        "title": "Standardized workflow enables reproducibility of drug synergism detection: Results from a multi-center in vitro ring test on complex drug combinations in pancreatic cancer models.",
+        "summary": "Standardized procedures across labs confirmed that combining valproic acid and simvastatin enhances pancreatic cancer cell death, improving reproducibility in drug synergy studies.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42224741/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Pancreatic"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-02"
+      },
+      {
         "id": "recRsPdiGOfgb5DJg",
         "title": "Unveiling Remyelinating Properties of Roflumilast in CPZ-Induced Neuronal Demyelination in Mice.",
         "summary": "Roflumilast, a PDE-4 inhibitor, promotes remyelination and reduces inflammation in a mouse multiple sclerosis model.",
@@ -405,20 +419,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-06-01"
-      },
-      {
-        "id": "recBDo4nvls8wTCa9",
-        "title": "Drug repositioning in metastatic prostate cancer based on protein- protein interaction network: Computational and in vitro analysis.",
-        "summary": "Artesunate, an existing drug, significantly reduced prostate cancer cell migration by 50% in laboratory tests, showing promise against metastasis.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42211002/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Prostate"
         ],
         "quality_score": 15,
         "pub_date": "2026-05-01",
@@ -859,8 +859,8 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27243,
-    "archive_supplements": 2893,
+    "archive_count": 27244,
+    "archive_supplements": 2894,
     "archive_off_label": 900,
     "archive_biomarkers": 17090,
     "archive_trials": 5624,
