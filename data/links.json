@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02T04:17:46.615Z",
+  "last_updated": "2026-06-02T04:17:59.161Z",
   "categories": {
     "supplements": [
       {
@@ -229,6 +229,20 @@
         "added_date": "2026-06-02"
       },
       {
+        "id": "rec5O8iepkwbyp7Lc",
+        "title": "Novel Long-Acting Ghrelin Analogue PEP-064 Restores Energy Balance in C26 and Lewis Lung Carcinoma-Induced cachexia in Mice.",
+        "summary": "A new long-acting ghrelin drug called PEP-064 successfully restores weight and energy balance in mice with cancer cachexia.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42223236/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-02"
+      },
+      {
         "id": "recRsPdiGOfgb5DJg",
         "title": "Unveiling Remyelinating Properties of Roflumilast in CPZ-Induced Neuronal Demyelination in Mice.",
         "summary": "Roflumilast, a PDE-4 inhibitor, promotes remyelination and reduces inflammation in a mouse multiple sclerosis model.",
@@ -406,20 +420,6 @@
         "cancer_types": [
           "Colorectal",
           "Liver"
-        ],
-        "quality_score": 13,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-06-01"
-      },
-      {
-        "id": "rechiBIuu0fnYhyxB",
-        "title": "Low-dose dihydroartemisinin resensitizes lung cancer cells to cisplatin by suppressing interleukin-6 release by macrophages.",
-        "summary": "Low-dose artemisinin compound helps lung cancer cells respond better to cisplatin by reducing immune cell inflammation.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42001292/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
         ],
         "quality_score": 13,
         "pub_date": "2026-04-01",
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27116,
+    "archive_count": 27117,
     "archive_supplements": 2882,
     "archive_off_label": 897,
-    "archive_biomarkers": 17010,
+    "archive_biomarkers": 17011,
     "archive_trials": 5592,
     "archive_mind_body": 443
   }
