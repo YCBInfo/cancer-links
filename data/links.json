@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02T04:07:25.805Z",
+  "last_updated": "2026-06-02T04:07:37.284Z",
   "categories": {
     "supplements": [
       {
@@ -215,6 +215,20 @@
     ],
     "off_label": [
       {
+        "id": "recre0S2JRvYeuPfy",
+        "title": "Combinatorial drug repurposing of Valproic acid and Zebularine regulates Krüppel-like factor 4 and β-catenin expression in colon cancer cells.",
+        "summary": "Combining two repurposed drugs effectively inhibits colon cancer cell growth by altering key cancer-related gene expression.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42224286/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-02"
+      },
+      {
         "id": "recRsPdiGOfgb5DJg",
         "title": "Unveiling Remyelinating Properties of Roflumilast in CPZ-Induced Neuronal Demyelination in Mice.",
         "summary": "Roflumilast, a PDE-4 inhibitor, promotes remyelination and reduces inflammation in a mouse multiple sclerosis model.",
@@ -409,20 +423,6 @@
         ],
         "quality_score": 13,
         "pub_date": "2026-04-01",
-        "added_date": "2026-06-01"
-      },
-      {
-        "id": "recGybd5BV1DwQQ1v",
-        "title": "Mechanism-Driven Repurposing of All-Trans Retinoic Acid (ATRA) for AML1-MTG16⁺ Acute Myeloid Leukemia: A First-in-Human Case Report and Translational Roadmap to Overcome the 'Long-Tail' Barrier.",
-        "summary": "Researchers repurposed an existing drug (ATRA) to treat rare acute myeloid leukemia by restoring normal cell differentiation.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41986207/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
         "added_date": "2026-06-01"
       }
     ],
@@ -860,11 +860,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27060,
+    "archive_count": 27061,
     "archive_supplements": 2879,
     "archive_off_label": 896,
     "archive_biomarkers": 16967,
-    "archive_trials": 5583,
+    "archive_trials": 5584,
     "archive_mind_body": 443
   }
 }
