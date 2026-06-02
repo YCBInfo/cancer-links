@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02T04:19:06.084Z",
+  "last_updated": "2026-06-02T04:19:14.132Z",
   "categories": {
     "supplements": [
       {
@@ -53,6 +53,20 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-02"
+      },
+      {
+        "id": "rec7weBi1S5wYu6HH",
+        "title": "Biomimetic Nanoparticles Based on Tumor Cell Membrane Co-loaded with Vitamin E and Doxorubicin for Targeted Synergistic Treatment of Bladder Cancer.",
+        "summary": "Nanoparticles coated with cancer cell membranes and loaded with vitamin E and chemotherapy drug effectively treat bladder cancer with reduced toxicity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42223068/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Bladder"
         ],
         "quality_score": 15,
         "pub_date": "2026-06-01",
@@ -195,20 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-06-01"
-      },
-      {
-        "id": "rec2M6iQvyo51bX1j",
-        "title": "Unveiling the Anti-tumor Actions and Therapeutic Potential of Calcitriol in Colorectal Cancer.",
-        "summary": "Vitamin D (calcitriol) reduces colorectal cancer growth by suppressing tumor cells and dampening pro-inflammatory immune responses, though optimal dosing remains unclear.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42203331/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-06-01"
       }
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27122,
+    "archive_count": 27123,
     "archive_supplements": 2882,
     "archive_off_label": 897,
-    "archive_biomarkers": 17016,
+    "archive_biomarkers": 17017,
     "archive_trials": 5592,
     "archive_mind_body": 443
   }
