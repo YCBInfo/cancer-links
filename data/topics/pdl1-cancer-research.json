@@ -11,6 +11,116 @@
   },
   "articles": [
     {
+      "title": "Adjuvant Nivolumab vs Observation in Resected Non-Small Cell Lung Cancer: A Randomized Clinical Trial.",
+      "hook": "Adjuvant nivolumab improves survival in resected non-small cell lung cancer",
+      "summary": "Nivolumab after surgery improved survival outcomes in patients with resectable non-small cell lung cancer compared to observation alone.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42224490/",
+      "source": "PubMed",
+      "pub_date": "2026-06-01",
+      "category": [
+        "Clinical Trials"
+      ],
+      "cancer_types": [
+        "Lung"
+      ],
+      "biomarkers": "PD-L1"
+    },
+    {
+      "title": "EP4 Antagonist ONO-4578 Plus Nivolumab and Chemotherapy in HER2-Negative Unresectable Advanced or Recurrent Gastric or Gastroesophageal Junction Cancer.",
+      "hook": "ONO-4578 with nivolumab and chemotherapy improves outcomes in gastric cancer",
+      "summary": "EP4 antagonist ONO-4578 combined with immunotherapy and chemotherapy shows promise for treating advanced gastric cancer.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42223130/",
+      "source": "PubMed",
+      "pub_date": "2026-06-01",
+      "category": [
+        "Clinical Trials",
+        "Biomarkers & Diagnostics"
+      ],
+      "cancer_types": [
+        "General"
+      ],
+      "biomarkers": "HER2, PD-L1"
+    },
+    {
+      "title": "Myeloid-derived Immunorepressive PD-1/PD-L1 Signaling is Essential to Maintain Adult Heart Homeostasis.",
+      "hook": "Myeloid PD-L1 Loss Causes Cardiac Dysfunction in Cancer Immunotherapy",
+      "summary": "Myeloid PD-L1 protein prevents heart inflammation; its loss causes cardiac dysfunction and may explain cancer drug-related heart damage.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42223114/",
+      "source": "PubMed",
+      "pub_date": "2026-06-01",
+      "category": [
+        "Biomarkers & Diagnostics"
+      ],
+      "cancer_types": [
+        "General"
+      ],
+      "biomarkers": "PD-L1"
+    },
+    {
+      "title": "Perioperative serplulimab with neoadjuvant chemotherapy versus perioperative chemotherapy in PD-L1-positive gastric cancer (ASTRUM-006): a randomised, double-blind, multicentre, phase 3 study.",
+      "hook": "Serplulimab plus chemotherapy improves survival in PD-L1-positive gastric cancer",
+      "summary": "Adding an immune-boosting drug to chemotherapy improved outcomes for advanced gastric cancer patients with specific tumor markers.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42225112/",
+      "source": "PubMed",
+      "pub_date": "2026-06-01",
+      "category": [
+        "Biomarkers & Diagnostics",
+        "Clinical Trials"
+      ],
+      "cancer_types": [
+        "Stomach"
+      ],
+      "biomarkers": "PD-L1"
+    },
+    {
+      "title": "A Phase Ib Study of Guadecitabine (SGI-110) and Durvalumab (MEDI 4736) in Patients With Advanced Hepatocellular Carcinoma, Pancreatic Adenocarcinoma, and Cholangiocarcinoma/Gallbladder Cancer",
+      "hook": "Guadecitabine and durvalumab combination shows efficacy in advanced hepatocellular carcinoma and pancreatic cancer",
+      "summary": "A trial tested combining guadecitabine and durvalumab to treat advanced liver, pancreatic, bile duct, and gallbladder cancers.",
+      "url": "https://clinicaltrials.gov/study/NCT03257761",
+      "source": "ClinicalTrials.gov",
+      "pub_date": "2026-06-01",
+      "category": [
+        "Clinical Trials"
+      ],
+      "cancer_types": [
+        "Pancreatic",
+        "Bladder",
+        "Liver"
+      ],
+      "biomarkers": "PD-L1"
+    },
+    {
+      "title": "LUNAR-4: Pilot, Single Arm, Open-Label, Multinational Study of Tumor Treating Fields (TTFields, 150 kHz) Concomitant With Pembrolizumab for the Treatment of Metastatic Non-Small Cell Lung Cancer (NSCLC) Previously Treated With a PD-1/PD-L1 Inhibitor and Platinum-Based Chemotherapy",
+      "hook": "Tumor-treating fields combined with pembrolizumab in pretreated lung cancer",
+      "summary": "Study tested combining tumor-treating fields with pembrolizumab immunotherapy in advanced lung cancer patients who previously failed other treatments.",
+      "url": "https://clinicaltrials.gov/study/NCT06558799",
+      "source": "ClinicalTrials.gov",
+      "pub_date": "2026-06-01",
+      "category": [
+        "Clinical Trials",
+        "Biomarkers & Diagnostics"
+      ],
+      "cancer_types": [
+        "Lung"
+      ],
+      "biomarkers": "PD-L1"
+    },
+    {
+      "title": "Prospective Non-interventional Study of Cabozantinib as Monotherapy or in Combination With Nivolumab in Patients With Advanced or Metastatic Renal Cell Carcinoma Under Real-life Clinical Setting in 1st Line Treatment",
+      "hook": "Study tracking cabozantinib alone or combined with...",
+      "summary": "Study tracking cabozantinib alone or combined with nivolumab for treating advanced kidney cancer in real-world clinical practice.",
+      "url": "https://clinicaltrials.gov/study/NCT03647878",
+      "source": "ClinicalTrials.gov",
+      "pub_date": "2026-06-01",
+      "category": [
+        "Clinical Trials"
+      ],
+      "cancer_types": [
+        "Kidney"
+      ],
+      "biomarkers": "PD-L1"
+    },
+    {
       "title": "A Phase 1b Biomarker-Driven Combination Trial of Copanlisib, Olaparib, and Durvalumab (MEDI4736) in Patients With Advanced Solid Tumors",
       "hook": "Copanlisib, olaparib, and durvalumab combination targets DNA repair-deficient tumors",
       "summary": "Trial testing three-drug combination targeting advanced solid tumors with DNA repair mutations to improve cancer treatment outcomes.",
@@ -56,117 +166,8 @@
         "Liver"
       ],
       "biomarkers": "PD-L1"
-    },
-    {
-      "title": "A Single-arm Phase II Trial of the Addition of Niraparib to Anti-PD-L1 Antibody Maintenance in Patients With SLFN11-positive, Extensive-disease Small Cell Lung Cancer.",
-      "hook": "Niraparib plus anti-PD-L1 antibody maintains remission in SLFN11-positive small cell lung cancer",
-      "summary": "A trial tests adding niraparib to immunotherapy maintenance for SLFN11-positive extensive-stage small cell lung cancer.",
-      "url": "https://clinicaltrials.gov/study/NCT05718323",
-      "source": "ClinicalTrials.gov",
-      "pub_date": "2026-05-29",
-      "category": [
-        "Clinical Trials",
-        "Biomarkers & Diagnostics"
-      ],
-      "cancer_types": [
-        "Lung"
-      ],
-      "biomarkers": "PD-L1"
-    },
-    {
-      "title": "A Phase 1/2, Open-Label, Dose Escalation and Expansion Study to Evaluate the Safety, Tolerability, Pharmacokinetics (PK), and Preliminary Efficacy of BC3195 in Combination With Pembrolizumab in Participants With Locally Advanced or Metastatic Solid Tumors",
-      "hook": "BC3195 plus pembrolizumab shows safety in advanced solid tumors",
-      "summary": "Researchers are testing BC3195 combined with pembrolizumab to treat advanced solid tumors and evaluate safety and effectiveness.",
-      "url": "https://clinicaltrials.gov/study/NCT07469774",
-      "source": "ClinicalTrials.gov",
-      "pub_date": "2026-05-28",
-      "category": [
-        "Clinical Trials"
-      ],
-      "cancer_types": [
-        "General"
-      ],
-      "biomarkers": "PD-L1"
-    },
-    {
-      "title": "NIVALIS Trial: A Single-Center, Prospective, Single-Arm, Open-Label Phase I Exploratory Study Evaluating the Safety, Feasibility, and Preliminary Antitumor Activity of Controlled Cold Exposure Combined With PD-1/PD-L1 Immunotherapy in Patients With Solid Tumors",
-      "hook": "Controlled cold exposure enhances PD-1/PD-L1 immunotherapy in solid tumors",
-      "summary": "Researchers are testing whether controlled cold exposure combined with immune checkpoint inhibitor therapy improves treatment outcomes in solid tumor patients.",
-      "url": "https://clinicaltrials.gov/study/NCT07538479",
-      "source": "ClinicalTrials.gov",
-      "pub_date": "2026-05-28",
-      "category": [
-        "Clinical Trials",
-        "Biomarkers & Diagnostics"
-      ],
-      "cancer_types": [
-        "General"
-      ],
-      "biomarkers": "PD-L1"
-    },
-    {
-      "title": "A Multicentre Observational Study on Treatment Approaches and HER2 Positive Status Prevalence in Different Stages of Bladder Cancer and PD-L1-positive Status in Metastatic Bladder Cancer in Russian Federation",
-      "hook": "HER2 and PD-L1 status predicts treatment response across bladder cancer stages",
-      "summary": "Russian study examining HER2 and PD-L1 markers in bladder cancer patients to guide treatment selection across disease stages.",
-      "url": "https://clinicaltrials.gov/study/NCT07038928",
-      "source": "ClinicalTrials.gov",
-      "pub_date": "2026-05-28",
-      "category": [
-        "Biomarkers & Diagnostics",
-        "Clinical Trials"
-      ],
-      "cancer_types": [
-        "Bladder"
-      ],
-      "biomarkers": "HER2, PD-L1"
-    },
-    {
-      "title": "Randomized Phase 2 Study of Neoadjuvant Chemotherapy, Carboplatin and Paclitaxel, With or Without Atezolizumab in Triple Negative Breast Cancer (TNBC)",
-      "hook": "Atezolizumab plus carboplatin-paclitaxel improves outcomes in triple negative breast cancer",
-      "summary": "Adding immunotherapy drug atezolizumab to standard chemotherapy before surgery may improve outcomes in triple negative breast cancer patients.",
-      "url": "https://clinicaltrials.gov/study/NCT02883062",
-      "source": "ClinicalTrials.gov",
-      "pub_date": "2026-05-28",
-      "category": [
-        "Clinical Trials"
-      ],
-      "cancer_types": [
-        "Breast"
-      ],
-      "biomarkers": "EGFR, HER2, PD-L1"
-    },
-    {
-      "title": "A Non-interventional, Multicenter, Prospective stUdy to Record Treatment patteRns of nivOlumab+Ipilimumab+chemotheRapy Combination as First Line treAtment of Metastatic NSCLC in Routine Clinical Practice in Greece - the 'AURORA' Study",
-      "hook": "Nivolumab plus ipilimumab plus chemotherapy improves metastatic lung cancer outcomes",
-      "summary": "Study tracked real-world outcomes of metastatic lung cancer patients treated with a three-drug combination of immunotherapy and chemotherapy.",
-      "url": "https://clinicaltrials.gov/study/NCT05599685",
-      "source": "ClinicalTrials.gov",
-      "pub_date": "2026-05-28",
-      "category": [
-        "Clinical Trials",
-        "Biomarkers & Diagnostics"
-      ],
-      "cancer_types": [
-        "Lung"
-      ],
-      "biomarkers": "EGFR, PD-L1"
-    },
-    {
-      "title": "A Phase III, Randomized, Open-Label, Controlled, Multi-Center, Global Study of First-Line Durvalumab in Combination With Standard of Care Chemotherapy and Durvalumab in Combination With Tremelimumab and Standard of Care Chemotherapy Versus Standard of Care Chemotherapy Alone in Patients With Unresectable Locally Advanced or Metastatic Urothelial Cancer.",
-      "hook": "Durvalumab plus tremelimumab and chemotherapy improves advanced bladder cancer survival",
-      "summary": "Combining immune drugs durvalumab and tremelimumab with chemotherapy improves outcomes for advanced bladder cancer compared to chemotherapy alone.",
-      "url": "https://clinicaltrials.gov/study/NCT03682068",
-      "source": "ClinicalTrials.gov",
-      "pub_date": "2026-05-28",
-      "category": [
-        "Clinical Trials"
-      ],
-      "cancer_types": [
-        "Bladder"
-      ],
-      "biomarkers": "PD-L1"
     }
   ],
   "article_count": 10,
-  "last_updated": "2026-06-01T13:04:30.823Z"
+  "last_updated": "2026-06-02T13:04:18.859Z"
 }
