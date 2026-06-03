@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-03T09:03:49.828Z",
+  "last_updated": "2026-06-03T09:04:00.723Z",
   "categories": {
     "supplements": [
       {
@@ -329,6 +329,34 @@
         "added_date": "2026-06-03"
       },
       {
+        "id": "recXwPzod8KGpeVaf",
+        "title": "Microencapsulated oxfendazole modulates neuroinflammation in experimental Taenia crassiceps neurocysticercosis.",
+        "summary": "Microencapsulated oxfendazole effectively treats brain parasitic infection while reducing harmful brain inflammation better than standard treatments.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42229693/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-03"
+      },
+      {
+        "id": "recV3VHRTxoaX4gzK",
+        "title": "Efficacy and Safety of Sacubitril/Valsartan in Protecting Cardiac Function in Patients Undergoing Chemotherapy: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
+        "summary": "Sacubitril/valsartan helps preserve heart function in cancer patients undergoing chemotherapy, though it may cause low blood pressure.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42228808/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 21,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-03"
+      },
+      {
         "id": "recre0S2JRvYeuPfy",
         "title": "Combinatorial drug repurposing of Valproic acid and Zebularine regulates Krüppel-like factor 4 and β-catenin expression in colon cancer cells.",
         "summary": "Combining two repurposed drugs effectively inhibits colon cancer cell growth by altering key cancer-related gene expression.",
@@ -395,34 +423,6 @@
           "General"
         ],
         "quality_score": 10,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-02"
-      },
-      {
-        "id": "recS6pSMTIiCfefhH",
-        "title": "Double Blind, Randomised, Placebo-controlled Study of Propranolol in Infantile Capillary Hemangiomas",
-        "summary": "Propranolol, a common blood pressure medication, effectively slows growth of facial hemangiomas in infants under four months old.",
-        "url": "https://clinicaltrials.gov/study/NCT00744185",
-        "source": "ClinicalTrials.gov",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-02"
-      },
-      {
-        "id": "recMTXblbwRmOb1BR",
-        "title": "Standardized workflow enables reproducibility of drug synergism detection: Results from a multi-center in vitro ring test on complex drug combinations in pancreatic cancer models.",
-        "summary": "Standardized procedures across labs confirmed that combining valproic acid and simvastatin enhances pancreatic cancer cell death, improving reproducibility in drug synergy studies.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42224741/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Pancreatic"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-02"
       }
@@ -861,9 +861,9 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27365,
+    "archive_count": 27366,
     "archive_supplements": 2903,
-    "archive_off_label": 903,
+    "archive_off_label": 904,
     "archive_biomarkers": 17150,
     "archive_trials": 5660,
     "archive_mind_body": 457
