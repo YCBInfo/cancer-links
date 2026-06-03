@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-03T09:05:23.616Z",
+  "last_updated": "2026-06-03T09:05:39.235Z",
   "categories": {
     "supplements": [
       {
@@ -385,6 +385,20 @@
         "added_date": "2026-06-03"
       },
       {
+        "id": "recjCdNNudOy14pfk",
+        "title": "Valproic acid: Mechanistic insights into neuronal actions, epigenetic modulation, and clinical risk.",
+        "summary": "Valproic acid, used for decades in neuropsychiatric treatment, shows promise as an epigenetic cancer modifier but carries serious risks including birth defects and liver damage.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42001774/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-03"
+      },
+      {
         "id": "recre0S2JRvYeuPfy",
         "title": "Combinatorial drug repurposing of Valproic acid and Zebularine regulates Krüppel-like factor 4 and β-catenin expression in colon cancer cells.",
         "summary": "Combining two repurposed drugs effectively inhibits colon cancer cell growth by altering key cancer-related gene expression.",
@@ -405,20 +419,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/42223236/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-02"
-      },
-      {
-        "id": "rec4SePn18uiXWe5I",
-        "title": "Alogliptin-metformin synergy ameliorates diabetes-associated bone loss via modulation of DPP-4 activity and OPG/RANKL signaling.",
-        "summary": "Combined alogliptin-metformin treatment protects bones in diabetic rats by reducing inflammation and restoring bone-regulating protein balance.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42222850/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
         "cancer_types": [
           "General"
         ],
@@ -861,11 +861,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27372,
+    "archive_count": 27373,
     "archive_supplements": 2903,
     "archive_off_label": 907,
     "archive_biomarkers": 17152,
-    "archive_trials": 5661,
+    "archive_trials": 5662,
     "archive_mind_body": 457
   }
 }
