@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-03T09:04:11.769Z",
+  "last_updated": "2026-06-03T09:04:24.925Z",
   "categories": {
     "supplements": [
       {
@@ -357,6 +357,20 @@
         "added_date": "2026-06-03"
       },
       {
+        "id": "rec6YQCdGpr5dIctS",
+        "title": "Statin Use and Survival in Early Breast Cancer According to Different Intrinsic Subtypes.",
+        "summary": "Statins may improve survival in breast cancer patients, with benefits potentially varying across different cancer subtypes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42228366/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-03"
+      },
+      {
         "id": "recre0S2JRvYeuPfy",
         "title": "Combinatorial drug repurposing of Valproic acid and Zebularine regulates Krüppel-like factor 4 and β-catenin expression in colon cancer cells.",
         "summary": "Combining two repurposed drugs effectively inhibits colon cancer cell growth by altering key cancer-related gene expression.",
@@ -409,20 +423,6 @@
           "Lung"
         ],
         "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-02"
-      },
-      {
-        "id": "recpk61sCPS5klV6I",
-        "title": "Effect of Olanzapine on Opioid Craving and Misuse Among Patients Receiving Opioids for Cancer-related Pain: A Pilot Double-Blind, Randomized Control Trial",
-        "summary": "Olanzapine may reduce opioid craving and misuse in cancer patients taking long-term pain medications.",
-        "url": "https://clinicaltrials.gov/study/NCT06200181",
-        "source": "ClinicalTrials.gov",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-02"
       }
@@ -861,9 +861,9 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27367,
+    "archive_count": 27368,
     "archive_supplements": 2903,
-    "archive_off_label": 904,
+    "archive_off_label": 905,
     "archive_biomarkers": 17151,
     "archive_trials": 5660,
     "archive_mind_body": 457
