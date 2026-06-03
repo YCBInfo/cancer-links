@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-03T06:08:26.865Z",
+  "last_updated": "2026-06-03T06:08:37.235Z",
   "categories": {
     "supplements": [
       {
@@ -229,6 +229,20 @@
         "added_date": "2026-06-03"
       },
       {
+        "id": "recVGF5Oj9rauw4l1",
+        "title": "Investigating the Efficacy of Propranolol in Treating Chronic Stress Combined with Colorectal Cancer in Mice and Its Antitumor Potential.",
+        "summary": "Propranolol, a blood pressure medication, reduced colorectal cancer tumor growth in stressed mice, offering a potential treatment for cancer patients with depression.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42229739/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-03"
+      },
+      {
         "id": "recre0S2JRvYeuPfy",
         "title": "Combinatorial drug repurposing of Valproic acid and Zebularine regulates Krüppel-like factor 4 and β-catenin expression in colon cancer cells.",
         "summary": "Combining two repurposed drugs effectively inhibits colon cancer cell growth by altering key cancer-related gene expression.",
@@ -407,20 +421,6 @@
           "Prostate"
         ],
         "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-06-01"
-      },
-      {
-        "id": "recwmetoBzEIEkIWk",
-        "title": "Real-world Clinical Outcomes of Ivermectin and Mebendazole in Cancer Patients: Results from a Prospective Observational Cohort.",
-        "summary": "Antiparasitic drugs ivermectin and mebendazole show promise as accessible, low-toxicity cancer treatments in real-world patient use.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42203321/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-06-01"
       }
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27303,
+    "archive_count": 27304,
     "archive_supplements": 2898,
     "archive_off_label": 902,
-    "archive_biomarkers": 17119,
+    "archive_biomarkers": 17120,
     "archive_trials": 5637,
     "archive_mind_body": 455
   }
