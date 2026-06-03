@@ -11,6 +11,21 @@
   },
   "articles": [
     {
+      "title": "Optimizing Immunosuppression for Steroid-Refractory Anti-PD-1/PD-L1 Pneumonitis",
+      "hook": "Infliximab and IVIG treat steroid-refractory anti-PD-1 pneumonitis",
+      "summary": "A phase II trial testing infliximab and intravenous immunoglobulin therapy for treating severe pneumonitis from immunotherapy that doesn't respond to steroids.",
+      "url": "https://clinicaltrials.gov/study/NCT04438382",
+      "source": "ClinicalTrials.gov",
+      "pub_date": "2026-06-02",
+      "category": [
+        "Clinical Trials"
+      ],
+      "cancer_types": [
+        "General"
+      ],
+      "biomarkers": "PD-L1"
+    },
+    {
       "title": "Adjuvant Nivolumab vs Observation in Resected Non-Small Cell Lung Cancer: A Randomized Clinical Trial.",
       "hook": "Adjuvant nivolumab improves survival in resected non-small cell lung cancer",
       "summary": "Nivolumab after surgery improved survival outcomes in patients with resectable non-small cell lung cancer compared to observation alone.",
@@ -121,53 +136,39 @@
       "biomarkers": "PD-L1"
     },
     {
-      "title": "A Phase 1b Biomarker-Driven Combination Trial of Copanlisib, Olaparib, and Durvalumab (MEDI4736) in Patients With Advanced Solid Tumors",
-      "hook": "Copanlisib, olaparib, and durvalumab combination targets DNA repair-deficient tumors",
-      "summary": "Trial testing three-drug combination targeting advanced solid tumors with DNA repair mutations to improve cancer treatment outcomes.",
-      "url": "https://clinicaltrials.gov/study/NCT03842228",
-      "source": "ClinicalTrials.gov",
-      "pub_date": "2026-05-29",
+      "title": "Neoadjuvant pembrolizumab plus chemotherapy in germline BRCA-mutated early triple-negative breast cancer: a multicenter real-world cohort.",
+      "hook": "Pembrolizumab plus chemotherapy improves pathologic complete response in BRCA-mutated triple-negative breast cancer",
+      "summary": "Pembrolizumab plus chemotherapy before surgery achieves higher complete tumor elimination in triple-negative breast cancer patients with BRCA mutations.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42230640/",
+      "source": "PubMed",
+      "pub_date": "2026-06-01",
       "category": [
-        "Clinical Trials",
-        "Biomarkers & Diagnostics"
-      ],
-      "cancer_types": [
-        "General"
-      ],
-      "biomarkers": "BRCA1, BRCA2, PD-L1, PIK3CA"
-    },
-    {
-      "title": "A Phase 3, Randomized, Double-blind, Multicenter Study of MK-1084 in Combination With Pembrolizumab Compared With Pembrolizumab Plus Placebo as Firstline Treatment of Participants With KRAS G12C-Mutant, Locally Advanced or Metastatic NSCLC With PD-L1 TPS ≥50% (KANDLELIT-004)",
-      "hook": "MK-1084 plus pembrolizumab improves survival in KRAS G12C-mutant lung cancer",
-      "summary": "Adding calderasib to pembrolizumab improves survival outcomes in advanced lung cancer patients with specific KRAS mutations.",
-      "url": "https://clinicaltrials.gov/study/NCT06345729",
-      "source": "ClinicalTrials.gov",
-      "pub_date": "2026-05-29",
-      "category": [
-        "Clinical Trials",
-        "Biomarkers & Diagnostics"
-      ],
-      "cancer_types": [
-        "Lung"
-      ],
-      "biomarkers": "KRAS, PD-L1"
-    },
-    {
-      "title": "A Phase II Study of Combined Treatment of Durvalumab, Bevacizumab, Tremelimumab and Transarterial Chemoembolization (TACE) in Subjects With Hepatocellular Carcinoma (HCC) or Biliary Tract Carcinoma (BTC)",
-      "hook": "Durvalumab, bevacizumab, and tremelimumab combined with TACE improves hepatocellular carcinoma survival",
-      "summary": "Researchers tested combining four treatments—two immunotherapy drugs, an anti-angiogenic drug, and a liver-targeted procedure—to improve survival in advanced hepatocellular carcinoma.",
-      "url": "https://clinicaltrials.gov/study/NCT03937830",
-      "source": "ClinicalTrials.gov",
-      "pub_date": "2026-05-29",
-      "category": [
+        "Biomarkers & Diagnostics",
         "Clinical Trials"
       ],
       "cancer_types": [
-        "Liver"
+        "Breast"
+      ],
+      "biomarkers": "BRCA1, BRCA2, PD-L1"
+    },
+    {
+      "title": "Pregnancy during pembrolizumab therapy for triple-negative breast cancer with onset of congenital hypothyroidism: Case report, literature review, and caution for clinical practice.",
+      "hook": "Pembrolizumab exposure during pregnancy causes congenital hypothyroidism in newborn",
+      "summary": "Pembrolizumab exposure during pregnancy caused congenital hypothyroidism in a triple-negative breast cancer patient's newborn, highlighting risks of immunotherapy in pregnancy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41967388/",
+      "source": "PubMed",
+      "pub_date": "2026-06-01",
+      "category": [
+        "Clinical Trials",
+        "Biomarkers & Diagnostics"
+      ],
+      "cancer_types": [
+        "Breast",
+        "Melanoma"
       ],
       "biomarkers": "PD-L1"
     }
   ],
   "article_count": 10,
-  "last_updated": "2026-06-02T13:04:18.859Z"
+  "last_updated": "2026-06-03T13:04:02.692Z"
 }
