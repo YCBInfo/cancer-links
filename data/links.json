@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-03T06:05:00.856Z",
+  "last_updated": "2026-06-03T06:05:12.547Z",
   "categories": {
     "supplements": [
       {
@@ -37,6 +37,34 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/42230450/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-03"
+      },
+      {
+        "id": "recEyf0y9zM7xahIG",
+        "title": "Cross-kingdom signals: microbial, metabolites, and immune cells on the gut-breast axis.",
+        "summary": "Gut microbes and their metabolites influence breast cancer progression and lactation health through the gut-breast axis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42228631/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-03"
+      },
+      {
+        "id": "reccKfxLyD4V6ODzC",
+        "title": "Effect of Fermented Papaya Preparation Intake on Fatigue Recovery, Useful Field of View and Oxidative Stress: A Pilot Interventional Study in Professional Bus and Motor Racing Drivers.",
+        "summary": "Fermented papaya supplement reduced fatigue and improved focus in professional drivers through antioxidant effects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42228614/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "General"
         ],
@@ -175,34 +203,6 @@
         "title": "Acute cancer-related fatigue response following exercise during an outpatient cancer rehabilitation program.",
         "summary": "Exercise during cancer rehabilitation immediately reduces fatigue in cancer survivors, with effects varying based on workout intensity.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42223700/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-02"
-      },
-      {
-        "id": "recIFScAMP0wgIwor",
-        "title": "Polytrichastrum alpinum methanol extract induces cell cycle arrest and apoptosis in mammary tumor cells of companion dogs.",
-        "summary": "A plant extract stops growth and kills canine mammary tumor cells, offering a potentially safer alternative to standard chemotherapy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42223534/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-02"
-      },
-      {
-        "id": "recpqxh6p8CYfSxBh",
-        "title": "Sclerofish A and B: Two Pairs of Enantiomeric Diterpenoids Featuring a 4/7/6-Fused Tricyclic Scaffold from the Soft Coral Sclerophytum humesi.",
-        "summary": "Two new compounds from soft coral show promise against liver cancer cells, with one pair exhibiting strong selective toxicity.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42223449/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27285,
+    "archive_count": 27286,
     "archive_supplements": 2896,
     "archive_off_label": 901,
-    "archive_biomarkers": 17105,
+    "archive_biomarkers": 17106,
     "archive_trials": 5636,
     "archive_mind_body": 455
   }
