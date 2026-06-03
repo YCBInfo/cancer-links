@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-03T02:37:43.339Z",
+  "last_updated": "2026-06-03T06:03:27.511Z",
   "categories": {
     "supplements": [
       {
@@ -13,6 +13,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-03"
+      },
+      {
+        "id": "recYg9Z02xv7GbdbS",
+        "title": "ZIF-8/polydopamine nanocomposite functionalized with hyaluronic acid and folic acid for pH-responsive resveratrol delivery and apoptosis induction in colorectal cancer.",
+        "summary": "A nanoparticle delivery system successfully released resveratrol into colorectal cancer cells, triggering apoptosis and reducing cancer cell growth in laboratory tests.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42230727/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-03"
       },
@@ -197,23 +211,23 @@
         "quality_score": 12,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-02"
-      },
-      {
-        "id": "rec6iTfx5Xblamnju",
-        "title": "Exercise hormone irisin alleviates rheumatoid arthritis by removing dysfunctional mitochondria.",
-        "summary": "Exercise hormone irisin treats rheumatoid arthritis by activating the removal of damaged mitochondria in immune cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42186185/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Melanoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-02"
       }
     ],
     "off_label": [
+      {
+        "id": "rec37Yz0genyz6OFo",
+        "title": "Targeting USP10/SCD1 axis by RAF265 suppresses lipogenesis and induced ferroptosis in head and neck squamous cell carcinoma.",
+        "summary": "RAF265 suppresses head and neck cancer growth by blocking USP10, reducing fat production and triggering cancer cell death.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42230571/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-03"
+      },
       {
         "id": "recre0S2JRvYeuPfy",
         "title": "Combinatorial drug repurposing of Valproic acid and Zebularine regulates Krüppel-like factor 4 and β-catenin expression in colon cancer cells.",
@@ -409,23 +423,177 @@
         "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-06-01"
+      }
+    ],
+    "biomarkers": [
+      {
+        "id": "rec6VT2OJIMuTQ2Jm",
+        "title": "Early-stage drug discovery in a new-generation ultrahigh-throughput mass spectrometry platform.",
+        "summary": "Scientists developed an automated mass spectrometry platform that accelerates drug discovery by synthesizing and testing drug candidates in a single, streamlined process.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42228541/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-03"
       },
       {
-        "id": "recpkOf5Jck1n70L6",
-        "title": "Looming Concerns With Gabapentin Oversight: Balancing Safety and Access.",
-        "summary": "Gabapentin regulation as a controlled substance may improve safety but risks limiting access for vulnerable patients needing pain relief.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42060456/",
+        "id": "recVCeXidf6klq6PN",
+        "title": "Lung cancer therapy using a chitosan-based nano drug discovery system of silver nanoparticles and chemotherapeutics.",
+        "summary": "Researchers developed chitosan nanoparticles combined with silver and chemotherapy drugs to more effectively treat lung cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42231018/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-03"
+      },
+      {
+        "id": "recQpMS1LdWebWqUz",
+        "title": "Multi-omics and artificial intelligence for precision drug discovery and potential clinical applications.",
+        "summary": "AI combined with multi-omics data accelerates drug discovery by identifying disease patterns and predicting therapeutic targets more precisely across cancer and other diseases.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42230553/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-03"
+      },
+      {
+        "id": "reczmP07vyjq5svRY",
+        "title": "Super self-on biosensor based on target molecule-responsive mode and antifouling biopeptides for ultrasensitive detection of prostate specific antigen.",
+        "summary": "Researchers developed an ultrasensitive biosensor for detecting prostate cancer markers in blood using a novel self-activating technology.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42230342/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-03"
+      },
+      {
+        "id": "recIoTtTCkxPEhO3Q",
+        "title": "GOT1 promotes endometrial cancer progression by regulating ferroptosis through the STAT3-GPX4 axis and attenuating medroxyprogesterone acetate sensitivity.",
+        "summary": "GOT1 protein promotes endometrial cancer growth and drug resistance by blocking ferroptosis through a STAT3-GPX4 pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42230821/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-03"
+      },
+      {
+        "id": "reczrCHG3rnY1WDw7",
+        "title": "Deep learning prediction of pathological complete response in breast cancer using Mamba architecture.",
+        "summary": "A new AI model predicts which breast cancer patients will respond well to chemotherapy before treatment begins.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42230774/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-03"
+      },
+      {
+        "id": "recYg9Z02xv7GbdbS",
+        "title": "ZIF-8/polydopamine nanocomposite functionalized with hyaluronic acid and folic acid for pH-responsive resveratrol delivery and apoptosis induction in colorectal cancer.",
+        "summary": "A nanoparticle delivery system successfully released resveratrol into colorectal cancer cells, triggering apoptosis and reducing cancer cell growth in laboratory tests.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42230727/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-03"
+      },
+      {
+        "id": "reclISpsj2M2XVssz",
+        "title": "Machine learning-based identification of high-risk triple-negative breast cancer patients despite pathological complete response after neoadjuvant chemotherapy.",
+        "summary": "Machine learning identifies high-risk triple-negative breast cancer patients who achieve complete response but still face worse survival outcomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42230652/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-03"
+      },
+      {
+        "id": "recqqZNmLRyzCcR55",
+        "title": "Neoadjuvant pembrolizumab plus chemotherapy in germline BRCA-mutated early triple-negative breast cancer: a multicenter real-world cohort.",
+        "summary": "Pembrolizumab plus chemotherapy before surgery achieves higher complete tumor elimination in triple-negative breast cancer patients with BRCA mutations.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42230640/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-03"
+      },
+      {
+        "id": "recyWTE14e0hkovUk",
+        "title": "Sphingosine kinase-2 inhibition promotes immunogenic differentiation of myeloid-derived suppressor cells through an Acetyl-CoA carboxylase-phosphatidylcholine axis.",
+        "summary": "Blocking sphingosine kinase-2 reduces immune-suppressing cells and boosts immunotherapy response in breast, bladder, and melanoma cancers.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42230631/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Melanoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-03"
+      },
+      {
+        "id": "rec37Yz0genyz6OFo",
+        "title": "Targeting USP10/SCD1 axis by RAF265 suppresses lipogenesis and induced ferroptosis in head and neck squamous cell carcinoma.",
+        "summary": "RAF265 suppresses head and neck cancer growth by blocking USP10, reducing fat production and triggering cancer cell death.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42230571/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
           "General"
         ],
-        "quality_score": 10,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-06-01"
-      }
-    ],
-    "biomarkers": [
+        "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-03"
+      },
+      {
+        "id": "receQTNNA51M3ObDM",
+        "title": "Surface cues shape procoagulant properties of amyloidogenic microclots.",
+        "summary": "Abnormal protein-coated microclots resistant to normal breakdown drive dangerous blood clotting in inflammatory diseases.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42230554/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-03"
+      },
       {
         "id": "rect2S1R0qsuIQeaM",
         "title": "Do BKPyV genomic features underlie clinical divergence between kidney and hematopoietic transplant recipients?",
@@ -466,174 +634,6 @@
           "Lymphoma"
         ],
         "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-02"
-      },
-      {
-        "id": "recHELcCjefl5F6vP",
-        "title": "Aquaporin-1 sustains lymphangiogenic responses in hyperosmotic inflammatory microenvironments.",
-        "summary": "A water channel protein called AQP1 enables intestinal lymph vessels to adapt to high-salt, inflammatory environments and absorb dietary fats.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42223480/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-02"
-      },
-      {
-        "id": "reca0q40N0m3BnCw2",
-        "title": "Human germline biallelic loss-of-function OSMR variants cause severe allergic disease.",
-        "summary": "Mutations in the OSMR gene cause severe allergic skin disease by impairing immune cell signaling pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42221229/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-02"
-      },
-      {
-        "id": "recncxh0CFqtrR8vD",
-        "title": "Crotonylation impedes c-Myc oncogenic activity.",
-        "summary": "A chemical modification called crotonylation reduces c-Myc cancer protein activity, and mutations blocking this modification increase cancer risk.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42224600/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-02"
-      },
-      {
-        "id": "rec8bUyPpHWLGd3yi",
-        "title": "HLA micropolymorphisms confine neoantigen conformational adaptability and guide T cell receptor selectivity.",
-        "summary": "Small HLA protein differences alter cancer neoantigen shape, preventing immune cells from recognizing the same mutation across different HLA types.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42224598/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-02"
-      },
-      {
-        "id": "recaOUhRrIOpKCm6I",
-        "title": "A targeted combination therapy achieves effective pancreatic cancer regression and prevents tumor resistance.",
-        "summary": "Combining three targeted drugs—targeting KRAS, EGFR, and STAT3—completely shrinks pancreatic tumors and prevents treatment resistance.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42224594/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Pancreatic"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-02"
-      },
-      {
-        "id": "recp8lKEUAuU0U22q",
-        "title": "[Key points and interpretation of Chinese expert's consensus on endocrine therapy of breast cancer (2026 edition)].",
-        "summary": "Chinese experts updated 2026 guidelines for breast cancer hormone therapy, expanding CDK4/6 inhibitor use and improving treatment precision across disease stages.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42209170/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-06-02"
-      },
-      {
-        "id": "recK46B0EQb1aiE6b",
-        "title": "Racial disparities in the survival outcomes of craniopharyngioma: a 17-year population-based analysis.",
-        "summary": "Black and Hispanic craniopharyngioma patients experience worse survival rates than white patients, highlighting significant racial disparities in outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42224734/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-02"
-      },
-      {
-        "id": "reckGB6O2Dh1qY8zX",
-        "title": "Symptomatic manifestation of a cauda equina arteriovenous fistula after resection of a coexisting spinal schwannoma: illustrative case.",
-        "summary": "A rare spinal nerve bundle fistula became symptomatic only after surgical removal of a coexisting benign tumor.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42224731/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-02"
-      },
-      {
-        "id": "rec9YUbRbAgX9cV7H",
-        "title": "Bilateral dumbbell-shaped ganglioneuroma of the C2 roots in a patient with Charcot-Marie-Tooth disease: illustrative case.",
-        "summary": "Doctors report the first known case of rare benign nerve tumors occurring with Charcot-Marie-Tooth disease.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42224724/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-02"
-      },
-      {
-        "id": "rec1oiEerL0e4HSp9",
-        "title": "Evolving approaches to craniopharyngioma diagnosis.",
-        "summary": "Researchers are developing noninvasive diagnostic methods, including imaging and blood tests, to replace invasive surgical biopsies for craniopharyngioma.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42224717/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-02"
-      },
-      {
-        "id": "recRoTOI50qLjzpT6",
-        "title": "Standard Versus Reduced Sotorasib Dosing in KRAS G12C-Mutated Non-Small Cell Lung Cancer: A Systematic Review and Meta-Analysis-Have We Answered the Dosing Question?",
-        "summary": "Sotorasib's standard lung cancer dose may be unnecessarily high; lower doses show similar benefits with fewer side effects.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42224643/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 32,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-02"
-      },
-      {
-        "id": "rec0wUdvVWEFiziNA",
-        "title": "Tumor-Agnostic Therapies: Translating Scientific Breakthroughs Into Global Implementation.",
-        "summary": "Tumor-agnostic drugs show promise but face major global implementation barriers, requiring coordinated strategies to ensure equitable access across all regions.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42224642/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-02"
       }
@@ -724,6 +724,90 @@
         "added_date": "2026-06-03"
       },
       {
+        "id": "recVCeXidf6klq6PN",
+        "title": "Lung cancer therapy using a chitosan-based nano drug discovery system of silver nanoparticles and chemotherapeutics.",
+        "summary": "Researchers developed chitosan nanoparticles combined with silver and chemotherapy drugs to more effectively treat lung cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42231018/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-03"
+      },
+      {
+        "id": "recQpMS1LdWebWqUz",
+        "title": "Multi-omics and artificial intelligence for precision drug discovery and potential clinical applications.",
+        "summary": "AI combined with multi-omics data accelerates drug discovery by identifying disease patterns and predicting therapeutic targets more precisely across cancer and other diseases.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42230553/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-03"
+      },
+      {
+        "id": "reczrCHG3rnY1WDw7",
+        "title": "Deep learning prediction of pathological complete response in breast cancer using Mamba architecture.",
+        "summary": "A new AI model predicts which breast cancer patients will respond well to chemotherapy before treatment begins.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42230774/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-03"
+      },
+      {
+        "id": "reclISpsj2M2XVssz",
+        "title": "Machine learning-based identification of high-risk triple-negative breast cancer patients despite pathological complete response after neoadjuvant chemotherapy.",
+        "summary": "Machine learning identifies high-risk triple-negative breast cancer patients who achieve complete response but still face worse survival outcomes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42230652/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-03"
+      },
+      {
+        "id": "recqqZNmLRyzCcR55",
+        "title": "Neoadjuvant pembrolizumab plus chemotherapy in germline BRCA-mutated early triple-negative breast cancer: a multicenter real-world cohort.",
+        "summary": "Pembrolizumab plus chemotherapy before surgery achieves higher complete tumor elimination in triple-negative breast cancer patients with BRCA mutations.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42230640/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-03"
+      },
+      {
+        "id": "recyWTE14e0hkovUk",
+        "title": "Sphingosine kinase-2 inhibition promotes immunogenic differentiation of myeloid-derived suppressor cells through an Acetyl-CoA carboxylase-phosphatidylcholine axis.",
+        "summary": "Blocking sphingosine kinase-2 reduces immune-suppressing cells and boosts immunotherapy response in breast, bladder, and melanoma cancers.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42230631/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Melanoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-03"
+      },
+      {
         "id": "recrJUxZWeMqZ3yjG",
         "title": "Identification of Novel Genetic Risk Variants Associated With Early-Onset Ischemic Stroke in Taiwan.",
         "summary": "Researchers identified new genetic variants linked to early-onset stroke in younger Taiwanese adults aged 18-54.",
@@ -764,90 +848,6 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-06-02"
-      },
-      {
-        "id": "recHyKzW6j5HXkP2S",
-        "title": "Endoscopic endonasal approach for recurrent craniopharyngioma in adults.",
-        "summary": "Endoscopic surgery through the nose effectively treats recurrent craniopharyngioma tumors in adults with good outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42224735/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-02"
-      },
-      {
-        "id": "recfS25A8sXYunAbU",
-        "title": "Endoscopic endonasal gross-total resection of pediatric craniopharyngioma invading the hypothalamus: rethinking the role of surgery.",
-        "summary": "Surgeons successfully removed entire pediatric brain tumors using minimally invasive nasal surgery without increasing complications compared to partial removal.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42224721/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-02"
-      },
-      {
-        "id": "recDWpGZ9P7Sl7waP",
-        "title": "Clinical outcomes and delayed proton therapy following endoscopic endonasal resection of large and giant pediatric craniopharyngiomas.",
-        "summary": "Endoscopic surgery followed by delayed proton therapy improved outcomes for children with large brain tumors called craniopharyngiomas.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42224719/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-02"
-      },
-      {
-        "id": "recuKlRWBnJNfmfyI",
-        "title": "Fovinaciclib for First-Line Therapy of Advanced Breast Cancer: A Randomized Clinical Trial.",
-        "summary": "A new drug called fovinaciclib was tested as a first-line treatment for advanced hormone receptor-positive breast cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42224659/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-02"
-      },
-      {
-        "id": "recRoTOI50qLjzpT6",
-        "title": "Standard Versus Reduced Sotorasib Dosing in KRAS G12C-Mutated Non-Small Cell Lung Cancer: A Systematic Review and Meta-Analysis-Have We Answered the Dosing Question?",
-        "summary": "Sotorasib's standard lung cancer dose may be unnecessarily high; lower doses show similar benefits with fewer side effects.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42224643/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 32,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-02"
-      },
-      {
-        "id": "rec0wUdvVWEFiziNA",
-        "title": "Tumor-Agnostic Therapies: Translating Scientific Breakthroughs Into Global Implementation.",
-        "summary": "Tumor-agnostic drugs show promise but face major global implementation barriers, requiring coordinated strategies to ensure equitable access across all regions.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42224642/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-02"
       }
     ],
     "mind_body": []
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27277,
+    "archive_count": 27278,
     "archive_supplements": 2895,
     "archive_off_label": 901,
-    "archive_biomarkers": 17098,
+    "archive_biomarkers": 17099,
     "archive_trials": 5636,
     "archive_mind_body": 455
   }
