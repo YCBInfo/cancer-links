@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-03T07:07:01.339Z",
+  "last_updated": "2026-06-03T07:07:16.307Z",
   "categories": {
     "supplements": [
       {
@@ -144,6 +144,21 @@
         "added_date": "2026-06-03"
       },
       {
+        "id": "rec6lHNn1fsq7kv2D",
+        "title": "Southern European Prospective Investigation Into Childhood Cancer and Nutrition (EPICkids)",
+        "summary": "EPICkids tracks nutrition, lifestyle, and quality of life in Southern European children with acute lymphoblastic leukemia and brain tumors to improve treatment outcomes.",
+        "url": "https://clinicaltrials.gov/study/NCT05375617",
+        "source": "ClinicalTrials.gov",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia",
+          "Brain"
+        ],
+        "quality_score": 13,
+        "pub_date": "2026-06-02",
+        "added_date": "2026-06-03"
+      },
+      {
         "id": "recwpWwvhTdbL3zBB",
         "title": "Protective Role of Apigenin-PEGylated Chitosan Nanoparticles Against Pesticide Deltamethrin-Induced Liver Injury via Antioxidant Activation, NF-κB Inhibition, and Bcl-2/Bax/Caspase-3 Signaling Modulation.",
         "summary": "Apigenin-loaded nanoparticles effectively protect rat livers from pesticide damage by boosting antioxidants and reducing inflammation.",
@@ -194,20 +209,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-02"
-      },
-      {
-        "id": "rec7weBi1S5wYu6HH",
-        "title": "Biomimetic Nanoparticles Based on Tumor Cell Membrane Co-loaded with Vitamin E and Doxorubicin for Targeted Synergistic Treatment of Bladder Cancer.",
-        "summary": "Nanoparticles coated with cancer cell membranes and loaded with vitamin E and chemotherapy drug effectively treat bladder cancer with reduced toxicity.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42223068/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Bladder"
         ],
         "quality_score": 15,
         "pub_date": "2026-06-01",
@@ -860,11 +861,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27347,
+    "archive_count": 27348,
     "archive_supplements": 2901,
     "archive_off_label": 903,
     "archive_biomarkers": 17144,
     "archive_trials": 5652,
-    "archive_mind_body": 455
+    "archive_mind_body": 456
   }
 }
