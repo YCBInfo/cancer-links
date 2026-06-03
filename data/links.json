@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-03T06:03:37.919Z",
+  "last_updated": "2026-06-03T06:03:50.415Z",
   "categories": {
     "supplements": [
       {
@@ -27,6 +27,20 @@
           "Colorectal"
         ],
         "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-03"
+      },
+      {
+        "id": "rec1074WjNhO4UY2K",
+        "title": "Targeting Pyruvate Kinase M2: Signal Transduction Pathways and Exploration of Cancer Therapeutic Strategies.",
+        "summary": "Blocking pyruvate kinase M2 shows promise as a cancer treatment by disrupting key tumor-promoting pathways, though clinical application remains challenging.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42230450/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-03"
       },
@@ -189,20 +203,6 @@
         "title": "Sclerofish A and B: Two Pairs of Enantiomeric Diterpenoids Featuring a 4/7/6-Fused Tricyclic Scaffold from the Soft Coral Sclerophytum humesi.",
         "summary": "Two new compounds from soft coral show promise against liver cancer cells, with one pair exhibiting strong selective toxicity.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42223449/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-02"
-      },
-      {
-        "id": "recolq7oGxSVYJctt",
-        "title": "Changes in Cancer Stem Cell Signalling Pathways With Plant Metabolites to Discover Chemotherapy.",
-        "summary": "Plant metabolites like curcumin and resveratrol can alter cancer stem cell signaling pathways, potentially triggering differentiation and death as a new chemotherapy approach.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42219757/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -609,10 +609,10 @@
         "added_date": "2026-06-03"
       },
       {
-        "id": "rect2S1R0qsuIQeaM",
-        "title": "Do BKPyV genomic features underlie clinical divergence between kidney and hematopoietic transplant recipients?",
-        "summary": "Host immune factors, not viral genetics, primarily determine whether BK polyomavirus causes kidney damage or bladder bleeding in transplant patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42223211/",
+        "id": "rec1074WjNhO4UY2K",
+        "title": "Targeting Pyruvate Kinase M2: Signal Transduction Pathways and Exploration of Cancer Therapeutic Strategies.",
+        "summary": "Blocking pyruvate kinase M2 shows promise as a cancer treatment by disrupting key tumor-promoting pathways, though clinical application remains challenging.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42230450/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -620,13 +620,13 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-06-01",
-        "added_date": "2026-06-02"
+        "added_date": "2026-06-03"
       },
       {
-        "id": "recAK4IZH2QoabphH",
-        "title": "Clinical manifestations and ultrasonographic features of lobular endocervical glandular hyperplasia: a retrospective study of 135 patients.",
-        "summary": "Researchers identified ultrasound imaging features that help detect early cervical cancer precursor lesions in 135 patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42220308/",
+        "id": "rect2S1R0qsuIQeaM",
+        "title": "Do BKPyV genomic features underlie clinical divergence between kidney and hematopoietic transplant recipients?",
+        "summary": "Host immune factors, not viral genetics, primarily determine whether BK polyomavirus causes kidney damage or bladder bleeding in transplant patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42223211/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -858,10 +858,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27279,
+    "archive_count": 27280,
     "archive_supplements": 2895,
     "archive_off_label": 901,
-    "archive_biomarkers": 17100,
+    "archive_biomarkers": 17101,
     "archive_trials": 5636,
     "archive_mind_body": 455
   }
