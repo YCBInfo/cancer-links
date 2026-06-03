@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-03T09:04:48.786Z",
+  "last_updated": "2026-06-03T09:05:07.218Z",
   "categories": {
     "supplements": [
       {
@@ -371,6 +371,20 @@
         "added_date": "2026-06-03"
       },
       {
+        "id": "rec4n5Or4m0virZa4",
+        "title": "Aspirin or non-steroidal anti-inflammatory drug initiation and subsequent bladder cancer evaluation.",
+        "summary": "Starting aspirin or NSAIDs may reveal existing bladder cancers through bleeding, but the actual cancer-causing effect remains unclear.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42220091/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Bladder"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-03"
+      },
+      {
         "id": "recre0S2JRvYeuPfy",
         "title": "Combinatorial drug repurposing of Valproic acid and Zebularine regulates Krüppel-like factor 4 and β-catenin expression in colon cancer cells.",
         "summary": "Combining two repurposed drugs effectively inhibits colon cancer cell growth by altering key cancer-related gene expression.",
@@ -409,20 +423,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-02"
-      },
-      {
-        "id": "recBUqIJ4O0RBeSX9",
-        "title": "Fuzuloparib enhances radiosensitivity of gain-of-function mutant p53 R273H NSCLC by promoting SLC7A11/GSH/GPX4 axis mediated ferroptosis.",
-        "summary": "Fuzuloparib enhances radiation therapy effectiveness in mutant p53 lung cancer by triggering cell death through ferroptosis.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42225931/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-02"
       }
@@ -861,9 +861,9 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27369,
+    "archive_count": 27370,
     "archive_supplements": 2903,
-    "archive_off_label": 906,
+    "archive_off_label": 907,
     "archive_biomarkers": 17151,
     "archive_trials": 5660,
     "archive_mind_body": 457
