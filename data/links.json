@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-04T07:03:52.353Z",
+  "last_updated": "2026-06-04T07:04:05.315Z",
   "categories": {
     "supplements": [
       {
@@ -555,6 +555,20 @@
         "added_date": "2026-06-04"
       },
       {
+        "id": "rec6kFpCcrKMPmcm2",
+        "title": "Evaluation of Gixam's Efficacy Predicting the Presence of Advanced and Non-advanced Colorectal Neoplasia in a FIT Negative Population",
+        "summary": "Gixam device test evaluates its ability to detect colorectal precancer and cancer in patients with negative FIT results.",
+        "url": "https://clinicaltrials.gov/study/NCT07623902",
+        "source": "ClinicalTrials.gov",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 13,
+        "pub_date": "2026-06-03",
+        "added_date": "2026-06-04"
+      },
+      {
         "id": "rec6VT2OJIMuTQ2Jm",
         "title": "Early-stage drug discovery in a new-generation ultrahigh-throughput mass spectrometry platform.",
         "summary": "Scientists developed an automated mass spectrometry platform that accelerates drug discovery by synthesizing and testing drug candidates in a single, streamlined process.",
@@ -621,20 +635,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-03"
-      },
-      {
-        "id": "reczrCHG3rnY1WDw7",
-        "title": "Deep learning prediction of pathological complete response in breast cancer using Mamba architecture.",
-        "summary": "A new AI model predicts which breast cancer patients will respond well to chemotherapy before treatment begins.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42230774/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-03"
       }
@@ -837,18 +837,18 @@
         "added_date": "2026-06-04"
       },
       {
-        "id": "recOK2iIanFCM9vLy",
-        "title": "Effectiveness Comparisons of Various Psychological Therapies for Fear of Cancer Recurrence in Cancer Patients: A Systematic Review and Network Meta-Analysis.",
-        "summary": "Psychological therapies effectively reduce cancer patients' fear of recurrence, with varying effectiveness levels across different treatment approaches.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42216873/",
-        "source": "PubMed",
-        "category": "Mind-Body & Faith",
+        "id": "rec6kFpCcrKMPmcm2",
+        "title": "Evaluation of Gixam's Efficacy Predicting the Presence of Advanced and Non-advanced Colorectal Neoplasia in a FIT Negative Population",
+        "summary": "Gixam device test evaluates its ability to detect colorectal precancer and cancer in patients with negative FIT results.",
+        "url": "https://clinicaltrials.gov/study/NCT07623902",
+        "source": "ClinicalTrials.gov",
+        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
-          "General"
+          "Colorectal"
         ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-06-03"
+        "quality_score": 13,
+        "pub_date": "2026-06-03",
+        "added_date": "2026-06-04"
       }
     ],
     "mind_body": []
@@ -860,11 +860,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27394,
+    "archive_count": 27395,
     "archive_supplements": 2903,
     "archive_off_label": 913,
     "archive_biomarkers": 17161,
-    "archive_trials": 5668,
+    "archive_trials": 5669,
     "archive_mind_body": 457
   }
 }
