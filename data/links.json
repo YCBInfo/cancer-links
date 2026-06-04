@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-04T09:04:07.338Z",
+  "last_updated": "2026-06-04T09:04:18.489Z",
   "categories": {
     "supplements": [
       {
@@ -39,6 +39,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-04"
+      },
+      {
+        "id": "recwUipFQs2SLFLKv",
+        "title": "Elucidating the Mechanism of Oridonin in Treating Hepatocellular Carcinoma: Network Pharmacology and Experimental Validation.",
+        "summary": "Oridonin, a plant compound, fights liver cancer by blocking key proteins in the EGFR/PI3K/AKT signaling pathway, stopping cell growth and triggering cell death.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42233527/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Liver"
         ],
         "quality_score": 15,
         "pub_date": "2026-06-01",
@@ -199,20 +213,6 @@
         "quality_score": 13,
         "pub_date": "2026-06-02",
         "added_date": "2026-06-03"
-      },
-      {
-        "id": "recwpWwvhTdbL3zBB",
-        "title": "Protective Role of Apigenin-PEGylated Chitosan Nanoparticles Against Pesticide Deltamethrin-Induced Liver Injury via Antioxidant Activation, NF-κB Inhibition, and Bcl-2/Bax/Caspase-3 Signaling Modulation.",
-        "summary": "Apigenin-loaded nanoparticles effectively protect rat livers from pesticide damage by boosting antioxidants and reducing inflammation.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42224433/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-02"
       }
     ],
     "off_label": [
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27423,
+    "archive_count": 27424,
     "archive_supplements": 2904,
     "archive_off_label": 914,
-    "archive_biomarkers": 17172,
+    "archive_biomarkers": 17173,
     "archive_trials": 5684,
     "archive_mind_body": 457
   }
