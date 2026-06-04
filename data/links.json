@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-04T09:04:29.286Z",
+  "last_updated": "2026-06-04T09:04:42.423Z",
   "categories": {
     "supplements": [
       {
@@ -301,6 +301,20 @@
         "added_date": "2026-06-04"
       },
       {
+        "id": "recrjJLSb1SmKvunM",
+        "title": "Single-Cell Analysis Identifies LYPD6B as a Tumor-Intrinsic Candidate Associated With Immunotherapy Nonresponse in Breast Cancer.",
+        "summary": "Researchers identified LYPD6B, a protein in breast cancer cells that helps tumors evade immunotherapy, offering a new target to improve treatment response.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42231559/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-04"
+      },
+      {
         "id": "rec37Yz0genyz6OFo",
         "title": "Targeting USP10/SCD1 axis by RAF265 suppresses lipogenesis and induced ferroptosis in head and neck squamous cell carcinoma.",
         "summary": "RAF265 suppresses head and neck cancer growth by blocking USP10, reducing fat production and triggering cancer cell death.",
@@ -403,20 +417,6 @@
         "title": "Unveiling the role of single versus repeated low-dose ketamine in attenuating doxorubicin-induced chemobrain and depression in rats: differential modulation of neuroinflammation, phosphorylated GLT-1, SERT, DAT and BDNF/TrkB signaling.",
         "summary": "Repeated low-dose ketamine better reduces chemobrain and depression caused by doxorubicin chemotherapy in rats through anti-inflammatory effects.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42229837/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-03"
-      },
-      {
-        "id": "recXwPzod8KGpeVaf",
-        "title": "Microencapsulated oxfendazole modulates neuroinflammation in experimental Taenia crassiceps neurocysticercosis.",
-        "summary": "Microencapsulated oxfendazole effectively treats brain parasitic infection while reducing harmful brain inflammation better than standard treatments.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42229693/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -860,11 +860,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27425,
+    "archive_count": 27426,
     "archive_supplements": 2904,
     "archive_off_label": 915,
     "archive_biomarkers": 17173,
-    "archive_trials": 5684,
+    "archive_trials": 5685,
     "archive_mind_body": 457
   }
 }
