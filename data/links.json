@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-04T07:05:52.085Z",
+  "last_updated": "2026-06-04T07:06:04.178Z",
   "categories": {
     "supplements": [
       {
@@ -597,6 +597,20 @@
         "added_date": "2026-06-04"
       },
       {
+        "id": "recr1S38x5bBwPhqU",
+        "title": "Genome-Wide Association Study of Radiation Exposure and Bilateral Breast Cancer",
+        "summary": "Researchers are identifying genetic factors that increase risk of second breast cancer in women who previously had radiation therapy.",
+        "url": "https://clinicaltrials.gov/study/NCT00903591",
+        "source": "ClinicalTrials.gov",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 13,
+        "pub_date": "2026-06-03",
+        "added_date": "2026-06-04"
+      },
+      {
         "id": "rec6VT2OJIMuTQ2Jm",
         "title": "Early-stage drug discovery in a new-generation ultrahigh-throughput mass spectrometry platform.",
         "summary": "Scientists developed an automated mass spectrometry platform that accelerates drug discovery by synthesizing and testing drug candidates in a single, streamlined process.",
@@ -621,20 +635,6 @@
           "Lung"
         ],
         "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-03"
-      },
-      {
-        "id": "recQpMS1LdWebWqUz",
-        "title": "Multi-omics and artificial intelligence for precision drug discovery and potential clinical applications.",
-        "summary": "AI combined with multi-omics data accelerates drug discovery by identifying disease patterns and predicting therapeutic targets more precisely across cancer and other diseases.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42230553/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-03"
       }
@@ -860,11 +860,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27403,
+    "archive_count": 27404,
     "archive_supplements": 2903,
     "archive_off_label": 913,
     "archive_biomarkers": 17166,
-    "archive_trials": 5672,
+    "archive_trials": 5673,
     "archive_mind_body": 457
   }
 }
