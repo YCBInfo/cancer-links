@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-04T09:05:30.494Z",
+  "last_updated": "2026-06-04T09:05:42.909Z",
   "categories": {
     "supplements": [
       {
@@ -53,6 +53,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-04"
+      },
+      {
+        "id": "recrs78L3dshz3lbC",
+        "title": "Discovery of a Novel γ-Glutamylcyclotransferase Inhibitor Plumbagin by Luminescence-Based High-Throughput Screening.",
+        "summary": "Researchers discovered plumbagin, a new drug candidate that blocks GGCT protein, slowing growth in lung, breast, and colon cancer cells and tumors.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41969233/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-06-01",
@@ -194,21 +208,6 @@
         "cancer_types": [
           "Colorectal",
           "Kidney"
-        ],
-        "quality_score": 13,
-        "pub_date": "2026-06-02",
-        "added_date": "2026-06-03"
-      },
-      {
-        "id": "rec6lHNn1fsq7kv2D",
-        "title": "Southern European Prospective Investigation Into Childhood Cancer and Nutrition (EPICkids)",
-        "summary": "EPICkids tracks nutrition, lifestyle, and quality of life in Southern European children with acute lymphoblastic leukemia and brain tumors to improve treatment outcomes.",
-        "url": "https://clinicaltrials.gov/study/NCT05375617",
-        "source": "ClinicalTrials.gov",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Leukemia",
-          "Brain"
         ],
         "quality_score": 13,
         "pub_date": "2026-06-02",
@@ -860,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27430,
+    "archive_count": 27431,
     "archive_supplements": 2905,
     "archive_off_label": 916,
-    "archive_biomarkers": 17175,
+    "archive_biomarkers": 17176,
     "archive_trials": 5685,
     "archive_mind_body": 457
   }
