@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-04T09:03:42.550Z",
+  "last_updated": "2026-06-04T09:03:53.867Z",
   "categories": {
     "supplements": [
       {
@@ -287,6 +287,20 @@
         "added_date": "2026-06-04"
       },
       {
+        "id": "recUWxbrN4BLdPyuk",
+        "title": "Reversible bilateral sensorineural hearing loss associated with atorvastatin: a case report.",
+        "summary": "A patient experienced reversible hearing loss while taking atorvastatin, suggesting statins may rarely cause this previously underrecognized side effect.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42231380/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Lymphoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-04"
+      },
+      {
         "id": "rec37Yz0genyz6OFo",
         "title": "Targeting USP10/SCD1 axis by RAF265 suppresses lipogenesis and induced ferroptosis in head and neck squamous cell carcinoma.",
         "summary": "RAF265 suppresses head and neck cancer growth by blocking USP10, reducing fat production and triggering cancer cell death.",
@@ -409,20 +423,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-03"
-      },
-      {
-        "id": "recV3VHRTxoaX4gzK",
-        "title": "Efficacy and Safety of Sacubitril/Valsartan in Protecting Cardiac Function in Patients Undergoing Chemotherapy: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
-        "summary": "Sacubitril/valsartan helps preserve heart function in cancer patients undergoing chemotherapy, though it may cause low blood pressure.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42228808/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 21,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-03"
       }
@@ -860,9 +860,9 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27421,
+    "archive_count": 27422,
     "archive_supplements": 2904,
-    "archive_off_label": 913,
+    "archive_off_label": 914,
     "archive_biomarkers": 17171,
     "archive_trials": 5684,
     "archive_mind_body": 457
