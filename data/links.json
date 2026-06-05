@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-05T04:32:25.825Z",
+  "last_updated": "2026-06-05T04:32:36.676Z",
   "categories": {
     "supplements": [
       {
@@ -271,6 +271,20 @@
         "added_date": "2026-06-05"
       },
       {
+        "id": "recks7yrZkZqKwatp",
+        "title": "ACY-1215 ameliorates experimental colitis by inhibiting dendritic cell maturation and Th1/Th17 responses.",
+        "summary": "ACY-1215 reduces colitis by blocking immune cells from activating harmful inflammatory responses in the gut.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42236623/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-05"
+      },
+      {
         "id": "recMVipNYuHwZS7U0",
         "title": "Investigating the effects of olanzapine on appetite and weight in patients with cancer in a systematic review.",
         "summary": "Olanzapine, an antipsychotic drug, may help cancer patients regain appetite and weight loss caused by their disease.",
@@ -407,20 +421,6 @@
           "Colorectal"
         ],
         "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-03"
-      },
-      {
-        "id": "recZZjsxE783KP8DP",
-        "title": "An integrative mendelian randomisation and drug mechanism framework for target prioritisation and therapeutic repurposing in major depression.",
-        "summary": "Researchers identified 54 drug repurposing candidates for depression by analyzing genetic data from 525,000 patients, prioritizing existing medications targeting novel depression mechanisms.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42230543/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-03"
       }
@@ -858,10 +858,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27114,
+    "archive_count": 27115,
     "archive_supplements": 2865,
     "archive_off_label": 905,
-    "archive_biomarkers": 17154,
+    "archive_biomarkers": 17155,
     "archive_trials": 5449,
     "archive_mind_body": 450
   }
