@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-05T02:35:37.332Z",
+  "last_updated": "2026-06-05T04:03:58.714Z",
   "categories": {
     "supplements": [
       {
@@ -217,6 +217,20 @@
     ],
     "off_label": [
       {
+        "id": "recqQ6lF62m6QIqQz",
+        "title": "Targeting XIAP-coordinated PKC signaling resensitizes PD-1-refractory tumors for rechallenge.",
+        "summary": "PKC inhibition resensitizes PD-1-resistant lung cancer to immunotherapy by reactivating immune cell killing and reducing tumor protection.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42234523/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-05"
+      },
+      {
         "id": "recMVipNYuHwZS7U0",
         "title": "Investigating the effects of olanzapine on appetite and weight in patients with cancer in a systematic review.",
         "summary": "Olanzapine, an antipsychotic drug, may help cancer patients regain appetite and weight loss caused by their disease.",
@@ -411,23 +425,163 @@
         "quality_score": 12,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-03"
-      },
+      }
+    ],
+    "biomarkers": [
       {
-        "id": "recXwPzod8KGpeVaf",
-        "title": "Microencapsulated oxfendazole modulates neuroinflammation in experimental Taenia crassiceps neurocysticercosis.",
-        "summary": "Microencapsulated oxfendazole effectively treats brain parasitic infection while reducing harmful brain inflammation better than standard treatments.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42229693/",
+        "id": "recJmGlawBEU2R4WH",
+        "title": "RET fusion partners dictate oncogenic potential in undifferentiated spindle cell sarcomas.",
+        "summary": "Different RET fusion partners in spindle cell sarcomas determine how aggressive the cancer becomes, offering targets for personalized treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42240026/",
         "source": "PubMed",
-        "category": "Off-Label Medications",
+        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
         "quality_score": 12,
         "pub_date": "2026-06-01",
-        "added_date": "2026-06-03"
-      }
-    ],
-    "biomarkers": [
+        "added_date": "2026-06-05"
+      },
+      {
+        "id": "reclQRyppF8Drd4NG",
+        "title": "Dectin-1 signaling promotes Galectin-3 shedding and expansion of immunosuppressive CD71+ erythroid cells in breast cancer.",
+        "summary": "PD-L1 blockade reduces immunosuppressive cells in triple-negative breast cancer by targeting Galectin-3-positive erythroid cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42228003/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-05"
+      },
+      {
+        "id": "recmtuIvchFuwYL20",
+        "title": "Normalized periprostatic adipose tissue thickness: an imaging marker associated with prostate biopsy outcomes among patients with PI-RADS and PSA double gray zone.",
+        "summary": "Normalized periprostatic adipose tissue thickness on MRI better predicts prostate cancer than PSA density in diagnostically uncertain patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42231146/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-05"
+      },
+      {
+        "id": "recOYk4E7CGKMpEDu",
+        "title": "Multi-omics integration reveals convergent extracellular matrix remodelling and lipid metabolic reprogramming as central axes of adipocyte differentiation from mouse embryonic stem cells.",
+        "summary": "Study identifies two key processes—extracellular matrix remodeling and lipid metabolism—that drive fat cell development from embryonic stem cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42228580/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-05"
+      },
+      {
+        "id": "recMmrxF72khN9E8w",
+        "title": "A signal-responsive cooperative transcription factor network determines alveolar macrophage identity.",
+        "summary": "Researchers found that RXR proteins cooperate with other transcription factors to establish alveolar macrophage identity through tissue signals.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42228021/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-05"
+      },
+      {
+        "id": "rec93JUeyntUMRlpo",
+        "title": "Systemic radionuclide treatments in gastro-entero-pancreatic neuroendocrine tumours.",
+        "summary": "Radioactive peptide therapy is now a key treatment for advanced stomach and pancreatic neuroendocrine tumors, with recent trials expanding its effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42240214/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-05"
+      },
+      {
+        "id": "recpQHWp6wnNL996T",
+        "title": "From dose to exposure? rethinking fluoropyrimidines as immune checkpoint partners in gastrointestinal cancers.",
+        "summary": "Researchers propose switching from high-dose to continuous low-dose fluoropyrimidines to better combine chemotherapy with immunotherapy for gastrointestinal cancers.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42233330/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-05"
+      },
+      {
+        "id": "receyyiNYdwDSaGeu",
+        "title": "Pilot study: prognostic significance of semi-quantitative parameters in baseline fluorine‑18 fluorodeoxyglucose PET/computed tomography in nonmetastatic breast cancer patients.",
+        "summary": "Spleen activity measurements on PET scans may help predict outcomes in nonmetastatic breast cancer patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41913663/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-05"
+      },
+      {
+        "id": "recMHKdMWOhqVEnLH",
+        "title": "Unveiling intratumoral heterogeneity and isocitrate dehydrogenase status in gliomas: a simultaneous fluorine-18 fluorodeoxyglucose PET/MRI study based on 2021 WHO classification.",
+        "summary": "PET/MRI imaging can help predict IDH mutation status and characterize tumor diversity in gliomas.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41913661/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-05"
+      },
+      {
+        "id": "recqQ6lF62m6QIqQz",
+        "title": "Targeting XIAP-coordinated PKC signaling resensitizes PD-1-refractory tumors for rechallenge.",
+        "summary": "PKC inhibition resensitizes PD-1-resistant lung cancer to immunotherapy by reactivating immune cell killing and reducing tumor protection.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42234523/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-05"
+      },
+      {
+        "id": "recWTI58bqUM3kUXI",
+        "title": "Antibody E06 and the Role of Oxidized Phospholipids in Atherogenesis and Inflammation.",
+        "summary": "Antibody E06 neutralizes oxidized phospholipids, reducing inflammation and tissue damage across cardiovascular and liver diseases in animal models.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42241507/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-05"
+      },
       {
         "id": "recsEwTjfM9GLpIRo",
         "title": "Phase II Study of IV Busulfan Combined With 12 cGy of Fractionated Total Body Irradiation (FTBI) and Etoposide (VP-16) as a Preparative Regimen for Allogeneic Bone Marrow Transplantation for Patients With Advanced Hematological Malignancies",
@@ -483,160 +637,6 @@
         "quality_score": 13,
         "pub_date": "2026-06-03",
         "added_date": "2026-06-04"
-      },
-      {
-        "id": "rec1yviR9FVHMOAK9",
-        "title": "Vaginal Fluid Derived Biomarkers in the Early Detection and Evolution of Gynaecological Cancers",
-        "summary": "Researchers are studying vaginal fluid biomarkers to improve early detection and monitoring of gynecological cancers using non-invasive tests.",
-        "url": "https://clinicaltrials.gov/study/NCT07622953",
-        "source": "ClinicalTrials.gov",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
-        "pub_date": "2026-06-03",
-        "added_date": "2026-06-04"
-      },
-      {
-        "id": "recr4Byvfa1SqL7K0",
-        "title": "Longitudinal Assessment and Natural History Study of Children and Adults With MEN2A or MEN2B With or Without Medullary Thyroid Carcinoma",
-        "summary": "Researchers are tracking how medullary thyroid cancer develops and progresses over time in children and adults with MEN2 genetic mutations.",
-        "url": "https://clinicaltrials.gov/study/NCT01660984",
-        "source": "ClinicalTrials.gov",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Thyroid"
-        ],
-        "quality_score": 13,
-        "pub_date": "2026-06-03",
-        "added_date": "2026-06-04"
-      },
-      {
-        "id": "recesfbpyrpmB5qt3",
-        "title": "Late Effects of Cancer Therapies on Gonadal Function, Fertility, Efficiency of Fertility Preservation Procedures and Pregnancy Outcomes (ProspectiveFemaleAYA)",
-        "summary": "Study tracks fertility outcomes and gonadal damage in young female cancer survivors to improve personalized counseling and fertility preservation strategies.",
-        "url": "https://clinicaltrials.gov/study/NCT07622420",
-        "source": "ClinicalTrials.gov",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
-        "pub_date": "2026-06-03",
-        "added_date": "2026-06-04"
-      },
-      {
-        "id": "recUXsFzIF4QG1d9b",
-        "title": "Phase III Randomized and Double-blinded Trial of De-escalated Radiation in FMISO PET-selected Good Risk Versus Standard of Care Radiation in Unselected HPV Positive Oropharyngeal Cancer",
-        "summary": "Study tests whether lower radiation doses reduce side effects while maintaining effectiveness in HPV-positive throat cancer patients.",
-        "url": "https://clinicaltrials.gov/study/NCT06563479",
-        "source": "ClinicalTrials.gov",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
-        "pub_date": "2026-06-03",
-        "added_date": "2026-06-04"
-      },
-      {
-        "id": "recfZEDmrXrL70OlT",
-        "title": "Single Center Pilot Study to Investigate the Efficacy of Adding Itacitinib to Post-Transplant Cyclophosphamide as Graft-Versus-Host Disease Prophylaxis After Reduced Intensity Conditioning Matched Donor Hematopoietic Cell Transplantation With Peripheral Blood Stem Cells as Graft Source",
-        "summary": "Researchers test adding itacitinib to standard drugs to better prevent graft-versus-host disease in stem cell transplant patients.",
-        "url": "https://clinicaltrials.gov/study/NCT05364762",
-        "source": "ClinicalTrials.gov",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
-        "pub_date": "2026-06-03",
-        "added_date": "2026-06-04"
-      },
-      {
-        "id": "rec6kFpCcrKMPmcm2",
-        "title": "Evaluation of Gixam's Efficacy Predicting the Presence of Advanced and Non-advanced Colorectal Neoplasia in a FIT Negative Population",
-        "summary": "Gixam device test evaluates its ability to detect colorectal precancer and cancer in patients with negative FIT results.",
-        "url": "https://clinicaltrials.gov/study/NCT07623902",
-        "source": "ClinicalTrials.gov",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 13,
-        "pub_date": "2026-06-03",
-        "added_date": "2026-06-04"
-      },
-      {
-        "id": "recypgWYiELD5sLT0",
-        "title": "Observational Study of Cardiac Arrhythmias During Treatment With BTK Inhibitors or Venetoclax",
-        "summary": "Researchers are monitoring how BTK inhibitor leukemia drugs affect heart rhythm to identify dangerous irregular heartbeats.",
-        "url": "https://clinicaltrials.gov/study/NCT05724121",
-        "source": "ClinicalTrials.gov",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 13,
-        "pub_date": "2026-06-03",
-        "added_date": "2026-06-04"
-      },
-      {
-        "id": "recpYB5rA2S6Nz7in",
-        "title": "A Single-Arm, Open-Label Phase Ia/Ib Clinical Trial Evaluating the Safety, Tolerability, Pharmacokinetic Profile, and Preliminary Efficacy of FS-207 in Patients With Advanced Solid Tumors With High Microsatellite Instability (MSI-H)",
-        "summary": "FS-207, a new oral drug, is being tested in advanced cancer patients with MSI-H tumors to evaluate safety and early anti-tumor activity.",
-        "url": "https://clinicaltrials.gov/study/NCT07593144",
-        "source": "ClinicalTrials.gov",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
-        "pub_date": "2026-06-03",
-        "added_date": "2026-06-04"
-      },
-      {
-        "id": "recr1S38x5bBwPhqU",
-        "title": "Genome-Wide Association Study of Radiation Exposure and Bilateral Breast Cancer",
-        "summary": "Researchers are identifying genetic factors that increase risk of second breast cancer in women who previously had radiation therapy.",
-        "url": "https://clinicaltrials.gov/study/NCT00903591",
-        "source": "ClinicalTrials.gov",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 13,
-        "pub_date": "2026-06-03",
-        "added_date": "2026-06-04"
-      },
-      {
-        "id": "recOT9tMWexzSZyaE",
-        "title": "Comparative diagnostic performance of 18 F-FAPI-42 versus 18 F-FDG PET/computed tomography in detecting distant metastases of nasopharyngeal carcinoma and potential pitfalls.",
-        "summary": "A new scan (FAPI-42) outperforms the standard scan (FDG) at detecting cancer spread in nasopharyngeal carcinoma patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41958434/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-04"
-      },
-      {
-        "id": "recQvekBy6lGyhbL6",
-        "title": "Radioembolization of colorectal liver metastases: comparative dose-response of resin and glass microspheres.",
-        "summary": "Radioembolization with glass or resin microspheres shows colorectal cancer liver metastases respond better to higher radiation doses.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41913664/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-04"
       }
     ],
     "trials": [
@@ -680,6 +680,76 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-05-01",
+        "added_date": "2026-06-05"
+      },
+      {
+        "id": "reclQRyppF8Drd4NG",
+        "title": "Dectin-1 signaling promotes Galectin-3 shedding and expansion of immunosuppressive CD71+ erythroid cells in breast cancer.",
+        "summary": "PD-L1 blockade reduces immunosuppressive cells in triple-negative breast cancer by targeting Galectin-3-positive erythroid cells.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42228003/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-05"
+      },
+      {
+        "id": "rec93JUeyntUMRlpo",
+        "title": "Systemic radionuclide treatments in gastro-entero-pancreatic neuroendocrine tumours.",
+        "summary": "Radioactive peptide therapy is now a key treatment for advanced stomach and pancreatic neuroendocrine tumors, with recent trials expanding its effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42240214/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-05"
+      },
+      {
+        "id": "recpQHWp6wnNL996T",
+        "title": "From dose to exposure? rethinking fluoropyrimidines as immune checkpoint partners in gastrointestinal cancers.",
+        "summary": "Researchers propose switching from high-dose to continuous low-dose fluoropyrimidines to better combine chemotherapy with immunotherapy for gastrointestinal cancers.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42233330/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-05"
+      },
+      {
+        "id": "receyyiNYdwDSaGeu",
+        "title": "Pilot study: prognostic significance of semi-quantitative parameters in baseline fluorine‑18 fluorodeoxyglucose PET/computed tomography in nonmetastatic breast cancer patients.",
+        "summary": "Spleen activity measurements on PET scans may help predict outcomes in nonmetastatic breast cancer patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41913663/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-05"
+      },
+      {
+        "id": "recLJPXr5wQmXNbFK",
+        "title": "In situ proteomics unveils specialized domains for extrasynaptic signaling on neuronal cilia.",
+        "summary": "Neuronal cilia function as specialized signaling hubs with organized nanodomains that detect neurotransmitters from nearby synapses, enhancing brain cell communication.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42234764/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-06-01",
         "added_date": "2026-06-05"
       },
       {
@@ -779,76 +849,6 @@
         "quality_score": 10,
         "pub_date": "2026-06-03",
         "added_date": "2026-06-04"
-      },
-      {
-        "id": "recwX3inUnIAz7qv1",
-        "title": "Safety and Efficacy Study of SPI-1005 for Prevention of Chemotherapy Induced Hearing Loss",
-        "summary": "SPI-1005 was tested to prevent hearing loss in head and neck and lung cancer patients receiving platinum chemotherapy.",
-        "url": "https://clinicaltrials.gov/study/NCT01451853",
-        "source": "ClinicalTrials.gov",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 13,
-        "pub_date": "2026-06-03",
-        "added_date": "2026-06-04"
-      },
-      {
-        "id": "rec1yviR9FVHMOAK9",
-        "title": "Vaginal Fluid Derived Biomarkers in the Early Detection and Evolution of Gynaecological Cancers",
-        "summary": "Researchers are studying vaginal fluid biomarkers to improve early detection and monitoring of gynecological cancers using non-invasive tests.",
-        "url": "https://clinicaltrials.gov/study/NCT07622953",
-        "source": "ClinicalTrials.gov",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
-        "pub_date": "2026-06-03",
-        "added_date": "2026-06-04"
-      },
-      {
-        "id": "recr4Byvfa1SqL7K0",
-        "title": "Longitudinal Assessment and Natural History Study of Children and Adults With MEN2A or MEN2B With or Without Medullary Thyroid Carcinoma",
-        "summary": "Researchers are tracking how medullary thyroid cancer develops and progresses over time in children and adults with MEN2 genetic mutations.",
-        "url": "https://clinicaltrials.gov/study/NCT01660984",
-        "source": "ClinicalTrials.gov",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Thyroid"
-        ],
-        "quality_score": 13,
-        "pub_date": "2026-06-03",
-        "added_date": "2026-06-04"
-      },
-      {
-        "id": "recesfbpyrpmB5qt3",
-        "title": "Late Effects of Cancer Therapies on Gonadal Function, Fertility, Efficiency of Fertility Preservation Procedures and Pregnancy Outcomes (ProspectiveFemaleAYA)",
-        "summary": "Study tracks fertility outcomes and gonadal damage in young female cancer survivors to improve personalized counseling and fertility preservation strategies.",
-        "url": "https://clinicaltrials.gov/study/NCT07622420",
-        "source": "ClinicalTrials.gov",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
-        "pub_date": "2026-06-03",
-        "added_date": "2026-06-04"
-      },
-      {
-        "id": "recUXsFzIF4QG1d9b",
-        "title": "Phase III Randomized and Double-blinded Trial of De-escalated Radiation in FMISO PET-selected Good Risk Versus Standard of Care Radiation in Unselected HPV Positive Oropharyngeal Cancer",
-        "summary": "Study tests whether lower radiation doses reduce side effects while maintaining effectiveness in HPV-positive throat cancer patients.",
-        "url": "https://clinicaltrials.gov/study/NCT06563479",
-        "source": "ClinicalTrials.gov",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
-        "pub_date": "2026-06-03",
-        "added_date": "2026-06-04"
       }
     ],
     "mind_body": []
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 26959,
+    "archive_count": 26960,
     "archive_supplements": 2857,
     "archive_off_label": 904,
-    "archive_biomarkers": 17028,
+    "archive_biomarkers": 17029,
     "archive_trials": 5429,
     "archive_mind_body": 450
   }
