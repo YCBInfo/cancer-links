@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-05T04:09:59.168Z",
+  "last_updated": "2026-06-05T04:10:10.072Z",
   "categories": {
     "supplements": [
       {
@@ -27,6 +27,20 @@
           "Leukemia"
         ],
         "quality_score": 13,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-06-05"
+      },
+      {
+        "id": "recSm5ypEzPSbj9Pw",
+        "title": "UPLC-Q-TOF-MS/MS guided isolation of phyllanfranchins A-D, two pairs of undescribed cytotoxic dichapetalin hybrid triterpenoid epimers from Phyllanthus franchetianus.",
+        "summary": "Researchers isolated four new plant compounds from Phyllanthus franchetianus that kill multiple cancer cell types, with one showing potent activity against lung cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41687528/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 10,
         "pub_date": "2026-03-01",
         "added_date": "2026-06-05"
       },
@@ -195,20 +209,6 @@
           "Breast"
         ],
         "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-03"
-      },
-      {
-        "id": "recDgWnCBLjkX42Ku",
-        "title": "Teprenone conjugated with a planar catechin analog enhances cytotoxicity against cancer cells.",
-        "summary": "A new compound combining planar catechin and teprenone shows enhanced cancer cell-killing ability compared to catechin alone.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42212943/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-03"
       }
@@ -858,10 +858,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 26991,
+    "archive_count": 26992,
     "archive_supplements": 2858,
     "archive_off_label": 904,
-    "archive_biomarkers": 17057,
+    "archive_biomarkers": 17058,
     "archive_trials": 5431,
     "archive_mind_body": 450
   }
