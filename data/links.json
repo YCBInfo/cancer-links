@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-05T07:08:04.739Z",
+  "last_updated": "2026-06-05T07:08:16.829Z",
   "categories": {
     "supplements": [
       {
@@ -355,6 +355,20 @@
         "added_date": "2026-06-05"
       },
       {
+        "id": "recthDakv7g6qxdEU",
+        "title": "Phase I Study Evaluating Indomethacin in Combination With Platinum-based Chemotherapy",
+        "summary": "Indomethacin combined with platinum-based chemotherapy is safe and may prevent drug resistance caused by immune cells in cancer patients.",
+        "url": "https://clinicaltrials.gov/study/NCT01719926",
+        "source": "ClinicalTrials.gov",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 10,
+        "pub_date": "2026-06-04",
+        "added_date": "2026-06-05"
+      },
+      {
         "id": "recMVipNYuHwZS7U0",
         "title": "Investigating the effects of olanzapine on appetite and weight in patients with cancer in a systematic review.",
         "summary": "Olanzapine, an antipsychotic drug, may help cancer patients regain appetite and weight loss caused by their disease.",
@@ -407,20 +421,6 @@
           "Pancreatic"
         ],
         "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-04"
-      },
-      {
-        "id": "recZo8rpmzO8wY0Lq",
-        "title": "Efficacy of Esomeprazole Cream in Preventing Radiation-Induced Dermatitis in Cancer Patients.",
-        "summary": "Esomeprazole cream reduces radiation skin damage in head and neck cancer patients undergoing radiotherapy treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42235619/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-04"
       }
@@ -858,11 +858,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27309,
+    "archive_count": 27310,
     "archive_supplements": 2900,
     "archive_off_label": 907,
     "archive_biomarkers": 17275,
-    "archive_trials": 5486,
+    "archive_trials": 5487,
     "archive_mind_body": 450
   }
 }
