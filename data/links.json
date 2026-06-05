@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-05T04:20:58.021Z",
+  "last_updated": "2026-06-05T04:21:10.259Z",
   "categories": {
     "supplements": [
       {
@@ -91,6 +91,20 @@
         "title": "In silico discovery of natural compounds from Vietnamese essential oils database with target binding to cancer-related proteins.",
         "summary": "Vietnamese essential oil compounds show promise against multiple cancer types through computational screening of cancer-related protein targets.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42240759/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-05"
+      },
+      {
+        "id": "recw45RbGarHPqdDT",
+        "title": "Baicalin attenuates angiotensin II-induced vascular endothelial injury via targeted activation of the Nrf2 signaling pathway: Integrated computational and in vitro evidence.",
+        "summary": "Baicalin protects blood vessel cells from damage by activating Nrf2, a protective pathway that shields against oxidative stress.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42240758/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -195,20 +209,6 @@
           "Colorectal"
         ],
         "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-03"
-      },
-      {
-        "id": "rec1074WjNhO4UY2K",
-        "title": "Targeting Pyruvate Kinase M2: Signal Transduction Pathways and Exploration of Cancer Therapeutic Strategies.",
-        "summary": "Blocking pyruvate kinase M2 shows promise as a cancer treatment by disrupting key tumor-promoting pathways, though clinical application remains challenging.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42230450/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-03"
       }
@@ -858,10 +858,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27051,
+    "archive_count": 27052,
     "archive_supplements": 2863,
     "archive_off_label": 904,
-    "archive_biomarkers": 17105,
+    "archive_biomarkers": 17106,
     "archive_trials": 5438,
     "archive_mind_body": 450
   }
