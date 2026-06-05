@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-05T04:09:38.079Z",
+  "last_updated": "2026-06-05T04:09:50.508Z",
   "categories": {
     "supplements": [
       {
@@ -11,6 +11,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Breast"
+        ],
+        "quality_score": 13,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-06-05"
+      },
+      {
+        "id": "recJlPp3keezcfaUw",
+        "title": "Bioactive treatments against chronic myeloid leukemia from Hypericum lancasteri targeting p53 pathway.",
+        "summary": "Plant compounds from Hypericum lancasteri kill chronic myeloid leukemia cells by activating the p53 cancer-fighting pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41702129/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Leukemia"
         ],
         "quality_score": 13,
         "pub_date": "2026-03-01",
@@ -196,21 +210,6 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-06-01",
-        "added_date": "2026-06-03"
-      },
-      {
-        "id": "receUOCyrjYTofHOb",
-        "title": "Optimizing Intervention Tools to Improve Nutrition and Physical Activity for Cancer Survivors (Tools To Be Fit)",
-        "summary": "Study tests four intervention tools to help cancer survivors improve nutrition, physical activity, and weight after treatment completion.",
-        "url": "https://clinicaltrials.gov/study/NCT05056077",
-        "source": "ClinicalTrials.gov",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal",
-          "Kidney"
-        ],
-        "quality_score": 13,
-        "pub_date": "2026-06-02",
         "added_date": "2026-06-03"
       }
     ],
@@ -859,10 +858,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 26989,
+    "archive_count": 26990,
     "archive_supplements": 2858,
     "archive_off_label": 904,
-    "archive_biomarkers": 17055,
+    "archive_biomarkers": 17056,
     "archive_trials": 5431,
     "archive_mind_body": 450
   }
