@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-05T04:10:10.072Z",
+  "last_updated": "2026-06-05T04:10:23.464Z",
   "categories": {
     "supplements": [
       {
@@ -35,6 +35,20 @@
         "title": "UPLC-Q-TOF-MS/MS guided isolation of phyllanfranchins A-D, two pairs of undescribed cytotoxic dichapetalin hybrid triterpenoid epimers from Phyllanthus franchetianus.",
         "summary": "Researchers isolated four new plant compounds from Phyllanthus franchetianus that kill multiple cancer cell types, with one showing potent activity against lung cancer.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41687528/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 10,
+        "pub_date": "2026-03-01",
+        "added_date": "2026-06-05"
+      },
+      {
+        "id": "recuIUAZwGYLwBe4g",
+        "title": "Neuroprotective effects of pepsin-hydrolyzed ovotransferrin on H2O2-induced oxidative damage in SH-SY5Y neuronal cells.",
+        "summary": "Pepsin-processed egg white protein protects nerve cells from oxidative damage by reducing harmful molecules and preventing cell death.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41679204/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -195,20 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-03"
-      },
-      {
-        "id": "recFrGAEjYloijTRb",
-        "title": "Baicalein Sensitizes Radioresistant BT549 and MCF7-R Breast Cancer Cells by Modulating Rac1 Signaling.",
-        "summary": "Baicalein, a plant compound, makes radioresistant breast cancer cells more sensitive to radiation by blocking Rac1 protein activity.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42227063/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-03"
       }
@@ -858,10 +858,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 26992,
+    "archive_count": 26993,
     "archive_supplements": 2858,
     "archive_off_label": 904,
-    "archive_biomarkers": 17058,
+    "archive_biomarkers": 17059,
     "archive_trials": 5431,
     "archive_mind_body": 450
   }
