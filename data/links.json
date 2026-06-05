@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-05T04:06:22.212Z",
+  "last_updated": "2026-06-05T04:06:33.879Z",
   "categories": {
     "supplements": [
       {
@@ -231,6 +231,20 @@
         "added_date": "2026-06-05"
       },
       {
+        "id": "recMmBnHcfujplyoS",
+        "title": "Unlocking the potential of TNF: From biologic agents to small-molecule inhibitors.",
+        "summary": "Researchers are developing oral small-molecule TNF inhibitors to replace injectable biologics, offering better accessibility and lower costs for inflammatory disease treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41865599/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 10,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-06-05"
+      },
+      {
         "id": "recMVipNYuHwZS7U0",
         "title": "Investigating the effects of olanzapine on appetite and weight in patients with cancer in a systematic review.",
         "summary": "Olanzapine, an antipsychotic drug, may help cancer patients regain appetite and weight loss caused by their disease.",
@@ -403,20 +417,6 @@
         "title": "Reductive death is averted by a conserved de novo lipogenic switch.",
         "summary": "Metformin's life-extending benefits require intact fat-making pathways to prevent toxic chemical buildup; this vulnerability could target certain cancers.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42229415/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-03"
-      },
-      {
-        "id": "recY1JRlWZaikivFq",
-        "title": "Unveiling the role of single versus repeated low-dose ketamine in attenuating doxorubicin-induced chemobrain and depression in rats: differential modulation of neuroinflammation, phosphorylated GLT-1, SERT, DAT and BDNF/TrkB signaling.",
-        "summary": "Repeated low-dose ketamine better reduces chemobrain and depression caused by doxorubicin chemotherapy in rats through anti-inflammatory effects.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42229837/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 26971,
+    "archive_count": 26972,
     "archive_supplements": 2857,
     "archive_off_label": 904,
-    "archive_biomarkers": 17038,
+    "archive_biomarkers": 17039,
     "archive_trials": 5431,
     "archive_mind_body": 450
   }
