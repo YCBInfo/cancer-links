@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-05T04:25:24.196Z",
+  "last_updated": "2026-06-05T04:25:36.104Z",
   "categories": {
     "supplements": [
       {
@@ -257,6 +257,20 @@
         "added_date": "2026-06-05"
       },
       {
+        "id": "rec5Fs0oQOH5Lu0I6",
+        "title": "Ivonescimab Plus Chemo Extends Squamous NSCLC Survival.",
+        "summary": "Ivonescimab combined with chemotherapy significantly improves survival in advanced squamous lung cancer compared to standard immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42240226/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-05"
+      },
+      {
         "id": "recMVipNYuHwZS7U0",
         "title": "Investigating the effects of olanzapine on appetite and weight in patients with cancer in a systematic review.",
         "summary": "Olanzapine, an antipsychotic drug, may help cancer patients regain appetite and weight loss caused by their disease.",
@@ -407,20 +421,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-03"
-      },
-      {
-        "id": "receC4zdqsAoswpAR",
-        "title": "Pharmacologic Modulation of ARID3A with Rimegepant Reactivates Type I Interferon Signaling and Sensitizes Triple-Negative Breast Cancer to PD-1 Blockade.",
-        "summary": "Drug rimegepant reactivates immune signaling in triple-negative breast cancer, making it responsive to immunotherapy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42230325/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-03"
       }
@@ -858,10 +858,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27076,
+    "archive_count": 27077,
     "archive_supplements": 2865,
     "archive_off_label": 904,
-    "archive_biomarkers": 17124,
+    "archive_biomarkers": 17125,
     "archive_trials": 5442,
     "archive_mind_body": 450
   }
