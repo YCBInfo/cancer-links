@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-05T06:06:28.259Z",
+  "last_updated": "2026-06-05T06:06:42.625Z",
   "categories": {
     "supplements": [
       {
@@ -313,6 +313,20 @@
         "added_date": "2026-06-05"
       },
       {
+        "id": "recyH8gyyJlRsZSNX",
+        "title": "Ketone bodies as guardians of leukemic stemness through ferroptosis suppression.",
+        "summary": "Leukemia stem cells use ketones to block a type of cell death, suggesting a new treatment target.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42242187/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-05"
+      },
+      {
         "id": "recMVipNYuHwZS7U0",
         "title": "Investigating the effects of olanzapine on appetite and weight in patients with cancer in a systematic review.",
         "summary": "Olanzapine, an antipsychotic drug, may help cancer patients regain appetite and weight loss caused by their disease.",
@@ -407,20 +421,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-03"
-      },
-      {
-        "id": "recVGF5Oj9rauw4l1",
-        "title": "Investigating the Efficacy of Propranolol in Treating Chronic Stress Combined with Colorectal Cancer in Mice and Its Antitumor Potential.",
-        "summary": "Propranolol, a blood pressure medication, reduced colorectal cancer tumor growth in stressed mice, offering a potential treatment for cancer patients with depression.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42229739/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-03"
       }
@@ -858,10 +858,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27185,
+    "archive_count": 27186,
     "archive_supplements": 2874,
     "archive_off_label": 906,
-    "archive_biomarkers": 17213,
+    "archive_biomarkers": 17214,
     "archive_trials": 5451,
     "archive_mind_body": 450
   }
