@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-05T04:38:34.619Z",
+  "last_updated": "2026-06-05T04:38:46.575Z",
   "categories": {
     "supplements": [
       {
@@ -285,6 +285,20 @@
         "added_date": "2026-06-05"
       },
       {
+        "id": "recjsE2hjISes2Nmo",
+        "title": "Colchicine attenuates kidney injury by modulating the NLRP3 inflammasome pathway.",
+        "summary": "Colchicine reduces kidney damage in chronic kidney disease by turning off an inflammatory pathway called NLRP3.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42237213/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-05"
+      },
+      {
         "id": "recMVipNYuHwZS7U0",
         "title": "Investigating the effects of olanzapine on appetite and weight in patients with cancer in a systematic review.",
         "summary": "Olanzapine, an antipsychotic drug, may help cancer patients regain appetite and weight loss caused by their disease.",
@@ -407,20 +421,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-03"
-      },
-      {
-        "id": "recYg3LeHrxdFwP2m",
-        "title": "Mevalonate pathway rewiring driven by enhancer remodelling confers resistance to KRAS inhibitors in colorectal cancer.",
-        "summary": "Colorectal cancer cells resist KRAS inhibitors by rewiring cholesterol production; combining statins with KRAS inhibitors restores treatment effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42230588/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-03"
       }
@@ -858,10 +858,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27148,
+    "archive_count": 27149,
     "archive_supplements": 2867,
     "archive_off_label": 905,
-    "archive_biomarkers": 17185,
+    "archive_biomarkers": 17186,
     "archive_trials": 5450,
     "archive_mind_body": 450
   }
