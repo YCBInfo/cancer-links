@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-05T04:20:47.824Z",
+  "last_updated": "2026-06-05T04:20:58.021Z",
   "categories": {
     "supplements": [
       {
@@ -77,6 +77,20 @@
         "title": "Autophagy activation by urolithin-a derivative UA-36 mitigates Friedreich's ataxia pathologies induced by frataxin deficiency.",
         "summary": "UA-36, a urolithin derivative, improves Friedreich's ataxia symptoms in mice by activating autophagy and restoring mitochondrial function.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42240896/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-05"
+      },
+      {
+        "id": "recSBJpcDdfy92eas",
+        "title": "In silico discovery of natural compounds from Vietnamese essential oils database with target binding to cancer-related proteins.",
+        "summary": "Vietnamese essential oil compounds show promise against multiple cancer types through computational screening of cancer-related protein targets.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42240759/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -195,20 +209,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-03"
-      },
-      {
-        "id": "recEyf0y9zM7xahIG",
-        "title": "Cross-kingdom signals: microbial, metabolites, and immune cells on the gut-breast axis.",
-        "summary": "Gut microbes and their metabolites influence breast cancer progression and lactation health through the gut-breast axis.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42228631/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-03"
       }
@@ -858,10 +858,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27050,
+    "archive_count": 27051,
     "archive_supplements": 2863,
     "archive_off_label": 904,
-    "archive_biomarkers": 17104,
+    "archive_biomarkers": 17105,
     "archive_trials": 5438,
     "archive_mind_body": 450
   }
