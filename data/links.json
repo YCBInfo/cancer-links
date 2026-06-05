@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-05T04:36:26.709Z",
+  "last_updated": "2026-06-05T04:36:37.713Z",
   "categories": {
     "supplements": [
       {
@@ -143,6 +143,20 @@
         "added_date": "2026-06-05"
       },
       {
+        "id": "recyIfIMsbIlWMU8y",
+        "title": "Esculentoside A suppresses the malignant progression of hepatocellular carcinoma by promoting RORB.",
+        "summary": "Esculentoside A slows liver cancer growth by activating a protein called RORB that blocks cancer-promoting Wnt signaling.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42237390/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-05"
+      },
+      {
         "id": "recnyq7IJKXOTE4Rb",
         "title": "Open-Label Randomized Phase II Trial of Megestrol Acetate With or Without Pterostilbene in Patients With Endometrial Cancer Scheduled for Hysterectomy",
         "summary": "Researchers tested megestrol acetate with or without pterostilbene to treat endometrial cancer before surgery.",
@@ -193,20 +207,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-04"
-      },
-      {
-        "id": "recrs78L3dshz3lbC",
-        "title": "Discovery of a Novel γ-Glutamylcyclotransferase Inhibitor Plumbagin by Luminescence-Based High-Throughput Screening.",
-        "summary": "Researchers discovered plumbagin, a new drug candidate that blocks GGCT protein, slowing growth in lung, breast, and colon cancer cells and tumors.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41969233/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-06-01",
@@ -858,10 +858,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27136,
+    "archive_count": 27137,
     "archive_supplements": 2867,
     "archive_off_label": 905,
-    "archive_biomarkers": 17173,
+    "archive_biomarkers": 17174,
     "archive_trials": 5450,
     "archive_mind_body": 450
   }
