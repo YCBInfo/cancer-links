@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-05T04:04:45.907Z",
+  "last_updated": "2026-06-05T04:05:03.363Z",
   "categories": {
     "supplements": [
       {
@@ -795,6 +795,34 @@
         "added_date": "2026-06-05"
       },
       {
+        "id": "recYhSI0oxpwUyhdq",
+        "title": "Efficacy of a site-specific anti-Nectin-4 antibody-drug conjugate against Nectin-4-positive triple-negative breast cancer models.",
+        "summary": "A new anti-Nectin-4 antibody drug shows promise against triple-negative breast cancer, though it requires further optimization for improved effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42055153/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-06-05"
+      },
+      {
+        "id": "recXYVVqeojy3IPFj",
+        "title": "Peptide modified lipid nanoparticles Co-Delivering IL-12 mRNA and PD-L1 siRNA for glioblastoma immunotherapy.",
+        "summary": "Peptide-modified nanoparticles delivering two immunotherapy agents crossed the blood-brain barrier to treat glioblastoma more effectively.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42055150/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-06-05"
+      },
+      {
         "id": "recsEwTjfM9GLpIRo",
         "title": "Phase II Study of IV Busulfan Combined With 12 cGy of Fractionated Total Body Irradiation (FTBI) and Etoposide (VP-16) as a Preparative Regimen for Allogeneic Bone Marrow Transplantation for Patients With Advanced Hematological Malignancies",
         "summary": "A combination of chemotherapy and radiation before donor bone marrow transplant improves treatment outcomes for advanced blood cancers.",
@@ -821,34 +849,6 @@
         "quality_score": 13,
         "pub_date": "2026-06-03",
         "added_date": "2026-06-04"
-      },
-      {
-        "id": "recGwjtJmYXuSVPr9",
-        "title": "The Effect of Web-Based Cancer Awareness Education in Schools on Students' Knowledge Level, Help-Seeking Behaviors, and Stigma Attitudes",
-        "summary": "Web-based cancer education in schools improved students' cancer knowledge, help-seeking behaviors, and reduced stigma attitudes.",
-        "url": "https://clinicaltrials.gov/study/NCT07614711",
-        "source": "ClinicalTrials.gov",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
-        "pub_date": "2026-06-03",
-        "added_date": "2026-06-04"
-      },
-      {
-        "id": "recA0u8IQvyvTt0qI",
-        "title": "A Randomized Phase 3 Study of Brentuximab Vedotin (SGN-35) for Newly Diagnosed High-Risk Classical Hodgkin Lymphoma (cHL) in Children and Young Adults",
-        "summary": "A new drug called brentuximab vedotin combined with chemotherapy is tested against chemotherapy alone for high-risk Hodgkin lymphoma in children and young adults.",
-        "url": "https://clinicaltrials.gov/study/NCT02166463",
-        "source": "ClinicalTrials.gov",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Lymphoma"
-        ],
-        "quality_score": 27,
-        "pub_date": "2026-06-03",
-        "added_date": "2026-06-04"
       }
     ],
     "mind_body": []
@@ -860,11 +860,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 26964,
+    "archive_count": 26965,
     "archive_supplements": 2857,
     "archive_off_label": 904,
     "archive_biomarkers": 17033,
-    "archive_trials": 5429,
+    "archive_trials": 5430,
     "archive_mind_body": 450
   }
 }
