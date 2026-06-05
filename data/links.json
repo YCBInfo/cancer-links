@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-05T06:24:49.062Z",
+  "last_updated": "2026-06-05T07:03:27.792Z",
   "categories": {
     "supplements": [
       {
@@ -327,6 +327,20 @@
         "added_date": "2026-06-05"
       },
       {
+        "id": "rec2uY2xqpU8TiqH3",
+        "title": "Impact of Beta-2 Adrenergic Blockade With Checkpoint Inhibition in Checkpoint Inhibitor Refractory Metastatic Triple Negative Breast Cancer",
+        "summary": "Propranolol combined with pembrolizumab may help triple negative breast cancer patients who stopped responding to checkpoint inhibitor therapy.",
+        "url": "https://clinicaltrials.gov/study/NCT05741164",
+        "source": "ClinicalTrials.gov",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 19,
+        "pub_date": "2026-06-04",
+        "added_date": "2026-06-05"
+      },
+      {
         "id": "recMVipNYuHwZS7U0",
         "title": "Investigating the effects of olanzapine on appetite and weight in patients with cancer in a systematic review.",
         "summary": "Olanzapine, an antipsychotic drug, may help cancer patients regain appetite and weight loss caused by their disease.",
@@ -409,20 +423,6 @@
         "quality_score": 15,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-04"
-      },
-      {
-        "id": "rec37Yz0genyz6OFo",
-        "title": "Targeting USP10/SCD1 axis by RAF265 suppresses lipogenesis and induced ferroptosis in head and neck squamous cell carcinoma.",
-        "summary": "RAF265 suppresses head and neck cancer growth by blocking USP10, reducing fat production and triggering cancer cell death.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42230571/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-03"
       }
     ],
     "biomarkers": [
@@ -858,11 +858,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27284,
+    "archive_count": 27285,
     "archive_supplements": 2900,
     "archive_off_label": 906,
     "archive_biomarkers": 17272,
-    "archive_trials": 5465,
+    "archive_trials": 5466,
     "archive_mind_body": 450
   }
 }
