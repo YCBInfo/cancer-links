@@ -11,6 +11,23 @@
   },
   "articles": [
     {
+      "title": "A Single-Arm, Phase II Study of Autophagy Modulation Using Hydroxychloroquine in Combination With Encorafenib and Cetuximab or Panitumumab in Metastatic BRAF-mutated Colorectal Cancer Refractory to Standard Therapies",
+      "hook": "Hydroxychloroquine enhances encorafenib-cetuximab response in BRAF-mutated colorectal cancer",
+      "summary": "Hydroxychloroquine added to standard drugs improved treatment outcomes for metastatic colorectal cancer with BRAF mutations resistant to prior therapies.",
+      "url": "https://clinicaltrials.gov/study/NCT05576896",
+      "source": "ClinicalTrials.gov",
+      "pub_date": "2026-06-04",
+      "category": [
+        "Clinical Trials",
+        "Off-Label Medications",
+        "Biomarkers & Diagnostics"
+      ],
+      "cancer_types": [
+        "Colorectal"
+      ],
+      "biomarkers": "BRAF"
+    },
+    {
       "title": "Mural cells protect the adult brain from hemorrhage but do not control the blood-brain barrier in developing zebrafish.",
       "hook": "Mural cells maintain adult brain hemorrhage protection independent of developmental barrier function",
       "summary": "Mural cells protect adult brains from hemorrhage but are unnecessary for blood-brain barrier function in developing zebrafish.",
@@ -24,6 +41,53 @@
         "General"
       ],
       "biomarkers": ""
+    },
+    {
+      "title": "Beyond Sidedness: DNA Methylation as a Biomarker to Refine Anti-EGFR Treatment Selection in RAS/BRAF Wild-type Metastatic Colorectal Cancer.",
+      "hook": "DNA methylation patterns predict anti-EGFR drug response in colorectal cancer",
+      "summary": "DNA methylation patterns can better predict which colorectal cancer patients will respond to anti-EGFR drugs than current methods alone.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42240732/",
+      "source": "PubMed",
+      "pub_date": "2026-06-01",
+      "category": [
+        "Biomarkers & Diagnostics",
+        "Clinical Trials"
+      ],
+      "cancer_types": [
+        "Colorectal"
+      ],
+      "biomarkers": "EGFR, BRAF"
+    },
+    {
+      "title": "Erythema nodosum-like panniculitis during BRAF inhibitor therapy for melanoma: never forget latent tuberculosis infection.",
+      "hook": "BRAF inhibitors trigger erythema nodosum-like panniculitis in latent tuberculosis patients",
+      "summary": "BRAF inhibitor treatment for melanoma can trigger erythema nodosum-like skin inflammation, particularly in patients with latent tuberculosis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42240510/",
+      "source": "PubMed",
+      "pub_date": "2026-06-01",
+      "category": [
+        "Biomarkers & Diagnostics",
+        "Clinical Trials"
+      ],
+      "cancer_types": [
+        "Melanoma"
+      ],
+      "biomarkers": "BRAF"
+    },
+    {
+      "title": "Improving Detection Efficiency of FNAC and BRAF V600E Mutation in Thyroid Nodules Using Pipette Mixing: A Retrospective Study.",
+      "hook": "Pipette mixing improves BRAF V600E detection in thyroid cancer diagnosis",
+      "summary": "Pipette mixing of thyroid needle samples improves detection of a cancer-causing mutation in papillary thyroid carcinoma diagnosis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42240062/",
+      "source": "PubMed",
+      "pub_date": "2026-06-01",
+      "category": [
+        "Biomarkers & Diagnostics"
+      ],
+      "cancer_types": [
+        "Thyroid"
+      ],
+      "biomarkers": "BRAF"
     },
     {
       "title": "DREAMseq (Doublet, Randomized Evaluation in Advanced Melanoma Sequencing) a Phase III Trial",
@@ -101,68 +165,8 @@
         "Leukemia"
       ],
       "biomarkers": ""
-    },
-    {
-      "title": "Genotyping at 48 hpf for Early Identification of Mutant Zebrafish Embryos.",
-      "hook": "Early zebrafish genotyping at 48 hours identifies genetic mutations",
-      "summary": "Researchers developed a method to genotype zebrafish embryos at 48 hours old, allowing early identification of desired genetic mutations while preserving the living organisms.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42065232/",
-      "source": "PubMed",
-      "pub_date": "2026-05-01",
-      "category": [
-        "Biomarkers & Diagnostics"
-      ],
-      "cancer_types": [
-        "General"
-      ],
-      "biomarkers": ""
-    },
-    {
-      "title": "Cfap300 regulates the transdifferentiation of Corpuscle of Stannius cells in zebrafish.",
-      "hook": "I cannot write a factual, specific headline for this research because the study does not appear to involve cancer research. The title describes CFAP300's role in embryonic development and cell specialization in zebrafish, with no mention of cancer",
-      "summary": "Researchers used zebrafish to study how CFAP300 protein functions during embryonic development, particularly in cell specialization processes.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42067934/",
-      "source": "PubMed",
-      "pub_date": "2026-05-01",
-      "category": [
-        "Biomarkers & Diagnostics"
-      ],
-      "cancer_types": [
-        "General"
-      ],
-      "biomarkers": ""
-    },
-    {
-      "title": "Role of the ETV5/p38 Signaling Axis in Aggressive Thyroid Cancer Cells.",
-      "hook": "p38 inhibitors combined with BRAF inhibitors overcome thyroid cancer resistance",
-      "summary": "Combining p38 inhibitors with BRAF inhibitors shows promise in treating aggressive thyroid cancers resistant to current therapies.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41544239/",
-      "source": "PubMed",
-      "pub_date": "2026-05-01",
-      "category": [
-        "Biomarkers & Diagnostics"
-      ],
-      "cancer_types": [
-        "Thyroid"
-      ],
-      "biomarkers": "BRAF"
-    },
-    {
-      "title": "Genomic profiling and therapeutic targets of Thai melanoma revealed by next-generation sequencing.",
-      "hook": "BRAF and KIT mutations identified as therapeutic targets in Thai melanoma patients",
-      "summary": "Thai melanoma patients show BRAF and KIT mutations as key drug targets, with KIT linked to shorter survival.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42071048/",
-      "source": "PubMed",
-      "pub_date": "2026-05-01",
-      "category": [
-        "Biomarkers & Diagnostics"
-      ],
-      "cancer_types": [
-        "Melanoma"
-      ],
-      "biomarkers": "BRAF"
     }
   ],
   "article_count": 10,
-  "last_updated": "2026-06-04T13:00:51.793Z"
+  "last_updated": "2026-06-05T13:00:44.355Z"
 }
