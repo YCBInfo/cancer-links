@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-06T04:16:16.143Z",
+  "last_updated": "2026-06-06T04:16:27.413Z",
   "categories": {
     "supplements": [
       {
@@ -271,6 +271,20 @@
         "added_date": "2026-06-06"
       },
       {
+        "id": "recB4natM4tDznXWB",
+        "title": "Translating B-Cell and Plasma-Cell Targeting from Oncology to Autoimmunity: Modalities, Quantitative Bridging, and a Development Roadmap.",
+        "summary": "B-cell cancer drugs are being successfully adapted to treat autoimmune diseases by targeting immune cells that cause harmful inflammation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42244451/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lymphoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-06"
+      },
+      {
         "id": "recqQ6lF62m6QIqQz",
         "title": "Targeting XIAP-coordinated PKC signaling resensitizes PD-1-refractory tumors for rechallenge.",
         "summary": "PKC inhibition resensitizes PD-1-resistant lung cancer to immunotherapy by reactivating immune cell killing and reducing tumor protection.",
@@ -407,20 +421,6 @@
           "Colorectal"
         ],
         "quality_score": 19,
-        "pub_date": "2026-06-04",
-        "added_date": "2026-06-05"
-      },
-      {
-        "id": "recthDakv7g6qxdEU",
-        "title": "Phase I Study Evaluating Indomethacin in Combination With Platinum-based Chemotherapy",
-        "summary": "Indomethacin combined with platinum-based chemotherapy is safe and may prevent drug resistance caused by immune cells in cancer patients.",
-        "url": "https://clinicaltrials.gov/study/NCT01719926",
-        "source": "ClinicalTrials.gov",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 10,
         "pub_date": "2026-06-04",
         "added_date": "2026-06-05"
       }
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27419,
+    "archive_count": 27420,
     "archive_supplements": 2905,
     "archive_off_label": 913,
-    "archive_biomarkers": 17349,
+    "archive_biomarkers": 17350,
     "archive_trials": 5511,
     "archive_mind_body": 450
   }
