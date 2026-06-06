@@ -1,7 +1,35 @@
 {
-  "last_updated": "2026-06-05T11:30:54.654Z",
+  "last_updated": "2026-06-06T04:04:03.691Z",
   "categories": {
     "supplements": [
+      {
+        "id": "recHQrAIbsx4GXs5G",
+        "title": "Plant‑derived natural products alleviate dexamethasone‑induced skeletal muscle atrophy by modulating FoxO (Review).",
+        "summary": "Plant-derived compounds prevent muscle wasting caused by dexamethasone by targeting the FoxO protein and related cellular pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42246193/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 21,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-06"
+      },
+      {
+        "id": "reczxiYV3WF7kc62f",
+        "title": "Evaluation of the combined cytotoxic and apoptotic potential of green-synthesized zinc oxide nanoparticles (from Thymus vulgaris) and tamoxifen on MCF-7 breast cancer cells.",
+        "summary": "Thymus-derived zinc oxide nanoparticles combined with tamoxifen kill breast cancer cells while using 96-fold less tamoxifen dose.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42245620/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-06"
+      },
       {
         "id": "recZqv1Kg4nJ5aT9I",
         "title": "A natural product-hybridization approach toward anticancer drug discovery: synthesis and antitumor evaluation of CTBC6, designed from sulforaphane and magnolol.",
@@ -182,34 +210,6 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-06-01",
-        "added_date": "2026-06-05"
-      },
-      {
-        "id": "recxaQz8ohaKZeA8o",
-        "title": "Influence of formulation parameters on the physicochemical properties and cellular uptake of human serum albumin nanocarriers.",
-        "summary": "Researchers optimized albumin nanoparticles for drug delivery to breast cancer cells, finding glutaraldehyde-crosslinked particles showed superior stability and enhanced cancer-fighting efficacy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42061627/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-06-05"
-      },
-      {
-        "id": "recMpamzV9ssHbFcR",
-        "title": "Novel benzophenones from the fibrous roots of Anemarrhena asphodeloides Bunge inhibit hepatocellular carcinoma activity by targeting ALDH3A1.",
-        "summary": "Compounds from plant roots inhibit liver cancer cell growth by targeting a protein called ALDH3A1.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41724003/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Liver"
-        ],
-        "quality_score": 13,
-        "pub_date": "2026-03-01",
         "added_date": "2026-06-05"
       }
     ],
@@ -427,6 +427,175 @@
     ],
     "biomarkers": [
       {
+        "id": "recXtId35WqhoGHju",
+        "title": "The tumor microenvironment in triple negative breast cancer and a strategy to improve responses to immunotherapy using cryoablation and immunostimulants.",
+        "summary": "Combining cryoablation with immunotherapy drugs may improve treatment outcomes for triple-negative breast cancer by activating the immune system.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42247481/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-06"
+      },
+      {
+        "id": "recbwIimen5Y1kiDS",
+        "title": "Neoplastic CD3⁺ B cells remodel the DLBCL tumor microenvironment via single-cell and spatial transcriptomics.",
+        "summary": "Researchers created a detailed map of DLBCL tumor cells and their surroundings using advanced imaging and genetic analysis techniques.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42247321/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lymphoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-06"
+      },
+      {
+        "id": "rec9C2K44i9aERgNB",
+        "title": "Genetic variants of the transporter SLC22A4 affect the abundance and survival of Fusobacterium nucleatum in colorectal cancer.",
+        "summary": "A genetic variant in the SLC22A4 transporter allows harmful bacteria to thrive in colorectal cancer by weakening immune responses.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42246276/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-06"
+      },
+      {
+        "id": "recHQrAIbsx4GXs5G",
+        "title": "Plant‑derived natural products alleviate dexamethasone‑induced skeletal muscle atrophy by modulating FoxO (Review).",
+        "summary": "Plant-derived compounds prevent muscle wasting caused by dexamethasone by targeting the FoxO protein and related cellular pathways.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42246193/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 21,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-06"
+      },
+      {
+        "id": "recD6cPyI553COo2h",
+        "title": "Targeted therapy in BRAF‑mutant melanoma: Advances and challenges (Review).",
+        "summary": "BRAF inhibitors effectively treat melanoma but patients develop drug resistance, requiring new strategies to prevent aggressive cancer relapse.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42246190/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Melanoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-06"
+      },
+      {
+        "id": "recZkla7fQLHOxuT5",
+        "title": "Targeting regulatory T cells in the prostate cancer microenvironment: From mechanisms to therapeutics (Review).",
+        "summary": "Targeting specific regulatory T cell subsets in prostate cancer tumors could improve immunotherapy effectiveness and prevent treatment-induced immune suppression.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42246166/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 29,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-06"
+      },
+      {
+        "id": "recElXyyt0LLNyrHf",
+        "title": "Beyond the primary site: Molecular insights and clinical implications of cancer metastatic overlap between lung and urological organ cancers (Review).",
+        "summary": "Lung and urological cancers share molecular pathways enabling metastasis between organs, requiring personalized treatment strategies tailored to each organ's microenvironment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42246161/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung",
+          "Bladder"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-06"
+      },
+      {
+        "id": "rec2E09oBU0gAH1Ws",
+        "title": "LINC01117 promotes the malignant proliferation of lung adenocarcinoma by increasing HOXD8 mRNA stability.",
+        "summary": "A molecule called LINC01117 promotes lung adenocarcinoma growth by stabilizing another molecule, HOXD8, which drives cancer cell proliferation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42246151/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-06"
+      },
+      {
+        "id": "reczxiYV3WF7kc62f",
+        "title": "Evaluation of the combined cytotoxic and apoptotic potential of green-synthesized zinc oxide nanoparticles (from Thymus vulgaris) and tamoxifen on MCF-7 breast cancer cells.",
+        "summary": "Thymus-derived zinc oxide nanoparticles combined with tamoxifen kill breast cancer cells while using 96-fold less tamoxifen dose.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42245620/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-06"
+      },
+      {
+        "id": "rec4m0PEknvMr5dKB",
+        "title": "Metabolic remodeling by circular RNAs in gastric tumorigenesis: From mechanisms to biomarker discovery (Review).",
+        "summary": "Circular RNAs help gastric cancer cells reprogram their metabolism to support growth and spread, offering potential new biomarkers and treatment targets.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42246184/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-06"
+      },
+      {
+        "id": "recfy3vtze2vGgZj5",
+        "title": "Emerging agents that target signaling pathways in cancer fibroblast cells (Review).",
+        "summary": "Targeting signaling pathways in cancer-supporting fibroblasts with small molecule drugs may inhibit tumor growth and metastasis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42246174/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-06"
+      },
+      {
+        "id": "reciIysxo9kJ5MSJY",
+        "title": "Growth hormone-secreting adenoma with lack of retinoblastoma protein expression.",
+        "summary": "A patient with an RB1 gene mutation developed a growth hormone-secreting pituitary tumor lacking retinoblastoma protein expression.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42245474/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-06"
+      },
+      {
         "id": "recJmGlawBEU2R4WH",
         "title": "RET fusion partners dictate oncogenic potential in undifferentiated spindle cell sarcomas.",
         "summary": "Different RET fusion partners in spindle cell sarcomas determine how aggressive the cancer becomes, offering targets for personalized treatment.",
@@ -467,68 +636,14 @@
         "quality_score": 15,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-05"
-      },
+      }
+    ],
+    "trials": [
       {
-        "id": "recOYk4E7CGKMpEDu",
-        "title": "Multi-omics integration reveals convergent extracellular matrix remodelling and lipid metabolic reprogramming as central axes of adipocyte differentiation from mouse embryonic stem cells.",
-        "summary": "Study identifies two key processes—extracellular matrix remodeling and lipid metabolism—that drive fat cell development from embryonic stem cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42228580/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-05"
-      },
-      {
-        "id": "recMmrxF72khN9E8w",
-        "title": "A signal-responsive cooperative transcription factor network determines alveolar macrophage identity.",
-        "summary": "Researchers found that RXR proteins cooperate with other transcription factors to establish alveolar macrophage identity through tissue signals.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42228021/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-05"
-      },
-      {
-        "id": "rec93JUeyntUMRlpo",
-        "title": "Systemic radionuclide treatments in gastro-entero-pancreatic neuroendocrine tumours.",
-        "summary": "Radioactive peptide therapy is now a key treatment for advanced stomach and pancreatic neuroendocrine tumors, with recent trials expanding its effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42240214/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-05"
-      },
-      {
-        "id": "recpQHWp6wnNL996T",
-        "title": "From dose to exposure? rethinking fluoropyrimidines as immune checkpoint partners in gastrointestinal cancers.",
-        "summary": "Researchers propose switching from high-dose to continuous low-dose fluoropyrimidines to better combine chemotherapy with immunotherapy for gastrointestinal cancers.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42233330/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-05"
-      },
-      {
-        "id": "receyyiNYdwDSaGeu",
-        "title": "Pilot study: prognostic significance of semi-quantitative parameters in baseline fluorine‑18 fluorodeoxyglucose PET/computed tomography in nonmetastatic breast cancer patients.",
-        "summary": "Spleen activity measurements on PET scans may help predict outcomes in nonmetastatic breast cancer patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41913663/",
+        "id": "recXtId35WqhoGHju",
+        "title": "The tumor microenvironment in triple negative breast cancer and a strategy to improve responses to immunotherapy using cryoablation and immunostimulants.",
+        "summary": "Combining cryoablation with immunotherapy drugs may improve treatment outcomes for triple-negative breast cancer by activating the immune system.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42247481/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -536,108 +651,36 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-06-01",
-        "added_date": "2026-06-05"
+        "added_date": "2026-06-06"
       },
       {
-        "id": "recMHKdMWOhqVEnLH",
-        "title": "Unveiling intratumoral heterogeneity and isocitrate dehydrogenase status in gliomas: a simultaneous fluorine-18 fluorodeoxyglucose PET/MRI study based on 2021 WHO classification.",
-        "summary": "PET/MRI imaging can help predict IDH mutation status and characterize tumor diversity in gliomas.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41913661/",
+        "id": "recD6cPyI553COo2h",
+        "title": "Targeted therapy in BRAF‑mutant melanoma: Advances and challenges (Review).",
+        "summary": "BRAF inhibitors effectively treat melanoma but patients develop drug resistance, requiring new strategies to prevent aggressive cancer relapse.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42246190/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
-          "Brain"
+          "Melanoma"
         ],
         "quality_score": 15,
         "pub_date": "2026-06-01",
-        "added_date": "2026-06-05"
+        "added_date": "2026-06-06"
       },
       {
-        "id": "recqQ6lF62m6QIqQz",
-        "title": "Targeting XIAP-coordinated PKC signaling resensitizes PD-1-refractory tumors for rechallenge.",
-        "summary": "PKC inhibition resensitizes PD-1-resistant lung cancer to immunotherapy by reactivating immune cell killing and reducing tumor protection.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42234523/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-05"
-      },
-      {
-        "id": "recWTI58bqUM3kUXI",
-        "title": "Antibody E06 and the Role of Oxidized Phospholipids in Atherogenesis and Inflammation.",
-        "summary": "Antibody E06 neutralizes oxidized phospholipids, reducing inflammation and tissue damage across cardiovascular and liver diseases in animal models.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42241507/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-05"
-      },
-      {
-        "id": "recwUoR3aWjzhzGFp",
-        "title": "Am80-lipid nanoparticles serve as an enteric mucosal adjuvant following parenteral immunization with inactivated polio vaccine.",
-        "summary": "Researchers developed nanoparticles containing Am80 that boost gut immunity when given with polio vaccine, enhancing protective intestinal antibodies.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42234750/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-05"
-      },
-      {
-        "id": "recl8lPPf68CnqkAq",
-        "title": "Monoclonal antibodies targeting PCDH7 inhibit tumor growth and enhance immune responses in KRAS-mutant non-small cell lung cancer.",
-        "summary": "Antibodies targeting PCDH7 shrink KRAS-mutant lung tumors and boost immune responses in preclinical models.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42234744/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-05"
-      },
-      {
-        "id": "recmRka0xnC8dW7dm",
-        "title": "Advanced nanomedicines to target prostate cancer cells: emerging molecular tools and future clinical prospects.",
-        "summary": "Nanomedicines using targeted nanoparticles offer precise, effective treatment for prostate cancer with multiple therapeutic approaches combined.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42105963/",
+        "id": "recZkla7fQLHOxuT5",
+        "title": "Targeting regulatory T cells in the prostate cancer microenvironment: From mechanisms to therapeutics (Review).",
+        "summary": "Targeting specific regulatory T cell subsets in prostate cancer tumors could improve immunotherapy effectiveness and prevent treatment-induced immune suppression.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42246166/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Prostate"
         ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-06-05"
+        "quality_score": 29,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-06"
       },
-      {
-        "id": "recsbBIVkbGAPbJFP",
-        "title": "From stiffness-softness paradox to drug delivery systems: mechanical properties and regulation in tumor progression.",
-        "summary": "Tumor tissue stiffness and cancer cell softness drive progression; drug delivery systems targeting these mechanical properties offer new treatment strategies.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42105960/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-06-05"
-      }
-    ],
-    "trials": [
       {
         "id": "recUsd8hukAOexsCP",
         "title": "Pre-implementation factors for Active Music Engagement (AME): barriers and facilitators to integrating an evidence-based dyadic intervention into pediatric oncology care.",
@@ -805,48 +848,6 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-06-05"
-      },
-      {
-        "id": "recXYVVqeojy3IPFj",
-        "title": "Peptide modified lipid nanoparticles Co-Delivering IL-12 mRNA and PD-L1 siRNA for glioblastoma immunotherapy.",
-        "summary": "Peptide-modified nanoparticles delivering two immunotherapy agents crossed the blood-brain barrier to treat glioblastoma more effectively.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42055150/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-06-05"
-      },
-      {
-        "id": "reclGNy9nwZmOy0kw",
-        "title": "Novel staurosporine-type indolocarbazole glycoalkaloids as potent and selective FLT3-ITD inhibitors for acute myeloid leukemia.",
-        "summary": "Researchers developed a new drug compound that effectively blocks a mutated protein driving acute myeloid leukemia, showing promise for treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41889033/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 13,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-06-05"
-      },
-      {
-        "id": "recyHnTWMOHSFAmtc",
-        "title": "Utilization of next generation sequencing from glioma patient liquid biopsy to determine survival prognostics: A systematic review.",
-        "summary": "Next-generation sequencing of blood samples can predict glioma survival outcomes by measuring tumor DNA levels, but standardized methods are still needed.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41833802/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Brain"
-        ],
-        "quality_score": 20,
-        "pub_date": "2026-03-01",
-        "added_date": "2026-06-05"
       }
     ],
     "mind_body": []
@@ -858,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27355,
+    "archive_count": 27356,
     "archive_supplements": 2903,
     "archive_off_label": 912,
-    "archive_biomarkers": 17293,
+    "archive_biomarkers": 17294,
     "archive_trials": 5506,
     "archive_mind_body": 450
   }
