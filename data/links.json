@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-06T04:13:31.443Z",
+  "last_updated": "2026-06-06T04:13:41.796Z",
   "categories": {
     "supplements": [
       {
@@ -243,6 +243,20 @@
         "added_date": "2026-06-06"
       },
       {
+        "id": "recjAMPt5UWgTjOm4",
+        "title": "EXPRESS: Dezocine Allevates Cancer-Induced Bone Pain and Suppresses Intraosseous Tumor Growth in Renal Cell Carcinoma via the NAMPT/NAD+ Axis.",
+        "summary": "Dezocine reduces pain and suppresses tumor growth in kidney cancer bone metastasis by disrupting a cellular energy pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42246550/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Kidney"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-06"
+      },
+      {
         "id": "recqQ6lF62m6QIqQz",
         "title": "Targeting XIAP-coordinated PKC signaling resensitizes PD-1-refractory tumors for rechallenge.",
         "summary": "PKC inhibition resensitizes PD-1-resistant lung cancer to immunotherapy by reactivating immune cell killing and reducing tumor protection.",
@@ -405,20 +419,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-05"
-      },
-      {
-        "id": "recaaqQbeYyqzAn1Y",
-        "title": "Comprehensive multi-omics analysis identifies cancer subtypes and prognostic signatures of hepatitis B virus-associated hepatocellular carcinoma.",
-        "summary": "Researchers identified two hepatocellular carcinoma subtypes and developed a prognostic tool that predicted outcomes better than existing models, revealing KX2-391 as a promising new treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42243437/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Liver"
         ],
         "quality_score": 15,
         "pub_date": "2026-06-01",
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27405,
+    "archive_count": 27406,
     "archive_supplements": 2905,
     "archive_off_label": 912,
-    "archive_biomarkers": 17338,
+    "archive_biomarkers": 17339,
     "archive_trials": 5509,
     "archive_mind_body": 450
   }
