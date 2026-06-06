@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-06T04:04:13.696Z",
+  "last_updated": "2026-06-06T04:04:24.392Z",
   "categories": {
     "supplements": [
       {
@@ -610,6 +610,20 @@
         "added_date": "2026-06-06"
       },
       {
+        "id": "recoBX9FutOZqLOOX",
+        "title": "High-throughput protein target mapping enables accelerated bioactivity discovery for ToxCast and PFAS compounds.",
+        "summary": "Researchers identified how toxic chemicals, especially PFAS pollutants, bind to human proteins, revealing that newer replacement compounds interact more broadly than legacy versions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42247526/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-06"
+      },
+      {
         "id": "recJmGlawBEU2R4WH",
         "title": "RET fusion partners dictate oncogenic potential in undifferentiated spindle cell sarcomas.",
         "summary": "Different RET fusion partners in spindle cell sarcomas determine how aggressive the cancer becomes, offering targets for personalized treatment.",
@@ -620,20 +634,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-05"
-      },
-      {
-        "id": "reclQRyppF8Drd4NG",
-        "title": "Dectin-1 signaling promotes Galectin-3 shedding and expansion of immunosuppressive CD71+ erythroid cells in breast cancer.",
-        "summary": "PD-L1 blockade reduces immunosuppressive cells in triple-negative breast cancer by targeting Galectin-3-positive erythroid cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42228003/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-05"
       }
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27357,
+    "archive_count": 27358,
     "archive_supplements": 2903,
     "archive_off_label": 912,
-    "archive_biomarkers": 17295,
+    "archive_biomarkers": 17296,
     "archive_trials": 5506,
     "archive_mind_body": 450
   }
