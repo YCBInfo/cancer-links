@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-06T04:04:24.392Z",
+  "last_updated": "2026-06-06T04:04:38.615Z",
   "categories": {
     "supplements": [
       {
@@ -215,6 +215,20 @@
     ],
     "off_label": [
       {
+        "id": "recHdLcIKut76U6iJ",
+        "title": "FusionTarget: Computational framework for drug repurposing against modeled fusion protein structures from genomic breakpoints.",
+        "summary": "FusionTarget computationally identifies drugs targeting fusion proteins in Ewing sarcoma and infant leukemia by modeling their 3D structures.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42245927/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-06"
+      },
+      {
         "id": "recqQ6lF62m6QIqQz",
         "title": "Targeting XIAP-coordinated PKC signaling resensitizes PD-1-refractory tumors for rechallenge.",
         "summary": "PKC inhibition resensitizes PD-1-resistant lung cancer to immunotherapy by reactivating immune cell killing and reducing tumor protection.",
@@ -403,20 +417,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/42243308/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-05"
-      },
-      {
-        "id": "recm5K7PGCQwQcKAC",
-        "title": "HDAC inhibition reprograms stem cell fate to suppress infantile hemangioma vasculogenesis.",
-        "summary": "HDAC inhibitors suppress infantile hemangioma growth by blocking stem cell differentiation into blood vessel-supporting cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42240910/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
         "cancer_types": [
           "General"
         ],
@@ -624,18 +624,18 @@
         "added_date": "2026-06-06"
       },
       {
-        "id": "recJmGlawBEU2R4WH",
-        "title": "RET fusion partners dictate oncogenic potential in undifferentiated spindle cell sarcomas.",
-        "summary": "Different RET fusion partners in spindle cell sarcomas determine how aggressive the cancer becomes, offering targets for personalized treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42240026/",
+        "id": "recHdLcIKut76U6iJ",
+        "title": "FusionTarget: Computational framework for drug repurposing against modeled fusion protein structures from genomic breakpoints.",
+        "summary": "FusionTarget computationally identifies drugs targeting fusion proteins in Ewing sarcoma and infant leukemia by modeling their 3D structures.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42245927/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
-          "General"
+          "Leukemia"
         ],
-        "quality_score": 12,
+        "quality_score": 15,
         "pub_date": "2026-06-01",
-        "added_date": "2026-06-05"
+        "added_date": "2026-06-06"
       }
     ],
     "trials": [
@@ -859,8 +859,8 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27358,
-    "archive_supplements": 2903,
+    "archive_count": 27359,
+    "archive_supplements": 2904,
     "archive_off_label": 912,
     "archive_biomarkers": 17296,
     "archive_trials": 5506,
