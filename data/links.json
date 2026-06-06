@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-06T06:04:46.266Z",
+  "last_updated": "2026-06-06T06:04:58.833Z",
   "categories": {
     "supplements": [
       {
@@ -69,6 +69,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-06"
+      },
+      {
+        "id": "recJSwHMXEZ5lpY2B",
+        "title": "Dehydrocostus Lactone Suppresses Hepatocellular Carcinoma by Inhibiting Protein Tyrosine Kinase-7 Mediated β-Catenin Signaling.",
+        "summary": "A natural compound called dehydrocostus lactone fights liver cancer by blocking a protein that drives tumor growth and spread.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42248674/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-06"
       },
@@ -195,20 +209,6 @@
           "Breast"
         ],
         "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-05"
-      },
-      {
-        "id": "recG0A5MRvuEwHaP2",
-        "title": "α-Linolenic acid alleviates ovalbumin-induced allergic rhinitis in mice and modulates GPR120-NF-κB signaling.",
-        "summary": "Alpha-linolenic acid reduces allergic rhinitis symptoms in mice by decreasing inflammation and blocking a key immune signaling pathway.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42236769/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-05"
       }
@@ -859,11 +859,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27513,
+    "archive_count": 27514,
     "archive_supplements": 2906,
     "archive_off_label": 913,
     "archive_biomarkers": 17426,
-    "archive_trials": 5526,
+    "archive_trials": 5527,
     "archive_mind_body": 451
   }
 }
