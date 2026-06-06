@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-06T04:04:53.294Z",
+  "last_updated": "2026-06-06T04:05:04.012Z",
   "categories": {
     "supplements": [
       {
@@ -229,6 +229,20 @@
         "added_date": "2026-06-06"
       },
       {
+        "id": "recsgeE4nyfMGryzZ",
+        "title": "Protein tyrosine kinases in dendritic cell-mediated anti-cancer immunity.",
+        "summary": "Protein tyrosine kinases control dendritic cells' ability to fight cancer by regulating immune responses, and targeting these proteins may enhance cancer immunotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42247736/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-06"
+      },
+      {
         "id": "recqQ6lF62m6QIqQz",
         "title": "Targeting XIAP-coordinated PKC signaling resensitizes PD-1-refractory tumors for rechallenge.",
         "summary": "PKC inhibition resensitizes PD-1-resistant lung cancer to immunotherapy by reactivating immune cell killing and reducing tumor protection.",
@@ -407,20 +421,6 @@
           "Liver"
         ],
         "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-05"
-      },
-      {
-        "id": "recfPcLQi0aIbWwQ1",
-        "title": "Calcium-modulated GJB6-GRHL3 positive feedback loop attenuates ESCC progression through AKT signaling pathway inhibition.",
-        "summary": "GJB6 suppresses esophageal cancer growth by regulating a calcium-dependent feedback loop; AKT inhibitors may reverse this effect therapeutically.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42243308/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-05"
       }
@@ -710,6 +710,20 @@
         "added_date": "2026-06-06"
       },
       {
+        "id": "recIButR9xgX6903u",
+        "title": "Quality of life and mental health in pediatric patients with low-grade CNS tumors treated with surgery alone.",
+        "summary": "Children with low-grade brain tumors treated with surgery alone experience reduced quality of life and mental health challenges compared to healthy peers.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42247710/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-06"
+      },
+      {
         "id": "recUsd8hukAOexsCP",
         "title": "Pre-implementation factors for Active Music Engagement (AME): barriers and facilitators to integrating an evidence-based dyadic intervention into pediatric oncology care.",
         "summary": "Music engagement intervention reduces distress in pediatric cancer patients and parents, with barriers and facilitators identified for hospital integration.",
@@ -834,20 +848,6 @@
         "quality_score": 12,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-05"
-      },
-      {
-        "id": "recl8lPPf68CnqkAq",
-        "title": "Monoclonal antibodies targeting PCDH7 inhibit tumor growth and enhance immune responses in KRAS-mutant non-small cell lung cancer.",
-        "summary": "Antibodies targeting PCDH7 shrink KRAS-mutant lung tumors and boost immune responses in preclinical models.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42234744/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-05"
       }
     ],
     "mind_body": []
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27360,
+    "archive_count": 27361,
     "archive_supplements": 2904,
     "archive_off_label": 912,
-    "archive_biomarkers": 17297,
+    "archive_biomarkers": 17298,
     "archive_trials": 5506,
     "archive_mind_body": 450
   }
