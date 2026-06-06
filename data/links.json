@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-06T04:24:33.607Z",
+  "last_updated": "2026-06-06T04:24:44.013Z",
   "categories": {
     "supplements": [
       {
@@ -285,6 +285,20 @@
         "added_date": "2026-06-06"
       },
       {
+        "id": "recC9ppBZwfyybRKC",
+        "title": "Histone modifications across cancers: mechanisms, therapy and clinical translation.",
+        "summary": "Histone modifications drive cancer development; targeting these modifications with new drugs like HDAC and EZH2 inhibitors offers promising therapeutic opportunities.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42243927/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-06"
+      },
+      {
         "id": "recqQ6lF62m6QIqQz",
         "title": "Targeting XIAP-coordinated PKC signaling resensitizes PD-1-refractory tumors for rechallenge.",
         "summary": "PKC inhibition resensitizes PD-1-resistant lung cancer to immunotherapy by reactivating immune cell killing and reducing tumor protection.",
@@ -405,20 +419,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Breast"
-        ],
-        "quality_score": 19,
-        "pub_date": "2026-06-04",
-        "added_date": "2026-06-05"
-      },
-      {
-        "id": "recyuzQ5NEryu4uZV",
-        "title": "A Single-Arm, Phase II Study of Autophagy Modulation Using Hydroxychloroquine in Combination With Encorafenib and Cetuximab or Panitumumab in Metastatic BRAF-mutated Colorectal Cancer Refractory to Standard Therapies",
-        "summary": "Hydroxychloroquine added to standard drugs improved treatment outcomes for metastatic colorectal cancer with BRAF mutations resistant to prior therapies.",
-        "url": "https://clinicaltrials.gov/study/NCT05576896",
-        "source": "ClinicalTrials.gov",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Colorectal"
         ],
         "quality_score": 19,
         "pub_date": "2026-06-04",
@@ -859,11 +859,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27462,
+    "archive_count": 27463,
     "archive_supplements": 2905,
     "archive_off_label": 913,
     "archive_biomarkers": 17387,
-    "archive_trials": 5516,
+    "archive_trials": 5517,
     "archive_mind_body": 450
   }
 }
