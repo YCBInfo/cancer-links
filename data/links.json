@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-06T07:09:34.484Z",
+  "last_updated": "2026-06-06T08:03:58.500Z",
   "categories": {
     "supplements": [
       {
@@ -327,6 +327,20 @@
         "added_date": "2026-06-06"
       },
       {
+        "id": "recPcNZRtXJP6Ma0H",
+        "title": "Dual targeting of mitochondrial metabolism and Rho GTPase signaling to suppress cancer metastasis (Review).",
+        "summary": "Targeting both mitochondrial energy and cellular movement signaling together may block cancer spread better than single therapies alone.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42246188/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-06"
+      },
+      {
         "id": "recqQ6lF62m6QIqQz",
         "title": "Targeting XIAP-coordinated PKC signaling resensitizes PD-1-refractory tumors for rechallenge.",
         "summary": "PKC inhibition resensitizes PD-1-resistant lung cancer to immunotherapy by reactivating immune cell killing and reducing tumor protection.",
@@ -403,20 +417,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/42237213/",
         "source": "PubMed",
         "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-05"
-      },
-      {
-        "id": "recJlpJfBXjDOYRMu",
-        "title": "Fluvoxamine and lycopene alleviate cisplatin-induced kidney fibrosis by modulating miR-21 and fibrotic signaling pathways.",
-        "summary": "Fluvoxamine and lycopene protect kidneys from cisplatin chemotherapy damage by reducing inflammation, oxidative stress, and fibrosis in rats.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42243346/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "General"
         ],
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27578,
+    "archive_count": 27579,
     "archive_supplements": 2918,
     "archive_off_label": 913,
-    "archive_biomarkers": 17447,
+    "archive_biomarkers": 17448,
     "archive_trials": 5558,
     "archive_mind_body": 451
   }
