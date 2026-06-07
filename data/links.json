@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-07T09:05:43.169Z",
+  "last_updated": "2026-06-07T11:30:08.942Z",
   "categories": {
     "supplements": [
       {
@@ -274,6 +274,20 @@
         "added_date": "2026-06-07"
       },
       {
+        "id": "rec99i1luJCgAAXyP",
+        "title": "Lapatinib Suppressed the Expression of Proinflammatory Cytokines and Alleviated Pain Behavior in a Mouse Model of Postoperative Pain",
+        "summary": "Lapatinib, an anticancer drug, reduced inflammation and pain after surgery in mice without opioid-like dependence risks.",
+        "url": "https://www.biorxiv.org/content/10.64898/2026.01.07.698212",
+        "source": "bioRxiv",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 9,
+        "pub_date": "2026-05-24",
+        "added_date": "2026-06-07"
+      },
+      {
         "id": "recHdLcIKut76U6iJ",
         "title": "FusionTarget: Computational framework for drug repurposing against modeled fusion protein structures from genomic breakpoints.",
         "summary": "FusionTarget computationally identifies drugs targeting fusion proteins in Ewing sarcoma and infant leukemia by modeling their 3D structures.",
@@ -404,20 +418,6 @@
         "title": "Metformin sensitizes esophageal squamous cell carcinoma to Vγ9Vδ2 T cell-mediated cytotoxicity by upregulating BTN3A1 and BTN2A1.",
         "summary": "Metformin enhances esophageal cancer cell death by increasing proteins that activate immune T cells to attack tumors.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42248853/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-06"
-      },
-      {
-        "id": "rec2Pe6iYBmk2pXiR",
-        "title": "In silico screen identifies Pranidipine as a potential inhibitor of the PD-1/PD-L1 immune checkpoint.",
-        "summary": "Computer analysis identifies Pranidipine, a blood pressure medication, as a potential cancer treatment by blocking immune checkpoint proteins.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42248963/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -863,10 +863,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27778,
+    "archive_count": 27779,
     "archive_supplements": 2930,
     "archive_off_label": 919,
-    "archive_biomarkers": 17605,
+    "archive_biomarkers": 17606,
     "archive_trials": 5582,
     "archive_mind_body": 451
   }
