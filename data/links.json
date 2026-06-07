@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-07T04:24:51.195Z",
+  "last_updated": "2026-06-07T04:25:03.679Z",
   "categories": {
     "supplements": [
       {
@@ -217,6 +217,20 @@
     ],
     "off_label": [
       {
+        "id": "recMQZOqzm17jxXnm",
+        "title": "GPI promotes immunosuppression in anaplastic thyroid carcinoma via O-GlcNAcylated THBS1-mediated myeloid cell crosstalk.",
+        "summary": "GPI drives immunosuppression in anaplastic thyroid cancer; blocking it with Regorafenib combined with immunotherapy restores anti-tumor immunity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42248319/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Thyroid"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-07"
+      },
+      {
         "id": "recHdLcIKut76U6iJ",
         "title": "FusionTarget: Computational framework for drug repurposing against modeled fusion protein structures from genomic breakpoints.",
         "summary": "FusionTarget computationally identifies drugs targeting fusion proteins in Ewing sarcoma and infant leukemia by modeling their 3D structures.",
@@ -411,20 +425,6 @@
         "quality_score": 12,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-06"
-      },
-      {
-        "id": "recqQ6lF62m6QIqQz",
-        "title": "Targeting XIAP-coordinated PKC signaling resensitizes PD-1-refractory tumors for rechallenge.",
-        "summary": "PKC inhibition resensitizes PD-1-resistant lung cancer to immunotherapy by reactivating immune cell killing and reducing tumor protection.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42234523/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-05"
       }
     ],
     "biomarkers": [
@@ -862,10 +862,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27720,
+    "archive_count": 27721,
     "archive_supplements": 2926,
     "archive_off_label": 917,
-    "archive_biomarkers": 17563,
+    "archive_biomarkers": 17564,
     "archive_trials": 5572,
     "archive_mind_body": 451
   }
