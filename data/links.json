@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-07T04:04:03.140Z",
+  "last_updated": "2026-06-07T04:04:13.112Z",
   "categories": {
     "supplements": [
       {
@@ -581,6 +581,20 @@
         "added_date": "2026-06-07"
       },
       {
+        "id": "rec5CZTJsLBe4Jyhp",
+        "title": "Integrating multi-omics and clinical management in breast cancer: a comprehensive review.",
+        "summary": "Integrating multiple molecular data types with liquid biopsy improves breast cancer treatment personalization and resistance monitoring.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42250175/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-07"
+      },
+      {
         "id": "recXtId35WqhoGHju",
         "title": "The tumor microenvironment in triple negative breast cancer and a strategy to improve responses to immunotherapy using cryoablation and immunostimulants.",
         "summary": "Combining cryoablation with immunotherapy drugs may improve treatment outcomes for triple-negative breast cancer by activating the immune system.",
@@ -621,20 +635,6 @@
         "quality_score": 15,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-06"
-      },
-      {
-        "id": "recHQrAIbsx4GXs5G",
-        "title": "Plant‑derived natural products alleviate dexamethasone‑induced skeletal muscle atrophy by modulating FoxO (Review).",
-        "summary": "Plant-derived compounds prevent muscle wasting caused by dexamethasone by targeting the FoxO protein and related cellular pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42246193/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 21,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-06"
       }
     ],
     "trials": [
@@ -657,6 +657,20 @@
         "title": "Evaluating total tumor load (TTL) to predict metastasis in four or more axillary lymph nodes in HR +/HER2- breast cancer patients: the TULIP4N + study.",
         "summary": "A new test measuring tumor markers in lymph nodes helps identify breast cancer patients who need additional drug therapy.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42250186/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-07"
+      },
+      {
+        "id": "rec5CZTJsLBe4Jyhp",
+        "title": "Integrating multi-omics and clinical management in breast cancer: a comprehensive review.",
+        "summary": "Integrating multiple molecular data types with liquid biopsy improves breast cancer treatment personalization and resistance monitoring.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42250175/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -833,20 +847,6 @@
         "quality_score": 12,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-06"
-      },
-      {
-        "id": "rec0eaRVi0Y9iBQar",
-        "title": "Clinicopathological features and ethnic disparities of melanoma in the United Arab Emirates: 2017-2025.",
-        "summary": "Researchers studied melanoma cases in the UAE to understand how the disease presents differently across ethnic groups in a high-UV environment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42247436/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Melanoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-06"
       }
     ],
     "mind_body": []
@@ -858,8 +858,8 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27608,
-    "archive_supplements": 2918,
+    "archive_count": 27609,
+    "archive_supplements": 2919,
     "archive_off_label": 917,
     "archive_biomarkers": 17466,
     "archive_trials": 5565,
