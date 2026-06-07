@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-07T04:06:32.249Z",
+  "last_updated": "2026-06-07T04:06:43.888Z",
   "categories": {
     "supplements": [
       {
@@ -695,6 +695,20 @@
         "added_date": "2026-06-07"
       },
       {
+        "id": "recRfPtTcznMafUDP",
+        "title": "Quantitative mid-treatment imaging biomarkers for response prediction after radiotherapy in head and neck cancer: a systematic review and meta-analysis.",
+        "summary": "Mid-treatment imaging scans can predict which head and neck cancer patients will respond well to radiotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42250069/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-07"
+      },
+      {
         "id": "recXtId35WqhoGHju",
         "title": "The tumor microenvironment in triple negative breast cancer and a strategy to improve responses to immunotherapy using cryoablation and immunostimulants.",
         "summary": "Combining cryoablation with immunotherapy drugs may improve treatment outcomes for triple-negative breast cancer by activating the immune system.",
@@ -833,20 +847,6 @@
         "quality_score": 12,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-06"
-      },
-      {
-        "id": "recGDgBQIGMHEl15O",
-        "title": "Cytotoxic CD39+ tumor-associated NK cells respond to NKG2A blockade in lung cancer.",
-        "summary": "Blocking NKG2A enhances the cancer-killing ability of CD39+ immune cells in lung cancer patients.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42247486/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-06"
       }
     ],
     "mind_body": []
@@ -858,10 +858,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27619,
+    "archive_count": 27620,
     "archive_supplements": 2920,
     "archive_off_label": 917,
-    "archive_biomarkers": 17475,
+    "archive_biomarkers": 17476,
     "archive_trials": 5565,
     "archive_mind_body": 451
   }
