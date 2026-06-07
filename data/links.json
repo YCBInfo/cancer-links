@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-07T07:03:21.852Z",
+  "last_updated": "2026-06-07T09:03:42.000Z",
   "categories": {
     "supplements": [
       {
@@ -246,6 +246,34 @@
         "added_date": "2026-06-07"
       },
       {
+        "id": "reccVWqNsgq8uOzcx",
+        "title": "Impact of Concomitant Proton Pump Inhibitor Use on Oncologic Outcomes of Neoadjuvant Chemoimmunotherapy in Locally Advanced Gastric Cancer: A Multicenter Real-World Study.",
+        "summary": "Proton pump inhibitors may reduce the effectiveness of chemotherapy and immunotherapy in treating advanced gastric cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42251208/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-07"
+      },
+      {
+        "id": "rectOFmmtiJVZSTUr",
+        "title": "Sigma-1 Receptor antagonism potentiates siramesine-induced apoptosis and altered autophagic signaling in human leukemia cells.",
+        "summary": "Blocking sigma-1 receptors enhances siramesine's cancer-killing effects in leukemia cells by boosting apoptosis and autophagy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42250386/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-07"
+      },
+      {
         "id": "recHdLcIKut76U6iJ",
         "title": "FusionTarget: Computational framework for drug repurposing against modeled fusion protein structures from genomic breakpoints.",
         "summary": "FusionTarget computationally identifies drugs targeting fusion proteins in Ewing sarcoma and infant leukemia by modeling their 3D structures.",
@@ -396,34 +424,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-06"
-      },
-      {
-        "id": "reckCb0AuyazVAicN",
-        "title": "Protective Effects of Imeglimin Against Oxaliplatin-Induced Peripheral Neurotoxicity: Evidence From In Vitro and In Vivo Studies.",
-        "summary": "Imeglimin protects nerve cells from oxaliplatin damage in gastrointestinal cancer treatment without reducing the drug's anticancer effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42246559/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-06"
-      },
-      {
-        "id": "recAAevPVnFjcyzEs",
-        "title": "Nitazoxanide cooperates with cytarabine to inhibit cytarabine-resistant acute myeloid leukemia progression via mitochondrial dysfunction and PLK1 suppression.",
-        "summary": "Nitazoxanide combined with cytarabine overcomes drug resistance in acute myeloid leukemia by damaging mitochondria and blocking cell division.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42248474/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-06"
       }
@@ -863,10 +863,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27768,
+    "archive_count": 27769,
     "archive_supplements": 2930,
     "archive_off_label": 918,
-    "archive_biomarkers": 17600,
+    "archive_biomarkers": 17601,
     "archive_trials": 5578,
     "archive_mind_body": 451
   }
