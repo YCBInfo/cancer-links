@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-07T04:04:13.112Z",
+  "last_updated": "2026-06-07T04:04:42.390Z",
   "categories": {
     "supplements": [
       {
@@ -39,6 +39,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-07"
+      },
+      {
+        "id": "recHMlzbdFHJY2wyY",
+        "title": "Integrated Genomic, Structural, and Metabolomic Profiling of Freeze-Dried Postbiotic Supernatants Reveals Multi-Target Anticancer Activity Against Caco-2 Cells.",
+        "summary": "Bacterial metabolites derived from probiotics show promise against colorectal cancer cells by triggering cell death and stopping tumor growth.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42250156/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
         ],
         "quality_score": 15,
         "pub_date": "2026-06-01",
@@ -195,20 +209,6 @@
           "Colorectal"
         ],
         "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-06"
-      },
-      {
-        "id": "recHe6m4rk0n6pUDG",
-        "title": "Updated perspectives on vitamin D deficiency, screening, supplementation and clinical guidance.",
-        "summary": "Vitamin D deficiency increases cancer and bone disease risk; experts recommend screening high-risk populations and supplementation targeting 30 ng/mL levels.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42237374/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-06"
       }
@@ -595,6 +595,34 @@
         "added_date": "2026-06-07"
       },
       {
+        "id": "recvxCbUrz0qC6zvY",
+        "title": "MicroRNA-SIRT1 crosstalk in liver diseases: molecular regulation of metabolism, inflammation, and cell survival.",
+        "summary": "MicroRNA-SIRT1 interactions regulate liver metabolism and inflammation, with disruption linked to hepatocellular carcinoma and other liver diseases.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42250161/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-07"
+      },
+      {
+        "id": "recHMlzbdFHJY2wyY",
+        "title": "Integrated Genomic, Structural, and Metabolomic Profiling of Freeze-Dried Postbiotic Supernatants Reveals Multi-Target Anticancer Activity Against Caco-2 Cells.",
+        "summary": "Bacterial metabolites derived from probiotics show promise against colorectal cancer cells by triggering cell death and stopping tumor growth.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42250156/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-07"
+      },
+      {
         "id": "recXtId35WqhoGHju",
         "title": "The tumor microenvironment in triple negative breast cancer and a strategy to improve responses to immunotherapy using cryoablation and immunostimulants.",
         "summary": "Combining cryoablation with immunotherapy drugs may improve treatment outcomes for triple-negative breast cancer by activating the immune system.",
@@ -603,34 +631,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-06"
-      },
-      {
-        "id": "recbwIimen5Y1kiDS",
-        "title": "Neoplastic CD3⁺ B cells remodel the DLBCL tumor microenvironment via single-cell and spatial transcriptomics.",
-        "summary": "Researchers created a detailed map of DLBCL tumor cells and their surroundings using advanced imaging and genetic analysis techniques.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42247321/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lymphoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-06"
-      },
-      {
-        "id": "rec9C2K44i9aERgNB",
-        "title": "Genetic variants of the transporter SLC22A4 affect the abundance and survival of Fusobacterium nucleatum in colorectal cancer.",
-        "summary": "A genetic variant in the SLC22A4 transporter allows harmful bacteria to thrive in colorectal cancer by weakening immune responses.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42246276/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
         ],
         "quality_score": 15,
         "pub_date": "2026-06-01",
@@ -675,6 +675,20 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-07"
+      },
+      {
+        "id": "recxbnHZUfuaolCoC",
+        "title": "Impact of medical oncologist certification on survival outcomes in metastatic colorectal cancer: evidence from the SCRUM-Japan MONSTAR-SCREEN Observational Study.",
+        "summary": "Medical oncologist board certification is linked to better survival outcomes in patients with metastatic colorectal cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42250141/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Colorectal"
         ],
         "quality_score": 15,
         "pub_date": "2026-06-01",
@@ -833,20 +847,6 @@
         "quality_score": 15,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-06"
-      },
-      {
-        "id": "recMloZnKhZ5Em7Tu",
-        "title": "The impact of novel bet inhibitors on the treatment armamentarium of Myelofibrosis.",
-        "summary": "New BET inhibitor drugs show promise as a treatment option for myelofibrosis by targeting disease-causing molecular pathways.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42247480/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-06"
       }
     ],
     "mind_body": []
@@ -858,10 +858,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27609,
+    "archive_count": 27610,
     "archive_supplements": 2919,
     "archive_off_label": 917,
-    "archive_biomarkers": 17466,
+    "archive_biomarkers": 17467,
     "archive_trials": 5565,
     "archive_mind_body": 451
   }
