@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-07T04:10:01.910Z",
+  "last_updated": "2026-06-07T04:10:13.232Z",
   "categories": {
     "supplements": [
       {
@@ -85,6 +85,20 @@
           "Liver"
         ],
         "quality_score": 24,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-07"
+      },
+      {
+        "id": "reca6k2kUxQw0LQdR",
+        "title": "Exercise attenuates cisplatin-induced anorexia-cachexia via modulation of hypothalamic inflammation and orexigenic signaling.",
+        "summary": "Exercise reduces appetite loss and muscle wasting caused by cisplatin chemotherapy by decreasing brain inflammation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42249926/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-07"
       },
@@ -197,20 +211,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-06"
-      },
-      {
-        "id": "rec1wmezkrfVa6hPP",
-        "title": "Impact of arid-zone abiotic stress on phytochemical bioactivity: Enhancing chemotherapeutic synergy in breast cancer and personalized therapeutic algorithms.",
-        "summary": "Desert plants produce stronger cancer-fighting compounds due to harsh environments, offering promising new breast cancer treatments worth investigating.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42248478/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-06"
       }
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27638,
+    "archive_count": 27639,
     "archive_supplements": 2922,
     "archive_off_label": 917,
-    "archive_biomarkers": 17491,
+    "archive_biomarkers": 17492,
     "archive_trials": 5566,
     "archive_mind_body": 451
   }
