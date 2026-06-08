@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-08T10:03:46.640Z",
+  "last_updated": "2026-06-08T11:30:40.956Z",
   "categories": {
     "supplements": [
       {
@@ -343,6 +343,20 @@
         "added_date": "2026-06-08"
       },
       {
+        "id": "recZXzG3OLinnmDI5",
+        "title": "4-methylumbelliferone attenuates amyloid pathology and learning deficits in the APP/PS1 mouse model",
+        "summary": "4-Methylumbelliferone reduces amyloid buildup and improves memory in Alzheimer's disease mouse models.",
+        "url": "https://www.biorxiv.org/content/10.64898/2026.05.21.726929",
+        "source": "bioRxiv",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 9,
+        "pub_date": "2026-05-25",
+        "added_date": "2026-06-08"
+      },
+      {
         "id": "recMQZOqzm17jxXnm",
         "title": "GPI promotes immunosuppression in anaplastic thyroid carcinoma via O-GlcNAcylated THBS1-mediated myeloid cell crosstalk.",
         "summary": "GPI drives immunosuppression in anaplastic thyroid cancer; blocking it with Regorafenib combined with immunotherapy restores anti-tumor immunity.",
@@ -411,20 +425,6 @@
         "quality_score": 9,
         "pub_date": "2026-05-24",
         "added_date": "2026-06-07"
-      },
-      {
-        "id": "recHdLcIKut76U6iJ",
-        "title": "FusionTarget: Computational framework for drug repurposing against modeled fusion protein structures from genomic breakpoints.",
-        "summary": "FusionTarget computationally identifies drugs targeting fusion proteins in Ewing sarcoma and infant leukemia by modeling their 3D structures.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42245927/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-06"
       }
     ],
     "biomarkers": [
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27891,
+    "archive_count": 27893,
     "archive_supplements": 2943,
-    "archive_off_label": 925,
-    "archive_biomarkers": 17683,
+    "archive_off_label": 926,
+    "archive_biomarkers": 17684,
     "archive_trials": 5598,
     "archive_mind_body": 451
   }
