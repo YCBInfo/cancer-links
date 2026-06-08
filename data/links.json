@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-08T04:04:34.011Z",
+  "last_updated": "2026-06-08T04:04:43.423Z",
   "categories": {
     "supplements": [
       {
@@ -626,10 +626,10 @@
         "added_date": "2026-06-08"
       },
       {
-        "id": "recgF8OXIu0roDzmv",
-        "title": "Ubiquitination-anchored signature defines neuroendocrine prostate cancer: hub genes and single-cell ecosystem insights from integrated bioinformatics analysis of public transcriptomic datasets.",
-        "summary": "Researchers identified ubiquitination-related genes as key drivers of aggressive neuroendocrine prostate cancer, offering potential diagnostic and treatment targets.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42249833/",
+        "id": "recfNtbRUVHrp9psb",
+        "title": "[18F] PSMA-3Q PET/CT radiomics at 45% SUVmax threshold: predicting post-surgical ISUP grade ≥ 4 and extraprostatic extension for noninvasive stratification in prostate cancer management.",
+        "summary": "A PET imaging method using radiomics at 45% threshold predicts aggressive prostate cancer grade and spread without surgery.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42251454/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
@@ -637,7 +637,7 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-06-01",
-        "added_date": "2026-06-07"
+        "added_date": "2026-06-08"
       }
     ],
     "trials": [
@@ -706,6 +706,20 @@
         "category": "Clinical Trials",
         "cancer_types": [
           "Thyroid"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-08"
+      },
+      {
+        "id": "recfNtbRUVHrp9psb",
+        "title": "[18F] PSMA-3Q PET/CT radiomics at 45% SUVmax threshold: predicting post-surgical ISUP grade ≥ 4 and extraprostatic extension for noninvasive stratification in prostate cancer management.",
+        "summary": "A PET imaging method using radiomics at 45% threshold predicts aggressive prostate cancer grade and spread without surgery.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42251454/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Prostate"
         ],
         "quality_score": 15,
         "pub_date": "2026-06-01",
@@ -836,20 +850,6 @@
         "quality_score": 12,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-07"
-      },
-      {
-        "id": "recg2CcG2ht1wB4Q1",
-        "title": "Long-term impact of diverting ileostomy after stoma closure on the renal function and risk factors for chronic kidney disease following colorectal tumor surgery.",
-        "summary": "Closing an ileostomy after colorectal cancer surgery may affect kidney function and increase chronic kidney disease risk long-term.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42249907/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-07"
       }
     ],
     "mind_body": []
@@ -861,11 +861,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27786,
+    "archive_count": 27787,
     "archive_supplements": 2930,
     "archive_off_label": 920,
     "archive_biomarkers": 17612,
-    "archive_trials": 5582,
+    "archive_trials": 5583,
     "archive_mind_body": 451
   }
 }
