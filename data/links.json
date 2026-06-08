@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-08T04:08:46.290Z",
+  "last_updated": "2026-06-08T04:08:58.481Z",
   "categories": {
     "supplements": [
       {
@@ -25,6 +25,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-08"
+      },
+      {
+        "id": "reciKjYce4OzcnJPJ",
+        "title": "Traditional Chinese medicine formula Xiang Bei San suppresses the growth and metastasis of breast cancer by regulating macrophage polarization and tumor vascularization.",
+        "summary": "Traditional Chinese medicine formula Xiang Bei San suppresses breast cancer growth and spread by shifting immune cells and reducing tumor blood vessel formation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42251227/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-06-01",
@@ -198,20 +212,6 @@
           "Brain"
         ],
         "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-07"
-      },
-      {
-        "id": "recJLCVXcYampaoGv",
-        "title": "Sustainable Production and In Vitro Giardicidal Activity of Bioactive Compounds Derived from Arthrospira Platensis.",
-        "summary": "Compounds from microalgae show promise as alternative treatments for the parasitic disease giardiasis.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42250052/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-07"
       }
@@ -861,10 +861,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27808,
+    "archive_count": 27809,
     "archive_supplements": 2931,
     "archive_off_label": 921,
-    "archive_biomarkers": 17628,
+    "archive_biomarkers": 17629,
     "archive_trials": 5586,
     "archive_mind_body": 451
   }
