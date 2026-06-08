@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-08T04:08:15.011Z",
+  "last_updated": "2026-06-08T04:08:26.170Z",
   "categories": {
     "supplements": [
       {
@@ -810,6 +810,20 @@
         "added_date": "2026-06-08"
       },
       {
+        "id": "rec6PxNlmYbjIeMoJ",
+        "title": "Synthetic lethality between PBRM1 deficiency and PARP inhibitors: exploiting G2/M checkpoint arrest in colorectal cancer.",
+        "summary": "PARP inhibitors selectively kill colorectal cancer cells lacking PBRM1 by triggering cell-cycle arrest, offering a precision treatment strategy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42251262/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-08"
+      },
+      {
         "id": "recO1W65a8wWozMTv",
         "title": "CCL19-armed oncolytic adenovirus synergizes with CCR7-expressing CAR-T cells to suppress ovarian tumor growth.",
         "summary": "A modified virus that attracts immune cells helps CAR-T cells infiltrate and suppress ovarian tumors more effectively than CAR-T cells alone.",
@@ -836,20 +850,6 @@
         "quality_score": 15,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-07"
-      },
-      {
-        "id": "rec5CZTJsLBe4Jyhp",
-        "title": "Integrating multi-omics and clinical management in breast cancer: a comprehensive review.",
-        "summary": "Integrating multiple molecular data types with liquid biopsy improves breast cancer treatment personalization and resistance monitoring.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42250175/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-07"
       }
     ],
     "mind_body": []
@@ -861,10 +861,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27805,
+    "archive_count": 27806,
     "archive_supplements": 2930,
     "archive_off_label": 921,
-    "archive_biomarkers": 17627,
+    "archive_biomarkers": 17628,
     "archive_trials": 5585,
     "archive_mind_body": 451
   }
