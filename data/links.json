@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-08T04:12:44.444Z",
+  "last_updated": "2026-06-08T04:12:56.250Z",
   "categories": {
     "supplements": [
       {
@@ -246,6 +246,20 @@
         "added_date": "2026-06-08"
       },
       {
+        "id": "rec0Lnb7nbWmYlyBA",
+        "title": "Predictors of clomiphene citrate response in the treatment of men with testosterone deficiency.",
+        "summary": "Researchers are working to identify which men with low testosterone will respond well to clomiphene citrate treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42251758/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-08"
+      },
+      {
         "id": "recMQZOqzm17jxXnm",
         "title": "GPI promotes immunosuppression in anaplastic thyroid carcinoma via O-GlcNAcylated THBS1-mediated myeloid cell crosstalk.",
         "summary": "GPI drives immunosuppression in anaplastic thyroid cancer; blocking it with Regorafenib combined with immunotherapy restores anti-tumor immunity.",
@@ -410,20 +424,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-06"
-      },
-      {
-        "id": "recl9DVwjNM4ITO4H",
-        "title": "PLD1 and PLD2 promote an immunosuppressive tumor microenvironment via CCL19-dependent macrophage polarization and PD-L1 induction.",
-        "summary": "Blocking PLD1 and PLD2 enzymes in melanoma reprograms the immune microenvironment and enhances immune cell killing of cancer cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42243532/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Melanoma"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-06"
       }
@@ -861,10 +861,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27829,
+    "archive_count": 27830,
     "archive_supplements": 2933,
     "archive_off_label": 921,
-    "archive_biomarkers": 17647,
+    "archive_biomarkers": 17648,
     "archive_trials": 5586,
     "archive_mind_body": 451
   }
