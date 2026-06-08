@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-08T04:04:22.516Z",
+  "last_updated": "2026-06-08T04:04:34.011Z",
   "categories": {
     "supplements": [
       {
@@ -612,6 +612,20 @@
         "added_date": "2026-06-08"
       },
       {
+        "id": "recHQLapV6BmUFdml",
+        "title": "Diagnostic and prognostic biomarkers in heart failure and myeloproliferative neoplasms: clinical applications and risk scores - a narrative review.",
+        "summary": "Researchers propose a combined risk assessment tool integrating heart failure and myeloproliferative neoplasm biomarkers to better identify high-risk patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42251458/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-08"
+      },
+      {
         "id": "recgF8OXIu0roDzmv",
         "title": "Ubiquitination-anchored signature defines neuroendocrine prostate cancer: hub genes and single-cell ecosystem insights from integrated bioinformatics analysis of public transcriptomic datasets.",
         "summary": "Researchers identified ubiquitination-related genes as key drivers of aggressive neuroendocrine prostate cancer, offering potential diagnostic and treatment targets.",
@@ -620,20 +634,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Prostate"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-07"
-      },
-      {
-        "id": "reccAwy0bT9Qvrdbx",
-        "title": "Dual-ligand-modified cantharidin nanoparticles for the treatment of hepatocellular carcinoma via the inhibition of Ephb4.",
-        "summary": "Modified nanoparticles delivering cantharidin effectively treat liver cancer by blocking a specific protein pathway while reducing toxic side effects.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42249613/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Liver"
         ],
         "quality_score": 15,
         "pub_date": "2026-06-01",
@@ -861,10 +861,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27785,
+    "archive_count": 27786,
     "archive_supplements": 2930,
     "archive_off_label": 920,
-    "archive_biomarkers": 17611,
+    "archive_biomarkers": 17612,
     "archive_trials": 5582,
     "archive_mind_body": 451
   }
