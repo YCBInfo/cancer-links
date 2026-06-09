@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T07:07:39.825Z",
+  "last_updated": "2026-06-09T07:07:49.003Z",
   "categories": {
     "supplements": [
       {
@@ -259,6 +259,20 @@
         "added_date": "2026-06-09"
       },
       {
+        "id": "recACemfGhiZRAVQ3",
+        "title": "A Multicenter, Prospective, Randomized, Open-label Phase Ib/II Study of Celecoxib Plus Pembrolizumab and Gemcitabine/Cisplatin Versus Pembrolizumab and Gemcitabine/Cisplatin in Patients With CK5/6-High Unresectable Locally Advanced or Metastatic Intrahepatic Cholangiocarcinoma",
+        "summary": "Adding celecoxib to standard immunotherapy and chemotherapy may improve outcomes in advanced intrahepatic cholangiocarcinoma patients with high CK5/6 levels.",
+        "url": "https://clinicaltrials.gov/study/NCT07632235",
+        "source": "ClinicalTrials.gov",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 10,
+        "pub_date": "2026-06-08",
+        "added_date": "2026-06-09"
+      },
+      {
         "id": "recmWVfBK1kRIfDlj",
         "title": "Fenofibrate attenuates hyperhomocysteinemia-potentiated thrombosis by restoring platelet fatty acid β-oxidation.",
         "summary": "Fenofibrate restores a metabolic pathway in platelets, reducing dangerous blood clots caused by high homocysteine levels.",
@@ -408,20 +422,6 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Thyroid"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-07"
-      },
-      {
-        "id": "rec4HmsDwpt6QBFLO",
-        "title": "IQGAP3 bridges matrix stiffness with glioma stem cell maintenance and radioresistance by stabilizing SOX2.",
-        "summary": "Stiff tumor tissue promotes glioblastoma stem cells' resistance to radiation by stabilizing SOX2 protein; blocking this process restores radiation sensitivity.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42251046/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Brain"
         ],
         "quality_score": 15,
         "pub_date": "2026-06-01",
@@ -864,11 +864,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 28125,
+    "archive_count": 28126,
     "archive_supplements": 2967,
     "archive_off_label": 928,
     "archive_biomarkers": 17844,
-    "archive_trials": 5641,
+    "archive_trials": 5642,
     "archive_mind_body": 454
   }
 }
