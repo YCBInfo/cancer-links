@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T07:10:51.286Z",
+  "last_updated": "2026-06-09T08:04:05.252Z",
   "categories": {
     "supplements": [
       {
@@ -273,6 +273,20 @@
         "added_date": "2026-06-09"
       },
       {
+        "id": "recnfTvWVbx4EOUks",
+        "title": "Gut microbial metabolism of Flutamide attenuates its therapeutic efficacy against prostate cancer.",
+        "summary": "Gut bacteria break down prostate cancer drug Flutamide into inactive compounds, reducing its effectiveness and explaining treatment resistance.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42252578/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-09"
+      },
+      {
         "id": "recmWVfBK1kRIfDlj",
         "title": "Fenofibrate attenuates hyperhomocysteinemia-potentiated thrombosis by restoring platelet fatty acid β-oxidation.",
         "summary": "Fenofibrate restores a metabolic pathway in platelets, reducing dangerous blood clots caused by high homocysteine levels.",
@@ -412,20 +426,6 @@
         "quality_score": 9,
         "pub_date": "2026-05-25",
         "added_date": "2026-06-08"
-      },
-      {
-        "id": "recMQZOqzm17jxXnm",
-        "title": "GPI promotes immunosuppression in anaplastic thyroid carcinoma via O-GlcNAcylated THBS1-mediated myeloid cell crosstalk.",
-        "summary": "GPI drives immunosuppression in anaplastic thyroid cancer; blocking it with Regorafenib combined with immunotherapy restores anti-tumor immunity.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42248319/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Thyroid"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-07"
       }
     ],
     "biomarkers": [
@@ -864,10 +864,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 28142,
+    "archive_count": 28143,
     "archive_supplements": 2967,
     "archive_off_label": 929,
-    "archive_biomarkers": 17848,
+    "archive_biomarkers": 17849,
     "archive_trials": 5653,
     "archive_mind_body": 454
   }
