@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T04:16:55.582Z",
+  "last_updated": "2026-06-09T04:17:09.301Z",
   "categories": {
     "supplements": [
       {
@@ -215,6 +215,20 @@
     ],
     "off_label": [
       {
+        "id": "recQfi8XFMLKwXFnk",
+        "title": "Machine learning-guided drug repurposing for EGFR inhibition using scaffold-split validation, docking, and molecular dynamics.",
+        "summary": "Researchers used machine learning and computer modeling to identify existing drugs that could effectively target drug-resistant lung cancer mutations.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42257754/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-09"
+      },
+      {
         "id": "recmWVfBK1kRIfDlj",
         "title": "Fenofibrate attenuates hyperhomocysteinemia-potentiated thrombosis by restoring platelet fatty acid β-oxidation.",
         "summary": "Fenofibrate restores a metabolic pathway in platelets, reducing dangerous blood clots caused by high homocysteine levels.",
@@ -409,20 +423,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-06-01",
-        "added_date": "2026-06-07"
-      },
-      {
-        "id": "rec99i1luJCgAAXyP",
-        "title": "Lapatinib Suppressed the Expression of Proinflammatory Cytokines and Alleviated Pain Behavior in a Mouse Model of Postoperative Pain",
-        "summary": "Lapatinib, an anticancer drug, reduced inflammation and pain after surgery in mice without opioid-like dependence risks.",
-        "url": "https://www.biorxiv.org/content/10.64898/2026.01.07.698212",
-        "source": "bioRxiv",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 9,
-        "pub_date": "2026-05-24",
         "added_date": "2026-06-07"
       }
     ],
@@ -862,11 +862,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27970,
+    "archive_count": 27971,
     "archive_supplements": 2950,
     "archive_off_label": 926,
     "archive_biomarkers": 17743,
-    "archive_trials": 5606,
+    "archive_trials": 5607,
     "archive_mind_body": 454
   }
 }
