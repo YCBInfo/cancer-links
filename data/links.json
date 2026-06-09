@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T04:35:18.370Z",
+  "last_updated": "2026-06-09T06:04:10.994Z",
   "categories": {
     "supplements": [
       {
@@ -201,18 +201,18 @@
         "added_date": "2026-06-09"
       },
       {
-        "id": "recjr6UpZInEhDIeK",
-        "title": "Physical activity, sedentary behaviour, and anthropometric profiles in women with and without insulin resistance: a cross-sectional study.",
-        "summary": "Regular physical activity improves insulin sensitivity in young women, with effects linked to body composition and lifestyle factors.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42251403/",
+        "id": "recRe8ztztnvAIYrX",
+        "title": "Folate receptor-targeted PEGylated PLGA nanoparticles for the site-specific delivery of hesperidin in epithelial ovarian cancer.",
+        "summary": "Targeted nanoparticles delivering hesperidin to ovarian cancer cells show improved drug effectiveness and tumor cell death compared to untargeted versions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42258400/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
-          "General"
+          "Ovarian"
         ],
-        "quality_score": 12,
+        "quality_score": 15,
         "pub_date": "2026-06-01",
-        "added_date": "2026-06-08"
+        "added_date": "2026-06-09"
       }
     ],
     "off_label": [
@@ -221,6 +221,34 @@
         "title": "Machine learning-guided drug repurposing for EGFR inhibition using scaffold-split validation, docking, and molecular dynamics.",
         "summary": "Researchers used machine learning and computer modeling to identify existing drugs that could effectively target drug-resistant lung cancer mutations.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42257754/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-09"
+      },
+      {
+        "id": "rec6TpLQO4nI3BKJX",
+        "title": "The Efficacy of Dexamethasone Versus N-Acetylcysteine in Prevention of Post-Embolization Syndrome in Hepatocellular Carcinoma Patients: A Multicenter Randomized, Double-Blind, Double-Dummy, Non-Inferiority Trial.",
+        "summary": "Dexamethasone and N-acetylcysteine are equally effective at preventing side effects after liver cancer embolization treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42260068/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-09"
+      },
+      {
+        "id": "rectPQtCZNyh1yXZ6",
+        "title": "A Self-Cascade Nanozyme of Metformin-Stabilized Amorphous Iron Oxide With Ultrahigh Fe(II) for Potent Tumor Therapy at Ultralow Dose.",
+        "summary": "Low-dose iron oxide nanoparticles generate hydrogen peroxide to trigger cancer cell death effectively, even in oxygen-poor tumors.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42259619/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -394,34 +422,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-07"
-      },
-      {
-        "id": "reccVWqNsgq8uOzcx",
-        "title": "Impact of Concomitant Proton Pump Inhibitor Use on Oncologic Outcomes of Neoadjuvant Chemoimmunotherapy in Locally Advanced Gastric Cancer: A Multicenter Real-World Study.",
-        "summary": "Proton pump inhibitors may reduce the effectiveness of chemotherapy and immunotherapy in treating advanced gastric cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42251208/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Stomach"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-07"
-      },
-      {
-        "id": "rectOFmmtiJVZSTUr",
-        "title": "Sigma-1 Receptor antagonism potentiates siramesine-induced apoptosis and altered autophagic signaling in human leukemia cells.",
-        "summary": "Blocking sigma-1 receptors enhances siramesine's cancer-killing effects in leukemia cells by boosting apoptosis and autophagy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42250386/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
         ],
         "quality_score": 15,
         "pub_date": "2026-06-01",
@@ -864,8 +864,8 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 28071,
-    "archive_supplements": 2955,
+    "archive_count": 28072,
+    "archive_supplements": 2956,
     "archive_off_label": 927,
     "archive_biomarkers": 17823,
     "archive_trials": 5621,
