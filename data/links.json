@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T04:05:20.043Z",
+  "last_updated": "2026-06-09T04:05:39.671Z",
   "categories": {
     "supplements": [
       {
@@ -825,6 +825,21 @@
         "added_date": "2026-06-09"
       },
       {
+        "id": "recaUtLjMkj1lh3ND",
+        "title": "Live-cell Pick-Seq (LiP-Seq): Interrogating ultra-rare mantle cell lymphoma persistent cells after CART19 therapy.",
+        "summary": "Researchers identified IFITM2 protein in rare mantle cell lymphoma cells surviving CAR-T therapy, suggesting a new target to prevent relapse.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41855504/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Leukemia",
+          "Lymphoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-06-09"
+      },
+      {
         "id": "rec6w19T4wr2U919p",
         "title": "Standardized ready-to-use natural deep eutectic solvent-impregnated polypropylene fiber units for robust and high-throughput determination of tyrosine kinase inhibitors in biological fluids.",
         "summary": "Researchers developed eco-friendly fiber units for faster, easier measurement of cancer drug levels in patient blood samples.",
@@ -837,20 +852,6 @@
         "quality_score": 10,
         "pub_date": "2026-04-01",
         "added_date": "2026-06-08"
-      },
-      {
-        "id": "recv18HTHQ6VIXoi3",
-        "title": "Chimeric antigen receptor T-cell therapy induces complete remission in a patient with concurrent CLL with CNS involvement and multiple sclerosis.",
-        "summary": "CAR T-cell therapy cured a patient's chronic lymphocytic leukemia and improved their multiple sclerosis simultaneously.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42251699/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-08"
       }
     ],
     "mind_body": []
@@ -862,10 +863,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27910,
+    "archive_count": 27911,
     "archive_supplements": 2945,
     "archive_off_label": 926,
-    "archive_biomarkers": 17695,
+    "archive_biomarkers": 17696,
     "archive_trials": 5599,
     "archive_mind_body": 454
   }
