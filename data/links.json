@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T04:06:31.241Z",
+  "last_updated": "2026-06-09T04:06:45.120Z",
   "categories": {
     "supplements": [
       {
@@ -27,6 +27,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-09"
+      },
+      {
+        "id": "recUbRljEml484DOk",
+        "title": "RETRACTED: Kim et al. The p53-Driven Anticancer Effect of Ribes fasciculatum Extract on AGS Gastric Cancer Cells. Life 2022, 12, 303.",
+        "summary": "This article about Ribes fasciculatum extract's effects on gastric cancer has been retracted and is no longer valid research.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42258821/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Stomach"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-09"
       },
@@ -196,20 +210,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-08"
-      },
-      {
-        "id": "recTK2sD11Rs27cYS",
-        "title": "Sparingly PEGylated Adipate Copolymers via Enzymatic Synthesis as Nano-Carriers for Solid Dispersions.",
-        "summary": "Researchers created biodegradable nanoparticles with reduced PEG that safely deliver curcumin, showing promise for breast cancer treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42249537/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-08"
       }
@@ -863,11 +863,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27915,
+    "archive_count": 27916,
     "archive_supplements": 2945,
     "archive_off_label": 926,
     "archive_biomarkers": 17700,
-    "archive_trials": 5599,
+    "archive_trials": 5600,
     "archive_mind_body": 454
   }
 }
