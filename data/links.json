@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T09:06:20.662Z",
+  "last_updated": "2026-06-09T11:30:28.370Z",
   "categories": {
     "supplements": [
       {
@@ -329,6 +329,20 @@
         "added_date": "2026-06-09"
       },
       {
+        "id": "recc9l6ET6B1ek6yK",
+        "title": "Non-Genetic Mechanisms of Fractional Resistance to Abemaciclib in Dedifferentiated Liposarcoma.",
+        "summary": "Dedifferentiated liposarcoma cells escape abemaciclib therapy through CDK2 activation, suggesting combining CDK2 inhibitors could improve treatment outcomes.",
+        "url": "https://www.biorxiv.org/content/10.64898/2026.05.22.727236",
+        "source": "bioRxiv",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 9,
+        "pub_date": "2026-05-26",
+        "added_date": "2026-06-09"
+      },
+      {
         "id": "recmWVfBK1kRIfDlj",
         "title": "Fenofibrate attenuates hyperhomocysteinemia-potentiated thrombosis by restoring platelet fatty acid β-oxidation.",
         "summary": "Fenofibrate restores a metabolic pathway in platelets, reducing dangerous blood clots caused by high homocysteine levels.",
@@ -410,21 +424,6 @@
         ],
         "quality_score": 10,
         "pub_date": "2026-04-01",
-        "added_date": "2026-06-08"
-      },
-      {
-        "id": "recW0e8mYzFGHzpjQ",
-        "title": "Cancer-associated and non-neoplastic fibrosis: Comparative mechanisms and emerging antifibrotic strategies.",
-        "summary": "Fibrosis in tumors like pancreatic and breast cancer promotes drug resistance; new antifibrotic therapies targeting fibroblasts could improve treatment outcomes.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42251804/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast",
-          "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-06-01",
         "added_date": "2026-06-08"
       }
     ],
@@ -864,10 +863,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 28154,
+    "archive_count": 28155,
     "archive_supplements": 2967,
     "archive_off_label": 930,
-    "archive_biomarkers": 17856,
+    "archive_biomarkers": 17857,
     "archive_trials": 5656,
     "archive_mind_body": 454
   }
