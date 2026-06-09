@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T04:13:22.918Z",
+  "last_updated": "2026-06-09T04:13:35.456Z",
   "categories": {
     "supplements": [
       {
@@ -81,6 +81,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-09"
+      },
+      {
+        "id": "rec46brvVpghicaj8",
+        "title": "Green-Synthesis of Cerium Oxide Nanoparticles using Ferula Latisecta Extract: Characterization, Oxidative Stress, Autophagy, and Apoptosis Signaling in Human Colorectal Cancer Cells.",
+        "summary": "Green-synthesized cerium oxide nanoparticles kill colorectal cancer cells by triggering oxidative stress and apoptosis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42258006/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Colorectal"
         ],
         "quality_score": 15,
         "pub_date": "2026-06-01",
@@ -194,20 +208,6 @@
         "cancer_types": [
           "Breast",
           "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-08"
-      },
-      {
-        "id": "rec8Llobuk7dG0SVm",
-        "title": "Integrative single-cell and spatial transcriptomics analysis reveals a baicalein-responsive 10-gene signature for non-small cell lung cancer.",
-        "summary": "Researchers identified a 10-gene signature showing how baicalein, a natural compound, affects non-small cell lung cancer cells and their environment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42251782/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-06-01",
@@ -863,10 +863,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 27951,
+    "archive_count": 27952,
     "archive_supplements": 2947,
     "archive_off_label": 926,
-    "archive_biomarkers": 17727,
+    "archive_biomarkers": 17728,
     "archive_trials": 5606,
     "archive_mind_body": 454
   }
