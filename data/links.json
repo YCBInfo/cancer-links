@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T08:04:05.252Z",
+  "last_updated": "2026-06-09T09:03:41.130Z",
   "categories": {
     "supplements": [
       {
@@ -287,6 +287,48 @@
         "added_date": "2026-06-09"
       },
       {
+        "id": "recsFUWbTD8JAN6nz",
+        "title": "Screening of putative inhibitors for cytotoxin VacA from Helicobacter pylori.",
+        "summary": "Researchers identified seven promising drug candidates that block VacA, a toxin from H. pylori bacteria linked to gastric cancer development.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42260033/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-09"
+      },
+      {
+        "id": "recq6wAVBVvM9MsHj",
+        "title": "Targeting the Calcineurin Homologous Protein 1 (CHP1)-Transmembrane Protein 87A (TMEM87A) mechanosensing complex: a druggable vulnerability in metastatic ovarian cancer.",
+        "summary": "Researchers identified a protein complex in ovarian cancer cells that controls metastasis, and found that sodium gluconate drug treatment blocks it effectively.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42258092/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Ovarian"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-09"
+      },
+      {
+        "id": "recV2O8ShAC1gBAsj",
+        "title": "DeepPurpose based deep learning approach for drug repurposing targeting VEGFR2 in hepatocellular carcinoma.",
+        "summary": "Researchers used artificial intelligence to identify existing drugs that could treat liver cancer by targeting VEGFR2, finding three promising candidates including APY-29.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42254291/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-09"
+      },
+      {
         "id": "recmWVfBK1kRIfDlj",
         "title": "Fenofibrate attenuates hyperhomocysteinemia-potentiated thrombosis by restoring platelet fatty acid β-oxidation.",
         "summary": "Fenofibrate restores a metabolic pathway in platelets, reducing dangerous blood clots caused by high homocysteine levels.",
@@ -383,48 +425,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-06-01",
-        "added_date": "2026-06-08"
-      },
-      {
-        "id": "recMhobkvsB57oyLr",
-        "title": "Repurposing COVID-19 (and other) mRNA vaccines to boost cancer immunotherapy efficacy: mechanistic insights and future directions.",
-        "summary": "COVID-19 mRNA vaccines can be repurposed to enhance cancer immunotherapy effectiveness by strengthening immune responses against tumors.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42236116/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-08"
-      },
-      {
-        "id": "recHEEoG6iNE9VTSR",
-        "title": "Severe hypertriglyceridemia induced by everolimus in a lung transplant patient: Case report.",
-        "summary": "Everolimus, used after lung transplants to protect kidneys, can dangerously raise triglyceride levels and increase pancreatitis risk.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42025557/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-08"
-      },
-      {
-        "id": "recZXzG3OLinnmDI5",
-        "title": "4-methylumbelliferone attenuates amyloid pathology and learning deficits in the APP/PS1 mouse model",
-        "summary": "4-Methylumbelliferone reduces amyloid buildup and improves memory in Alzheimer's disease mouse models.",
-        "url": "https://www.biorxiv.org/content/10.64898/2026.05.21.726929",
-        "source": "bioRxiv",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 9,
-        "pub_date": "2026-05-25",
         "added_date": "2026-06-08"
       }
     ],
@@ -864,10 +864,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 28143,
+    "archive_count": 28144,
     "archive_supplements": 2967,
     "archive_off_label": 929,
-    "archive_biomarkers": 17849,
+    "archive_biomarkers": 17850,
     "archive_trials": 5653,
     "archive_mind_body": 454
   }
