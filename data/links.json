@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10T04:22:51.455Z",
+  "last_updated": "2026-06-10T04:23:00.332Z",
   "categories": {
     "supplements": [
       {
@@ -272,6 +272,20 @@
         "added_date": "2026-06-10"
       },
       {
+        "id": "rec4yKylqauqxUqEG",
+        "title": "Targeting Lactate-Driven Stromal Autophagy via MCT1 Disrupts the Immunosuppressive Niche and Sensitizes Pancreatic Cancer to PD-1 Blockade.",
+        "summary": "Blocking lactate transport in pancreatic cancer tumors restores immune function and enhances PD-1 immunotherapy effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42261902/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Pancreatic"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-10"
+      },
+      {
         "id": "recQfi8XFMLKwXFnk",
         "title": "Machine learning-guided drug repurposing for EGFR inhibition using scaffold-split validation, docking, and molecular dynamics.",
         "summary": "Researchers used machine learning and computer modeling to identify existing drugs that could effectively target drug-resistant lung cancer mutations.",
@@ -404,20 +418,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/42251786/",
         "source": "PubMed",
         "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-08"
-      },
-      {
-        "id": "recjglDWY2eVocKmt",
-        "title": "High intrapancreatic fat deposition accelerates pancreatic ductal adenocarcinoma growth and metastasis with enrollment of FABP5 upregulation.",
-        "summary": "High fat deposits in the pancreas accelerate pancreatic cancer growth and spread through a protein called FABP5, which could be a new treatment target.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42251134/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 28260,
+    "archive_count": 28261,
     "archive_supplements": 2976,
     "archive_off_label": 933,
-    "archive_biomarkers": 17942,
+    "archive_biomarkers": 17943,
     "archive_trials": 5664,
     "archive_mind_body": 454
   }
