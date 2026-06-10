@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10T04:04:08.037Z",
+  "last_updated": "2026-06-10T04:04:19.270Z",
   "categories": {
     "supplements": [
       {
@@ -611,6 +611,20 @@
         "added_date": "2026-06-10"
       },
       {
+        "id": "recbP1LBXASrlnNHV",
+        "title": "Functioning gonadotroph macroadenoma associated with multiple endocrine neoplasia type 1.",
+        "summary": "A rare functioning gonadotroph pituitary tumor in MEN1 syndrome caused abnormal bleeding and was treated with surgery, though residual disease progressed.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13233140/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-10"
+      },
+      {
         "id": "reccQgmYmxDf7jsLO",
         "title": "Stattic administration plays a protective role in a lipopolysaccharide-induced acute lung injury cell model.",
         "summary": "Stattic, a Stat3 inhibitor, reduces inflammation, oxidative stress, and cell death in lung injury models by blocking the Jak1/Stat3 pathway.",
@@ -621,20 +635,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-09"
-      },
-      {
-        "id": "rectCcW79qvAlRjhp",
-        "title": "Postoperative stimulated thyroglobulin and the ps-tg/TSH ratio enhance the 2025 ATA risk stratification for predicting radioiodine response in papillary thyroid carcinoma.",
-        "summary": "Postoperative thyroglobulin levels improve prediction of treatment success in papillary thyroid cancer using the updated ATA risk classification system.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42252965/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Thyroid"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-09"
       }
@@ -862,10 +862,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 28159,
+    "archive_count": 28160,
     "archive_supplements": 2969,
     "archive_off_label": 930,
-    "archive_biomarkers": 17859,
+    "archive_biomarkers": 17860,
     "archive_trials": 5656,
     "archive_mind_body": 454
   }
