@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10T04:15:06.665Z",
+  "last_updated": "2026-06-10T04:15:30.401Z",
   "categories": {
     "supplements": [
       {
@@ -53,6 +53,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-10"
+      },
+      {
+        "id": "recHIVaaxEF3eCd0s",
+        "title": "Anti-osteoporotic potential of Lawsonia inermis leaf extract: integration of network pharmacology, molecular docking, and experimental validation in ovariectomized rats.",
+        "summary": "Lawsonia inermis leaf extract prevents bone loss in postmenopausal osteoporosis by reducing inflammation and strengthening bone through natural compounds.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6100564/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Lymphoma"
         ],
         "quality_score": 15,
         "pub_date": "2026-06-01",
@@ -193,22 +207,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-09"
-      },
-      {
-        "id": "reccIVFOxNrk3MRYz",
-        "title": "Ultra-Processed Foods and Gastrointestinal Cancer: Epidemiologic Evidence, Mechanistic Pathways, and Clinical Implications.",
-        "summary": "High consumption of ultra-processed foods increases colorectal cancer risk by 10-30% and may promote other gastrointestinal cancers through inflammation and gut damage.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42257587/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal",
-          "Pancreatic",
-          "Stomach"
         ],
         "quality_score": 15,
         "pub_date": "2026-06-01",
@@ -860,10 +858,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 28217,
+    "archive_count": 28218,
     "archive_supplements": 2971,
     "archive_off_label": 932,
-    "archive_biomarkers": 17909,
+    "archive_biomarkers": 17910,
     "archive_trials": 5660,
     "archive_mind_body": 454
   }
