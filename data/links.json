@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10T06:11:33.304Z",
+  "last_updated": "2026-06-10T06:11:42.830Z",
   "categories": {
     "supplements": [
       {
@@ -314,6 +314,20 @@
         "added_date": "2026-06-10"
       },
       {
+        "id": "recj3agL5H1VRdqJK",
+        "title": "Methadone-Associated Delirium in Oncology and Palliative Care: A Clinical Perspective.",
+        "summary": "Methadone effectively manages cancer pain but can cause delirium and hallucinations; careful monitoring during initiation and dose changes is essential.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13242899/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-10"
+      },
+      {
         "id": "recQfi8XFMLKwXFnk",
         "title": "Machine learning-guided drug repurposing for EGFR inhibition using scaffold-split validation, docking, and molecular dynamics.",
         "summary": "Researchers used machine learning and computer modeling to identify existing drugs that could effectively target drug-resistant lung cancer mutations.",
@@ -406,20 +420,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Ovarian"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-09"
-      },
-      {
-        "id": "recV2O8ShAC1gBAsj",
-        "title": "DeepPurpose based deep learning approach for drug repurposing targeting VEGFR2 in hepatocellular carcinoma.",
-        "summary": "Researchers used artificial intelligence to identify existing drugs that could treat liver cancer by targeting VEGFR2, finding three promising candidates including APY-29.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42254291/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Liver"
         ],
         "quality_score": 15,
         "pub_date": "2026-06-01",
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 28402,
+    "archive_count": 28403,
     "archive_supplements": 2995,
     "archive_off_label": 937,
-    "archive_biomarkers": 18040,
+    "archive_biomarkers": 18041,
     "archive_trials": 5685,
     "archive_mind_body": 454
   }
