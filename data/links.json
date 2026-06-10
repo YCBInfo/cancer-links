@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10T07:11:02.338Z",
+  "last_updated": "2026-06-10T08:04:13.114Z",
   "categories": {
     "supplements": [
       {
@@ -328,6 +328,20 @@
         "added_date": "2026-06-10"
       },
       {
+        "id": "rec60q3NT9oGq574O",
+        "title": "Carboplatin alleviates astrocytic TDP-43 neurotoxicity by inhibiting NF-κB activation.",
+        "summary": "Carboplatin, an anti-cancer drug, reduces TDP-43-induced toxicity in ALS by blocking inflammation and restoring neuronal mitochondrial function.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42134762/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-06-10"
+      },
+      {
         "id": "recQfi8XFMLKwXFnk",
         "title": "Machine learning-guided drug repurposing for EGFR inhibition using scaffold-split validation, docking, and molecular dynamics.",
         "summary": "Researchers used machine learning and computer modeling to identify existing drugs that could effectively target drug-resistant lung cancer mutations.",
@@ -406,20 +420,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Stomach"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-09"
-      },
-      {
-        "id": "recq6wAVBVvM9MsHj",
-        "title": "Targeting the Calcineurin Homologous Protein 1 (CHP1)-Transmembrane Protein 87A (TMEM87A) mechanosensing complex: a druggable vulnerability in metastatic ovarian cancer.",
-        "summary": "Researchers identified a protein complex in ovarian cancer cells that controls metastasis, and found that sodium gluconate drug treatment blocks it effectively.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42258092/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Ovarian"
         ],
         "quality_score": 15,
         "pub_date": "2026-06-01",
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 28469,
+    "archive_count": 28470,
     "archive_supplements": 3007,
     "archive_off_label": 938,
-    "archive_biomarkers": 18063,
+    "archive_biomarkers": 18064,
     "archive_trials": 5715,
     "archive_mind_body": 455
   }
