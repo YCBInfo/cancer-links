@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10T04:17:27.264Z",
+  "last_updated": "2026-06-10T04:17:38.850Z",
   "categories": {
     "supplements": [
       {
@@ -243,6 +243,20 @@
         "added_date": "2026-06-10"
       },
       {
+        "id": "rec0fLsLG5LuGIrb3",
+        "title": "Cannabinoids and opioid consumption in cancer pain: a systematic review and meta-analysis.",
+        "summary": "Cannabinoids combined with opioids may reduce the amount of opioids needed to manage cancer pain, though more research is required.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9913127/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-10"
+      },
+      {
         "id": "recQfi8XFMLKwXFnk",
         "title": "Machine learning-guided drug repurposing for EGFR inhibition using scaffold-split validation, docking, and molecular dynamics.",
         "summary": "Researchers used machine learning and computer modeling to identify existing drugs that could effectively target drug-resistant lung cancer mutations.",
@@ -407,20 +421,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-08"
-      },
-      {
-        "id": "recDmnmPTCUthwD3G",
-        "title": "Rho-associated kinase inhibitors in cerebral cavernous malformations: a preclinical systematic review.",
-        "summary": "ROCK inhibitors, particularly fasudil, reduce harmful iron buildup and lesion formation in preclinical mouse models of cerebral cavernous malformations.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42252346/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 19,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-08"
       }
@@ -858,11 +858,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 28229,
+    "archive_count": 28230,
     "archive_supplements": 2971,
     "archive_off_label": 932,
     "archive_biomarkers": 17920,
-    "archive_trials": 5661,
+    "archive_trials": 5662,
     "archive_mind_body": 454
   }
 }
