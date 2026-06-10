@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10T04:19:29.940Z",
+  "last_updated": "2026-06-10T04:19:39.521Z",
   "categories": {
     "supplements": [
       {
@@ -77,6 +77,20 @@
         "title": "RT-qPCR-based transcriptional profiling of the effects of tarantula logoplex on inflammatory, oxidative stress and apoptosis pathways in remote organs in experimental lower extremity ischemia-reperfusion injury.",
         "summary": "Tarantula extract protected the liver, heart, and kidneys from damage caused by lower limb blood flow loss and restoration.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42262657/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-10"
+      },
+      {
+        "id": "rec5S0XEIW9ulTeDo",
+        "title": "Integrated Experimental and In-Silico Analysis Indicates Melittin as a Modulator of IL-37a-Associated Networks in Neuroblastoma.",
+        "summary": "Melittin, a bee venom peptide, kills neuroblastoma cells and boosts anti-inflammatory IL-37a signaling while suppressing pro-inflammatory pathways.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11592557/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -193,20 +207,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Bladder"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-09"
-      },
-      {
-        "id": "rectku71YOiCA0uEW",
-        "title": "Integrating Molecular Pathology, Tumor Microenvironment, and Novel Therapies to Overcome Resistance in Glioblastoma.",
-        "summary": "Combining molecular analysis, tumor environment studies, and novel therapies like immunotherapy and nanomedicine may overcome glioblastoma drug resistance.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42257792/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Brain"
         ],
         "quality_score": 15,
         "pub_date": "2026-06-01",
@@ -858,10 +858,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 28241,
+    "archive_count": 28242,
     "archive_supplements": 2974,
     "archive_off_label": 932,
-    "archive_biomarkers": 17928,
+    "archive_biomarkers": 17929,
     "archive_trials": 5662,
     "archive_mind_body": 454
   }
