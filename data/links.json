@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10T04:22:17.817Z",
+  "last_updated": "2026-06-10T04:22:26.427Z",
   "categories": {
     "supplements": [
       {
@@ -258,6 +258,20 @@
         "added_date": "2026-06-10"
       },
       {
+        "id": "recImXSdGUp7fIKTF",
+        "title": "Rapamycin Targets Cancer Stem Cells to Decrease Cisplatin Resistance in a Head and Neck Cancer Mouse Xenograft Model.",
+        "summary": "Rapamycin drug combined with cisplatin reduces resistant cancer stem cells in head and neck cancer.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42261974/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-10"
+      },
+      {
         "id": "recQfi8XFMLKwXFnk",
         "title": "Machine learning-guided drug repurposing for EGFR inhibition using scaffold-split validation, docking, and molecular dynamics.",
         "summary": "Researchers used machine learning and computer modeling to identify existing drugs that could effectively target drug-resistant lung cancer mutations.",
@@ -404,20 +418,6 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/42251134/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-08"
-      },
-      {
-        "id": "rec0Lnb7nbWmYlyBA",
-        "title": "Predictors of clomiphene citrate response in the treatment of men with testosterone deficiency.",
-        "summary": "Researchers are working to identify which men with low testosterone will respond well to clomiphene citrate treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42251758/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
         "cancer_types": [
           "General"
         ],
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 28257,
+    "archive_count": 28258,
     "archive_supplements": 2975,
     "archive_off_label": 933,
-    "archive_biomarkers": 17940,
+    "archive_biomarkers": 17941,
     "archive_trials": 5664,
     "archive_mind_body": 454
   }
