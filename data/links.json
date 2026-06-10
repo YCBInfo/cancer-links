@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10T04:41:45.332Z",
+  "last_updated": "2026-06-10T06:04:02.335Z",
   "categories": {
     "supplements": [
       {
@@ -172,10 +172,24 @@
         "added_date": "2026-06-10"
       },
       {
-        "id": "recb8Ncg9mbM4dsUg",
-        "title": "Effects of different types of physical exercise on postoperative mental health in cancer patients.",
-        "summary": "Physical exercise after cancer surgery significantly improves mental health, with yoga most effective for anxiety and aerobic exercise best for quality of life.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42246645/",
+        "id": "recS9HzVXNEzCuotH",
+        "title": "Targeted and quantitatively modeled biologic delivery via dual-functional probiotic yeast in inflammatory bowel disease.",
+        "summary": "Engineered probiotic yeast successfully delivers therapeutic proteins directly to inflamed intestines, improving inflammatory bowel disease outcomes in mice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41942055/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-06-10"
+      },
+      {
+        "id": "recCicjvmaGNUxyWU",
+        "title": "Synthesis and antitumor activity of novel tanshinone derivatives with amino acid esters.",
+        "summary": "Chemically modified tanshinone derivatives with amino acid esters show dramatically improved cancer-fighting potency, up to 233-fold stronger than original tanshinone.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42262740/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -183,13 +197,13 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-06-01",
-        "added_date": "2026-06-09"
+        "added_date": "2026-06-10"
       },
       {
-        "id": "recBlXUCFtEX1qfAa",
-        "title": "Exercise and Mind-Body Interventions for Cancer-Related Fatigue: A Network Meta-Analysis With Exploratory Moderator Analyses.",
-        "summary": "Exercise and mind-body interventions effectively reduce cancer-related fatigue, with benefits varying based on patient characteristics and treatment dose.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42242401/",
+        "id": "recSKsdDBzUsmPWZ4",
+        "title": "Dietary alligator pepper powder mitigates thermal stress-induced performance suppression, immune dysfunction, and cellular stress in broiler chickens reared under hot-humid tropical conditions.",
+        "summary": "Alligator pepper powder in chicken feed reduces heat stress damage, improves growth, and strengthens immunity similarly to vitamin C supplements.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8065079/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -197,21 +211,7 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-06-01",
-        "added_date": "2026-06-09"
-      },
-      {
-        "id": "recUbRljEml484DOk",
-        "title": "RETRACTED: Kim et al. The p53-Driven Anticancer Effect of Ribes fasciculatum Extract on AGS Gastric Cancer Cells. Life 2022, 12, 303.",
-        "summary": "This article about Ribes fasciculatum extract's effects on gastric cancer has been retracted and is no longer valid research.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42258821/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Stomach"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-09"
+        "added_date": "2026-06-10"
       }
     ],
     "off_label": [
@@ -294,6 +294,20 @@
         "category": "Off-Label Medications",
         "cancer_types": [
           "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-10"
+      },
+      {
+        "id": "recAwc1X6G95CbqTO",
+        "title": "Surfaceome Reprogramming of Stemsomes Promotes Lung Cancer Targeting via Potentiated Receptor-Ligand Interactions.",
+        "summary": "Dexamethasone enhances lung cancer-targeting nanovesicles by increasing adhesion proteins, improving tumor treatment independent of specific mutations.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42263250/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Lung"
         ],
         "quality_score": 15,
         "pub_date": "2026-06-01",
@@ -409,20 +423,6 @@
         ],
         "quality_score": 15,
         "pub_date": "2026-06-01",
-        "added_date": "2026-06-09"
-      },
-      {
-        "id": "recc9l6ET6B1ek6yK",
-        "title": "Non-Genetic Mechanisms of Fractional Resistance to Abemaciclib in Dedifferentiated Liposarcoma.",
-        "summary": "Dedifferentiated liposarcoma cells escape abemaciclib therapy through CDK2 activation, suggesting combining CDK2 inhibitors could improve treatment outcomes.",
-        "url": "https://www.biorxiv.org/content/10.64898/2026.05.22.727236",
-        "source": "bioRxiv",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 9,
-        "pub_date": "2026-05-26",
         "added_date": "2026-06-09"
       }
     ],
@@ -859,8 +859,8 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 28364,
-    "archive_supplements": 2980,
+    "archive_count": 28365,
+    "archive_supplements": 2981,
     "archive_off_label": 936,
     "archive_biomarkers": 18023,
     "archive_trials": 5680,
