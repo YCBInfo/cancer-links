@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10T09:04:26.276Z",
+  "last_updated": "2026-06-10T09:04:34.093Z",
   "categories": {
     "supplements": [
       {
@@ -384,6 +384,20 @@
         "added_date": "2026-06-10"
       },
       {
+        "id": "recLSPFJUnnaHvSEs",
+        "title": "Association of antihypertensive drugs, intestinal ischemia, and breast diseases: A drug-target Mendelian Randomization study.",
+        "summary": "Loop diuretics may increase breast cancer risk through intestinal ischemia, suggesting careful monitoring for patients taking these blood pressure medications.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42260808/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-10"
+      },
+      {
         "id": "recQfi8XFMLKwXFnk",
         "title": "Machine learning-guided drug repurposing for EGFR inhibition using scaffold-split validation, docking, and molecular dynamics.",
         "summary": "Researchers used machine learning and computer modeling to identify existing drugs that could effectively target drug-resistant lung cancer mutations.",
@@ -408,20 +422,6 @@
           "Liver"
         ],
         "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-09"
-      },
-      {
-        "id": "rectPQtCZNyh1yXZ6",
-        "title": "A Self-Cascade Nanozyme of Metformin-Stabilized Amorphous Iron Oxide With Ultrahigh Fe(II) for Potent Tumor Therapy at Ultralow Dose.",
-        "summary": "Low-dose iron oxide nanoparticles generate hydrogen peroxide to trigger cancer cell death effectively, even in oxygen-poor tumors.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42259619/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-09"
       }
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 28475,
+    "archive_count": 28476,
     "archive_supplements": 3007,
     "archive_off_label": 939,
-    "archive_biomarkers": 18067,
+    "archive_biomarkers": 18068,
     "archive_trials": 5716,
     "archive_mind_body": 455
   }
