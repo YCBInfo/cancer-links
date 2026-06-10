@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10T04:14:45.597Z",
+  "last_updated": "2026-06-10T04:14:57.583Z",
   "categories": {
     "supplements": [
       {
@@ -42,6 +42,20 @@
         ],
         "quality_score": 12,
         "pub_date": "2026-05-01",
+        "added_date": "2026-06-10"
+      },
+      {
+        "id": "recUISMZVmSMw42nV",
+        "title": "Selective Anticancer Effects of Portulaca grandiflora via Apoptosis and NF-κB Pathway Modulation in MDA-MB-231 Cells.",
+        "summary": "Portulaca grandiflora plant extract kills triple-negative breast cancer cells by triggering apoptosis and blocking NF-κB survival signals.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8428369/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
         "added_date": "2026-06-10"
       },
       {
@@ -195,20 +209,6 @@
           "Colorectal",
           "Pancreatic",
           "Stomach"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-09"
-      },
-      {
-        "id": "rec2INXdsQtdNey0r",
-        "title": "Co-targeting EGFR and SUCLG2 disrupts a nuclear transcriptional program driving neuroendocrine differentiation and TKI resistance in castration-resistant prostate cancer.",
-        "summary": "Targeting EGFR and SUCLG2 together overcomes drug resistance in aggressive prostate cancer by blocking a key survival pathway.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42252434/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Prostate"
         ],
         "quality_score": 15,
         "pub_date": "2026-06-01",
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 28215,
+    "archive_count": 28216,
     "archive_supplements": 2971,
     "archive_off_label": 932,
-    "archive_biomarkers": 17907,
+    "archive_biomarkers": 17908,
     "archive_trials": 5660,
     "archive_mind_body": 454
   }
