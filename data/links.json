@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-06-09T18:49:49.293Z",
+  "last_updated": "2026-06-10T04:04:08.037Z",
   "categories": {
     "supplements": [
+      {
+        "id": "recN5B5xVwkfvazNu",
+        "title": "Dual-ligand-modified cantharidin nanoparticles for the treatment of hepatocellular carcinoma via the inhibition of Ephb4.",
+        "summary": "Dual-targeting nanoparticles delivering cantharidin effectively treat hepatocellular carcinoma by blocking EphB4, reducing toxicity compared to existing therapies.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13244520/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-10"
+      },
       {
         "id": "recb8Ncg9mbM4dsUg",
         "title": "Effects of different types of physical exercise on postoperative mental health in cancer patients.",
@@ -199,23 +213,23 @@
         "quality_score": 12,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-09"
-      },
-      {
-        "id": "recRe8ztztnvAIYrX",
-        "title": "Folate receptor-targeted PEGylated PLGA nanoparticles for the site-specific delivery of hesperidin in epithelial ovarian cancer.",
-        "summary": "Targeted nanoparticles delivering hesperidin to ovarian cancer cells show improved drug effectiveness and tumor cell death compared to untargeted versions.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42258400/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Ovarian"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-09"
       }
     ],
     "off_label": [
+      {
+        "id": "recvLfGjo8Bc17VgC",
+        "title": "CA7 overexpression enhances the anti-tumor effects of propofol in colorectal cancer via JAK2/STAT3 pathway.",
+        "summary": "CA7 protein boosts propofol's cancer-fighting effects in colorectal cancer by blocking a specific growth pathway.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13241344/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-10"
+      },
       {
         "id": "recQfi8XFMLKwXFnk",
         "title": "Machine learning-guided drug repurposing for EGFR inhibition using scaffold-split validation, docking, and molecular dynamics.",
@@ -411,23 +425,191 @@
         "quality_score": 12,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-08"
+      }
+    ],
+    "biomarkers": [
+      {
+        "id": "recN5B5xVwkfvazNu",
+        "title": "Dual-ligand-modified cantharidin nanoparticles for the treatment of hepatocellular carcinoma via the inhibition of Ephb4.",
+        "summary": "Dual-targeting nanoparticles delivering cantharidin effectively treat hepatocellular carcinoma by blocking EphB4, reducing toxicity compared to existing therapies.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13244520/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-10"
       },
       {
-        "id": "recwLKICnlnsd8W89",
-        "title": "Lysosome-targeted copper-modulated carbon dots with near-infrared fluorescence imaging and enhanced photodynamic therapy effects.",
-        "summary": "Researchers developed copper-enhanced carbon dots that improve photodynamic therapy effectiveness for cancer treatment through targeted lysosome delivery and enhanced imaging.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41935010/",
+        "id": "recrJ3kIGCbmvS35X",
+        "title": "The tumor microenvironment in triple negative breast cancer and a strategy to improve responses to immunotherapy using cryoablation and immunostimulants.",
+        "summary": "Combining cryoablation with immunotherapy drugs could improve treatment responses in aggressive triple-negative breast cancer by boosting immune system activation.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13245102/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-10"
+      },
+      {
+        "id": "rec0TB9jxfgqUVpbz",
+        "title": "Neoplastic CD3⁺ B cells remodel the DLBCL tumor microenvironment via single-cell and spatial transcriptomics.",
+        "summary": "Researchers mapped DLBCL tumors at high detail using multiple imaging techniques to understand how cancer cells reshape their surrounding environment.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13245064/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lymphoma"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-10"
+      },
+      {
+        "id": "rechmF3nc7SWdLSoy",
+        "title": "Genetic variants of the transporter SLC22A4 affect the abundance and survival of Fusobacterium nucleatum in colorectal cancer.",
+        "summary": "A genetic variant in the SLC22A4 transporter allows cancer cells to tolerate more cancer-promoting bacteria, increasing colorectal cancer risk.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13245087/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-10"
+      },
+      {
+        "id": "recdYrxW9QNGpPGak",
+        "title": "RET fusion partners dictate oncogenic potential in undifferentiated spindle cell sarcomas.",
+        "summary": "Different RET fusion partners in spindle cell sarcomas determine how aggressive the cancer becomes, enabling better treatment targeting.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13240951/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "General"
         ],
-        "quality_score": 10,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-06-08"
-      }
-    ],
-    "biomarkers": [
+        "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-10"
+      },
+      {
+        "id": "recNU386rkrYaDppK",
+        "title": "The regulatory roles of non-coding RNAs in aerobic glycolysis and therapeutic potential in pancreatic ductal adenocarcinoma.",
+        "summary": "Non-coding RNAs control sugar metabolism in pancreatic cancer cells, offering potential new treatment targets for this deadly disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42262932/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-10"
+      },
+      {
+        "id": "recvLfGjo8Bc17VgC",
+        "title": "CA7 overexpression enhances the anti-tumor effects of propofol in colorectal cancer via JAK2/STAT3 pathway.",
+        "summary": "CA7 protein boosts propofol's cancer-fighting effects in colorectal cancer by blocking a specific growth pathway.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13241344/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Colorectal"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-10"
+      },
+      {
+        "id": "rec82iCdD7jGwD1P8",
+        "title": "EpCAM promotes metastasis-associated phenotypes in Ewing sarcoma-family tumor cells by activating the PI3K/AKT signaling pathway.",
+        "summary": "EpCAM protein drives Ewing sarcoma cancer cells to spread by activating a specific cellular growth pathway.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13234095/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-10"
+      },
+      {
+        "id": "recSpfQPNw5iDXlLv",
+        "title": "Sweet syndrome with reactive lymphadenopathy mimicking metastatic disease in an SDHB-mutated abdominal paraganglioma.",
+        "summary": "Sweet syndrome resolved after surgical removal of an SDHB-mutated abdominal paraganglioma, confirming paraneoplastic disease association.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13237427/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-10"
+      },
+      {
+        "id": "rec1dqjvyrXWSknBr",
+        "title": "Hyperthyroidism, acromegaly, and hyperprolactinemia in a patient with a mature plurihormonal PIT-1 lineage adenoma.",
+        "summary": "A pituitary tumor secreting multiple hormones was successfully removed, resolving thyroid and prolactin problems, though growth hormone levels required ongoing monitoring.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13237556/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-10"
+      },
+      {
+        "id": "reckWUWRaihOyixq0",
+        "title": "Metabolic remodeling by circular RNAs in gastric tumorigenesis: From mechanisms to biomarker discovery (Review).",
+        "summary": "Circular RNAs drive metabolic changes that fuel gastric cancer growth and may serve as diagnostic markers for the disease.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13238219/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Stomach"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-10"
+      },
+      {
+        "id": "rec9SQZk4mtjduwhX",
+        "title": "Emerging agents that target signaling pathways in cancer fibroblast cells (Review).",
+        "summary": "Small molecule drugs targeting signaling pathways in cancer-associated fibroblasts show promise for inhibiting tumor growth and metastasis.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13238205/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-10"
+      },
+      {
+        "id": "recITnIULUKnLIDGp",
+        "title": "Growth hormone-secreting adenoma with lack of retinoblastoma protein expression.",
+        "summary": "A patient with a germline RB1 gene mutation developed a growth hormone-secreting pituitary adenoma lacking Rb protein expression.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13233132/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-10"
+      },
       {
         "id": "reccQgmYmxDf7jsLO",
         "title": "Stattic administration plays a protective role in a lipopolysaccharide-induced acute lung injury cell model.",
@@ -455,192 +637,23 @@
         "quality_score": 15,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-09"
-      },
-      {
-        "id": "recsuBncucXoKqy3o",
-        "title": "CA7 overexpression enhances the anti-tumor effects of propofol in colorectal cancer via JAK2/STAT3 pathway.",
-        "summary": "CA7 protein boosts propofol's anti-tumor effects in colorectal cancer by blocking the JAK2/STAT3 growth pathway.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42254280/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-09"
-      },
-      {
-        "id": "recLZTyIPUG0XUHLz",
-        "title": "EpCAM promotes metastasis-associated phenotypes in Ewing sarcoma-family tumor cells by activating the PI3K/AKT signaling pathway.",
-        "summary": "EpCAM protein promotes Ewing sarcoma spread by activating a cellular growth pathway called PI3K/AKT.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42254279/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-09"
-      },
-      {
-        "id": "recTNwD0ne4zkBFgq",
-        "title": "Sweet syndrome with reactive lymphadenopathy mimicking metastatic disease in an SDHB-mutated abdominal paraganglioma.",
-        "summary": "Sweet syndrome resolved after surgical removal of an SDHB-mutated paraganglioma, confirming the tumor's paraneoplastic skin manifestation.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42256641/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-09"
-      },
-      {
-        "id": "recGZZR91B9toiUdv",
-        "title": "Hyperthyroidism, acromegaly, and hyperprolactinemia in a patient with a mature plurihormonal PIT-1 lineage adenoma.",
-        "summary": "A rare pituitary tumor secreting multiple hormones was successfully removed, resolving thyroid and prolactin problems but requiring ongoing monitoring for growth hormone.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42256640/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-09"
-      },
-      {
-        "id": "recDbTyE14FFo2hgZ",
-        "title": "mRNA delivery of a class 1/4 SARS-CoV-2 neutralizing antibody protects against diverse sarbecoviruses in a lethal mouse challenge model.",
-        "summary": "Researchers delivered a broadly neutralizing antibody via mRNA to protect mice against multiple coronavirus variants and related bat viruses.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42258728/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-09"
-      },
-      {
-        "id": "recgFqfVpRR9yaEko",
-        "title": "Programmable DNA hydrogels for dual-mode PD-L1 suppression via polyvalent LYTAC mimics and transcriptional silencing.",
-        "summary": "A programmable DNA hydrogel degrades and silences PD-L1 in melanoma, enhancing immune checkpoint blockade and preventing tumor recurrence.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42258718/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Melanoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-09"
-      },
-      {
-        "id": "recYXC5EBpuEA9nna",
-        "title": "Alpha-2 antiplasmin deficiency: a rare fibrinolytic disorder identified after decades of diagnostic delay.",
-        "summary": "A woman's decades-long bleeding disorder was finally diagnosed as rare alpha-2 antiplasmin deficiency, revealing that standard blood tests miss this fibrinolytic condition.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42257473/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-09"
-      },
-      {
-        "id": "rec4hTg1WRRHCDqK3",
-        "title": "Endothelin-1 overexpression in mice increases vascular Vegfa164 and Vegfa188 alternative splice isoforms via enhanced Khdrbs3 expression.",
-        "summary": "Endothelin-1 overexpression in blood vessels causes harmful changes by altering how genes produce proteins that promote blood vessel growth.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42253124/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-09"
-      },
-      {
-        "id": "recZghg4SyCHVNMRx",
-        "title": "Teaching NeuroImage: Cervical Myelopathy Due to Alveolar Spinal Echinococcosis Cysts.",
-        "summary": "A spinal infection from parasitic cysts, not cancer recurrence, caused a patient's neck weakness and required surgery plus medication for cure.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42085623/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-06-09"
-      },
-      {
-        "id": "recudG1G158Xb0SMS",
-        "title": "Early PET response predicts the risk of relapse after 2L axi-cel in large B-cell lymphoma.",
-        "summary": "Early PET scans after CAR T therapy predict relapse risk in large B-cell lymphoma, identifying patients needing immediate additional treatment.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41894687/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lymphoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-06-09"
-      },
-      {
-        "id": "recFby1CZQ0AnwFVZ",
-        "title": "A phase 1/2 study of duvelisib plus venetoclax in patients with relapsed/refractory CLL/SLL or Richter transformation.",
-        "summary": "Duvelisib plus venetoclax achieved 91% response rates in hard-to-treat chronic lymphocytic leukemia, though neutropenia and diarrhea were common.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41886642/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Leukemia",
-          "Lymphoma"
-        ],
-        "quality_score": 21,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-06-09"
-      },
-      {
-        "id": "reciiQ8Xg2eIo6JFK",
-        "title": "Digital spatial profiling uncovers transcriptomic features of distinct plasma cell-like phenotypes in diffuse large B-cell lymphoma.",
-        "summary": "Researchers identified four plasma cell-like subtypes in diffuse large B-cell lymphoma; those with higher plasma cell-like phenotypes benefit more from bortezomib-added chemotherapy.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41886633/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lymphoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-06-09"
-      },
-      {
-        "id": "rec4fRuMAZ2hdFv9E",
-        "title": "Ropeginterferon alfa-2b for prefibrotic myelofibrosis and lower-risk myelofibrosis requiring cytoreduction.",
-        "summary": "Ropeginterferon alfa-2b safely induced complete responses in early-stage myelofibrosis patients and reduced cancer-causing mutations.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41875235/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 18,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-06-09"
       }
     ],
     "trials": [
+      {
+        "id": "recrJ3kIGCbmvS35X",
+        "title": "The tumor microenvironment in triple negative breast cancer and a strategy to improve responses to immunotherapy using cryoablation and immunostimulants.",
+        "summary": "Combining cryoablation with immunotherapy drugs could improve treatment responses in aggressive triple-negative breast cancer by boosting immune system activation.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13245102/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-10"
+      },
       {
         "id": "rec8onu3Hk8WnQIGf",
         "title": "Efficacy and Safety of Electroacupuncture for Postoperative Insomnia in Patients With Spinal Metastasis: Protocol of a Prospective, Multicenter, Randomized Controlled Study.",
@@ -838,20 +851,6 @@
         "quality_score": 15,
         "pub_date": "2026-05-01",
         "added_date": "2026-06-09"
-      },
-      {
-        "id": "recxETaTDwAwaKEMo",
-        "title": "Real-world outcomes and toxicities of CAR-T in relapsed/refractory follicular lymphoma: a multicenter cohort study.",
-        "summary": "CAR-T cell therapy shows strong real-world effectiveness in relapsed follicular lymphoma, though one type causes more neurological side effects than the other.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41747197/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Lymphoma"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-06-09"
       }
     ],
     "mind_body": []
@@ -863,8 +862,8 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 28158,
-    "archive_supplements": 2968,
+    "archive_count": 28159,
+    "archive_supplements": 2969,
     "archive_off_label": 930,
     "archive_biomarkers": 17859,
     "archive_trials": 5656,
