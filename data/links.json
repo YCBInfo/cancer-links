@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10T04:37:44.596Z",
+  "last_updated": "2026-06-10T04:37:56.117Z",
   "categories": {
     "supplements": [
       {
@@ -286,6 +286,20 @@
         "added_date": "2026-06-10"
       },
       {
+        "id": "recqU4cgIo04F7MyB",
+        "title": "Statins enhance trastuzumab deruxtecan efficacy: preclinical synergy in HER2-negative models and clinical benefit in HER2-positive metastatic breast cancer.",
+        "summary": "Statins combined with trastuzumab deruxtecan significantly improved tumor shrinkage and survival in breast cancer patients.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12988299/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-10"
+      },
+      {
         "id": "recQfi8XFMLKwXFnk",
         "title": "Machine learning-guided drug repurposing for EGFR inhibition using scaffold-split validation, docking, and molecular dynamics.",
         "summary": "Researchers used machine learning and computer modeling to identify existing drugs that could effectively target drug-resistant lung cancer mutations.",
@@ -410,20 +424,6 @@
         "quality_score": 9,
         "pub_date": "2026-05-26",
         "added_date": "2026-06-09"
-      },
-      {
-        "id": "recmWVfBK1kRIfDlj",
-        "title": "Fenofibrate attenuates hyperhomocysteinemia-potentiated thrombosis by restoring platelet fatty acid β-oxidation.",
-        "summary": "Fenofibrate restores a metabolic pathway in platelets, reducing dangerous blood clots caused by high homocysteine levels.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42251786/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-08"
       }
     ],
     "biomarkers": [
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 28342,
+    "archive_count": 28343,
     "archive_supplements": 2980,
     "archive_off_label": 935,
-    "archive_biomarkers": 18004,
+    "archive_biomarkers": 18005,
     "archive_trials": 5678,
     "archive_mind_body": 454
   }
