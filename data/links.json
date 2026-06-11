@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-11T09:04:27.784Z",
+  "last_updated": "2026-06-11T09:04:40.051Z",
   "categories": {
     "supplements": [
       {
@@ -383,6 +383,20 @@
         "added_date": "2026-06-11"
       },
       {
+        "id": "recmizcGKXWCoOhj0",
+        "title": "An Agentic Platform for Drug Repurposing Unified across Molecular, Phenotypic, and Clinical Scales.",
+        "summary": "LinkD, a new AI platform, identifies existing drugs that work against cancer by analyzing molecular, cellular, and patient data together.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13131787/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-11"
+      },
+      {
         "id": "recvLfGjo8Bc17VgC",
         "title": "CA7 overexpression enhances the anti-tumor effects of propofol in colorectal cancer via JAK2/STAT3 pathway.",
         "summary": "CA7 protein boosts propofol's cancer-fighting effects in colorectal cancer by blocking a specific growth pathway.",
@@ -401,20 +415,6 @@
         "title": "Enhancing Continence Recovery After Robot-Assisted Radical Prostatectomy: A Novel Combined Approach Using Testosterone Therapy and Magnetic Stimulation.",
         "summary": "Testosterone therapy combined with magnetic stimulation helps prostate cancer patients recover bladder control after robotic surgery.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42263175/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-10"
-      },
-      {
-        "id": "rec0fLsLG5LuGIrb3",
-        "title": "Cannabinoids and opioid consumption in cancer pain: a systematic review and meta-analysis.",
-        "summary": "Cannabinoids combined with opioids may reduce the amount of opioids needed to manage cancer pain, though more research is required.",
-        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9913127/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 28777,
+    "archive_count": 28778,
     "archive_supplements": 3029,
     "archive_off_label": 945,
-    "archive_biomarkers": 18273,
+    "archive_biomarkers": 18274,
     "archive_trials": 5779,
     "archive_mind_body": 460
   }
