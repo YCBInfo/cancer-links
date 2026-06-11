@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10T11:31:22.777Z",
+  "last_updated": "2026-06-11T02:35:06.823Z",
   "categories": {
     "supplements": [
       {
@@ -428,6 +428,20 @@
     ],
     "biomarkers": [
       {
+        "id": "rechXsQKnSaxmkj5B",
+        "title": "A mixed-method study of identifying symptom clusters in adult patients with advanced cancer.",
+        "summary": "Researchers identified groups of symptoms that commonly occur together in adults with advanced cancer using combined research methods.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42268436/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-11"
+      },
+      {
         "id": "recN5B5xVwkfvazNu",
         "title": "Dual-ligand-modified cantharidin nanoparticles for the treatment of hepatocellular carcinoma via the inhibition of Ephb4.",
         "summary": "Dual-targeting nanoparticles delivering cantharidin effectively treat hepatocellular carcinoma by blocking EphB4, reducing toxicity compared to existing therapies.",
@@ -622,23 +636,51 @@
         "quality_score": 12,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-10"
-      },
-      {
-        "id": "recM5G0QLB2bIOhVI",
-        "title": "Hydrogel Microbead-Confined Nanozyme-SERS Sensor for Robust Detection of Hydrogen Peroxide in Complex Biological Systems.",
-        "summary": "Researchers developed a hydrogel-nanozyme sensor that reliably detects hydrogen peroxide, an inflammation marker, in complex biological environments.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42263297/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Brain"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-10"
       }
     ],
     "trials": [
+      {
+        "id": "recrtF08adFWptgVJ",
+        "title": "The longitudinal effects of faith and meaning on quality of life in US women with breast cancer undergoing chemotherapy.",
+        "summary": "Strong faith and sense of meaning improve quality of life for breast cancer patients receiving chemotherapy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42267471/",
+        "source": "PubMed",
+        "category": "Mind-Body & Faith",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-11"
+      },
+      {
+        "id": "recLsrIRSCZhIoNJ7",
+        "title": "Effect of yoga on musculoskeletal complaints in women during endocrine treatment for breast cancer: protocol of the randomised controlled COBRA trial.",
+        "summary": "A study tests whether yoga reduces muscle and joint pain in women taking long-term breast cancer medications.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42264518/",
+        "source": "PubMed",
+        "category": "Mind-Body & Faith",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-11"
+      },
+      {
+        "id": "rec05fAvIAedUALAm",
+        "title": "Feasibility and Efficacy of Reiki Versus Massage for Cancer-Related Fatigue in Patients With Breast and Prostate Cancer Receiving Hormone Therapy.",
+        "summary": "Reiki and massage therapy may reduce fatigue in breast and prostate cancer patients receiving hormone treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42263755/",
+        "source": "PubMed",
+        "category": "Mind-Body & Faith",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-11"
+      },
       {
         "id": "recrJ3kIGCbmvS35X",
         "title": "The tumor microenvironment in triple negative breast cancer and a strategy to improve responses to immunotherapy using cryoablation and immunostimulants.",
@@ -806,48 +848,6 @@
         "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-06-10"
-      },
-      {
-        "id": "recKUUDehJjRuNaVD",
-        "title": "An injectable, dual-crosslinked polypeptide hydrogel encapsulating resiquimod-loaded nanoparticles as a long-lasting immunoprotective tumor vaccine.",
-        "summary": "Researchers developed an injectable hydrogel vaccine that slowly releases immune-stimulating drugs, recruiting immune cells to fight tumors and prevent cancer recurrence.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41895529/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-06-10"
-      },
-      {
-        "id": "recgrAHwLXzmrdtDq",
-        "title": "Composite nanovesicles for enhanced chemodynamic cancer therapy via decitabine-mediated epigenetic reactivation.",
-        "summary": "Nanovesicles combining chemotherapy with a gene-reactivating drug boost immune response and kill breast cancer cells more effectively.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41871782/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-06-10"
-      },
-      {
-        "id": "rec2qpuA0BJHQ02Iz",
-        "title": "Neoadjuvant Taxane Plus Trastuzumab and Pertuzumab With or Without Carboplatin in Human Epidermal Growth Factor Receptor 2-Positive Breast Cancer: The Randomized Noninferiority Phase III neoCARHP Trial.",
-        "summary": "Adding carboplatin to standard HER2-positive breast cancer treatment showed no benefit over treatment without it.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41576297/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-10"
       }
     ],
     "mind_body": []
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 28514,
+    "archive_count": 28515,
     "archive_supplements": 3009,
     "archive_off_label": 944,
-    "archive_biomarkers": 18090,
+    "archive_biomarkers": 18091,
     "archive_trials": 5725,
     "archive_mind_body": 455
   }
