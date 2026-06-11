@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-11T07:11:25.730Z",
+  "last_updated": "2026-06-11T08:04:13.875Z",
   "categories": {
     "supplements": [
       {
@@ -257,6 +257,20 @@
         "added_date": "2026-06-11"
       },
       {
+        "id": "recjUi1C7qqb1VZr9",
+        "title": "Gut microbial metabolism of Flutamide attenuates its therapeutic efficacy against prostate cancer.",
+        "summary": "Gut bacteria break down the prostate cancer drug Flutamide into inactive forms, reducing its effectiveness and suggesting personalized treatment approaches.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13248909/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-11"
+      },
+      {
         "id": "recvLfGjo8Bc17VgC",
         "title": "CA7 overexpression enhances the anti-tumor effects of propofol in colorectal cancer via JAK2/STAT3 pathway.",
         "summary": "CA7 protein boosts propofol's cancer-fighting effects in colorectal cancer by blocking a specific growth pathway.",
@@ -407,20 +421,6 @@
           "General"
         ],
         "quality_score": 19,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-10"
-      },
-      {
-        "id": "rec4rTVdxdLkVs0Nt",
-        "title": "Repurposing atorvastatin for uterine leiomyosarcoma: mevalonate pathway inhibition yields preclinical antitumor efficacy.",
-        "summary": "Atorvastatin, a common cholesterol drug, slowed uterine leiomyosarcoma tumor growth by 50% in preclinical studies by blocking a key cellular pathway.",
-        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10031121/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-10"
       }
@@ -860,10 +860,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 28770,
+    "archive_count": 28771,
     "archive_supplements": 3029,
     "archive_off_label": 945,
-    "archive_biomarkers": 18268,
+    "archive_biomarkers": 18269,
     "archive_trials": 5777,
     "archive_mind_body": 460
   }
