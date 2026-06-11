@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-11T04:04:13.419Z",
+  "last_updated": "2026-06-11T04:04:25.721Z",
   "categories": {
     "supplements": [
       {
@@ -810,6 +810,20 @@
         "added_date": "2026-06-11"
       },
       {
+        "id": "recr2O24ixFhm1L51",
+        "title": "A phase 1 clinical trial of a multi-antigen SARS-CoV DNA vaccine as a booster after dose three spike-based mRNA vaccinations.",
+        "summary": "A DNA booster vaccine safely increased antibody responses against COVID-19 variants in people previously vaccinated with mRNA vaccines.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13148892/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-05-01",
+        "added_date": "2026-06-11"
+      },
+      {
         "id": "recrJ3kIGCbmvS35X",
         "title": "The tumor microenvironment in triple negative breast cancer and a strategy to improve responses to immunotherapy using cryoablation and immunostimulants.",
         "summary": "Combining cryoablation with immunotherapy drugs could improve treatment responses in aggressive triple-negative breast cancer by boosting immune system activation.",
@@ -836,20 +850,6 @@
         "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-06-10"
-      },
-      {
-        "id": "recdCGGmfr6bLOsWf",
-        "title": "Durvalumab in Combination With Neoadjuvant Chemotherapy in Early Triple-Negative Breast Cancer: Long-Term Analysis From the GeparNuevo Trial.",
-        "summary": "Adding durvalumab to chemotherapy improved long-term survival in early triple-negative breast cancer patients, regardless of complete tumor response.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42008768/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 21,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-10"
       }
     ],
     "mind_body": []
@@ -861,11 +861,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 28520,
+    "archive_count": 28521,
     "archive_supplements": 3009,
     "archive_off_label": 944,
     "archive_biomarkers": 18092,
-    "archive_trials": 5725,
+    "archive_trials": 5726,
     "archive_mind_body": 459
   }
 }
