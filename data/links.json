@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-06-11T04:05:36.238Z",
+  "last_updated": "2026-06-11T04:05:48.461Z",
   "categories": {
     "supplements": [
+      {
+        "id": "recNmj4fSxYuNKaDl",
+        "title": "Integrated transcriptomic analysis reveals a lncRNA-miRNA-TF-mRNA regulatory network underlying quercetin's anti-hepatocellular carcinoma effects.",
+        "summary": "Quercetin fights hepatocellular carcinoma by activating a regulatory network that silences cancer-promoting genes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41962406/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 13,
+        "pub_date": "2026-04-01",
+        "added_date": "2026-06-11"
+      },
       {
         "id": "recN5B5xVwkfvazNu",
         "title": "Dual-ligand-modified cantharidin nanoparticles for the treatment of hepatocellular carcinoma via the inhibition of Ephb4.",
@@ -190,20 +204,6 @@
         "title": "Synthesis and antitumor activity of novel tanshinone derivatives with amino acid esters.",
         "summary": "Chemically modified tanshinone derivatives with amino acid esters show dramatically improved cancer-fighting potency, up to 233-fold stronger than original tanshinone.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42262740/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-10"
-      },
-      {
-        "id": "recSKsdDBzUsmPWZ4",
-        "title": "Dietary alligator pepper powder mitigates thermal stress-induced performance suppression, immune dysfunction, and cellular stress in broiler chickens reared under hot-humid tropical conditions.",
-        "summary": "Alligator pepper powder in chicken feed reduces heat stress damage, improves growth, and strengthens immunity similarly to vitamin C supplements.",
-        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8065079/",
         "source": "PubMed",
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
@@ -861,10 +861,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 28526,
+    "archive_count": 28527,
     "archive_supplements": 3009,
     "archive_off_label": 944,
-    "archive_biomarkers": 18097,
+    "archive_biomarkers": 18098,
     "archive_trials": 5726,
     "archive_mind_body": 459
   }
