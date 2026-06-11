@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-11T04:26:55.918Z",
+  "last_updated": "2026-06-11T04:27:08.290Z",
   "categories": {
     "supplements": [
       {
@@ -216,6 +216,20 @@
     ],
     "off_label": [
       {
+        "id": "recXOLUS65dAOjk7m",
+        "title": "Single-nucleus interrogation of primate small intestinal aging reveals NCoR1 decline as a conserved feature that is reversed by metformin.",
+        "summary": "Metformin reverses age-related intestinal decline by restoring NCoR1 protein levels in primates and human cells.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6004897/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-11"
+      },
+      {
         "id": "recvLfGjo8Bc17VgC",
         "title": "CA7 overexpression enhances the anti-tumor effects of propofol in colorectal cancer via JAK2/STAT3 pathway.",
         "summary": "CA7 protein boosts propofol's cancer-fighting effects in colorectal cancer by blocking a specific growth pathway.",
@@ -408,20 +422,6 @@
           "Liver"
         ],
         "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-10"
-      },
-      {
-        "id": "recFmMfsAoFzOsOrx",
-        "title": "HDAC inhibition reprograms stem cell fate to suppress infantile hemangioma vasculogenesis.",
-        "summary": "HDAC inhibitors block stem cell differentiation to suppress infantile hemangioma growth and synergize with current beta-blocker treatments.",
-        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2413184/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-10"
       }
@@ -861,10 +861,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 28637,
+    "archive_count": 28638,
     "archive_supplements": 3011,
     "archive_off_label": 944,
-    "archive_biomarkers": 18191,
+    "archive_biomarkers": 18192,
     "archive_trials": 5741,
     "archive_mind_body": 459
   }
