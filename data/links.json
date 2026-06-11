@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-11T04:33:07.762Z",
+  "last_updated": "2026-06-11T04:33:18.738Z",
   "categories": {
     "supplements": [
       {
@@ -230,6 +230,20 @@
         "added_date": "2026-06-11"
       },
       {
+        "id": "rec8G6M5Kh9H2O8Xe",
+        "title": "The O‑GlcNAcase inhibition by Thiamet G disrupts the AngioMatrix signature of the Glioblastoma secretome in silico and impairs its angiogenic capacity in vitro.",
+        "summary": "Thiamet G inhibitor reduces glioblastoma's ability to promote blood vessel formation, a potential new treatment strategy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42264131/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-11"
+      },
+      {
         "id": "recvLfGjo8Bc17VgC",
         "title": "CA7 overexpression enhances the anti-tumor effects of propofol in colorectal cancer via JAK2/STAT3 pathway.",
         "summary": "CA7 protein boosts propofol's cancer-fighting effects in colorectal cancer by blocking a specific growth pathway.",
@@ -406,20 +420,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-10"
-      },
-      {
-        "id": "reccBgxwiu20SLb9W",
-        "title": "DeepPurpose based deep learning approach for drug repurposing targeting VEGFR2 in hepatocellular carcinoma.",
-        "summary": "Researchers used artificial intelligence to identify three existing drugs—especially APY-29—that effectively target a key protein driving hepatocellular carcinoma growth.",
-        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13237411/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Liver"
         ],
         "quality_score": 15,
         "pub_date": "2026-06-01",
@@ -861,10 +861,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 28669,
+    "archive_count": 28670,
     "archive_supplements": 3013,
     "archive_off_label": 945,
-    "archive_biomarkers": 18218,
+    "archive_biomarkers": 18219,
     "archive_trials": 5743,
     "archive_mind_body": 459
   }
