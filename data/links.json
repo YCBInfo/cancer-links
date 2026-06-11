@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-11T04:33:27.849Z",
+  "last_updated": "2026-06-11T04:33:39.277Z",
   "categories": {
     "supplements": [
       {
@@ -244,6 +244,20 @@
         "added_date": "2026-06-11"
       },
       {
+        "id": "recsCc8feJetIqYht",
+        "title": "Fluoxetine-associated adverse event signals with a focus on seizure: A study based on the FAERS database, network pharmacology, and molecular docking.",
+        "summary": "Fluoxetine, an antidepressant, shows increased seizure risk as a side effect based on FDA safety reports and molecular analysis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42264128/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-11"
+      },
+      {
         "id": "recvLfGjo8Bc17VgC",
         "title": "CA7 overexpression enhances the anti-tumor effects of propofol in colorectal cancer via JAK2/STAT3 pathway.",
         "summary": "CA7 protein boosts propofol's cancer-fighting effects in colorectal cancer by blocking a specific growth pathway.",
@@ -408,20 +422,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-10"
-      },
-      {
-        "id": "recLSPFJUnnaHvSEs",
-        "title": "Association of antihypertensive drugs, intestinal ischemia, and breast diseases: A drug-target Mendelian Randomization study.",
-        "summary": "Loop diuretics may increase breast cancer risk through intestinal ischemia, suggesting careful monitoring for patients taking these blood pressure medications.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42260808/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-10"
       }
@@ -861,10 +861,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 28671,
+    "archive_count": 28672,
     "archive_supplements": 3013,
     "archive_off_label": 945,
-    "archive_biomarkers": 18220,
+    "archive_biomarkers": 18221,
     "archive_trials": 5743,
     "archive_mind_body": 459
   }
