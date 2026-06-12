@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-12T06:18:12.554Z",
+  "last_updated": "2026-06-12T06:18:21.560Z",
   "categories": {
     "supplements": [
       {
@@ -231,6 +231,20 @@
         "added_date": "2026-06-12"
       },
       {
+        "id": "recYMd9igOeGy26s0",
+        "title": "Cannabinoids and opioid consumption in cancer pain: a systematic review and meta-analysis.",
+        "summary": "Cannabinoids may help cancer patients reduce opioid use for pain management, though more evidence is needed.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13249705/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-12"
+      },
+      {
         "id": "recXOLUS65dAOjk7m",
         "title": "Single-nucleus interrogation of primate small intestinal aging reveals NCoR1 decline as a conserved feature that is reversed by metformin.",
         "summary": "Metformin reverses age-related intestinal decline by restoring NCoR1 protein levels in primates and human cells.",
@@ -411,20 +425,6 @@
         "quality_score": 15,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-11"
-      },
-      {
-        "id": "recvLfGjo8Bc17VgC",
-        "title": "CA7 overexpression enhances the anti-tumor effects of propofol in colorectal cancer via JAK2/STAT3 pathway.",
-        "summary": "CA7 protein boosts propofol's cancer-fighting effects in colorectal cancer by blocking a specific growth pathway.",
-        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13241344/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-10"
       }
     ],
     "biomarkers": [
@@ -862,8 +862,8 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 28880,
-    "archive_supplements": 3046,
+    "archive_count": 28881,
+    "archive_supplements": 3047,
     "archive_off_label": 953,
     "archive_biomarkers": 18338,
     "archive_trials": 5790,
