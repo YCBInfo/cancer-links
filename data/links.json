@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-12T06:09:04.574Z",
+  "last_updated": "2026-06-12T06:09:15.363Z",
   "categories": {
     "supplements": [
       {
@@ -187,6 +187,20 @@
         "added_date": "2026-06-12"
       },
       {
+        "id": "reclHBEzepD6rS3SY",
+        "title": "Ketogenic Diet and β-Hydroxybutyrate Suppress Bladder Cancer Growth and Enhance Anti-PD-L1 Immunotherapy Efficacy.",
+        "summary": "A ketogenic diet and its metabolite β-hydroxybutyrate slow bladder cancer growth and boost immunotherapy effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42274090/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Bladder"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-12"
+      },
+      {
         "id": "recNmj4fSxYuNKaDl",
         "title": "Integrated transcriptomic analysis reveals a lncRNA-miRNA-TF-mRNA regulatory network underlying quercetin's anti-hepatocellular carcinoma effects.",
         "summary": "Quercetin fights hepatocellular carcinoma by activating a regulatory network that silences cancer-promoting genes.",
@@ -198,20 +212,6 @@
         ],
         "quality_score": 13,
         "pub_date": "2026-04-01",
-        "added_date": "2026-06-11"
-      },
-      {
-        "id": "recNuHtsCiHerV6NN",
-        "title": "Identifying PLAU as a shared pathogenic gene in type 2 diabetes and bladder urothelial carcinoma through integrated transcriptomic analysis and machine learning for diagnostic and therapeutic value.",
-        "summary": "Researchers identified PLAU as a shared gene in type 2 diabetes and bladder cancer, finding that targeting it with EGCG compound may slow tumor growth.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42268472/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Bladder"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-06-01",
         "added_date": "2026-06-11"
       }
     ],
@@ -825,24 +825,24 @@
         "added_date": "2026-06-12"
       },
       {
+        "id": "reclHBEzepD6rS3SY",
+        "title": "Ketogenic Diet and β-Hydroxybutyrate Suppress Bladder Cancer Growth and Enhance Anti-PD-L1 Immunotherapy Efficacy.",
+        "summary": "A ketogenic diet and its metabolite β-hydroxybutyrate slow bladder cancer growth and boost immunotherapy effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42274090/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Bladder"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-12"
+      },
+      {
         "id": "recrtF08adFWptgVJ",
         "title": "The longitudinal effects of faith and meaning on quality of life in US women with breast cancer undergoing chemotherapy.",
         "summary": "Strong faith and sense of meaning improve quality of life for breast cancer patients receiving chemotherapy.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42267471/",
-        "source": "PubMed",
-        "category": "Mind-Body & Faith",
-        "cancer_types": [
-          "Breast"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-11"
-      },
-      {
-        "id": "recLsrIRSCZhIoNJ7",
-        "title": "Effect of yoga on musculoskeletal complaints in women during endocrine treatment for breast cancer: protocol of the randomised controlled COBRA trial.",
-        "summary": "A study tests whether yoga reduces muscle and joint pain in women taking long-term breast cancer medications.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42264518/",
         "source": "PubMed",
         "category": "Mind-Body & Faith",
         "cancer_types": [
@@ -862,10 +862,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 28830,
+    "archive_count": 28831,
     "archive_supplements": 3039,
     "archive_off_label": 952,
-    "archive_biomarkers": 18301,
+    "archive_biomarkers": 18302,
     "archive_trials": 5785,
     "archive_mind_body": 462
   }
