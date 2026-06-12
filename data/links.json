@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-12T06:07:46.178Z",
+  "last_updated": "2026-06-12T06:08:01.128Z",
   "categories": {
     "supplements": [
       {
@@ -217,6 +217,20 @@
     ],
     "off_label": [
       {
+        "id": "recZfhtS96MxRQm3i",
+        "title": "Romosozumab for cancer treatment-induced bone loss in postmenopausal women with hormone receptor-positive breast cancer: a case series.",
+        "summary": "Romosozumab improved bone strength in postmenopausal women with breast cancer experiencing treatment-related bone loss, without safety concerns observed.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5871065/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-12"
+      },
+      {
         "id": "recXOLUS65dAOjk7m",
         "title": "Single-nucleus interrogation of primate small intestinal aging reveals NCoR1 decline as a conserved feature that is reversed by metformin.",
         "summary": "Metformin reverses age-related intestinal decline by restoring NCoR1 protein levels in primates and human cells.",
@@ -409,20 +423,6 @@
           "Colorectal"
         ],
         "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-10"
-      },
-      {
-        "id": "recdblfzSB7MOLGqO",
-        "title": "Enhancing Continence Recovery After Robot-Assisted Radical Prostatectomy: A Novel Combined Approach Using Testosterone Therapy and Magnetic Stimulation.",
-        "summary": "Testosterone therapy combined with magnetic stimulation helps prostate cancer patients recover bladder control after robotic surgery.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42263175/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-10"
       }
@@ -862,8 +862,8 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 28824,
-    "archive_supplements": 3036,
+    "archive_count": 28825,
+    "archive_supplements": 3037,
     "archive_off_label": 952,
     "archive_biomarkers": 18298,
     "archive_trials": 5785,
