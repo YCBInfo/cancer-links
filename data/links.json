@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-12T06:21:30.726Z",
+  "last_updated": "2026-06-12T07:03:27.192Z",
   "categories": {
     "supplements": [
       {
@@ -245,6 +245,20 @@
         "added_date": "2026-06-12"
       },
       {
+        "id": "recM4CDFgDkMIbrfC",
+        "title": "Phase 1/2 Study Of IL15-Transduced, TGFBR2 KO, TROP2 CAR- Engineered Cord Blood-Derived NK Cells Administered Intraperitoneally And Intravenously In Combination With Oral Belzutifan For The Management Of Pancreatic Cancer",
+        "summary": "Engineered immune cells combined with a drug show promise against advanced pancreatic cancer in early clinical trials.",
+        "url": "https://clinicaltrials.gov/study/NCT07377526",
+        "source": "ClinicalTrials.gov",
+        "category": "Clinical Trials",
+        "cancer_types": [
+          "Pancreatic"
+        ],
+        "quality_score": 19,
+        "pub_date": "2026-06-11",
+        "added_date": "2026-06-12"
+      },
+      {
         "id": "recXOLUS65dAOjk7m",
         "title": "Single-nucleus interrogation of primate small intestinal aging reveals NCoR1 decline as a conserved feature that is reversed by metformin.",
         "summary": "Metformin reverses age-related intestinal decline by restoring NCoR1 protein levels in primates and human cells.",
@@ -407,20 +421,6 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Ovarian"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-11"
-      },
-      {
-        "id": "recmizcGKXWCoOhj0",
-        "title": "An Agentic Platform for Drug Repurposing Unified across Molecular, Phenotypic, and Clinical Scales.",
-        "summary": "LinkD, a new AI platform, identifies existing drugs that work against cancer by analyzing molecular, cellular, and patient data together.",
-        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13131787/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Prostate"
         ],
         "quality_score": 15,
         "pub_date": "2026-06-01",
@@ -862,11 +862,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 28895,
+    "archive_count": 28896,
     "archive_supplements": 3051,
     "archive_off_label": 954,
     "archive_biomarkers": 18347,
-    "archive_trials": 5790,
+    "archive_trials": 5791,
     "archive_mind_body": 462
   }
 }
