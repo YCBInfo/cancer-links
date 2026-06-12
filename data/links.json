@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-11T11:33:13.152Z",
+  "last_updated": "2026-06-12T02:35:11.270Z",
   "categories": {
     "supplements": [
       {
@@ -640,6 +640,34 @@
     ],
     "trials": [
       {
+        "id": "recxTrYADNKXKC3oH",
+        "title": "Safety and Effectiveness of an Integrative Treatment of Acupuncture-Based Intervention in Survivors of Breast Cancer With Postmastectomy Pain Syndrome: Protocol for a Single-Center, Single-Arm Exploratory Trial.",
+        "summary": "Researchers are testing acupuncture as a potential treatment for chronic pain in breast cancer surgery survivors.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42275444/",
+        "source": "PubMed",
+        "category": "Mind-Body & Faith",
+        "cancer_types": [
+          "Breast"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-12"
+      },
+      {
+        "id": "recXiXMMd7RpsmxYs",
+        "title": "Depression and psycho-existential correlates in cancer outpatients: A longitudinal real-life study.",
+        "summary": "Depression is common in cancer patients and linked to worse outcomes, quality of life, and treatment adherence.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42269542/",
+        "source": "PubMed",
+        "category": "Mind-Body & Faith",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-12"
+      },
+      {
         "id": "recrtF08adFWptgVJ",
         "title": "The longitudinal effects of faith and meaning on quality of life in US women with breast cancer undergoing chemotherapy.",
         "summary": "Strong faith and sense of meaning improve quality of life for breast cancer patients receiving chemotherapy.",
@@ -821,34 +849,6 @@
         "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-06-11"
-      },
-      {
-        "id": "recMYHnOJ6lJ8c91J",
-        "title": "Development of bicistronic plasmids and fusion proteins for clinical translation of tumor immune reprogramming.",
-        "summary": "Researchers created a simplified plasmid system to deliver cancer-fighting immune proteins more efficiently for clinical use in melanoma treatment.",
-        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13148935/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-06-11"
-      },
-      {
-        "id": "recjduvvi4KgBivpR",
-        "title": "Targeting BCL-2 and PI3K signaling pathways enhances cytotoxicity of gemtuzumab ozogamicin against acute myeloid leukemia cells.",
-        "summary": "Blocking BCL-2 and PI3K proteins alongside gemtuzumab ozogamicin significantly improves treatment effectiveness against resistant acute myeloid leukemia cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41980559/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Leukemia"
-        ],
-        "quality_score": 13,
-        "pub_date": "2026-04-01",
-        "added_date": "2026-06-11"
       }
     ],
     "mind_body": []
@@ -860,11 +860,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 28801,
+    "archive_count": 28802,
     "archive_supplements": 3030,
     "archive_off_label": 952,
     "archive_biomarkers": 18285,
     "archive_trials": 5783,
-    "archive_mind_body": 460
+    "archive_mind_body": 461
   }
 }
