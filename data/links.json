@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-12T06:03:38.184Z",
+  "last_updated": "2026-06-12T06:03:49.213Z",
   "categories": {
     "supplements": [
       {
@@ -613,6 +613,20 @@
         "added_date": "2026-06-12"
       },
       {
+        "id": "rec2GocuwVqSjEPCS",
+        "title": "Large-scale, spatially resolved panoramic CRISPR screening in native tissue environments using Perturb-DBiT.",
+        "summary": "Perturb-DBiT enables large-scale CRISPR screening directly in tumors, revealing how genetic changes affect cancer growth, spread, and immune interactions.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10567561/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-12"
+      },
+      {
         "id": "rechXsQKnSaxmkj5B",
         "title": "A mixed-method study of identifying symptom clusters in adult patients with advanced cancer.",
         "summary": "Researchers identified groups of symptoms that commonly occur together in adults with advanced cancer using combined research methods.",
@@ -623,20 +637,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-11"
-      },
-      {
-        "id": "recpNT5DP7YBekdCK",
-        "title": "CXCL13-expressing CD4+ T cells coordinate the lymphocytes triad to promote the anti-tumor immunity in NSCLC.",
-        "summary": "A specific CD4+ T cell subset recruits B cells to form a three-cell immune cluster that enhances anti-tumor responses in lung cancer.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42265935/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-11"
       }
@@ -863,10 +863,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 28804,
+    "archive_count": 28805,
     "archive_supplements": 3030,
     "archive_off_label": 952,
-    "archive_biomarkers": 18286,
+    "archive_biomarkers": 18287,
     "archive_trials": 5783,
     "archive_mind_body": 462
   }
