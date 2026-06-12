@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-12T06:03:49.213Z",
+  "last_updated": "2026-06-12T06:04:00.211Z",
   "categories": {
     "supplements": [
       {
@@ -627,18 +627,18 @@
         "added_date": "2026-06-12"
       },
       {
-        "id": "rechXsQKnSaxmkj5B",
-        "title": "A mixed-method study of identifying symptom clusters in adult patients with advanced cancer.",
-        "summary": "Researchers identified groups of symptoms that commonly occur together in adults with advanced cancer using combined research methods.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42268436/",
+        "id": "rec5XOFHoYEGYeSf7",
+        "title": "Mes/Stem-A ovarian cancer subtypes predict sensitivity to ATR inhibition.",
+        "summary": "Mesenchymal and Stem-A ovarian cancer subtypes show high replication stress and respond well to ATR inhibitor treatment.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5796526/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
-          "General"
+          "Ovarian"
         ],
-        "quality_score": 12,
+        "quality_score": 15,
         "pub_date": "2026-06-01",
-        "added_date": "2026-06-11"
+        "added_date": "2026-06-12"
       }
     ],
     "trials": [
@@ -679,6 +679,20 @@
         "category": "Biomarkers & Diagnostics",
         "cancer_types": [
           "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-12"
+      },
+      {
+        "id": "rec5XOFHoYEGYeSf7",
+        "title": "Mes/Stem-A ovarian cancer subtypes predict sensitivity to ATR inhibition.",
+        "summary": "Mesenchymal and Stem-A ovarian cancer subtypes show high replication stress and respond well to ATR inhibitor treatment.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5796526/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Ovarian"
         ],
         "quality_score": 15,
         "pub_date": "2026-06-01",
@@ -838,20 +852,6 @@
         "quality_score": 12,
         "pub_date": "2026-05-01",
         "added_date": "2026-06-11"
-      },
-      {
-        "id": "recsDcHvoeLDl5lX6",
-        "title": "IL-12-engineered human PSMA-CAR T cells for the treatment of advanced prostate cancer.",
-        "summary": "Researchers engineered CAR T cells targeting prostate cancer to be safer and more effective by adding IL-12 to boost immune response.",
-        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13148939/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Prostate"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-05-01",
-        "added_date": "2026-06-11"
       }
     ],
     "mind_body": []
@@ -863,8 +863,8 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 28805,
-    "archive_supplements": 3030,
+    "archive_count": 28806,
+    "archive_supplements": 3031,
     "archive_off_label": 952,
     "archive_biomarkers": 18287,
     "archive_trials": 5783,
