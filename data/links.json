@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13T04:20:08.152Z",
+  "last_updated": "2026-06-13T04:20:27.936Z",
   "categories": {
     "supplements": [
       {
@@ -259,6 +259,20 @@
         "added_date": "2026-06-13"
       },
       {
+        "id": "recYbecH8DzQPU0Zp",
+        "title": "Expanding 68Ga radiolabeling capacity: off-label use of PSMA-11 single vial cold kits through aliquoting and dual generator utilization.",
+        "summary": "Researchers developed a cost-effective method to treat more prostate cancer patients daily by dividing single imaging kits and using dual generators for PSMA PET scans.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42251618/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Prostate"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-13"
+      },
+      {
         "id": "recZfhtS96MxRQm3i",
         "title": "Romosozumab for cancer treatment-induced bone loss in postmenopausal women with hormone receptor-positive breast cancer: a case series.",
         "summary": "Romosozumab improved bone strength in postmenopausal women with breast cancer experiencing treatment-related bone loss, without safety concerns observed.",
@@ -409,20 +423,6 @@
           "Lung"
         ],
         "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-11"
-      },
-      {
-        "id": "recfUyeh0tCjAQBtd",
-        "title": "DPP-4 inhibitor alleviates gut-brain axis pathology in Parkinson's disease.",
-        "summary": "DPP-4 inhibitor drugs reduce Parkinson's disease symptoms by blocking harmful protein transmission from the gut to the brain.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41043862/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-11"
       }
@@ -861,10 +861,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 29026,
+    "archive_count": 29027,
     "archive_supplements": 3055,
     "archive_off_label": 955,
-    "archive_biomarkers": 18437,
+    "archive_biomarkers": 18438,
     "archive_trials": 5826,
     "archive_mind_body": 462
   }
