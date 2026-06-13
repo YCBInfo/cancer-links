@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13T04:07:26.221Z",
+  "last_updated": "2026-06-13T04:07:44.147Z",
   "categories": {
     "supplements": [
       {
@@ -810,6 +810,20 @@
         "added_date": "2026-06-13"
       },
       {
+        "id": "rec2omT0mbRxjAfQ9",
+        "title": "ResMap: A community resource for systematic mapping of therapy-persistent residual cancer cell dependencies across contexts.",
+        "summary": "Researchers created ResMap, a resource identifying drug vulnerabilities in lung cancer cells that survive initial therapy, revealing nine promising treatment targets.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42284402/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-13"
+      },
+      {
         "id": "recxTrYADNKXKC3oH",
         "title": "Safety and Effectiveness of an Integrative Treatment of Acupuncture-Based Intervention in Survivors of Breast Cancer With Postmastectomy Pain Syndrome: Protocol for a Single-Center, Single-Arm Exploratory Trial.",
         "summary": "Researchers are testing acupuncture as a potential treatment for chronic pain in breast cancer surgery survivors.",
@@ -836,20 +850,6 @@
         "quality_score": 12,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-12"
-      },
-      {
-        "id": "recLdfvuyW7Ag6YyX",
-        "title": "[Autoimmune pulmonary alveolar proteinosis induced by brigatinib: a case report and literature review].",
-        "summary": "Tyrosine kinase inhibitors can cause a rare lung disease (autoimmune PAP) treatable with GM-CSF or lung lavage.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42236457/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-12"
       }
     ],
     "mind_body": []
@@ -861,8 +861,8 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 28957,
-    "archive_supplements": 3051,
+    "archive_count": 28958,
+    "archive_supplements": 3052,
     "archive_off_label": 954,
     "archive_biomarkers": 18380,
     "archive_trials": 5819,
