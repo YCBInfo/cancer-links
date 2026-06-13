@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13T04:09:46.789Z",
+  "last_updated": "2026-06-13T04:10:00.646Z",
   "categories": {
     "supplements": [
       {
@@ -39,6 +39,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Liver"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-13"
+      },
+      {
+        "id": "recGzCPpwjYOKgZG4",
+        "title": "Evaluation of the TiaoShenZhiAi Regimen for Patients With Ovarian Cancer Experiencing a Psychoneurological Symptom Cluster: Protocol for a Multicenter, Double-Blind, Randomized Controlled Trial.",
+        "summary": "A Chinese herbal treatment is being tested to relieve psychological and neurological symptoms in ovarian cancer patients.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42284089/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Ovarian"
         ],
         "quality_score": 15,
         "pub_date": "2026-06-01",
@@ -197,20 +211,6 @@
           "Kidney"
         ],
         "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-12"
-      },
-      {
-        "id": "recjuR4uOFXJL6FYv",
-        "title": "Phytochemical Characterization, Molecular Docking, and Protective Efficacy of Cleome droserifolia Against Cisplatin-Induced Testicular Toxicity.",
-        "summary": "A desert plant called Cleome droserifolia protects testicular tissue from damage caused by the cancer drug cisplatin.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42276387/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-12"
       }
@@ -861,10 +861,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 28969,
+    "archive_count": 28970,
     "archive_supplements": 3052,
     "archive_off_label": 954,
-    "archive_biomarkers": 18390,
+    "archive_biomarkers": 18391,
     "archive_trials": 5820,
     "archive_mind_body": 462
   }
