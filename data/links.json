@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13T04:10:09.744Z",
+  "last_updated": "2026-06-13T04:10:21.951Z",
   "categories": {
     "supplements": [
       {
@@ -53,6 +53,20 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Ovarian"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-13"
+      },
+      {
+        "id": "recdNtfDZRybFRBQ5",
+        "title": "Integrated network pharmacology reveal new key curcumin-binding targets in triple-negative breast cancer.",
+        "summary": "Researchers identified new molecular targets where curcumin binds in triple-negative breast cancer, potentially revealing effective treatment mechanisms.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42283977/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Breast"
         ],
         "quality_score": 15,
         "pub_date": "2026-06-01",
@@ -199,20 +213,6 @@
         "quality_score": 12,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-12"
-      },
-      {
-        "id": "recIunqCTQuCmKVov",
-        "title": "Molecular Mechanisms and Therapeutic Targets of Traditional Chinese Medicine Compounds in Renal Cell Carcinoma: A Comprehensive Narrative Review.",
-        "summary": "Traditional Chinese Medicine compounds may complement standard treatments for renal cell carcinoma by targeting multiple pathways simultaneously while reducing toxicity.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42276388/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Kidney"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-12"
       }
     ],
     "off_label": [
@@ -223,6 +223,20 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/42284392/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-13"
+      },
+      {
+        "id": "recxBOcBdZfeQOkM0",
+        "title": "Salvage tacrolimus therapy for steroid-refractory immune-related adverse event-associated sclerosing cholangitis.",
+        "summary": "Tacrolimus successfully treated a cervical cancer patient's steroid-resistant immune-related liver inflammation caused by immunotherapy.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8734631/",
+        "source": "PubMed",
+        "category": "Clinical Trials",
         "cancer_types": [
           "General"
         ],
@@ -409,20 +423,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-11"
-      },
-      {
-        "id": "recLbohTBfd8FsI2q",
-        "title": "GLP-1 Receptor Agonists and Primary Prevention of Cancer Therapy-Related Cardiac Dysfunction.",
-        "summary": "GLP-1 drugs reduced heart damage risk by half in cancer patients receiving toxic chemotherapy, across multiple cancer types.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42264283/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Melanoma"
-        ],
-        "quality_score": 24,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-11"
       }
@@ -861,10 +861,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 28971,
+    "archive_count": 28972,
     "archive_supplements": 3052,
     "archive_off_label": 954,
-    "archive_biomarkers": 18392,
+    "archive_biomarkers": 18393,
     "archive_trials": 5820,
     "archive_mind_body": 462
   }
