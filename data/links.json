@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13T04:33:40.593Z",
+  "last_updated": "2026-06-13T04:33:49.346Z",
   "categories": {
     "supplements": [
       {
@@ -285,6 +285,20 @@
         "added_date": "2026-06-13"
       },
       {
+        "id": "recg9ud54UDAmALIu",
+        "title": "IGF2BP3 promotes epithelial ovarian cancer progression by regulating FASN expression.",
+        "summary": "IGF2BP3 protein promotes epithelial ovarian cancer progression by stabilizing FASN mRNA, which increases lipid production and cancer cell growth.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42277199/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Ovarian"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-13"
+      },
+      {
         "id": "recZfhtS96MxRQm3i",
         "title": "Romosozumab for cancer treatment-induced bone loss in postmenopausal women with hormone receptor-positive breast cancer: a case series.",
         "summary": "Romosozumab improved bone strength in postmenopausal women with breast cancer experiencing treatment-related bone loss, without safety concerns observed.",
@@ -401,20 +415,6 @@
         "title": "Repurposing ALK Inhibitors as Influenza and Corona Virus Antivirals Targeting Lymphocyte Tyrosine Kinase (LTK).",
         "summary": "Existing cancer drugs that inhibit ALK show promise as antivirals against influenza and COVID-19 by targeting a host cell protein viruses need.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/42263913/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-11"
-      },
-      {
-        "id": "recaRwtbDZmAqHuPO",
-        "title": "Orbital Myiasis Secondary to Neglected Medial Canthal Basal Cell Carcinoma Caused by Chrysomya bezziana.",
-        "summary": "Untreated basal cell carcinoma of the eye allowed fly larvae to infest the orbit, successfully treated with larvae removal, antibiotics, and ivermectin.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42263850/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 29100,
+    "archive_count": 29101,
     "archive_supplements": 3061,
     "archive_off_label": 956,
-    "archive_biomarkers": 18501,
+    "archive_biomarkers": 18502,
     "archive_trials": 5829,
     "archive_mind_body": 462
   }
