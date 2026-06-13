@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13T04:12:24.653Z",
+  "last_updated": "2026-06-13T04:12:38.690Z",
   "categories": {
     "supplements": [
       {
@@ -245,6 +245,20 @@
         "added_date": "2026-06-13"
       },
       {
+        "id": "recQvqDCzkLcKKmUk",
+        "title": "Drug repurposing in KRAS G12C-mutant NSCLC: a focus on resistance mechanisms and clinical strategies.",
+        "summary": "Researchers propose repurposing FDA-approved drugs to overcome resistance in KRAS G12C lung cancer, offering combination therapy strategies.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10322125/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 23,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-13"
+      },
+      {
         "id": "recZfhtS96MxRQm3i",
         "title": "Romosozumab for cancer treatment-induced bone loss in postmenopausal women with hormone receptor-positive breast cancer: a case series.",
         "summary": "Romosozumab improved bone strength in postmenopausal women with breast cancer experiencing treatment-related bone loss, without safety concerns observed.",
@@ -403,20 +417,6 @@
         "title": "DPP-4 inhibitor alleviates gut-brain axis pathology in Parkinson's disease.",
         "summary": "DPP-4 inhibitor drugs reduce Parkinson's disease symptoms by blocking harmful protein transmission from the gut to the brain.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/41043862/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-11"
-      },
-      {
-        "id": "recAXImsfwf8VtO5D",
-        "title": "Pulmonary Hydatid Cyst Rupture Associated With Albendazole Commencement: Case Report and Literature Review.",
-        "summary": "Albendazole treatment for pulmonary hydatid cysts may cause dangerous rupture within three weeks of starting therapy.",
-        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13244581/",
         "source": "PubMed",
         "category": "Off-Label Medications",
         "cancer_types": [
@@ -861,8 +861,8 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 28984,
-    "archive_supplements": 3053,
+    "archive_count": 28985,
+    "archive_supplements": 3054,
     "archive_off_label": 954,
     "archive_biomarkers": 18402,
     "archive_trials": 5822,
