@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13T04:26:03.275Z",
+  "last_updated": "2026-06-13T04:26:19.020Z",
   "categories": {
     "supplements": [
       {
@@ -143,6 +143,20 @@
         "added_date": "2026-06-13"
       },
       {
+        "id": "rec6FkpXvI9aFIxFs",
+        "title": "Dihydrotanshinone I as a novel signal transducer and activator of transcription 3 inhibitor for glioblastoma treatment.",
+        "summary": "Dihydrotanshinone I, a new compound, blocks a cancer growth pathway in glioblastoma and can cross the blood-brain barrier.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42277880/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Brain"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-13"
+      },
+      {
         "id": "rec2MqZT62GNx920U",
         "title": "Significance of GSH and H2S regulation for cancer: an intricate interplay between diet, microbiota, metabolic reprogramming, and immune health.",
         "summary": "Cancer cells overproduce protective molecules GSH and H2S to survive stress, offering potential targets for new treatment strategies.",
@@ -195,20 +209,6 @@
           "General"
         ],
         "quality_score": 21,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-12"
-      },
-      {
-        "id": "recWnj1kS83dRZ7gl",
-        "title": "Fisetin Modulates Chemoresistance-Associated miR-21, miR-181a, miR-203, miR-101 and miR-381 in Capecitabine-Resistant HT29 Colorectal Cancer Cells.",
-        "summary": "Fisetin, a natural compound, reverses drug resistance in colorectal cancer by altering five microRNAs that control chemotherapy response.",
-        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7918089/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Colorectal"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-12"
       }
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 29059,
+    "archive_count": 29060,
     "archive_supplements": 3060,
     "archive_off_label": 955,
-    "archive_biomarkers": 18463,
+    "archive_biomarkers": 18464,
     "archive_trials": 5828,
     "archive_mind_body": 462
   }
