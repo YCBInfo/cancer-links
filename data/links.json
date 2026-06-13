@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13T04:07:59.879Z",
+  "last_updated": "2026-06-13T04:08:11.249Z",
   "categories": {
     "supplements": [
       {
@@ -27,6 +27,20 @@
           "General"
         ],
         "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-13"
+      },
+      {
+        "id": "recDcudiPow2epYLV",
+        "title": "Quercetin suppresses the progression of HBV-associated hepatocellular carcinoma by modulating the EGFR signaling pathway.",
+        "summary": "Quercetin, a plant compound, slows hepatocellular carcinoma growth by blocking a key cancer-promoting pathway.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42284354/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
+        "cancer_types": [
+          "Liver"
+        ],
+        "quality_score": 15,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-13"
       },
@@ -197,20 +211,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-12"
-      },
-      {
-        "id": "recOF6Vprp18X6aMg",
-        "title": "Aloe emodin isolated from Cassiae semen upregulates IFITM1 to suppress hepatitis B virus replication via the interferon signaling pathway.",
-        "summary": "Aloe emodin from Cassiae semen suppresses hepatitis B virus replication by activating the interferon immune response pathway.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42274254/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Liver"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-12"
       }
@@ -861,11 +861,11 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 28960,
+    "archive_count": 28961,
     "archive_supplements": 3052,
     "archive_off_label": 954,
     "archive_biomarkers": 18382,
-    "archive_trials": 5819,
+    "archive_trials": 5820,
     "archive_mind_body": 462
   }
 }
