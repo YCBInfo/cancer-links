@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13T04:07:02.793Z",
+  "last_updated": "2026-06-13T04:07:14.697Z",
   "categories": {
     "supplements": [
       {
@@ -796,6 +796,20 @@
         "added_date": "2026-06-13"
       },
       {
+        "id": "rec0SDoayAxvMXI5C",
+        "title": "Targeting TMED4 enhances CD8+ T cell function and CAR T cell efficacy in solid tumors through the IRE1α-autophagy axis.",
+        "summary": "Blocking TMED4 protein strengthens immune T cells and CAR T cell therapy against solid tumors by boosting cell autophagy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42284413/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-13"
+      },
+      {
         "id": "recxTrYADNKXKC3oH",
         "title": "Safety and Effectiveness of an Integrative Treatment of Acupuncture-Based Intervention in Survivors of Breast Cancer With Postmastectomy Pain Syndrome: Protocol for a Single-Center, Single-Arm Exploratory Trial.",
         "summary": "Researchers are testing acupuncture as a potential treatment for chronic pain in breast cancer surgery survivors.",
@@ -836,20 +850,6 @@
         "quality_score": 15,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-12"
-      },
-      {
-        "id": "rec5XOFHoYEGYeSf7",
-        "title": "Mes/Stem-A ovarian cancer subtypes predict sensitivity to ATR inhibition.",
-        "summary": "Mesenchymal and Stem-A ovarian cancer subtypes show high replication stress and respond well to ATR inhibitor treatment.",
-        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5796526/",
-        "source": "PubMed",
-        "category": "Biomarkers & Diagnostics",
-        "cancer_types": [
-          "Ovarian"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-12"
       }
     ],
     "mind_body": []
@@ -861,10 +861,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 28955,
+    "archive_count": 28956,
     "archive_supplements": 3051,
     "archive_off_label": 954,
-    "archive_biomarkers": 18378,
+    "archive_biomarkers": 18379,
     "archive_trials": 5819,
     "archive_mind_body": 462
   }
