@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13T04:24:17.871Z",
+  "last_updated": "2026-06-13T04:24:27.859Z",
   "categories": {
     "supplements": [
       {
@@ -271,6 +271,20 @@
         "added_date": "2026-06-13"
       },
       {
+        "id": "recCAtM1x3T0calh6",
+        "title": "β3-adrenergic blockade targets fatty acid oxidation to induce ferroptotic vulnerability in pediatric T-ALL.",
+        "summary": "Blocking a specific receptor in pediatric T-cell leukemia disrupts cancer cell metabolism and triggers a form of cell death, offering a potential new treatment approach.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42277944/",
+        "source": "PubMed",
+        "category": "Off-Label Medications",
+        "cancer_types": [
+          "Leukemia"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-13"
+      },
+      {
         "id": "recZfhtS96MxRQm3i",
         "title": "Romosozumab for cancer treatment-induced bone loss in postmenopausal women with hormone receptor-positive breast cancer: a case series.",
         "summary": "Romosozumab improved bone strength in postmenopausal women with breast cancer experiencing treatment-related bone loss, without safety concerns observed.",
@@ -407,20 +421,6 @@
           "General"
         ],
         "quality_score": 12,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-11"
-      },
-      {
-        "id": "recMH1C8nV1dpzubz",
-        "title": "Attenuation of ABCG2-dependent drug efflux by befotertinib restores chemosensitivity in multidrug-resistant non-small cell lung cancer cells.",
-        "summary": "Befotertinib, an EGFR inhibitor, restores chemotherapy effectiveness in drug-resistant lung cancer by blocking a protein that pumps drugs out of tumor cells.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42263496/",
-        "source": "PubMed",
-        "category": "Off-Label Medications",
-        "cancer_types": [
-          "Lung"
-        ],
-        "quality_score": 15,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-11"
       }
@@ -859,10 +859,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 29049,
+    "archive_count": 29050,
     "archive_supplements": 3060,
     "archive_off_label": 955,
-    "archive_biomarkers": 18455,
+    "archive_biomarkers": 18456,
     "archive_trials": 5826,
     "archive_mind_body": 462
   }
