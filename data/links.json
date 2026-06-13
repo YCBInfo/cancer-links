@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13T04:04:56.448Z",
+  "last_updated": "2026-06-13T04:05:07.326Z",
   "categories": {
     "supplements": [
       {
@@ -9,6 +9,20 @@
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13252948/",
         "source": "PubMed",
         "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "General"
+        ],
+        "quality_score": 12,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-13"
+      },
+      {
+        "id": "recu0zazOPGDBGowT",
+        "title": "Icariin from Epimedium: A Multi-Target Natural Flavonoid and Its Multi-Disease Therapeutic Potential.",
+        "summary": "Icariin, a natural compound from Epimedium herb, shows promise against cancer and multiple diseases through anti-inflammatory and antitumor effects.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42281525/",
+        "source": "PubMed",
+        "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "General"
         ],
@@ -195,20 +209,6 @@
         "category": "Supplements & Nutraceuticals",
         "cancer_types": [
           "Liver"
-        ],
-        "quality_score": 15,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-12"
-      },
-      {
-        "id": "reclHBEzepD6rS3SY",
-        "title": "Ketogenic Diet and β-Hydroxybutyrate Suppress Bladder Cancer Growth and Enhance Anti-PD-L1 Immunotherapy Efficacy.",
-        "summary": "A ketogenic diet and its metabolite β-hydroxybutyrate slow bladder cancer growth and boost immunotherapy effectiveness.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42274090/",
-        "source": "PubMed",
-        "category": "Supplements & Nutraceuticals",
-        "cancer_types": [
-          "Bladder"
         ],
         "quality_score": 15,
         "pub_date": "2026-06-01",
@@ -712,6 +712,20 @@
         "added_date": "2026-06-13"
       },
       {
+        "id": "recOuLhNA1Qnvs3R4",
+        "title": "Tumor cell-intrinsic NSUN2 deficiency reprograms macrophages to sensitize non-small cell lung cancer to EGFR inhibitors by reversing immune evasion.",
+        "summary": "Disabling NSUN2 in lung cancer cells reverses drug resistance by reprogramming immune cells to attack tumors, restoring EGFR inhibitor effectiveness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42284680/",
+        "source": "PubMed",
+        "category": "Biomarkers & Diagnostics",
+        "cancer_types": [
+          "Lung"
+        ],
+        "quality_score": 15,
+        "pub_date": "2026-06-01",
+        "added_date": "2026-06-13"
+      },
+      {
         "id": "recxTrYADNKXKC3oH",
         "title": "Safety and Effectiveness of an Integrative Treatment of Acupuncture-Based Intervention in Survivors of Breast Cancer With Postmastectomy Pain Syndrome: Protocol for a Single-Center, Single-Arm Exploratory Trial.",
         "summary": "Researchers are testing acupuncture as a potential treatment for chronic pain in breast cancer surgery survivors.",
@@ -836,20 +850,6 @@
         "quality_score": 15,
         "pub_date": "2026-06-01",
         "added_date": "2026-06-12"
-      },
-      {
-        "id": "recqF92ay2zcl7SE8",
-        "title": "Sociodemographic Paradoxes and Enrollment Differences in In-Person Versus Online Recruitment to a Mobile Health Smoking Cessation Intervention for Food-Insecure Adults: Secondary Analysis of a Randomized Controlled Trial.",
-        "summary": "A smoking cessation mobile health program recruited food-insecure adults differently through in-person versus online methods, with important demographic variations between groups.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42275630/",
-        "source": "PubMed",
-        "category": "Clinical Trials",
-        "cancer_types": [
-          "General"
-        ],
-        "quality_score": 21,
-        "pub_date": "2026-06-01",
-        "added_date": "2026-06-12"
       }
     ],
     "mind_body": []
@@ -861,10 +861,10 @@
     "trials": 15,
     "mind_body": 0,
     "total": 60,
-    "archive_count": 28945,
+    "archive_count": 28946,
     "archive_supplements": 3051,
     "archive_off_label": 954,
-    "archive_biomarkers": 18368,
+    "archive_biomarkers": 18369,
     "archive_trials": 5819,
     "archive_mind_body": 462
   }
